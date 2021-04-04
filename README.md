@@ -12,7 +12,7 @@ source climachange_env/bin/activate
 git clone https://github.com/parashar-lonewolf/ClimaChange_Claims.git
 
 ### 5. Move to folder
-cd climachange_claims
+cd ClimaChange_Claims
 
 ### 6. Install requirements
 pip install -r requirements.txt 
