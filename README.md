@@ -36,8 +36,9 @@ data_file: NYT_KyotoConferenceData_clean.txt
 
 2. This brings us to the claim annotations, where we have to select the words to be used as boundaries, i.e
 the first word and the last word of the claim sequence.
-For eg: Ryan Uchiha said "The world is going to hell"
-you select ["The] and [hell"] on the window. and click on "Next"
+For eg:''Europe  adopted a position they knew would force the United States to  out,''
+ said Mr. Anderson, the Canadian environment minister.''
+you select [''Europe] and [out,''] on the window. and click on "Next"
 ![Window 2](https://cdn.mathpix.com/snip/images/zduy_IXZ26doytg3WnNLEIxekxwPJVuI8NptxbJReOU.original.fullsize.png)
 
 3. if you select "Cancel" at WINDOW 1, you remove that sentence from tagging criterias.
@@ -49,4 +50,5 @@ and once you exit and restart, the annotation will continue from the last annota
             b. press "Exit"
             c. rerun the annotator program
 
-
+### ConLL format used: (Using above output as example)
+![ConLL data](https://cdn.mathpix.com/snip/images/5U9XJFTm65qNzJSjBs-GODAAdsxy2AcHUX-77qxJoIc.original.fullsize.png)
