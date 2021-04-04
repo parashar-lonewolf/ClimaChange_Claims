@@ -2,16 +2,16 @@
 pip install virtualenv
 
 ## create a virtual environment
-virtualenv climachange_claims
+virtualenv climachange_env
 
 ## activate virtual environment
-source climachange_claims/bin/activate
+source climachange_env/bin/activate
 
 ## git clone repo
-git clone <>
+git clone https://github.com/parashar-lonewolf/ClimaChange_Claims.git
 
 ## move to folder
-cd <>
+cd climachange_claims
 
 ## install requirements
 pip install -r requirements.txt 
