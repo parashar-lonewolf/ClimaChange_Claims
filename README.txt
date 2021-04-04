@@ -45,5 +45,5 @@ WINDOW 2
 6. In case, you made a mistake in the annoatation, the current version addresses the issue as:
             a.  Click on "Save Prev Annotations"
             b. press "Exit"
-            c. rerun the annoattor program
+            c. rerun the annotator program
 #######################################################################################################
