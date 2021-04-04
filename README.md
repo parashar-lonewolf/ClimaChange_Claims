@@ -46,9 +46,12 @@ you select [''Europe] and [out,''] on the window. and click on "Next"
 5. If you select save, it will save all current progress of dataset annotations,
 and once you exit and restart, the annotation will continue from the last annotation point.
 6. In case, you made a mistake in the annoatation, the current version addresses the issue as:
-            a.  Click on "Save Prev Annotations"
-            b. press "Exit"
-            c. rerun the annotator program
+
+*click on "Save Prev Annotations"*
+
+*press "Exit"*
+
+*rerun the annotator program*
 
 ### ConLL format used: (Using above output as example)
 ![ConLL data](https://cdn.mathpix.com/snip/images/5U9XJFTm65qNzJSjBs-GODAAdsxy2AcHUX-77qxJoIc.original.fullsize.png)
