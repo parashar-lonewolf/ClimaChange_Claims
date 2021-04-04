@@ -45,7 +45,7 @@ you select [''Europe] and [out,''] on the window. and click on "Next"
 4. if you select "Exit" the prgram ends and only writes till last completely tagged article
 5. If you select save, it will save all current progress of dataset annotations,
 and once you exit and restart, the annotation will continue from the last annotation point.
-6. In case, you made a mistake in the annoatation, the current version addresses the issue as:
+6. In case, you made a mistake in the annotation, the current version addresses the issue as:
 
 *click on "Save Prev Annotations"*
 
