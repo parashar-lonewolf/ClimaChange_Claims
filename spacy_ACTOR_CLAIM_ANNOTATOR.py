@@ -52,9 +52,9 @@ if(os.path.exists(SAVE_DATA)):
 	save_text = save_text.split()
 	restart_index = int(save_text[0])
 
-half = int(len(textlist)/2)+(len(textlist)%2)
-Ian_textlist = textlist[:half]
-Ank_textlist = textlist[half:]
+#half = int(len(textlist)/2)+(len(textlist)%2)
+#Ian_textlist = textlist[:half]
+#Ank_textlist = textlist[half:]
 ####################################################################
 ##sg.Window(title='Loading', background_color='#FFFFFF', layout=layout, size=(500, 250), location=window_location)
 ## GUI for annotation
@@ -252,7 +252,7 @@ if(os.path.exists(SAVE_DATA)):
 ## for iterating per paragraph in text
 #def textlist_iter(i):
 
-for i in Ank_textlist:
+for i in textlist[restart_index:]:
 	fin_text   = ""
 	new_text_2 = ""
 	##################################
