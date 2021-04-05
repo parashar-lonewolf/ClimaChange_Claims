@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Sat Mar 27 13:25:00 2021
-@author: de.illusionist
+Created on Sat Mar 20 15:05:00 2021
+@author: de.illusionist, cloppy2
 """
 
 
@@ -64,8 +64,6 @@ def _main():
 
 	####################################################################
 	## Empty lists for storing processed text
-	full_text = []
-	full_text_2 =[]
 	n_cnt = 1
 	n_line = 0
 	progress_line = 0
@@ -95,8 +93,8 @@ def _main():
 ## GUI for annotation
 def gui_creator(text,save_text,ident,SAVE_DATA):
 	## basic properties of windows
-	location = (200,500)
-	size=(800, 800)
+	location = (200,300)
+	size=(700, 350)
 	num_buttons = []
 	## splitting the text for buttoning them up
 	for t in text.split():
@@ -285,12 +283,16 @@ def SAVE_DATA_fun(save_data,SAVE_DATA):
 ############################################################################################
 #def textlist_iter(i):
 def repeat_annotator(i,nlp,saved_anno,n_cnt,tot_articles,n_line,progress_line,found,SAVE_DATA,OUTPUT_FILE,ConLL_FILE):
-	fin_text   = ""
-	new_text_2 = ""
+
+	yn = ""
+	nn = ""
 	##################################
 	## for non-zero input from text        	
 	if(len(i)>0):
-		print("n_cnt :"+str(n_cnt))
+		print("Article no :"+str(n_cnt))
+		text_file_2 = open(OUTPUT_FILE, "a")
+		text_file_2.write(str("\nArticle no :"+str(n_cnt)+"\n"))
+		text_file_2.close()
 		# default initialize for func: convert_to_ConLL(doc, new_text, ind, a, b)
 		a = ""
 		b = ""
@@ -331,8 +333,11 @@ def repeat_annotator(i,nlp,saved_anno,n_cnt,tot_articles,n_line,progress_line,fo
 			temp_text_0 = s
 			if(yesno[0] == 0):
 			        print("NOT FOUND")
-			        new_text_2  = new_text_2 + "\n" + temp_text_0
-			##################################
+			        convert_to_ConLL(doc, temp_text_0, ind, a, b, '', ConLL_FILE)
+			        text_file_2 = open(OUTPUT_FILE, "a")
+			        text_file_2.write(temp_text_0)
+			        text_file_2.close()
+			        ##################################
 			## if PER/ORG found, ANNOTATE
 			else:
 			        ent = k[yesno[1]]
@@ -427,29 +432,28 @@ def repeat_annotator(i,nlp,saved_anno,n_cnt,tot_articles,n_line,progress_line,fo
 
 	        	        	##################################
 	        	        	## for the BIG TEXT variable to be written later
-	        	        	new_text_2 =  new_text_2 + "\n" + temp_text_1
+	        	        	# new_text_2 =  new_text_2 + "\n" + temp_text_1
 	        	        	## covert and tag the conLL format
 	        	        	convert_to_ConLL(doc, temp_text_1, ind, a, b, pol, ConLL_FILE)
-
+	        	        	text_file_2 = open(OUTPUT_FILE, "a")
+	        	        	text_file_2.write(temp_text_1)
+	        	        	text_file_2.close()
 	        	        ##############################
 	        	        ## if NOT ACCEPTED for tagging
 			        elif(yn=='Exit'):
-	        	        	return 0
+	        	        	return (0,found)
 			        else:
-	        	        	new_text_2 =  new_text_2 + "\n" + temp_text_0
+	        	        	# new_text_2 =  new_text_2 + "\n" + temp_text_0
 	        	        	## covert and tag the conLL format
 	        	        	convert_to_ConLL(doc, temp_text_0, ind, a, b, '', ConLL_FILE) 
-	        	        	#break
+	        	        	text_file_2 = open(OUTPUT_FILE, "a")
+	        	        	text_file_2.write(temp_text_0)
+	        	        	text_file_2.close()
 
 
 		if(nn == 'Exit' or yn == 'Exit'):
-	        	return 0
-		fin_text = new_text_2
+	        	return (0,found)
 		n_cnt +=1
-		## human tag format
-		text_file_2 = open(OUTPUT_FILE, "a")
-		text_file_2.write(fin_text)
-		text_file_2.close()
 		return (n_cnt,found)
 	return (n_cnt,found)
 
