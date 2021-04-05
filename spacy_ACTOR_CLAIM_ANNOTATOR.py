@@ -51,6 +51,7 @@ if(os.path.exists(SAVE_DATA)):
 	save_text = open(SAVE_DATA).read()
 	save_text = save_text.split()
 	restart_index = int(save_text[0])
+	print("restart_index :"+str(restart_index))
 
 #half = int(len(textlist)/2)+(len(textlist)%2)
 #Ian_textlist = textlist[:half]
@@ -83,6 +84,7 @@ def gui_creator(text,save_text,ident):
 			[j for j in num_buttons[(int(l/4)+(l%4)):2*(int(l/4)+(l%4))]],
 			[k for k in num_buttons[2*(int(l/4)+(l%4)):3*(int(l/4)+(l%4))]],
 			[h for h in num_buttons[3*(int(l/4)+(l%4)):4*(int(l/4)+(l%4))]],
+        	        [ sg.Button('Pro Environment',button_color=('gold', 'Red')),sg.Button('Against Environment',button_color=('yellow', 'black'))],
         	        [ sg.Button('Next',button_color=('yellow', 'Red'))],
         	        [sg.Button('Exit',button_color=('yellow', 'Red'))],
         	        [sg.Button('Save Prev annotations',button_color=('Red', 'white'))],
@@ -240,6 +242,7 @@ tot_articles = len(textlist)
 ## for checking and restarting annotation from save checkpoint
 saved_anno = False
 if(os.path.exists(SAVE_DATA)):
+	n_cnt = restart_index
 	saved_anno = True
 	tot_articles = int(save_text[1])
 	n_line = int(save_text[2])
@@ -252,7 +255,7 @@ if(os.path.exists(SAVE_DATA)):
 ## for iterating per paragraph in text
 #def textlist_iter(i):
 
-for i in textlist[restart_index:]:
+for i in textlist[2*restart_index:]:
 	fin_text   = ""
 	new_text_2 = ""
 	##################################
