@@ -54,8 +54,8 @@ if(os.path.exists(SAVE_DATA)):
 	print("restart_index :"+str(restart_index))
 
 #half = int(len(textlist)/2)+(len(textlist)%2)
-#Ian_textlist = textlist[:half]
-#Ank_textlist = textlist[half:]
+#Ian_textlist = textlist[:(half+(2*restart_index))]
+#Ank_textlist = textlist[(half+(2*restart_index)):]
 ####################################################################
 ##sg.Window(title='Loading', background_color='#FFFFFF', layout=layout, size=(500, 250), location=window_location)
 ## GUI for annotation
