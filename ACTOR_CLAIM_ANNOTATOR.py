@@ -119,7 +119,7 @@ def gui_creator(text,save_text,ident,SAVE_DATA):
 			[j for j in num_buttons[(int(l/4)+(l%4)):2*(int(l/4)+(l%4))]],
 			[k for k in num_buttons[2*(int(l/4)+(l%4)):3*(int(l/4)+(l%4))]],
 			[h for h in num_buttons[3*(int(l/4)+(l%4)):4*(int(l/4)+(l%4))]],
-			[sg.Text("Is the \"CLAIM\" ignoring or helping climate concerns?\tDefault is Neutral"), sg.Text('', key='_OUTPUT_',size=(65,1))],
+			[sg.Text("Is the \"CLAIM\" ignoring or helping climate concerns?\t\t(Default is Neutral)"), sg.Text('', key='_OUTPUT_',size=(65,1))],
         	        [ sg.Button('[Helping]',button_color=('gold', 'Red')),sg.Button('[Ignoring]',button_color=('yellow', 'black'))],
         	        [ sg.Button('Next',button_color=('yellow', 'Red'))],
         	        [sg.Button('Exit',button_color=('yellow', 'Red'))],
