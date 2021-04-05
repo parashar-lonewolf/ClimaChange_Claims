@@ -135,12 +135,12 @@ def gui_creator(text,save_text,ident,SAVE_DATA):
         			SAVE_DATA_fun(save_text,SAVE_DATA)
         			
     			elif event == 'Exit':
-        			return_stuff = ('Exit',0)
+        			return_stuff = ('Exit',0,'')
         			break
     			elif event is None or event == 'Next':
         			return_stuff = (return_words, return_index,Pol)
         			break
-    			elif event is '[Ignoring]' or event == '[Helping]'or event == '[Neutral]':
+    			elif event == '[Ignoring]' or event == '[Helping]':
         			if event is '[Ignoring]':
         				Pol = '-'
 
@@ -158,7 +158,7 @@ def gui_creator(text,save_text,ident,SAVE_DATA):
 	## For tagging actor and accepting a sentence for tagging 
 	elif(ident == 'ACTOR'):
 		mText = 'is there a CLAIM ?'
-		logo = "WINDOW 1 \nYou answer yes by selecting a new actor and/or just clicking 'Next' or 'Cancel' if not a claim"
+		logo = "WINDOW 1 \nYou answer yes by selecting a new actor (from LEFT to RIGHT) and/or just clicking 'Next' or 'Cancel' if not a claim"
 		return_words = ""
 		return_index = []
 		layout = [[sg.Text(logo), sg.Text('', key='_OUTPUT_',size=(65,1))],
@@ -212,7 +212,7 @@ def gui_creator(text,save_text,ident,SAVE_DATA):
 ############################################################################################
 
 #########################CONVERT MARKERS TO TAGS#############################
-def convert_to_ConLL(doc, new_text, index, a, b, pol, ConLL_FILE):
+def convert_to_ConLL(doc, new_text, new_tag, a, b, pol, ConLL_FILE):
 	
 	ConLL_data = ""
 
@@ -220,46 +220,42 @@ def convert_to_ConLL(doc, new_text, index, a, b, pol, ConLL_FILE):
 	## iterate through document 
 	for sent in doc.sents:
         	## C_l = no of claim pairs
+		B_act = 0
+		B_claim = 0
 		k = -1
-		c_l = len(index)
-		if(c_l==2):
-	        	cl_ind = 1
-		else:
-	        	cl_ind = 2
-		
+		hyp = 0
+		new_i = new_tag.split("\n")
+		#print("\n\nNew_tag is "+str(len(new_i))+" long.\n"+str(new_tag)) 
+				
 		for i, word in enumerate(sent):
-	        	Actor_claim_tag = 'O'
+	        	Actor_claim_tag = 'O\t'
                 	########if punct, no word count#######
-	        	if(str(word.dep_)!='punct' and c_l !=0):
-                        	k+=1
-                        	########if claim#######1st claim per actor
-                        	if(k >= index[0] and k <= index[1]):
-                        	        if(k == index[0]):
-                        	                Actor_claim_tag = "B-CLAIM"
-                        	        else:
-                        	                Actor_claim_tag = "I-CLAIM"
-                        	########if actor#######
-                        	elif(k >= a_index[0] and k < a_index[1]):
-                        	        if(k == a_index[0]):
-                        	                Actor_claim_tag = "B-ACT"
-                        	        else:
-                        	                Actor_claim_tag = "I-ACT"
-                        	if(cl_ind == 2):
-                        	        ########if claim#######2nd claim per actor
-                        	        if(k >= index[2] and k <= index[3]):
-                        	                if(k == index[2]):
-                        	                        Actor_claim_tag = "B-CLAIM"
-                        	                else:
-                        	                        Actor_claim_tag = "I-CLAIM"
+	        	if(len(new_i)>1):
+                        	if(str(word)[0]=="'" and str(word.dep_)!='punct'):
+                        		Actor_claim_tag = new_i[k]
 
-	        	ConLL_data += str("%d\t%s\t%s\t%s\t%s\t%s\t%s\n"%(
+                        	elif(str(word.dep_)!='punct' and str(word.tag_) != 'HYPH' and hyp == 0):
+                        		k+=1
+                        		Actor_claim_tag = new_i[k]
+                        	elif(str(word.tag_) == 'HYPH' or hyp == 1):
+                        		if(hyp == 1):
+                        			hyp = 0
+                        			Actor_claim_tag = new_i[k]
+                        		else:
+                        			hyp = 1
+                        			Actor_claim_tag = new_i[k]
+                        		if(new_i[k][0] == "B"):
+                        			Actor_claim_tag = "I"+new_i[k][1:]
+                        			
+                        	
+
+	        	ConLL_data += str("%d\t%s\t%s\t%s\t%s\t%s\n"%(
 	        	i+1, # There's a word.i attr that's position in *doc*
 	        	word,
 	        	word.tag_, # Fine-grained tag
 	        	word.ent_type_,
 	        	word.dep_, # Relation
-                  	Actor_claim_tag, # Actor/claim tag
-                  	pol # polarity of claim with regards to climate concerns
+                  	Actor_claim_tag # Actor/claim tag
 	        	))
 	text_file = open(ConLL_FILE, "a")
 	text_file.write(ConLL_data)
@@ -323,7 +319,7 @@ def repeat_annotator(i,nlp,saved_anno,n_cnt,tot_articles,n_line,progress_line,fo
 			        if(str(entity.label_) == "ORG" or str(entity.label_) == "PERSON"):
 			        	yesno[0]=1
 			        	found += 1
-			        	print("FOUND")
+			        	#print("FOUND")
 			        	break
 			        yesno[1]+=1
 
@@ -332,8 +328,8 @@ def repeat_annotator(i,nlp,saved_anno,n_cnt,tot_articles,n_line,progress_line,fo
 	        	## default sentence
 			temp_text_0 = s
 			if(yesno[0] == 0):
-			        print("NOT FOUND")
-			        convert_to_ConLL(doc, temp_text_0, ind, a, b, '', ConLL_FILE)
+			        #print("NOT FOUND")
+			        convert_to_ConLL(doc, temp_text_0, '', '', '', '', ConLL_FILE)
 			        text_file_2 = open(OUTPUT_FILE, "a")
 			        text_file_2.write(temp_text_0)
 			        text_file_2.close()
@@ -390,19 +386,26 @@ def repeat_annotator(i,nlp,saved_anno,n_cnt,tot_articles,n_line,progress_line,fo
 	        	        	a_i = a.split()  	## the part of sentence before the actor
 	        	        	b_i = b.split()  	## the actor
 	        	        	##################################### Converting GUI input into marker Tags #########################################
+	        	        	new_tag = ""
 	        	        	for i in ind:
 	        	        		#####################################
 	        	        		## EVEN NUMBER COUNT:2,4
 	        	        		if((cl_count%2)==0):	########## sequence in which they might appear
 	        	        			if(i<len(a_i)):		## COUNT 2
 	        	        				temp = t_split[xx:(i-1)]+[" "+t_split[i]+"//\n"]
+	        	        				new_tag+=len(t_split[xx:(i+1)])*str("I-CLAIM\t"+pol+"\n")
 	        	        				s2 += temp							########## 2
 	        	        				xx = i+1
 	        	        				s2+= t_split[xx:len(a_i)]+[" \n<<"+b+">>\n "]			########## 3
+	        	        				new_tag+=len(t_split[xx:len(a_i)])*"O\t\n"
+	        	        				new_tag+="B-ACT\t\n"
+	        	        				new_tag+=(len(b_i)-1)*"I-ACT\t\n"
 	        	        				xx = len(a_i)+len(b_i)+2
 	        	        				actor_done = 1
 	        	        			else:			## COUNT 4
 	        	        				temp = t_split[xx:(i-1)]+[" "+t_split[i]+"//\n"]+t_split[(i+1):]
+	        	        				new_tag+=len(t_split[xx:(i+1)])*str("I-CLAIM\t"+pol+"\n")
+	        	        				new_tag+=len(t_split[(i+1):])*"O\t\n"
 	        	        				s2 += temp							########## 6
 	        	        				xx = i
 	        	        		#####################################
@@ -410,31 +413,38 @@ def repeat_annotator(i,nlp,saved_anno,n_cnt,tot_articles,n_line,progress_line,fo
 	        	        		else:
 	        	        			if(i<len(a_i)):		## COUNT 1
 	        	        				temp = t_split[xx:i]+[" \n//"+t_split[i]+" "]
+	        	        				new_tag+=len(t_split[xx:i])*"O\t\n"
+	        	        				new_tag+=str("B-CLAIM\t"+pol+"\n")
 	        	        				s2 += temp							########## 1
 	        	        				xx = i+1
 	        	        			else:
 	        	        				if(actor_done == 0 ):		## COUNT 3
 	        	        					s2+= t_split[xx:len(a_i)]+[" \n<<"+b+">>\n "]		########## 4
+	        	        					new_tag+=len(t_split[xx:len(a_i)])*"O\t\n"
+	        	        					new_tag+="B-ACT\t\n"
+	        	        					new_tag+=(len(b_i)-1)*"I-ACT\t\n"
 	        	        					xx = len(a_i)+len(b_i)+2
 	        	        					actor_done = 1
 	        	        				temp = t_split[xx:i]+[" \n//"+t_split[i]+" "]
+	        	        				new_tag+=len(t_split[xx:i])*"O\t\n"
+	        	        				new_tag+=str("B-CLAIM\t"+pol+"\n")
 	        	        				s2 += temp							########## 5
 	        	        				xx = i+1
 
 
 	        	        		## claim tag count
 	        	        		cl_count += 1
-
+	        	        	new_tag+=len(t_split[(i+1):])*"O\t\n"
 	        	        	###############################################################################################################
 
 	        	        	temp_text_1 = " ".join(s2)
-	        	        	print(temp_text_1) 
+	        	        	#print(temp_text_1) 
 
 	        	        	##################################
 	        	        	## for the BIG TEXT variable to be written later
 	        	        	# new_text_2 =  new_text_2 + "\n" + temp_text_1
 	        	        	## covert and tag the conLL format
-	        	        	convert_to_ConLL(doc, temp_text_1, ind, a, b, pol, ConLL_FILE)
+	        	        	convert_to_ConLL(doc, temp_text_1, new_tag, a, b, pol, ConLL_FILE)
 	        	        	text_file_2 = open(OUTPUT_FILE, "a")
 	        	        	text_file_2.write(temp_text_1)
 	        	        	text_file_2.close()
@@ -445,7 +455,7 @@ def repeat_annotator(i,nlp,saved_anno,n_cnt,tot_articles,n_line,progress_line,fo
 			        else:
 	        	        	# new_text_2 =  new_text_2 + "\n" + temp_text_0
 	        	        	## covert and tag the conLL format
-	        	        	convert_to_ConLL(doc, temp_text_0, ind, a, b, '', ConLL_FILE) 
+	        	        	convert_to_ConLL(doc, temp_text_0, '', '', '', '', ConLL_FILE) 
 	        	        	text_file_2 = open(OUTPUT_FILE, "a")
 	        	        	text_file_2.write(temp_text_0)
 	        	        	text_file_2.close()
@@ -466,4 +476,5 @@ _main()
 ###############################################################################################################
 ##################################PROGRAM END##################################################################
 ###############################################################################################################
+
 
