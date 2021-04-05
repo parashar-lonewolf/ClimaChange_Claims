@@ -24,9 +24,9 @@ data_file: NYT_KyotoConferenceData_clean.txt
 
 ## Instructions for using the Annotator :
 
-## The first window will have ask
+## There will be windows that will ask you questions
 ### WINDOW 1. 
-"'So do you think this has a CLAIM ?'
+"'Is there a CLAIM ?'
 
 1. You answer yes by selecting a new actor and/or just clicking "Next"
 ![Window 1](https://cdn.mathpix.com/snip/images/l84NuUtIWpOn2dMH854MHh8kTqtPhRJpxBjx91VuFH8.original.fullsize.png)
