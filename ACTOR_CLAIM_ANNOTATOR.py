@@ -109,7 +109,7 @@ def gui_creator(text,save_text,ident,SAVE_DATA):
 	PROGRESS_BAR = save_data[0]+" article out of "+save_data[1]+"\t||\t"+save_data[3]+" lines out of "+save_data[2]+"\t||\t"+save_data[4]+" valid sentences"
 	## For tagging Claim, begin and end words 
 	if(ident == 'CLAIM'):
-		Pol = ''
+		Pol = '0'
 		mText = 'Select the Claim boundaries'
 		logo = "WINDOW 2 \nSelect the words to be used as claim sequence boundaries"
 		return_words = []
