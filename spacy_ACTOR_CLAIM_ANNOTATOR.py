@@ -235,7 +235,7 @@ nlp = spacy.load('en_core_web_sm')
 full_text = []
 full_text_2 =[]
 n_cnt = 1
-tot_articles = len(Ank_textlist)
+tot_articles = len(textlist)
 ##################################
 ## for checking and restarting annotation from save checkpoint
 saved_anno = False
