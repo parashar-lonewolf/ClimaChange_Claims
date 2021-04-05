@@ -18,7 +18,7 @@ cd ClimaChange_Claims
 pip install -r requirements.txt 
 
 ### 7. Run Annotator
-python  ACTOR_CLAIM_ANNOTATOR.py 
+python  spacy_ACTOR_CLAIM_ANNOTATOR.py 
 
 data_file: NYT_KyotoConferenceData_clean.txt
 
@@ -29,17 +29,17 @@ data_file: NYT_KyotoConferenceData_clean.txt
 "'So do you think this has a CLAIM ?'
 
 1. You answer yes by selecting a new actor and/or just clicking "Next"
-![Window 1](https://cdn.mathpix.com/snip/images/XGYC-RtOBgZ8Q6Q0gZakJ3YR16POXr2qbuO9ELTNdIo.original.fullsize.png)
+![Window 1](https://cdn.mathpix.com/snip/images/l84NuUtIWpOn2dMH854MHh8kTqtPhRJpxBjx91VuFH8.original.fullsize.png)
 
 ### WINDOW 2
 'Select the Claim boundaries'
 
 2. This brings us to the claim annotations, where we have to select the words to be used as boundaries, i.e
 the first word and the last word of the claim sequence.
-For eg:''Europe  adopted a position they knew would force the United States to  out,''
- said Mr. Anderson, the Canadian environment minister.''
-you select [''Europe] and [out,''] on the window. and click on "Next"
-![Window 2](https://cdn.mathpix.com/snip/images/zduy_IXZ26doytg3WnNLEIxekxwPJVuI8NptxbJReOU.original.fullsize.png)
+For eg: A recent study in the journal Nature  confirmed that the freezing levels in the mountains have indeed 
+shifted upward about 500 feet since 1970, representing a warming of close to 2 Fahrenheit.
+you select [that] and [Fahrenheit.] on the window. choose  POLrity for the Claim and click on "Next"
+![Window 2](https://cdn.mathpix.com/snip/images/-Io3tJ3axVg6pUSTEb_GLIMlE5oiangjQH3OjU9hwao.original.fullsize.png)
 
 3. if you select "Cancel" at WINDOW 1, you remove that sentence from tagging criterias.
 4. if you select "Exit" the prgram ends and only writes till last completely tagged article
@@ -55,3 +55,4 @@ and once you exit and restart, the annotation will continue from the last annota
 
 ### ConLL format used: (Using above output as example)
 ![ConLL data](https://cdn.mathpix.com/snip/images/5U9XJFTm65qNzJSjBs-GODAAdsxy2AcHUX-77qxJoIc.original.fullsize.png)
+
