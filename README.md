@@ -18,7 +18,7 @@ cd ClimaChange_Claims
 pip install -r requirements.txt 
 
 ### 7. Run Annotator
-python  ACTOR_CLAIM_ANNOTATOR.py 
+python  spacy_ACTOR_CLAIM_ANNOTATOR.py 
 
 data_file: NYT_KyotoConferenceData_clean.txt
 
@@ -54,5 +54,5 @@ and once you exit and restart, the annotation will continue from the last annota
 *rerun the annotator program*
 
 ### ConLL format used: (Using above output as example)
-![ConLL data](https://cdn.mathpix.com/snip/images/5U9XJFTm65qNzJSjBs-GODAAdsxy2AcHUX-77qxJoIc.original.fullsize.png)
+![ConLL data](https://cdn.mathpix.com/snip/images/3NRwIPrDCyKA02zuS8zMF5P_TozgF0RPSrPx0PyrvF0.original.fullsize.png)
 
