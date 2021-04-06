@@ -1,9 +1,11 @@
 ## For Linux/Ubuntu based systems:
 ### 1. Install python virtualenv:
-pip install virtualenv
+pip install virtualenv 
 
 ### 2. Create a virtual environment
 virtualenv climachange_env
+OR
+python -m virtualenv climachange_env 
 
 ### 3. Activate virtual environment
 source climachange_env/bin/activate
