@@ -22,7 +22,7 @@ cd ClimaChange_Claims
 pip install -r requirements.txt 
 
 ### 7. Run Annotator
-python  spacy_ACTOR_CLAIM_ANNOTATOR.py 
+python  ACTOR_CLAIM_ANNOTATOR.py 
 
 data_file: NYT_KyotoConferenceData_clean.txt
 
