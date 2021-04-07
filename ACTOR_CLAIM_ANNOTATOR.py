@@ -137,11 +137,12 @@ def gui_creator(text,save_text,ident,SAVE_DATA):
     			elif event == 'Exit':
         			return_stuff = ('Exit',0,'')
         			break
-    			elif event is None or event == 'Next':
-        			return_stuff = (return_words, return_index.sort(),Pol)
+    			elif event == None or event == 'Next':
+        			return_index.sort()
+        			return_stuff = (return_words,return_index ,Pol)
         			break
     			elif event == '[Ignoring]' or event == '[Helping]':
-        			if event is '[Ignoring]':
+        			if event == '[Ignoring]':
         				Pol = '-'
 
         			elif event == '[Helping]':
@@ -182,9 +183,12 @@ def gui_creator(text,save_text,ident,SAVE_DATA):
     			elif event == 'Exit':
         			return_stuff = ('Exit',0)
         			break
-    			elif event is None or event == 'Next':
+    			elif event == None or event == 'Next':
+        			w = return_words.split()
+        			wd = dict(zip(return_index,w))
         			return_index.sort()
-        			return_words = (" ").join([e for i, e in enumerate(return_words) if i in return_index])
+        			return_words = (" ").join([wd[i] for i in return_index])
+        			print("\nreturn_words: "+return_words)
         			return_stuff = (return_words, return_index)
         			break
     			elif event == 'Cancel':
