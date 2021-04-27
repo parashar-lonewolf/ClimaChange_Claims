@@ -28,9 +28,9 @@ data_file: NYT_KyotoConferenceData_clean.txt
 
 ## Instructions for using the Annotator :
 
-## The first window will have ask
+## The first window will ask
 ### WINDOW 1. 
-"'So do you think this has a CLAIM ?'
+"'So do you think this has a CLAIM?'
 
 1. You answer yes by selecting a new actor and/or just clicking "Next"
 ![Window 1](https://cdn.mathpix.com/snip/images/GgCijP3eYTY7_q9RZ9wDhaQPLMIe_LbUcv0Q5JRYbSw.original.fullsize.png)
@@ -39,15 +39,14 @@ data_file: NYT_KyotoConferenceData_clean.txt
 
 2. This brings us to the claim annotations, where we have to select the words to be used as boundaries, i.e
 the first word and the last word of the claim sequence.
-For eg: A recent study in the journal Nature  confirmed that the freezing levels in the mountains have indeed 
+For example: A recent study in the journal Nature confirmed that the freezing levels in the mountains have indeed 
 shifted upward about 500 feet since 1970, representing a warming of close to 2 Fahrenheit.
 you select [that] and [Fahrenheit.] on the window. Choose a Polarity for the Claim ('+'/[Helping],'-'/[Ignoring] and '0'/[Neutral]) and click on "Next"
 ![Window 2](https://cdn.mathpix.com/snip/images/NX-nirTfLllMaPCywMVH93gqh53jMRSyf45YE-qBMpM.original.fullsize.png)
 
 3. if you select "Cancel" at WINDOW 1, you remove that sentence from tagging criterias.
-4. if you select "Exit" the prgram ends and only writes till last completely tagged article
-5. If you select save, it will save all current progress of dataset annotations,
-and once you exit and restart, the annotation will continue from the last annotation point.
+4. if you select "Exit" the programme ends and only writes until the last fully tagged article
+5. If you select save, it will save all current progress of dataset annotations. Once you exit and restart, the annotation will continue from the last annotation point.
 6. In case, you made a mistake in the annotation, the current version addresses the issue as:
 
 *click on "Save Prev Annotations"*
