@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Warm Weather Blues</title>
+    <meta content="L05WAR$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1166153"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE6DC163BF936A35752C0A9669C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Warm Weather Blues</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Jan. 3 news article ''A Touch of Spring Knocks the Chill Off New York'' trivializes the tragedy of global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Jan. 3 news article ''A Touch of Spring Knocks the Chill Off New York'' trivializes the tragedy of global warming.</p>
+        <p>The freedom to take your shirt off in January is not everyone's idea of heaven. Quite the contrary. Many of us feel trapped in a world gone crazy that we never asked for. Who speaks for us?</p>
+        <p>MICHAEL DE NOLA  New York, Jan. 3, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

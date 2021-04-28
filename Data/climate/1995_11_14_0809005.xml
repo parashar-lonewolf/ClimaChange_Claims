@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Biodiversity Study Sees More Species in Danger</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="809005"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ANIMALS</classifier>
+        <classifier class="indexing_service" type="descriptor">ENDANGERED AND EXTINCT SPECIES</classifier>
+        <classifier class="indexing_service" type="descriptor">FLOWERS AND PLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <org class="indexing_service">UNITED NATIONS (UN) UNITED NATIONS</org>
+        <person class="indexing_service">HILCHEY, TIM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E6D81539F937A25752C1A963958260" item-length="491" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Biodiversity Study Sees More Species in Danger</hl1>
+      </hedline>
+      <byline class="print_byline">By TIM HILCHEY</byline>
+      <byline class="normalized_byline">HILCHEY, TIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HUMAN activities like farming, logging and commercial fishing are endangering plants, animals and entire ecosystems at much higher rates than ever before in recorded history, according to a report issued by the United Nations Environment Program.</p>
+        <p>The document, the Global Biodiversity Assessment (Cambridge University Press, $44.95), is being described by the United Nations as the first comprehensive, peer-reviewed report ever to examine earth's biodiversity.</p>
+      </block>
+      <block class="full_text">
+        <p>HUMAN activities like farming, logging and commercial fishing are endangering plants, animals and entire ecosystems at much higher rates than ever before in recorded history, according to a report issued by the United Nations Environment Program.</p>
+        <p>The document, the Global Biodiversity Assessment (Cambridge University Press, $44.95), is being described by the United Nations as the first comprehensive, peer-reviewed report ever to examine earth's biodiversity.</p>
+        <p>This is the first time that a thousand scientists from more than 50 countries have gotten together to write a single document on the state of biological diversity," said Robert T. Watson, a member of the White House Office of Science and Technology Policy who headed the Global Biodiversity Assessment project.</p>
+        <p>Since genetic variation is the basis for evolution, diversity of genes and species "affects the ability of ecological communities to resist or recover from environmental change, including long-term climatic change," said a summary that  accompanied the report.</p>
+        <p>The document is being released today at the second Conference of Parties to the Convention on Biological Diversity, which is being held in Jakarta, Indonesia. Some 1,000 governmental officials worldwide are attending the two-week conference, which will end on Friday.</p>
+        <p>Although the United States Senate has not ratified the Convention on Biological Diversity, which was signed by some 160 countries at the United Nations Conference on Environment and Development held in Rio de Janeiro in 1992, Dr. Watson and other representatives of the Clinton Administration are attending the meeting.</p>
+        <p>"There's an educational issue here and the U.S. and other rich nations must lead by example," Dr. Watson said in a telephone interview. "We should not only  conserve and protect our environment for moral, ethical and esthetic reasons, but also because there is more economic value in the protection of biodiversity  than in its destruction."</p>
+        <p>Just as scientific reports on ozone depletion and global climate change have  helped nations agree on policies to address these issues, Dr. Watson said, the contributors hope the biodiversity assessment will help people, from policy makers to farmers and fishermen, reach the three main objectives of the biodiversity convention: "the conservation of biological biodiversity, the sustainable use of its components and the fair and equitable sharing of benefits arising from utilization of genetic resources."</p>
+        <p>Among its many findings, the report concludes that at least 4,000 plants and  5,400 animals are threatened with extinction; that species have recently become  extinct at 50 to 100 times the average expected natural rate; that only some 1.75 million, or about 13 percent of the 13 million to 14 million species on earth, have been scientifically identified, and that economic markets continue to underestimate the role biodiversity plays in major areas like air and water quality, global climate and scientific efforts to produce higher yielding, pest-resistant crops.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

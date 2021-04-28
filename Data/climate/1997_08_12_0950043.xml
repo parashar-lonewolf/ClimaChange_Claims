@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="12QNA" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="950043"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Yeast</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970812T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6D9113CF931A2575BC0A961958260" item-length="296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Science Q&amp;A on nature of yeast; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Nature of Yeast</p>
+        <p>Q. What is the stuff that comes in yeast packages? Why doesn't it die in the sealed package?</p>
+        <p>A. Yeasts are simple one-celled plants, members of the large Ascomycetes family of funguses. The powder or cake sold for baking is billions of cells of one of 160 or so useful funguses that are called yeast. Commercial bakers' yeast is a pure, selected strain of Saccharomyces cerevisiae. It is a ''tame'' yeast, raised in factories on a solution of aerated molasses, as opposed to wild yeast strains, almost ubiquitous in soil and on plants.</p>
+      </block>
+      <block class="full_text">
+        <p>The Nature of Yeast</p>
+        <p>Q. What is the stuff that comes in yeast packages? Why doesn't it die in the sealed package?</p>
+        <p>A. Yeasts are simple one-celled plants, members of the large Ascomycetes family of funguses. The powder or cake sold for baking is billions of cells of one of 160 or so useful funguses that are called yeast. Commercial bakers' yeast is a pure, selected strain of Saccharomyces cerevisiae. It is a ''tame'' yeast, raised in factories on a solution of aerated molasses, as opposed to wild yeast strains, almost ubiquitous in soil and on plants.</p>
+        <p>You can catch your own ''wild'' yeast in the form of sour dough starter, leaving food like milk out in the open to capture whatever stray yeasts are wandering by (mostly Saccharomyces exiguus) and then saving a bit of dough from each batch of bread to start the next, but commercial yeasts are pedigreed and consistent from batch to batch.</p>
+        <p>Bread yeast ferments sugar to produce alcohol, carbon dioxide and heat. The carbon dioxide gas bubbles make the bread rise, and the alcohol evaporates. Edible yeasts, which also make beer and wine, synthesize protein, vitamins and enzymes, and dried yeast is highly nutritious.</p>
+        <p>In 1876, Louis Pasteur demonstrated that yeast, especially bread yeast, can shift its metabolism from fermentation to oxidation in the presence of air, a shift called the Pasteur effect; oxidation is used in commercial production of yeast. When yeast is sealed in a package and kept cool, it shuts down most of its metabolic activity, waiting for warmth and food to multiply and raise bread.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

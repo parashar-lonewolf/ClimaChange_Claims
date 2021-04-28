@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CNN Halts Companies' Ads Attacking Administration on Warming Treaty</title>
+    <meta content="Y03ENVI" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="962187"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Treaties</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <org class="indexing_service">Cable News Network</org>
+        <person class="indexing_service">Cushman, John H Jr</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E3DE143DF930A35753C1A961958260" item-length="376" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CNN Halts Companies' Ads Attacking Administration on Warming Treaty</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN H. CUSHMAN Jr.</byline>
+      <byline class="normalized_byline">Cushman, John H Jr</byline>
+      <dateline>WASHINGTON, Oct. 2</dateline>
+      <abstract>
+        <p>Cable News Network tells coalition of industrial companies that it will no longer broadcast group's advertisements criticizing Clinton Administration's negotiating stance in international talks on controlling global warming; says it is no longer appropriate for network to carry ads because it is devoting considerable news coverage to debate (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Cable News Network told a coalition of industrial companies today that it would no longer broadcast the group's advertisements criticizing the Clinton Administration's negotiating stance in international talks on controlling global warming.</p>
+        <p>The advertisements, which CNN and local affiliates of other networks have televised for about three weeks, are part of a $13 million campaign led by the energy and automobile industries to head off a treaty that would set binding limits on industrial nations' emissions of greenhouse gases, which come mostly from the burning of fossil fuels. The Administration strongly supports setting those limits.</p>
+      </block>
+      <block class="full_text">
+        <p>The Cable News Network told a coalition of industrial companies today that it would no longer broadcast the group's advertisements criticizing the Clinton Administration's negotiating stance in international talks on controlling global warming.</p>
+        <p>The advertisements, which CNN and local affiliates of other networks have televised for about three weeks, are part of a $13 million campaign led by the energy and automobile industries to head off a treaty that would set binding limits on industrial nations' emissions of greenhouse gases, which come mostly from the burning of fossil fuels. The Administration strongly supports setting those limits.</p>
+        <p>CNN told the industry coalition, the Global Climate Information Project, that it was no longer appropriate for the network to carry the advertisements because it was devoting considerable news coverage to the global-warming debate, said Steve Haworth, vice president for public relations at CNN's news division. Mr. Haworth said the network had a policy against televising advocacy advertisements on issues that it is covering significantly.</p>
+        <p>CNN reviewed the matter, Mr. Haworth said, after the accuracy of the coalition's advertisements had been challenged by the Environmental Information Center, a group that advocates a strong treaty to control global warming. He said that the review had reached no conclusion about the accuracy of the advertisements but that the network would nonetheless televise no advocacy advertisements from either side during the debate leading up to treaty talks in Japan this December.</p>
+        <p>The coalition's advertisements contend that the proposed treaty would be unfair because developing countries would not face its strict limits and that it would harm the American economy by imposing controls on fossil fuel consumption.</p>
+        <p>Industry officials accused the network of censoring their views to control the debate on global warming, and suggested that the move reflected support for environmental causes, and for the United Nations, by Ted Turner, CNN's founder. Mr. Turner recently pledged to donate $1 billion to the United Nations, the sponsor of the treaty negotiations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elastic Device In Insect Wing Is Powerhouse</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="753582"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INSECTS</classifier>
+        <classifier class="indexing_service" type="descriptor">FRUIT FLIES</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <person class="indexing_service">DICKINSON, MICHAEL H (DR)</person>
+        <person class="indexing_service">LEARY, WARREN E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fruit</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3D9153EF934A35757C0A963958260" item-length="764" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elastic Device In Insect Wing Is Powerhouse</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY</byline>
+      <byline class="normalized_byline">LEARY, WARREN E</byline>
+      <dateline>WASHINGTON, April 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Flying insects have elastic mechanisms in their wings that store and release energy, allowing them to minimize the tremendous effort needed to sustain flight, scientists said today.</p>
+        <p>Scientists have long suspected that insects have springlike mechanisms in their wings to recapture energy that would otherwise be wasted as their wings feverishly move up and down. Now, researchers who tethered fruit flies in a sophisticated flight simulator say they have confirmed that insects use such elastic devices to capture energy from one wing stroke to help propel the next.</p>
+      </block>
+      <block class="full_text">
+        <p>Flying insects have elastic mechanisms in their wings that store and release energy, allowing them to minimize the tremendous effort needed to sustain flight, scientists said today.</p>
+        <p>Scientists have long suspected that insects have springlike mechanisms in their wings to recapture energy that would otherwise be wasted as their wings feverishly move up and down. Now, researchers who tethered fruit flies in a sophisticated flight simulator say they have confirmed that insects use such elastic devices to capture energy from one wing stroke to help propel the next.</p>
+        <p>"Our findings suggest that insects in general must be using elastic storage as a means of minimizing energetic flight costs," said Dr. Michael H. Dickinson, an assistant professor of organismal biology and anatomy at the University of Chicago.</p>
+        <p>In a paper being published on Friday in the journal Science, Dr. Dickinson and Dr. John R. B. Lighton of the University of Utah said flight consumed more energy than any other type of locomotion. Flying requires up to 100 times the energy consumption of an insect at rest, they said. By comparison, a trained human athlete running a 100-yard dash uses about 15 times the energy expended by a person standing still.</p>
+        <p>Most of the energy required for flight is dissipated as heat from the muscles used by insects to flap their wings as fast as 1,000 times a second. The remaining mechanical energy goes into power to generate lift, to overcome the drag of air on the wings and to accelerate and decelerate the wings as they reverse directions while stroking up and down, the scientists said.</p>
+        <p>Previous studies of insects' metabolic rates and power outputs suggested that the animals reduced the high cost of flight either by using highly efficient muscles or by recovering some of the inertial power of wing motion through some kind of elastic storage. Dr. Dickinson said his study determined that the fruit fly's flight muscles converted calories to power with only normal efficiency, but that the insect had a means of recapturing at least 10 percent of the energy expended in flapping its wings in one stroke for use in the next.</p>
+        <p>Larger insects that need even more energy for the aerodynamic power to move their mass probably recover more than 50 percent of their wing stroke power, the researchers calculated.</p>
+        <p>Dr. Dickinson said in an interview that the elastic, energy-shifting mechanism appeared to be the wing hinge, a complex of crossing ligaments that he called "the most complicated joint in the animal world."</p>
+        <p>"The insect wing hinge is known to contain the protein resilin, the most elastic biological material known," he said. How this hinge operates is still in large part a mystery, he said, and it is unknown whether it stores and expends energy by compressing or extending the elastic material it contains.</p>
+        <p>In an accompanying commentary on the research, Dr. R. McNeill Alexander of the University of Leeds in England said the new work finally presented clear evidence of the elastic mechanism. Scientists have long believed that the beating of insect wings "is sustained elastically like the vibrations of a tuning fork, that kinetic energy lost by the wings as they are halted at the end of one stroke is stored in springs that recoil elastically to provide the kinetic energy for the next."</p>
+        <p>But Dr. Alexander speculated that for many insects, much of the "spring" might be in the wing muscles themselves. Earlier experiments have shown that the fibrillar type muscles found in bees, wasps, beetles and other bugs can exhibit springlike behavior, making them candidates for energy storage, he noted.</p>
+        <p>To test flight energy, Dr. Dickinson designed a table-top device that he calls "a virtual reality flight simulator" for insects. The researchers tethered Drosophila hydei fruit flies with adhesive to a bar connected to a device that measures the positions of the wing tips in relation to one another by tracking the deflection of a laser beam aimed at a small mirror mounted on the tether. They also measured the frequency of wing beating and the size of each stroke from top to bottom by electronically tracing the shadows of the two wings cast by an infrared light.</p>
+        <p>To measure the energy the flies used as they navigated the simulator, Dr. Lighton, an expert in insect respiration, helped design a system that removed all carbon dioxide from air going into the test chamber. All carbon dioxide coming out of the simulator is therefore produced by the insect as it works and serves as a measure of energy it uses, the researchers said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

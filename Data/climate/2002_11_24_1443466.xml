@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let It Snow!</title>
+    <meta content="LTR105614" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1443466"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Gildner-Blinn, Read</person>
+        <person class="indexing_service">Bradsher, Keith</person>
+        <person class="indexing_service">Levin, Mitchell A</person>
+        <object.title class="indexing_service">High and Mighty (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E7DF1530F937A15752C1A9649C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let It Snow!</hl1>
+      </hedline>
+      <abstract>
+        <p>Read Gildner-Blinn letter comments on Mitchell A Levin's Oct 27 letter defending his right to drive an SUV (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In defense of his right to own and operate an S.U.V., Mitchell A. Levin (Letters, Oct. 27) may gull the innocent New Yorker, but he can't fool the foxy Midwesterner. I grew up in Iowa, lived there until the age of 27 and survived very well, thanks, driving two-wheel-drive vehicles through winters still unmoderated by global warming (where he finds a snowdrift to drive through these days, I can't say). Iowa roads were planned on the Jeffersonian ideal -- ruler straight, square-cornered and absurdly easy to drive on -- and the Iowa Department of Transportation is (or was) efficient and well financed. An ex-Southerner (as Levin says he is) may shrink at the prospect of ''a few flakes,'' but a Midwesterner never will.</p>
+        <p>Read Gildner-Blinn  Keene, N.H.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In defense of his right to own and operate an S.U.V., Mitchell A. Levin (Letters, Oct. 27) may gull the innocent New Yorker, but he can't fool the foxy Midwesterner. I grew up in Iowa, lived there until the age of 27 and survived very well, thanks, driving two-wheel-drive vehicles through winters still unmoderated by global warming (where he finds a snowdrift to drive through these days, I can't say). Iowa roads were planned on the Jeffersonian ideal -- ruler straight, square-cornered and absurdly easy to drive on -- and the Iowa Department of Transportation is (or was) efficient and well financed. An ex-Southerner (as Levin says he is) may shrink at the prospect of ''a few flakes,'' but a Midwesterner never will.</p>
+        <p>Read Gildner-Blinn  Keene, N.H.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

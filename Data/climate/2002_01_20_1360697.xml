@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>George Divoky's Planet</title>
+    <meta content="LTR133826" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1360697"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <location class="indexing_service">Arctic Regions</location>
+        <person class="indexing_service">Divoky, George</person>
+        <person class="indexing_service">Smith, Kevin</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DD1238F933A15752C0A9649C8B63" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>George Divoky's Planet</hl1>
+      </hedline>
+      <abstract>
+        <p>Kevin Smith letter praises Jan 6 article about Arctic researcher George Divoky (S)1</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This is one of the most captivating articles I have read in years. Despite the ominous news of global warming, Frey draws a portrait of a man and a place that is nothing short of exhilarating.</p>
+        <p>Kevin Smith  Monterey, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>This is one of the most captivating articles I have read in years. Despite the ominous news of global warming, Frey draws a portrait of a man and a place that is nothing short of exhilarating.</p>
+        <p>Kevin Smith  Monterey, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

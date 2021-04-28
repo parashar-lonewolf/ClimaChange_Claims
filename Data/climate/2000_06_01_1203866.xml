@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Software to Predict Power Needs</title>
+    <meta content="01GRID" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203866"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Shortages</classifier>
+        <classifier class="indexing_service" type="descriptor">Blackouts (Electrical)</classifier>
+        <org class="indexing_service">Sandia National Laboratory</org>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Austen, Ian</person>
+        <person class="indexing_service">Ivey, Mark (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shortages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blackouts and Brownouts (Electrical)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFDA153CF932A35755C0A9669C8B63" item-length="666" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Software to Predict Power Needs</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Dr Mark Ivey, member of technical staff at Sandia National Laboratories and co-author of study for Department of Energy, calls for electric utility planners and operators to begin using assessment software that judges risks to power systems to help avoid shortages like those encountered last summer; says many utility operators 'are just trying to stay ahead of next emergency' and do not have time to sit back and think; notes any software will encounter major statistical problems without some changes in industry habits, such as reluctance to part with statistics for fear data will be used by competitors (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF nothing else, most American computer users have been able to count on one thing: electricity to run their machines. But high demands for electricity this summer could produce power shortages like those in parts of the country last year.</p>
+        <p>A recent study led by the Sandia National Laboratories, however, concludes that one remedy for the nation's overburdened power grid may be rethinking the software that oversees it.</p>
+      </block>
+      <block class="full_text">
+        <p>IF nothing else, most American computer users have been able to count on one thing: electricity to run their machines. But high demands for electricity this summer could produce power shortages like those in parts of the country last year.</p>
+        <p>A recent study led by the Sandia National Laboratories, however, concludes that one remedy for the nation's overburdened power grid may be rethinking the software that oversees it.</p>
+        <p>''This is a very difficult time for the electrical industry,'' said Mark Ivey, principal member of the technical staff at Sandia and a co-author of the study for the Department of Energy. ''A lot of people out there are just running to stay ahead of the next emergency. They don't have the time to sit back and think.''</p>
+        <p>The study, with the unwieldly title ''Grid of the Future White Paper on Accommodating Uncertainty in Planning and Operations,'' suggests that utility planners and operators begin using software that judges the probability of risks to the power system.</p>
+        <p>Dr. Ivey compares the programs to the Eight Ball toys, which contain a floating polygon with different predictions printed on each of its facets. When the ball is tipped over, only one prediction is revealed at a time through the window on the bottom.</p>
+        <p>Risk assessment software involves inserting scenarios of everything that can go awry on the power grid into a computer, rather like putting the predictions inside the Eight Ball. Then, using a variety of factors, sophisticated software could calculate how frequently and under what circumstances each of the scenarios would pop up.</p>
+        <p>Corporations use probability predicting software to manage production, but Dr. Ivey said that most of it was not sophisticated enough for the extremely complex power grid.</p>
+        <p>''The grid is sufficiently specialized that it's going to take a directed, concentrated and expensive effort to get something that's useful,'' Dr. Ivey said.</p>
+        <p>Many players in the power grid that serves more than 400 million people in the United States, Canada and Northern Mexico have not modified the software they use to plan and control the network, he added.</p>
+        <p>Dr. Ivey, who is also working on a climate change research project, said that he was concerned by the way power companies use weather data from the past 10 years and data on the past year's electricity demands in determing future power needs.</p>
+        <p>''The planner at one utility told me that to forecast future demand she takes last year's numbers and adds a factor to them,'' he said. ''That kind of backward looking approach is getting people into trouble. With the changing complexity of the grid, we're heading for a problem.''</p>
+        <p>Even small miscalculations in forecasts can mean trouble. A difference in demand of 1 percent for most parts of the grid (it is broken into several segments across the continent) could represent the entire output of a major generating station, Dr. Ivey said.</p>
+        <p>One starting point being explored at Sandia, a Department of Energy laboratory that is operated by a subsidiary of Lockheed Martin, is software that is currently used to analyze the reliability and maintenance of nuclear weapons.</p>
+        <p>But Dr. Ivey said that any software would encounter major statistical problems without some changes in industry habits. A competitive utility market has made many electrical companies reluctant to part with statistics for fear the data will be used by competitors. And much of the data that they do release proves to be outdated or inaccurate.</p>
+        <p>''Just getting information is a challenge,'' Dr. Ivey said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

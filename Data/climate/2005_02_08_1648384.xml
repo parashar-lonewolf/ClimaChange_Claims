@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Evolution, an Endangered Subject</title>
+    <meta content="LTR235852" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Education; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1648384"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Evolution</classifier>
+        <person class="indexing_service">Mclemore, Mary</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Evolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E3DC1F3BF93BA35751C0A9639C8B63" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Evolution, an Endangered Subject</hl1>
+      </hedline>
+      <abstract>
+        <p>Mary McLemore letter on Feb 1 article about evolution asserts that evolution is theory not fact</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The author does a fine job of dancing around the truth that evolution is a theory, not a fact, though it's on firmer ground than global warming. Oh, wait, they couldn't find any evidence of that, so it's climate change now, isn't it?</p>
+        <p>MARY MCLEMORE  Autaugaville, Ala.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The author does a fine job of dancing around the truth that evolution is a theory, not a fact, though it's on firmer ground than global warming. Oh, wait, they couldn't find any evidence of that, so it's climate change now, isn't it?</p>
+        <p>MARY MCLEMORE  Autaugaville, Ala.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

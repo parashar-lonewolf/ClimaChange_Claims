@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Science And Health: Drop In Emissions</title>
+    <meta content="MB013052" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1404460"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EEDF1E3EF93AA15755C0A9649C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Science And Health: Drop In Emissions</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew C. Revkin (NYT)</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Energy Department reports emissions of heat-trapping carbon dioxide fell by 1.1 percent in 2001, first annual drop in American emissions since 1991, mostly as result of sharp dip in manufacturing; emissions from other sources rose (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The economy slowdown and the warm winter last year caused the first annual drop in American emissions of heat-trapping carbon dioxide since 1991, the Department of Energy said. Carbon dioxide, released by the burning of fossil fuels, has been linked to rising global temperatures. Through the 1990's, emissions from energy use rose an average of 1.2 percent a year. Last year, they fell by 1.1 percent, with most of the drop coming as a result of a sharp dip in manufacturing. Emissions from transportation, housing and other kinds of businesses rose.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The economy slowdown and the warm winter last year caused the first annual drop in American emissions of heat-trapping carbon dioxide since 1991, the Department of Energy said. Carbon dioxide, released by the burning of fossil fuels, has been linked to rising global temperatures. Through the 1990's, emissions from energy use rose an average of 1.2 percent a year. Last year, they fell by 1.1 percent, with most of the drop coming as a result of a sharp dip in manufacturing. Emissions from transportation, housing and other kinds of businesses rose.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

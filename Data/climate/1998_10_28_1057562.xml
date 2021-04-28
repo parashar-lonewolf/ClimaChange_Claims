@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Computers, Fast, Faster And Fastest</title>
+    <meta content="Y28SUPE" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1057562"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <org class="indexing_service">Intel Corp</org>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <org class="indexing_service">Energy Department</org>
+        <org class="indexing_service">Lawrence Livermore National Laboratory</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Gore, Al (Vice Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E6D9103CF93BA15753C1A96E958260" item-length="461" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Computers, Fast, Faster And Fastest</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, Oct. 27</dateline>
+      <abstract>
+        <p>Energy Department's Lawrence Livermore National Laboratory will take delivery of what Government says is world's fastest computer, capable of peak performance of 3.88 trillion calculations a second, about 15,000 times the speed of 350-megahertz personal computer; computer, built by IBM, uses 5,800 processor chips, each slightly more powerful than widely sold Pentium II chip made by Intel Corp; Vice Pres Al Gore praises new computer (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Energy Department will take delivery on Wednesday of what the Government says is the world's fastest computer, capable of a peak performance of 3.88 trillion calculations, or teraflops, a second.</p>
+        <p>Clinton Administration officials said today that the supercomputer, which is being assembled at Lawrence Livermore National Laboratory in California, operates at about 15,000 times the speed of a 350-megahertz personal computer.</p>
+      </block>
+      <block class="full_text">
+        <p>The Energy Department will take delivery on Wednesday of what the Government says is the world's fastest computer, capable of a peak performance of 3.88 trillion calculations, or teraflops, a second.</p>
+        <p>Clinton Administration officials said today that the supercomputer, which is being assembled at Lawrence Livermore National Laboratory in California, operates at about 15,000 times the speed of a 350-megahertz personal computer.</p>
+        <p>The computer, built by the International Business Machines Corporation, uses 5,800 processor chips, each slightly more powerful than the widely sold Pentium II chip made by the Intel Corporation, said people involved in its development. Livermore, a nuclear weapons lab, will use it for simulations that determine, without detonation, whether aging nuclear weapons are still operable.</p>
+        <p>In remarks prepared for delivery on Wednesday, Vice President Al Gore said that beyond weapons research, the technology of the computer, known as massively parallel architecture, ''will lead to advances and greater understanding of weather patterns, global climate change, medicine, manufacturing and aviation safety.''</p>
+        <p>For the Energy Department, the computer, called Pacific Blue, is part of a program to advance supercomputer technology rapidly to the stage where it can model nuclear warheads. Pacific Blue takes the speed title from Sandia Red, a computer at Sandia National Laboratory built by Intel that was finished in December 1996 and is about half as fast. Mountain Blue, a computer being built by Silicon Graphics Inc., is expected to deliver about four teraflops.</p>
+        <p>By mid-2000, Energy Department officials hope to have a 10-teraflop computer, also built by I.B.M., running at Livermore, followed in 2004 by a 100-teraflop computer. The 100-teraflop model would allow high-fidelity simulation of an H-bomb detonation, as a volleyball-size mass of nuclear fuel is compressed to the size of a walnut, setting off the explosive chain reaction.</p>
+        <p>Administration officials said they were trying to retire Moore's Law, which holds that chip makers will be able to double the number of transistors on a given sliver of silicon, and thus its speed, every 18 months. The Energy Department wants to triple computing speed in about the same time frame by combining the power of many processors instead of increasing the speed of each.</p>
+        <p>Nicholas M. Donofrio, senior vice president for technology and manufacturing at I.B.M., said that in building Pacific Blue, ''we pretty much used commercial-grade stuff'' from the I.B.M. commercial product line.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

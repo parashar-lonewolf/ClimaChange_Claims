@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Astronauts Ignite Fuel in Space Experiment</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="806270"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE SHUTTLE</classifier>
+        <classifier class="indexing_service" type="descriptor">COLUMBIA (SPACE SHUTTLE)</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <classifier class="indexing_service" type="descriptor">HEPTANE</classifier>
+        <classifier class="indexing_service" type="descriptor">METHANOL</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2D81639F930A35752C1A963958260" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Astronauts Ignite Fuel in Space Experiment</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>CAPE CANAVERAL, Fla., Nov. 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Astronauts on the space shuttle Columbia ignited drops of fuel today in an experiment intended to improve safety in space and reduce pollution on Earth.</p>
+        <p>The fuel burned longer than it would on Earth -- more than 40 seconds in some cases -- and produced more soot than expected. Most of the flames were round, rather than teardrop-shaped, because of the absence of gravity.</p>
+      </block>
+      <block class="full_text">
+        <p>Astronauts on the space shuttle Columbia ignited drops of fuel today in an experiment intended to improve safety in space and reduce pollution on Earth.</p>
+        <p>The fuel burned longer than it would on Earth -- more than 40 seconds in some cases -- and produced more soot than expected. Most of the flames were round, rather than teardrop-shaped, because of the absence of gravity.</p>
+        <p>I don't get to play with fire much up here," said Dr. Fred W. Leslie, an astronaut who is a science specialist aboard the Columbia. "I'm kind of enjoying it."</p>
+        <p>More than 35 drops of heptane or methanol fuel were burned, one at a time, in a doubly contained chamber.</p>
+        <p>The space agency will use these findings to improve fire safety on spaceships. The experiment may also help make the burning of fossil fuels more efficient on Earth and reduce pollution.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

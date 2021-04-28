@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nice House. Great Neighborhood. But, Honey, It Has Only a 3-Car Garage.</title>
+    <meta content="12SRIC" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1246721"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <person class="indexing_service">Bradsher, Keith</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DD1238F931A25752C1A9669C8B63" item-length="477" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nice House. Great Neighborhood. But, Honey, It Has Only a 3-Car Garage.</hl1>
+      </hedline>
+      <byline class="print_byline">By KEITH BRADSHER</byline>
+      <byline class="normalized_byline">Bradsher, Keith</byline>
+      <abstract>
+        <p>Luxury houses are being designed with special multicar garages for three or more vehicles; 16 percent of new homes in 1999 had garages for three or more cars; in 1992, figure was just 11 percent; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WANT a quick way to upset auto executives? Just ask how the latest sport utility behemoth contributes to air pollution and global warming. They have a favorite riposte, though: Look how big the luxury houses are getting these days.</p>
+        <p>But it is not just the houses that are getting gargantuan. Along with the well-documented trend toward ''McMansions'' -- the giant houses erected in groups in affluent neighborhoods -- has come the multicar garage, designed to hold three or more vehicles.</p>
+      </block>
+      <block class="full_text">
+        <p>WANT a quick way to upset auto executives? Just ask how the latest sport utility behemoth contributes to air pollution and global warming. They have a favorite riposte, though: Look how big the luxury houses are getting these days.</p>
+        <p>But it is not just the houses that are getting gargantuan. Along with the well-documented trend toward ''McMansions'' -- the giant houses erected in groups in affluent neighborhoods -- has come the multicar garage, designed to hold three or more vehicles.</p>
+        <p>Last year, 16 percent of new homes had garages for three or more cars; in 1992, the figure was just 11 percent, according to the Census Bureau.</p>
+        <p>But affluent car buyers are still having a difficult time fitting their luxury barges into their garages. Typically, even luxury villas have  garage doors the same size as those of tract homes, because the doors are mass-produced, said Gopal Ahluwalia, the research director at the National Association of Home Builders. Only now is the garage door industry  considering wider, taller models.</p>
+        <p>In 1996, when the Ford Motor Company began selling the Ford Expedition, a full-sized sport utility vehicle, the company promoted its ability to fit into garages that would not accommodate the rival Chevrolet Suburban. But Ford quietly dropped that claim last year, when it rolled out the Ford Excursion, the world's largest sport utility. That automotive mastodon is taller than Michael Jordan and so wide that if it were a fraction of an inch wider, it would require special running lights on the side, as would a commercial truck.</p>
+        <p>General Motors has recently had its revenge -- promoting the Suburban as more ''garageable'' than the Excursion. But G.M. has its own problem after buying the Hummer brand last winter: the tank-like Hummer is so wide that it does require special running lights.</p>
+        <p>Much of the competition in the luxury market is one-upmanship, and automakers and home builders alike cater to that impulse. On Wednesday, G.M. unveiled a prototype for a Hummer that it plans to start mass-producing in 2002. G.M. will put the full marketing and manufacturing muscle of the world's largest automaker behind what until now has been a niche vehicle produced by an obscure military contractor, A.M. General. But G.M. hopes to preserve the Hummer's exclusive image.</p>
+        <p>''People who are fiercely individualistic are very attracted to this vehicle, and they're people who want others to know they're very, very successful,'' said Terry Henline, the design director of G.M.'s Hummer division. In other words, they are the  people automakers increasingly covet.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

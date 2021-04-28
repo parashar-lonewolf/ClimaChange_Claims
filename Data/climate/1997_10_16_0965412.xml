@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pollution Record Is Far From Black</title>
+    <meta content="16POLL" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="965412"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971016T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DD103DF935A25753C1A961958260" item-length="438" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pollution Record Is Far From Black</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN H. CUSHMAN Jr.</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JUST AS every car has a tailpipe, the internal combustion engine under every hood is a pollution machine. But in some ways the American car has been getting strikingly cleaner over the years, while in other ways its environmental record remains troublesome.</p>
+        <p>That's because some pollutants are tightly controlled, as when the Federal Government required catalytic converters, or when the recipe for gasoline was rewritten to reduce harmful emissions. Other pollutants, however, have gone mostly unregulated, notably carbon dioxide, which is the inevitable byproduct of burning gasoline.</p>
+      </block>
+      <block class="full_text">
+        <p>JUST AS every car has a tailpipe, the internal combustion engine under every hood is a pollution machine. But in some ways the American car has been getting strikingly cleaner over the years, while in other ways its environmental record remains troublesome.</p>
+        <p>That's because some pollutants are tightly controlled, as when the Federal Government required catalytic converters, or when the recipe for gasoline was rewritten to reduce harmful emissions. Other pollutants, however, have gone mostly unregulated, notably carbon dioxide, which is the inevitable byproduct of burning gasoline.</p>
+        <p>Emissions of carbon dioxide go up as fuel use increases. This gas then traps the heat of the sun like a blanket and warms the planet -- the so-called greenhouse effect. Carbon dioxide emissions from cars will only decrease if people drive less or use more efficient cars. But the Government has not tightened fuel-efficiency standards for years. And  consumers have been buying more sporty trucks and other gas guzzlers and have been driving them farther.</p>
+        <p>But during the same period, since the 1970's, the Government has repeatedly tightened the limits on emissions of unhealthy pollutants like carbon monoxide, volatile organic compounds and nitrogen oxides (a main ingredient in smog). A car built in the mid-1990's produces about one-tenth the pollution per mile traveled as one built two decades ago. And there are new inspection rules that force drivers to keep their cars well-tuned.</p>
+        <p>There is one large unknown in predicting how much pollution cars will cause in the years to come: How long will the increase in driving last? People cannot expand the time they spend behind the wheel indefinitely. And if there is a significant increase in fuel prices, either through taxation or a shortage, driving could decline abruptly, taking pollution down with it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

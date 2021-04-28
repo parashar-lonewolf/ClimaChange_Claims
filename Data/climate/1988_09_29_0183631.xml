@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Approves New Subsidies for 'Clean' Coal Projects</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="183631"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COAL</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">FEDERAL AID (US)</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">ENERGY, DEPARTMENT OF</org>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Aid (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DF1E3BF93AA1575AC0A96E948260" item-length="534" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Approves New Subsidies for 'Clean' Coal Projects</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Energy Department said yesterday that it would give $537 million in subsidies to 16 projects to demonstrate clean ways to burn coal.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Energy Department said yesterday that it would give $537 million in subsidies to 16 projects to demonstrate clean ways to burn coal.</p>
+        <p>The Energy Department said yesterday that it would give $537 million in subsidies to 16 projects to demonstrate clean ways to burn coal.</p>
+        <p>The projects are the first commercial-scale demonstrations of high-technology methods to limit the pollutants that cause acid rain and other environmental problems.</p>
+        <p>For the most part, they will be built by utilities and manufacturers of power-generating equipment. Eight of the projects are already under way and have received Government subsidies of $150 million. Blamed for Acid Rain</p>
+        <p>The subsidy program is the Federal Government's main technology effort to provide for the clean use of coal, which has been blamed for widespread damage to forests and lakes. The United States has a supply of coal that will last for centuries, and Energy Secretary John S. Herrington described the projects as ''pioneering ventures that will break the link between increased coal use and concerns over acid rain.''</p>
+        <p>The Reagan Administration had initially opposed subsidizing private efforts but reversed its position after it became clear that coal users, especially utilities, were not eager to risk tens of millions of dollars to test new technologies.</p>
+        <p>''The risk was simply too high, and their utlity commissions would never allow them to bear the full cost, in many cases,'' said one department official involved in the program.</p>
+        <p>The projects are part of President Reagan's commitment last year to the Canadian Government to increase research spending on pollution control, the Energy Department said. It is also financing a 10-year scientific study of the causes and effects of acid rain, which is expected to cost $800 million. Two Types of Projects</p>
+        <p>The 16 projects, chosen from 55 proposals, include 13 ''retrofits,'' or pollution-control devices for existing plants, and three ''re-powerings,'' in which coal-burning equipment is replaced with new hardware that produces fewer pollutants.</p>
+        <p>The largest project is a $579 million re-powering of the American Electric Power Company's Sporn plant, on the Ohio River near New Haven, W. Va.</p>
+        <p>That project will receive $185 million and will use a pressurized fluidized bed combustion process, in which coal is mixed with limestone and fed into a pressurized combustor with air to create a bed of burning material. The ash is extracted with the limestone, and the exhaust gases are used to spin a turbine and to heat water, which is boiled into steam to spin another turbine.</p>
+        <p>American Electric is seeking $5 million from the Ohio Coal Development Office for the project. Construction is scheduled to begin in 1993.</p>
+        <p>Two industrial users of coal are also on the list. The Passamaquoddy Tribe will install a system to collect sulfur pollutants from a coal-heated cement kiln that it owns in Thomaston, Me., and the Bethlehem Steel Corporation will install equipment to recover hydrogen sulfide gas from a coking oven at a plant near Baltimore.</p>
+        <p>The agency selected four projects proposed by the Southern Company, a utility conglomerate, with a total cost of $71 million. One would bubble exhaust gases through a limestone and water slurry to collect sulfur dioxide and ash, producing gypsum as a waste product.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

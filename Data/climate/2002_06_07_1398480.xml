@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emissions Trading</title>
+    <meta content="L07EPA$03" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1398480"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E1D8173DF934A35755C0A9649C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emissions Trading</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Just How Far Can Trading of Emissions Be Extended?'' (Business Day, May 31) says the Clear Skies proposal to reduce emissions from power plants ''would eliminate some safeguards against local hot spots'' and thus cause localized areas of unhealthy air.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Just How Far Can Trading of Emissions Be Extended?'' (Business Day, May 31) says the Clear Skies proposal to reduce emissions from power plants ''would eliminate some safeguards against local hot spots'' and thus cause localized areas of unhealthy air.</p>
+        <p>Clear Skies does not change E.P.A. established federal air quality standards for local areas. States will continue to have the obligation to impose additional controls on any power plant that creates any ''hot spot'' that exceeds these standards.</p>
+        <p>Studies by various environmental organizations conclude that the acid rain program (upon which Clear Skies is patterned) has not created any hot spots.</p>
+        <p>In fact, they conclude that trading has led the largest polluters to clean up the most and thus cooled the hottest spots of all.</p>
+        <p>JEFFREY R. HOLMSTEAD  Assistant Administrator  Office of Air and Radiation  Environmental Protection Agency  Washington, June 6, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

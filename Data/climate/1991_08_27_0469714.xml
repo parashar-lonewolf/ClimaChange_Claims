@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Coast Experts Debate Tide Gauges' Findings</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="The Environment Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="469714"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <org class="indexing_service">WOODS HOLE OCEANOGRAPHIC INSTITUTION</org>
+        <person class="indexing_service">DEAN, CORY</person>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFD81331F934A1575BC0A967958260" item-length="705" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Coast Experts Debate Tide Gauges' Findings</hl1>
+      </hedline>
+      <byline class="print_byline">By CORY DEAN</byline>
+      <byline class="normalized_byline">DEAN, CORY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN most of the world, the ocean is relentlessly moving in on the land. The question is, Is the rise evidence of global warming or is it just the result of local conditions?</p>
+        <p>Until more sophisticated satellite measurements and other data are available, scientists trying to answer the question rely on tide gauges, modern versions of ancient instruments that measure water levels. In some harbors, tide gauge records go back almost 400 years, and many scientists say they believe they show a trend of rising sea levels.</p>
+      </block>
+      <block class="full_text">
+        <p>IN most of the world, the ocean is relentlessly moving in on the land. The question is, Is the rise evidence of global warming or is it just the result of local conditions?</p>
+        <p>Until more sophisticated satellite measurements and other data are available, scientists trying to answer the question rely on tide gauges, modern versions of ancient instruments that measure water levels. In some harbors, tide gauge records go back almost 400 years, and many scientists say they believe they show a trend of rising sea levels.</p>
+        <p>But others do not agree.</p>
+        <p>In a new book, researchers at the Woods Hole Oceanographic Institution in Massachusetts suggest that most of the world's tide gauges are virtually useless for helping scientists determine whether they are seeing a change in mean global sea level or local effects.</p>
+        <p>The Woods Hole researchers, K. O. Emery and David G. Aubrey, studied sea levels recorded on tide gauges around the world. They concluded that the data reflected the vagaries of local circumstances, like land movements, human activities that cause erosion and other factors, more than changes in mean global sea level. 'Noise' of the Land</p>
+        <p>"The signal of a possible eustatic rise of sea level is obscured by the 'noise' caused mainly by movement of the land beneath tide gauges," they said in their new book, "Sea Levels, Land Levels and Tide Gauges" (Springer-Verlag).</p>
+        <p>But other researchers say tide gauges can offer reliable indications of global sea level rise, if they are used correctly.</p>
+        <p>For example, Bruce Douglas, chief of the Geodetic Research and Development Laboratory of the National Ocean Service, a division of the National Oceanic and Atmospheric Administration, used tide gauges in a new study suggesting that global sea levels are rising by 1.8 millimeters a year -- about seven-tenths of an inch every 10 years.</p>
+        <p>Mr. Douglas, whose research was reported in a recent issue of the journal Geophysical Research, studied records from around the world, but he eliminated readings from areas of tectonic activity; in areas where the earth's crust is rebounding from the withdrawal of the glaciers, he used a mathematical model to estimate the rebound effect. He considered only gauges that have been producing data for at least 60 years, and then only if at least 80 percent of the readings were available. And he threw out readings that diverged wildly from those of nearby gauges.</p>
+        <p>The research "provides confidence that carefully selected long-time gauge records measure the same underlying trend of sea level and that many old tide gauge records are of very high quality," Mr. Douglas wrote.</p>
+        <p>A report last year by a panel of experts from the National Research Council said evidence showed that relative sea level was rising roughly one to two millimeters a year but said that the evidence, while "suggestive," did not prove that global warming was the cause.</p>
+        <p>"It is possible, but unlikely, that a large part of the RSL change observed is due to vertical crustal motion alone," the report said. "A number of other interesting hypotheses," including global climate change, could explain the data, the report said, but a variety of new testing efforts will be needed to know for sure.</p>
+        <p>The Woods Hole researchers cited many areas where factors other than global sea level rise were at work. For example, they studied 26 tide gauge stations along the East Coast of the United States. Their findings suggest that relative sea level is rising by 1.5 to 3.8 millimeters a year in the stretch from southern Florida to Chesapeake Bay, falling by 2 to 3.8 millimeters a year in the stretch from the bay to Portsmouth, N.H., and rising 2 to 2.7 millimeters a year from there to the Canadian border.</p>
+        <p>"Clearly, such a distribution pattern accords with land movement rather than with simple eustatic rise of sea level," they wrote.</p>
+        <p>They said much of the beach erosion, wetland loss and other coastal problems often attributed to rising sea levels were in fact caused by human activities like construction of jetties that interfere with the normal movement of sand on beaches.</p>
+        <p>"The overriding factor is we have mismanaged our shorelines for 100 years or more," Dr. Aubrey said in an interview.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

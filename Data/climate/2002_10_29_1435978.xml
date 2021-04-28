@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Europe Reels From Lives Lost And Damage Caused by Storm</title>
+    <meta content="Y29STOR" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/10/29/international/europe/29STOR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1435978"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <location class="indexing_service">Europe</location>
+        <person class="indexing_service">Lyall, Sarah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Wind</classifier>
+        <classifier class="online_producer" type="descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <location class="online_producer">Europe</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3D9143FF93AA15753C1A9649C8B63" item-length="581" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Europe Reels From Lives Lost And Damage Caused by Storm</hl1>
+        <hl2 class="online_headline">Europe Reels From Lives Lost and Damage Caused by Storm</hl2>
+      </hedline>
+      <byline class="print_byline">By SARAH LYALL</byline>
+      <byline class="normalized_byline">Lyall, Sarah</byline>
+      <dateline>LONDON, Oct. 28</dateline>
+      <abstract>
+        <p>Violent weekend storm wreaks havoc across Northern Europe, killing 33 people and causing millions of dollars worth of damage; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Northern Europe picked itself up today from a violent weekend storm that killed at least 33 people, destroyed buildings, uprooted trees, wreaked havoc with roads, airlines, ferries and railways, cut off power and caused tens of millions of dollars worth of damage.</p>
+        <p>In Britain, where winds whipped through Wales at 96.6 miles per hour and exceeded 90 m.p.h. elsewhere, 7 people died. They included a toddler and a 12-year-old boy who pushed his older brother away from the path of another tree, only to be crushed under it himself.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Northern Europe picked itself up on Monday from a violent weekend storm that killed at least 33 people and caused tens of millions of dollars worth of damage.</p>
+      </block>
+      <block class="full_text">
+        <p>Northern Europe picked itself up today from a violent weekend storm that killed at least 33 people, destroyed buildings, uprooted trees, wreaked havoc with roads, airlines, ferries and railways, cut off power and caused tens of millions of dollars worth of damage.</p>
+        <p>In Britain, where winds whipped through Wales at 96.6 miles per hour and exceeded 90 m.p.h. elsewhere, 7 people died. They included a toddler and a 12-year-old boy who pushed his older brother away from the path of another tree, only to be crushed under it himself.</p>
+        <p>In France, four people died when a tree fell on the car in which they were riding, a hunter was fatally struck by a tree and a man died when the roof of his home caved in.</p>
+        <p>The storm began in the north Atlantic and gathered strength as it swept across Britain and into Continental Europe. Those killed included at least 10 Germans, one of whom was fatally struck by lightning; 5 Belgians, one a 13-year-old boy who was blown into a construction site while roller-skating; 4 people in the Netherlands, including a 77-year-old man who was blown into an iron fence and 2 others blown into the sea, and a man in Denmark.</p>
+        <p>The storm was forecast last week by meteorologists, so the damage might have been mitigated somewhat. But the environmental group Friends of the Earth said that its violence -- considered highly unusual for this time of year -- was a product of global warming.</p>
+        <p>The storm also disrupted travel by air, land and sea. In Britain, some flights were canceled. Large parts of the rail network were paralyzed by falling trees and leaves, and delays and cancellations continued well into tonight. Germany's train services were also disrupted after the storm damaged overhead cables and flung debris onto tracks.</p>
+        <p>Shipping services between France and Britain suffered as winds and waves beset the choppy waters of the Channel. In Portsmouth, the Pride of Portsmouth, a P&amp;O Lines ferry carrying 850 people from Le Havre, was caught by a 70-m.p.h. gust of wind just before dawn and blown into a navy frigate berthed in the harbor.</p>
+        <p>There were no injuries, either to the passengers on the ferry or the crew members aboard the frigate, and the Pride of Portsmouth was not damaged. A Ministry of Defense spokesman said that damage to the frigate was minor and that it had been brought in for repairs.</p>
+        <p>The wind also swept away an inflatable tank that the British Army was using in an exercise involving troops from Britain, the United States, Canada, Belgium and Poland in the Brecon Beacon mountains. The dummy tank, which takes three people to handle and is supposed to give troops a sense of what it is like to carry out patrols in enemy territory, was one of six on loan from the Royal Air Force.</p>
+        <p>''If anyone has seen a flying tank, please contact us,'' David Webb, an army spokesman, told Reuters. ''We would like it back.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

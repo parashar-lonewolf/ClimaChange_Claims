@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="30obse" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/30/science/30observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1765449"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Poison Ivy</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Amphibians</classifier>
+        <classifier class="indexing_service" type="descriptor">Batrachochytrium Dendrobatidis</classifier>
+        <classifier class="indexing_service" type="descriptor">Fungi</classifier>
+        <classifier class="indexing_service" type="descriptor">Bullfrogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Migration</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Lobsters</classifier>
+        <classifier class="indexing_service" type="descriptor">Shellfish</classifier>
+        <location class="indexing_service">Europe</location>
+        <location class="indexing_service">Africa</location>
+        <org class="indexing_service">Duke University</org>
+        <org class="indexing_service">Duke Forest-Atmosphere Carbon Transfer and Storage Center</org>
+        <org class="indexing_service">Proceedings of the National Academy of Sciences</org>
+        <org class="indexing_service">Zoological Society of London</org>
+        <org class="indexing_service">Biology Letters (Journal)</org>
+        <org class="indexing_service">Royal Society for the Protection of Birds</org>
+        <org class="indexing_service">Birdlife International</org>
+        <org class="indexing_service">Biological Conservation (Journal)</org>
+        <org class="indexing_service">Old Dominion University</org>
+        <org class="indexing_service">Virginia Institute of Marine Science</org>
+        <org class="indexing_service">Nature (Journal)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">Mohan, Jacqueline E</person>
+        <person class="indexing_service">Garner, Trenton W J</person>
+        <person class="indexing_service">Butler, Mark J (Dr)</person>
+        <person class="indexing_service">Behringer, Donald C (Dr)</person>
+        <person class="indexing_service">Shields, Jeffrey D (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="descriptor">Poisoning and Poisions</classifier>
+        <classifier class="online_producer" type="descriptor">Fungi</classifier>
+        <classifier class="online_producer" type="descriptor">Lobsters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobsters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migration</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amphibians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3DA1F3EF933A05756C0A9609C8B63" item-length="1029" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Lobsters Quarantining Lobsters</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Jacqueline E Mohan leads study on impact of global warming on poison ivy; research at Duke's Forest-Atmosphere Carbon Transfer and Storage Center shows that increased carbon dioxide produces heavier and more poisonous plants; research is published in Proceedings of the National Academy of Sciences; Trenton W J Garner of Zoological Society of London leads study that suggests spread of Batrachochytrium dendrobatidis, fungus implicated in deaths of amphibians around world, is caused by bullfrogs; research is published in journal Biology Letters; Royal Society for the Protection of Birds and Birdlife International researchers analyze data showing that more than half of 121 species of long-distance migrant birds have declined or disappeared from Europe; suggest that climate changes in Africa may be one cause; study is published in journal Biological Conservation; Drs Mark J Butler and Donald C Behringer of Old Dominion University and Dr Jeffrey D Shields of Virginia Institute of Marine Science discover that spiny lobsters, which are social, avoid sick lobsters; research is published in journal Nature; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A More Poisonous Poison Ivy</p>
+        <p>If warmer temperatures, rising sea levels and the increased risk of severe weather haven't gotten you concerned about global climate change, maybe this will. A Duke University study has shown that poison ivy may become more of a problem as the concentration of the greenhouse gas carbon dioxide increases.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Disease-avoiding lobsters, more poisonous poison ivy, dropping bird populations and more.</p>
+      </block>
+      <block class="full_text">
+        <p>A More Poisonous Poison Ivy</p>
+        <p>If warmer temperatures, rising sea levels and the increased risk of severe weather haven't gotten you concerned about global climate change, maybe this will. A Duke University study has shown that poison ivy may become more of a problem as the concentration of the greenhouse gas carbon dioxide increases.</p>
+        <p>The study, by Jacqueline E. Mohan, now at Harvard, and colleagues from Duke and other institutions, was conducted over six years at Duke's Forest-Atmosphere Carbon Transfer and Storage center, which consists of forest plots that allow carbon dioxide levels to be controlled. It is being published this week in The Proceedings of the National Academy of Sciences.</p>
+        <p>Earlier studies had shown that some vines grew faster in elevated carbon dioxide conditions. Elevated CO2 increases photosynthesis which, because vines grab hold of other plants and don't need much support tissue, can go into producing even more photosynthesizing tissue.</p>
+        <p>At Duke, the researchers studied poison ivy growth under CO2 levels matching those forecast for the middle of the century. They found that over five growing seasons, plants grown under increased CO2 weighed about 60 percent more than control plants. The increase was greater than it was for woody plants in similar experiments.</p>
+        <p>The Duke research also showed that CO2 levels affected the production of urushiol, the rash-inducing oil that puts the ''poison'' in poison ivy. Plants grown in elevated CO2 produced more of the unsaturated version of this compound than control plants. And the unsaturated form is more allergenic.</p>
+        <p>So it's not just that there might be more poison ivy around in the future, but that it will cause more itching and scratching, too.</p>
+        <p>Fungus Spreaders</p>
+        <p>Populations of certain frogs and other amphibians are plunging around the world, and an aquatic fungus has been implicated in the die-offs. The fungus, Batrachochytrium dendrobatidis, infects the skin and kills either by releasing toxins or by blocking the intake of water and oxygen through the skin. Some species are only mildly affected but others can be completely wiped out by the disease.</p>
+        <p>Scientists are not sure how the fungus has spread, but a study by Trenton W. J. Garner of the Zoological Society of London and colleagues provides a clue. Even though it shows no symptoms of fungal infection, the North American bullfrog, Rana catesbeiana, is a carrier.</p>
+        <p>The bullfrog is native to central and eastern North America, so the researchers analyzed tissue samples from those that had been introduced elsewhere -- Arizona, British Columbia, Brazil, Uruguay, Japan, England, France and Italy. The fungus was found in frogs from all the locations except Japan. The findings were published online Wednesday in the journal Biology Letters.</p>
+        <p>The bullfrogs, which grow to about eight inches long, are often farmed for their legs, and escape and establish populations in the wild. The frogs can have an adverse impact in certain situations: they are known to prey on some other amphibians, and in their tadpole stage can outcompete other tadpoles.</p>
+        <p>But the new finding represents a whole different level of threat: bullfrogs may be the Typhoid Marys of amphibians.</p>
+        <p>Population Drop in Birds</p>
+        <p>Anecdotal evidence in Europe has suggested that some long-distance migratory bird species, particularly those that winter in Africa, may be in decline. A new data analysis by researchers with the Royal Society for the Protection of Birds and BirdLife International has confirmed bird watchers' fears.</p>
+        <p>The analysis of a database of population sizes and trends since 1970 shows that more than half of 121 species of long-distance migrants, including the turtle dove and the spotted flycatcher, have declined or disappeared in areas of Europe. The researchers suggest that increased desertification in Africa as well as increased pesticide use may be the cause.</p>
+        <p>The findings will be published in the journal Biological Conservation.</p>
+        <p>Lobsters Quarantining Lobsters</p>
+        <p>Give a cold a cold shoulder. It may be going against humans' social nature, but steering clear of someone with the sniffles is a good way to avoid coming down with them.</p>
+        <p>From an evolutionary perspective, such behavior makes a lot of sense. Avoiding diseased members of the species is one way for the fittest to survive.</p>
+        <p>''It seems like a logical thing for a species to evolve, but it's not common,'' said Mark J. Butler, a professor at Old Dominion University.</p>
+        <p>Now Dr. Butler, Donald C. Behringer of Old Dominion and Jeffrey D. Shields of the Virginia Institute of Marine Science have discovered similar behavior among another social animal, the Caribbean spiny lobster. They report in the current issue of Nature that healthy lobsters stay away from others that are sick with a deadly virus.</p>
+        <p>Dr. Behringer first noticed diseased lobsters several years ago during research in the Florida Keys. They were discolored and lethargic, and their blood, normally colorless, was milky white. Dr. Shields identified a virus, PaV1, causing the disease.</p>
+        <p>Unlike clawed lobsters, spiny lobsters are social, hanging out in groups under large sponges or in rock crevices during the day before feeding at night. ''But we found these sick animals all by themselves,'' Dr. Butler said.</p>
+        <p>Experiments showed why. When healthy lobsters were given a choice in a lab setting between an empty den and one with a sick lobster, they chose the empty den. Further studies showed that healthy lobsters avoided sick ones weeks before there were visible symptoms and before the sick lobsters became infectious. That's a good thing, Dr. Butler said, because if lobsters catch the virus ''they're pretty much goners.'' He said the healthy lobsters probably detected chemical cues released by the sick ones.</p>
+        <p>The finding has implications for conservation, as the lobster habitat is being diminished by humans. ''If you're wiping out the housing market, so to speak, now you have animals constrained and forced together,'' Dr. Butler said. Healthy lobsters may have no choice but to mingle with sick ones, raising the risk that the disease will be transmitted.</p>
+        <p>Dr. Butler said it was likely that other species adopted similar shunning behavior. ''It's a very effective way for animals in the wild to keep diseases from spreading,'' he said. ''It's probably something we just haven't recognized in other species.''</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

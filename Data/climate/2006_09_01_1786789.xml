@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From California, a Breakthrough</title>
+    <meta content="01fri2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/09/01/opinion/01fri2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1786789"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">California</location>
+        <org class="online_producer">Congress</org>
+        <org class="online_producer">California Air Resources Board</org>
+        <person class="online_producer">Schwarzenegger, Arnold</person>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">Pavley, Fran</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E7D81E3EF932A3575AC0A9609C8B63" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From California, a Breakthrough</hl1>
+        <hl2 class="online_headline">From California, a Breakthrough</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>California, long a leader on environmental issues, has done it again, approving a pathbreaking bill that would impose the country's broadest and most stringent controls on emissions of carbon dioxide, the main global warming gas. California's action stands in bold and welcome contrast to the federal government's reluctance to take aggressive action on a problem of mounting concern among scientists and the general public.</p>
+        <p>The deal between the state's Democratic leadership and its Republican governor, Arnold Schwarzenegger, would reduce California's carbon dioxide emissions to 1990 levels by 2020. This is by any measure a huge undertaking. It will be up to state agencies, chiefly the California Air Resources Board, to work out the details, but the plan allows for market-based mechanisms like emissions trading to achieve the maximum possible gains at the lowest cost.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>California’s action to reduce emissions of carbon dioxide stands in bold and welcome contrast to the federal government’s reluctance to take aggressive action on climate change.</p>
+      </block>
+      <block class="full_text">
+        <p>California, long a leader on environmental issues, has done it again, approving a pathbreaking bill that would impose the country's broadest and most stringent controls on emissions of carbon dioxide, the main global warming gas. California's action stands in bold and welcome contrast to the federal government's reluctance to take aggressive action on a problem of mounting concern among scientists and the general public.</p>
+        <p>The deal between the state's Democratic leadership and its Republican governor, Arnold Schwarzenegger, would reduce California's carbon dioxide emissions to 1990 levels by 2020. This is by any measure a huge undertaking. It will be up to state agencies, chiefly the California Air Resources Board, to work out the details, but the plan allows for market-based mechanisms like emissions trading to achieve the maximum possible gains at the lowest cost.</p>
+        <p>Of the bill's many architects, the most important were two Democratic members of the Assembly, Fabian Núñez and Fran Pavley. Ms. Pavley was also the author of another groundbreaking measure four years ago limiting carbon dioxide emissions from cars and light trucks. That measure, which Mr. Schwarzenegger also embraces, is now the subject of a lawsuit from the automobile companies and the Bush administration.</p>
+        <p>Taken together with other state actions -- including an important agreement among several Northeastern states to limit carbon dioxide emissions from power plants -- California's assertiveness has suggested to some people that the country may be at a transformational moment on climate change, with the states leading a powerful ''bottom-up'' movement to deal with the problem.</p>
+        <p>That could well be so, but a global problem cannot be solved by state and regional initiatives, however admirable and necessary. There is no real substitute for determined action at the national level, since states that make the necessary capital investments to reduce emissions could well end up at a temporary economic disadvantage. Nor is there any substitute for American leadership globally; China and India, two big polluters and getting bigger, are unlikely to undertake costly controls while the world's biggest polluter sits on its hands.</p>
+        <p>Given California's size and economic reach, its initiative will surely help. But Congress and President Bush are by no means off the hook.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

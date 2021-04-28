@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Searching for Sources of Energy</title>
+    <meta content="LTR235404" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1621831"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <location class="indexing_service">Long Island (NY)</location>
+        <person class="indexing_service">Daum, Mary</person>
+        <person class="indexing_service">Bail, Sid</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E6DD163DF937A15753C1A9629C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Searching for Sources of Energy</hl1>
+      </hedline>
+      <abstract>
+        <p>Shoreham Civic Organization president Mary Daum and Wading River Civic Assn president Sid Bail letter agrees with October 10 article on alternative energy sources</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>We are pleased to concur with ''Powering Up,'' your editorial endorsing the Long Island Power Authority's plan to locate two wind turbines at the site of the former Shoreham Nuclear Power Station. For several years we have called on the authority to develop clean, renewable energy sources to supplement Long Island's power supply. At the same time, we also note that the New York State Public Service Commission has formally recognized that garbage incineration is not a renewable energy resource.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>We are pleased to concur with ''Powering Up,'' your editorial endorsing the Long Island Power Authority's plan to locate two wind turbines at the site of the former Shoreham Nuclear Power Station. For several years we have called on the authority to develop clean, renewable energy sources to supplement Long Island's power supply. At the same time, we also note that the New York State Public Service Commission has formally recognized that garbage incineration is not a renewable energy resource.</p>
+        <p>As much as Long Island needs additional renewable energy sources, waste incineration is not a reasonable option for achieving Gov. George E. Pataki's plan to use clean, renewable energy for 24 percent of the state's electricity needs by 2013. While the two small wind turbines at Shoreham will have minimal impact on the island's growing need for electricity, they are a step in the right direction.</p>
+        <p>Mary Daum  Sid Bail  Shoreham</p>
+        <p>The writers are the presidents of, respectively, Shoreham Civic Organization and Wading River Civic Association.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

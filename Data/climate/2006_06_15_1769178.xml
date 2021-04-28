@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Investors Seek Climate Change Information</title>
+    <meta content="15green" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/06/15/business/15green.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1769178"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Securities and Exchange Commission</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E2DD1031F936A25755C0A9609C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Investors Seek Climate Change Information</hl1>
+        <hl2 class="online_headline">Investors Seek Climate Change Information</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Investors worried about the possible financial fallout from greenhouse gas emissions have asked the Securities and Exchange Commission to require that companies disclose their financial vulnerability to changes in climate.</p>
+        <p>Yesterday, a group of 27 investors who collectively manage more than $1 trillion in assets sent a letter to the S.E.C. chairman, Christopher Cox, asking that financial risks linked to climate change issues be included as part of routine corporate financial reports.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A group of 27 investors have asked the SEC to require that companies disclose their financial vulnerability to changes in climate.</p>
+      </block>
+      <block class="full_text">
+        <p>Investors worried about the possible financial fallout from greenhouse gas emissions have asked the Securities and Exchange Commission to require that companies disclose their financial vulnerability to changes in climate.</p>
+        <p>Yesterday, a group of 27 investors who collectively manage more than $1 trillion in assets sent a letter to the S.E.C. chairman, Christopher Cox, asking that financial risks linked to climate change issues be included as part of routine corporate financial reports.</p>
+        <p>The letter, whose signers included several state officials, including the New York Comptroller Alan G. Hevesi, defines risk broadly.</p>
+        <p>''Investors have a right to know if a company's buildings are in the path of hurricanes that might be exacerbated by climate change, or if it will face high costs when greenhouse gas emissions are regulated,'' said James Coburn, a policy adviser at Ceres, a coalition of investors and environmental groups that sent the letter. ''They need that information to reduce their portfolio risk.''</p>
+        <p>Just as important, Mr. Coburn said, companies that are forced to quantify and disclose their vulnerabilities are far more likely to address them. ''What is measured is managed,'' he said.</p>
+        <p>Mr. Coburn said Ceres faxed the letter to Mr. Cox, and sent e-mail copies to several staff members. It has also mailed copies to the chairman and commissioners.</p>
+        <p>A spokesman for the S.E.C., John Heine, said the agency had no comment at this time.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

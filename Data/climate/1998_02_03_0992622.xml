@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>5% Increase, Much for Cleanups</title>
+    <meta content="Y03ENVI" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="992622"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE CLINTON BUDGET: THE ENVIRONMENT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFDB1E3AF930A35751C0A96E958260" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>5% Increase, Much for Cleanups</hl1>
+      </hedline>
+      <dateline>WASHINGTON, Feb. 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The President's budget request for environmental and natural resources programs, spread over several Federal agencies, amounts to $31.5 billion in 1999, an increase of 5 percent over the $30 billion being spent on these programs this budget year.</p>
+        <p>Spending to clean up polluted nuclear weapons production plants and other military sites, a lingering problem left by the cold war, takes up more than one third of the total.</p>
+      </block>
+      <block class="full_text">
+        <p>The President's budget request for environmental and natural resources programs, spread over several Federal agencies, amounts to $31.5 billion in 1999, an increase of 5 percent over the $30 billion being spent on these programs this budget year.</p>
+        <p>Spending to clean up polluted nuclear weapons production plants and other military sites, a lingering problem left by the cold war, takes up more than one third of the total.</p>
+        <p>The budget of the Environmental Protection Agency would rise 6 percent, to $7.8 billion in 1999.</p>
+        <p>At the center of the Clinton Administration's request for new environmental programs is a big expansion of spending to clean waterways and drinking water supplies. The budget includes $2.2 billion, a $568 million or 35 percent increase over 1998, for a multi-agency initiative to prevent polluted runoff and otherwise address water quality.</p>
+        <p>The two biggest such projects involve restoration of the California Bay and Delta watershed near San Francisco and the Everglades in Florida.</p>
+        <p>Another highlight of the environmental budget is a five-year, $6.3 billion series of tax credits and research subsidies for fuel efficient automobiles, factory machinery, and buildings, all intended to reduce the risk of global warming from emissions of carbon dioxide and other heat-trapping gases into the atmosphere.</p>
+        <p>THE CLINTON BUDGET: THE ENVIRONMENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

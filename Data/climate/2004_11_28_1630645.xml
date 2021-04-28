@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>12th Municipality Considers Buying Wind Power</title>
+    <meta content="MB223501" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1630645"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Wind</classifier>
+        <location class="indexing_service">Greenburgh (NY)</location>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EEDA133EF93BA15752C1A9629C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>12th Municipality Considers Buying Wind Power</hl1>
+      </hedline>
+      <byline class="print_byline">By ELSA BRENNER</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>Town of Greenburgh, NY, reportedly is considering buying wind-generated energy to supplement other sources, 12th municipality in Westchester County to do so (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Town of Greenburgh is considering buying wind-generated energy to supplement other sources, Supervisor Paul J. Feiner said.</p>
+        <p>If the town board decides to buy the renewable wind energy, Greenburgh would become the 12th municipality in Westchester County to do so, joining Ardsley, Bedford, Briarcliff Manor, Croton-on-Hudson, Lewisboro, New Castle, North Castle, North Salem, Pound Ridge, Tarrytown and Yorktown.</p>
+      </block>
+      <block class="full_text">
+        <p>The Town of Greenburgh is considering buying wind-generated energy to supplement other sources, Supervisor Paul J. Feiner said.</p>
+        <p>If the town board decides to buy the renewable wind energy, Greenburgh would become the 12th municipality in Westchester County to do so, joining Ardsley, Bedford, Briarcliff Manor, Croton-on-Hudson, Lewisboro, New Castle, North Castle, North Salem, Pound Ridge, Tarrytown and Yorktown.</p>
+        <p>Greenburgh plans to buy 3 percent of its annual electricity in the form of wind power, with the annual additional cost per household, 13 cents on a typical tax bill, Mr. Feiner said. Last year the town spent $224,000 for all of its energy, Jim Heslop, Greenburgh's comptroller, said.</p>
+        <p>In general, wind energy costs about 2 percent more than traditional forms.</p>
+        <p>In addition, State Assemblywoman Sandra R. Galef, Democrat of Ossining, has sponsored a bill to permit municipalities to spend up to 15 percent more to buy electricity from renewable energy sources. The legislation has passed the Assembly, but has yet to come to a vote in the Senate.</p>
+        <p>ELSA BRENNER</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

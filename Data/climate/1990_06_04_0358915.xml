@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ocean Energy Raises Environment Issues</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="358915"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <classifier class="indexing_service" type="descriptor">THERMAL POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Thermal Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDC1531F937A35755C0A966958260" item-length="426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ocean Energy Raises Environment Issues</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Ocean thermal energy conversion is a promising new source of renewable energy (''Tapping Ocean's Cold for Crops and Energy,'' Science Times, May 22). Although the pilot facility in Hawaii you describe has not drawn protests from environmentalists, this does not mean the technology is completely benign.</p>
+        <p>Some plans call for the use of R-22, a chlorofluorocarbon that is not completely ozone-friendly. It is also a powerful greenhouse gas. Planners should investigate fluids that are environmentally harmless.</p>
+        <p>The potential for ecological disruption by ocean thermal energy conversion is enormous. It will work best in tropical regions, where the temperature difference between surface and deep water is greatest. Even when mixed with warm surface water to ameliorate environmental effects, the effluent carries a double shock to tropical marine ecosystems that have evolved within narrow temperature fluctuations and extremely low nutrient levels: the effluent is both cold and rich in nutrients.</p>
+        <p>Ocean energy conversion will bring deep water very rich in carbon dioxide to the surface. Some carbon will escape to the atmosphere, perhaps ex-acerbating the greenhouse effect. We also need to know how pumping large amounts of ancient deep water to the surface will affect ocean circulation and heat distribution.</p>
+        <p>Proponents of ocean energy conversion should study the feasibility of an integrated mariculture system to reduce levels of nutrients and increase the temperature of the effluent. The concept would be to grow salmon or some other cold-water, high-value fish in the effluent. This has worked very well at the pilot plant in Hawaii.</p>
+        <p>While the water is still cold, nori, the seaweed used to make sushi (which has also been demonstrated to grow well in the Hawaiian system), could be grown in the salmon effluent to remove nutrients and add oxygen. The water could simply be stored and allowed to return to surface temperature or used to grow warm-water species of animals and plants so that even more of the nutrients are removed.</p>
+        <p>This effluent is virtually free of disease organisms, which should improve public acceptance. A mariculture system using ocean thermal energy conversion effluent could produce valuable crops and release a nutrient-free, high-oxygen, low-carbon effluent at temperatures similar to those of receiving waters, minimizing the environmental impact of discharge and maximizing economic feasibility.</p>
+        <p>RODNEY M. FUJITA</p>
+        <p>Staff Scientist</p>
+        <p>Environmental Defense Fund</p>
+        <p>New York, May 23, 1990</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Men as Plunderers</title>
+    <meta content="LTR012530" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1289033"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="RODEN CRATER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <person class="indexing_service">Turrell, James</person>
+        <person class="indexing_service">Kimmelman, Michael</person>
+        <person class="indexing_service">byron, janet</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5D61539F93AA15757C0A9679C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Men as Plunderers</hl1>
+      </hedline>
+      <abstract>
+        <p>Janet Byron letter deplores Michael Kimmelman's praise for James Turrell in his April 8 article on the artist</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Once again Michael Kimmelman and The New York Times have chosen to glorify the work of an ''artist'' who, in the egotistical pursuit of ''art on the scale of the West,'' behaves like the environmental equivalent of a male chauvinist pig [''Inside a Lifelong Dream of Desert Light,'' April 8].</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Once again Michael Kimmelman and The New York Times have chosen to glorify the work of an ''artist'' who, in the egotistical pursuit of ''art on the scale of the West,'' behaves like the environmental equivalent of a male chauvinist pig [''Inside a Lifelong Dream of Desert Light,'' April 8].</p>
+        <p>First Mr. Kimmelman lionized Michael Heizer, who spent years decimating a remote Nevada desert locale in the name of art [''A Sculptor's Colossus of the Desert,'' Dec. 12, 1999]. This time it is James Turrell, who plundered an actual 300,000-year-old volcanic crater in Arizona's Painted Desert in order to create ''the first great, enduring work of the new century.''</p>
+        <p>Mr. Kimmelman breathlessly compares Mr. Turrell's work to a pharaoh's tomb or Mayan ruin. The photos look lovely, but what about the environmental impact of the 1.2 million cubic yards of dirt that were moved? Is it a coincidence that, according to Mr. Kimmelman, art works on this scale are perpetrated by ''a generation of artists, nearly all men''? To be sure, it was nearly all men who perpetrated the great environmental disasters of the human race: the damming of nearly every free-flowing river, the destruction of our ozone layer and warming of our atmosphere, the elimination of delicate ecosystems and resulting extinction of hundreds of plants and animals.</p>
+        <p>Men. Harrumph.</p>
+        <p>JANET BYRON  Berkeley, Calif.</p>
+        <p>RODEN CRATER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

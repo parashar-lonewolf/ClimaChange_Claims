@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Researchers Study Tracer to See How Oceans Disperse Heat</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="The Environment Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="630702"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <classifier class="indexing_service" type="descriptor">HEAT</classifier>
+        <classifier class="indexing_service" type="descriptor">SALT (SODIUM)</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <location class="indexing_service">ATLANTIC OCEAN</location>
+        <org class="indexing_service">PLYMOUTH MARINE LABORATORY (PLYMOUTH, ENG)</org>
+        <org class="indexing_service">WOODS HOLE OCEANOGRAPHIC INSTITUTE</org>
+        <person class="indexing_service">HILCHEY, TIM</person>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Salt</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDD123EF937A1575BC0A965958260" item-length="585" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Researchers Study Tracer to See How Oceans Disperse Heat</hl1>
+      </hedline>
+      <byline class="print_byline">By TIM HILCHEY</byline>
+      <byline class="normalized_byline">HILCHEY, TIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN a study that has implications for the understanding of global climate patterns, marine productivity and the spread of pollution, a team of researchers has shown that the dispersion of heat, salt and other substances in the oceans appears to be dominated by mixing along gently sloping horizontal density layers.</p>
+        <p>By mapping the spread of a nontoxic chemical tracer released about 1,000 feet below the surface of the Atlantic Ocean, researchers from the Plymouth Marine Laboratory in Plymouth, England, and the Woods Hole Oceanographic Institution in Woods Hole, Mass., showed that the tracer rapidly dispersed along and across the horizontal surface of the targeted density layer.</p>
+      </block>
+      <block class="full_text">
+        <p>IN a study that has implications for the understanding of global climate patterns, marine productivity and the spread of pollution, a team of researchers has shown that the dispersion of heat, salt and other substances in the oceans appears to be dominated by mixing along gently sloping horizontal density layers.</p>
+        <p>By mapping the spread of a nontoxic chemical tracer released about 1,000 feet below the surface of the Atlantic Ocean, researchers from the Plymouth Marine Laboratory in Plymouth, England, and the Woods Hole Oceanographic Institution in Woods Hole, Mass., showed that the tracer rapidly dispersed along and across the horizontal surface of the targeted density layer.</p>
+        <p>But, in a confirmation of previous estimates, vertical diffusion occurred extremely slowly between density gradients, said one of the researchers, Dr. Andrew J. Watson of the Plymouth Marine Laboratory. The results of the experiment were reported in the current issue of the journal Nature.</p>
+        <p>"In order to try and predict climate change, oceanographers are trying to build reliable models of global ocean circulation," Dr. Watson said. "Our work appears to show that in the thermocline the vertical mixing rate is very slow and that is kind of good news for oceanographers who are doing that modeling work because, if it's small enough, you can neglect it.</p>
+        <p>"The rider on that is that because we haven't as yet found out what the vertical mixing rate is at the bottom of the ocean, it may not be possible to neglect it through the whole water column." Cold and Dense Water</p>
+        <p>At the top of the earth's oceans is a turbulent region called the mixed layer, which varies in depth and is kept in constant motion by wind and wave action, Dr. Watson said. Below this surface region, stable layers of increasingly dense water make up what is known as the main thermocline. The thermocline separates the ocean's warm surface zone from its extremely cold deep-water zone.</p>
+        <p>In simplified models of ocean circulation, cold and dense water is formed when heat is lost to the atmosphere in the polar regions. This dense water then sinks and spreads slowly toward the equator before upwelling again. The ocean's vertical temperature profile is governed by the interaction between this upwelling and the downward mixing of heat from the surface.</p>
+        <p>"The ocean is stably stratified unlike the lower atmosphere, which is in constant convective motion," Dr. Watson said. "The air is permanently in motion, rising from the ground where it's heated up to some other level. The ocean is heated from above and that means the hotter and less dense material lies on top of the cooler and more dense material, and that is a very stable arrangement."</p>
+        <p>In May 1992, about 300 pounds of the tracer, sulfur hexafluoride, were released in the ocean about 700 miles west of the Canary Islands. The tracer was dispersed in thin streaks at a depth of about 1,000 feet and just above the juncture of the two density layers. Sulfur hexafluoride was used because it is easy to detect at low concentrations, allowing the researchers to map the dispersion of the chemical over a period of many months.</p>
+        <p>Dr. Watson said that by last spring the tracer had spread into a streak several hundred miles long and some 6,000 feet wide, but had diffused less than 100 feet vertically across that area.</p>
+        <p>Dr. James R. Ledwell of the Woods Hole Oceanographic Institution and Dr. Clifford S. Law of the Plymouth Marine Laboratory also collaborated on the study.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

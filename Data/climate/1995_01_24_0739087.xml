@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brave New Forecasts Go Beyond Tomorrow To Next Year's Weather</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="739087"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">EL NINO (PACIFIC OCEAN CURRENT)</classifier>
+        <org class="indexing_service">NATIONAL WEATHER SERVICE</org>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0D7133FF937A15752C0A963958260" item-length="496" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brave New Forecasts Go Beyond Tomorrow To Next Year's Weather</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FROM now until June at least, it is likely to be warmer than normal most of the time in most of the country, including the Northeast, according to the first of a new generation of forecasts that the National Weather Service has begun issuing a year or more in advance.</p>
+        <p>Predicting the weather even a month ahead in even the vaguest and most general terms has been a chancy proposition given the atmosphere's chaotic behavior. Until now Government meteorologists have issued forecasts for no more than three months in advance, and then only to describe the chances that a given area would be warmer, colder, wetter or drier than normal. The meteorologists believe they now have the tools to make useful forecasts of this kind many more months ahead, at least under some conditions and in some seasons.</p>
+      </block>
+      <block class="full_text">
+        <p>FROM now until June at least, it is likely to be warmer than normal most of the time in most of the country, including the Northeast, according to the first of a new generation of forecasts that the National Weather Service has begun issuing a year or more in advance.</p>
+        <p>Predicting the weather even a month ahead in even the vaguest and most general terms has been a chancy proposition given the atmosphere's chaotic behavior. Until now Government meteorologists have issued forecasts for no more than three months in advance, and then only to describe the chances that a given area would be warmer, colder, wetter or drier than normal. The meteorologists believe they now have the tools to make useful forecasts of this kind many more months ahead, at least under some conditions and in some seasons.</p>
+        <p>One of the conditions lending confidence to the effort is El Nino, the big pool of warm water that periodically materializes in the tropical Pacific, setting off atmospheric chain reactions around the globe. Its powerful effects on air circulation, and therefore on weather, are becoming better known and more predictable. Scientists at the Weather Service's Climate Analysis Center at Camp Springs, Md., now believe that by including El Nino in the computer simulations of the ocean-atmosphere system and statistical analyses of past weather patterns on which long-term forecasts are based, they may be able to extend the horizon of their predictions.</p>
+        <p>El Nino has lately reappeared, and meteorologists have linked it to weather patterns that produced both the torrential rains experienced in California and the unusual warmth enjoyed in the Northeast this month. In issuing the first of its new long-range forecasts last week, the Climate Analysis Center said that El Nino's warmth was likely to reach a peak in the spring, then moderate and continue through the rest of the year. This persistence makes the computer simulations a "viable tool" in forecasting conditions months ahead, the center said.</p>
+        <p>In fact, El Nino has appeared so often in recent years that its impact on the weather has become the rule rather than the exception. Scientists are unsure why this is so. Some speculate that global warming, whether natural or man-made, may be the answer. But others speculate that the reverse may be true, that El Nino may cause the warming.</p>
+        <p>The Weather Service's new long-term forecasts may prove more accurate for midwinter through early spring and mid-to-late summer than those for other times of the year, since the atmosphere over North America tends to be more stable then. "Those are the times when you have the most skill," said Jim Wagner, a senior forecaster and analyst at the Climate Analysis Center.</p>
+        <p>The new forecasts, which will be revised and extended each month, are expected to be most accurate between now and June, Mr. Wagner said. "It's like there's a wall of predictability," he said. "It's almost like it's a whole new ballgame."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

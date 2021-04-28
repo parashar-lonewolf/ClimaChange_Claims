@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate and Economy</title>
+    <meta content="L13CLIM" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1400090"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Kyoto Protocol</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Treaties</classifier>
+        <person class="indexing_service">Kee, Lynn</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E2D7163CF930A25755C0A9649C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate and Economy</hl1>
+      </hedline>
+      <abstract>
+        <p>Lynn Kee letter says that, contrary to Pres Bush's opinion, Kyoto Protocol on global warming would help US economy by creating new technologies and new jobs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Global Warming Follies'' (editorial, June 8):</p>
+        <p>The main reason President Bush rejects the Kyoto Protocol is based on faulty reasoning; he believes that it would hurt the American economy. In fact, the opposite is true.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Global Warming Follies'' (editorial, June 8):</p>
+        <p>The main reason President Bush rejects the Kyoto Protocol is based on faulty reasoning; he believes that it would hurt the American economy. In fact, the opposite is true.</p>
+        <p>What is bad for Exxon is not necessarily bad for the United States economy. Ratifying Kyoto would spur new technologies and create millions of new jobs. This is just what our economy needs.</p>
+        <p>LYNN KEE  Austin, Tex., June 8, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

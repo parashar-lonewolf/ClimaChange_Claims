@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Countering the Contrarians</title>
+    <meta content="LTR234354" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1182085"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <person class="indexing_service">Lashof, Daniel A (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EEDA1338F934A35750C0A9669C8B63" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Countering the Contrarians</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Daniel A Lashof comments on Feb 29 article on contrarian viewpoint regarding global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Before seizing on the views of the small band of skeptics described in ''Global Warming: The Contrarian View'' (Feb. 29) to justify complacency, politicians would do well to consider two questions.</p>
+        <p>First, why do the global warming contrarians always reach the same conclusion, even with shifting arguments? A few years ago contrarians argued that satellite measurements showed that warming was not occurring. More recently they acknowledged that warming might be occurring, but that the rate in recent decades had been slower than expected.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Before seizing on the views of the small band of skeptics described in ''Global Warming: The Contrarian View'' (Feb. 29) to justify complacency, politicians would do well to consider two questions.</p>
+        <p>First, why do the global warming contrarians always reach the same conclusion, even with shifting arguments? A few years ago contrarians argued that satellite measurements showed that warming was not occurring. More recently they acknowledged that warming might be occurring, but that the rate in recent decades had been slower than expected.</p>
+        <p>Now that the National Academy of Sciences has concluded that the observed surface warming is ''undoubtedly real'' and that it has accelerated in recent years, the contrarians have shifted to arguing that the discrepancy between the surface and satellite measurements shows that climate models are inadequate.</p>
+        <p>Second, if climate models are so inadequate, how can the contrarians be so sure that global warming will be mild? Contrarians confidently predict that warming will be at or below the low end of the range considered likely by the Intergovernmental Panel on Climate Change. Given that many of the same people have argued that we don't know enough to make valid global warming forecasts, it's very difficult to understand how the contrarians can rule out the possibility that warming could be as severe as mainstream forecasts suggest.</p>
+        <p>Science thrives on contrarians' challenges to conventional wisdom, but when it comes to global warming policy we shouldn't bet the planet that the contrarians are right.</p>
+        <p>DR. DANIEL A. LASHOF  Washington</p>
+        <p>The writer is a scientist at the Natural Resources Defense Council.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

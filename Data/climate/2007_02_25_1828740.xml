@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Winter That Wasn't (Until It Was)</title>
+    <meta content="25RwinterWC" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1828740"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <person class="indexing_service">Coyne, Kevin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E4D9133EF936A15751C0A9619C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Winter That Wasn't (Until It Was)</hl1>
+      </hedline>
+      <byline class="print_byline">By KEVIN COYNE</byline>
+      <byline class="normalized_byline">Coyne, Kevin</byline>
+      <abstract>
+        <p>Photos of balmy winter days in New York metropolitan area followed by Valentine's Day ice storm</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE world is supposed to contract in the winter, to shrink inside a dark shell, to tighten like a drum. The sun retracts, the light drains, the warmth leaks away. A bony carapace grows over the land, and the soul. Everything soft and green deflates, hardens to a gray, stony core.</p>
+        <p>This winter, though, the wires got crossed. Fishermen gassed up their boats, golfers dug their clubs out of the corners of their garages. Runners needed nothing but T-shirts and shorts. Farmers harvested leeks in January. Perennials debated whether it was time to bloom. The annual Florida diaspora began to look like a quaint anachronism from an era before global warming. Why bother migrating south when the south had migrated north?</p>
+      </block>
+      <block class="full_text">
+        <p>THE world is supposed to contract in the winter, to shrink inside a dark shell, to tighten like a drum. The sun retracts, the light drains, the warmth leaks away. A bony carapace grows over the land, and the soul. Everything soft and green deflates, hardens to a gray, stony core.</p>
+        <p>This winter, though, the wires got crossed. Fishermen gassed up their boats, golfers dug their clubs out of the corners of their garages. Runners needed nothing but T-shirts and shorts. Farmers harvested leeks in January. Perennials debated whether it was time to bloom. The annual Florida diaspora began to look like a quaint anachronism from an era before global warming. Why bother migrating south when the south had migrated north?</p>
+        <p>A penitential blast of cold finally descended, abruptly and belatedly, in mid-January, culminating with a Valentine's Day storm that locked our region in a substance that had begun to seem endangered: ice. It was the kind of ice that we hadn't seen for a while, the kind of ice that lasted. The pond is actually frozen? Where are those skates?</p>
+        <p>Shards of ice, shed by coated vehicles, littered the roads last week, as if the air itself had shattered from the sudden hammer of winter. As bleak a scene as it was, though, there was promise in it.</p>
+        <p>The cold came so fast that the false spring of earlier weeks was, we can only hope, flash-frozen beneath that brittle crust. A warm, soft, green world is already growing under there, impatient to emerge. We know it, because we saw it already, when we weren't supposed to.</p>
+        <p>KEVIN COYNE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

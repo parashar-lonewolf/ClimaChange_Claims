@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Newmont to Add To Peabody Stake</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="274341"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">REFORM AND REORGANIZATION</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">PEABODY HOLDING CO</org>
+        <org class="indexing_service">NEWMONT MINING CORP</org>
+        <org class="indexing_service">EQUITABLE LIFE ASSURANCE SOCIETY OF THE US</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reform and Reorganization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0D8173EF932A2575BC0A96F948260" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Newmont to Add To Peabody Stake</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>DENVER, Aug. 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Newmont Mining Corporation agreed to pay $57.5 million for the 5 percent of the Peabody Holding Company held by the Equitable Life Assurance Society of the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Newmont Mining Corporation agreed to pay $57.5 million for the 5 percent of the Peabody Holding Company held by the Equitable Life Assurance Society of the United States.</p>
+        <p>The Newmont Mining Corporation agreed to pay $57.5 million for the 5 percent of the Peabody Holding Company held by the Equitable Life Assurance Society of the United States.</p>
+        <p>After the completion of the deal, expected in late September, Newmont, which now owns 49.97 percent of Peabody, said it intends to proceed with a recapitalization plan for Peabody. Newmont said last week that it would not proceed with a plan that was announced in May because of uncertainties resulting from the coal miners strike and the Bush Administration's proposals to combat acid rain. Newmont said the company would expect to receive cash proceeds of at least $400 million, which would be used to reduce outstanding debt.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Votes in Congress</title>
+    <meta content="03VOTE$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1509329"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EEDC103EF930A3575BC0A9659C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Votes in Congress</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tally Last Week in Connecticut, New Jersey and New York.</p>
+        <p>Senate</p>
+        <p>1. Energy: Vote on an energy bill that includes provisions to encourage fuel efficiency and greater use of corn-based ethanol and other renewable energy sources. It also includes a $15.2 billion package of tax incentives to spur production of oil, coal, natural gas and alternative sources like wind and solar power. Approved 84 to 14, July 31.</p>
+      </block>
+      <block class="full_text">
+        <p>Tally Last Week in Connecticut, New Jersey and New York.</p>
+        <p>Senate</p>
+        <p>1. Energy: Vote on an energy bill that includes provisions to encourage fuel efficiency and greater use of corn-based ethanol and other renewable energy sources. It also includes a $15.2 billion package of tax incentives to spur production of oil, coal, natural gas and alternative sources like wind and solar power. Approved 84 to 14, July 31.</p>
+        <p>Connecticut  Dodd (D): Yea  Lieberman (D): A</p>
+        <p>New Jersey  Corzine (D): Yea  Lautenberg (D): Nay</p>
+        <p>New York  Clinton (D): Nay  Schumer (D): Nay</p>
+        <p>KEY: (A) Absent or did not vote; (P) Present.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

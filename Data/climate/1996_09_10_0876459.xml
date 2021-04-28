@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. and Big Banks in Home Service Deal</title>
+    <meta content="10BANK$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="876459"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">International Business Machines Corp (IBM)</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Nationsbank Corp</org>
+        <org class="indexing_service">Banc One Corp</org>
+        <org class="indexing_service">Bank of America</org>
+        <org class="indexing_service">First Chicago Nbd Corp</org>
+        <org class="indexing_service">Fleet Financial Group</org>
+        <org class="indexing_service">Keycorp</org>
+        <org class="indexing_service">Pnc Bank</org>
+        <org class="indexing_service">Intuit Inc</org>
+        <org class="indexing_service">Integrion (Co)</org>
+        <person class="indexing_service">Hansell, Saul</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4DB103BF933A2575AC0A960958260" item-length="784" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. and Big Banks in Home Service Deal</hl1>
+      </hedline>
+      <byline class="print_byline">By SAUL HANSELL</byline>
+      <byline class="normalized_byline">Hansell, Saul</byline>
+      <abstract>
+        <p>IBM and group of big banks say that they formed a venture that the banks hope will improve their ability to offer services through home computers and other devices; venture, known as Integrion, is an attempt by both banks and IBM to wrest control over electronic banking from software companies like Microsoft Corp and Intuit Inc; service will first be used by Nationsbank and Banc One Corp as part of Internet banking products; other major banks involved include Bank of America, First Chicago NBD, Fleet Financial Group, Keycorp and PNC Bank (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.B.M. and a group of big banks  said yesterday that they had formed a venture that the banks hoped would  improve their ability to offer services through home computers and other devices.</p>
+        <p>The venture, known as Integrion, is an attempt by both the banks and I.B.M. to wrest control over electronic banking from software companies like the Microsoft Corporation and Intuit Inc. It was introduced with an elaborate news conference in New York with promises about its vast potential.</p>
+      </block>
+      <block class="full_text">
+        <p>I.B.M. and a group of big banks  said yesterday that they had formed a venture that the banks hoped would  improve their ability to offer services through home computers and other devices.</p>
+        <p>The venture, known as Integrion, is an attempt by both the banks and I.B.M. to wrest control over electronic banking from software companies like the Microsoft Corporation and Intuit Inc. It was introduced with an elaborate news conference in New York with promises about its vast potential.</p>
+        <p>''With this new venture, electronic commerce will take its biggest step forward to date,'' Louis V. Gerstner, the chairman of I.B.M., said. ''This is a secure network marketplace that is essential to the growth of electronic business.''</p>
+        <p>Hugh L. McColl Jr., the chairman of the Nationsbank Corporation, one of the banks involved in the venture, described it as an essential step in maintaining the banks' control of the financial system.</p>
+        <p>''The banking industry is responding to the challenge laid down to us by the technology industry,'' Mr. McColl said in an interview. ''Had this system been built by one of our nonbank competitors, we ultimately would be reduced to commodity providers, and our own brands would disappear.''</p>
+        <p>In contrast to the big promises, the initial system the companies described is quite modest.</p>
+        <p>In all, Integrion likely will have no more than 100 employees, in a site to be announced later. It will develop standards for transactions and contract most of the actual processing to I.B.M. and other vendors. Banks that use the system will pay a fee for each transaction. The group hopes to attract other banks to offer their services using the Integrion network.</p>
+        <p>The service will first be used by Nationsbank and the Banc One Corporation as part of Internet banking products to be introduced early next year. Other major banks involved include Bank of America, First Chicago NBD, Fleet Financial Group, Keycorp and PNC Bank. Each is investing ''several million dollars'' into the venture, which is structured as a for-profit company.</p>
+        <p>The deal does play to I.B.M.'s traditional strengths with big computer systems. Financial institutions, as a category, are I.B.M.'s largest group of customers. And both I.B.M. and the banks, for different reasons, see threats in the rise of software companies like Microsoft and Intuit.</p>
+        <p>Those companies have focused on flashy and easy-to-use software that allows consumers to keep track of their money and to move it around. The I.B.M. venture is devoted to the ''plumbing'' in the banks themselves that insures transactions are processed properly.</p>
+        <p>Integrion will not write its own software for use by consumers. Rather it will mainly provide what is known as ''middleware'' software that helps banks handle electronic transactions from a variety of sources. Customers will perform transactions using a variety of methods -- from the bank's home page on the Internet to software like ''Managing your Money,'' from Meca, a company owned by five of the banks in the Integrion group.</p>
+        <p>All of these methods will connect to Integrion's middleware, which in turn will link to the computers of the banks themselves, which will actually perform such transactions as transferring money and requesting balances. The value of the middleware is to assure security and to maintain standards so all the disparate systems can communicate.</p>
+        <p>Separately, Integrion said that it would develop a system to allow banks to offer a bill payment option to their customers. While bill payment is offered by various vendors, including Intuit and the Checkfree Corporation, Integrion said that the size of its bank owners would allow it to offer bill payment at a lower price.</p>
+        <p>Integrion's founders said one of its main purposes was to solve the security concerns raised in doing business over the Internet. But analysts said it was unclear how the new system would be more secure than existing ones, especially as it would allow transactions over the Internet itself, as well as through I.B.M.'s more secure private network.</p>
+        <p>''If you've got millions of customers coming in from the Internet to I.B.M.'s network, you have a huge breach in security that is no different from being entirely on the Internet,'' said David E. Weisman, a analyst with Forrester research in Boston. ''You have opened the hole in the ozone layer.''</p>
+        <p>Moreover, Mr. Weisman said there was security technology being introduced already-- like World Wide Web browsers with sophisticated encryption software that makes interception of sensitive information sent over the Web less likely.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

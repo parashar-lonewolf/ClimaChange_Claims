@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Science Watch; Efficient Solar Power</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="171474"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOLAR ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <org class="indexing_service">SANDIA NATIONAL LABORATORIES</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880816T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DC153DF935A2575BC0A96E948260" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Science Watch; Efficient Solar Power</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Scientists at Sandia National Laboratories in California have developed a photovoltaic cell that can convert 31 percent of the sun's energy striking it into electricity.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Scientists at Sandia National Laboratories in California have developed a photovoltaic cell that can convert 31 percent of the sun's energy striking it into electricity.</p>
+        <p>Scientists at Sandia National Laboratories in California have developed a photovoltaic cell that can convert 31 percent of the sun's energy striking it into electricity.</p>
+        <p>This conversion rate far exceeds the efficiency of currently available commercial units, which operate in the 18 to 20 percent range. Scientists at Sandia estimate that the new cell will not be available for commercial use for 10 to 15 years. But, they say, it could probably be used to power satellites and other space-based technology in as little as 5 years.</p>
+        <p>Scientists at Sandia described the device as layers of gallium arsenide, a semiconducting compound, and silicon crystals. The gallium arsenide absorbs light from the blue end of the spectrum; the silicon absorbs light mostly from the red end of the spectrum. The layers are housed with a concentrator, an optical device that magnifies the intensity of the sunlight focused on it.</p>
+        <p>While the silicon crystalline cell is a proven workhorse and has been the basis for solar technology since research first began more than 20 years ago, the gallium arsenide cell has only recently begun to be tested; Sandia first began working with it in 1984. Engineers at Sandia said they hoped to reach conversion rates of 40 percent or more by 1991. The ultimate goal of the program is to create solar modules that are so efficient that utility companies will consider using them to produce electricity.</p>
+        <p>The Department of Energy reports that solar power, in combination with such other renewable energy sources as wind, geothermal and hydroelectric power, fills about 9 percent of the country's electric needs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

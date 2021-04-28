@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hope for Climate</title>
+    <meta content="01lett-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1714127"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D61F3FF932A35752C1A9639C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hope for Climate</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The outlook of scientists on global warming is not optimistic (''No Escape: Thaw Gains Momentum,'' Oct. 25), but as a high school student living in Alaska, I feel hope for the future. I am an intern researching climate change and recently attended a Snowchange international conference, where indigenous peoples from all Arctic nations gathered to share their observations and concerns.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The outlook of scientists on global warming is not optimistic (''No Escape: Thaw Gains Momentum,'' Oct. 25), but as a high school student living in Alaska, I feel hope for the future. I am an intern researching climate change and recently attended a Snowchange international conference, where indigenous peoples from all Arctic nations gathered to share their observations and concerns.</p>
+        <p>Although their ways of life are threatened, they spoke calmly and wisely, exhibiting faith in the earth. One elder of the Saami people of Finland said, ''I see the beauty of the world, and I believe in the healing power of nature.'' Guided by this insight, we will reduce the impacts of climate change when we learn to work with nature and not against it.</p>
+        <p>Melissa Siy  Anchorage</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

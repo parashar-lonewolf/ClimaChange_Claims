@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Improve Air Quality</title>
+    <meta content="L01PAR$03" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1586016"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <org class="indexing_service">National Park Service</org>
+        <person class="indexing_service">Mainella, Fran (Dir)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DC113EF932A35755C0A9629C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Improve Air Quality</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Fran P Mainella, National Park Service, defends Bush administration record on air quality at national parks (May 16 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your May 16 editorial ''Rescuing the National Parks'' does not reflect Bush administration efforts to improve air quality at our national parks.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your May 16 editorial ''Rescuing the National Parks'' does not reflect Bush administration efforts to improve air quality at our national parks.</p>
+        <p>The Department of Interior and the National Park Service have been working for many years to develop comprehensive pollution control strategies that will benefit parks. We are currently monitoring 63 National Park Service areas for ozone levels, acid rain and visibility.</p>
+        <p>In addition, the president's Clear Skies Initiative will reduce air pollution from power plants by 70 percent, and a new administration rule will reduce nonroad diesel emissions by more than 90 percent.</p>
+        <p>The president's budget request for fiscal year 2005 includes an increase of $77 million for park operations, and $1.11 billion is budgeted to address the maintenance backlog. Our parks are open, as we put out the welcome mat for more than a million visitors a day this summer.</p>
+        <p>FRAN P. MAINELLA  Director, National Park Service  Washington, May 21, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

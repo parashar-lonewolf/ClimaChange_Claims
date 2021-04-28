@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Shrinking Snows of Kilimanjaro</title>
+    <meta content="26WED4" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/11/26/opinion/26WED4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1538362"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Tanzania</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Mountains</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mountains</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <location class="online_producer">Tanzania</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E5D71F3BF935A15752C1A9659C8B63" item-length="369" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Shrinking Snows of Kilimanjaro</hl1>
+        <hl2 class="online_headline">The Shrinking Snows of Kilimanjaro</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Give credit for bold thinking to Prof. Euan Nisbet, a Zimbabwean scientist now working at the University of London. While the rest of us have been wringing our hands at the accelerating disappearance of glaciers, Professor Nisbet has come up with a proposal to slow the melting of the famous glaciers atop Tanzania's Mount Kilimanjaro, the highest mountain in Africa and an iconic symbol of the continent's beauty. The crux of his plan is to drape huge tarpaulins over the edges of two glaciers to retard their melting and buy time for more lasting solutions. It would be a mammoth undertaking yielding dubious benefits.</p>
+        <p>The glaciers on Kilimanjaro have been in retreat for at least a century, shrinking by 80 percent between 1912 and 2000. Although it is tempting to blame global warming, the most likely culprit is deforestation. Forests at the base of the mountain, which once exhaled moisture that replenished and protected the ice fields, have largely disappeared, leaving the glaciers to the mercy of hot, dry winds that erode and melt the high cliffs that form their edges. Experts say the glaciers could disappear within a decade or two, taking with them a frozen record of East Africa's climate over the ages.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Zimbabwean scientist has a plan to slow the melting of the famous glaciers atop Tanzanias Mount Kilimanjaro.</p>
+      </block>
+      <block class="full_text">
+        <p>Give credit for bold thinking to Prof. Euan Nisbet, a Zimbabwean scientist now working at the University of London. While the rest of us have been wringing our hands at the accelerating disappearance of glaciers, Professor Nisbet has come up with a proposal to slow the melting of the famous glaciers atop Tanzania's Mount Kilimanjaro, the highest mountain in Africa and an iconic symbol of the continent's beauty. The crux of his plan is to drape huge tarpaulins over the edges of two glaciers to retard their melting and buy time for more lasting solutions. It would be a mammoth undertaking yielding dubious benefits.</p>
+        <p>The glaciers on Kilimanjaro have been in retreat for at least a century, shrinking by 80 percent between 1912 and 2000. Although it is tempting to blame global warming, the most likely culprit is deforestation. Forests at the base of the mountain, which once exhaled moisture that replenished and protected the ice fields, have largely disappeared, leaving the glaciers to the mercy of hot, dry winds that erode and melt the high cliffs that form their edges. Experts say the glaciers could disappear within a decade or two, taking with them a frozen record of East Africa's climate over the ages.</p>
+        <p>Enter Professor Nisbet, who suggests that huge white tarpaulins be draped over the edges to retard wind erosion and reflect the sunlight, much as the artist Christo adorns the countryside with miles of white fabric. The goal is to slow the melting long enough to replant the forests.</p>
+        <p>An enthusiastic Op-Ed article in this newspaper suggested that the effort to save Kilimanjaro's ice could become a powerful way to say that we do not have to accept environmental change, even when it looks inevitable. But at least one scientist has wondered if the plan might backfire, allowing a little heat to penetrate the tarpaulins and get trapped inside, thus speeding up the melting. Science might be better served by pouring more resources into collecting and studying ice cores before the glaciers disappear and leave Africa with a new icon -- a bare mountaintop underscoring the folly of reckless destruction of the forests.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

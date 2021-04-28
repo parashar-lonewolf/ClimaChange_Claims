@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Kolbert Report</title>
+    <meta content="26letters.2-5" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1749547"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE0DC1E31F935A15750C0A9609C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Kolbert Report</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of ''Field Notes From a Catastrophe,'' by Elizabeth Kolbert (March 12), Carl Zimmer claims that the book has ''flaws that may blunt'' its effectiveness. He also suggests that it ''would have benefited from a deeper exploration of the science of global warming.'' However, Zimmer offered no specifics regarding its supposed scientific shortcomings.</p>
+        <p>In fact, Kolbert dedicates a great deal of her book to the difficult task of familiarizing readers with complicated yet highly relevant scientific topics including Earth's carbon cycle, computer modeling of the climate system and possible technological solutions to the global warming dilemma. From a climate scientist's perspective, Kolbert's writing is technically accurate, concise and well suited for a general audience.</p>
+        <p>James A. Bradbury</p>
+        <p>Northampton, Mass.</p>
+        <p>The writer is a Ph.D. candidate in geosciences at the University of Massachusetts.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of ''Field Notes From a Catastrophe,'' by Elizabeth Kolbert (March 12), Carl Zimmer claims that the book has ''flaws that may blunt'' its effectiveness. He also suggests that it ''would have benefited from a deeper exploration of the science of global warming.'' However, Zimmer offered no specifics regarding its supposed scientific shortcomings.</p>
+        <p>In fact, Kolbert dedicates a great deal of her book to the difficult task of familiarizing readers with complicated yet highly relevant scientific topics including Earth's carbon cycle, computer modeling of the climate system and possible technological solutions to the global warming dilemma. From a climate scientist's perspective, Kolbert's writing is technically accurate, concise and well suited for a general audience.</p>
+        <p>James A. Bradbury</p>
+        <p>Northampton, Mass.</p>
+        <p>The writer is a Ph.D. candidate in geosciences at the University of Massachusetts.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

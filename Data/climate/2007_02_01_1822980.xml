@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cleaner Coal Fuels</title>
+    <meta content="l01mine" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822980"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Coal</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">National Mining Assn</org>
+        <person class="indexing_service">Naasz, Kraig R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EFDC153FF932A35751C0A9619C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cleaner Coal Fuels</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Kraig R Naasz, president and chief executive of National Mining Assn, defends use of coal in overall attempt to reduce emissions and dependence on oil (Jan 25 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Energy Rhetoric, and Reality'' (editorial, Jan. 25), about the president's request for alternative fuels from coal:</p>
+        <p>You oppose converting a portion of United States coal reserves, the world's largest, into transportation fuel because of alleged environmental effects.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Energy Rhetoric, and Reality'' (editorial, Jan. 25), about the president's request for alternative fuels from coal:</p>
+        <p>You oppose converting a portion of United States coal reserves, the world's largest, into transportation fuel because of alleged environmental effects.</p>
+        <p>In fact, carbon dioxide emissions from vehicles powered with coal-derived fuel would be reduced when compared with gasoline over the same number of miles.</p>
+        <p>In addition, the coal liquefaction process that gasifies coal in converting it to liquid fuel not only removes conventional pollutants but is also fully compatible with carbon-capture technology now being developed.</p>
+        <p>Commercial-scale carbon-capture and storage technology is expected to become available within 10 years when the first fleet of domestic coal liquefaction facilities would begin operating, if we started today.</p>
+        <p>You reject carbon sequestration as ''hugely expensive,'' but so, too, is the cost of continued overreliance on foreign sources to meet our nation's domestic energy needs.</p>
+        <p>Kraig R. Naasz  President and Chief Executive  National Mining Association  Washington, Jan. 25, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

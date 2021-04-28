@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="584296"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <org class="indexing_service">COLUMBIA UNIVERSITY</org>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">MUNK, WALTER H (DR)</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <object.title class="indexing_service">VETLESEN PRIZE</object.title>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DE173DF933A15752C0A965958260" item-length="369" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. WALTER H. MUNK, a geophysicist whose research has led to new understanding of the oceans, waves and tides and the rotation of the earth, will receive the Vetlesen Prize at Columbia University tomorrow evening.</p>
+        <p>The $50,000 award, which has been called the Nobel Prize of earth sciences, was last given in 1987. It is awarded by the trustees of Columbia in association with the G. Unger Vetlesen Foundation, established in 1959 and named for a founder of the Scandinavian Airlines System. The award will be presented to Dr. Munk by MICHAEL I. SOVERN, president of Columbia, at a dinner in Low Memorial Library at the university.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. WALTER H. MUNK, a geophysicist whose research has led to new understanding of the oceans, waves and tides and the rotation of the earth, will receive the Vetlesen Prize at Columbia University tomorrow evening.</p>
+        <p>The $50,000 award, which has been called the Nobel Prize of earth sciences, was last given in 1987. It is awarded by the trustees of Columbia in association with the G. Unger Vetlesen Foundation, established in 1959 and named for a founder of the Scandinavian Airlines System. The award will be presented to Dr. Munk by MICHAEL I. SOVERN, president of Columbia, at a dinner in Low Memorial Library at the university.</p>
+        <p>Dr. Munk, 75, is a professor of geophysics at the Institute of Geophysics and Planetary Physics at the Scripps Institution of Oceanography of the University of California at San Diego.</p>
+        <p>Describing himself as a "jack-of-all-trades," having worked on waves, tides and currents, Dr. Munk said yesterday that his most recent research involved "acoustic methods of monitoring and measuring the ocean, to understand why it works the way it does."</p>
+        <p>For three years he has been a leader of the Heard Island experiment, in which acoustic signals were transmitted underwater near an island in the south Indian Ocean. "We want to see if oceans are warming in response to the greenhouse effect," Dr. Munk said, explaining that in water, sound moves faster as the temperature rises.</p>
+        <p>"A year and a half ago at Heard Island," he continued, "we determined that we could get good acoustic transmission over long distances -- we went halfway around the world in sound, both east and west. Now we will do lengthy continuing studies that will take many years before we can recognize with any degree of confidence that changes are related to the greenhouse effect or are just changes that have always taken place."</p>
+        <p>On Friday, he will give a lecture at Columbia's Lamont-Doherty Geological Observatory in Palisades, N.Y., titled "Concerning an April 1944 Prediction by Maurice Ewing and Joe Worzel."</p>
+        <p>"I chose a title that was sufficiently meaningless so that people will come," Dr. Munk said. "It refers to the fact that they first . . . No I can't tell, that would spoil the surprise."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

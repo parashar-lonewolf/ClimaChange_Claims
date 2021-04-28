@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IMAGES OF VENUS REVEAL VOLCANISM</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="418019"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">MAGELLAN VENUS RADAR MAPPER (SPACECRAFT)</classifier>
+        <location class="indexing_service">VENUS (PLANET)</location>
+        <person class="indexing_service">WILFORD, JOHN NOBLE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radar</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DE1F3FF935A15752C0A967958260" item-length="696" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IMAGES OF VENUS REVEAL VOLCANISM</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+      <byline class="normalized_byline">WILFORD, JOHN NOBLE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As the Magellan spacecraft completed mapping nearly half the surface of Venus, scientists yesterday reported increasing evidence that molten rock rising from inside the planet and often erupting as volcanoes has a major role in the planet's rugged landscape and poisonous, thick atmosphere.</p>
+        <p>Officials at the Jet Propulsion Laboratory in Pasadena, Calif., said the spacecraft has orbited the planet almost 1,000 times since it arrived last August and has transmitted radar images covering 45 percent of the surface. The first global survey is scheduled to be completed in late April.</p>
+      </block>
+      <block class="full_text">
+        <p>As the Magellan spacecraft completed mapping nearly half the surface of Venus, scientists yesterday reported increasing evidence that molten rock rising from inside the planet and often erupting as volcanoes has a major role in the planet's rugged landscape and poisonous, thick atmosphere.</p>
+        <p>Officials at the Jet Propulsion Laboratory in Pasadena, Calif., said the spacecraft has orbited the planet almost 1,000 times since it arrived last August and has transmitted radar images covering 45 percent of the surface. The first global survey is scheduled to be completed in late April.</p>
+        <p>The images are produced by radar penetrating the clouds around the planet and are converted to the most detailed maps ever obtained of Venus. They cover the Lakshmi plateau in the northern hemisphere 195 degrees west to the equatorial highlands north of the chasms of a region named for Aphrodite. Nearly all gaps in the coverage, a result of spacecraft problems and the two weeks in November when the Sun blocked communications, are to be filled in by Magellan in the next three years.</p>
+        <p>All the areas mapped so far show widespread evidence of volcanism in relatively recent times, said Dr. Stephen Saunders, the chief project scientist. Other prominent geologic features include mountain ranges that run in straight lines, which have not been found anywhere else in the solar system except Earth. 'Compression on a Large Scale'</p>
+        <p>"These mountain belts are telling us the surface of Venus is undergoing regional compression on a large scale, which is associated with the upwelling of molten lava and the downwelling of cooler material," Dr. Saunders said in a telephone interview.</p>
+        <p>On Earth, such linear mountain belts are associated with the dominant geological force known as plate tectonics. The Earth's crust is broken into several dozen giant plates whose movements cause continents to drift and whose collisions buckle the surface and create mountains.</p>
+        <p>Dr. Saunders said geologists have not been able to determine if any forces similar to Earth's plate tectonics were operating on Venus, but the many lava plains and channels and volcanic domes left no doubt that the interior was hot, turbulent and a significant factor in shaping the surface of a planet virtually the same size as Earth.</p>
+        <p>Among the new radar images released yesterday was one of a 1.2-mile-high volcano in Eistla Regio, a region that may have formed from the upwelling of molten material from the interior. A sequence of bright and dark lava flows appears in the image, the bright ones believed to be associated with the more recent volcanism. An Older Atmosphere</p>
+        <p>Dr. Ellen Stofan, a project geologist, said many volcanic bulges, some more than 100 miles wide, have been identified in other images. They were presumably created by huge blobs of molten rock that rose from inside the planet and pushed the crust upward without causing enormous eruptions, or else led to an outflow of a pasty thick lava.</p>
+        <p>The geologists said some of the topography suggested types of volcanism different from anything on Earth. Lava channels several hundred miles long are longer and more regular than similar features on Earth. Some of the low bulges, or "pancake domes," are up to 20 miles wide and nearly a mile high. Volcanic domes on Earth are much smaller.</p>
+        <p>New analysis of Magellan images indicates that the atmosphere of Venus was not formed recently, as had been thought by many scientists, but at least 400 million to 800 million years ago. The atmosphere is 90 times denser than that of Earth and is composed primarily of carbon dioxide, with some sulfuric acid.</p>
+        <p>The composition was determined by previous spacecraft, but the age of the atmosphere was inferred from the lack of small, newer craters on the surface, Dr. Saunders said. That indicates that the atmosphere has been thick enough long enough to prevent most small asteroids from reaching Venus's surface to gouge out craters.</p>
+        <p>In another byproduct of the mapping missions, Dr. Saunders said, "careful mapping of wind streaks over the entire planet may give us meteorological data about circulation of the atmosphere near the surface."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

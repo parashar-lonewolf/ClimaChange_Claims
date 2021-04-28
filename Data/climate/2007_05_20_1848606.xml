@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TV's Silver Age</title>
+    <meta content="20letters.t-6" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1848606"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Age, Chronological</classifier>
+        <org class="indexing_service">TV Land</org>
+        <person class="indexing_service">rice, m katherine</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05EFD71331F933A15756C0A9619C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TV's Silver Age</hl1>
+      </hedline>
+      <abstract>
+        <p>M Katherine Rice letter comments on Lorne Manly's May 6 article on TV Land cable network and its boomer audience</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TV Land must first acknowledge that its demographic is way too broad (Lorne Manly). Fifty- and 60-year-olds grew up in a different time than 40-year-olds did. Boomers of the 1960s lived through a decade of turmoil, creative explosion and youthful hope for the world.</p>
+      </block>
+      <block class="full_text">
+        <p>TV Land must first acknowledge that its demographic is way too broad (Lorne Manly). Fifty- and 60-year-olds grew up in a different time than 40-year-olds did. Boomers of the 1960s lived through a decade of turmoil, creative explosion and youthful hope for the world.</p>
+        <p>Boomers are a catholic generation. They watched ''That Was the Week That Was'' more often than ''Laugh-In;'' listened to Dylan and made rude jokes about the Monkees; watched ''The Prisoner'' and explored the possibilities of global warming, while the grown-ups said the ''hippies'' were crazy.</p>
+        <p>But most of all, TV Land, stop trying to ''sell'' to us. We're hip to the hype, you know. We invented it.</p>
+        <p>M. Katherine Rice</p>
+        <p>Sacramento, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

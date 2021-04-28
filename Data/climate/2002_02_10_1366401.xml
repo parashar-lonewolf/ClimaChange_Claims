@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>George Divoky's Planet</title>
+    <meta content="LTR113027" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1366401"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Gioia, Rick</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E0D6133DF933A25751C0A9649C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>George Divoky's Planet</hl1>
+      </hedline>
+      <abstract>
+        <p>Rick Gioia letter on Darcy Frey's Jan 6 article on global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What I find even more disturbing than George Divoky's unequivocal evidence of catastrophic global warming (Darcy Frey, Jan. 6) is the overwhelmingly misdirected sentiment voiced by readers in the letters columns of Jan. 20 and 27. Given the scope of what Divoky's field research is proving, it is nothing short of a trivialization of this evidence to dwell, almost exclusively, on his personal sacrifice and commitment. It should go without saying that his contribution is extraordinary and that his dogged pursuit of knowledge is heroic. However, I seriously doubt that this is what Divoky envisions as the legacy of his work: a human interest story suitable for a TV talk show. We're in serious trouble. The ramifications of his evidence are unfathomable. What we must do is act, and act now, to reduce the environmental impact we are having on this planet, not to mold Divoky and his message into a story ready-made for a Hollywood treatment.</p>
+        <p>Rick Gioia  Cornwall-on-Hudson, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>What I find even more disturbing than George Divoky's unequivocal evidence of catastrophic global warming (Darcy Frey, Jan. 6) is the overwhelmingly misdirected sentiment voiced by readers in the letters columns of Jan. 20 and 27. Given the scope of what Divoky's field research is proving, it is nothing short of a trivialization of this evidence to dwell, almost exclusively, on his personal sacrifice and commitment. It should go without saying that his contribution is extraordinary and that his dogged pursuit of knowledge is heroic. However, I seriously doubt that this is what Divoky envisions as the legacy of his work: a human interest story suitable for a TV talk show. We're in serious trouble. The ramifications of his evidence are unfathomable. What we must do is act, and act now, to reduce the environmental impact we are having on this planet, not to mold Divoky and his message into a story ready-made for a Hollywood treatment.</p>
+        <p>Rick Gioia  Cornwall-on-Hudson, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

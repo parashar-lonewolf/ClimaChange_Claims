@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recycled Refrigerators in New England</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="414332"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="CURRENTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">REFRIGERATORS</classifier>
+        <org class="indexing_service">NORTHEAST UTILITIES</org>
+        <object.title class="indexing_service">CURRENTS (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DE1E3EF933A25752C0A967958260" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recycled Refrigerators in New England</hl1>
+      </hedline>
+      <byline class="print_byline">By CAROL VOGEL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OLD refigerators are a problem. Sanitation departments don't want them.  Junkyards won't take them. Charities won't go near them.</p>
+        <p>When older units are placed in landfills, the PCB's (polycholorinated biphenyls) in their capacitors can contaminate groundwater. Moreover, chlorofluorocarbon refrigerants (CFC's) are believed to deplete the ozone layer, which shields the earth from harmful ultraviolet rays.</p>
+        <p>To protect the environment, Northeast Utilities, the largest electric utility system in New England, has an appliance-recycling program in Connecticut and western Massachusetts. Old refrigerators or freezers are picked up free of charge and dismantled.</p>
+        <p>The unit containing CFC's is removed and sent to a laboratory where it is prepared for re-use. The appliance cabinet is sent to a scrap-metal dealer or a shredding mill.</p>
+        <p>"We've been getting about 100 calls a day," said Bruce Wall of Northeast Utilities. Residents of Connecticut and western Massachusetts can call (800) 52-PIKUP.</p>
+      </block>
+      <block class="full_text">
+        <p>OLD refigerators are a problem. Sanitation departments don't want them.  Junkyards won't take them. Charities won't go near them.</p>
+        <p>When older units are placed in landfills, the PCB's (polycholorinated biphenyls) in their capacitors can contaminate groundwater. Moreover, chlorofluorocarbon refrigerants (CFC's) are believed to deplete the ozone layer, which shields the earth from harmful ultraviolet rays.</p>
+        <p>To protect the environment, Northeast Utilities, the largest electric utility system in New England, has an appliance-recycling program in Connecticut and western Massachusetts. Old refrigerators or freezers are picked up free of charge and dismantled.</p>
+        <p>The unit containing CFC's is removed and sent to a laboratory where it is prepared for re-use. The appliance cabinet is sent to a scrap-metal dealer or a shredding mill.</p>
+        <p>"We've been getting about 100 calls a day," said Bruce Wall of Northeast Utilities. Residents of Connecticut and western Massachusetts can call (800) 52-PIKUP.</p>
+        <p>CURRENTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

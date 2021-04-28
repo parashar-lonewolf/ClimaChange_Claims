@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nader's Green Logic</title>
+    <meta content="L03SIE" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/11/03/opinion/L03SIE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1244215"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2000</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <org class="indexing_service">Sierra Club</org>
+        <person class="indexing_service">Nader, Ralph</person>
+        <person class="indexing_service">Bush, George W (Gov)</person>
+        <person class="indexing_service">Pope, Carl</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E0DD1F30F930A35752C1A9669C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nader's Green Logic</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Sierra Club director Carl Pope scorns Ralph Nader's rationalizing that George W Bush victory actually would increase strength of environmental movement; says it would be little solace if membership grew while health suffered and natural resources were plundered; holds that Bush administration would offer less oversight of polluters (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In a Nov. 1 news article about Ralph Nader, the candidate rationalizes a potential presidential victory by George W. Bush by implying that it would be good for the environmental movement. The Sierra Club, he notes, ''doubled its membership under James Watt,'' the interior secretary in the Reagan years.</p>
+        <p>Our membership did rise, but Mr. Nader ignores the harmful consequences of the Reagan-Watt tenure. Logging in national forests doubled.  Acid rain fell unchecked. Cities were choked with smog. Oil drilling, mining and grazing increased on public lands.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In a Nov. 1 news article about Ralph Nader, the candidate rationalizes a potential presidential victory by George W. Bush by implying that it would be good for the environmental movement. The Sierra Club, he notes, ''doubled its membership under James Watt,'' the interior secretary in the Reagan years.</p>
+        <p>Our membership did rise, but Mr. Nader ignores the harmful consequences of the Reagan-Watt tenure. Logging in national forests doubled.  Acid rain fell unchecked. Cities were choked with smog. Oil drilling, mining and grazing increased on public lands.</p>
+        <p>A Bush administration promises more drilling and logging, and less oversight of polluters. It would be little solace if our membership grew while our health suffered and our natural resources were plundered.</p>
+        <p>CARL POPE  Executive Director, Sierra Club  San Francisco, Nov. 1, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

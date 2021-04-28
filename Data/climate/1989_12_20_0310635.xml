@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Greenhouse Effect: Shell Anticipates A Sea Change</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="310635"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <classifier class="indexing_service" type="descriptor">GAS (FUEL)</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <org class="indexing_service">SHELL OIL CO</org>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEEDD1F38F933A15751C1A96F948260" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Greenhouse Effect: Shell Anticipates A Sea Change</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Whether global warming will raise the level of the world's oceans is still being debated, but engineers who build natural-gas production platforms at Shell Oil do not want to take chances. In what is considered the first major project that takes account of the changes the greenhouse effect is expected to bring, the engineers are designing a huge platform that anticipates rising water in the North</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Whether global warming will raise the level of the world's oceans is still being debated, but engineers who build natural-gas production platforms at Shell Oil do not want to take chances. In what is considered the first major project that takes account of the changes the greenhouse effect is expected to bring, the engineers are designing a huge platform that anticipates rising water in the North</p>
+        <p>Whether global warming will raise the level of the world's oceans is still being debated, but engineers who build natural-gas production platforms at Shell Oil do not want to take chances. In what is considered the first major project that takes account of the changes the greenhouse effect is expected to bring, the engineers are designing a huge platform that anticipates rising water in the North Sea.</p>
+        <p>Norske Shell, the company's Norwegian subsidiary, had been planning to build in the Troll gas field a 1.5-million-metric-ton structure that would stand in more than 300 meters of water, or about 1,000 feet, and rise 30 meters above the surface, or about 100 feet.</p>
+        <p>But if those are the dimensions of the structure when it is put in place in 1995, how much will be above the water in 2065, at the end of its life? Engineers are not sure. The global warming of the greenhouse effect, which is caused by carbon dioxide from combustion trapping the sun's heat in the atmosphere, is expected to raise the sea level in two ways: Warmer temperatures mean less water tied up in the ice caps, and therefore more in the oceans; also, warmer water occupies more space than cool water.</p>
+        <p>So the engineers are considering raising the platform from the standard 30 meters - the height now thought necessary to stay above the waves that come in a once-a-century storm - to 31 or 32 meters.</p>
+        <p>A one-meter increase would cost an additional $16 million, said Einar Knudsen, a spokesman for the company in Stavanger, Norway, and a two-meter rise roughly double that. The higher number is about 1 percent of the platform's projected cost.</p>
+        <p>Shell's problem with its gas platform is tougher than the engineering questions involved in building oil platforms, of which the North Sea has many. The oil platforms are typically expected to be in use for only 30 or 35 years. But according to Mr. Knudsen, ''We have such huge gas reserves; we can see this production going on for up to 70 years.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

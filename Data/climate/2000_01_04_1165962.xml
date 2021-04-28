@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dents in the Software</title>
+    <meta content="04TENN$02" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1165962"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EEDC1F38F937A35752C0A9669C8B63" item-length="729" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dents in the Software</hl1>
+      </hedline>
+      <byline class="print_byline">By Edward Tenner</byline>
+      <dateline>PRINCETON, N. J.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The airlines fly, the telephone rings, the holiday credit-card bills arrive -- all pretty much as we expected, once corporations and government agencies showed they were serious about getting computers ready to roll over to the year 2000. Overseas, where the major industrial countries thought there might really be problems, turnabout is fair play: some officials who run Russia's atomic power program -- the focus of so much Western concern -- now dismiss Y2K as a plot by the American software industry.</p>
+        <p>Did we overspend in our estimated $100 billion outlay on Y2K? Of course. We're Americans. We're overfed and overarmed. Our mattresses are so thick they need stepladders. We buffed our code, we re-engineered, we tested and tested again. Still, much of what was done had to be done. And some information technology experts now foresee a new organizational golden age as a result of their work, as new systems improve productivity and reliability.</p>
+      </block>
+      <block class="full_text">
+        <p>The airlines fly, the telephone rings, the holiday credit-card bills arrive -- all pretty much as we expected, once corporations and government agencies showed they were serious about getting computers ready to roll over to the year 2000. Overseas, where the major industrial countries thought there might really be problems, turnabout is fair play: some officials who run Russia's atomic power program -- the focus of so much Western concern -- now dismiss Y2K as a plot by the American software industry.</p>
+        <p>Did we overspend in our estimated $100 billion outlay on Y2K? Of course. We're Americans. We're overfed and overarmed. Our mattresses are so thick they need stepladders. We buffed our code, we re-engineered, we tested and tested again. Still, much of what was done had to be done. And some information technology experts now foresee a new organizational golden age as a result of their work, as new systems improve productivity and reliability.</p>
+        <p>But Y2K is not over. Computing has another, less dramatic side that consumers don't always see directly: the inevitable incidence of small and annoying, though manageable, errors introduced by human beings as programs are written and updated. New code always has bugs, and Y2K repairs have sometimes interfered with other computer functions: for example, temporarily disabling some screen fonts.</p>
+        <p>As these errors show themselves, technical people fix them and move on, issuing no press releases. So I'll volunteer one instance of the unexpected small and annoying problem:  Since Jan. 1, my copy of Word Perfect 5.1, said to be compliant, can't delete the last file I've saved to a directory.</p>
+        <p>Many Y2K-related problems yet to come won't have any apparent links to the date. They will be the inevitable product of bigger programs written by larger and larger teams with less and less grasp of the program as a whole -- a trend that paradoxically results from making computers so much easier to use. We avoided the big crash, but we may have more little dents to hammer out.</p>
+        <p>None of this is really surprising. Technology's trend for the last century has been to convert catastrophic problems into chronic ones. Chlorofluorocarbons stopped refrigerator explosions but began the slow depletion of the ozone layer. Programmers got more capacity out of the limited early computers by chopping the first two digits off years in all the dates they used, and we had to scramble to rewrite what they had done.</p>
+        <p>Outside the world of technology, too, we spread our problems brilliantly: contrast the panic of 1929 with the slow, non-catastrophic pain of the savings and loan bailout. We defuse problems by diffusing them.</p>
+        <p>Fixing Y2K-related bugs is yet another tedious maintenance routine, part of computing, with all of its rituals of defragmenting disks, backing up data and scrambling to load the latest virus definitions. We will always need patches to keep our systems going.</p>
+        <p>The real question now is whether the Y2K experience will inspire better long-term thinking and more reliable technology or whether it will prolong the attitudes that helped make conversion so expensive -- the thinking that puts exciting new features ahead of reliability and security.</p>
+        <p>There is evidence on both sides. Many systems have been replaced, but others have been extended by techniques that will require another round of fixes within the next 20 years; 2000 looked far away in the early 1980's, when fixes were installed that only put the problems off.</p>
+        <p>Meanwhile, the great disasters of the turn of the millennium have been not electronic but techno-environmental, the result of our building where nature plans mudslides or earthquakes, for example, or our obliging global transportation of microorganisms. Our response to these, as to computer security, can't necessarily be glamorous or lucrative. It might be tedious.</p>
+        <p>But if we have learned anything from Y2K, it is the truth of Napoleon's observation that in the last resort ''everything invariably turns upon a trifle.''</p>
+        <p>Edward Tenner is a visiting researcher in the geosciences department at Princeton University and the author of ''Why Things Bite Back.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Edward Tenner is a visiting researcher in the geosciences department at Princeton University and the author of ''Why Things Bite Back.''</tagline>
+    </body.end>
+  </body>
+</nitf>

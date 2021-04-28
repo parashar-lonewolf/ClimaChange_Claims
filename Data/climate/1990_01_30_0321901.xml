@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics of The Times;   Trees of Life</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="321901"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">TREES AND SHRUBS</classifier>
+        <person class="indexing_service">BUSH, GEORGE (PRES)</person>
+        <person class="indexing_service">REAGAN, RONALD WILSON</person>
+        <object.title class="indexing_service">TOPICS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DA1330F933A05752C0A966958260" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics of The Times;   Trees of Life</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: With insufficient credit, President Bush has just broken with former President Reagan's doctrine of killer trees. Mr. Reagan seemed to condemn trees, calling them a source of pollution. On the opposite principle that they absorb pollution, Mr. Bush has announced a plan to plant a billion new trees a year for 10 years.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: With insufficient credit, President Bush has just broken with former President Reagan's doctrine of killer trees. Mr. Reagan seemed to condemn trees, calling them a source of pollution. On the opposite principle that they absorb pollution, Mr. Bush has announced a plan to plant a billion new trees a year for 10 years.</p>
+        <p>With insufficient credit, President Bush has just broken with former President Reagan's doctrine of killer trees. Mr. Reagan seemed to condemn trees, calling them a source of pollution. On the opposite principle that they absorb pollution, Mr. Bush has announced a plan to plant a billion new trees a year for 10 years.</p>
+        <p>The billion trees will be planted on private land, with the help of $110 million from Washington. Mr. Bush also wants cities and citizens to plant urban trees, which soak up even more carbon dioxide than their rural cousins. Thirty million trees is the civic target; no doubt a thousand points of light will help, as philanthropy aids photosynthesis.</p>
+        <p>Carbon dioxide is the pollutant gas that traps the sun's heat as it builds up in the atmosphere and may in time change the climate. An acre of growing trees can absorb each year 2.5 to 9 tons of carbon dioxide. The 10 billion new trees should in time absorb 13 million tons of carbon dioxide a year, or 5 percent of the U.S. annual emissions of the gas, according to the President's budget report.</p>
+        <p>That may be a small contribution toward averting the greenhouse effect, but it is well worth taking, and cheap compared with other ways of reducing carbon dioxide. Only forest fires in Mr. Bush's new plantations will send carbon dioxide back to the atmosphere and rekindle fears of the killer trees.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

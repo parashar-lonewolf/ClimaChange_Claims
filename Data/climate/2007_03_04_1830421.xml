@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nuclear Power And Its Critics</title>
+    <meta content="l04nuclear" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/04/opinion/nyregionopinions/l04west.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1830421"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Westchester"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <location class="indexing_service">Buchanan (NY)</location>
+        <person class="indexing_service">Rickles, Glenn</person>
+        <person class="indexing_service">Lawrence, Laurent L</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Westchester County (NY)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070304T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4DD1631F937A35750C0A9619C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nuclear Power And Its Critics</hl1>
+        <hl2 class="online_headline">Nuclear Power and Its Critics (2 Letters)</hl2>
+      </hedline>
+      <abstract>
+        <p>Indian Point Safety Energy Coalition steering committee member Glenn Rickles and New York Affordable Reliable Electriicty Alliance executive director Laurent L Lawrence letters on February 25 editorial on saftey issues at Indian Point nuclear power plant</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Play It Safe at Indian Point'' (editorial, Feb. 25), you suggest that nuclear power plants are beneficial from a green perspective. When the entirety of the life cycle of a nuclear plant -- inclusive of uranium mining and production, plant construction and the like -- are viewed, when the environmental impact of daily radioactive releases from plants and the environmental effects of thousands of radioactive spent fuel rods are viewed, the green claim evaporates.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nuclear Power.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Play It Safe at Indian Point'' (editorial, Feb. 25), you suggest that nuclear power plants are beneficial from a green perspective. When the entirety of the life cycle of a nuclear plant -- inclusive of uranium mining and production, plant construction and the like -- are viewed, when the environmental impact of daily radioactive releases from plants and the environmental effects of thousands of radioactive spent fuel rods are viewed, the green claim evaporates.</p>
+        <p>In fact, renewable energy sources coupled with energy efficiencies -- attainable goals, just witness California and Europe -- are much more cost-effective and attainable in combating global warming than nuclear plants and much less dangerous. Even modest investments in efficiencies and renewables would reduce global warming pollutants by 47 percent by 2025. And each dollar invested in energy efficiency displaces seven times as much carbon dioxide as a dollar invested in nuclear power.</p>
+        <p>Glenn Rickles  Croton-on-Hudson</p>
+        <p>The writer is on the steering committee of the Indian Point Safe Energy Coalition.</p>
+        <p>To the Editor:</p>
+        <p>In ''Play It Safe at Indian Point,'' you asked why Entergy wouldn't welcome an independent assessment of the Indian Point nuclear power plant if such a review would satisfy the scrutiny of nuclear critics. But these critics can't be satisfied.</p>
+        <p>For example, in June 2006 an assessment on the feasibility of replacing the power produced by Indian Point, the result of a two-year study by the National Academy of Sciences commissioned by Representative Nita M. Lowey, found that closing the plant would not be easily accomplished, nor was it advisable.</p>
+        <p>Yet these critics continue to claim that Indian Point can be closed with no adverse consequences to the energy production or economy of the region.</p>
+        <p>Laurent L. Lawrence  New Rochelle</p>
+        <p>The writer is executive director of the New York Affordable Reliable Electricity Alliance, which is partially financed by Entergy.</p>
+        <p>Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

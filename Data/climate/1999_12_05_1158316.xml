@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Designs for the Next Millennium; Ocean Group</title>
+    <meta content="MB124855" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="128" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1158316"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED7133FF936A35751C1A96F958260" item-length="333" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Designs for the Next Millennium; Ocean Group</hl1>
+      </hedline>
+      <byline class="print_byline">By Herbert Muschamp</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ocean represents architecture's newest wave: designers who live in different areas (in this case, Helsinki, Oslo and Cologne) yet practice together in a paperless office located in cyberspace. They create designs that explore the expressive potential of computer software.</p>
+        <p>''Adrift,'' their proposal for the Times Capsule, reflects the group's wired, polymorphic sensibility. The proposal calls for the construction of nine capsules that would be airdropped onto the Antarctic ice shelf. With gradual global warming, the ice would melt and, over the centuries, the capsules would be released progressively into the oceans -- the latter-day equivalent of a message in a bottle. A monitoring system, based in New York, would track the drifting movement of the capsules, which would contain radio transmitters powered by special seawater batteries.</p>
+      </block>
+      <block class="full_text">
+        <p>Ocean represents architecture's newest wave: designers who live in different areas (in this case, Helsinki, Oslo and Cologne) yet practice together in a paperless office located in cyberspace. They create designs that explore the expressive potential of computer software.</p>
+        <p>''Adrift,'' their proposal for the Times Capsule, reflects the group's wired, polymorphic sensibility. The proposal calls for the construction of nine capsules that would be airdropped onto the Antarctic ice shelf. With gradual global warming, the ice would melt and, over the centuries, the capsules would be released progressively into the oceans -- the latter-day equivalent of a message in a bottle. A monitoring system, based in New York, would track the drifting movement of the capsules, which would contain radio transmitters powered by special seawater batteries.</p>
+        <p>Italo Calvino devotes the fifth of his ''Six Memos for the Next Millennium'' to what he calls multiplicity -- the idea that literature should encompass the variety, breadth and emotional richness of the modern self. The Ocean project embodies something close to this idea. Using computer software, the designers have molded a series of three-dimensional shapes that would result from wrapping a thin skin of titanium around ceramic capsule containers. The shapes would be different because the contents would be different, but all would be smooth, tactile things embodying doves, porpoises, whipped cream, fine sand, powder snow, the curve of a woman's torso as painted by Ingres.</p>
+        <p>Herbert Muschamp is the architecture critic of The New York Times.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Herbert Muschamp is the architecture critic of The New York Times.</tagline>
+    </body.end>
+  </body>
+</nitf>

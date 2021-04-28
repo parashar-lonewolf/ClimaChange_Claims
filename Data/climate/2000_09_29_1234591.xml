@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Senators Doubt Progress on Global Warming Plan</title>
+    <meta content="Y29CLI$03" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/29/science/29CLIM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234591"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <person class="indexing_service">Loy, Frank E</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EFD81F3AF93AA1575AC0A9669C8B63" item-length="413" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Senators Doubt Progress on Global Warming Plan</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <dateline>WASHINGTON, Sept. 28</dateline>
+      <abstract>
+        <p>Several Republican senators express strong concerns that talks to flesh out details of global-warming treaty signed by administration in 1998 would never produce document that Senate would approve; their comments come as Frank E Loy, undersecretary of state for global affairs, speaks at joint hearing of Senate Foreign Relations and Energy and Natural Resources Committees in which he defends efforts to transform treaty, Kyoto Protocol, from broad commitment to stem global emissions of greenhouse gases into detailed, enforceable plan (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Several Republican senators today expressed strong concerns that talks to flesh out details of a global-warming treaty signed by the administration in 1998 would never produce a document that the Senate would approve.</p>
+        <p>The comments came as Frank E. Loy, undersecretary of state for global affairs, spoke at a joint hearing of the Senate Foreign Relations and Energy and Natural Resources Committees in which he defended efforts to transform the treaty, the Kyoto Protocol, from a broad commitment to stem global emissions of heat-trapping greenhouse gases into a detailed, enforceable plan.</p>
+      </block>
+      <block class="full_text">
+        <p>Several Republican senators today expressed strong concerns that talks to flesh out details of a global-warming treaty signed by the administration in 1998 would never produce a document that the Senate would approve.</p>
+        <p>The comments came as Frank E. Loy, undersecretary of state for global affairs, spoke at a joint hearing of the Senate Foreign Relations and Energy and Natural Resources Committees in which he defended efforts to transform the treaty, the Kyoto Protocol, from a broad commitment to stem global emissions of heat-trapping greenhouse gases into a detailed, enforceable plan.</p>
+        <p>The protocol calls for the United States and other industrialized countries to start by 2008 reducing emissions of greenhouse gases like carbon dioxide, which comes mainly from burning coal and oil. More than 150 countries have signed the protocol, but it has not been ratified by any of the world's industrial powers.</p>
+        <p>Negotiations will resume in November in The Hague on a variety of points, including defining ways for wealthy countries to get credit toward emissions targets by paying for projects in developing countries that help prevent releases of greenhouse gases as those economies grow.</p>
+        <p>Senator Frank H. Murkowski, the Alaska Republican who is chairman of the energy committee, said important aspects of the treaty were far from the goals the Senate set in a resolution 1997, before the accord was adopted at a Kyoto meeting.</p>
+        <p>It would still be an unfair burden on the American economy, Mr. Murkowski said, by forcing cuts in the use of coal and oil. And, he added, there appeared to be no requirement for developing countries to limit future emissions. That was a specific demand of in the Senate resolution, which passed on a 95-to-0 vote.</p>
+        <p>Mr. Loy, the chief negotiator for the United States in recent rounds of climate talks, said the agreement was not, and would not -- even after further talks -- be a complete or perfect solution to global warming.  But, he said, it is an essential start, providing relatively cheap insurance against harm if scientists' predictions of the consequences of a warming climate prove correct.</p>
+        <p>Senator Richard G. Lugar, Republican of Indiana, said there were signs in his state that farmers would support a treaty if they got financial credits for sopping up carbon dioxide through certain farming methods.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

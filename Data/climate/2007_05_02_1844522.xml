@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | United Nations: 3 Climate Change Envoys Appointed</title>
+    <meta content="02briefs-7" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844522"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Hoge, Warren</person>
+        <person class="indexing_service">Ban Ki-Moon (Sec Gen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E4DB103EF931A35756C0A9619C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | United Nations: 3 Climate Change Envoys Appointed</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN HOGE</byline>
+      <byline class="normalized_byline">Hoge, Warren</byline>
+      <abstract>
+        <p>Sec Gen Ban Ki-moon chooses three international figures to help him chart way for United Nations to take lead in addressing climate change (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Secretary General Ban Ki-moon chose three international figures to help him chart a way for the United Nations to take the lead in addressing climate change. The special envoys are Gro Harlem Brundtland, a former prime minister of Norway; Ricardo Lagos, a former president of Chile; and Han Seung-soo, a former foreign minister of South Korea and president of the General Assembly in 2001. Michèle Montas, Mr. Ban's spokeswoman, said the three would prepare proposals for the opening of the General Assembly in September when national leaders come to New York and for a United Nations conference in Bali, Indonesia, in December. Last month, the first-ever debate on climate change was held in the Security Council.</p>
+        <p>WARREN HOGE</p>
+      </block>
+      <block class="full_text">
+        <p>Secretary General Ban Ki-moon chose three international figures to help him chart a way for the United Nations to take the lead in addressing climate change. The special envoys are Gro Harlem Brundtland, a former prime minister of Norway; Ricardo Lagos, a former president of Chile; and Han Seung-soo, a former foreign minister of South Korea and president of the General Assembly in 2001. Michèle Montas, Mr. Ban's spokeswoman, said the three would prepare proposals for the opening of the General Assembly in September when national leaders come to New York and for a United Nations conference in Bali, Indonesia, in December. Last month, the first-ever debate on climate change was held in the Security Council.</p>
+        <p>WARREN HOGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

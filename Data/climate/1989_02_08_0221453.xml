@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Keeping the Pickle Crunchy</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="221453"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CUCUMBERS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">AGRICULTURE, DEPARTMENT OF (US)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vegetables</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEED61E3FF93BA35751C0A96F948260" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Keeping the Pickle Crunchy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Since man first tossed cucumbers in brine - and savored the sour results - the pickle business has not exactly sparkled with technical innovation. But now a researcher for the Department of Agriculture has developed a patented process to make kosher dills keep their crunch. Some say the development could amount to a small revolution for the $400 million industry.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Since man first tossed cucumbers in brine - and savored the sour results - the pickle business has not exactly sparkled with technical innovation. But now a researcher for the Department of Agriculture has developed a patented process to make kosher dills keep their crunch. Some say the development could amount to a small revolution for the $400 million industry.</p>
+        <p>Since man first tossed cucumbers in brine - and savored the sour results - the pickle business has not exactly sparkled with technical innovation. But now a researcher for the Department of Agriculture has developed a patented process to make kosher dills keep their crunch. Some say the development could amount to a small revolution for the $400 million industry.</p>
+        <p>A team of scientists led by Henry P. Fleming has developed a microorganism for use in the cucumber pickling process that requires less salt and is less likely to cause softening or a bloating of the cucumber. During the last six years, the team at the Agricultural Research Service Laboratory in Raleigh, N.C., chemically mutated, selected and improved strains of Lactobacillus plantarum, the bacteria that gives pickles their characteristic sour taste.</p>
+        <p>The mutated bacteria's major value is that they do not produce carbon dioxide during fermentation; carbon dioxide causes gas pockets - called bloater damage in cucumbers -that destroy the desirable crunch. The industry currently avoids bloater damage by injecting fermentation tanks with nitrogen to drive off the carbon dioxide, but this requires open-topped tanks, which in turns requires the use of large quantities of salt to prevent spoilage.</p>
+        <p>Low-salt fermentation would be especially helpful for true dill pickles, which are packed in the original pickling brine. ''Regard for genuine dills has fallen off, partly because of their high salt content,'' Mr. Fleming said. ''This could revive their popularity.'' Closed tanks also give pickle makers much more control of the process. ''The tanks and the bacteria are both parts of an overall picture that could end up revolutionizing pickle making,'' he said. The process is now being tested by the Mount Olive Pickle Company of Mount Olive, N.C.</p>
+        <p>BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

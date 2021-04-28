@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.N.'s 'Utopian' Vision</title>
+    <meta content="L25HEL$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1171255"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Fischer, Dietrich</person>
+        <person class="indexing_service">Helms, Jesse (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E5DC163CF936A15752C0A9669C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.N.'s 'Utopian' Vision</hl1>
+      </hedline>
+      <abstract>
+        <p>Dietrich Fischer letter on Sen Jesse Helms's warning to United Nations to keep its 'utopian visions' away from American people; contends that there are some global problems that cannot be solved at national level</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>You report that Senator Jesse Helms, the chairman of the Foreign Relations Committee, ''warned the United Nations to keep its 'utopian' visions away from the American people'' (''Helms, in Visit to U.N., Offers Harsh Message,'' front page, Jan. 21).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>You report that Senator Jesse Helms, the chairman of the Foreign Relations Committee, ''warned the United Nations to keep its 'utopian' visions away from the American people'' (''Helms, in Visit to U.N., Offers Harsh Message,'' front page, Jan. 21).</p>
+        <p>But there are some global problems that cannot be solved at the national level. For example, no country has sovereign control over the ozone layer that protects us from cancer-causing ultraviolet radiation.  To save it, all countries need to accept limits on their emissions of ozone-depleting gases. Similarly, if a single country sells nuclear weapons to terrorists, everyone on earth is in grave danger.</p>
+        <p>By creating some limited global authority to address problems that no country can solve alone, we gain added control that we do not now possess and could never achieve at the national level.</p>
+        <p>DIETRICH FISCHER  Princeton Junction, N.J., Jan. 22, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

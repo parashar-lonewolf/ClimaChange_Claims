@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reef Coral Wiped Out</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="458539"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CORAL</classifier>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D9103CF93AA35754C0A967958260" item-length="374" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reef Coral Wiped Out</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A species of reef-building coral is believed to be extinct and the range of another has been severely reduced, perhaps because of a sharp rise in ocean temperature, scientists say.</p>
+        <p>An unnamed species of Millepora, which lived only in the Gulf of Chiriqui, off western Panama, has not been seen since 1983. Another species, M. platyphylla, has disappeared from the gulf but still lives in a few other regions of the Pacific Ocean.</p>
+      </block>
+      <block class="full_text">
+        <p>A species of reef-building coral is believed to be extinct and the range of another has been severely reduced, perhaps because of a sharp rise in ocean temperature, scientists say.</p>
+        <p>An unnamed species of Millepora, which lived only in the Gulf of Chiriqui, off western Panama, has not been seen since 1983. Another species, M. platyphylla, has disappeared from the gulf but still lives in a few other regions of the Pacific Ocean.</p>
+        <p>This marks the first documented losses among coral reef species, the scientists say. A third species in the gulf, M. intricata, drastically declined but has recovered.</p>
+        <p>The coral was wiped out in 1982-83, in the aftermath of El Nino, a massive swath of extremely warm water that periodically disrupts normal air and water circulations in the Pacific and can cause widespread increases in sea surface temperature and climate disturbances.</p>
+        <p>Dr. Peter W. Glynn, a marine biologist at the University of Miami, and Dr. Wallie H. de Weerdt, a marine biologist now at the University of Amsterdam, reported their findings in the current issue of the journal Science.</p>
+        <p>"Millepora seems to be particularly sensitive to changes in water temperature," Dr. de Weerdt said. About 80 degrees Fahrenheit is the optimum temperature for coral growth, she said, but in 1982-83 the surface waters warmed to nearly 86 degrees.</p>
+        <p>"The optimum temperature for coral is extremely close to the limit beyond which it cannot survive," Dr. de Weerdt said. "Just a few degrees warmer can be devastating."</p>
+        <p>High temperatures cause the coral to expel algae, which they depend on for color, energy and oxygen. Weakened and pale, the coral can die.</p>
+        <p>Many populations of the eastern Pacific reef coral are small and geographically isolated, thus especially vulnerable to extinction, the scientists said. They warn that other reef-building coral species with restricted ranges could succumb to a slight but sustained rise in sea temperature caused by global warming.</p>
+        <p>The loss of coral is tragic, Dr. de Weerdt said. Living coral reefs are the basis of a delicate ecosystem, contributing oxygen to the water and sheltering thousands of marine organisms. Reefs also form the chief barrier to erosion threatening Caribbean coastlines.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

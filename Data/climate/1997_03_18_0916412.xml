@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fish Damage Linked to UV</title>
+    <meta content="18FISH" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="916412"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Ultraviolet Light</classifier>
+        <classifier class="indexing_service" type="descriptor">Ozone</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Icefish</classifier>
+        <classifier class="indexing_service" type="descriptor">Deoxyribonucleic Acid (Dna)</classifier>
+        <classifier class="indexing_service" type="descriptor">Chlorofluorocarbons</classifier>
+        <location class="indexing_service">Antarctic Regions</location>
+        <org class="indexing_service">Northeastern University</org>
+        <org class="indexing_service">University of Texas</org>
+        <org class="indexing_service">National Academy of Sciences</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E1DC1238F93BA25750C0A961958260" item-length="296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fish Damage Linked to UV</hl1>
+      </hedline>
+      <abstract>
+        <p>Scientists from Northeastern University and University of Texas in Austin find first direct evidence that ultraviolet rays penetrating protective ozone layer over Antarctica are causing damage to DNA of higher animals; say that during period when ozone hole is most intense they found DNA lesions, or damage, in eggs and larvae of icefish--Antarctic fish that lack hemoglobin (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCIENTISTS have found the first direct evidence that ultraviolet rays penetrating the protective ozone layer over Antarctica are causing damage to the DNA of higher animals.</p>
+        <p>Since the late 1970's, the natural layer of ozone in the stratosphere has thinned over the Antarctic continent, and during each Southern Hemisphere spring scientists have come to expect the opening of an ozone ''hole'' lasting for several weeks.</p>
+      </block>
+      <block class="full_text">
+        <p>SCIENTISTS have found the first direct evidence that ultraviolet rays penetrating the protective ozone layer over Antarctica are causing damage to the DNA of higher animals.</p>
+        <p>Since the late 1970's, the natural layer of ozone in the stratosphere has thinned over the Antarctic continent, and during each Southern Hemisphere spring scientists have come to expect the opening of an ozone ''hole'' lasting for several weeks.</p>
+        <p>The thinning of the ozone layer throughout the world is believed to be mainly the result of damage caused by chlorofluorocarbons released from refrigerators, air-conditioners and propellants.</p>
+        <p>In recent years, investigators have found that algae -- plant microorganisms living on the underside of Antarctic sea ice -- have suffered reduced reproduction rates that many scientists ascribe to the ozone hole. Algae are at the bottom of the food chain, and they are vital to the survival of marine animals.</p>
+        <p>In a report published last month in The Proceedings of the National Academy of Sciences, scientists from Northeastern University in Boston and the University of Texas at Austin said that during the period when the ozone hole was most intense they found extensive DNA lesions, or damage, in the eggs and larvae of icefish -- Antarctic fish that lack hemoglobin.</p>
+        <p>Dr. William Detrich of Northeastern said, ''It is striking how closely the damage to the fish eggs tracked with the increased intensity of ultraviolet light.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recycling Lesson, Taught by the Children</title>
+    <meta content="L06RECY" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1406007"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="indexing_service" type="descriptor">Recycling of Waste Materials</classifier>
+        <person class="indexing_service">Mizutani, Erica</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3D71031F935A35754C0A9649C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recycling Lesson, Taught by the Children</hl1>
+      </hedline>
+      <abstract>
+        <p>Teen Erica Mizutani letter on July 4 editorial urges government to encourage recycling; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''100 Bottles of Beer in the Trash'' (editorial, July 4):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''100 Bottles of Beer in the Trash'' (editorial, July 4):</p>
+        <p>When we take the time and trouble to sort garbage for recycling, we feel that we're doing our part. When stores set aside space for bottles and cans so that they can be recycled, they are doing their part. People are used to going through the steps required in order to make recycling work.</p>
+        <p>I am 13, and the middle school curriculum constantly features material about pollution, species extinction, rain-forest elimination and global warming. You can hardly complete a book report without covering those subjects. Everyone knows that we are running out of landfill space and are damaging our environment.</p>
+        <p>We want to cooperate with recycling, but the government won't let us. The government must do its part so that we can do ours.</p>
+        <p>ERICA MIZUTANI  Middle Village, Queens  July 4, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

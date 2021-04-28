@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Global Climate Gamble</title>
+    <meta content="LTR234956" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1373121"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Fuoss, Paul</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE7D71730F936A35750C0A9649C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Global Climate Gamble</hl1>
+      </hedline>
+      <abstract>
+        <p>Paul Fuoss letter holds we should discuss ethics and humility of Pres Bush's policy of forcing costs of global warming on world</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Since the costs of global warming fall mainly on other countries, President Bush's gamble should be characterized ''heads we win, tails they lose'' (''Climate Plan Is Criticized'').</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Since the costs of global warming fall mainly on other countries, President Bush's gamble should be characterized ''heads we win, tails they lose'' (''Climate Plan Is Criticized'').</p>
+        <p>Perhaps we should discuss the ethics and humility of forcing that bet on the world.</p>
+        <p>PAUL FUOSS  Woodridge, Ill.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Safer Firefighter</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="443675"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">FIRES AND FIREMEN</classifier>
+        <classifier class="indexing_service" type="descriptor">CHEMICALS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DE1538F934A35756C0A967958260" item-length="398" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Safer Firefighter</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new fire-extinguishing chemical has been shown to be less destructive to the earth's protective ozone layer than two compounds now in use, researchers say.</p>
+        <p>The six-member team of atmospheric chemists reported in the current issue of the journal Science that the substitute, CHF2Br, lasts in the stratosphere only one-tenth as long as halon 1301 and half as long as halon 1211. This means it would destroy less ozone in its lifetime.</p>
+      </block>
+      <block class="full_text">
+        <p>A new fire-extinguishing chemical has been shown to be less destructive to the earth's protective ozone layer than two compounds now in use, researchers say.</p>
+        <p>The six-member team of atmospheric chemists reported in the current issue of the journal Science that the substitute, CHF2Br, lasts in the stratosphere only one-tenth as long as halon 1301 and half as long as halon 1211. This means it would destroy less ozone in its lifetime.</p>
+        <p>Man-made chlorofluorocarbons, halons and other chemicals are damaging the layer of stratospheric ozone, which blocks some of the sun's dangerous ultraviolet radiation. Scientists say the extra radiation reaching the earth's surface could cause hundreds of thousands of skin cancer deaths in coming decades and disrupt plant growth.</p>
+        <p>The leader of the research team, A. R. Ravishankara of the National Oceanic and Atmospheric Administration's aeronomy laboratory in Boulder, Colo., said much of the proposed substitute agent would be destroyed before reaching the stratosphere.</p>
+        <p>But he said CHF2Br, a halogenated chlorofluorocarbon, was not likely to be the last word on the subject. "We do need to keep up the search for something better," he said. "From some points of view, this replacement would still be unacceptable."</p>
+        <p>Some environmental advocates have been calling on the Environmental Protection Agency to make sure that replacements for ozone-depleting chemicals are totally ozone-safe, rather than settling for modest improvements.</p>
+        <p>CHF2Br is produced by Great Lakes Chemical Corporation of West Lafayette, Ind., under the trade name FM-100. Dave Bouchard, director of investor relations for Great Lakes, said the chemical had been approved only for use in areas where people do not usually live or work. The next step is to submit toxicity tests to the E.P.A. to show it is safe for widespread use in hand-held fire extinguishers and other applications.</p>
+        <p>The Ravishankara team calculated the atmospheric lifetime of CHF2Br at about seven years. By comparison, halon 1301 has an atmospheric lifetime of about 75 years. The advantage is not as dramatic over halon 1211, which has an atmospheric lifetime of about 15 years, but smaller quantities are needed to extinguish a fire compared with CHF2Br.</p>
+        <p>Great Lakes estimates the global market for halon 1211 at 25 million pounds and that for halon 1301 at up to 20 million pounds. (AP)  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

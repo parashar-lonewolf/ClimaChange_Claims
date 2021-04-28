@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: It Just Rained a Lot</title>
+    <meta content="MB000924" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1518804"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Records and Achievements</classifier>
+        <location class="indexing_service">Oder (River)</location>
+        <location class="indexing_service">Elbe (River)</location>
+        <location class="indexing_service">Prague (Czech Republic)</location>
+        <location class="indexing_service">Dresden (Ger)</location>
+        <location class="indexing_service">Germany</location>
+        <location class="indexing_service">Czech Republic</location>
+        <org class="indexing_service">Nature (Journal)</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Czech Republic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Czech Republic/Prague</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE7DB133BF932A2575AC0A9659C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: It Just Rained a Lot</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew C. Revkin (NYT)</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>German researchers, reporting in journal Nature, find no link between extreme flooding of Oder and Elbe rivers and theory of global warming; contend data as far back as 1021 shows decrease in flood frequency, despite record flooding in Prague and Dresden in past few years (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last summer, many officials and residents were ascribing the severe flooding in Dresden and Prague and other parts of Europe to global warming and its effect on storm patterns. But a new study of the Oder and Elbe rivers, both of which have produced record floods in recent years, shows an overall decline in the frequency of floods, German researchers are reporting in the journal Nature. The scientists went as far back as 1021 and said they found no trend in big summer floods and a downward trend in extreme winter floods.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Last summer, many officials and residents were ascribing the severe flooding in Dresden and Prague and other parts of Europe to global warming and its effect on storm patterns. But a new study of the Oder and Elbe rivers, both of which have produced record floods in recent years, shows an overall decline in the frequency of floods, German researchers are reporting in the journal Nature. The scientists went as far back as 1021 and said they found no trend in big summer floods and a downward trend in extreme winter floods.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

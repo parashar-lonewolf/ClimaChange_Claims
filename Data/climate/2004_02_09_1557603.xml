@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Got a Virus? Don't Irk a Geek</title>
+    <meta content="LTR231924" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1557603"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Stevens, Ross</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E0DF173AF93AA35751C0A9629C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Got a Virus? Don't Irk a Geek</hl1>
+      </hedline>
+      <abstract>
+        <p>Ross Stevens letter comments on computer viruses, calling them degradation of free, valued property (Feb 5 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The situation described in ''Geeks Put the Unsavvy on Alert: Learn or Log Off'' (front page, Feb. 5) is yet another ''tragedy of the commons.'' When provided a free, and valued property, humankind's response has all too often been the degradation and virtual consumption of that property.</p>
+        <p>Human nature in the form of greed, ignorance, indifference, rationalization or vile intent all too quickly results in a loss for all, whether from the sheep on the village green in old England, or from greenhouse gases in the global atmosphere.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The situation described in ''Geeks Put the Unsavvy on Alert: Learn or Log Off'' (front page, Feb. 5) is yet another ''tragedy of the commons.'' When provided a free, and valued property, humankind's response has all too often been the degradation and virtual consumption of that property.</p>
+        <p>Human nature in the form of greed, ignorance, indifference, rationalization or vile intent all too quickly results in a loss for all, whether from the sheep on the village green in old England, or from greenhouse gases in the global atmosphere.</p>
+        <p>That the Internet would fall victim to such forces should come as no surprise. A measured and proper response to such losses has generally become clear only after the fact. Let us hope that rational protections for this ''electronic commons'' will prevail rather than name-calling and dismissive behaviors, which will only accelerate the same tragic end.</p>
+        <p>ROSS STEVENS  Wilmington, Del., Feb. 5, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

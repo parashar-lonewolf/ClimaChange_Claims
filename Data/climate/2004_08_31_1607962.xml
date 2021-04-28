@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="31QNA$02" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1607962"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Champagne</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE4DD1731F932A0575BC0A9629C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column discusses bubbles in champagne; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bubbles From the Bottom</p>
+        <p>Q. Why do bubbles in a glass of Champagne start at the bottom?</p>
+        <p>A. ''Gas bubbles that form in a liquid, including water vapor bubbles that form as water boils, need a tiny flaw or inhomogeneity to seed them,'' said Dr. Eberhard Bodenschatz, professor of physics at Cornell. A baby bubble then adds other pockets of gas and grows, and once it has expanded to a certain size, it tears off and starts to rise.</p>
+      </block>
+      <block class="full_text">
+        <p>Bubbles From the Bottom</p>
+        <p>Q. Why do bubbles in a glass of Champagne start at the bottom?</p>
+        <p>A. ''Gas bubbles that form in a liquid, including water vapor bubbles that form as water boils, need a tiny flaw or inhomogeneity to seed them,'' said Dr. Eberhard Bodenschatz, professor of physics at Cornell. A baby bubble then adds other pockets of gas and grows, and once it has expanded to a certain size, it tears off and starts to rise.</p>
+        <p>The necessary flaws are found on the surface of the glass of champagne, Dr. Bodenschatz said. Carbon dioxide bubbles form at preferred spots and rise up in a line from it. Those that originate at the bottom of a Champagne flute are obvious because they rise in the middle. Others may form at the sides and slide up unnoticed because of the steep shape of the glass, he suggested.</p>
+        <p>The bubble inception process is called nucleation, Dr. Bodenschatz said, and the formation of the tiny pressure depression that lets it happen is called cavitation.</p>
+        <p>Surface tension on the surface of the bubble forms a barrier to bubble growth. ''It is very hard to cavitate a pure fluid because you need a little void to start the bubble,'' Dr. Bodenschatz said. ''It takes a bubble to make a bubble.''</p>
+        <p>Once the void forms, scientists can calculate how fast a bubble will grow based on pressure and tension.</p>
+        <p>To boil a liquid without an explosive effusion of the liquid, chemists use a rough-surfaced object, a boiling stone, to encourage cavitation.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

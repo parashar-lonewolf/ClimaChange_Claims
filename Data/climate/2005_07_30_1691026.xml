@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming</title>
+    <meta content="l30warm" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1691026"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E1DA113FF933A05754C0A9639C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your July 23 editorial ''Houses Divided on Warming'' is correct in castigating Representative Joe Barton's treatment of scientists and their science. Most geographers and other earth scientists accept the overwhelming evidence that Earth's atmosphere and oceans are warming up. Most also accept the evidence that humans are adding to that warming, primarily through the burning of fossil fuels.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your July 23 editorial ''Houses Divided on Warming'' is correct in castigating Representative Joe Barton's treatment of scientists and their science. Most geographers and other earth scientists accept the overwhelming evidence that Earth's atmosphere and oceans are warming up. Most also accept the evidence that humans are adding to that warming, primarily through the burning of fossil fuels.</p>
+        <p>Less clear, however, is any consensus about either what we should or even could do about it and what the costs of any interference might be compared with the benefits. Many economists argue, correctly I think, that it is not rational to make investments with today's dollars if the benefits of those investments will not accrue for a century or more down the road.</p>
+        <p>Global warming is likely to continue until humans are forced into a transition from fossil fuels to other energy sources by rising prices for the former and declining prices for the latter. The debate should focus less on global warming and more on the energy transition that must come and ways to adapt to warmer climates in the interim.</p>
+        <p>Gary L. Peters  Paso Robles, Calif., July 23, 2005</p>
+        <p>The writer is a professor of geography at California State University, Chico.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

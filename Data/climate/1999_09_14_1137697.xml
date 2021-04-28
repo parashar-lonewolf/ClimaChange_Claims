@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>High-Tech Camera Sees What Eye Cannot</title>
+    <meta content="14YELL$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1137697"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hyperspectral Imaging</classifier>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <location class="indexing_service">Yellowstone National Park</location>
+        <person class="indexing_service">Robbins, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wyoming/Yellowstone National Park</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DC1E3DF937A2575AC0A96F958260" item-length="1904" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>High-Tech Camera Sees What Eye Cannot</hl1>
+      </hedline>
+      <byline class="print_byline">By JIM ROBBINS</byline>
+      <byline class="normalized_byline">Robbins, Jim</byline>
+      <dateline>COOKE CITY, Mont.</dateline>
+      <abstract>
+        <p>Hyperspectral imaging camera provides unprecedented detail in mapping of features not apparent to naked eye; it can be used to map forests, detect pollution, measure elevation, locate diseased crops, monitor spread of exotic weeds, and more; hyperspectral imaging spectrometer is one of new generation of sensing instruments that experts predict will transform many areas, including ecosystem management, agriculture, diamond and gold mining, hazardous waste cleanup and wild-land firefighting; its use in Yellowstone National Park described; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A helicopter clatters loudly over the northeast corner of Yellowstone National Park, flying low and slow to snap images of the patchwork of creeks, meadows, pine and fir.</p>
+        <p>But instead of an ordinary camera, the helicopter carries a device that uses detectors precisely made of crystal and kept by liquid nitrogen at minus 273 degrees Fahrenheit. Called a hyperspectral camera or a hyperspectral imaging spectrometer, it is one of a new generation of sensing instruments that experts predict will transform many areas, including ecosystem management, agriculture, diamond and gold mining, hazardous waste cleanup and even wild-land firefighting.</p>
+      </block>
+      <block class="full_text">
+        <p>A helicopter clatters loudly over the northeast corner of Yellowstone National Park, flying low and slow to snap images of the patchwork of creeks, meadows, pine and fir.</p>
+        <p>But instead of an ordinary camera, the helicopter carries a device that uses detectors precisely made of crystal and kept by liquid nitrogen at minus 273 degrees Fahrenheit. Called a hyperspectral camera or a hyperspectral imaging spectrometer, it is one of a new generation of sensing instruments that experts predict will transform many areas, including ecosystem management, agriculture, diamond and gold mining, hazardous waste cleanup and even wild-land firefighting.</p>
+        <p>The $3 million camera, based on NASA technology, records far more than can be seen by the human eye or by the Landsat satellite, the state-of-the-art remote sensing technology. The human eye sees three bands in the visible spectrum -- red, green and blue -- while Landsat, called a multispectral instrument, records six bands of light. The hyperspectral instrument used in Yellowstone records 128 bands, in information blocks, or pixels, one meter square.  NASA also has a hyperspectral imager that records 224 bands, the  Airborne Visible Infrared Imaging System, or Aviris, but because it is usually flown from an ER-2 spy plane at about 70,000 feet, its pixels are closer to 17 meters and contain fewer details, but still far more than current remote sensing technology.</p>
+        <p>''That's a revolution,'' said Robert O. Green, the experiment scientist and project manager for hyperspectral imaging at NASA's Jet Propulsion Laboratory in Pasadena, Calif., of the new technology. ''It can't really be called remote sensing anymore; it's remote measurement.''</p>
+        <p>Spectroscopy, which measures the visible or invisible spectrum from any source, is nothing new; chemists, astronomers and other scientists have used it for decades. But only recently have scientists gained the technology to record the data accurately from the air and the computer power to analyze it.</p>
+        <p>The detector is a sophisticated prism that picks up the light reflected off the molecules of the target and breaks it into 128 or 224 wavelengths. The number of photons in the light reflected back is counted for each wavelength, and the values are plotted to create a distinctive spectral fingerprint for everything the camera sees, including vegetation, minerals, gases and liquids. The imaging not only picks up the difference between a pine tree and a fir tree but the difference between a healthy pine and one stressed by drought or incipient disease, even if it is invisible to the naked eye.</p>
+        <p>''There's a lot more going on out there on the land than we can see with other systems,'' said Joe Boardman of Analytical Imaging and Geophysics, a private hyperspectral imaging firm in Boulder, Colo., as he stood in a meadow waiting for the helicopter to land. ''There are dozens of kinds of willows, different depths of the creek, the change of substrate in the creek from gravel to sand. Hyperspectral imaging can see these things. It's really high fidelity.''</p>
+        <p>The hyperspectral image in the visible spectrum of red, green and blue will look no more detailed than a satellite photo. But even at a point where the visible image is a blur, the spectral fingerprint remains readable. Zooming in to one meter along a sandy stretch of river in Yellowstone, for example, a biologist is not able to look at the photo and identify the log that is there. Instead the computer takes the unique pattern of light reflected off the log and quickly matches it against a library of fingerprints that has been collected by researchers. Almost instantly the computer identifies it as a log.</p>
+        <p>The computer allows the data to take any number of forms. A few keystrokes can instantly turn all of the vegetation with the same spectral fingerprint in a photograph -- all of the logs, for example -- the same color, telling the researcher how much downed timber there is after a storm. A farmer can see which parts of his cornfields have not had enough fertilizer -- those sections are turned orange by the computer -- and can apply the chemical there and only there.</p>
+        <p>Unlike radar, hyperspectral technology cannot penetrate below ground, or through vegetation or buildings. But it can be combined with radar to make it even more potent. The challenge, researchers say, is how to manage and process the vast amounts of data.</p>
+        <p>The technology was developed starting in the late 1970's by two researchers at NASA's Jet Propulsion Laboratory in California, Gregg Vane and Alex Goetz. The space agency has put hyperspectral imaging equipment on two satellites, one in orbit around Jupiter and one on the Cassini satellite, now making its way to Saturn.</p>
+        <p>In the mid-1990's, powerful computers -- it takes terabytes, the next step up from gigabytes, to run the software -- enabled the technology to be brought out of the lab. A few private companies built their own hyperspectral cameras. And in the last two years, as NASA made the technology available, researchers and entrepreneurs like Mr. Boardman have written algorithms to use the technology for commercial and research projects. Last year NASA's Stennis Space Center awarded 10 two-year grants to test the real world effectiveness of the technology, including one to Yellowstone Ecosystem Studies, a nonprofit institute in Bozeman, Mont.</p>
+        <p>The grant enabled the institute to pay the $25,000-a-day rental fee for the hyperspectral equipment owned by Earth Search Sciences Inc. of McCall, Idaho.</p>
+        <p>The results of the imaging in Yellowstone, though preliminary, illustrate the change in store for biologists. As researchers match the airborne imagery with hyperspectral imaging taken from the ground, a process known as ground truthing, it is apparent that the detail is accurate enough to replace much of the information now gathered by hand.</p>
+        <p>''It's orders of magnitude faster than having biologists out on the landscape collecting information,'' said Dr. Robert Crabtree, science director of the Yellowstone Ecosystem Studies. ''As we start thinking about managing entire ecosystems, we have a scale of technology that fits the scale of an ecosystem.''</p>
+        <p>With vegetation mapping, for example, field researchers can only sample small areas by hand and then make informed extrapolation on what the rest of a large area is like.  Now the whole of Yellowstone Park will be known in great and accurate detail from the sky. Researchers can instantly learn if there is an important stand of white bark pine outside the park, which is critical to the protected grizzly bear, and whether that stand is stressed, diseased or healthy. Scientists predict that many field researchers will spend far less time on the ground and more time crunching data on a computer.</p>
+        <p>Several Federal agencies are using the technology to find noxious weeds on Federal land. In the Santa Monica Mountains, hyperspectral mapping is expected to change firefighting by creating a map of the vegetation that fuels fires.</p>
+        <p>The commercial impact could be enormous, particularly in the field of mineral exploration. While gold occurs in amounts too small to see with the technology, more common minerals like kaolinite and arsenic that are products of the same geologic processes that produce gold are clearly visible if the ground is relatively bare, as is the case in much of the American West or Australian desert. The diamond industry could also be transformed: suddenly, kimberlite pipes, the volcanic formations that brought diamonds to the surface in another geologic epoch, are easy to identify from the air.</p>
+        <p>Environmental enforcement has already benefited from the technology. In 1995 NASA flew Aviris over Leadville, Colo., a booming mining town in the 19th century that is now a 16-square-mile Superfund clean-up site. There are some 1,200 mining waste piles in the area, and the Environmental Protection Agency was looking at years of research to test each pile and figure out which ones were leaching high amounts of arsenic, cadmium and lead. The NASA imager was able to collect the data in 45 seconds, although it took another 10 months to crunch the numbers.</p>
+        <p>''It's fantastic -- it told us exactly which piles we should spend our time on,'' said J. Sam Vance, remedial project manager at the Superfund site, and now on loan to the United States Geological Survey in Denver as part of a 10-person team to figure out new applications for the technology. Mr. Vance estimated the imaging saved the E.P.A. more than $2 million at Leadville.</p>
+        <p>With the technology, Mr. Vance foresees an era in which polluting corporations can no longer hide behind a lack of knowledge. The camera can zoom over oil refineries and tell exactly where gasoline is leaking. A steel plant smokestack can be imaged to see exactly what gases are being emitted and whether they meet air quality standards. A colleague of Mr. Vance, Gregg Swayze, spectropocist at the Geological Survey, was looking at data from a flyover of Turquoise Lake in Colorado and saw a huge algae bloom in the lake. Federal officials went to investigate and found that an underwater pipe from the bathhouse was leaking, increasing the nutrient load and the growth of algae.</p>
+        <p>Research on global warming, too, may benefit. White bark pine, found in Yellowstone, is sensitive to warming. The imaging might provide an early warning indicator for warming by showing a change in distribution and stress level.</p>
+        <p>It is tough to hide things from this type of camera. At the moment, no hyperspectral imagers are routinely scanning the earth, but early next year NASA will send up a hyperspectral instrument on a satellite for that purpose, and the Australians plan to launch a satellite in 2001 with even more sophisticated technology that will record data from 70 percent of the Earth's surface.</p>
+        <p>The equipment will render virtually useless camouflage that is not natural and growing. Green plastic has different reflectant properties than natural vegetation out beyond the visible spectrum, and branches that have been cut and laid over a tank have a different fingerprint than growing vegetation. It could be used to find land mines. And there is obvious application for the Drug Enforcement Administration, seeking to detect marijuana and coca plants. In fact, researchers say, the technology is so powerful that it probably would have been classified had it come out of military research.</p>
+        <p>''NASA got ahead of intelligence,'' said Mr. Green of the Jet Propulsion Laboratory. ''They've gone a long way and it would be hard to classify it now.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

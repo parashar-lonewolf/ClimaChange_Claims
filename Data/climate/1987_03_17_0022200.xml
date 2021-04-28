@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>E.P.A. PREDICTS ACID RAIN DAMAGE</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="22200"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">LAKES</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waterways and Other Bodies of Water</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870317T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DB163EF934A25750C0A961948260" item-length="420" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>E.P.A. PREDICTS ACID RAIN DAMAGE</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, March 16</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: About 300 lakes in the northeastern United States will become acidic in the next 50 years unless the pollutants that cause acid rain are reduced, according to a new study by scientists at the Environmental Protection Agency.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: About 300 lakes in the northeastern United States will become acidic in the next 50 years unless the pollutants that cause acid rain are reduced, according to a new study by scientists at the Environmental Protection Agency.</p>
+        <p>About 300 lakes in the northeastern United States will become acidic in the next 50 years unless the pollutants that cause acid rain are reduced, according to a new study by scientists at the Environmental Protection Agency.</p>
+        <p>According to the study, many of the northeastern lakes in jeopardy are clustered in Connecticut, Rhode Island and southern Massachusetts. Other vulnerable areas are the Adirondack Mountains of New York, where environmentalists say fish already have been killed by acid rain, and the Pocono Mountains of eastern Pennsylvania.</p>
+        <p>If the study's conclusions are confirmed, they would support proponents of reduced emissions of sulfur dioxide and other pollutants from power plants and other fuel-burning sources. The pollutants combine with moisture in the air to form acidic precipitation. The Reagan Administration has resisted urgings from environmentalists and officials in the northeastern states and Canada for further emission controls, arguing there is no evidence that any significant new damage is occurring.</p>
+        <p>''We're starting to get the answers now and it doesn't look all that good,'' said one agency official, who like all the others spoke on condition of anonymity. ''There's an indication of progressive damage.''</p>
+        <p>''The question will become, is it worth it spending $5 billion a year to protect 300 lakes?'' another agency official asked. Estimates of the cost of a control program range from $3 billion to $12 billion a year.</p>
+        <p>''The next question is, how much reduction is needed and where should those reductions come?'' a third agency official asked. Emission Controls Are Urged</p>
+        <p>Most proponents of controls call for uniform reductions from older coal-burning power plants in the east. Researchers at the University of Rhode Island have suggested that about half the sulfur compounds falling in Rhode Island and Vermont come from nearby sources and about half from sources as far upwind as the Ohio River Valley.</p>
+        <p>The Canadian government says half its acid rain comes from the United States, and its call for a 50 percent reduction in emissions in the United States has received wide support among environmentalists in this country.</p>
+        <p>Experts from outside the agency are meeting this week at the agency's laboratory in Corvallis, Ore., to review the study before it is made public.</p>
+        <p>The study uses data from its new statistical sample of lake chemicals. The data are analyzed with a computer model that takes into account the ability of watersheds to neutralize acidity.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

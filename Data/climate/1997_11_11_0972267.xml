@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pollution Flow In U.S.-Canada Called Mutual</title>
+    <meta content="T11POLL" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="972267"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Canada-International Relations-US</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <org class="indexing_service">Commission for Environmental Cooperation</org>
+        <person class="indexing_service">Depalma, Anthony</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFD61039F932A25752C1A961958260" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pollution Flow In U.S.-Canada Called Mutual</hl1>
+      </hedline>
+      <byline class="print_byline">By ANTHONY DePALMA</byline>
+      <byline class="normalized_byline">Depalma, Anthony</byline>
+      <dateline>TORONTO, Nov. 10</dateline>
+      <abstract>
+        <p>Report by Commission for Environmental Cooperation says air pollution from factories and power plants in Canada and US flows both ways across border and will get worse unless abatement efforts reflect international nature of problem (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Air pollution from factories and power plants in Canada and the United States flows both ways across the border and will get worse unless abatement efforts reflect the international nature of the problem, according to a report to be  issued on Tuesday.</p>
+        <p>The report, by the Commission for Environmental Cooperation in Montreal, identifies two ''pollution rivers,'' or major pathways, in the eastern part of North America along which the airborne pollutants flow.</p>
+      </block>
+      <block class="full_text">
+        <p>Air pollution from factories and power plants in Canada and the United States flows both ways across the border and will get worse unless abatement efforts reflect the international nature of the problem, according to a report to be  issued on Tuesday.</p>
+        <p>The report, by the Commission for Environmental Cooperation in Montreal, identifies two ''pollution rivers,'' or major pathways, in the eastern part of North America along which the airborne pollutants flow.</p>
+        <p>One of the rivers originates in the Ohio River Valley and flows eastward across southern Ontario and Quebec before entering the Northeastern United States. The other begins on the East Coast of the United States and streams up into Canada's maritime provinces.</p>
+        <p>''This proves that pollution transport is not a one-way street,'' said Jason Grumet, executive director of Northeast States for Coordinated Air Use Management, an organization that represents the air pollution programs for eight Northeastern states.  ''Without aggressive and timely action by both Governments, we could see this problem getting worse before it gets better.''</p>
+        <p>The amount of such dangerous substances in the air could increase substantially during the next few months. Ontario Hydro, one of the largest utilities in North America, is shutting down 7 of its 19 nuclear reactors. The utility plans to replace the lost power by increasing output at plants that burn fossil fuels and by firing up plants now in mothballs.</p>
+        <p>Ontario Hydro also plans to purchase excess energy from American utility companies that burn coal. Canadian experts fear that this will increase pollution in the Middle West that will find its way to central Canada.</p>
+        <p>Jane Barton, a spokesperson for Environment Canada, the federal Government's environmental ministry, said the amount of Canadian pollution that passes into the United States is ''minute by comparison'' with what comes into Canada from the United States Middle West.</p>
+        <p>Still, while the pollution that flows from the United States to Canada is well documented, the reverse flow has not been studied thoroughly. That is in part because environmental assessments usually do not cross international borders.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

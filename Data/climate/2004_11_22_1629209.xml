@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AUTOS ON MONDAY/Technology; The Engine Looks Familiar, But It Runs on Hydrogen</title>
+    <meta content="22CARS$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/11/22/automobiles/22CARS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1629209"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Hydrogen</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <person class="indexing_service">Sherman, Don</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E2DE1F3FF931A15752C1A9629C8B63" item-length="897" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AUTOS ON MONDAY/Technology; The Engine Looks Familiar, But It Runs on Hydrogen</hl1>
+        <hl2 class="online_headline">The Engine Looks Familiar, but It Runs on Hydrogen</hl2>
+      </hedline>
+      <byline class="print_byline">By DON SHERMAN</byline>
+      <byline class="normalized_byline">Sherman, Don</byline>
+      <abstract>
+        <p>Autos On Monday/Technology column discusses development of hydrogen-powered engines in automobiles in effort to replace fossil fuels and reduce pollution; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BRIGHTLY colored signs and pennants flapping in the breeze are all the grandness that the opening of a new filling station usually warrants, but knots of government officials attended elaborate ceremonies -- in Los Angeles, Washington and Berlin -- at three recent ribbon cuttings.</p>
+        <p>The reason for all the attention was that the stations are to distribute hydrogen, a substance many scientists and policymakers consider the most promising replacement for fossil fuels because it could eliminate pollutants from the tailpipes of cars and trucks.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How to build an infrastructure of filling stations for hydrogen fuel cell vehicles? Design conventional internal combustion engines to use hydrogen, too.</p>
+      </block>
+      <block class="full_text">
+        <p>BRIGHTLY colored signs and pennants flapping in the breeze are all the grandness that the opening of a new filling station usually warrants, but knots of government officials attended elaborate ceremonies -- in Los Angeles, Washington and Berlin -- at three recent ribbon cuttings.</p>
+        <p>The reason for all the attention was that the stations are to distribute hydrogen, a substance many scientists and policymakers consider the most promising replacement for fossil fuels because it could eliminate pollutants from the tailpipes of cars and trucks.</p>
+        <p>No long lines of customers were waiting at the pumps to fill up with hydrogen, though, and there probably won't be any for years. The likely buyers would be drivers of fuel cell autos, but such vehicles are still research projects, not yet for sale to the public and at least a decade away even by optimistic estimates.</p>
+        <p>The demand for hydrogen may not have to wait for large-scale production of fuel cells, which produce electricity through an electrochemical reaction. A flurry of prototypes shown recently by several automakers, including BMW, Ford, General Motors, Mazda and Mercedes-Benz, indicates a widespread interest in adapting piston (and even rotary) engines to burn hydrogen directly -- just as they would use gasoline.</p>
+        <p>The longstanding hurdles to using hydrogen in vehicles, including sparse availability and high cost, have not been overcome. Even so, automakers say the lessons learned in producing, storing and transporting hydrogen for today's engines will also apply to future fuel cell cars.</p>
+        <p>In turn, creating a market for hydrogen to fuel internal combustion engines could also break a longstanding stalemate -- the reluctance of energy companies to create a hydrogen supply without substantial demand, and fuel cell development stymied by the lack of a hydrogen supply network.</p>
+        <p>''Today, energy companies, carmakers and government agencies realize that they have to proceed pretty much in parallel, if not exactly in lockstep,'' said Peter Hoffmann, editor of The Hydrogen &amp; Fuel Cell Letter, a monthly publication that covers technology developments in the field.</p>
+        <p>Hydrogen shows the greatest promise among clean fuels for a simple reason: it contains no carbon. When gasoline -- a compound heavy in hydrogen and carbon -- is burned in an engine, most of what spews out the tailpipe contains carbon in troublesome combinations. Carbon monoxide is poisonous; partly burned hydrocarbons are a component of smog; and carbon dioxide, though not regulated as a pollutant, is a greenhouse gas linked to global warming.</p>
+        <p>Pound for pound, hydrogen packs nearly three times the energy of gasoline. It is easy to ignite and burns faster and hotter than gasoline. The exhaust consists mainly of steam. The only carbon byproducts come from trace amounts of engine oil consumed during combustion.</p>
+        <p>Relatively minor changes are needed to switch engines from gasoline to hydrogen fuel. Some internal components, such as the ''seats'' of the engine's intake and exhaust valves, must be altered to guard against a condition called hydrogen embrittlement, which causes metal to crack.</p>
+        <p>Because hydrogen is the lightest element -- its atom has just one proton and one electron -- it is a challenge to store enough pounds for a reasonable driving distance. BMW is convinced that condensing it to a liquid is the best way to go, but that requires chilling it to minus 423 degrees Fahrenheit. Others, including G.M., prefer compressing the gas to 5,000 pounds per square inch.</p>
+        <p>A conversion G.M. did on a Hummer H2 used three tanks reinforced with carbon fiber to carry 12 pounds of hydrogen, enough for a 60-mile cruise. In contrast, BMW's design packs 24 pounds of liquid hydrogen into a superinsulated 45-gallon tank, enough for nearly 200 miles.</p>
+        <p>The hydrogen is delivered to the engine's intake system as a gas through electronic fuel injectors. While the ideal ratio for maximum power is 34 parts air to 1 part hydrogen, engineers steer clear of such rich mixtures because they are prone to premature ignition. The ready solution is changing the mix to at least 68 parts of air for each increment of hydrogen, which cools combustion.</p>
+        <p>The downside is that lean mixtures reduce power. While the Hummer's original gasoline V-8 produces 316 horsepower, the clean, lean hydrogen-fueled version yields only 180 horsepower.</p>
+        <p>BMW says its technology will be fitted to a small number of 7 Series sedans that will be offered to retail customers in three to five years. A notable difference is that these cars will be able to run on either hydrogen and gasoline to stretch their operating distance, which is projected to be 180 miles on hydrogen and another 375 miles on gasoline.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

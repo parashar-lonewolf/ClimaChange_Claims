@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="341288"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDC123FF935A35757C0A966958260" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>Warning on Latex Paint</p>
+        <p>Alarmed over potential health dangers, Federal health officials have urged Government regulators to consider banning the use of mercury in latex paint. Page D1.</p>
+        <p>Clean Air Bill Gains</p>
+        <p>A House committee completed work on a bill strengthening the Clean Air Act after settling the issue of how to go about curbing acid rain.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>Warning on Latex Paint</p>
+        <p>Alarmed over potential health dangers, Federal health officials have urged Government regulators to consider banning the use of mercury in latex paint. Page D1.</p>
+        <p>Clean Air Bill Gains</p>
+        <p>A House committee completed work on a bill strengthening the Clean Air Act after settling the issue of how to go about curbing acid rain.</p>
+        <p>Warning on Latex Paint</p>
+        <p>Alarmed over potential health dangers, Federal health officials have urged Government regulators to consider banning the use of mercury in latex paint. Page D1.</p>
+        <p>Clean Air Bill Gains</p>
+        <p>A House committee completed work on a bill strengthening the Clean Air Act after settling the issue of how to go about curbing acid rain. Page A18.</p>
+        <p>U.S. Opinion on Germany</p>
+        <p>While Americans remain uneasy about the changes in Europe, support for German unification has grown, according to the latest New York Times/CBS News Poll. Page A8.</p>
+        <p>Less for Advanced TV</p>
+        <p>The Defense Department has quietly proposed diverting $20 million of the $30 million intended for research on high-definition television. Page D1.</p>
+        <p>Rangers Win; Devils Lose</p>
+        <p>The Rangers beat the Islanders, 2-1, and the Devils lost to Washington, 5-4 in overtime, in opening games of the Stanley Cup playoffs. Page A25.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

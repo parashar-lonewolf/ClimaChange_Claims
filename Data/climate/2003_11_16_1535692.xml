@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Plays by Its Own Rules</title>
+    <meta content="L16STE$03" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1535692"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Steel and Iron</classifier>
+        <classifier class="indexing_service" type="descriptor">Customs (Tariff)</classifier>
+        <classifier class="indexing_service" type="descriptor">Protectionism (Trade)</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <org class="indexing_service">World Trade Organization</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Greenblatt, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Protectionism (Trade)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs (Tariff)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs (Tariff)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Steel and Iron</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E2DE1238F935A25752C1A9659C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Plays by Its Own Rules</hl1>
+      </hedline>
+      <abstract>
+        <p>Andrew Greenblatt letter on WTO ruling that Pres Bush's steel tariffs are illegal; says Bush unilateralist foreign policy is out of step with traditional US values</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The White House Steel Trap'' (editorial, Nov. 11), about the World Trade Organization's ruling that President Bush's steel tariffs are illegal, touches on a new and frightening theme in American foreign policy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The White House Steel Trap'' (editorial, Nov. 11), about the World Trade Organization's ruling that President Bush's steel tariffs are illegal, touches on a new and frightening theme in American foreign policy.</p>
+        <p>For two centuries, the central debate has been between isolationism (we'll let you alone if you let us alone) and multilateralism (let's work together for our common good). President Bush's foreign policy revolves around a dangerous unilateralism in which he expects the world to play by one set of rules while he plays by another.</p>
+        <p>This double standard can be seen in the administration's stands on global warming, nuclear proliferation and agricultural policy.</p>
+        <p>Americans are a fair people who believe in the rule of law. President Bush's foreign policy is out of step with the country's traditional values.</p>
+        <p>ANDREW GREENBLATT  Brooklyn, Nov. 11, 2003</p>
+        <p>The writer is the online coordinator for Truemajority.org.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

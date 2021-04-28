@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="57136"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">ALLEGHENY BEVERAGE CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDF113EF935A25754C0A961948260" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: * Allegheny Beverage Corp., Cheverly, Md., announced the completion of the sale of its laundry services unit for $72.5 million. Allegheny refused to identify the buyer.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: * Allegheny Beverage Corp., Cheverly, Md., announced the completion of the sale of its laundry services unit for $72.5 million. Allegheny refused to identify the buyer.</p>
+        <p>* Allegheny Beverage Corp., Cheverly, Md., announced the completion of the sale of its laundry services unit for $72.5 million. Allegheny refused to identify the buyer.</p>
+        <p>* Aluminum Co. of America, Pittsburgh, announced a price increase on a broad range of sheet and plate products by eliminating any current discounts. The company will also be charging for shipments at prices set at the time of shipment.</p>
+        <p>* Combustion Engineering Inc., Stamford, Conn., said a unit had received a $330 million contract to design and build a coal-fired cogeneraton plant and a carbon dioxide production facility for Applied Energy Services Inc.</p>
+        <p>* E.I. Du Pont De Nemours &amp; Co., Wilmington, Del., announced a plan for a $60 million expansion of its Uentrop, West Germany, plant that makes its Sytel nylon resins.</p>
+        <p>* United Technologies Corp., East Hartford, Conn., said it had sold Elliott Turbomachinery Inc, its unit that makes turbine and compressor products for refinery applications, to a corporation whose shareholders include members of Elliott's senior management and other investors. Terms were not disclosed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

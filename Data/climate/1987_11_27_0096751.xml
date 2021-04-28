@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Antarctica's Ozone Loss Is Duplicated in Lab</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="96751"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <location class="indexing_service">ANTARCTICA</location>
+        <org class="indexing_service">JET PROPULSION LABORATORY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctica</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DF1639F934A15752C1A961948260" item-length="549" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Antarctica's Ozone Loss Is Duplicated in Lab</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, Nov. 26</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Scientists report that they have duplicated in the laboratory the same ice-cold chemical reactions that many of them believe lead to the annual hole in the ozone high above Antarctica.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Scientists report that they have duplicated in the laboratory the same ice-cold chemical reactions that many of them believe lead to the annual hole in the ozone high above Antarctica.</p>
+        <p>Scientists report that they have duplicated in the laboratory the same ice-cold chemical reactions that many of them believe lead to the annual hole in the ozone high above Antarctica.</p>
+        <p>Results of the experiments ''fit very well with the observations of this last team of scientists to come back'' from Antarctica, said Mario J. Molina, leader of a team from the Jet Propulsion Laboratory of the California Institute of Technology.</p>
+        <p>Findings of the Jet Propulsion team appear in an article in the latest issue of Science magazine, along with a companion article by a team from SRI International at Menlo Park, Calif., led by Margaret A. Tolbert.</p>
+        <p>Although ozone is a pollutant at low altitudes, when it is high in the stratosphere it protects the earth from the ultraviolet rays of the sun. Since the mid-1970's, ozone levels over Antarctica have fallen sharply every September. The ozone hole has been getting deeper every year. This year, for the first time, half the ozone disappeared before recovery to normal levels in October. Role of Ice Clouds</p>
+        <p>The laboratory work investigated the role of the high ice clouds over the Antarctic continent. The ice clouds have always been there and exist nowhere else. Several scientists have theorized that the ice particles speed reactions that liberate chlorine and destroy the ozone.</p>
+        <p>Most scientists believe the chlorine originates in chlorofluorocarbon compounds used since the 1930's for refrigeration fluids, foam blowing agents and, outside the United States, aerosol propellants. Major industrial nations agreed in September to cut emissions of these compounds in half by 1999.</p>
+        <p>Mr. Molina and Sherwood Rowland in 1974 were the first to suggest the danger to the ozone layer from chlorofluorocarbon compounds. Their work led directly to the Federal Government's ban on the use of the compounds as aerosol propellants in 1978.</p>
+        <p>The compounds are broken down by ultraviolet light mostly over the tropics and temperate zones. The leftover chlorine is then carried to the Antarctic by such chemicals as chlorine nitrate and hydrochloric acid. Acid Penetrates Ice</p>
+        <p>Mr. Molina's team showed that hydrochloric acid penetrates ice easily, unlike most substances, ''over a distance of millimeters on a time scale of minutes.''</p>
+        <p>According to the two articles, chlorine nitrate is attracted to the ice surface. There it can react in a few minutes with the ice to form nitric acid and hypochlorous acid. That, in turn, forms chlorine dioxide.</p>
+        <p>More important, the chlorine nitrate reacts with hydrochloric acid in the ice to form nitric acid and molecular chlorine, containing two chlorine atoms, ''on a time scale of at most a few milliseconds,'' Mr. Molina's team wrote.</p>
+        <p>There is conflicting evidence as to whether ozone has been reduced over temperate zones and the tropics.</p>
+        <p>The Federal Environmental Protection Agency has estimated that every 1 percent decline in ozone worldwide could increase skin cancers by 5 percent to 6 percent.</p>
+        <p>The Antarctic depletion alone has little effect on any humans there. Since the sun is so low in the sky there, the sun's rays travel slantwise through the ozone layer. Even passing through the depleted September ozone layer, those rays traverse more ozone than rays striking the United States.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

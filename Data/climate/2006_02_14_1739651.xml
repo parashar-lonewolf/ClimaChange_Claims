@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Faith in Global Warming</title>
+    <meta content="l14tierney-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1739651"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Bernstein, Eric</person>
+        <person class="indexing_service">Tierney, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E0D8123EF937A25751C0A9609C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Faith in Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Eric Bernstein letter scores John Tierney for minimizing problem of global warming with cavalier statement referring to scientific uncertainty of extent of damage (Feb 11 Op-Ed column)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''And on the Eighth Day, God Went Green'' (column, Feb. 11), John Tierney minimizes the problem of global warming with the cavalier statement that scientists are unsure of how much the earth will heat up or of how much damage will be done.</p>
+        <p>If that's the case, why have the last seven heads of the Environmental Protection Agency, most of whom served Republican presidents, joined together to say that the debate over whether global warming is a problem is settled, and that the time for government action to solve the problem is overdue?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''And on the Eighth Day, God Went Green'' (column, Feb. 11), John Tierney minimizes the problem of global warming with the cavalier statement that scientists are unsure of how much the earth will heat up or of how much damage will be done.</p>
+        <p>If that's the case, why have the last seven heads of the Environmental Protection Agency, most of whom served Republican presidents, joined together to say that the debate over whether global warming is a problem is settled, and that the time for government action to solve the problem is overdue?</p>
+        <p>Also, Mr. Tierney claims that there's a chance the warming could be mild enough to produce net benefits. I'd like to know what reputable scientific organization believes that we should do nothing to stem global warming because it might be a good thing.</p>
+        <p>Eric Bernstein  New York, Feb. 11, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

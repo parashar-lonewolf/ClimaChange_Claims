@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hooked on Oil: Connect the Dots</title>
+    <meta content="LTR232438" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1447732"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Schweizer, Carlo R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3D6143AF932A25751C1A9649C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hooked on Oil: Connect the Dots</hl1>
+      </hedline>
+      <abstract>
+        <p>Carlo R Schweizer letter on Dec 8 editorial scores resistance to Kyoto accord on global warming and questions United States technological leadership on issue; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>You say (''Still Lagging on Warming,'' editorial, Dec. 8) that ''the world still looks to the United States for guidance and technology.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>You say (''Still Lagging on Warming,'' editorial, Dec. 8) that ''the world still looks to the United States for guidance and technology.''</p>
+        <p>Another article the same day talks about energy from wind turbines (''Wind Turbines Are Sprouting Off Europe's Shores'') and where the United States stands on this clean energy source.</p>
+        <p>In the United States, you report, ''wind energy has stalled at about one-fifth of Europe's capacity.''</p>
+        <p>Further, garbage incineration can be done more cleanly with today's technology. Yet with the closing of the Fresh Kills landfill, New York City is exporting its garbage to other states at great cost.</p>
+        <p>Likewise, energy conservation does not receive needed attention and follow-up.</p>
+        <p>What we need is heavier taxation of energy; use the revenues to maintain a decent road system!</p>
+        <p>Finally, resistance to the Kyoto accord on global warming is cheap politicking, not leadership.</p>
+        <p>CARLO R. SCHWEIZER  New York, Dec. 10, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

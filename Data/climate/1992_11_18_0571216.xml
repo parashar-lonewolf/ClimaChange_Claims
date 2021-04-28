@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On Video Maps, Any Intersection Can Be a Star</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="571216"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MAPS</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">RECORDINGS (VIDEO)</classifier>
+        <org class="indexing_service">GEOSPAN CORP</org>
+        <person class="indexing_service">RAMIREZ, ANTHONY</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Maps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DF123AF93BA25752C1A964958260" item-length="359" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On Video Maps, Any Intersection Can Be a Star</hl1>
+      </hedline>
+      <byline class="print_byline">By ANTHONY RAMIREZ</byline>
+      <byline class="normalized_byline">RAMIREZ, ANTHONY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Geospan Corporation, a fledgling company in Minneapolis, is seeking to marry a map to a camcorder. By merging the longitude-latitude methods of map- making with the more visual "turn left at the Dairy Queen" approach to finding one's way around, the company hopes to bring maps into the 21st century.</p>
+        <p>Geospan is part of a $3.5 billion industry known as geographical information services, a catchall term covering everything from planning sewers to measuring the greenhouse effect. Such companies convert map information into digital form for computer storage and use.</p>
+      </block>
+      <block class="full_text">
+        <p>The Geospan Corporation, a fledgling company in Minneapolis, is seeking to marry a map to a camcorder. By merging the longitude-latitude methods of map- making with the more visual "turn left at the Dairy Queen" approach to finding one's way around, the company hopes to bring maps into the 21st century.</p>
+        <p>Geospan is part of a $3.5 billion industry known as geographical information services, a catchall term covering everything from planning sewers to measuring the greenhouse effect. Such companies convert map information into digital form for computer storage and use.</p>
+        <p>The Geospan wrinkle: adding video to the map data by canvassing cities in specially outfitted vans. Each of these vehicles would carry $250,000 worth of video gear, including four pairs of cameras -- fore, aft, port and starboard -- and a special transmitter-receiver that continuously records the vehicle's geographic position by communicating with a navigational satellite.</p>
+        <p>The potential customers for such computerized video maps would include government agencies, which might want such maps for tax assessment and road repair.</p>
+        <p>Right now, though, Geospan has only one van and no customers. It is working with Digital Matrix Services, a Miami geographical information services company, in mapping Florida City, an area devastated by Hurricane Andrew. The company hopes eventually to document most of the nation's city streets.</p>
+        <p>"By the time we're through, you could almost drive the streets of any city in the country without leaving your desk or your computer screen," said Jerry W. Robinson, chief executive of Geospan.</p>
+        <p>Driving the 1,000 miles of streets in a medium-sized city like Minneapolis, accounting for traffic and other delays, would take six weeks. And negotiating the 7,000 miles of roads in New York City could take months -- and a certain amount of steely resolve by the Midwestern company, which cited security concerns in recently canceling a promotional visit by the van to Manhattan.</p>
+        <p>"We would, of course, find somebody who had some street smarts about New York neighborhoods," Mr. Robinson said. "And we just might get bulletproof glass."  BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Must We Talk?</title>
+    <meta content="07tierney" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/11/07/opinion/07tierney.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1803045"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Reapportionment</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Tierney, John</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/John Tierney</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reapportionment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EED8113FF934A35752C1A9609C8B63" item-length="740" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Must We Talk?</hl1>
+        <hl2 class="online_headline">Must We Talk?</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN TIERNEY</byline>
+      <byline class="normalized_byline">Tierney, John</byline>
+      <abstract>
+        <p>John Tierney Op-Ed column claims American voters have lost their bearings by following old advice to discuss issues amongst themselves; says when people informally discuss politics, they often do not hear range of views because they are surrounded by like-minded people; adds that they are much more likely now than in past to hear one-sided rhetoric because gerrymandering has produced so many one-sided districts, making it impossible for moderate candidates to survive; says that as media audiences segregate themselves ideologically, they become more extreme in their views; says anyone can find groups online to affirm their brilliant opinions (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Have you been trying to ignore this election? Do you avoid talking politics with friends? Do you tune out right-wing talk shows and stay away from left-wing blogs? Do you change channels as soon as you hear the words ''Pelosi,'' ''Foley,'' ''cut and run'' or ''macaca''?</p>
+        <p>Then you owe it to your country to vote today. It's the rest of us who should stay home.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Have you been trying to ignore this election? Then you owe it to your country to vote today. It’s the rest of us who should stay home.</p>
+      </block>
+      <block class="full_text">
+        <p>Have you been trying to ignore this election? Do you avoid talking politics with friends? Do you tune out right-wing talk shows and stay away from left-wing blogs? Do you change channels as soon as you hear the words ''Pelosi,'' ''Foley,'' ''cut and run'' or ''macaca''?</p>
+        <p>Then you owe it to your country to vote today. It's the rest of us who should stay home.</p>
+        <p>We've lost our bearings because we've followed the old advice to discuss this amongst ourselves. Democracy, we've been told, is best served when informed citizens deliberate the issues of the day, pooling their wisdom to reach a judicious consensus.</p>
+        <p>But what really happens when people discuss politics? Consider an experiment last year, when groups of Coloradans convened separately in Boulder and Colorado Springs to discuss global warming, affirmative action and civil unions for same-sex couples. Before the discussions, the people in Boulder were on average more liberal than the ones in Colorado Springs, but there were also moderates in both places whose opinions overlapped.</p>
+        <p>After the group discussions, the people in Boulder moved to the left, and those in Colorado Springs moved to the right. The researchers -- David Schkade, Cass Sunstein and Reid Hastie -- concluded that ''the major effect of deliberation was to make group members more extreme than they were before they started to talk.''</p>
+        <p>This effect hasn't been studied much in politics, but it's well documented in other arenas. When jurors deliberate how much to award in damages, they often end up giving more than the average juror originally thought was fair -- and sometimes more than anyone in the group originally favored. The more they talk, the more they reinforce one another's indignation.</p>
+        <p>Group polarization is less of a problem if the people start with a wide range of opinions -- even if they tend to shift in whatever direction the majority favors, they'll at least be exposed to other views and become more tolerant. There's some evidence that if you purposely assemble a diverse group of discussants and systematically educate them about an issue, some of the people will moderate their opinions.</p>
+        <p>But when people informally discuss politics, they often don't hear a range of views. As in Boulder and Colorado Springs, they may be surrounded by like-minded people in their neighborhoods, churches and offices. During local elections, they're much more likely now than in the past to hear one-sided rhetoric because gerrymandering has produced so many one-sided districts, making it impossible for moderate candidates to survive.</p>
+        <p>Thanks to cable television, talk radio and the Internet, it's easier than ever for people to have their opinions validated around the clock. As the media audiences segregate themselves ideologically, they become more extreme in their views -- and more convinced than ever that they represent the sensible middle.</p>
+        <p>When conservatives have their views reinforced daily on talk radio and Sundays at their churches, they start to believe the ''mainstream media'' is a bunch of wacko traitors. When liberals spend their days reading lefty blogs, or working on campuses surrounded by ideological soulmates, they start convincing themselves that most ''corporate media'' are right wing, and that Fox News is pure propaganda.</p>
+        <p>In fact, most journalists do try to be objective, but as a group they, too, can become polarized by spending most of their time talking to fellow journalists and experts with similar views. One of the cleverest demonstrations of this effect was a study published last year in Harvard's Quarterly Journal of Economics. The researchers, Tim Groseclose and Jeffrey Milyo, devised a scale for measuring the slant of news reports by keeping track of which think tanks -- liberal or conservative -- were quoted most often.</p>
+        <p>The researchers found that The Washington Times and Brit Hume's evening newscast on Fox fell on the conservative side of the scale, while all the other news media outlets they studied fell on the liberal side. The surprising result -- to liberals, at least -- was that Fox was closer to the ideological center than the Big Three evening newscasts as well as all the major newspapers and newsweeklies.</p>
+        <p>Of course, these ideological divides are small compared with the ones in the blogosphere, which is one giant version of the Colorado experiment. You can always find a group online to affirm your brilliant opinions. It's immensely satisfying, but it can also make Election Day a miserable experience. Tonight, you can't help noticing how many ignorant people out there disagree with you.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

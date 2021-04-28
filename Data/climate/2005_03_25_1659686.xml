@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Coal in a Nice Shade of Green</title>
+    <meta content="25HOME$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/03/25/opinion/25homer-dixon.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1659686"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Op-Ed Contributors"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Coal</classifier>
+        <classifier class="indexing_service" type="descriptor">Coal Gasification and Liquefaction</classifier>
+        <person class="indexing_service">Homer-Dixon, Thomas</person>
+        <person class="indexing_service">Friedmann, S Julio</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Coal</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050325T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3D9173FF936A15750C0A9639C8B63" item-length="1064" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Coal in a Nice Shade of Green</hl1>
+        <hl2 class="online_headline">Coal in a Nice Shade of Green</hl2>
+      </hedline>
+      <byline class="print_byline">By Thomas Homer-Dixon and S. Julio Friedmann</byline>
+      <byline class="normalized_byline">Homer-Dixon, Thomas; Friedmann, S Julio</byline>
+      <abstract>
+        <p>Op-Ed article by Thomas Homer-Dixon and S Julio Friedmann on huge demand for energy and current drawbacks to alternatives to conventional oil such as solar power, hydrogen and nuclear energy; sees need for so-called bridge technologies that can supply power while obstacles to clean energy are removed; suggests power plant called integrated gasification combined-cycle facility in which fossil fuel, including coal, is changed into superhot gas that is rich in hydrogen but stripped of pollutants; says harmful carbon dioxide waste is in form that can be pumped deep underground and stored, theoretically for millions of years; says combination of gasified coal plants and geologic storage can be bridge to clean energy of 22nd century and beyond; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN it comes to energy, we are trapped between a rock and several hard places. The world's soaring demand for oil is pushing against the limits of production, lifting the price of crude nearly 90 percent in the last 18 months. Congress's vote in favor of drilling in the Arctic National Wildlife Refuge won't make much difference because the amount of oil there, at best, is tiny relative to global or even American needs. And relief isn't likely to come anytime soon from drilling elsewhere: oil companies spent $8 billion on exploration in 2003, but discovered only $4 billion of commercially useful oil.</p>
+        <p>Sadly, most alternatives to conventional oil can't give us the immense amount of energy we need without damaging our environment, jeopardizing our national security or bankrupting us. The obvious alternatives are other fossil fuels: natural gas and oil products derived from tar sands, oil shale and even coal. But natural gas supplies are tightening, at least in North America.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The combination of gasified coal plants and geologic storage can be our bridge to the clean energy of the 22nd century and beyond.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN it comes to energy, we are trapped between a rock and several hard places. The world's soaring demand for oil is pushing against the limits of production, lifting the price of crude nearly 90 percent in the last 18 months. Congress's vote in favor of drilling in the Arctic National Wildlife Refuge won't make much difference because the amount of oil there, at best, is tiny relative to global or even American needs. And relief isn't likely to come anytime soon from drilling elsewhere: oil companies spent $8 billion on exploration in 2003, but discovered only $4 billion of commercially useful oil.</p>
+        <p>Sadly, most alternatives to conventional oil can't give us the immense amount of energy we need without damaging our environment, jeopardizing our national security or bankrupting us. The obvious alternatives are other fossil fuels: natural gas and oil products derived from tar sands, oil shale and even coal. But natural gas supplies are tightening, at least in North America.</p>
+        <p>And, of course, all fossil fuels have a major disadvantage: burning them releases carbon dioxide, a greenhouse gas that may contribute to climate change. This drawback is especially acute for tar sands, oil shale and coal, which, joule for joule, release far more carbon dioxide than either conventional oil or natural gas.</p>
+        <p>As for energy sources not based on carbon, it would be enormously hard to meet a major percentage of America's energy needs at a reasonable cost, at least in the near term. Take nuclear power -- a source that produces no greenhouse emissions. Even assuming we can find a place to dispose of nuclear waste and deal with the security risks, to meet the expected growth in total American energy demand over the next 50 years would require building 1,200 new nuclear power plants in addition to the current 104 -- or one plant every two weeks until 2050.</p>
+        <p>Solar power? To satisfy its current electricity demand using today's technology, the United States would need 10 billion square meters of photovoltaic panels; this would cost $5 trillion, or nearly half the country's annual gross domestic product.</p>
+        <p>How about hydrogen? To replace just America's surface transportation with cars and trucks running on fuel cells powered by hydrogen, America would have to produce 230,000 tons of the gas -- or enough to fill 13,000 Hindenburg dirigibles -- every day. This could be generated by electrolyzing water, but to do so America would have to nearly double its electricity output, and generating this extra power with carbon-free renewable energy would mean covering an area the size of Massachusetts with solar panels or of New York State with windmills.</p>
+        <p>Of course technology is always improving, and down the road some or all of these technologies may become more feasible. But for the near term, there is no silver bullet. The scale and complexity of American energy consumption are such that the country needs to look at many different solutions simultaneously. On the demand side, this means huge investments in conservation and energy efficiency -- two areas that policy makers and consumers have sadly neglected.</p>
+        <p>On the supply side, the important thing is to come up with so-called bridge technologies that can power our cities, factories and cars with fewer emissions than traditional fossil fuels while we move to clean energy like solar, wind and safe nuclear power. A prime example of a bridge technology -- one that exists right now -- is gasification.</p>
+        <p>Here's how it works: in a type of power plant called an integrated gasification combined-cycle facility, we change any fossil fuel, including coal, into a superhot gas that is rich in hydrogen -- and in the process strip out pollutants like sulfur and mercury. As in a traditional combustion power plant, the heat generates large amounts of electricity; but in this case, the gas byproducts can be pure streams of hydrogen and carbon dioxide.</p>
+        <p>This matters for several reasons. The hydrogen produced could be used as a transportation fuel. Equally important, the harmful carbon dioxide waste is in a form that can be pumped deep underground and stored, theoretically for millions of years, in old oil and gas fields or saline aquifers. This process is called geologic storage, or carbon sequestration, and recent field demonstrations in Canada and Norway have shown it can work and work safely.</p>
+        <p>The marriage of gasified coal plants and geologic storage could allow us to build power plants that produce vast amounts of energy with virtually no carbon dioxide emissions in the air. The Department of Energy is pursuing plans to build such a zero-emission power plant and is encouraging energy companies to come up with proposals of their own. The United States, Britain and Germany are also collaborating to build such plants in China and India as part of an effort by the Group of 8. Moreover, these plants are very flexible: although coal is the most obvious fuel source, they could burn almost any organic material, including waste cornhusks and woodchips.</p>
+        <p>This is an emerging technology, so inevitably there are hurdles. For example, we need a crash program of research to find out which geological formations best lock up the carbon dioxide for the longest time, followed by global geological surveys to locate these formations and determine their capacity. Also, coal mining is dangerous and strip-mining, of course, devastates the environment; if we are to mine a lot more coal in the future we will want more environmentally friendly methods.</p>
+        <p>On balance, though, this combination of technologies is probably among the best ways to provide the energy needed by modern societies -- including populous, energy-hungry and coal-rich societies like China and India -- without wrecking the global climate.</p>
+        <p>Fossil fuels, especially petroleum, powered the industrialization of today's rich countries and they still drive the world economy. But within the lifetimes of our grandchildren, the age of petroleum will wane. The combination of gasified coal plants and geologic storage can be our bridge to the clean energy -- derived from renewable resources like solar and wind power and perhaps nuclear fusion -- of the 22nd century and beyond.</p>
+        <p>Op-Ed Contributors Thomas Homer-Dixon is director of the Center for Peace and Conflict Studies at the University of Toronto. S. Julio Friedmann directs the carbon sequestration project at Lawrence Livermore National Laboratory in Livermore, Calif.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Thomas Homer-Dixon is director of the Center for Peace and Conflict Studies at the University of Toronto. S. Julio Friedmann directs the carbon sequestration project at Lawrence Livermore National Laboratory in Livermore, Calif.</tagline>
+    </body.end>
+  </body>
+</nitf>

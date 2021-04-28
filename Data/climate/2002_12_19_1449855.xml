@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DESIGN BOOKS/Hot Off the Presses And Under the Tree; Water, Water Everywhere; Well, Maybe Not</title>
+    <meta content="19NATU$04" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1449855"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Christmas</classifier>
+        <classifier class="indexing_service" type="descriptor">Gifts</classifier>
+        <person class="indexing_service">Raver, Anne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gifts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christmas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DF133DF93AA25751C1A9649C8B63" item-length="354" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DESIGN BOOKS/Hot Off the Presses And Under the Tree; Water, Water Everywhere; Well, Maybe Not</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE RAVER</byline>
+      <byline class="normalized_byline">Raver, Anne</byline>
+      <abstract>
+        <p>Roundup of gardening book suggestions for holiday gift giving; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANY gardener tired of sumptuous coffee-table books full of exquisite gardens or another complete guide to orchids might find a good winter's read in books that deal with global warming and the use (and abuse) of the water supply.</p>
+        <p>''Garden and Climate'' by Chip Sullivan (McGraw-Hill, $45) reaches back to the ancient gardens of Persia and the Italian Renaissance to explain how gardeners provided early air-conditioning with their grottoes and outdoor rooms of densely planted trees. To guard against the chill of winter, they planted cypress trees to block the north wind and built walkways along south-facing terraces.</p>
+      </block>
+      <block class="full_text">
+        <p>ANY gardener tired of sumptuous coffee-table books full of exquisite gardens or another complete guide to orchids might find a good winter's read in books that deal with global warming and the use (and abuse) of the water supply.</p>
+        <p>''Garden and Climate'' by Chip Sullivan (McGraw-Hill, $45) reaches back to the ancient gardens of Persia and the Italian Renaissance to explain how gardeners provided early air-conditioning with their grottoes and outdoor rooms of densely planted trees. To guard against the chill of winter, they planted cypress trees to block the north wind and built walkways along south-facing terraces.</p>
+        <p>With an eye to finite resources like water and oil, Mr. Sullivan, a landscape architect and artist based at the College of Environmental Design at the University of California at Berkeley, suggests designs -- illustrated with his delightful sketches -- for contemporary gardens that conserve energy and water.</p>
+        <p>''Water Wars: Drought, Flood, Folly and the Politics of Thirst'' by Diane Raines Ward (Riverhead Books, $25) takes a broad view of the world's attempts to control water. When engineers built the first Aswan Dam in Egypt in 1902, they did not know about the necessity of the yearly floods, which fertilized the delta with silt, flushed pollutants out to sea and kept saltwater from intruding into the Nile and killing fish.</p>
+        <p>Ms. Ward traversed five continents to tell the story of humans damming the Indus River basin, and using the Hoover Dam in the Southwest to make a city in the desert called Las Vegas. She paints a worsening picture of natural systems gone awry, and growing populations draining a finite supply of clean water. Though this book is too heavy on engineering and too light on natural systems, it provides a framework for understanding the politics of water. That will give you something to think about when watering your lawn next summer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

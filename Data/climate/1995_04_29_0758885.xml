@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>William A. Feder Pollution Expert, 74,</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="758885"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">FEDER, WILLIAM A</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD81030F93AA15757C0A963958260" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>William A. Feder Pollution Expert, 74,</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>William Adolph Feder, a retired university professor who was an authority on acid rain, sewage sludge and pollution from cooling towers at power plants, died on April 20 at his home in Brookline, Mass. He was 74.</p>
+        <p>The cause was lung cancer, the Levine Funeral Home in Brookline said.</p>
+      </block>
+      <block class="full_text">
+        <p>William Adolph Feder, a retired university professor who was an authority on acid rain, sewage sludge and pollution from cooling towers at power plants, died on April 20 at his home in Brookline, Mass. He was 74.</p>
+        <p>The cause was lung cancer, the Levine Funeral Home in Brookline said.</p>
+        <p>Dr. Feder was a professor of plant pathology and environmental pollution at the University of Massachusetts. He did his research at the university's Suburban Experiment Station in Waltham from 1966 until his retirement in 1990.</p>
+        <p>Dr. Feder is survived by his wife of 50 years, Lee Siegman Feder; a son, Eric, of Ambler, Pa.; two daughters, Dr. Susan F. Slobard of Skokie, Ill., and Sandra Maizel of Mount Kisco, N.Y.; a brother, David of Madison, N.J.; and five grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

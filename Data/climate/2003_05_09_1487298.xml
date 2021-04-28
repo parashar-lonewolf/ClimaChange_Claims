@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Filtering Fumes</title>
+    <meta content="09BELL$01" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="http://www.nytimes.com/2003/05/09/automobiles/09BELL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1487298"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="DRIVING: BELLS &amp; WHISTLES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Conditioning</classifier>
+        <org class="indexing_service">Volvo Ab</org>
+        <person class="indexing_service">Mccosh, Dan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Urban Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Conditioning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Urban Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E3DC1F3CF93AA35756C0A9659C8B63" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Filtering Fumes</hl1>
+        <hl2 class="online_headline">Filtering Fumes</hl2>
+      </hedline>
+      <byline class="print_byline">By DAN McCOSH</byline>
+      <byline class="normalized_byline">Mccosh, Dan</byline>
+      <abstract>
+        <p>Bells &amp; Whistles column on Volvo's new cabin air filtration system, which is still under development; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As they choke on exhaust fumes in traffic, drivers can reflect on the progress of cleaning systems for cars' inside air. Dust filters are commonplace, and a few manufacturers have filters that take out some fumes; often, in urban areas, the air inside the car is cleaner than the air outside. But Volvo is experimenting with a system that will take car air to a whole new level.</p>
+        <p>The Volvo air-filtration system, well into development, not only cleans the cabin air better than any other car's does now, even in the confines of a tunnel, but works with the car turned off. It is also self-purging, which means that unlike conventional filtration systems, it does not need regular maintenance.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Volvo is experimenting with a system that will take the filtering of car air to a whole new level.</p>
+      </block>
+      <block class="full_text">
+        <p>As they choke on exhaust fumes in traffic, drivers can reflect on the progress of cleaning systems for cars' inside air. Dust filters are commonplace, and a few manufacturers have filters that take out some fumes; often, in urban areas, the air inside the car is cleaner than the air outside. But Volvo is experimenting with a system that will take car air to a whole new level.</p>
+        <p>The Volvo air-filtration system, well into development, not only cleans the cabin air better than any other car's does now, even in the confines of a tunnel, but works with the car turned off. It is also self-purging, which means that unlike conventional filtration systems, it does not need regular maintenance.</p>
+        <p>Using a technology common to military gas masks, its filters collect molecules of hydrocarbons and nitrous oxides. Roughly every two days the filters are heated and the trapped gases released into the engine's emission control catalyst, where pollutants are transformed into water vapor, nitrogen and carbon dioxide.</p>
+        <p>In a polluted environment like a parking garage, a fan quietly activates the system, leaving the air in the whole place a tiny bit cleaner while the driver is not even there. The technology is so new that instrument panels would have to be reworked to include it, so Volvo does not expect to make it available until its next major model change a few years from now.</p>
+        <p>DAN McCOSH</p>
+        <p>DRIVING: BELLS &amp; WHISTLES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

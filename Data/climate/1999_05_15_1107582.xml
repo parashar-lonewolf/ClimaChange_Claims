@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why We Need Dams</title>
+    <meta content="LCIOCC$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1107582"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Rivers</classifier>
+        <classifier class="indexing_service" type="descriptor">Dams and Dikes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hydroelectric Power</classifier>
+        <org class="indexing_service">National Hydropower Assn</org>
+        <person class="indexing_service">Church-Ciocci, Linda</person>
+        <person class="indexing_service">Conaway, James</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rivers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dams and Dikes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydroelectric Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waterways and Other Bodies of Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990515T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E3DB1F3FF936A25756C0A96F958260" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why We Need Dams</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Linda Church-Ciocci of National Hydropower Assn says James Conaway, in his May 8 Op-ed article, wrongly implies that hydropower and healthy rivers cannot co-exist</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>James Conaway (Op-Ed, May 8) understates the importance of hydroelectric power in providing this country with clean and renewable energy and implies that hydropower and healthy rivers cannot co-exist. Far from being ''minuscule,'' hydropower is responsible for 11 percent of the country's electrical generation -- 25 percent in New York -- and is the country's largest single source of renewable electricity.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>James Conaway (Op-Ed, May 8) understates the importance of hydroelectric power in providing this country with clean and renewable energy and implies that hydropower and healthy rivers cannot co-exist. Far from being ''minuscule,'' hydropower is responsible for 11 percent of the country's electrical generation -- 25 percent in New York -- and is the country's largest single source of renewable electricity.</p>
+        <p>Hydropower's value to our energy mix grows even more as we consider its clean-air benefit. Because nothing is burned when producing hydroelectricity, hydropower prevents the emissions of additional greenhouse gases.</p>
+        <p>No doubt some of this country's 75,000 dams have outlived their usefulness. But when a dam provides a community with clean energy, flood management, drinking water, irrigation and recreation, we must consider its benefits.</p>
+        <p>LINDA CHURCH-CIOCCI  Exec. Dir., Natl. Hydropower Assn.  Washington, May 13, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

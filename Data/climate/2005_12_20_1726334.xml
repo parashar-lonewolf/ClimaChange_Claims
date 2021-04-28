@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Hot Flashes</title>
+    <meta content="20lett-6" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1726334"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Menopause</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Huntington, Polly</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Menopause</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E4D81730F933A15751C1A9639C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Hot Flashes</hl1>
+      </hedline>
+      <abstract>
+        <p>Polly Huntington letter on Dec 13 article about apparel for women experiencing hot flashes provides humorous reference to global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Women Dress for Comfort in the Heat of the Night'' (Dec. 13) notes that by 2030, ''according to the World Health Organization, as many as 1.2 billion women worldwide will have reached the age of 50, when hot flashes often occur.'' May one infer that hot flashes will become a factor in global warming?</p>
+        <p>Polly Huntington  Farmington, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Women Dress for Comfort in the Heat of the Night'' (Dec. 13) notes that by 2030, ''according to the World Health Organization, as many as 1.2 billion women worldwide will have reached the age of 50, when hot flashes often occur.'' May one infer that hot flashes will become a factor in global warming?</p>
+        <p>Polly Huntington  Farmington, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

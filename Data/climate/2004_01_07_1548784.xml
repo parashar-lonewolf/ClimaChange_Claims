@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inquiry Follows Loss of Pressure At International Space Station</title>
+    <meta content="Y07STA$13" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/07/science/07STAT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1548784"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">International Space Station</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Broad, William J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E5DC1031F934A35752C0A9629C8B63" item-length="579" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inquiry Follows Loss of Pressure At International Space Station</hl1>
+        <hl2 class="online_headline">Inquiry Follows Loss of Pressure at International Space Station</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM J. BROAD</byline>
+      <byline class="normalized_byline">Broad, William J</byline>
+      <abstract>
+        <p>NASA says International Space Station has lost about four percent of its air supply, and hunt for cause is being intensified; see no danger to two astronauts on board (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The International Space Station has lost about 4 percent of its air supply, NASA officials said on Tuesday, prompting investigators on the ground and in orbit to intensify their hunt for the cause of the mysterious drop in pressure.</p>
+        <p>The rate of air pressure loss is low and poses no danger to the two astronauts in orbit, officials said at a news conference. The station has a half-year's supply of air on board for replacement, they said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The International Space Station has lost about 4 percent of its air supply, NASA officials said on Tuesday, prompting an intensified hunt for the cause of the drop in pressure.</p>
+      </block>
+      <block class="full_text">
+        <p>The International Space Station has lost about 4 percent of its air supply, NASA officials said on Tuesday, prompting investigators on the ground and in orbit to intensify their hunt for the cause of the mysterious drop in pressure.</p>
+        <p>The rate of air pressure loss is low and poses no danger to the two astronauts in orbit, officials said at a news conference. The station has a half-year's supply of air on board for replacement, they said.</p>
+        <p>''If this is a leak, it's a very, very small one,'' said Mike Suffredini, a station manager at the Johnson Space Center in Houston. ''So we have time to do this right, to understand the problem, and if it is a problem to make any changes we need to.''</p>
+        <p>The two astronauts aboard, Dr. C. Michael Foale, the American station commander, and Aleksandr Y. Kaleri, the Russian flight engineer, were told about the leak on Monday and immediately began inspecting valves and hatches. On Tuesday, they scoured the station with listening gear meant to detect the quiet hissing of an air leak but found nothing.</p>
+        <p>This is not the only problem the astronauts have had to deal with in recent weeks. A failure of an oxygen generator has forced them to burn two special oxygen-producing candles a day.</p>
+        <p>Officials say they believe the new problem, rather than leaking from a hole that a meteoroid or piece of space debris tore in the hull, is a malfunctioning valve or other piece of gear that is slowly venting the station's air into space. That kind of problem would potentially be easier to fix than a jagged gash.</p>
+        <p>''They can't find the source of it. That's what is causing concern,'' Sean O'Keefe, head of the National Aeronautics and Space Administration, told reporters on Tuesday. ''They are not alarmed by it. But they also view it as something that needs to be understood.''</p>
+        <p>In the past few days, ground controllers in Houston and Moscow discovered that the station had been losing pressure since Dec. 22, falling to 14.2 pounds of pressure per square inch from a normal 14.7. Though small, it is the largest continuous drop in the station's air supply.</p>
+        <p>Mr. Suffredini said that a dangerous level for the crew and equipment would be 10.2 pounds per square inch but that before then some of the complex gear aboard the 200-ton outpost would run into cooling problems.</p>
+        <p>The drop has now slowed as mysteriously as it began, officials said on Tuesday. In the past 15 days, the loss has averaged about 2.26 pounds of air per day, for a total of about 34 pounds. That is some 4 percent of the station's normal volume of 900 pounds of air.</p>
+        <p>''Again,'' Mr. Suffredini told reporters, ''the leak rate is very small so it makes sense for us to be methodical in everything we're doing.''</p>
+        <p>NASA officials said a preliminary analysis by a Russian team indicated that the problem might be the station's vozhukh (air) scrubber, which absorbs carbon dioxide from the crew's cabins and periodically vents it to outer space through a system of valves.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

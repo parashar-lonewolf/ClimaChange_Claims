@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Earth Day Challenge</title>
+    <meta content="22SAT1" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1193677"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Earth Day</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E1DA1630F931A15757C0A9669C8B63" item-length="519" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Earth Day Challenge</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial notes 30th anniversary of first Earth Day, and recalls what has been accomplished and what must still be done to reverse decades of environmental degradation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Today, on the 30th anniversary of the first Earth Day, there is much to celebrate and much to remind us of the unfinished business of protecting the planet. While the job of cleaning the water, air and land continues, the world must begin tackling the less visible threat of global warming, an issue largely unknown 30 years ago. This new threat is less immediate and less easily solved, and therefore will require an even stronger commitment in the years ahead. This is essentially the message of the organizers of Earth Day 2000.</p>
+        <p>In 1970, some American rivers were so polluted with chemicals that they were fire hazards. Big cities were choked in smog, toxic wastes leached freely into the land, and bird and fish species were disappearing. In a generation's time, with the creation of the National Environmental Policy Act, the Clean Air Act, the Clean Water Act, the Endangered Species Act and the Environmental Protection Agency, a great deal has been achieved to reverse decades of environmental degradation.</p>
+      </block>
+      <block class="full_text">
+        <p>Today, on the 30th anniversary of the first Earth Day, there is much to celebrate and much to remind us of the unfinished business of protecting the planet. While the job of cleaning the water, air and land continues, the world must begin tackling the less visible threat of global warming, an issue largely unknown 30 years ago. This new threat is less immediate and less easily solved, and therefore will require an even stronger commitment in the years ahead. This is essentially the message of the organizers of Earth Day 2000.</p>
+        <p>In 1970, some American rivers were so polluted with chemicals that they were fire hazards. Big cities were choked in smog, toxic wastes leached freely into the land, and bird and fish species were disappearing. In a generation's time, with the creation of the National Environmental Policy Act, the Clean Air Act, the Clean Water Act, the Endangered Species Act and the Environmental Protection Agency, a great deal has been achieved to reverse decades of environmental degradation.</p>
+        <p>This shift was propelled by citizen activists and a handful of political leaders who first gave voice to a broadening ethic that made protecting the environment a political as well as moral obligation.</p>
+        <p>The same public passion and political will must now be summoned to confront the global greenhouse effect. Congress has given little attention to this issue. For that reason, the Earth Day organizers have done a public service by making global warming a focus of this year's program.</p>
+        <p>Unlike polluted air and contaminated water, global warming is not a local problem that can be seen or felt. But its impact on every region on earth could be devastating. Most scientists agree that the earth's climate is warming, due at least partly to the accumulation of greenhouse gases such as carbon dioxide that trap the sun's energy. Although the effect may be gradual, the consequences could be catastrophic, with increased floods and droughts, rising sea levels and destruction of ecosystems caused by climate change.</p>
+        <p>In 1997 more than 150 nations, including the United States, signed the Kyoto Protocol to limit the amount of greenhouse gases released into the atmosphere through the burning of fossil fuels. The agreement calls for industrialized nations to cut their emissions by 2010. But few nations have moved to carry out the agreement. The United States is the largest greenhouse gas emitter, but the Senate is opposed to ratification of the Kyoto agreement and the policies needed to carry it out.</p>
+        <p>Curbing these gases requires intensive energy conservation and the promotion of cleaner energy sources such as solar and wind power. The political and economic hurdles are substantial, both in this country and abroad. They can be overcome if the public is educated about the importance of this issue. The 30-year history of the Earth Day movement shows that when people are awakened to an environmental crisis, they will ultimately demand change in the way we live.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

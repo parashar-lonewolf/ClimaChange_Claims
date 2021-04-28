@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pseudo-Spring, Real Guilt</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="220441"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="TOPICS OF THE TIMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <object.title class="indexing_service">TOPICS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFDA1031F937A35751C0A96F948260" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pseudo-Spring, Real Guilt</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: It was the best of Januaries and the worst of Januaries. Best because the midday sun felt like late March, the evening air gave hints of April, the snowdrops popped up even earlier than usual. Worst because of the worry that this was the greenhouse effect, already starting to warm us up.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: It was the best of Januaries and the worst of Januaries. Best because the midday sun felt like late March, the evening air gave hints of April, the snowdrops popped up even earlier than usual. Worst because of the worry that this was the greenhouse effect, already starting to warm us up.</p>
+        <p>It was the best of Januaries and the worst of Januaries. Best because the midday sun felt like late March, the evening air gave hints of April, the snowdrops popped up even earlier than usual. Worst because of the worry that this was the greenhouse effect, already starting to warm us up.</p>
+        <p>To enjoy the weather openly was a kind of ecological treachery, and conversations about it had a funereal cast. People greeting each other on balmy park walks talked as if they would like to meet on happier occasions, with a wind-chill factor of minus 10. They contemplated the reality of carbon dioxide buildup in the atmosphere, the feckless cutting down of forests and the spill of gases into the air.</p>
+        <p>Maybe February now will be blessed with blizzards and March be mean from lion to lamb. That would be good for consciences. In any case, those who keep an eye on nature know she has subtle ways of giving warnings. Like the soft time before a storm or the lovely red sky in morning, January may just have been a benign threat.</p>
+        <p>TOPICS OF THE TIMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

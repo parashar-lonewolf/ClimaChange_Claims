@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Break Our Oil Dependence</title>
+    <meta content="l10oil-3" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1708727"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EEDE163FF933A25753C1A9639C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Break Our Oil Dependence</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Anybody reading Gov. Brian Schweitzer's article might conclude that synfuels from coal are the answer to global warming. Nothing could be further from the truth.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Anybody reading Gov. Brian Schweitzer's article might conclude that synfuels from coal are the answer to global warming. Nothing could be further from the truth.</p>
+        <p>Burning synthetic gasoline made from coal releases as much carbon dioxide into the atmosphere as burning the real thing.</p>
+        <p>Moreover, the process for making synfuel or hydrogen from coal produces carbon dioxide, which is vented into the atmosphere. Nobody has yet figured a safe place to put it where it will stay put for long enough.</p>
+        <p>The big investment in coal infrastructure is locking us into an energy policy that will be an environmental catastrophe, both locally and globally.</p>
+        <p>Raymond T. Pierrehumbert  Chicago, Oct. 3, 2005</p>
+        <p>The writer, a geophysical sciences professor at the University of Chicago, was a lead author of the Intergovernmental Panel on Climate Change Third Assessment Report.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

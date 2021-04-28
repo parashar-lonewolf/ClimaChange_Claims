@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dance in Review</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="509721"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DANCING</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">EM/R DANCE CO</org>
+        <person class="indexing_service">ANDERSON, JACK</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFD61430F937A15751C0A964958260" item-length="329" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dance in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, JACK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EM/R Dance Company</p>
+        <p>Dia Center for the Arts SoHo</p>
+        <p>The EM/R Dance Company, which encourages collaborations between choreographers and musicians, is lucky to have David Wolfson as a composer. The scores that he provided for the works offered by Frank Roth and Lynn Wichem on Thursday night were emotionally apt and theatrically forceful. But the choreography and dancing were sometimes uneven.</p>
+      </block>
+      <block class="full_text">
+        <p>EM/R Dance Company</p>
+        <p>Dia Center for the Arts SoHo</p>
+        <p>The EM/R Dance Company, which encourages collaborations between choreographers and musicians, is lucky to have David Wolfson as a composer. The scores that he provided for the works offered by Frank Roth and Lynn Wichem on Thursday night were emotionally apt and theatrically forceful. But the choreography and dancing were sometimes uneven.</p>
+        <p>A disjointed waltz tune served as a portent in Mr. Roth's "Abandoned." Although Kathy Ortiz and Mr. Roth danced side by side and then together, this was not a meeting of equals. Mr. Roth turned aggressive, Ms. Ortiz grew distraught and the music was a herald of doom.</p>
+        <p>Mr. Roth based "The Eagle Descends" on the Greek myth that tells of how the god Zeus disguises himself as an eagle to carry off Ganymede, a handsome youth he hopes will become his cupbearer. Othello Johns commanded attention as Zeus. But Mr. Roth was so sophisticated as Ganymede that he, too, could have been Zeus.</p>
+        <p>Casting flukes marred other presentations. In Mr. Roth's "Shadowboxing," to an ominously repetitive score, Chase Angier portrayed a terrified woman and Mr. Roth was the sinister figure with whom she contended. While Ms. Angier appeared to be a competent lyrical dancer, she lacked dramatic intensity. And Leigh Hansen, Bernadette Knaebel and Holly Ohren, who were assigned flowing movements in Ms. Wichem's "Three Voices," looked stiff in the knees and hips.</p>
+        <p>Ms. Wichem danced two solos. "Into the Rain" was a heartfelt, yet protracted protest against acid rain. In "The Shadow From the Light," which was considerably more effective, she moved with mounting apprehension and yearned for a red square on the floor as if it were a goal. Once she reached it, she seemed to renounce it, and she left the audience free to ponder the symbolism of her gestures.</p>
+        <p>Mr. Wolfson played synthesizer. The other musicians were Ed Brunicardi, percussionist, and Irad Carmi, flutist.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

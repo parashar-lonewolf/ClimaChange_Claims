@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yawning as the Earth Warms</title>
+    <meta content="LTR230811" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1136266"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Temperature</classifier>
+        <person class="indexing_service">Hodge, Bruce</person>
+        <person class="indexing_service">Mckibben, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990908T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0DA163DF93BA3575AC0A96F958260" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yawning as the Earth Warms</hl1>
+      </hedline>
+      <abstract>
+        <p>Bruce Hodge letter holds global warming is just one aspect of increasingly obvious mismatch between humans and nature (Sept 4 Op-Ed)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Global warming is just one aspect of an increasingly obvious mismatch between humans and nature (Op-Ed, Sept. 4). The exponential growth of the world's population, coupled with a troubling global trend of increasing impact per person (food, water and energy consumed), makes global warming an even more difficult problem to solve.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Global warming is just one aspect of an increasingly obvious mismatch between humans and nature (Op-Ed, Sept. 4). The exponential growth of the world's population, coupled with a troubling global trend of increasing impact per person (food, water and energy consumed), makes global warming an even more difficult problem to solve.</p>
+        <p>The 1992 book ''Beyond the Limits: Confronting Global Collapse, Envisioning a Sustainable Future'' tried to model the net impact of these colliding trends. Running the model with different starting conditions and assumptions led to the conclusion that humanity is facing an ''overshoot without collapse'' scenario in which humans exceed the ability of the earth to support their numbers, causing a significant net deterioration in global quality of life.</p>
+        <p>BRUCE HODGE  Palo Alto, Calif., Sept. 7, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

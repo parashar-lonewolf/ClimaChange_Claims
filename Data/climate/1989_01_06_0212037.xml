@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Into the Woods</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19890109T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="212037"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="WASHINGTON TALK: BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FORESTS AND FORESTRY</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">CONGRESS (US)</org>
+        <person class="indexing_service">BINDER, DAVID</person>
+        <person class="indexing_service">HALLORAN, RICHARD</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DC133AF935A35752C0A96F948260" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Into the Woods</hl1>
+      </hedline>
+      <byline class="print_byline">By David Binder and Richard Halloran</byline>
+      <byline class="normalized_byline">BINDER, DAVID; HALLORAN, RICHARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: With Congress in recess until Jan. 20, it is junket time again and one of the more unusual journeys will take five Senators and two Representatives into a tropical rain forest next week.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: With Congress in recess until Jan. 20, it is junket time again and one of the more unusual journeys will take five Senators and two Representatives into a tropical rain forest next week.</p>
+        <p>With Congress in recess until Jan. 20, it is junket time again and one of the more unusual journeys will take five Senators and two Representatives into a tropical rain forest next week.</p>
+        <p>Staff aides say the trip planned by Senator Timothy E. Wirth, Democrat of Colorado, and Representative Gerry Sikorski, Democrat of Minnesota, indirectly involves third world debt and global warming. The aides say the lawmakers are considering legislation to provide debt relief to countries that take steps to protect the environment.</p>
+        <p>Mr. Wirth and Mr. Sikorski, along with Senator Richard C. Shelby, Democrat of Alabama, and Representative John Bryant, Democrat of Texas, will set out next Thursday for Paraguay, Argentina and Chile. They will be joined in Brazil next week by Senators John Heinz, Republican of Pennsylvania, Albert Gore Jr., Democrat of Tennessee, and Wyche Fowler Jr., Democrat of Georgia.</p>
+        <p>The day and night in the Amazonian rain forest, an aide said, is to provide the legislators with a first-hand look at clearing of forest land in Brazil, which environmentalists have said is contributing to a detrimental warming of the earth.</p>
+        <p>The aide said with some glee that the party would spend at least one night in the rain forest where the temperature hovers around 110 degrees.</p>
+        <p>WASHINGTON TALK: BRIEFING  Correction:  January 9, 1989, Monday, Late City Final Edition</p>
+        <p>Because of editing errors, a report in the Briefing column of the Washington Talk page on Friday misstated the date and purpose of a trip to Latin America by some members of Congress. They are to study third-world debt issues and to examine results of large-scale clearing of the Amazonian rain forest in Brazil. The first of two groups left Washington on Thursday.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 9, 1989, Monday, Late City Final Edition</p>
+        <p>Because of editing errors, a report in the Briefing column of the Washington Talk page on Friday misstated the date and purpose of a trip to Latin America by some members of Congress. They are to study third-world debt issues and to examine results of large-scale clearing of the Amazonian rain forest in Brazil. The first of two groups left Washington on Thursday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

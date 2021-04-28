@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy Follies</title>
+    <meta content="30SAT1$01" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/04/30/opinion/30sat1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1668734"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">Domenici, Pete</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EFDF1E31F933A05757C0A9639C8B63" item-length="655" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy Follies</hl1>
+        <hl2 class="online_headline">Energy Follies</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was fascinating to watch President Bush lay out intelligent approaches to pressing problems at his news conference on Thursday night, and then urge Congress to pass bills that would do almost nothing to solve them. Social Security was one case in point, but another egregious example was energy, an issue that has moved to center stage in the White House because of public concern over high prices for oil and gasoline at the pump. Mr. Bush had trouble with this issue all week, beginning with an embarrassing effort to persuade the Saudis to gin up production. He then stumbled through an almost incoherent presentation of his larger energy strategy in a speech on Wednesday at a Small Business Administration conference.</p>
+        <p>Mr. Bush was more honest than his Democratic critics when he conceded that nothing would reduce gasoline prices in the short term except an agreement by the Saudis and others to turn on the spigot, a step that is not all that easy when global demand is pressing up against supply. He was also unusually forthright in saying that America must reduce its dependence on foreign oil, begin to wean itself from fossil fuels generally and invest in technology to get to a cleaner, more sustainable energy future.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In his press conference, President Bush completely ignored the surest way to reduce oil dependency, which is to improve the fuel efficiency of America's cars and trucks.</p>
+      </block>
+      <block class="full_text">
+        <p>It was fascinating to watch President Bush lay out intelligent approaches to pressing problems at his news conference on Thursday night, and then urge Congress to pass bills that would do almost nothing to solve them. Social Security was one case in point, but another egregious example was energy, an issue that has moved to center stage in the White House because of public concern over high prices for oil and gasoline at the pump. Mr. Bush had trouble with this issue all week, beginning with an embarrassing effort to persuade the Saudis to gin up production. He then stumbled through an almost incoherent presentation of his larger energy strategy in a speech on Wednesday at a Small Business Administration conference.</p>
+        <p>Mr. Bush was more honest than his Democratic critics when he conceded that nothing would reduce gasoline prices in the short term except an agreement by the Saudis and others to turn on the spigot, a step that is not all that easy when global demand is pressing up against supply. He was also unusually forthright in saying that America must reduce its dependence on foreign oil, begin to wean itself from fossil fuels generally and invest in technology to get to a cleaner, more sustainable energy future.</p>
+        <p>Yet, as always, he completely ignored the surest way to reduce demand and thus oil dependency, which is to improve the fuel efficiency of America's cars and trucks. Indeed, everything Mr. Bush said seemed designed to divert attention from this simple and technologically feasible idea, which nevertheless seems to terrify both him and the Congress.</p>
+        <p>In his Wednesday speech, for instance, having asserted the pressing national need to reduce dependency, he veered off into the merits of nuclear power and liquefied natural gas -- potentially useful ideas that have nothing to do with oil imports. Cars and trucks don't run on nuclear power and rarely run on natural gas. They run on gasoline, and if we are to reduce oil imports we must find substitutes for gasoline or use less of it, or, preferably, do both.</p>
+        <p>In addition to confusing things, Mr. Bush offered no guidance to Congress beyond an exhortation to the Senate to replicate what he described as a ''good bill'' approved last week by the House. In fact the House bill is dreadful, and even insulting to Mr. Bush in that it fails to include the few good things -- tax credits for purchasers of hybrid cars, for instance -- that he had originally requested.</p>
+        <p>Then, too, he could not resist the deceptions that make debating energy in Washington such a frustrating matter. These included the familiar assertion that drilling in the Arctic National Wildlife Refuge would be restricted to 2,000 acres, which is akin to counting just the greens on a golf course because it includes only the area to be occupied by drilling pads, not the spider web of roads and pipelines.</p>
+        <p>All of which leaves the job of fashioning a coherent strategy in the Senate's hands, specifically those of Pete Domenici of New Mexico. Mr. Domenici is first and foremost a nuclear power enthusiast and agrees with Mr. Bush on moving briskly ahead with domestic exploration. But he has also said he is willing to explore new ideas much favored by the think tanks (and mentioned in passing by Mr. Bush), like coal gasification and creating ''biofuels'' from agricultural waste. The key question is whether, unlike Mr. Bush, he has the political courage to push for the stricter fuel economy standards that are essential to any serious effort to lower consumption.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

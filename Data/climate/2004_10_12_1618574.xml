@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At St. Helens, Little Lava But Plenty Of Data</title>
+    <meta content="12VOLC$03" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/10/12/science/12volc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1618574"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Volcanoes</classifier>
+        <classifier class="indexing_service" type="descriptor">Telescopes and Observatories</classifier>
+        <classifier class="indexing_service" type="descriptor">Seismology and Seismographs</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Cascades Volcano Observatory</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <location class="indexing_service">Mount St Helens (Washington)</location>
+        <location class="indexing_service">Cascade Mountains</location>
+        <org class="indexing_service">United States Geological Survey</org>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <person class="indexing_service">Endo, Elliot (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington/Mount St. Helens</classifier>
+        <classifier class="online_producer" type="descriptor">Volcanoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Volcanoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <location class="online_producer">Washington (State)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403EFD9103BF931A25753C1A9629C8B63" item-length="1293" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At St. Helens, Little Lava But Plenty Of Data</hl1>
+        <hl2 class="online_headline">At Mount St. Helens, the Big Eruption Is of Data, Not Lava</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>Scientists observing volcanoes today know much more about how, when and why certain eruptions occur than they did when Mount St Helens erupted in 1980; Dr Elliot Endo, United States Geological Survey's Cascades Volcano Observatory chief scientist, explains how technology has made work safer and more accurate; current activity on Mount St Helens described; seismic signals that appear coordinated into single note have been found to be precursor to eruptions, but do not predict size or severity of activity; other new technologies discussed; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Mount St. Helens was last erupting in the 1980's, Dr. Elliot Endo recalls using a ruler to measure the size of the squiggles on seismographs.</p>
+        <p>Now he tracks St. Helens with a high-end cellphone. ''I look at my plots on a Treo 600, and it's really cool,'' said Dr. Endo, scientist-in-charge at the United States Geological Survey's Cascades Volcano Observatory in Vancouver, Wash.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the years since Mount St. Helens last erupted, technology has completely revolutionized volcano science.</p>
+      </block>
+      <block class="full_text">
+        <p>When Mount St. Helens was last erupting in the 1980's, Dr. Elliot Endo recalls using a ruler to measure the size of the squiggles on seismographs.</p>
+        <p>Now he tracks St. Helens with a high-end cellphone. ''I look at my plots on a Treo 600, and it's really cool,'' said Dr. Endo, scientist-in-charge at the United States Geological Survey's Cascades Volcano Observatory in Vancouver, Wash.</p>
+        <p>Technology developed over the last two decades ''has allowed us to do a better job of monitoring and allowed us to interpret the data much more quickly,'' he said.</p>
+        <p>It has also made the work safer. Dr. David A. Johnston, a 30-year-old geologist with the geological survey, was one of 57 killed by the eruption of Mount St. Helens on May 18, 1980, because he was at an observation post five miles from the volcano.</p>
+        <p>Today scientists observe the volcanoes from much greater distances. Global positioning system sensors send signals to orbiting satellites, which triangulate the sensors' locations within a fraction of an inch. Radar from other satellites provides a three-dimensional view of the landscape and detects subtle deformations as magma pushes up from below. Those data fly across the Internet to scientists around the world.</p>
+        <p>''In 1980, we had to rely on surveying techniques that required people on the ground and clear weather in order to be able to see targets,'' Dr. William E. Scott, a geological survey scientist, said at a news conference last week. When St. Helens reawakened three weeks ago, scientists were better prepared to analyze the situation. So far, they expect some eruptions, but nothing approaching the 1980 cataclysm.</p>
+        <p>In 1980, scientists did catch the warning signs of an impending eruption. Swarms of earthquakes and the appearance of a bulge alerted them, and they persuaded officials to close surrounding areas, saving lives. But they were still caught off guard by the ferocity of the eruption, which sent up a cloud of ash that blanketed the Pacific Northwest and carried as far as Oklahoma.</p>
+        <p>''People decided we better try to work at understanding what's happening inside volcanoes,'' said Dr. Bernard Chouet of the geological survey's volcano hazards program.</p>
+        <p>Most volcanoes form at the edges of tectonic plates, where hotter material can rise up from below, although a few, like those in Hawaii, occur in the middle of a plate. Those, most geologists believe, are created by hot plumes of rock rising from the core, melting the underside of the earth's crust.</p>
+        <p>Whether an erupting volcano explodes, raining ash over a wide region, or less destructively dribbles out lava depends primarily on the amount of water in the molten rock. As the underground molten rock, or magma, moves toward the surface, the water, held in by extreme pressures underground, separates out and turns into the steam. That provides the explosive potential. (Hawaiian volcanoes rarely spew ash. In the plume model, the reason for the smooth flowing lava is that deep magmas contain little water.)</p>
+        <p>Dr. Chouet, working on St. Helens during smaller eruptions after May 1980, noticed that the seismic signals from earthquakes around volcanoes were different from those from ordinary earthquakes. When an earthquake fault slips, breaking rocks, the seismograph reading is a messy, patternless jumble of squiggle. But around St. Helens, the seismic signal often contained a single characteristic frequency, almost as if the earth were singing a particular note.</p>
+        <p>Indeed, steam rising up through rock cracks resonates ''almost like an organ pipe,'' Dr. Chouet said. Such resonant earthquakes, particularly if nothing is occurring at the surface, indicates pressures are building, he said.</p>
+        <p>Dr. Chouet said that in the current volcanic episode at St. Helens, the seismic signals of the initial earthquakes, which started Sept. 23, looked like just the breaking of rocks. About four or five days later, the resonant signal appeared. The first steam and ash eruption occurred Oct. 1.</p>
+        <p>To get a better idea of the plumbing below some of the world's most worrisome volcanoes, scientists have made what are essentially sonograms of the earth. At Mount Vesuvius in Italy, scientists set off a series of small explosions around the mountain and then precisely measured the seismic signals. The carefully monitored mountain has been quiet of late, but the data showed a large magma chamber exists about six miles below the mountain.</p>
+        <p>''This is quite large,'' said Marcello Martini of the National Institute of Geophysics and Volcanology in Naples. ''The problem is we don't know how deep this goes. We know the top level of this magma chamber.''</p>
+        <p>A similar underground image created for Mount Kilauea in Hawaii showed a complex network of fractures carrying the magma to the surface. While most textbooks depict a single chamber of magma underground with a large conduit leading to a volcano's crater, ''We're finding there is no such thing,'' Dr. Chouet said. ''It's going to be much richer than the simple picture you see in textbooks.''</p>
+        <p>Technology for measuring volcanic gases has also improved. The amount of steam rising out of a crater does not tell by itself much about the explosive potential of the magma below because the steam could have come from water percolating down from above and boiling when it hit the magma. Accompanying water in magma, however, are three other gases: carbon dioxide, hydrogen sulfide and sulfur dioxide.</p>
+        <p>In 1980, scientists could detect only sulfur dioxide, but sulfur dioxide dissolves in water, and that could lead to misleadingly low measurements. Now instruments exist to measure all three.</p>
+        <p>Even precise gas measurements are not enough to predict the explosiveness of an eruption. Dr. Michael Manga, a professor of earth and planetary science at the University of California at Berkeley, said identical gas-rich magma coming out of the same volcano would not always produce the same eruption. ''Sometimes it explodes, and sometimes it doesn't,'' he said. ''How you get gases out of a volcano is an interesting question. You would think after hundreds of years of studying volcanoes, we'd have that answer. But we don't.''</p>
+        <p>So a member of his research group, Dr. Atsuko Namiki, built a volcano in the basement at Berkeley to help provide answers. Instead of red-hot magma, the model volcano erupts gooey xanthan gum, a food additive used as a thickener in pudding, fruit fillings and chewing gum. ''We want to do this at room temperature,'' Dr. Manga said.</p>
+        <p>Dissolving the gum in water and infusing it with bubbles, Dr. Namiki videotaped the behavior of the gum when the surrounding pressure was suddenly released. That simulates what happens to magma as it rises toward the surface.</p>
+        <p>To erupt explosively, the magma must break into pieces. On the other hand, if all the gas escapes before the magma reaches the surface, there is no force left to throw the magma into the air. ''We can vary all these parameters and conditions in the lab,'' Dr. Manga said. ''We can use models to extrapolate to real volcanoes.''</p>
+        <p>In 1980, a magnitude 5.2 earthquake on the morning of May 18 caused the bulge on the northern flank of Mount St. Helens to slide away. That uncovered the highly pressurized magma below, like popping a cork from a Champagne bottle.</p>
+        <p>The analogous xanthan gum lava also exploded. ''Our lab experiments are at least consistent with Mount St Helens,'' Dr. Manga said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

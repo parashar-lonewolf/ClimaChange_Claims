@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reduce Population</title>
+    <meta content="LTR003614" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1071768"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <person class="indexing_service">weber, juli ann</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E2D9123CF931A15751C1A96E958260" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reduce Population</hl1>
+      </hedline>
+      <abstract>
+        <p>Juli Ann Weber letter, commenting on Dec 8 article, says world population must be reduced to the maximum sustainable level of 3.9 billion</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Will Humans Overwhelm the Earth?'' Dec. 8: Humans have already overwhelmed the earth. The solution to poverty, hunger, water shortages, global warming, immune system breakdowns (resulting from stresses of crowding), species extinction and other ecological, social, psychological and health disasters is to reduce population to the maximum sustainable level of 3.9 billion.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Will Humans Overwhelm the Earth?'' Dec. 8: Humans have already overwhelmed the earth. The solution to poverty, hunger, water shortages, global warming, immune system breakdowns (resulting from stresses of crowding), species extinction and other ecological, social, psychological and health disasters is to reduce population to the maximum sustainable level of 3.9 billion.</p>
+        <p>Either we do this consciously through birth control, with everybody ''stopping at one'' until the population declines by more than two billion people, or nature will do it for us.</p>
+        <p>JULI ANN WEBER  Westport, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

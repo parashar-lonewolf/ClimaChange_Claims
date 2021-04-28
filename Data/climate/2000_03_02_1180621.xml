@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Wisp of Carbon, a Whiff of Gases</title>
+    <meta content="02NEXT$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1180621"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Sensors</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Nanotechnology</classifier>
+        <classifier class="indexing_service" type="descriptor">Gases</classifier>
+        <org class="indexing_service">University of California (Berkeley)</org>
+        <org class="indexing_service">Stanford University</org>
+        <person class="indexing_service">Zettl, Alex (Dr)</person>
+        <person class="indexing_service">Dai, Hongjie (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000302T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E3D81039F931A35750C0A9669C8B63" item-length="1142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Wisp of Carbon, a Whiff of Gases</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <abstract>
+        <p>Research teams at University of California, Berkeley, under Dr Alex Zettl, and at Stanford University, under Dr Dr Hongjie Dai, demonstrate how nanotube, hollow molecules built of carbon atoms that are condensed into sheets of graphite one atom thick and then rolled into cylinder about billion of meter in diameter, can be used to detect faint amounts of gas; Zettl says nanotube's potential as chemical sensor was so unexpected that work on tubes will have to re re-evaluated; Dai says his device might be fabricated very cheaply making it competitive with larger, more expensive sensors currently in use (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE nanotube is the Hercules of the submicron materials world, for it is nearly a hundred times as strong as steel. Now, like a 90's update of the manly man, the molecules are turning out to be sensitive as well.</p>
+        <p>Two research teams, one at Stanford University and the other at the University of California at Berkeley, have demonstrated that nanotubes work well as tiny chemical sensors, sniffing out faint amounts of gas rapidly at room temperature.</p>
+      </block>
+      <block class="full_text">
+        <p>THE nanotube is the Hercules of the submicron materials world, for it is nearly a hundred times as strong as steel. Now, like a 90's update of the manly man, the molecules are turning out to be sensitive as well.</p>
+        <p>Two research teams, one at Stanford University and the other at the University of California at Berkeley, have demonstrated that nanotubes work well as tiny chemical sensors, sniffing out faint amounts of gas rapidly at room temperature.</p>
+        <p>This new property may make them highly useful for detecting oxygen as well as toxic exhaust gases like ammonia and nitrogen dioxide, implicated in greenhouse warming and acid rain. Because of the relatively simple structure of nanotubes, it may be possible to manufacture them as sensing devices very cheaply.</p>
+        <p>Nanotubes are fullerenes, hollow molecules built of carbon atoms -- like buckyballs, their soccer-ball-shaped chemical cousins. To make nanotubes, carbon vapor is condensed into sheets of graphite one atom thick, which spontaneously adopt a form resembling chicken wire. To form a nanotube, a sheet spontaneously rolls itself into a long, slender cylinder about a billionth of a meter in diameter.</p>
+        <p>Nanotubes are the great hope of many laboratories not only because of their strength but also because of their electronic properties. They may one day be faster, cheaper replacements for silicon-based integrated circuits because the atoms that make up the wall of the nanotube can be arranged so the molecules conduct electricity like a metal or like a semiconductor. There are already nanotube transistors a fraction of the size of conventional ones.</p>
+        <p>But the use of nanotubes as chemical sensors was completely unexpected, said Alex Zettl, a physics professor at Berkeley who leads a group that has worked for years on the devices.</p>
+        <p>''The theory never predicted this,'' Dr. Zettl said. ''Gases or liquids weren't expected to have any effect on these perfect wires.''</p>
+        <p>But when the Berkeley group put a nanotube in a vacuum chamber and measured its chemical resistance after exposing it to oxygen, ''the resistance changed in less than a second,'' Dr. Zettl said.</p>
+        <p>The major changes in resistance and conductivity reported by Dr. Zettl's group came about as oxygen was added or removed because the interaction of the nanotube with the gas molecules led to an electrical effect that was easily detected in a circuit.</p>
+        <p>The nanotube's potential as a chemical sensor is so unexpected that much previous work on the tubes will have to be re-evaluated, Dr. Zettl said. ''The tubes were thought to be insensitive to oxygen, one of the most common gases of them all,'' he explained, so laboratories often did not take precautions in keeping the tubes away from air.</p>
+        <p>Previous experiments with nanotubes were commonly done on benchtops, not in  enclosures like the ones used by Dr. Zettl's group. ''Now we will have to revisit all those old experiments to see if they reflect intrinsic properties,'' he said. ''Even some of our data will need to be re-interpreted.''</p>
+        <p>Dr. Zettl hopes that a complete report of his group's work will appear in a forthcoming issue of the journal Science; Philip G. Collins is the lead author.</p>
+        <p>Dr. Collins, now a postdoctoral researcher in the nanometer science research division at International Business Machines' Thomas J. Watson Research Center in Yorktown Heights, N.Y., said that in retrospect, it was not surprising that the carbon nanotubes detected the gases.</p>
+        <p>''It actually makes perfect sense that nanotubes should soak up molecules and be affected,'' he said. Dr. Collins compared nanotubes to a piece of activated charcoal placed in an aquarium to pick up chlorine from the water.</p>
+        <p>Not only did oxygen exposure markedly change the resistance of the nanotubes, Dr. Collins said, but it also changed some of the nanotubes from insulators to conductors and transformed their semiconducting properties as well. ''The experiments suggest we can use gases to control the properties of nanotubes on the molecular scale,'' Dr. Collins said.</p>
+        <p>While Dr. Zettl's group investigated the effect of oxygen on nanotubes, the researchers at Stanford looked at the effects of nitrogen dioxide and ammonia.</p>
+        <p>Hongjie Dai, an assistant professor in the Stanford chemistry department, and his research group demonstrated that nanotubes could effectively detect those gases: in their experiments, the flow of electric current in nanotubes increased in response to nitrogen dioxide and decreased when the tubes were exposed to ammonia.</p>
+        <p>Dr. Dai's nanotube sensor, described in the Jan. 28 issue of Science, is a nanotube with metal leads at either end. When exposed to nitrogen dioxide at a concentration of 20 parts per million, the conductance of the tube increased thousands of times within 10 seconds. Dr. Dai's sensor operates at room temperature; conventional sensors based on semiconducting metal oxides must operate at very high temperatures for high sensitivity.</p>
+        <p>Stanford University has patented the device and is exploring the possibility of commercial uses, Dr. Dai said. The device might be fabricated very cheaply because of its relatively simple solid-state structure, making it competitive with larger, more expensive sensors currently in use.</p>
+        <p>One drawback of the device, Dr. Dai said, is that the changes in conductivity dissipate slowly. After a nanotube detects a gas, as many as 12 hours at room temperature must elapse before it can be used again; the time is shorter if the tube is heated. That could preclude the use of a nanotube sensor in many applications, said Charles E. Kolb, president of Aerodyne Research, of Billerica, Mass., an instrument company that makes sensors that can detect nitrogen dioxide and ammonia in the atmosphere.</p>
+        <p>''Lots of applications of pollutant sensors require relatively rapid measurements of up to 20 times per second,'' Dr. Kolb said. Aerodyne's sensors, which are laser-based devices, cost as much as $100,000. Instead of using a solid state sensor, like a nanotube, to detect gases, Aerodyne's sensors use spectroscopic techniques, measuring the infrared absorption of the gases, to map the distribution of pollutants from a distance -- making measurements from an airplane or a mobile van, for example.</p>
+        <p>Dr. Kolb said Dr. Dai's devices might one day be useful for measuring exhaust inside automobile pipes or factory smokestacks.</p>
+        <p>''They are impressive for a solid-state sensor,'' he said. ''They have the potential to be very cheap and easy to fabricate, if they can figure out how to get the gas out quickly and make another measurement.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

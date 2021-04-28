@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Wet Weather Is in the Forecast</title>
+    <meta content="LTR235952" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1550046"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Rain</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Burton, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E7DB1430F932A25752C0A9629C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Wet Weather Is in the Forecast</hl1>
+      </hedline>
+      <abstract>
+        <p>John Burton letter corrects January 4 item about record rainfalls in New Jersey</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Forget the Drought'' (In Brief, Jan. 4) you report that New Jersey had its fourth-wettest year on record in 2003 and that our six wettest years have all been since 1972. New Jersey is not unusual in this respect. The United States Global Change Research Program reports that atmospheric moisture has grown by 10 percent over the northern temperate zone in the last century. And we can expect more of this wetter weather. In its 2001 report, the Intergovernmental Panel on Climate Change said the average global water vapor concentration and precipitation are projected to increase in the 21st century.</p>
+        <p>John Burton  Washington</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Forget the Drought'' (In Brief, Jan. 4) you report that New Jersey had its fourth-wettest year on record in 2003 and that our six wettest years have all been since 1972. New Jersey is not unusual in this respect. The United States Global Change Research Program reports that atmospheric moisture has grown by 10 percent over the northern temperate zone in the last century. And we can expect more of this wetter weather. In its 2001 report, the Intergovernmental Panel on Climate Change said the average global water vapor concentration and precipitation are projected to increase in the 21st century.</p>
+        <p>John Burton  Washington</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

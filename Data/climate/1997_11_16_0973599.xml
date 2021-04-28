@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Agency Says Gas Emissions Will Be Worse Than Thought</title>
+    <meta content="16CLIM" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="973599"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EEDD1338F935A25752C1A961958260" item-length="488" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Agency Says Gas Emissions Will Be Worse Than Thought</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, Nov. 15</dateline>
+      <abstract>
+        <p>United States Energy Dept says that emissions of carbon dioxide and other heat-trapping gases from energy use will grow faster than previously expected in United States in next few years; this would make it more difficult for United States to live up to Pres Clinton's proposal to cap emissions of these gases at 1990 levels over next 10 to 15 years (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The emissions of carbon dioxide and other heat-trapping gases from energy use will grow faster than previously expected in the United States in the next few years, the Energy Department said this week. This would make it more difficult for the United States to live up to President Clinton's proposal to cap emissions of these gases at 1990 levels over the next 10 to 15 years.</p>
+        <p>The department said national economic growth would be slightly higher than previously estimated, competition would make electricity cheaper and fuel prices would not change much. More oil will be used because there will be more cars with more horsepower, and more people traveling by plane.</p>
+      </block>
+      <block class="full_text">
+        <p>The emissions of carbon dioxide and other heat-trapping gases from energy use will grow faster than previously expected in the United States in the next few years, the Energy Department said this week. This would make it more difficult for the United States to live up to President Clinton's proposal to cap emissions of these gases at 1990 levels over the next 10 to 15 years.</p>
+        <p>The department said national economic growth would be slightly higher than previously estimated, competition would make electricity cheaper and fuel prices would not change much. More oil will be used because there will be more cars with more horsepower, and more people traveling by plane.</p>
+        <p>These factors are likely to increase emissions of greenhouse gases, produced largely through the use of fossil fuels like oil and coal, the annual energy outlook by the Energy Information Administration said.</p>
+        <p>Representatives of about 150 nations will meet in Kyoto, Japan, next month to negotiate cuts in emissions of carbon dioxide and other gases that trap heat in the atmosphere, threatening to alter the climate.</p>
+        <p>Jay E. Hakes, head of the Energy Information Administation, said that carbon emissions in 1990 were 1,336 million metric tons and that analysts had assumed that if no action were taken, the number would climb to 1,722 million by 2010. ''The rough idea has been that we need to reduce carbon emissions by 28 or 30 percent to get back to 1990 levels.'' With the new estimate, though, the 2010 figure is 1,803 tons, which would require a reduction of close to 35 percent.</p>
+        <p>The new estimate is based on annual economic growth of 2.1 percent, up from 1.9 percent, Mr. Hakes said. Stronger growth means more disposable income and more demand for energy. The estimate is based on oil prices rising less than 10 percent by 2020, and coal prices declining 1.4 percent a year through 2020, faster than was expected last year. According to the new projection, electricity prices will drop 1 percent a year as a result of competition.</p>
+        <p>If the price of energy decreases, Mr. Hakes said, consumers and businesses will have less incentive to invest in improved energy efficiency.  Lower electricity prices will also make it harder for renewable energy sources, like solar and wind power, to gain a foothold in the marketplace.</p>
+        <p>Mr. Hakes said that there were technologies with the potential to reduce carbon output, but that no new inventions or improvements of existing devices appeared likely to be in wide enough use by 2010 to upset the forecast much. Beyond that, he said, the prediction is less certain.</p>
+        <p>In fact, the department's track record for long predictions is poor. In the early 1980's, the Energy Information Administration predicted that crude oil prices could be nearly $300 per barrel by the turn of the century. The price of crude oil these days is around $20 a barrel.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

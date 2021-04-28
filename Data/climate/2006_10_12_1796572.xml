@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Doubting Inhofe</title>
+    <meta content="12thu2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/10/12/opinion/12thu2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1796572"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <person class="indexing_service">Inhofe, James (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+        <org class="online_producer">Proceedings of the National Academy of Sciences</org>
+        <org class="online_producer">Senate</org>
+        <person class="online_producer">Inhofe, James</person>
+        <person class="online_producer">Hansen, James V</person>
+        <person class="online_producer">Gore, Al</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DC1030F931A25753C1A9609C8B63" item-length="375" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Doubting Inhofe</hl1>
+        <hl2 class="online_headline">Doubting Inhofe</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Sen James Inhofe is dismissive of scientific evidence of global warming, and that essence of his strategy is to seize upon mistaken or overblown story to try to undermine broad consensus; says Inhofe accuses scientists and media of hysteria about global warming but that Inhofe himself is master of hysteria of doubt</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a recent speech in the Senate, James Inhofe of Oklahoma called himself ''the senator who has spent more time educating about the actual facts about global warming.'' Too bad he is not the senator who has spent more time educating himself.</p>
+        <p>His speech, one in a series on global warming, was a brisk survey of the way the news media have covered climatic predictions over the past century. Cooling, warming -- we never get it right. Naturally, Mr. Inhofe dismisses what he calls media ''hysteria,'' which is also a way of dismissing not just Al Gore but the consensus among mainstream scientists and the governments of nearly every industrialized nation concerning manmade climate change.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If there is such a thing as a hysteria of doubt in the debate over climate change, then Senator James Inhofe of Oklahoma is its master.</p>
+      </block>
+      <block class="full_text">
+        <p>In a recent speech in the Senate, James Inhofe of Oklahoma called himself ''the senator who has spent more time educating about the actual facts about global warming.'' Too bad he is not the senator who has spent more time educating himself.</p>
+        <p>His speech, one in a series on global warming, was a brisk survey of the way the news media have covered climatic predictions over the past century. Cooling, warming -- we never get it right. Naturally, Mr. Inhofe dismisses what he calls media ''hysteria,'' which is also a way of dismissing not just Al Gore but the consensus among mainstream scientists and the governments of nearly every industrialized nation concerning manmade climate change.</p>
+        <p>Mr. Inhofe is particularly hard on James Hansen, whom he calls a ''NASA scientist and alarmist.'' Mr. Hansen is a timely target, since he is co-author of a new climatological report in The Proceedings of the National Academy of Sciences. The report concludes that because of rapid warming in the past 30 years, the earth is approaching and will soon surpass the warmest temperatures in the past 12,000 years -- since the end of the last ice age, in other words. And, as the study notes, recent warming ''has brought global temperature to a level within about one degree Celsius of the maximum temperature of the past million years.'' The shift in temperature isn't uniform. Higher latitudes are warming faster, as are the Indian and western Pacific Oceans.</p>
+        <p>We do not expect Mr. Inhofe to see the light -- or feel the heat -- any time soon. He and his staff are serious collectors of opposition research. But the essence of his strategy is to seize upon a mistaken or overblown story to try to undermine the broad consensus. If that fails, he can always question his opponents' politics and motives, as with his insinuations that environmentalists dreamed the whole thing up to scare people and raise money.</p>
+        <p>Mr. Inhofe has buttressed himself with a small jury of scientists who argue that climate change is only natural. But he has really buttressed himself with the will to disbelieve. He accuses scientists and the media of hysteria. But if there is such a thing as a hysteria of doubt, then Mr. Inhofe is its master.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

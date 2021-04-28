@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Great Hits Headed for The Attic</title>
+    <meta content="MB140713" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Millennium" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1165033"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VISIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Forecasts</classifier>
+        <person class="indexing_service">Berlin, Irving (1888-1989)</person>
+        <person class="indexing_service">Pareles, Jon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E1DF1639F932A35752C0A9669C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Great Hits Headed for The Attic</hl1>
+      </hedline>
+      <byline class="print_byline">By Jon Pareles</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+      <abstract>
+        <p>Jon Pareles article says Irving Berlin's White Christmas will have no hold on listeners a hundred years from now; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The challenge put to The Times's critics was direct: Name a 20th-century work considered ''timeless'' today that you think will be all but forgotten in 100 years. Their selections:</p>
+        <p>'WHITE CHRISTMAS,' PAST DREAMING OF</p>
+        <p>The oldies stations of 2099 won't be playing much 20th-century pop. While all art is a product of its time, popular music doesn't pretend otherwise. In a century, audio-only music may itself be an antique, superseded by tunes tied to video, virtual reality or direct neural stimuli.</p>
+      </block>
+      <block class="full_text">
+        <p>The challenge put to The Times's critics was direct: Name a 20th-century work considered ''timeless'' today that you think will be all but forgotten in 100 years. Their selections:</p>
+        <p>'WHITE CHRISTMAS,' PAST DREAMING OF</p>
+        <p>The oldies stations of 2099 won't be playing much 20th-century pop. While all art is a product of its time, popular music doesn't pretend otherwise. In a century, audio-only music may itself be an antique, superseded by tunes tied to video, virtual reality or direct neural stimuli.</p>
+        <p>Oblivion could envelop even the 20th century's most popular songs. Consider Irving Berlin's ''White Christmas,'' the best-selling single until Elton John's ''Candle in the Wind 1997.'' When Bing Crosby recorded it in 1942, it was a taste of home-front coziness in the midst of World War II. The melody uncoils craftily, but what would late-21st-century listeners identify with? Not Christmas cards, long since replaced by e-messaging. And the snow for Bing's white Christmases? Gone with global warming. While pop needs nostalgia for preservation, ''White Chistmas'' may sound like an ecological indictment instead.</p>
+        <p>JON PARELES</p>
+        <p>VISIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

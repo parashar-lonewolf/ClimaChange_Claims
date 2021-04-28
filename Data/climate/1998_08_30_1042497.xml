@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BOOKS IN BRIEF: Fiction</title>
+    <meta content="RV121654" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1042497"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Salzberg, Charles</person>
+        <person class="indexing_service">Clancy, Tom</person>
+        <object.title class="indexing_service">Rainbow Six (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E2D6103DF933A0575BC0A96E958260" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BOOKS IN BRIEF: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Charles Salzberg</byline>
+      <byline class="normalized_byline">Salzberg, Charles</byline>
+      <abstract>
+        <p>Charles Salzberg reviews book Rainbow Six by Tom Clancy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rainbow Six  By Tom Clancy.  Putnam, $27.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Rainbow Six  By Tom Clancy.  Putnam, $27.95.</p>
+        <p>Tom Clancy doesn't waste any time. In the first 10 pages of his latest action-packed novel, there's an attempted airplane hijacking that is quickly and professionally foiled by one of Clancy's familiar heroes, the former Navy Seal and C.I.A. operative John Clark -- who happens be to traveling on the very same plane to England to set up a special multinational antiterrorist force called Rainbow Six. Coincidentally, just as the force is getting on its feet, there is a sudden outbreak of bad behavior across Europe: a bank robbery in Switzerland, an attempted kidnapping in Austria, an assault on a Spanish amusement park. None of these dastardly crimes can be handled by local forces, so Clark's shadowy group, chock-full of munitions experts, sharpshooters and all-around daredevils, struts its stuff, inevitably saving the day. Intercutting between scenes of the arduous training and exciting exploits of Rainbow Six, Clancy eventually uncovers an even larger crime as the group receives mounting evidence of a diabolical scheme to wage biological warfare, a plot to contaminate the world with a deadly virus. Joining forces with a former K.G.B. agent, the bad guys are using terrorist attacks to advance their own evil ends, which will all be revealed at the next Olympic Games in Australia. Clancy obviously puts no credence in the advice that ''less is more,'' but his mammoth book is meticulously researched and carefully plotted -- even though the conspiracy he writes of seems farfetched. The author has his own ax to grind, and when he refers to saving the planet he's not talking about the ozone layer or endangered species. Suffice it to say that when all is said and done, he stands little chance of being asked to appear as a guest speaker at the next Sierra Club convention.</p>
+        <p>Charles Salzberg</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

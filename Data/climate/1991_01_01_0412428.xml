@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Transforming the Decade: 10 Critical Technologies; Powering Up Will Solar Energy Dawn at Last?</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="412428"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOLAR ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">BATTERIES</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">WIND</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Batteries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D8113FF932A35752C0A967958260" item-length="621" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Transforming the Decade: 10 Critical Technologies; Powering Up Will Solar Energy Dawn at Last?</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Experts say the arrival of abundant, pollution-free energy awaits two developments: better battery storage and more efficient manufacturing of solar photovoltaic cells or wind turbines.</p>
+        <p>Each would make the other more useful, because neither solar cells, which make power directly from sunlight, nor windmills can be the prime source of power until their energy can be stored for times when the sun does not shine and the wind does not blow. Batteries cannot contribute much to environmental gain until the energy they store comes from clean sources rather than burning of fossil fuels.</p>
+      </block>
+      <block class="full_text">
+        <p>Experts say the arrival of abundant, pollution-free energy awaits two developments: better battery storage and more efficient manufacturing of solar photovoltaic cells or wind turbines.</p>
+        <p>Each would make the other more useful, because neither solar cells, which make power directly from sunlight, nor windmills can be the prime source of power until their energy can be stored for times when the sun does not shine and the wind does not blow. Batteries cannot contribute much to environmental gain until the energy they store comes from clean sources rather than burning of fossil fuels.</p>
+        <p>A more compact and lightweight battery could find wide use immediately, particularly for transportation, which consumes more than a third of the energy used in this country, including two-thirds of the oil. "A 200-pound battery would revolutionize the electric car," said David Roe, an electricity expert at the Environmental Defense Fund. In existing electric vehicles, the batteries account for more than half the weight, and range is limited because so much energy must be expended to lug around the batteries.</p>
+        <p>Better batteries would allow automobiles to run acceptable distances on electricity produced from clean sources like solar cells or hydro dams. Or, the electricity could come from power plants that burn garbage or fossil fuels but have extensive pollution controls that are impractical for cars.</p>
+        <p>Batteries are cells for chemical reactions that absorb electricity when they run in one direction and discharge it when the reaction is reversed. The trick is to find a combination of chemicals that handles more electricity in a box of the same size and weight at a reasonable cost. Advances are likely to occur step by step rather than in sudden breakthroughs. Heating the Solar Market</p>
+        <p>Right now, a battery that will store a kilowatt-hour -- about a dime's worth of electricity -- costs about $200, and the power-conditioning equipment that converts it to alternating current for use in a utility's grid costs about $200 to handle that amount for an hour, according to Dr. James R. Birk, the director of storage and renewables at the Electric Power Research Institute, an industry group. These prices are far too high for everyday use. Most engineers are predicting progress in lowering the cost, although they have been doing so for years. Along with utilities, manufacturers of cellular phones, portable computers and others are spurring the engineerson.</p>
+        <p>A new technology competing with batteries for storage in fixed locations is compressed air, pumped into underground cavities and drawn out as needed, to power a turbine.</p>
+        <p>Photovoltaics have global implications. "If you get photovoltaics to the point where they're broadly competitive, you begin to potentially turn each building into a source of power," said Christopher Flavin, an analyst at the Worldwatch Institute, a Washington-based environmental organization. Their power now costs 30 cents a kilowatt-hour, probably quadruple what is needed for widespread utility use. But prices would fall sharply, proponents say, if there was a market big enough to support large-scale production. More research and development money would help, but a guarantee of big purchases over several years would be just as good, experts say. "There's nothing technologically wrong with PV's; it's just economies of scale," Mr. Roe said.</p>
+        <p>Dr. Birk and others are also betting on wind. Machines in the Altamont Pass in California generate power for 7 to 9 cents per kilowatt-hour, "not quite cost-competitive" with wholesale prices in California, he said. A new generation of wind machines that would produce at 5 cents a kilowatt-hour is on the drawing boards.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

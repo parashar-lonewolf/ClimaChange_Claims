@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Origin of an Arctic Species: The Tourist</title>
+    <meta content="L12ECOT" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/06/12/opinion/L12ECOT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1300891"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <location class="indexing_service">Alaska</location>
+        <location class="indexing_service">Arctic National Wildlife Refuge</location>
+        <person class="indexing_service">Smith, Daniel S</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska/Arctic National Wildlife Refuge</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Alaska (USA)</location>
+        <location class="online_producer">Arctic National Wildlife Refuge</location>
+        <location class="online_producer">New Haven</location>
+        <org class="online_producer">Origin</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E3DE133EF931A25755C0A9679C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Origin of an Arctic Species: The Tourist</hl1>
+      </hedline>
+      <abstract>
+        <p>Daniel S Smith letter on June 10 article on eco-tourism to Alaska being spurred by prospect of drilling for oil in Arctic National Wildlife Refuge; contends that money that eco-tourists spend on trips to refuge might be better spent helping to stop oil lobby; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Mention Drilling, and Tourists Rush to Alaska'' (front page, June 10):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Mention Drilling, and Tourists Rush to Alaska'' (front page, June 10):</p>
+        <p>If eco-tourists like the ones in your article were willing to put the ''eco'' ahead of the personal gratification of tourism, the money they spend on trips to the Arctic National Wildlife Refuge might be better spent helping to stop the oil lobby.</p>
+        <p>It is also important to note the contribution of tourism, one of the most polluting industries, to global warming, which is poised to wreak havoc on even the most remote places.</p>
+        <p>This is especially true for the Far North, where warming will be greatest. Yet tourism remains one of environmentalism's sacred cows.</p>
+        <p>Through eco-tourism, we experience a vanishing wilderness. But in the process, we consume resources that could be used to save it and take an active part in its destruction. I don't suggest that visiting special places is inherently a bad thing, only that environmentalists are negligent in failing to consider the costs.</p>
+        <p>DANIEL S. SMITH  New Haven, June 11, 2001</p>
+        <p>The writer is a doctoral candidate at the Yale School of Forestry and Environmental Studies.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

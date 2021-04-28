@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yawning as the Earth Warms</title>
+    <meta content="LTR230801" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1136265"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Temperature</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Marsh, Gerald</person>
+        <person class="indexing_service">Mckibben, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990908T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E0DA163DF93BA3575AC0A96F958260" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yawning as the Earth Warms</hl1>
+      </hedline>
+      <abstract>
+        <p>Gerald Marsh letter contends that, contr�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Contrary to Bill McKibben (Op-Ed, Sept. 4), there is no ''ironclad consensus that we are heating the planet.'' In fact, there is no real consensus that man-made sources of carbon dioxide are responsible for the slight observed increase in global temperatures.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Contrary to Bill McKibben (Op-Ed, Sept. 4), there is no ''ironclad consensus that we are heating the planet.'' In fact, there is no real consensus that man-made sources of carbon dioxide are responsible for the slight observed increase in global temperatures.</p>
+        <p>Carbon dioxide is a minor greenhouse gas that contributes only about 3 percent to the greenhouse effect, and man-made sources represent some 3 percent to 4 percent of carbon dioxide emissions, the rest being from natural sources. The major greenhouse gas is water vapor. It has been estimated that if all the carbon dioxide in the atmosphere were to vanish magically, it would lead to a 1-degree centigrade decrease in global temperatures.</p>
+        <p>The predictions of the climate models would have to be far more accurate than even their most vociferous proponents claim in order to justify their use as a basis for public policy.</p>
+        <p>GERALD MARSH  Chicago, Sept. 4, 1999</p>
+        <p>The writer is a physicist at Argonne National Laboratory.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

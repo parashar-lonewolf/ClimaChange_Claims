@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Jumping</title>
+    <meta content="15JUMP" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="72" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/12/15/magazine/15CLIM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1448694"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="THE YEAR IN IDEAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">National Academy of Sciences</org>
+        <person class="indexing_service">Weed, William Speed</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3DE153AF936A25751C1A9649C8B63" item-length="449" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Jumping</hl1>
+        <hl2 class="online_headline">Climate Jumping</hl2>
+      </hedline>
+      <byline class="print_byline">By William Speed Weed</byline>
+      <byline class="normalized_byline">Weed, William Speed</byline>
+      <abstract>
+        <p>Review of year's most notable ideas and developments notes new research showing that climate change is not in fact gradual, but is often sudden and ferocious; National Academy of Sciences study cites geological evidence that earth's climate system is jumpy beast: long, dormant spells are overturned suddenly by drastic events (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On April 3, the high temperature in New York City was a balmy 77 degrees -- a full 17 degrees warmer than the previous day. New Yorkers were delighted; many wore shorts. But what if the earth's whole climate system were to snap warm like that? It would be anything but delightful. Imagine the global temperature spiking 17 degrees in a decade. Enough polar ice could melt to cause oceans to surge over New York, Amsterdam and Bangladesh faster than people could build dikes or relocate to higher ground. A global warming snap could wreak havoc on regional weather patterns: rain forests would dry up, tundras would melt. Imagine a centuries-long, Sahara-hot drought setting upon the West Coast and withering crops (and Californians).</p>
+        <p>This dire situation bears little resemblance to the global-warming picture, currently in vogue among policy makers, of a slow, steady warming that creeps along imperceptibly year by year. This picture is dead wrong, according to a National Academy of Sciences study published this year. Climate change often isn't gradual. It's sudden and ferocious. When it happens, we won't have time to adjust.</p>
+      </block>
+      <block class="full_text">
+        <p>On April 3, the high temperature in New York City was a balmy 77 degrees -- a full 17 degrees warmer than the previous day. New Yorkers were delighted; many wore shorts. But what if the earth's whole climate system were to snap warm like that? It would be anything but delightful. Imagine the global temperature spiking 17 degrees in a decade. Enough polar ice could melt to cause oceans to surge over New York, Amsterdam and Bangladesh faster than people could build dikes or relocate to higher ground. A global warming snap could wreak havoc on regional weather patterns: rain forests would dry up, tundras would melt. Imagine a centuries-long, Sahara-hot drought setting upon the West Coast and withering crops (and Californians).</p>
+        <p>This dire situation bears little resemblance to the global-warming picture, currently in vogue among policy makers, of a slow, steady warming that creeps along imperceptibly year by year. This picture is dead wrong, according to a National Academy of Sciences study published this year. Climate change often isn't gradual. It's sudden and ferocious. When it happens, we won't have time to adjust.</p>
+        <p>The report, ''Abrupt Climate Change: Inevitable Surprises,'' collates a mass of geological evidence showing that the earth's climate system is a jumpy beast: long, dormant spells are overturned suddenly by drastic events. Instead of smoothly transitioning over 10,000 years from ice age to warm era, the earth jumps from one ''regime'' to another in just a few years. For instance, 11,500-year-old ice cores taken from Greenland show that annual precipitation doubled in three years and that the annual mean temperature jumped 14 degrees in just 10 years. ''That means a third to half of the warming that took place between the last ice age and today all happened in one decade,'' says Richard Alley, the Penn State geologist who presided over the study. Two dozen such climate jumps have occurred in the last 100,000 years.</p>
+        <p>As for what causes abrupt climate change, Alley says that ''nobody know what the triggers are.'' Does that let us off the hook with greenhouse gas emissions? Not at all. ''The climate has changed most drastically when something was forcing it, like a change in the earth's orbit around the sun,'' says Alley. ''Our emissions today are definitely forcing the climate.'' William Nordhaus, a Yale economist who also worked on the report, says that the impact of gradual global warming would be relatively modest. But the ''abrupt stuff is more dangerous,'' he says. ''What we're triggering is in a sense irreversible. . . . If we flip into that mode, it may be like that for 5,000 years.''</p>
+        <p>William Speed Weed</p>
+        <p>THE YEAR IN IDEAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

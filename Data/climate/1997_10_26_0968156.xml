@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clean Car's Wrong Turn</title>
+    <meta content="LMARK.$03" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="968156"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Vehicles</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <person class="indexing_service">Mark, Jason</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E7DD1E3EF935A15753C1A961958260" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clean Car's Wrong Turn</hl1>
+      </hedline>
+      <abstract>
+        <p>Jason Mark letter contends that fuel-cell vehicles powered by alternative fuels like hydrogen could soon deliver zero-polluting, high-efficiency answer to air pollution and global warming; maintains that Government's proposal to cram gasoline into fuel cells makes them dirtier, more complex and expensive</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''In a Step Toward a Better Electric Car, Company Uses Fuel Cell to Get Energy From Gasoline'' (news article, Oct. 21): Federally sponsored research into this promising technology is veering off course.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''In a Step Toward a Better Electric Car, Company Uses Fuel Cell to Get Energy From Gasoline'' (news article, Oct. 21): Federally sponsored research into this promising technology is veering off course.</p>
+        <p>Fuel-cell vehicles powered by alternative fuels like hydrogen could soon deliver the zero-polluting, high-efficiency answer to air pollution and global warming.</p>
+        <p>But the Government's proposal to cram gasoline into fuel cells makes them dirtier, more complex and expensive. Powering a 21st-century technology with 20th-century fuel seems anything but visionary. Limited Federal finances would seem better aimed at breaking down barriers to new fuels that unleash the full potential of fuel cells rather than facilitating the longevity of petroleum dinosaurs.</p>
+        <p>JASON MARK  Berkeley, Calif., Oct. 23, 1997</p>
+        <p>The writer is a transportation analyst for the Union of Concerned Scientists.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

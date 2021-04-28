@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Exxon Accused of Trying to Mislead Public</title>
+    <meta content="04exxon" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/04/business/04exxon.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816324"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Smoking and Tobacco</classifier>
+        <org class="indexing_service">Union of Concerned Scientists</org>
+        <person class="indexing_service">Krauss, Clifford</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Exxon Mobil Corp</org>
+        <org class="online_producer">Union of Concerned Scientists</org>
+        <org class="online_producer">Philip Morris Companies Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE6D71730F937A35752C0A9619C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Exxon Accused of Trying to Mislead Public</hl1>
+        <hl2 class="online_headline">Exxon Accused of Trying to Mislead Public</hl2>
+      </hedline>
+      <byline class="print_byline">By CLIFFORD KRAUSS</byline>
+      <byline class="normalized_byline">Krauss, Clifford</byline>
+      <dateline>HOUSTON, Jan. 3</dateline>
+      <abstract>
+        <p>Union of Concerned Scientists releases report accusing Exxon Mobil of spending millions of dollars to manipulate public opinion on global warming; conclude that many of tactics and organizations draw upon tobacco industry's 40-year disinformation campaign; Exxon disputes claims (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Union of Concerned Scientists released a report on Wednesday accusing Exxon Mobil of spending millions of dollars to manipulate public opinion on the seriousness of global warming.</p>
+        <p>''Many of the tactics, and even some of the same organizations and actors used by Exxon Mobil to mislead the public, draw upon the tobacco industry's 40-year disinformation campaign,'' the report said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A scientists’ organization accused Exxon of spending millions to manipulate public opinion on the seriousness of global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>The Union of Concerned Scientists released a report on Wednesday accusing Exxon Mobil of spending millions of dollars to manipulate public opinion on the seriousness of global warming.</p>
+        <p>''Many of the tactics, and even some of the same organizations and actors used by Exxon Mobil to mislead the public, draw upon the tobacco industry's 40-year disinformation campaign,'' the report said.</p>
+        <p>The report said that a task force that Exxon Mobil helped create on global climate science in 1998 included someone who had led a nonprofit organization called the Advancement of Sound Science Coalition, ''which had been covertly created by the tobacco company Philip Morris in 1993 to manufacture uncertainty about the health hazards posed by secondhand smoke.''</p>
+        <p>Many of the accusations in the report have been made before by the scientists' organization and environmental groups. But the organization, a liberal advocacy group, said this report more completely detailed connections between money donated by Exxon Mobil and the scientists in groups that question the degree to which humans are contributing to climate change.</p>
+        <p>The release of the report comes as Democrats take control of Congress, and the organization said it hoped incoming committee chairmen investigate the links detailed in the report.</p>
+        <p>''The relatively modest investment of about $16 million between 1998 and 2004 to select political organizations has been remarkably effective at manufacturing uncertainty about the scientific consensus on global warming,'' the report said.</p>
+        <p>Exxon Mobil released a statement responding to the report, saying ''many of the conclusions are inaccurate.'' It added, ''Our support extends to a fairly broad array of organizations that research significant domestic and foreign policy issues and promote discussion on issues of direct relevance to the company.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

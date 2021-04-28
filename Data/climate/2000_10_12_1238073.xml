@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Pop-Up Book Picks Up Magical Dimensions</title>
+    <meta content="12NEXT$08" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/12/technology/12NEXT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1238073"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">University of Washington</org>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EEDE163FF931A25753C1A9669C8B63" item-length="1150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Pop-Up Book Picks Up Magical Dimensions</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Magic Book is new device with software capable of enlivening all types of documents; University of Washington developers term process 'augmented reality'; photo, drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IMAGINE a book coming to life as you read it: a samurai warrior from a children's tale suddenly leaping up from the page, or satellite data on air moisture in a manual suddenly assembling itself into clouds that float above the text, or an architect's drawing of a cathedral springing from the paper as a foot-high image, shimmering and resplendent from any angle.</p>
+        <p>These wonders are part of a device aptly named Magic Book that has software capable of bringing to life documents as lively as fairy tale books or as dry as geology guides.</p>
+      </block>
+      <block class="full_text">
+        <p>IMAGINE a book coming to life as you read it: a samurai warrior from a children's tale suddenly leaping up from the page, or satellite data on air moisture in a manual suddenly assembling itself into clouds that float above the text, or an architect's drawing of a cathedral springing from the paper as a foot-high image, shimmering and resplendent from any angle.</p>
+        <p>These wonders are part of a device aptly named Magic Book that has software capable of bringing to life documents as lively as fairy tale books or as dry as geology guides.</p>
+        <p>Right now the headsets or handheld devices that viewers use to watch the show (actually liquid-crystal displays) are a bit awkward, and viewers are connected to the computer that does the image processing through lots of dangling wires. But as the components of wearable computers grow smaller and cheaper, as they surely will, the technology that makes the Magic Book possible may have many daily applications.</p>
+        <p>Magic Book is the creation of a team of researchers who hope that the core technology will one day be used not only to dramatize stories like ''Cinderella'' but also to help explain abstract ideas. It could, for example, teach students what columns of numbers in a table mean or help oil company executives understand what the soil in a particular field suggests about what fossil fuels might lie below.</p>
+        <p>''The software we've developed lets you visualize data,'' said one of Magic Book's creators, Mark Billinghurst, a doctoral student at the Human Interface Technology Laboratory at the University of Washington in Seattle. ''You can substitute any content you want -- for instance, geographic information or satellite data -- and then while you are sitting around a conference table looking at a 3-D image of the data floating above a map, you can also talk to one another and discuss the implications of the image.''</p>
+        <p>Magic Book is a lot like a pop-up book gone high tech. To use it, viewers use head-mounted displays or handheld devices that have tiny color cameras attached to them and are connected to a computer. Look at a castle printed on a page of the storybook, for example, and as soon as the computer picks up the signal for ''castle'' -- in this case, the black border printed around the page -- it finds its 3-D image of the castle and displays it to the viewer. To the user, it looks as if the castle is on top of the book.</p>
+        <p>The image processing software is smart, capable of tracking your head position so it can overlay virtual images on the real page of a book with exactly the right point of view. Change the angle of the book you are holding, and the software adjusts the angle of the 3-D castle. Move the book away from you or toward you, and the computer will adjust the image so the building looks smaller or larger.</p>
+        <p>The whole process is called augmented reality because viewers are still seeing the real world, just with something added to it -- in this case, a foot-high castle.</p>
+        <p>What's more, the glasses have a second setting that can plunge the viewer deeper into virtual reality. Then the view they get is not an overlay on the real world but is entirely constructed by computer graphics. For example, when the princess loses her mirror in one of the Magic Book fairy tales, readers can switch to virtual reality, enter a computer graphics version of her chamber and help her look for the mirror.</p>
+        <p>The core technology behind Magic Books was developed by scientists at three institutions. Besides Mr. Billinghurst, the developers are Dr. Ivan Poupyrev at ATR Labs in Kyoto, Japan, and Dr. Hirokazu Kato at Hiroshima City University in Hiroshima, Japan.</p>
+        <p>A prototype of the Magic Book was developed this year and demonstrated last month at Siggraph, the annual computer graphics meeting of the Association of Computing Machinery.</p>
+        <p>Dr. Bill Kowalik, a scientist at the Chevron Petroleum Technology Company in San Ramon, Calif., who specializes in the visualization of data, has examined the core technology and pointed to possible practical applications.</p>
+        <p>''Typically people crowd around a computer monitor to see data, or sit at a big-screen visualization center,'' he said.</p>
+        <p>A device like the Magic Book would instead permit people to handle an actual image of the data, like an image of what lies beneath a particular oil field.</p>
+        <p>''People could have the image displayed on top of a card or map that they could pass around the table,'' Dr. Kowalik said, ''each seeing it from the correct perspective from where they are sitting.''</p>
+        <p>Of course, people can look at 3-D images displayed on a computer screen. ''But it's one thing to click on a keyboard and see a view, another to hold it in your hand,'' Dr. Kowalik said.</p>
+        <p>Mr. Billinghurst said that about 70 groups worldwide had already tried the software in applications like museum shows, games and  corporate training. The underlying software libraries are available to the public and may be downloaded at www.hitl.washington .edu/magicbook.</p>
+        <p>At the University of Washington, the National Science Foundation is financing an application of Magic Book technology that lets students visualize geographic data. The goal is for the technology to increase the students' understanding in ways that just looking at numbers sometimes cannot. It also helps them get ready before field trips by, for instance, preparing for the kinds of soil samples they may be seeking.</p>
+        <p>As part of the project, Dr. William Winn, a professor in the College of Education, will be with students as they take soil samples at  nearby Big Beef Creek.</p>
+        <p>But before they go on the ferry ride and on to the creek, they will use Magic Book technology to look at a map of the terrain that is overlaid with 3-D images of soil samples. The 3-D cubes of computer-generated soil will be examined, rotated and passed around by the students, bringing to life soil characteristics that are usually illustrated by tables and terrain maps.</p>
+        <p>''We hope to bring the numbers on the properties of soil to life,'' Dr. Winn said, ''to give students a better sense of what the samples look like and where they occur.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

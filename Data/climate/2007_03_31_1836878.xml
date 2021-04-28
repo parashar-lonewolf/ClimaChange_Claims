@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Group, the Large British Hedge Fund, Plans to Spin Off Its Brokerage Unit</title>
+    <meta content="31hedge" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/31/business/worldbusiness/31hedge.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1836878"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Names, Organizational</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Man Group</org>
+        <org class="online_producer">New York Stock Exchange</org>
+        <org class="online_producer">Refco Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070331T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6D91130F932A05750C0A9619C8B63" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Group, the Large British Hedge Fund, Plans to Spin Off Its Brokerage Unit</hl1>
+        <hl2 class="online_headline">Man Group, the Large British Hedge Fund, Plans to Spin Off Its Brokerage Unit</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIA WERDIGIER</byline>
+      <byline class="normalized_byline">Werdigier, Julia</byline>
+      <dateline>LONDON, March 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Man Group, the world's largest publicly traded hedge fund operator, said Friday that it would spin off its brokerage division to focus on its asset management unit.</p>
+        <p>The step has been in the works for years but was delayed to give Man time to integrate into its brokerage operation some customer accounts and assets it acquired in 2005 from Refco, the American futures broker that went bankrupt.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A majority stake in the brokerage unit, which will be renamed MF Global, will be listed on the New York Stock Exchange in the third quarter of this year.</p>
+      </block>
+      <block class="full_text">
+        <p>The Man Group, the world's largest publicly traded hedge fund operator, said Friday that it would spin off its brokerage division to focus on its asset management unit.</p>
+        <p>The step has been in the works for years but was delayed to give Man time to integrate into its brokerage operation some customer accounts and assets it acquired in 2005 from Refco, the American futures broker that went bankrupt.</p>
+        <p>Man, based in London, plans to list a majority stake in the brokerage unit, which will be renamed MF Global, on the New York Stock Exchange in the third quarter of this year and return the proceeds to shareholders.</p>
+        <p>The business, which focuses on derivatives and generates about 15 percent of the group's profit, may be worth about $5 billion, analysts estimated. The public stock offering will give investors a chance to benefit from the explosive growth of the derivatives market, said Geoff Miller, an analyst at Bridgewell Securities in London.</p>
+        <p>After the split, Man, which expanded both of its businesses through a series of acquisitions, will be able to focus on the $61 billion money management and hedge fund unit, whose performance-fee income was hit last year by lower returns at its flagship AHL funds.</p>
+        <p>''Separation will allow each business to focus even more effectively on their separate growth strategies and take advantage of the significant business development opportunities in each of their industries,'' said Peter Clarke, Man's chief executive.</p>
+        <p>Mr. Clarke said he planned to expand the asset management arm by adding new products including one based on carbon credit and climate change and to expand in Japan and Australia.</p>
+        <p>Man, which was founded as a sugar trading company by James Man in 1783, opened an office in Singapore two months ago as growth is shifting to Asia from Europe.</p>
+        <p>The announcement of the split coincides with Mr. Clarke's first day as chief executive and the end of Stanley Fink's tenure at the top of the British firm, a seven-year period in which the company's shares rose almost sixfold.</p>
+        <p>Kevin Davis, managing director at Man Financial, will become chief executive of MF Global and Chris Smith will be chief operating officer. Amy Butte will be chief financial officer and Alison Carnwath will be nonexecutive chairman.</p>
+        <p>Man also gave a preliminary report on its 2006 results and said pretax profit for the 12 months through the end of March was in line with the $1.55 billion analysts estimated, or 19 percent above the $1.31 billion the company reported for the period a year earlier. Management fees rose 30 percent.</p>
+        <p>But performance fees dropped 15 percent because of poor performance at the AHL futures unit.</p>
+        <p>The shares fell 10 pence, or 1.8 percent, to £5.55 in London. Man will release full-year earnings on May 31.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

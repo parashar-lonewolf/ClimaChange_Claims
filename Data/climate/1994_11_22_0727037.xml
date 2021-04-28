@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="727037"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E0DF1F31F931A15752C1A962958260" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tiny Bubbles</p>
+        <p>Q.  Do some beverages raise blood alcohol levels faster than others with the same alcohol content?</p>
+      </block>
+      <block class="full_text">
+        <p>Tiny Bubbles</p>
+        <p>Q.  Do some beverages raise blood alcohol levels faster than others with the same alcohol content?</p>
+        <p>A.  "The only one that this statement might be true about is champagne" and similar carbonated beverages, said Dr. Samir Zakhari, chief medical research at the National Institute on Alcohol Abuse and Alcoholism. "That is because champagne has carbon dioxide, and when you drink carbon dioxide it irritates the lining of the stomach and intestines, producing vasodilation, which increases the absorption of alcohol into the blood somewhat," he explained. Vasodilation is the widening of blood vessels.</p>
+        <p>As for sweet drinks, he said, "the presence of sugar does not affect the rate of absorption, but rather may affect the rate of consumption."</p>
+        <p>Dr. Zakhari said he did not know of any formal studies of whether drinking wine with beer, whiskey with beer, etc., might increase intoxication.</p>
+        <p>"As to which types or combinations of alcohol might make you sicker rather than drunker," Dr. Zakhari said, "the hangover is ascribed mainly to congeners, alcoholic isomers that are larger in the number of carbon atoms." These differently structured molecules are usually present in greater concentrations in fermented drinks, like wine, than in distilled spirits, like vodka, he said. C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

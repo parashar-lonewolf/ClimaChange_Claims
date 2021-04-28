@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bodies in Water</title>
+    <meta content="27QNA" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/08/27/science/27QNA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1418918"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biology and Biochemistry</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E5DB123CF934A1575BC0A9649C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bodies in Water</hl1>
+        <hl2 class="online_headline">Bodies in Water</hl2>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column answers question about why corpses float; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  Why does a corpse float, when a living person must exert an effort to stay afloat?</p>
+        <p>A.  Dead bodies in the water usually tend to sink at first, but later they tend to float, as the post-mortem changes brought on by putrefaction produce enough gases to make them buoyant.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This week's question: Why does a corpse float, when a living person must exert an effort to stay afloat?</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  Why does a corpse float, when a living person must exert an effort to stay afloat?</p>
+        <p>A.  Dead bodies in the water usually tend to sink at first, but later they tend to float, as the post-mortem changes brought on by putrefaction produce enough gases to make them buoyant.</p>
+        <p>The average living body has a specific gravity very close to that of water, according to the outline of a forensic medicine course at the University of Dundee in Scotland.</p>
+        <p>After death, even small variations in floatability, like air caught in clothing, can affect whether a body sinks right away.</p>
+        <p>Once the body sinks and goes to the bottom, its own enzymes and internal organisms, especially anaerobic ones in the intestinal tract, gradually break down the soft tissues into liquids, salts and gases, including hydrogen sulfide, methane, carbon dioxide, ammonia and hydrogen.</p>
+        <p>Heavy clothing and purposely added weights may increase the time a corpse spends immersed, but will not usually prevent it from rising eventually.</p>
+        <p>Putrefaction is slower in water than in air; slower in seawater than in fresh water, and slower in running water than in stagnant water.</p>
+        <p>The main factor determining the rate, however, is temperature; the colder it is, the slower the decay. A body in deep, cold water may never resurface.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

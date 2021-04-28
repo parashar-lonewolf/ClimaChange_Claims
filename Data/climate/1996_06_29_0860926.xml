@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Minntech Advisory Sends Shares Down</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="860926"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HEART</classifier>
+        <classifier class="indexing_service" type="descriptor">SURGERY AND SURGEONS</classifier>
+        <org class="indexing_service">MINNTECH CORP FOOD &amp; DRUG ADMINISTRATION</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3D61239F93AA15755C0A960958260" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Minntech Advisory Sends Shares Down</hl1>
+      </hedline>
+      <byline class="print_byline">By Dow Jones</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Minntech Corporation has advised its customers to stop using its Biocor oxygenator because of unexplained incidents of large pressure drops.</p>
+        <p>Oxygenators are used during open-heart surgery to remove carbon dioxide from  the blood and reinfuse it with oxygen.</p>
+      </block>
+      <block class="full_text">
+        <p>The Minntech Corporation has advised its customers to stop using its Biocor oxygenator because of unexplained incidents of large pressure drops.</p>
+        <p>Oxygenators are used during open-heart surgery to remove carbon dioxide from  the blood and reinfuse it with oxygen.</p>
+        <p>Minntech made the advisory after the market close on Thursday, and the stock fell 22 percent yesterday. It closed at $10.875, down $3.125 on the Nasdaq stock market.</p>
+        <p>The company made another announcement yesterday about Biocor, saying the Food and Drug Administration was asking the company for more information about the device's 510K application. A 510K is an application for United States market clearance for medical devices that are fundamentally similar to previously approved products.</p>
+        <p>Louis Cosentino, the company's chief executive, said the F.D.A.'s request for more data had nothing to do with the earlier advisory. He said there had been no discussions with the F.D.A. about the incidents because "they're fully within the range" of similar problems documented elsewhere by other oxygenator manufacturers.</p>
+        <p>Nine pressure drops have occurred in Biocor oxygenators in the last six months at sites in Canada and Europe, Mr. Cosentino said. The device is approved for marketing in Canada, Europe and South America.</p>
+        <p>Mr. Cosentino added that the company is hoping to resolve the problems in about a month.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

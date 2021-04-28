@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Winter Without Its Brrr</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="512776"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">NATIONAL CLIMATIC DATA CENTER</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920309T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE3DD1F3BF93AA35750C0A964958260" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Winter Without Its Brrr</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, March 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the 97 years the Federal Government has been keeping records, never has a winter been so warm, the National Climatic Data Center says.</p>
+        <p>Preliminary figures for the 48 contiguous states show the average temperature for December, January and February at 36.87 degrees Fahrenheit, said Richard Heim, a meteorologist at the center in Asheville, N.C. That surpassed the record set in 1953-54, when the nation averaged 36 degrees. At third was the winter of 1933-34 at 35.97.</p>
+      </block>
+      <block class="full_text">
+        <p>In the 97 years the Federal Government has been keeping records, never has a winter been so warm, the National Climatic Data Center says.</p>
+        <p>Preliminary figures for the 48 contiguous states show the average temperature for December, January and February at 36.87 degrees Fahrenheit, said Richard Heim, a meteorologist at the center in Asheville, N.C. That surpassed the record set in 1953-54, when the nation averaged 36 degrees. At third was the winter of 1933-34 at 35.97.</p>
+        <p>The high average is just a natural weather cycle, not a sign of global warming, said Steve Nogueira, a National Weather Service meteorologist in Concord, N.H.</p>
+        <p>Oregon agriculture officials say the state's nursery business is coming to life a month early, and in many parts of Georgia, daffodils and Bradford pears are blooming two to three weeks ahead of schedule.</p>
+        <p>Theodore MacLeod, director of public works in Manchester, N.H., says the city has saved $165,000 on snow and ice removal compared with last year.</p>
+        <p>But lack of snow could mean problems this summer for New York City, which uses water from reservoirs fed by melted snow from the Catskills.</p>
+        <p>"Unusually warm temperatures would be nice if it meant that there was snow in the mountains that would melt," said Joseph Boek, an engineer for the New York City Bureau of Water Supply. "But precipitation has been a problem."</p>
+        <p>Mr. Nogueira said that someone who remembers the harsh winters of the early 1980's may consider the current weather extremely mild.</p>
+        <p>"Think of somebody who was growing up during that stretch and saying, 'God, it used to snow like crazy,' " he said. "You remember the outstanding years. Plus, you were a lot shorter back then."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

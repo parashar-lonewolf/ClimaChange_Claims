@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cheney's Energy Plan</title>
+    <meta content="L06ENER" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/05/06/opinion/L06ENER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1291094"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <org class="indexing_service">Natural Resources Defense Council</org>
+        <person class="indexing_service">Cheney, Dick (Vice Pres)</person>
+        <person class="indexing_service">Kassel, Richard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E1DA1038F935A35756C0A9679C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cheney's Energy Plan</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Richard Kassel (Natural Resources Defense Council) assails Vice Pres Dick Cheney's energy program (May 1 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Bush administration says we are in an energy crisis, yet in his recent energy speech (front page, May 1), Vice President Dick Cheney proposed drilling for oil that wouldn't hit the pumps for years.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Bush administration says we are in an energy crisis, yet in his recent energy speech (front page, May 1), Vice President Dick Cheney proposed drilling for oil that wouldn't hit the pumps for years.</p>
+        <p>The administration also says it cares about consumers and the environment, yet Mr. Cheney did not offer anything that would lower gasoline prices or reduce power plant pollution this summer. To top it off, Mr. Cheney said we must build more than 1,300 new power plants, ignoring recent Energy Department data that show that we can satisfy energy demand without building most of those plants.</p>
+        <p>There are faster, cheaper and cleaner ways to meet our energy needs. We could improve efficiency at our power plants, increase fuel economy in our cars, and increase investments in renewable energy and other advanced technologies. In contrast, increasing our reliance on oil and coal is like taking up smoking to lose weight.</p>
+        <p>RICHARD KASSEL  New York, May 2, 2001</p>
+        <p>The writer is senior attorney, Natural Resources Defense Council.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

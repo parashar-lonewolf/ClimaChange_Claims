@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lowering the Global Thermostat</title>
+    <meta content="LTR231558" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217239"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <person class="indexing_service">Radkowsky, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEFDF123AF930A15754C0A9669C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lowering the Global Thermostat</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Radkowsky letter responds to Bob Herbert's July 17 column on global warming; suggests planting a tree, even in New York City, to help slow global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In addition to the ways Bob Herbert offers ''to move from our pollution-choked present'' (column, July 17), why not plant trees on a large scale, starting right here in New York City?</p>
+        <p>Trees consume carbon dioxide and airborne pollutants. The more there are, the better they can do this essential work.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In addition to the ways Bob Herbert offers ''to move from our pollution-choked present'' (column, July 17), why not plant trees on a large scale, starting right here in New York City?</p>
+        <p>Trees consume carbon dioxide and airborne pollutants. The more there are, the better they can do this essential work.</p>
+        <p>Looking out my window onto Amsterdam Avenue, I see just one struggling tree on a block that suffers a parade of cars, day and night. Let's  plant more trees and show the world how simple remedies can play a big role in preserving life on earth.</p>
+        <p>MICHAEL RADKOWSKY  New York, July 17, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

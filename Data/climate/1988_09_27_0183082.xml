@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="183082"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DE163EF934A1575AC0A96E948260" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  New Plea for Ozone Shield  The head of the Environmental Protection Agency called for complete elimination of chemicals thought to destroy the ozone layer. Page A20.  A Refund From Kodak  Kodak gained court approval to disburse nearly $200 million to an estimated 3.4 million people who bought its instant-picture cameras.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  New Plea for Ozone Shield  The head of the Environmental Protection Agency called for complete elimination of chemicals thought to destroy the ozone layer. Page A20.  A Refund From Kodak  Kodak gained court approval to disburse nearly $200 million to an estimated 3.4 million people who bought its instant-picture cameras.</p>
+        <p>New Plea for Ozone Shield  The head of the Environmental Protection Agency called for complete elimination of chemicals thought to destroy the ozone layer. Page A20.  A Refund From Kodak  Kodak gained court approval to disburse nearly $200 million to an estimated 3.4 million people who bought its instant-picture cameras. Page D5.  Hard-Liner Gets Polish Post  Poland's Communist leadership picked Mieczyslaw Rakowski, the party's propaganda chief, as the new Prime Minister. Page A3.  Anti-Drug Lessons  All public schools in New York City will be required by the end of December to provide some form of education about drug abuse. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

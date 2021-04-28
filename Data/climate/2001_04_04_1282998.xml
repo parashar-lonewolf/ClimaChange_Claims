@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Under a Cloud</title>
+    <meta content="L04KYOT" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/04/04/opinion/L04KYOT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1282998"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <location class="indexing_service">Kyoto (Japan)</location>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Lebow, Robert</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan/Kyoto</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Angers</location>
+        <location class="online_producer">Kyoto</location>
+        <location class="online_producer">Southbridge</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6DC1F3FF937A35757C0A9679C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Under a Cloud</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert Lebow letter deplores Pres Bush's abandoning of Kyoto treaty on global warming (April 1)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Bush Angers Europe by Eroding Pact on Warming'' (news article, April 1):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Bush Angers Europe by Eroding Pact on Warming'' (news article, April 1):</p>
+        <p>Many of us Americans feel the same emotions that you ascribe to European leaders regarding President Bush's abandoning the Kyoto treaty on global warming (that is, frustration and depression) plus one: embarrassment.</p>
+        <p>ROBERT LEBOW  Southbridge, Mass., April 1, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

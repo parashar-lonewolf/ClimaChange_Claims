@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>White House Presents Plans to Cut Emissions</title>
+    <meta content="21climate" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/09/21/washington/21climate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1791601"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE6DD1131F932A1575AC0A9609C8B63" item-length="296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>White House Presents Plans to Cut Emissions</hl1>
+        <hl2 class="online_headline">White House Presents Plans to Cut Emissions</hl2>
+      </hedline>
+      <byline class="print_byline">By FELICITY BARRINGER</byline>
+      <byline class="normalized_byline">Barringer, Felicity</byline>
+      <dateline>WASHINGTON, Sept. 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As the rich and powerful gathered in New York to discuss sweeping approaches to climate change under the aegis of former President Bill Clinton, the Bush administration unveiled its priorities for working with Asian countries on voluntary efforts and for spending $3 billion on technologies that could cut emissions of heat-trapping gases.</p>
+        <p>James L. Connaughton, chairman of the Council on Environmental Quality at the White House, told the Senate Environment and Public Works Committee that the Asia-Pacific partnership between the United States and Australia, China, India, Japan and South Korea would share technology advances.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Bush administration unveiled its priorities for working with Asian countries to cut emissions of heat-trapping gases.</p>
+      </block>
+      <block class="full_text">
+        <p>As the rich and powerful gathered in New York to discuss sweeping approaches to climate change under the aegis of former President Bill Clinton, the Bush administration unveiled its priorities for working with Asian countries on voluntary efforts and for spending $3 billion on technologies that could cut emissions of heat-trapping gases.</p>
+        <p>James L. Connaughton, chairman of the Council on Environmental Quality at the White House, told the Senate Environment and Public Works Committee that the Asia-Pacific partnership between the United States and Australia, China, India, Japan and South Korea would share technology advances.</p>
+        <p>An example of their plans, Mr. Connaughton said, was a $58 million deal by which the Caterpillar company provided a Chinese mining operation with generators that could burn methane gas that would otherwise be vented into the atmosphere. Methane's warming potential in the atmosphere is more than 20 times that of carbon dioxide.</p>
+        <p>Shortly before Mr. Connaughton testified, Stephen Eule, director of the Climate Change Technology program at the Energy Department, gave the energy subcommittee of the House Committee on Science an overview of the administration's technology priorities.</p>
+        <p>But the committee chairman, Representative Sherwood Boehlert, Republican of New York, chided Mr. Eule about the long time horizon envisioned for some technologies, saying that the administration's plan ''is silent on the deployment of technologies already out or near the end of the pipeline'' of research efforts.</p>
+        <p>''What are we doing about deploying these technologies next year'' Mr. Boehlert added, ''not 15 years from now?''</p>
+        <p>In response, Mr. Eule referred to the department's energy-efficiency efforts and its aid to builders of less energy-intensive homes. In addition, he cited a part of the Energy Policy Act providing $1.5 billion for developers of six new nuclear plants if they face costly regulatory delays.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

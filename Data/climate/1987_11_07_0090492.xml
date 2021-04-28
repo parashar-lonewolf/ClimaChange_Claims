@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Saurian Than Simian</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="90492"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">PALEONTOLOGY</classifier>
+        <classifier class="indexing_service" type="descriptor">DINOSAURS</classifier>
+        <classifier class="indexing_service" type="descriptor">OXYGEN</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dinosaurs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oxygen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DD103EF934A35752C1A961948260" item-length="384" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Saurian Than Simian</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Another strange clue has been added to the mystery of what killed off the dinosaurs. It seems that the air in Cretaceous times was 32 percent oxygen, half as much again as air today. If the ponderous beasts were accustomed to inhaling such rich stuff, no wonder they perished when the air grew more rarefied.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Another strange clue has been added to the mystery of what killed off the dinosaurs. It seems that the air in Cretaceous times was 32 percent oxygen, half as much again as air today. If the ponderous beasts were accustomed to inhaling such rich stuff, no wonder they perished when the air grew more rarefied.</p>
+        <p>Another strange clue has been added to the mystery of what killed off the dinosaurs. It seems that the air in Cretaceous times was 32 percent oxygen, half as much again as air today. If the ponderous beasts were accustomed to inhaling such rich stuff, no wonder they perished when the air grew more rarefied.</p>
+        <p>Hitherto, the hottest bet on the cause of their demise has been that a giant meteorite slammed into the earth 65 million years ago, darkening the skies with rock dust and turning the climate unbearably chilly. Skeptics who asked where on earth so large a meteorite had left its postulated 85-mile crater were told it must have hit the sea bottom somewhere.</p>
+        <p>Students of fossils prefer to explain the earth's history in terms of gradual climatic or geological change, not sudden interventions from the heavens. The physicists who contend that a meteorite snuffed out the dinosaurs cite evidence from shocked rocks that a big impact shook the earth 65 million years ago. The fossil hunters counter that the blast can at best have been one element in the dinosaurs' decline since they seem to have died out over a period of millions of years, not in some sudden cataclysm. High oxygen falls into the category of natural-event explanations. The idea comes from analysis of pinhead-size bubbles of air trapped in beads of amber, formed from the resin of Cretaceous trees. It's far from proved that the amber bubble air is truly representative but if so, perhaps the high oxygen fell to its present levels when the oceans cooled and absorbed gas from the atmosphere.</p>
+        <p>That process now seems about to be reversed by the greenhouse effect. The carbon dioxide released from the burning of coal is expected, as it accumulates, to trap the sun's rays, warming the oceans and releasing their dissolved gases. Unless checked in time, the feared greenhouse effect could restore the world to a place fit for dinosaurs to breathe in.</p>
+        <p>The dinosaurs couldn't do much to avert the event that killed them, whether it was a meteorite or a climatic change. Unless people soon take steps to avert the predicted greenhouse effect, by burning less fossil fuel and conserving tropical forests, the Cenozoic beads of amber to be analyzed in 65 million years might be studied by creatures more saurian than simian.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

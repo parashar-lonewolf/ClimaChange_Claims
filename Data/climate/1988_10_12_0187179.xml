@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="187179"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DC153EF931A25753C1A96E948260" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  New Credit for Soviet Union  West German bankers will provide a $1.6 billion line of credit for Moscow, which wants to improve its food and consumer goods industries. Page D1.  Cubans Detain Cup Yacht  A Cuban gunboat forced a ship carrying the 132-foot New Zealand, which failed in its bid for the America's Cup, into a Cuban port.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  New Credit for Soviet Union  West German bankers will provide a $1.6 billion line of credit for Moscow, which wants to improve its food and consumer goods industries. Page D1.  Cubans Detain Cup Yacht  A Cuban gunboat forced a ship carrying the 132-foot New Zealand, which failed in its bid for the America's Cup, into a Cuban port.</p>
+        <p>New Credit for Soviet Union  West German bankers will provide a $1.6 billion line of credit for Moscow, which wants to improve its food and consumer goods industries. Page D1.  Cubans Detain Cup Yacht  A Cuban gunboat forced a ship carrying the 132-foot New Zealand, which failed in its bid for the America's Cup, into a Cuban port. Page A27.  Anti-Greenhouse Greenery  A Connecticut utility, concerned that its new coal-fired complex will add to global warming, will plant 52 million trees in Guatemala. Page A14.  Ulster Politician Jeers Pope  The Rev. Ian Paisley, the Protestant official from Northern Ireland, called Pope John Paul II ''the Antichrist'' as the pontiff spoke in France. Page A3.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

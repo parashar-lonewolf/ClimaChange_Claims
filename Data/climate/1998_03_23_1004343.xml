@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Military Gets Main Use of Big Computers</title>
+    <meta content="23SUPE$03" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1004343"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <org class="indexing_service">National Science Foundation</org>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5DD1238F930A15750C0A96E958260" item-length="1357" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Military Gets Main Use of Big Computers</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, March 22</dateline>
+      <abstract>
+        <p>Civilian scientists say they are being forced into sometimes bitter competition with military researchers and with each other for resources they need to compute problems so complex that only world's fastest, most powerful computers can produce adequate solutions; Government pays for 19 percent of supercomputers built in United States each year and for 100 percent of top-end machines that break ground in speed and power; since cold war, Government has given civilian and military scientists rough parity in parceling out time on supercomputers; parity became 2-to-1 ratio in favor of military in 1996, and it will tilt to 5-to-1 ratio by 1999; tug-of-war between civilian and military scientists is result of disparities in budgets of National Science Foundation and Energy Dept (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At a time when the demand for supercomputers among American scientists far outstrips availability, the Federal Government is rapidly shifting its spending for the fastest and most powerful machines to weapons research.</p>
+        <p>As a result, civilian scientists in disciplines like meteorology, cosmology, astrophysics and complex chemistry say they are being forced into sometimes bitter competition with military researchers and with each other for the resources they need to compute problems so complex that only the world's fastest, most powerful computers can produce adequate solutions.</p>
+      </block>
+      <block class="full_text">
+        <p>At a time when the demand for supercomputers among American scientists far outstrips availability, the Federal Government is rapidly shifting its spending for the fastest and most powerful machines to weapons research.</p>
+        <p>As a result, civilian scientists in disciplines like meteorology, cosmology, astrophysics and complex chemistry say they are being forced into sometimes bitter competition with military researchers and with each other for the resources they need to compute problems so complex that only the world's fastest, most powerful computers can produce adequate solutions.</p>
+        <p>''This is peace conversion in reverse,'' said Christopher Paine, a researcher at the Natural Resources Defense Council in Washington, a policy-study group that recently issued a report critical of the nation's allocation of supercomputer resources. ''The research is being steered in a direction of interest to the nuclear weapons program, and that's not the same as steering it to the atmospheric research community.''</p>
+        <p>For scientists doing basic research, the Government holds just about all the tickets for rides on supercomputers. It pays for about 19 percent of supercomputers built in the United States each year and for 100 percent of the top-end machines that break ground in speed and power.</p>
+        <p>It takes a government-sized commitment to finance this kind of enterprise. The most recent Government contract awarded $85 million last month to the International Business Machines Corporation for the world's fastest machine. It is scheduled to be operational in 2000. Previous years' models will still cost a minimum of $10 million this year.</p>
+        <p>Since the cold war, the Government has given civilian and military scientists rough parity in parceling out time on supercomputers. But the parity became a 2-to-1 ratio in favor of the military in 1996, and it will tilt to a 5-to-1 ratio by 1999.</p>
+        <p>In large part, the tug-of-war between civilian and military scientists is a result of disparities in the budgets of two Federal agencies, the National Science Foundation and the Energy Department.</p>
+        <p>The National Science Foundation pays for the supercomputers used in civilian research. The $72 million it allocated for that purpose in 1996 dropped to $68 million last year. It will rise only to $74 million in 1999.</p>
+        <p>Supercomputers for military research, in contrast, are financed by the Energy Department through its Accelerated Strategic Computing Initiative, or ASCI (pronounced AS-kee). The ASCI program spent $198 million on supercomputers in 1996. It is planning to spend $518 million in 1999 for, among other things, the next generation of the world's fastest computers to be built by I.B.M. and Silicon Graphics Inc.</p>
+        <p>Supercomputer is the term applied to a machine that is among the fastest of its generation. Such computers are needed for scientific and engineering problems that involve calculating vast numbers of dynamic, interactive variables -- like studying the environment or global warming.</p>
+        <p>The military needs supercomputers to build ever more precise models of nuclear explosions as well as detailed three-dimensional models of the aging of bomb components, especially the plastic explosive wrapped around the spherical surface of a weapon. The Energy Department believes that such modeling will help maintain the nation's weapon stockpile without resorting to actual testing of the bombs, which would violate the Comprehensive Test Ban Treaty.</p>
+        <p>Although ASCI's primary mission is to satisfy the computing needs of the country's weapons laboratories -- Sandia, Lawrence Livermore and Los Alamos -- it is also required to devote 10 percent of its computing resources to nonmilitary research.</p>
+        <p>But that does not necessarily please civilian scientists, many of whom question whether an agency commissioned to study nuclear weapons should be deciding which nonmilitary projects deserve computer time.</p>
+        <p>That 10 percent represents an invasion of the National Science Foundation's turf, an incursion that has already fomented one nasty battle.</p>
+        <p>Last year, the National Science Foundation, in a budget-tightening move, decided to consolidate four supercomputer centers into two centers. But when it pulled its financing for Carnegie Mellon University's Pittsburgh Supercomputing Center, the university defied the agency's request to turn its two machines over to a sister center in San Diego.</p>
+        <p>In an end run around the foundation, the university turned for financing to ASCI. Late last month, the Energy Department announced that it had agreed to the deal, in effect, taking control of two National Science Foundation supercomputers valued at $30 million.</p>
+        <p>Carnegie Mellon's ploy stirred controversy not only because it pitted two Federal agencies against each other but because of what the resulting deal portends for basic scientific research.</p>
+        <p>Those who defend the university's tactics point out that its deal with the Energy Department will finance the Pittsburgh center under the 10 percent of ASCI's budget dedicated to civilian research.</p>
+        <p>Even so, many academic scientists worry that giving control of National Science Foundation supercomputers to an agency dedicated to simulations of nuclear weapons explosions could have significant implications for what kinds of research will be performed on the Pittsburgh machines and for which researchers will be allowed to participate.</p>
+        <p>And Larry Smarr, an astrophysicist and director of the National Center for Supercomputing Applications at the University of Illinois in Urbana-Champaign, says that the growing imbalance in computing power in favor of the military will also drain human expertise from civilian science.</p>
+        <p>''Unless something is done, this is bound to pull more academic scientific researchers toward the Department of Energy supercomputers,'' Mr. Smarr, said. ''Where does that leave basic scientific research?''</p>
+        <p>Among the many enticements that ASCI's programs can offer is its plan to build a supercomputer capable of 100 trillion calculations a second by 2005 -- 100 times the power of today's fastest computer.</p>
+        <p>Civilian researchers acknowledge that such progress will almost certainly result in widespread advances in computer design that will eventually aid basic science, too. Yet some fear that urgent present needs for supercomputer time are being ignored. For example, the National Center for Atmospheric Research says that the United States has fallen to sixth place globally, behind Germany, Canada, Britain, France and Australia, in climate research capability.</p>
+        <p>''The European Center for Medium Range Weather Forecasting is undertaking climate research that is beyond the capability of any U.S. organization,'' said Bill Buzbee, director of the center's scientific computing division.</p>
+        <p>While the Clinton Administration has publicly emphasized the importance of atmospheric research in addressing concerns about global warming, it has yet to allocate money for the powerful computers needed to model climate changes.</p>
+        <p>''We're at least a year behind the Japanese,'' said Maurice Blackmon, a meteorologist who is director of the center's climate and global dynamics division.</p>
+        <p>For example, he said, Japanese researchers were recently able to run a crucial climate model on a Japanese NEC supercomputer in one week. The same model takes between five and six weeks on the center's 1980's-vintage Cray Research C90.</p>
+        <p>Energy Department officials acknowledge the growing gap between civilian and military supercomputing power, but they say it is wrong to blame the growth of the ASCI program for the imbalance.</p>
+        <p>''I don't think this is an either-or situation,'' said David Cooper, associate director of computation at the Lawrence Livermore National Laboratory. ''I have some sympathy with their situation, and I'm concerned about the prospect of the N.S.F. centers falling behind.''</p>
+        <p>Nor should the ASCI program be blamed for skimming scarce talent, he said.</p>
+        <p>''The bigger threat to scientific research is Silicon Valley,'' Mr. Cooper said. ''The Valley has become the new Hollywood; many scientists now want to move there and strike it rich.''</p>
+        <p>Yet, other scientists say that the real issue is whether the nation has lost the direction and commitment that once made supercomputing a national priority.</p>
+        <p>''Larry Smarr is asking a very good question,'' said Kenneth Kennedy, a computer scientist at Rice University in Houston and a member of the Presidential advisory committee on high performance computing and the next-generation Internet. ''ASCI isn't bad, but are we spending enough money to make sure that the computing is the finest in the country for our scientists? It's not the case today.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

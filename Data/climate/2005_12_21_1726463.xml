@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gas Emissions Reached High In U.S. in '04</title>
+    <meta content="21pollute" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/21/national/21pollute.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1726463"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <org class="online_producer">Energy Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E3DF1430F932A15751C1A9639C8B63" item-length="572" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gas Emissions Reached High In U.S. in '04</hl1>
+        <hl2 class="online_headline">Gas Emissions Reached High in U.S. in '04</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>American emissions of greenhouse gases linked to global warming reached an all-time high in 2004, rising 2 percent from the year before, the Energy Department said, nearly double the average annual rate measured since 1990.</p>
+        <p>The department's Energy Information Administration, in a report issued Monday, also raised earlier government estimates of emissions for 2003, pushing that year past 2000 into second place.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>American emissions of greenhouse gases linked to global warming rose 2 percent from 2003 to 2004, nearly double the average annual rate.</p>
+      </block>
+      <block class="full_text">
+        <p>American emissions of greenhouse gases linked to global warming reached an all-time high in 2004, rising 2 percent from the year before, the Energy Department said, nearly double the average annual rate measured since 1990.</p>
+        <p>The department's Energy Information Administration, in a report issued Monday, also raised earlier government estimates of emissions for 2003, pushing that year past 2000 into second place.</p>
+        <p>No estimates were available for United States emissions in 2005, although energy experts say increased economic growth this year is likely to make it another record-setter.</p>
+        <p>The increases in 2003 and 2004 followed a brief dip in emissions in 2001 and 2002. Government officials said that decline reflected a slowdown in the economy, the departure of some manufacturing industries overseas, and emissions cuts in other industries.</p>
+        <p>Less than two weeks ago, Bush administration officials at climate-treaty talks in Montreal repeatedly cited the short-lived drop in emissions after 2000 as evidence that President Bush's climate policy, using voluntary measures to slow growth in the gas releases, was working.</p>
+        <p>In its report, the energy agency said that while overall emissions were growing, the rate of growth continued to slow relative to economic growth, and so remained on the track set by Mr. Bush.</p>
+        <p>Yesterday, Lord Rees, the president of the Royal Society, an independent British scientific academy similar to the National Academies in the United States, said the new American data showed that all industrialized countries needed to intensify efforts to cut emissions. He noted that Britain's emissions had also risen in the last two years.</p>
+        <p>Lord Rees said that the two countries and the other members of the Group of 8 biggest industrialized nations clearly had to do more to live up to a statement they issued at a summit meeting in Scotland in July, in which they resolved to act with ''urgency'' to reduce greenhouse gas emissions.</p>
+        <p>''We should not underestimate the challenge of achieving economic growth whilst reducing emissions, and the United States is not the only country that is struggling to do this,'' Lord Rees said in a statement. ''But it seems unlikely that the present U.S. strategy of only setting emissions targets relative to economic growth, reducing so-called greenhouse gas intensity, will be enough.''</p>
+        <p>Carbon dioxide, the main greenhouse gas generated by humans, remains an unavoidable byproduct of burning the fossil fuels that underpin modern life. Other powerful greenhouse gases include methane, which leaks from landfills and gas pipelines, and nitrous oxide, released mainly from fertilizer use in large-scale farms.</p>
+        <p>The gases are measured collectively in tons of carbon dioxide by converting the heat-trapping capacity of each gas into the amount of carbon dioxide that would have the same warming effect.</p>
+        <p>By this measure, total American emissions of the six major greenhouse gases in 2004 added up to the equivalent of 7.1 billion metric tons of carbon dioxide, up 2 percent from 6.98 billion metric tons in 2003. Emissions in 2000 were 6.97 billion tons, the agency said.</p>
+        <p>The energy agency's greenhouse gas report is online at eia.doe.gov/environment.html.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming Study Shows Sagebrush as King of Hills</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk;" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="The Environment Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="744603"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FLOWERS AND PLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SAGEBRUSH</classifier>
+        <classifier class="indexing_service" type="descriptor">TREES AND SHRUBS</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <org class="indexing_service">UNIVERSITY OF CALIFORNIA (BERKELEY)</org>
+        <person class="indexing_service">HILCHEY, TIM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DE113DF932A15751C0A963958260" item-length="486" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming Study Shows Sagebrush as King of Hills</hl1>
+      </hedline>
+      <byline class="print_byline">By TIM HILCHEY</byline>
+      <byline class="normalized_byline">HILCHEY, TIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AS rising levels of atmospheric carbon dioxide and other gases cause global temperatures to increase in coming decades, lush grassy mountain meadows may be overrun by sagebrush and other woody shrubs, researchers at the University of California at Berkeley say.</p>
+        <p>In a four-year experiment, the researchers simulated warming in such a greenhouse atmosphere by suspending infrared heating lamps above a meadow at the Rocky Mountain Biological Laboratory in Gunnison County, Colo. Results of the study were reported on Feb. 10 in the journal Science.</p>
+      </block>
+      <block class="full_text">
+        <p>AS rising levels of atmospheric carbon dioxide and other gases cause global temperatures to increase in coming decades, lush grassy mountain meadows may be overrun by sagebrush and other woody shrubs, researchers at the University of California at Berkeley say.</p>
+        <p>In a four-year experiment, the researchers simulated warming in such a greenhouse atmosphere by suspending infrared heating lamps above a meadow at the Rocky Mountain Biological Laboratory in Gunnison County, Colo. Results of the study were reported on Feb. 10 in the journal Science.</p>
+        <p>"We saw a dramatic invasion of sagebrush into a meadow habitat normally dominated by flowering plants and grasses," said Prof. John Harte, a professor of environmental biology at the university who led the research.</p>
+        <p>"Now it's very hard to project forward 50 years and say precisely when flowering plants will be replaced by sagebrush because that will depend on a combination of how fast things grow and how successfully they reproduce. What we've shown is that both of those conditions appear to be affected by the warming."</p>
+        <p>Dr. Harte and Rebecca Shaw, a doctoral student at the university who was a co-author of the Science article, set out to simulate temperature increases scientists predict would occur with a doubling of the amount of greenhouse gases from preindustrial times. Based on current trends in forest burning and fossil fuel use, Dr. Harte said, that doubling could occur within 50 years, causing a corresponding increase in average global air temperature of 3 to 8 degrees.</p>
+        <p>To produce the warming in as natural a fashion as possible, the researchers suspended infrared lamps over small study plots. In all, they heated 180 square yards of a sloping meadow 9,850 feet above sea level continuously for four years. Dr. Harte said that past experiments, which relied on burying heating coils in the soil or were conducted in greenhouses, were less realistic.</p>
+        <p>Daily variations in soil moisture and temperature were recorded in detail, as were the type, size and reproductive success of the plant species in the heated meadow, and then compared with a neighboring unheated tract. While meadow grasses appeared to be unaffected by the heating, the normally dominant perennial flowering plants gave up ground to sagebrush as the years passed, Dr. Harte said.</p>
+        <p>The growing season was extended by about a month because the heat lamps delayed the snow cover from forming in the fall and hastened melting of the snow in the spring. The heat lamps also reduced the moisture in the topsoil. These conditions favored the sagebrush, allowing its seeds to sprout earlier than normal and providing existing plants with more time to grow.</p>
+        <p>"In the end," Dr. Harte said, "we need to know how to account for biological changes in our climate models -- not just vegetation, but insects and microorganisms in the soil too -- because they're all linked."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

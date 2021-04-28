@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: E.P.A. Office To Use Wind Energy</title>
+    <meta content="MB004140" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20030426T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1483519"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Wind</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Johnson, Kirk</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0D61F3AF937A15757C0A9659C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: E.P.A. Office To Use Wind Energy</hl1>
+      </hedline>
+      <byline class="print_byline">By Kirk Johnson (NYT) (Compiled by Anthony Ramirez)</byline>
+      <byline class="normalized_byline">Johnson, Kirk</byline>
+      <abstract>
+        <p>All electricity at New York City regional headquarters of Environmental Protection Agency will be supplied by wind power (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All the electricity at the Environmental Protection Agency's regional headquarters in Lower Manhattan will be supplied by wind power beginning next month, E.P.A. officials said yesterday. The contract will make the E.P.A. the largest federal buyer of wind energy in New York State. The E.P.A. occupies about half of a 30-story office tower at 290 Broadway, and buys 6.2 million kilowatt-hours of electricity a year, or enough for 1,800 average apartments. The renewable energy will cost about 10 percent more than fossil fuel, an official said.</p>
+        <p>Kirk Johnson (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>All the electricity at the Environmental Protection Agency's regional headquarters in Lower Manhattan will be supplied by wind power beginning next month, E.P.A. officials said yesterday. The contract will make the E.P.A. the largest federal buyer of wind energy in New York State. The E.P.A. occupies about half of a 30-story office tower at 290 Broadway, and buys 6.2 million kilowatt-hours of electricity a year, or enough for 1,800 average apartments. The renewable energy will cost about 10 percent more than fossil fuel, an official said.</p>
+        <p>Kirk Johnson (NYT)</p>
+        <p>Correction:  April 26, 2003, Saturday  A report in the Metro Briefing column on Thursday about the Environmental Protection Agency's decision to buy wind-generated electricity for its regional headquarters in Lower Manhattan misstated the use to which the power will be put. The wind power goes into a general grid, not to individual customers; the agency's electricity will continue to come from a variety of sources.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 26, 2003, Saturday</p>
+        <p>A report in the Metro Briefing column on Thursday about the Environmental Protection Agency's decision to buy wind-generated electricity for its regional headquarters in Lower Manhattan misstated the use to which the power will be put. The wind power goes into a general grid, not to individual customers; the agency's electricity will continue to come from a variety of sources.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

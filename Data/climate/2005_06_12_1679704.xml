@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Basics; How the Heat Came On</title>
+    <meta content="MB214300" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1679704"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5DB1E38F931A25755C0A9639C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Basics; How the Heat Came On</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The hot spells have arrived.</p>
+        <p>In the Northern Hemisphere, great pools of steamy air, stirred by corrugated continents and warm and cool seas, are starting to settle here and there for days at a time, like an unwelcome relative who doesn't know when to leave.</p>
+      </block>
+      <block class="full_text">
+        <p>The hot spells have arrived.</p>
+        <p>In the Northern Hemisphere, great pools of steamy air, stirred by corrugated continents and warm and cool seas, are starting to settle here and there for days at a time, like an unwelcome relative who doesn't know when to leave.</p>
+        <p>In North America, the first heat wave struck the Southwest, which was scorched in May as the Eastern Seaboard chilled to near-record low temperatures. Last week, it was the Northeast's turn to poach; temperatures reached into the high 80's.</p>
+        <p>Global warming has little to do with hot spells. Weather always has extremes, even though we tend to think of ''normal'' as the average condition for a particular month. Hot spells occur because surfaces are heating and the oceans serve as a depository for that accumulating energy. The warm, moist air of the sunniest tropics rises and, following physics, flows toward the cold poles. But obstacles like mountain ranges make that journey chaotic and meandering.</p>
+        <p>For instance, a pocket of hot air swells in the Mississippi Valley then pushes east. A great, unmoving stationary mass of air over the Atlantic Ocean blocks its path. So the hot air turns toward the Northeast.</p>
+        <p>And New Yorkers and Bostonians strip down and sweat.</p>
+        <p>ANDREW C. REVKIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

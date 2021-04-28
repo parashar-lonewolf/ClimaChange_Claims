@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The End of Nature?</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="54" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="354927"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">EARTH DAY</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <person class="indexing_service">WADE, NICHOLAS</person>
+        <person class="indexing_service">ASKINS, JUSTIN</person>
+        <object.title class="indexing_service">DESIGN FOR A LIVABLE PLANET (BOOK)</object.title>
+        <object.title class="indexing_service">FIGHTING TOXICS (BOOK)</object.title>
+        <object.title class="indexing_service">CLEARER, CLEANER, SAFER, GREENER (BOOK)</object.title>
+        <object.title class="indexing_service">SAVING THE EARTH (BOOK)</object.title>
+        <object.title class="indexing_service">EARTHRIGHT (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DB153AF933A15756C0A966958260" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The End of Nature?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>I was saddened by Nicholas Wade's condescending and dismissive review of several environmental awareness books in your April 22 issue. While few people might agree with Bill McKibben, the author of ''The End of Nature,'' that the natural world is in its death throes, only a writer suckled on the dregs of Manifest Destiny could present such a biased and unrealistic evaluation. Acid rain, destruction of the rain forest and toxic dumping are depressingly real, validated by numerous empirical studies. To put such a review on the front page is uncalled-for; it should have gone in the fairy-tale section.</p>
+        <p>JUSTIN ASKINS</p>
+        <p>Radford, Va.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

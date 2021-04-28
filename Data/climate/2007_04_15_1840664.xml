@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Hartford, a Fuel-Cell Bus Milestone</title>
+    <meta content="15ctweekCN-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840664"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Cells</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <location class="indexing_service">Hartford (Conn)</location>
+        <org class="indexing_service">United Technologies Inc</org>
+        <person class="indexing_service">Spiegel, Jan Ellen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/Hartford</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6D8103FF936A25757C0A9619C8B63" item-length="352" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Hartford, a Fuel-Cell Bus Milestone</hl1>
+      </hedline>
+      <byline class="print_byline">By JAN ELLEN SPIEGEL</byline>
+      <byline class="normalized_byline">Spiegel, Jan Ellen</byline>
+      <abstract>
+        <p>Connecticut Department of Transportation is operating only fuel cell bus east of Rocky Mountains, in Hartford; $2 million price tag is nearly six times cost of each of 650 full-size conventional diesel buses running in state; United Technologies unit UTC Power, which developed fuel cell, says bus is in demonstration phase; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HARTFORD now has the only fuel cell bus operating east of the Rocky Mountains, a zero-emission vehicle that is among a few dozen running anywhere in the world. The bus represents an important milestone on a municipal mass transit stage that is increasingly mindful of global warming and other pollution issues. But at $2 million, it is unclear whether it is cost effective.</p>
+        <p>The price is nearly six times the cost of each of the 650 full-size conventional diesel buses running in Connecticut and $1.5 million more than each of two diesel hybrid buses that have been running in Stamford. ''That's the $64,000 question,'' said Michael A. Sanders, public transit administrator for the Connecticut Department of Transportation. ''There's a benefit to having no emission from a tailpipe, but it's not worth a million and a half to me.''</p>
+      </block>
+      <block class="full_text">
+        <p>HARTFORD now has the only fuel cell bus operating east of the Rocky Mountains, a zero-emission vehicle that is among a few dozen running anywhere in the world. The bus represents an important milestone on a municipal mass transit stage that is increasingly mindful of global warming and other pollution issues. But at $2 million, it is unclear whether it is cost effective.</p>
+        <p>The price is nearly six times the cost of each of the 650 full-size conventional diesel buses running in Connecticut and $1.5 million more than each of two diesel hybrid buses that have been running in Stamford. ''That's the $64,000 question,'' said Michael A. Sanders, public transit administrator for the Connecticut Department of Transportation. ''There's a benefit to having no emission from a tailpipe, but it's not worth a million and a half to me.''</p>
+        <p>Jan van Dokkum, president of UTC Power in South Windsor, the division of United Technologies that developed the fuel cell for this bus and others running in California, said all the buses were still in a demonstration phase. He said UTC was continuing to refine the fuel cell, which combines hydrogen and oxygen to produce power, as well as the overall system, which is actually a fuel cell/electric hybrid. He expected the price eventually to compete with diesel hybrid buses.</p>
+        <p>''It's about twice as efficient as a diesel bus,'' Mr. van Dokkum said. ''It has no emissions and no noise. It's a very steep price, but like anything in technology, you need to start somewhere.''</p>
+        <p>Industry experts believe fuel cell buses and other fleet vehicles show more promise than fuel cell cars, in part because the fueling apparatus can be centrally located. Part of the $2.9 million Federal Transit Administration grant that financed Hartford's bus went toward building a fueling station at UTC Power. The station produces hydrogen for the fuel cell through a process that uses natural gas and produces greenhouse gases, mainly carbon dioxide.</p>
+        <p>The Hartford bus has a range of 300 miles, can reach 60 miles an hour and is running on the free downtown shuttle route.</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

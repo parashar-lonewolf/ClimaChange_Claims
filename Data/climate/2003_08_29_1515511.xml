@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why Do Polluters Get a Break?</title>
+    <meta content="LTR224620" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1515511"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <org class="indexing_service">Competitive Enterprise Institute</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Lieberman, Ben</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030829T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E3DA1F39F93AA1575BC0A9659C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why Do Polluters Get a Break?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Ben Lieberman, director of clean air policy at Competitive Enterprise Institute, holds Bush administration's rule changes on Clear Air Act's new source review program should be viewed in context (Aug 28 article); notes that other provisions of law that deal with power plant emissions, including acid rain program, require substantial pollution reductions by power plants</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Bush administration's rule changes on the Clean Air Act's new source review program should be judged in context (news article, Aug. 28). This program is only one of many provisions in the law that deal with power plant emissions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Bush administration's rule changes on the Clean Air Act's new source review program should be judged in context (news article, Aug. 28). This program is only one of many provisions in the law that deal with power plant emissions.</p>
+        <p>Others, including the acid rain program, require substantial pollution reductions by power plants.</p>
+        <p>Indeed, emissions of the major pollutants addressed by the act have declined substantially. And with several new provisions on the way, including a required 60 percent reduction in smog-forming nitrogen oxides beginning in 2004, this encouraging trend is likely to continue.</p>
+        <p>Even if the Bush administration's reform package is as anti-environmental as some critics claim -- a highly debatable assertion -- the impact, given the other provisions on power plants, is unlikely to be of consequence.</p>
+        <p>BEN LIEBERMAN  Washington, Aug. 28, 2003</p>
+        <p>The writer is director of clean air policy at the Competitive Enterprise Institute.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

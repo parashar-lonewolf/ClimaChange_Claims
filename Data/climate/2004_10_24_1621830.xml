@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Searching for Sources of Energy</title>
+    <meta content="LTR235348" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1621830"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="indexing_service" type="descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <person class="indexing_service">Bossotti, Steve</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E6DD163DF937A15753C1A9629C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Searching for Sources of Energy</hl1>
+      </hedline>
+      <abstract>
+        <p>American Ref-Fuel plant manager Steve Bossotti letter holds October 10 editorial on alternate energy sources failed to consider garbage</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Oct. 10 editorial ''Powering Up'' usefully urged ''serious efforts to support clean, renewable energy, and government leadership to promote'' conservation. Absent from your position was consideration of the 1.1 million tons of garbage we are paying to haul off Long Island every year, each ton with the fuel value of a barrel of imported oil.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Oct. 10 editorial ''Powering Up'' usefully urged ''serious efforts to support clean, renewable energy, and government leadership to promote'' conservation. Absent from your position was consideration of the 1.1 million tons of garbage we are paying to haul off Long Island every year, each ton with the fuel value of a barrel of imported oil.</p>
+        <p>Despite this, some environmentalists still say garbage is not a renewable fuel. As a practical matter, the energy that could be recovered from the tons of garbage we're hauling away (and in the process consuming fuel and creating diesel pollution and traffic congestion) should be among the options under consideration.</p>
+        <p>Today, the waste-to-energy plant in Hempstead burns the trash produced by about a million people to generate enough electricity to power 65,000 homes, and is a good neighbor in the community. It's time we explore the double benefits of using garbage for fuel: producing energy and reducing pollution.</p>
+        <p>Steve Bossotti  Plant Mgr., American Ref-Fuel  Hempstead</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

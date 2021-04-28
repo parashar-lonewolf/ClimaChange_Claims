@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Acid Rain Efforts Found to Undercut Themselves</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="664775"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">SULFUR DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">ALKALI</classifier>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E5DA1F30F934A15752C0A962958260" item-length="664" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Acid Rain Efforts Found to Undercut Themselves</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New studies have uncovered a surprising and unsettling twist in continuing efforts to reduce the harmful effects of acid rain on ecosystems.</p>
+        <p>The benefit from cutting emissions of airborne sulfates that cause acid rain has been partly wiped out, the studies found, by parallel reductions in airborne alkaline particles that help neutralize the acid.</p>
+      </block>
+      <block class="full_text">
+        <p>New studies have uncovered a surprising and unsettling twist in continuing efforts to reduce the harmful effects of acid rain on ecosystems.</p>
+        <p>The benefit from cutting emissions of airborne sulfates that cause acid rain has been partly wiped out, the studies found, by parallel reductions in airborne alkaline particles that help neutralize the acid.</p>
+        <p>As a result, acid rain is apparently more acidic than many environmentalists and scientists had hoped it would be by now.</p>
+        <p>The findings raise questions about whether curbs on sulfate emissions from industrial plants required by American law, including 1990 amendments to the Clean Air Act specifically for acid rain, are enough to protect lakes, streams, soils and forests from the killing effects of acidification. Still Significant Damage</p>
+        <p>Rain, snow, fog and other precipitation are made acidic by sulfates produced when sulfur dioxide emitted by the burning of coal, oil and natural gas reacts with other chemicals in the atmosphere. Substantial reductions in sulfur dioxide emissions took place in Europe and North America in the 1970's and 1980's. A 10-year study ordered by Congress found in 1990 that acid precipitation was still causing significant damage in the United States, mostly in the Northeast, but no environmental disaster.</p>
+        <p>The Clean Air Act amendments of 1990 required industry, by the year 2000, to cut sulfur dioxide emissions by 12 million to 14 million tons a year, or about 45 percent of the emissions in the mid-1980's.</p>
+        <p>Now it turns out, according to a report today in the British journal Nature, that as sulfur dioxide emissions were reduced before the 1990's, so also were airborne alkaline particles. These particles' neutralizing effect on acid rain helps reduce its harm.</p>
+        <p>Some alkaline particles, like ashes from industrial smokestacks, come from the burning of fossil fuels along with sulfur dioxide and were intentionally reduced. Others come from cement dust, soil erosion or vehicles on unpaved roads.</p>
+        <p>Alkaline particles emitted by readily identifiable "point sources" like industrial plants and construction sites dropped 70 percent from 1960 to 1991 in the United States, an analysis of precipitation data found.</p>
+        <p>The studies were conducted by Dr. Lars O. Hedin, a Michigan State University biogeochemist and six colleagues. They found similar reductions in alkaline particles in Britain, the Netherlands, Sweden and what was formerly West Germany.</p>
+        <p>The alkaline reductions offset the cuts in sulfates by 28 percent to 100 percent in different places, said Dr. Hedin, thereby reducing "the perceived beneficial effect of the sulfate decline."</p>
+        <p>While the study did not investigate the effect of the reduced alkalinity on ecosystems, the reduction would presumably render them less able over time to buffer themselves against the acid rain that remains. Questions Remain</p>
+        <p>Much is still uncertain. Although the study was able to calculate the reduction in alkaline particles from point sources, Dr. Hedin said, the status of emissions from more diffuse sources like soil erosion is "extremely poorly known." Nor does anyone know how much alkaline particulate is in the air naturally, since there are no records from before the Industrial Revolution.</p>
+        <p>The new findings may revive the debate about acid rain, as Dr. Eville Gorham, an ecologist at the University of Minnesota, wrote in a commentary in Nature, "The irony that reducing emission of urban-industrial particulates lessens the efficiency of sulfur-dioxide control in mitigating acid deposition will not be lost on disappointed environmentalists, who will now have to call for yet more stringent regulation of sulfur dioxide."</p>
+        <p>Before the 1990 amendments were passed, it was believed that sulfur dioxide emissions had to be reduced by one-half to two-thirds to protect lakes and streams adequately. The amendments set a target of less than half, and some scientists have argued for some time that this is not enough.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

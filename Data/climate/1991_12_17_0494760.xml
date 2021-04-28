@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Huge Windstorms Seen in Upper Atmosphere</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="494760"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">UPPER ATMOSPHERE RESEARCH SATELLITE</classifier>
+        <classifier class="indexing_service" type="descriptor">WIND</classifier>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DA1531F934A25751C1A967958260" item-length="328" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Huge Windstorms Seen in Upper Atmosphere</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A SATELLITE launched by a space shuttle has discovered surprisingly violent, continent-size windstorms in a part of the atmosphere that is rarely studied.</p>
+        <p>"They're like large ocean waves," said Paul Hays, a scientist in charge of an instrument on the Upper Atmosphere Research Satellite. Mr. Hays described the storms as being the size of the United States and larger.</p>
+      </block>
+      <block class="full_text">
+        <p>A SATELLITE launched by a space shuttle has discovered surprisingly violent, continent-size windstorms in a part of the atmosphere that is rarely studied.</p>
+        <p>"They're like large ocean waves," said Paul Hays, a scientist in charge of an instrument on the Upper Atmosphere Research Satellite. Mr. Hays described the storms as being the size of the United States and larger.</p>
+        <p>The $740 million satellite, which is carrying 10 instruments, was launched from the space shuttle Discovery on Sept. 15. It detected the windstorms 30 to 60 miles above Earth's surface when Mr. Hays's instrument started fully operating on Nov. 6 and 7, he said at the American Geophysical Union's fall meeting in San Francisco last week.</p>
+        <p>The biggest such storm found stretches from western Australia across southern Africa and halfway across the Atlantic Ocean.</p>
+        <p>Weather in the lower atmosphere, or troposphere, generates small wind waves that become bigger as they spiral upward through the stratosphere. Thin air in the next layer, the mesosphere, makes the wind waves break in turbulent 200-mile-per-hour windstorms that are 600 to 6,000 miles wide, Mr. Hays said.</p>
+        <p>The mesosphere has been known as the "ignorosphere" because it is too high to be reached by airplanes and too low to be studied by most spacecraft, said Mr. Hays, chairman of atmospheric, oceanic and space science at the University of Michigan.</p>
+        <p>But with the new means of surveying the atmosphere, Mr. Hays said, scientists expected to find small-scale, simple wind patterns in the mesosphere. "Instead, we've seen swirling vortices of air that cover half the Southern Hemisphere," he said.</p>
+        <p>The satellite was launched in the National Aeronautics and Space Administration's Mission to Planet Earth, a decades-long study of Earth's environment from space. The satellite's major mission is to measure how pollutants are destroying the ozone layer, which protects people and crops from harmful ultraviolet rays. (AP)  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

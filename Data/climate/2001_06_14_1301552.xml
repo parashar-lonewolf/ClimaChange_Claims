@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The President's Serenade Tour</title>
+    <meta content="LTR230555" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1301552"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Singer, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D81F3EF937A25755C0A9679C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The President's Serenade Tour</hl1>
+      </hedline>
+      <abstract>
+        <p>John Singer letter comments on June 12 article on Pres Bush's opposition to Kyoto Protocol on global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Bush Will Continue to Oppose Kyoto Pact on Global Warming'' (front page, June 12): The Bush administration seems to think that it can remedy ill-advised policy positions  merely by mouthing the right words, even if those words are contradicted by the accompanying actions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Bush Will Continue to Oppose Kyoto Pact on Global Warming'' (front page, June 12): The Bush administration seems to think that it can remedy ill-advised policy positions  merely by mouthing the right words, even if those words are contradicted by the accompanying actions.</p>
+        <p>By asserting that his administration ''is committed to a leadership role on the issue of climate change,'' while simultaneously abandoning our commitment to actually doing something about it, the president insults the intelligence of his audience both here and abroad during the course of his European trip.</p>
+        <p>Rather than trotting out that old delaying tactic of calling for ''more study,'' Mr. Bush should demonstrate true leadership by making the hard choices needed to address this catastrophic problem, even if they might affect the profits of his corporate contributors just a bit.</p>
+        <p>Leadership means leading, not rejecting. And if the United States won't lead, it's unlikely that any other country will.</p>
+        <p>JOHN SINGER  Northfield, Mass., June 12, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

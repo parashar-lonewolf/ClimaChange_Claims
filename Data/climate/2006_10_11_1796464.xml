@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Science And Health: Dust Linked To Storm Frequency</title>
+    <meta content="11brfs-7" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1796464"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Dust</classifier>
+        <location class="indexing_service">Atlantic Ocean</location>
+        <location class="indexing_service">Sahara Desert</location>
+        <org class="indexing_service">University of Wisconsin</org>
+        <org class="indexing_service">Geophysical Research Letters</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EFDE1030F932A25753C1A9609C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Science And Health: Dust Linked To Storm Frequency</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN (NYT)</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>University of Wisconsin and federal scientists studying 25 years of satellite images find that frequency of hurricanes in Atlantic Ocean is substantially reduced in years when sandstorms and trade winds combine to send millions of tons of dust from Sahara Desert to sea; study is published in Geophysical Research Letters (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scientists studying 25 years of satellite images have found that the frequency of hurricanes in the Atlantic Ocean was substantially reduced in years when sandstorms and trade winds combined to send millions of tons of dust streaming west over the sea from the Sahara Desert. The correlation, measured by a team of scientists from the University of Wisconsin and federal agencies, is described in the current issue of Geophysical Research Letters. Layers of dry, dusty air, moving at up to 50 miles an hour, can disrupt tropical storms in several ways. The research shows that many factors can affect hurricane seasons, complicating efforts to determine whether global warming has played a role recently, some of the authors said.</p>
+        <p>ANDREW C. REVKIN (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Scientists studying 25 years of satellite images have found that the frequency of hurricanes in the Atlantic Ocean was substantially reduced in years when sandstorms and trade winds combined to send millions of tons of dust streaming west over the sea from the Sahara Desert. The correlation, measured by a team of scientists from the University of Wisconsin and federal agencies, is described in the current issue of Geophysical Research Letters. Layers of dry, dusty air, moving at up to 50 miles an hour, can disrupt tropical storms in several ways. The research shows that many factors can affect hurricane seasons, complicating efforts to determine whether global warming has played a role recently, some of the authors said.</p>
+        <p>ANDREW C. REVKIN (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

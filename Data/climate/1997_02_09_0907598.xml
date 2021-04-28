@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AWAKENING TO SLEEP</title>
+    <meta content="LTR004601" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="907598"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sleep</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">American Sleep Disorders Assn</org>
+        <person class="indexing_service">Hodos, Rita</person>
+        <person class="indexing_service">Klinkenborg, Verlyn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E1D8173CF93AA35751C0A961958260" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AWAKENING TO SLEEP</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Rita Hodos on Verlyn Klinkenborg's Jan 5 article on research into human sleep patterns and disorders (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Verlyn Klinkenborg's article ''Awakening to Sleep'' (Jan. 5) abounds with fascinating information about circadian clocks and rhythms and receptors within the body. There is repeated reference to the fact that scientists cannot agree on what sleep is for.</p>
+        <p>Various systems of the body, after performing their functions, give off waste products. The digestive and urinary systems give off their solid and liquid wastes, and the pulmonary system releases carbon dioxide.</p>
+      </block>
+      <block class="full_text">
+        <p>Verlyn Klinkenborg's article ''Awakening to Sleep'' (Jan. 5) abounds with fascinating information about circadian clocks and rhythms and receptors within the body. There is repeated reference to the fact that scientists cannot agree on what sleep is for.</p>
+        <p>Various systems of the body, after performing their functions, give off waste products. The digestive and urinary systems give off their solid and liquid wastes, and the pulmonary system releases carbon dioxide.</p>
+        <p>I believe that sleep may be the necessary conduit through which the brain can discharge its own waste, or byproduct, in the form of dreams.</p>
+        <p>RITA HODOS  River Vale, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Industry, Not Sun, Is Culprit in Global Warming</title>
+    <meta content="LTR005945" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="960352"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Sun</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Hansen, James E</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sun</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EFD81E3BF936A1575AC0A961958260" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Industry, Not Sun, Is Culprit in Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from NASA aide James E Hansen on Sept 23 article on role of Sun in global warming (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Sept. 23 Science Times article on the Sun and global warming says that ''only in the last decade or so'' have researchers begun to tie solar variations to climate shifts on Earth. But scientists have believed for centuries that solar variations drive the climate. This is why Charles Abbot initiated a program to monitor solar irradiance from the Smithsonian Astrophysical Observatory a century ago.</p>
+        <p>My colleagues and I, in a paper you reported on (news article, Aug. 22, 1981), found that the Sun may account for many of the ups and downs of climate in the past century. But the measurements show that the long-term trend of solar energy absorbed by Earth is less than 1 watt per square meter averaged over Earth. This compares with a heating by anthropogenic greenhouse gases of about 2.5 watts, which could increase to 5 or 6 watts in the coming century.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Sept. 23 Science Times article on the Sun and global warming says that ''only in the last decade or so'' have researchers begun to tie solar variations to climate shifts on Earth. But scientists have believed for centuries that solar variations drive the climate. This is why Charles Abbot initiated a program to monitor solar irradiance from the Smithsonian Astrophysical Observatory a century ago.</p>
+        <p>My colleagues and I, in a paper you reported on (news article, Aug. 22, 1981), found that the Sun may account for many of the ups and downs of climate in the past century. But the measurements show that the long-term trend of solar energy absorbed by Earth is less than 1 watt per square meter averaged over Earth. This compares with a heating by anthropogenic greenhouse gases of about 2.5 watts, which could increase to 5 or 6 watts in the coming century.</p>
+        <p>It is this fact -- that forces unleashed by human activities are competing with and perhaps exceeding those of nature -- that scientists have drawn to the attention of decision makers.</p>
+        <p>JAMES  E. HANSEN</p>
+        <p>New York, Sept. 24, 1997</p>
+        <p>Head, Goddard Institute  for Space Studies, NASA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

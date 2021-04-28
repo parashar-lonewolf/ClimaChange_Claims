@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="180240"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <person class="indexing_service">REUBENS, EDWIN P (PROF)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DD1039F93BA2575AC0A96E948260" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>''Fighting the Greenhouse Effect'' begins by conceding that ''whether the earth is really warming is still a matter of debate.'' But then it spells out all kinds of ''drastic change'' and enormously expensive remedies, as if the alleged warming trend were an established fact.</p>
+        <p>It will probably surprise most readers to learn that the available evidence relates almost entirely to the continental United States, whereas the whole globe should show the effects of the alleged accumulation of waste gases. In the United States, alarms have been pumped up by the extraordinary heat this past summer. But even during July and August more than half the cities outside the United States reported temperatures not above the normal temperature range for this time of year.</p>
+        <p>Perhaps further research will establish that some global warming has recently begun in a slow, long-run trend. Even if not, pollution of the air should be curtailed in any case. But how far, and how fast to move and spend?  EDWIN P. REUBENS  Professor of Economics, Emeritus  City College of New York, Aug. 31</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

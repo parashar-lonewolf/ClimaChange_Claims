@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>You Want Innovation? Offer a Prize</title>
+    <meta content="31leonhardt" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/31/business/31leonhardt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822804"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ECONOMIX"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Netflix Inc</org>
+        <person class="indexing_service">Hastings, Reed</person>
+        <person class="indexing_service">Leonhardt, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EEDF153FF932A05752C0A9619C8B63" item-length="1121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>You Want Innovation? Offer a Prize</hl1>
+        <hl2 class="online_headline">You Want Innovation? Offer a Prize</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID LEONHARDT</byline>
+      <byline class="normalized_byline">Leonhardt, David</byline>
+      <abstract>
+        <p>David Leonhardt Economix column on Netflix rating system Cinematch, which matches users with films they may enjoy; service uses customer ratings to find connections in order to make recommendations; chief executive Reed Hastings offers $1 million prize in competition challenging people to create better version of software (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Besides the fact that both are considered great movies, ''The Wizard of Oz'' and ''Silence of the Lambs'' don't have much in common. One is the story of a girl from Kansas who's transported to a magical land where animals dance and sing, and the other is about a serial killer who eats his victims. You wouldn't necessarily expect people to have similar reactions to the two movies.</p>
+        <p>But it turns out that, for whatever reason, they usually do. Those who love one tend to love the other, and those who think one is overrated generally think the other one is, too.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Back in the 1700s, prizes were a fairly common way to reward innovation. But today’s economy doesn’t have nearly enough of them.</p>
+      </block>
+      <block class="full_text">
+        <p>Besides the fact that both are considered great movies, ''The Wizard of Oz'' and ''Silence of the Lambs'' don't have much in common. One is the story of a girl from Kansas who's transported to a magical land where animals dance and sing, and the other is about a serial killer who eats his victims. You wouldn't necessarily expect people to have similar reactions to the two movies.</p>
+        <p>But it turns out that, for whatever reason, they usually do. Those who love one tend to love the other, and those who think one is overrated generally think the other one is, too.</p>
+        <p>This odd little fact comes from an enormous database of movie ratings collected by Netflix, the online movie rental store. On its Web site, customers can give any movie 1 to 5 stars, and the company then uses these ratings -- 1.6 billion of them -- to find connections like the one between ''Oz'' and ''Silence of the Lambs.''</p>
+        <p>The system, called Cinematch, allows Netflix's Web site to bombard users with recommendations of movies they are likely to enjoy. Netflix executives hope Cinematch will give them a leg up as digital downloading allows dozens of other companies to sell movies over the Internet.</p>
+        <p>So on the Ides of March last year, Reed Hastings, the company's chief executive, and three other executives were meeting at their Silicon Valley headquarters to talk about making the system better. They had just finished discussing one failed effort -- a promising algorithm designed by a hotshot computer scientist from Stanford (since lured to Google) -- when Mr. Hastings threw out an idea.</p>
+        <p>''We should run a prize,'' he said, an open competition challenging people to come up with a better version of Cinematch.</p>
+        <p>One of the other executives asked how much the company should offer, recalled James Bennett, the vice president who oversees Cinematch.</p>
+        <p>''A million dollars,'' Mr. Hastings said.</p>
+        <p>With that, Netflix unwittingly started down the path of proving that today's economy doesn't have nearly enough prizes.</p>
+        <p>BACK in the 1700s, prizes were a fairly common way to reward innovation. Most famously, the British Parliament offered the £20,000 longitude prize to anyone who figured out how to pinpoint location on the open sea. Dava Sobel's best-selling 1995 book ''Longitude'' told the story of the competition that ensued, and Mr. Hastings mentioned the longitude prize as a model at that meeting back in March.</p>
+        <p>Eventually, though, prizes began to be replaced by grants that awarded money upfront. Some of this was for good reason. As science became more advanced, scientists often needed to buy expensive equipment and hire a staff before having any chance of making a discovery.</p>
+        <p>But grants also became popular for a less worthy reason: they made life easier for the government bureaucrats who oversaw them and for the scientists who received them. Robin Hanson, an economist at George Mason University who has studied the history of prizes, points out that they create a lot of uncertainty -- about who will receive money and when a government will have to pay it. Grants, on the other hand, allow a patron (and the scientists advising that patron) to choose who gets the money. ''Bureaucracies like a steady flow of money, not uncertainty,'' said Mr. Hanson, who worked as a physicist at NASA before becoming an economist. ''But prizes are often more effective if what you want is scientific progress.''</p>
+        <p>In fact, when Netflix announced its prize in October, Mr. Hastings said he didn't necessarily expect contestants to make a lot of quick progress. Computer scientists say that Cinematch, along with Amazon's recommendation system, was already one of the most sophisticated. ''We thought we built the best darn thing ever,'' Mr. Hastings said.</p>
+        <p>But Mr. Hastings underestimated the power of an open competition. Within days, many of the top people in a field known as machine learning were downloading the 100 million movie ratings Netflix had made public. The experts have since been locked in a Darwinian competition to build a better Cinematch, with the latest results posted on a leader board at Netflix's Web site.</p>
+        <p>Last week, I called Geoffrey Hinton, a professor of computer science at the University of Toronto whose team had been in first place when I last checked. But by the time I reached him, his team had been bumped down to second by a Hungarian team.</p>
+        <p>(The contestants have also turned up some good trivia about movie preferences. Benji Smith of Salt Lake City deserves credit for the ''Oz''-''Lambs'' connection.)</p>
+        <p>To claim the million-dollar prize, a team has to build a system that is at least 10 percent better than Cinematch at predicting how many stars someone would give a movie. There are a small number of people, for instance, who love ''The Wizard of Oz'' but can't stomach ''Silence of the Lambs.'' Perhaps it is possible to identify them based on their attitude toward an eclectic group of other movies -- but only an advanced algorithm can find this pattern.</p>
+        <p>With four and a half years to go in the contest, the Hungarians' model is already 6.75 percent better than Cinematch. And Netflix hasn't had to pay for their time. In effect, the company ''has recruited a large fraction of the machine learning community for almost no money,'' as Mr. Hinton, the Toronto professor, put it.</p>
+        <p>These are the two essential advantages of prizes. They pay for nothing but performance, and they ensure that anyone with a good idea -- not just the usual experts -- can take a crack at a tough problem. Much to the horror of the leading astronomers of the day, a clockmaker ultimately claimed the longitude prize.</p>
+        <p>Grants are still crucial. (Someone has to be paying those computer scientists while they're trying to win the Netflix prize.) But it seems pretty clear that our research system doesn't pay for results often enough.</p>
+        <p>Just look at how both political parties have so far tried to deal with global warming. They have handed out grants and subsidies for various alternative energy sources like ethanol, even though nobody knows what the best sources will ultimately be. A much smarter approach would be to mandate that the economy use less carbon. This would effectively set up a multibillion-dollar prize -- in the form of new customers -- for whichever companies came up with efficient energy sources.</p>
+        <p>The good news is that the Netflix prize is one of a handful of recent high-profile prizes. One of the others is the X Prize, which was created in 1996 as a $10 million purse for the first private manned flight to the cusp of space. It was awarded just eight years later, showing once again that prize money has a way of focusing the mind.</p>
+        <p>ECONOMIX</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

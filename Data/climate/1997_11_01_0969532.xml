@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="01INSI" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="969532"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EEDC1730F932A35752C1A961958260" item-length="291" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maneuvering Over Nominee  The head of the Senate Judiciary Committee is linking support for the nominee to the top civil rights post to the Administration's position on California's law banning affirmative action programs. Page A13.</p>
+      </block>
+      <block class="full_text">
+        <p>Maneuvering Over Nominee  The head of the Senate Judiciary Committee is linking support for the nominee to the top civil rights post to the Administration's position on California's law banning affirmative action programs. Page A13.</p>
+        <p>Suspicion Dogs Saccharin  Some 20 years after suspicions of causing cancer put the artificial sweetener saccharin under a cloud, a board of experts has recommended that it stay there. Page A13.</p>
+        <p>Accord on the Census  Talks between the White House and Speaker Newt Gingrich yield a tentative agreement to allow the Census Bureau to test a new way of counting the nation's residents. Page A12.</p>
+        <p>Questions of Space  In Seattle, the mayoral race is hinging on the same issue as a Portland, Ore., vote on Tuesday: how to continue to develop without losing what brought people there. Page A10.</p>
+        <p>Gloom on Global Warming  Just a month before an international conference to set standards on heat-trapping emissions, talks have bogged down in recriminations and scientific disputes. Page A7.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

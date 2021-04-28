@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The New Green Building</title>
+    <meta content="20openertext.t" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="61" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1848543"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Suburbs</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Architecture</classifier>
+        <classifier class="indexing_service" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suburbs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEED91231F933A15756C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The New Green Building</hl1>
+      </hedline>
+      <abstract>
+        <p>Introduction of Times Magazine issue examining ecology of architecture in age of shrinking forests, urban sprawl and rising anxiety about global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Simplify, simplify,'' Thoreau once wrote. But is it possible to be green without retreating to a cabin in the woods? This issue looks at the ecology of architecture in the age of shrinking forests, urban sprawl and rising anxiety about global warming: A city in Brazil that made recycling a civic religion. An architect in Australia who looked to the land and its early settlers. An entrepreneur with a plan for every house to generate its own power. A Japanese architect who saw the possibilities in paper. An imaginary future home both luxurious and green. And a new generation of European architects who may show us what to do next.</p>
+      </block>
+      <block class="full_text">
+        <p>''Simplify, simplify,'' Thoreau once wrote. But is it possible to be green without retreating to a cabin in the woods? This issue looks at the ecology of architecture in the age of shrinking forests, urban sprawl and rising anxiety about global warming: A city in Brazil that made recycling a civic religion. An architect in Australia who looked to the land and its early settlers. An entrepreneur with a plan for every house to generate its own power. A Japanese architect who saw the possibilities in paper. An imaginary future home both luxurious and green. And a new generation of European architects who may show us what to do next.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

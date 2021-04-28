@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="24laugh" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1792482"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E5DA1E31F937A1575AC0A9609C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>The pope got a pick-me-up bouquet from Salman Rushdie. Told the pope to hang in there, that this will blow over in another 30 or 40 years.</p>
+        <p>Al Qaeda's leaders have announced they're joining forces with an insurgent group in Algeria to fight the French. Here's my question: How lame is this group in Algeria if they need help fighting the French?</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>The pope got a pick-me-up bouquet from Salman Rushdie. Told the pope to hang in there, that this will blow over in another 30 or 40 years.</p>
+        <p>Al Qaeda's leaders have announced they're joining forces with an insurgent group in Algeria to fight the French. Here's my question: How lame is this group in Algeria if they need help fighting the French?</p>
+        <p>Police in Louisiana raided Willie Nelson's tour bus and found one and a half pounds of marijuana. One and a half pounds. Wow! Sounds like Willie's slowing down.</p>
+        <p>Big announcement from Ford Motor Company. Quality is still Job 1. However, Jobs 2 through 75,000 have been eliminated.</p>
+        <p>David Letterman</p>
+        <p>A beautiful day here in New York City -- I want to tell you, this global warming is not so bad, is it? But seriously, have you noticed how much nicer the weather has been since we got rid of Pluto?</p>
+        <p>Don't get me started on the traffic. It's because of the big opening of the U.N., the General Assembly, and you know who's here is the President of Iran, Mahmoud Ahmadinejad is here. You know, he's the president who can actually pronounce ''nuclear.''</p>
+        <p>I think maybe the pressure of being the president is getting to George Bush. He addresses the U.N. General Assembly, and he tells them in this very impassioned speech that he believes that Iraq has ''spinach of mass destruction.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

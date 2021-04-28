@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Looking for Love; Never Mind the Melting Ice</title>
+    <meta content="31ice" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/31/movies/31ice.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1750848"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="FILM REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Animated Films</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animated Films</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <person class="online_producer">Romano, Ray</person>
+        <object.title class="online_producer">Ice Age (Movie)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060331T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EED61530F932A05750C0A9609C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Looking for Love; Never Mind the Melting Ice</hl1>
+        <hl2 class="online_headline">Looking for Love, Despite the Melting Ice, in 'Ice Age: The Meltdown'</hl2>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's the end of the Ice Age (one of them, anyway), and global warming is front and center. Not that the tots will notice: they'll be much too busy wondering if Manny (voiced drearily by Ray Romano), the woolly mammoth who lost his family in the first movie, will hook up with a cute mammoth who's convinced that she's a possum.</p>
+        <p>But in ''Ice Age: The Meltdown,'' dissolving glaciers do more than encourage mammoths to mate. They also inspire some decidedly biblical imagery from the director, Carlos Saldanha, who herds the animals to salvation in a giant, arklike boat. Viewing it from afar, you'll swear that the structure is illuminated by a beam of light from above.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Creative exhaustion haunts "Ice Age: The Meltdown," as the characters from 2002’s "Ice Age" face global warming and the submersion of their valley.</p>
+      </block>
+      <block class="full_text">
+        <p>It's the end of the Ice Age (one of them, anyway), and global warming is front and center. Not that the tots will notice: they'll be much too busy wondering if Manny (voiced drearily by Ray Romano), the woolly mammoth who lost his family in the first movie, will hook up with a cute mammoth who's convinced that she's a possum.</p>
+        <p>But in ''Ice Age: The Meltdown,'' dissolving glaciers do more than encourage mammoths to mate. They also inspire some decidedly biblical imagery from the director, Carlos Saldanha, who herds the animals to salvation in a giant, arklike boat. Viewing it from afar, you'll swear that the structure is illuminated by a beam of light from above.</p>
+        <p>But this sequel's most visible issue is creative exhaustion. The animation is uninspired (with so much ice, the creatures need to be twice as good-looking), and the story is humdrum. (The saber-toothed tiger learns to swim!) Scrat, the squirrel-rat hybrid featured prominently in the trailers, is given an extended shtick with his still-elusive acorn -- an irritating device that serves only to chop the film into tidy, bite-size sections. Science also takes a hit this time, as two massive, coelacanthlike fish are unfrozen and turn out to be twice as lively as the rest of the cast. Next time, they should have their own movie.</p>
+        <p>''Ice Age: The Meltdown'' is rated PG (Parental guidance suggested) for mild language and innuendo.</p>
+        <p>Ice Age  The Meltdown  Opens today nationwide.</p>
+        <p>Directed by Carlos Saldanha; written by Peter Gaulke, Gerry Swallow and Jim Hecht, based on a story by Mr. Gaulke and Mr. Swallow; character design, Peter de Sève; music by John Powell; art director, Thomas Cardone; produced by Lori Forte; released by 20th Century Fox. Running time: 93 minutes.</p>
+        <p>WITH THE VOICES OF: Ray Romano (Manny), John Leguizamo (Sid), Denis Leary (Diego), Queen Latifah (Ellie), Seann William Scott (Crash), Josh Peck (Eddie), Jay Leno (Fast Tony), Chris Wedge (Scrat) and Will Arnett (Lone Gunslinger Vulture).</p>
+        <p>FILM REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

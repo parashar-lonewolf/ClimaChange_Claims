@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>War on Science</title>
+    <meta content="01letters-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1728699"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Gratton, James S</person>
+        <person class="indexing_service">Mooney, Chris</person>
+        <person class="indexing_service">Horgan, John</person>
+        <object.title class="indexing_service">Republican War on Science, the (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7DA1530F932A35752C0A9609C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>War on Science</hl1>
+      </hedline>
+      <abstract>
+        <p>James S Gratton letter comments on John Horgan Dec 18 (2005) review of Chris Mooney book The Republican War on Science</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of Chris Mooney's ''Republican War on Science'' (Dec. 18), John Horgan correctly states: ''Reagan . . . urged C. Everett Koop, the surgeon general, to investigate whether abortion harms women physically and emotionally. (Koop, though an ardent opponent of abortion, refused.)'' But that was not quite thewhole story. Koop wrote Reagan that the results of a two-year study were ''ambiguous,'' and therefore no report would be issued.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of Chris Mooney's ''Republican War on Science'' (Dec. 18), John Horgan correctly states: ''Reagan . . . urged C. Everett Koop, the surgeon general, to investigate whether abortion harms women physically and emotionally. (Koop, though an ardent opponent of abortion, refused.)'' But that was not quite thewhole story. Koop wrote Reagan that the results of a two-year study were ''ambiguous,'' and therefore no report would be issued.</p>
+        <p>Subsequently, after extensive hearings and other investigative work, the Human Resources and Intergovernmental Relations Subcommittee of the House Committee on Government Operations found that a draft report had determined ''conclusively'' that there are no harmful health effects, physical, mental, emotional or otherwise, of safe and legal abortion. None. Dr. Koop, to his embarrassment, testified to that effect, under oath, at a committee hearing and, further, that undergoing a safe and legal abortion is 10 to 20 times safer than carrying a pregnancy to term and giving birth.</p>
+        <p>This may have been an early example of the perversion of science in favor of ideology, a practice now routinely used by the present Republican administration with respect to global warming, evolution, intelligent design and other matters.</p>
+        <p>James S. Gratton</p>
+        <p>Worcester, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

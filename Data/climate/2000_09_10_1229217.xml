@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Documenting Flowers of the West</title>
+    <meta content="10FLOW$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229217"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <org class="indexing_service">New York Botanical Garden</org>
+        <person class="indexing_service">Holmgren, Noel</person>
+        <person class="indexing_service">Holmgren, Patricia</person>
+        <person class="indexing_service">Hall, Barbara</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E5D91539F933A2575AC0A9669C8B63" item-length="524" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Documenting Flowers of the West</hl1>
+      </hedline>
+      <byline class="print_byline">By BARBARA HALL</byline>
+      <byline class="normalized_byline">Hall, Barbara</byline>
+      <abstract>
+        <p>Article on Noel Holmgren of White Plains, NY, who is Mary Flagler Cary curator of botany at Institute of Systemic Botany at New York Botanical Garden in Bronx, and his wife, Patricia, who is director of garden's Herbarium; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN one meets Patricia and Noel Holmgren of White Plains, a Greek myth comes to mind. As a reward for their decency, mutual dedication and hospitality to the gods, a couple named Philomon and Baucis were granted a wish before they died. What they wanted: to stand guard outside the temple together for eternity, one as an oak and the other as a linden tree.</p>
+        <p>One can imagine the Holmgrens making a similar wish.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN one meets Patricia and Noel Holmgren of White Plains, a Greek myth comes to mind. As a reward for their decency, mutual dedication and hospitality to the gods, a couple named Philomon and Baucis were granted a wish before they died. What they wanted: to stand guard outside the temple together for eternity, one as an oak and the other as a linden tree.</p>
+        <p>One can imagine the Holmgrens making a similar wish.</p>
+        <p>Mrs. Holmgren was raised on a Christmas tree farm in Indiana; she wanted to be a forester, but at that time those jobs were closed to women. Mr. Holmgren grew up in Logan, Utah. They met at the University of Washington in Seattle in 1965 and married four years later.</p>
+        <p>As long lasting as their marriage is their dedication to the New York Botanical Garden in the Bronx -- the ''temple'' if you will, where they have worked since 1968. She is director of the garden's Herbarium, which she describes this way: ''It's like a library except a library has books and, in this case, we have some 6.3 million dry plant specimens preserved for scientific study.''</p>
+        <p>Mr. Holmgren is the Mary Flagler Cary curator of botany at the Institute of Systemic Botany at the garden.</p>
+        <p>For some 30 years, the two have also worked together on a six-volume work called ''Intermountain Flora.'' This project is an exhaustive study of all vascular plant species from Oregon to Idaho to the Mojave Desert. To conduct their study, the Holmgrens trek west each summer, to a base camp that serves, she said, as ''bedroom, dining room, laboratory and herbarium.''</p>
+        <p>''It's interesting that I wanted a job where I could be outdoors a lot, and I wound up as a professional botanist, where my main career is management and administration,'' Mrs. Holmgren said. ''Fortunately, though, work on 'Intermountain Flora' takes us summertimes to the western outdoors.''</p>
+        <p>In an interview the pair discussed what their work teaches about the environment.</p>
+        <p>''I think, actually, with an herbarium like we have here, we're going to be able to show how global warming is changing plant distributions,'' Mr. Holmgren said. ''On our labels, it shows locality information -- where it was collected -- and there is good evidence that the boundaries of species distribution are starting to change a bit.''</p>
+        <p>His wife added: ''With the temperature change, it changes plant distribution. If the temperature goes up, the flowers go higher up the mountain.''</p>
+        <p>Despite the big-picture ramifications of their research, Mr. Holmgren does not let his work get him down. ''I grew up being taken into the field with my botanist father during plant collection trips. I could see what a great deal of pleasure it was for him, and I wanted to go into the same racket,'' he said with a smile.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

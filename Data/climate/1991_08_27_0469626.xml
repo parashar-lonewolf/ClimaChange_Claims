@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cleaner Air, by Consensus</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="469626"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">REGULATION AND DEREGULATION OF INDUSTRY</classifier>
+        <classifier class="indexing_service" type="descriptor">URBAN AREAS</classifier>
+        <location class="indexing_service">GRAND CANYON (ARIZ)</location>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Grand Canyon National Park</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Urban Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DF173DF934A1575BC0A967958260" item-length="553" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cleaner Air, by Consensus</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The biggest question left by the Clean Air Act of 1990 -- President Bush's grandest legislative achievement so far -- was whether its promise would be thwarted by bureaucratic infighting, regulatory paralysis and endless litigation. That's been the sad fate of other ambitious laws, including the original Clean Air Act of 1970.</p>
+        <p>Although the jury is still out on the new act, legislators already complain that the President's Council on Competitiveness, headed by Vice President Quayle, is becoming a haven for businesses seeking to avoid costly investment in anti-pollution equipment. In one case, the council pressured the Environmental Protection Agency to ease regulations on old coal-fired power plants.</p>
+      </block>
+      <block class="full_text">
+        <p>The biggest question left by the Clean Air Act of 1990 -- President Bush's grandest legislative achievement so far -- was whether its promise would be thwarted by bureaucratic infighting, regulatory paralysis and endless litigation. That's been the sad fate of other ambitious laws, including the original Clean Air Act of 1970.</p>
+        <p>Although the jury is still out on the new act, legislators already complain that the President's Council on Competitiveness, headed by Vice President Quayle, is becoming a haven for businesses seeking to avoid costly investment in anti-pollution equipment. In one case, the council pressured the Environmental Protection Agency to ease regulations on old coal-fired power plants.</p>
+        <p>But there's promising news as well. In the last two weeks the E.P.A. has announced two major agreements aimed at cleaning the air in America's dirtiest cities and above the Grand Canyon. In both cases, agreement was reached only after the agency gathered traditionally hostile interests in one room and invited a consensus -- using a process called regulatory negotiation or, in Washingtonspeak,"reg-neg."</p>
+        <p>By whatever name, it's an immensely valuable procedure that ought to be used far more often than it is. For one thing, the parties to a consensus are less likely to challenge government regulations at some later date, not least because they helped write them. That means fewer lawsuits and fewer attempts to subvert the purposes of the act through backdoor intervention with the Office of Management and Budget -- or Mr. Quayle.</p>
+        <p>One agreement involved a crucial provision of the 1990 act requiring oil refiners to produce a cleaner-burning gasoline to reduce smog in the nation's nine dirtiest cities, including Los Angeles and New York. The act was far from clear on how that goal was to be reached, so the E.P.A. summoned representatives from 30 different interest groups, including environmentalists and oil company executives, for two months of negotiations.</p>
+        <p>The result was a compromise under which gasoline sold in 1995 will be 15 percent cleaner than it is now. Industry will be allowed to average the 15 percent reduction in ozone-forming hydrocarbons so that some gallons come in higher, some lower. That gives the companies flexibility to accommodate differences among refineries. But it's wholly consistent with the intent of the act.</p>
+        <p>The second set of negotiations involved the haze that fouls the Grand Canyon. The haze comes from sulfur dioxide emissions from the Navajo Generating Station, a giant coal-burning plant 15 miles northeast of the canyon. Environmentalists and the E.P.A. wanted a 90 percent reduction; the plant's owners, though clearly in violation of the law, wanted none. Mr. Quayle's council recommended a 70 percent cut.</p>
+        <p>The owners eventually agreed to the original 90 percent target -- but only after the environmentalists proved to the company that, by using a complex averaging scheme, the company could meet the target at lower cost than it thought possible.</p>
+        <p>Nobody said that carrying out the act would be easy. And regulations have yet to be written for controversial sections of the law covering toxic chemicals and acid rain. Yet the odds of success went up when the E.P.A. established a simple principle: Negotiation now beats litigation later.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

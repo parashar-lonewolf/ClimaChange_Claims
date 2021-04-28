@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Getting Tan in a Real-World Environment</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="773545"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SUN</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sun</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7D9123EF93BA35754C0A963958260" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Getting Tan in a Real-World Environment</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re "Don't Bother Me: I'm Catching Some Rays" (Week in Review, July 2), on sunbathing:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re "Don't Bother Me: I'm Catching Some Rays" (Week in Review, July 2), on sunbathing:</p>
+        <p>Health concerns about ultraviolet radiation have been escalating as a result of the ever-increasing hole in the atmospheric ozone layer, the earth's protective shield from UV radiation. Melanoma is still on the rise, despite a decrease in the popularity of sunbathing.</p>
+        <p>The Antarctic and Arctic have been reported to have 70 percent and 30 percent, respectively, less than normal levels of ozone.</p>
+        <p>The issue is not so much of fashion or trend, but the disastrous consequences of altering the global life support system of the atmosphere in which we live.</p>
+        <p>The Montreal Protocol, the international agreement to curb and eventually stop the production of ozone-depleting chlorofluorocarbons, is not itself without holes. China's booming electronic industry relies heavily on CFC's, and China has refused to sign or comply. In our own country the issue is enforcement.</p>
+        <p>An increased awareness of the connection between our daily living habits and the larger system must be recognized.  GAIL W. WITTWER  New York, July 2, 1995</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

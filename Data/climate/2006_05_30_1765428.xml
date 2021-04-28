@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Science and Politics, Heat and Light</title>
+    <meta content="l30warm-4" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1765428"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Brecha, Robert J</person>
+        <person class="indexing_service">Easterbrook, Gregg</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DA1F3EF933A05756C0A9609C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Science and Politics, Heat and Light</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Prof Robert J Brecha says America has lost 10 years in which to address climate change while pundits and politicians tried to persuade nation against action; says effort required now will be significantly greater, with reduced chances of achieving goal of avoiding serious damage (May 24 Gregg Easterbrook Op-Ed article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Although it is true that the scientific consensus for anthropogenic climate change has continued to strengthen, the results of numerous studies published in the past year are not qualitatively different from the conclusions published in the 1995 second assessment report of the Intergovernmental Panel on Climate Change.</p>
+        <p>We have, however, lost a decade of crucial time in which we could have started to address the problem of global warming; instead, politicians and pundits like Gregg Easterbrook worked hard to convince us that we should not act. The counter to this argument slips into his article when he admits that ''all air pollution problems of the past have cost significantly less to fix than critics projected.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Although it is true that the scientific consensus for anthropogenic climate change has continued to strengthen, the results of numerous studies published in the past year are not qualitatively different from the conclusions published in the 1995 second assessment report of the Intergovernmental Panel on Climate Change.</p>
+        <p>We have, however, lost a decade of crucial time in which we could have started to address the problem of global warming; instead, politicians and pundits like Gregg Easterbrook worked hard to convince us that we should not act. The counter to this argument slips into his article when he admits that ''all air pollution problems of the past have cost significantly less to fix than critics projected.''</p>
+        <p>In the face of legitimate scientific uncertainty concerning a problem with major potential consequences, instead of taking the prudent and morally responsible course of early mitigation, we were led down the comfortable path of waiting and watching.</p>
+        <p>Now the efforts required will be significantly greater, with reduced chances of achieving the goal of avoiding serious damage to humanity and the ecosystem.</p>
+        <p>Robert J. Brecha  Dayton, Ohio, May 25, 2006</p>
+        <p>The writer is an associate professor of physics and electro-optics, University of Dayton.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

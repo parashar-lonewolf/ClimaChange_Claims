@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="17obse1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/science/17observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840910"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Animals</classifier>
+        <classifier class="online_producer" type="descriptor">Physics</classifier>
+        <classifier class="online_producer" type="descriptor">Stars and Galaxies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice Age</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migration</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stars and Galaxies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E5DA113FF934A25757C0A9619C8B63" item-length="809" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">In Arctic Foxes, Clues to Effects of Shrinking Habitat</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>How to Bend a Crystal? Try Shedding a Little Light on the Subject</p>
+        <p>Piezoelectric crystals have proved useful in industrial and consumer applications because of a special characteristic: they can be bent by electricity. (Conversely, they can also generate electricity when bent.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What happens to a species when its habitat contracts, how to bend a crystal and a gaseous mystery explained.</p>
+      </block>
+      <block class="full_text">
+        <p>How to Bend a Crystal? Try Shedding a Little Light on the Subject</p>
+        <p>Piezoelectric crystals have proved useful in industrial and consumer applications because of a special characteristic: they can be bent by electricity. (Conversely, they can also generate electricity when bent.)</p>
+        <p>But to be so useful, piezoelectric crystals must still be wired so the electricity can flow to or from them.</p>
+        <p>How great would it be, then, to have a crystal that could work ''wirelessly'' -- bending when exposed to light, for example? Seiya Kobatake of Osaka City University in Japan and colleagues have developed such a crystal that can reversibly change its shape when exposed to alternating ultraviolet and visible light. Their work is described in Nature.</p>
+        <p>Materials that can be deformed by photoirradiation are not unknown, but generally consist of polymer films and gels and are rather slow-acting. The new research used diarylethene chromophores, ringed molecules that switch from an open-ring version, or isomer, to a closed-ring isomer when irradiated with ultraviolet light, and back to an open-ring isomer when exposed to visible light. Those changes alter the shape of crystals made up of these molecules, from a square to more of a diamond.</p>
+        <p>This quality was put to use in a crystal rod attached to a substrate at one end. When exposed to ultraviolet light from one side, the side near the light changed shape, causing the rod to bend in 25-millionths of a second.</p>
+        <p>The force generated was powerful enough to shoot a gold particle that was much heavier than the crystal a distance of 30 micrometers.</p>
+        <p>The researchers say the materials may someday be used to make microscopic actuators that would need no wired source of power.</p>
+        <p>In Arctic Foxes, Clues to Effects Of Shrinking Habitat</p>
+        <p>If its habitat starts to shrink and shift, several things can happen to a species. It can stay and adapt to new conditions. It can move with the habitat. Or it can do neither and die off.</p>
+        <p>While there has been much research on what happens to species when habitat expands -- no surprise, they tend to expand into it -- there has been little research into what happens when habitat contracts.</p>
+        <p>Love Dalen, currently at the University of London, and colleagues examined the subject using a species, the Arctic fox, whose habitat has changed markedly since the last ice age. Back then, 10,000 years ago, the species had the run of continental Europe, which because of the cold climate had tundra-like vegetation. But as the planet warmed again and the ice sheets receded, the fox's habitat shifted northward and decreased. The animals are now found in Scandinavia and Siberia.</p>
+        <p>''We wanted to know what happened with the Arctic foxes over the transition from the ice age to the current warm period,'' Dr. Dalen said. ''When the tundra shifted up to Scandinavia and Siberia, did they move too?''</p>
+        <p>The researchers analyzed DNA from fossilized fox bones found at European ice age sites, and compared it with DNA from the current Scandinavian and Siberian populations. They found that there was no connection between the ancient and modern populations.</p>
+        <p>''They didn't move,'' Dr. Dalen said of the European animals. ''That whole population is extinct.''</p>
+        <p>The researchers, whose findings were published in The Proceedings of the National Academy of Sciences, suggest that Scandinavia was probably repopulated by foxes from the part of northeastern Siberia known as Beringia, which wasn't frozen over during the ice age and thus served as a refuge for many species.</p>
+        <p>The findings have implications for how species may respond to global climate change, as certain habitats shift northward or shrink. ''Scientists need to be able to understand which species will make it and which won't,'' Dr. Dalen said. ''We need to get a picture of exactly how this process takes place.''</p>
+        <p>A Mystery Explained: Hot Gases That Go Bump In the Night Sky</p>
+        <p>As spiral galaxies go, M106, found 23 million light-years away in the constellation Canes Venatici, is far from typical. Sure, it has a nucleus and arms of stars and gas (visible in green in the composite image below). But radio astronomy and X-ray data (in purple and blue) show that it has two other arms as well.</p>
+        <p>These shadow arms have been a puzzle, with some suggestions that they are jets of particles emitted by a supermassive black hole at the galaxy's center.</p>
+        <p>But that's not the precise explanation, according to study by Yuxuan Yang of the University of Maryland and colleagues to be published in The Astrophysical Journal. The jets are only indirectly creating the arms.</p>
+        <p>The jets are tilted about 30 degrees from the galactic plane. The researchers say these streams heat gases that in turn collide violently with gases in the disk, heating them to such an extent that they emit the radio waves and X-rays observed.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

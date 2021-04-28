@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. Introduces Supercomputer</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="462778"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">INTERNATIONAL BUSINESS MACHINES CORP (IBM)</org>
+        <person class="indexing_service">MARKHOFF, JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910725T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DE143EF936A15754C0A967958260" item-length="821" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. Introduces Supercomputer</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.B.M. introduced a scientific supercomputer yesterday that is the first fruit of a previously secret "skunk works" team set up to speed the company's notoriously slow process of turning technological advances into salable products.</p>
+        <p>The world's largest computer maker has been under attack for marketing new systems long after much smaller companies have introduced similar products. So in January 1989, the International Business Machines Corporation created a company within a company, bringing together a handful of computer designers and scientists and giving them their own independent management and venture financing, much like a Silicon Valley start-up.</p>
+      </block>
+      <block class="full_text">
+        <p>I.B.M. introduced a scientific supercomputer yesterday that is the first fruit of a previously secret "skunk works" team set up to speed the company's notoriously slow process of turning technological advances into salable products.</p>
+        <p>The world's largest computer maker has been under attack for marketing new systems long after much smaller companies have introduced similar products. So in January 1989, the International Business Machines Corporation created a company within a company, bringing together a handful of computer designers and scientists and giving them their own independent management and venture financing, much like a Silicon Valley start-up.</p>
+        <p>The new machine, called the Power Visualization System, is a $600,000 to $2 million computer capable of 2.5 billion calculations a second -- enough to display the deterioration of the earth's ozone layer, reduce the time needed to design new cars and produce visual effects like those in the movie "Terminator 2." I.B.M. developed the new computer in two and a half years, while other products of similar complexity have taken substantially longer. But it enters a market already crowded with competitors. Laboratories' Interests</p>
+        <p>Many researchers and executives question whether the leading corporate research laboratories are sacrificing their best long-term interests by turning away from basic research toward projects more likely to yield new products quickly. But many companies have also been faulted for failing to capitalize on their basic research. Many new technologies, like videocassette recorders, have been invented in the United States but turned into successful products by Japanese competitors.</p>
+        <p>Abraham Peled, vice president of I.B.M.'s research division, contends that an ivory tower approach is no longer appropriate for researchers in today's hotly competitive computer industry. "We don't need more research, we need more implementation," he said. "An industrial research lab is not a national monument."</p>
+        <p>Mr. Peled set up the "skunk works" in January 1989, in a separate building several hundred yards from the company's Thomas J. Watson Research Center in Hawthorne, N.Y. The team's goal was to rapidly develop a computer and software capable of converting the huge volume of numbers pumped out by other supercomputers into sharp images that could be more readily understood by researchers.</p>
+        <p>Some industry experts praised I.B.M.'s speed in bringing its new product to market. "They got it out in a very short time frame," said Gary Smaby, a supercomputer industry consultant. "That is very impressive."</p>
+        <p>But Mr. Smaby warned that the size of the market for these scientific visualization machines is uncertain. "There have been a couple of pioneers who have died in the road already," he said.</p>
+        <p>Linking scientific research and product development more closely is only one of the strategies I.B.M. is trying in an effort to rejuvenate itself. As I.B.M.'s profits have sagged in recent years, it has cut back its work force and reorganized. The company has recently tried to promote a more free and creative spirit among its personal compuer software writers. I.B.M. is seeking alliances throughout the industry, even with former rivals, in an effort to compensate for some of its weaknesses.</p>
+        <p>I.B.M. would not discuss the cost of the project, but one person familiar with it said that the computer maker had spent about $12 million -- much less than many other hardware projects require .</p>
+        <p>The new system has reached the market quickly in part because it uses chips available from Intel rather than requiring new ones to be custom-designed. The machine relies for its computing power on a parallel arrangement of 32 Intel i860 microprocessors, and uses an array of disk drives to permit the quick retrieval of information. I.B.M. Visualization System</p>
+        <p>By generating images in minutes rather than days of computing time, the I.B.M. visualization system allows researchers to manipulate data in ways that were previously impossible. A computer animation of the hole in the ozone layer over the Southern Hemisphere helped scientists understand more about how the hole changed shape over time.</p>
+        <p>I.B.M. helped engineers at Honda modify the new system so the engineers could view three-dimensional images of new models and instantly see the effects of design changes. The new I.B.M. hardware and software written by the Alias Research Company produced images as sharp as photographs more than 100 times faster than earlier systems.</p>
+        <p>The I.B.M. system must compete against similar machines and software from companies including Silicon Graphics, Stardent Computer and Wavefront.</p>
+        <p>Mr. Smaby called scientific visualization "a market category with a lot of potential," but added that the potential is still uncertain. "The question is how many engineers and scientists are ready to make the leap of faith," he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Waiting on the Weather</title>
+    <meta content="17FRI4" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1032258"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DB1430F935A25754C0A96E958260" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Waiting on the Weather</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Insufferable heat has stalled over the South and Southwest, taking out most of the Texas cotton crop and killing 16 people in Dallas alone, 20 more in Louisiana. Oklahoma and Georgia have declared agricultural disasters, and crops are faring little better in South Carolina. The torrid heat, which began late last month -- literally burning its way across central and northern Florida -- has now worked into New Mexico and Arizona. The high and low temperature forecast in Phoenix for the next five days looks like a lopsided N.B.A. score: 115-88.</p>
+        <p>The proximate causes for this heat wave are easy enough to analyze. An unusually deep-reaching jet stream blocked the normal pattern of precipitation, and now for the last few weeks a high-pressure system, like a lens of clear air, has dominated the region, preventing the entrance of weather that might have brought relief.</p>
+      </block>
+      <block class="full_text">
+        <p>Insufferable heat has stalled over the South and Southwest, taking out most of the Texas cotton crop and killing 16 people in Dallas alone, 20 more in Louisiana. Oklahoma and Georgia have declared agricultural disasters, and crops are faring little better in South Carolina. The torrid heat, which began late last month -- literally burning its way across central and northern Florida -- has now worked into New Mexico and Arizona. The high and low temperature forecast in Phoenix for the next five days looks like a lopsided N.B.A. score: 115-88.</p>
+        <p>The proximate causes for this heat wave are easy enough to analyze. An unusually deep-reaching jet stream blocked the normal pattern of precipitation, and now for the last few weeks a high-pressure system, like a lens of clear air, has dominated the region, preventing the entrance of weather that might have brought relief.</p>
+        <p>Yet proximate cause is not cause enough, somehow, when the weather is this extreme. Though El Nino has passed, its effects still linger. A mild, wet winter built up the fuel that torched Florida. Global warming is best understood as an incremental increase in atmospheric temperature measured as an average over a long span of time, not as a sudden flattening blast of heat. Yet who has been able to put global warming out of mind since the brush fires began in Florida?</p>
+        <p>Meteorologists say that this week is usually the hottest of the year in our hemisphere, because temperature lags behind the sun, now nearly 30 days past the summer solstice. Each day takes the sun a little lower in the sky. But none of this is consolation to residents of the South and Southwest. The only consolation that matters to them right now is a long cool rain, a merciful breeze, and the courage to rebuild houses and to repair a parched and battered cropland.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

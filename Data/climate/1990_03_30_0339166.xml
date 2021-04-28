@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Satellites Find No Sign of Global Warming in 80's</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="339166"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900330T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D71431F933A05750C0A966958260" item-length="383" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Satellites Find No Sign of Global Warming in 80's</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, March 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Data from weather satellites show no evidence of global warming in the 1980's, scientists say, but it will take at least another decade of measurements to draw a firm conclusion.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Data from weather satellites show no evidence of global warming in the 1980's, scientists say, but it will take at least another decade of measurements to draw a firm conclusion.</p>
+        <p>Data from weather satellites show no evidence of global warming in the 1980's, scientists say, but it will take at least another decade of measurements to draw a firm conclusion.</p>
+        <p>The data, collected from 1979 through 1988 by the Tiros-N series of weather satellites, proved that the earth's temperature can be measured accurately by instruments probing the atmosphere from space, two scientists say in a paper to be published on Friday in the journal Science.</p>
+        <p>''We found that the earth's atmosphere goes through fairly large year-to-year changes in temperature and over that 10-year period we saw no long-term warming or cooling trend,'' said Roy W. Spencer of the Marshall Space Flight Center in Huntsville, Ala.</p>
+        <p>Dr. Spencer's co-investigator, John R. Christy of the University of Alabama at Huntsville, said that there were temperature swings ''that can be quite dramatic'' during the decade, but that on a global basis, the thermal changes tended to even out.</p>
+        <p>A Net Effect of Zero</p>
+        <p>''The northern hemisphere goes up slightly during those 10 years and the southern hemisphere goes down slightly,'' said Dr. Christy. ''The net effect for the globe is basically zero.''</p>
+        <p>Detecting a climate trend, the scientists said, will take at least another decade of satellite measurements.</p>
+        <p>''There is no guarantee that if you take a 10-year segment out of a long time that you'll get the overall trend,'' said Dr. Christy. ''The data cannot be used to say we've got an enhanced greenhouse effect.''</p>
+        <p>The new data is the first on global temperatures from satellites to enter the scientific debate about the greenhouse effect, Dr. Spencer said. Most other studies of temperature trends, some extending over more than a century, have come from the records of ground-based thermometers. These readings, he said, do not fully reflect the global temperature because there are very few measurements for vast areas of the earth's oceans.</p>
+        <p>Some experts say the earth is beginning to warm as a result of carbon dioxide and other gases dumped into the atmosphere over the last 150 years of industrial civilization. This warming, the enhanced greenhouse effect, is a matter of controversy in the scientific community because of the difficulty in measuring small climate trends over a long period of time.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

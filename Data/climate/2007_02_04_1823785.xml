@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>These Backseat Drivers Are Moving Up Front</title>
+    <meta content="04novel" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/04/business/yourmoney/04novel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823785"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NOVELTIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E0DD123FF937A35751C0A9619C8B63" item-length="1140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>These Backseat Drivers Are Moving Up Front</hl1>
+        <hl2 class="online_headline">These Back-Seat Drivers Are Moving Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Anne Eisenberg Novelties column on inexpensive devices that plug into car's engine control computer and keep track of behavior of both engine and driver; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOW'S your driving? If you're ready for a blunt, detailed answer to that question, computer-based gadgets selling for $200 or less will provide it.</p>
+        <p>The devices plug into a car's engine control computer and keep track of any bad behavior you might display behind the wheel -- lead-footed acceleration that wastes gasoline, for example. Some of these devices display the data immediately on a gauge, so you can watch your car's miles per gallon fall when you speed up. Others store the facts on a computer chip, to be downloaded later and put into charts where, for example, all extreme braking is shown with bright red lines.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How’s your driving? Two electronic back-seat drivers were recently updated to keep even closer tabs on the behavior of both engine and driver.</p>
+      </block>
+      <block class="full_text">
+        <p>HOW'S your driving? If you're ready for a blunt, detailed answer to that question, computer-based gadgets selling for $200 or less will provide it.</p>
+        <p>The devices plug into a car's engine control computer and keep track of any bad behavior you might display behind the wheel -- lead-footed acceleration that wastes gasoline, for example. Some of these devices display the data immediately on a gauge, so you can watch your car's miles per gallon fall when you speed up. Others store the facts on a computer chip, to be downloaded later and put into charts where, for example, all extreme braking is shown with bright red lines.</p>
+        <p>Two of the electronic backseat drivers were recently updated to keep even closer tabs on the behavior of both engine and driver: the CarChip from Davis Instruments of Hayward, Calif., (www.davisnet.com); and the ScanGauge II by Linear-Logic of Mesa, Ariz., (www.scangauge.com). Users who have the patience to study these displays' revelations may soon find themselves easing up on the gas pedal, not only to improve their fuel economy but also to add fewer molecules of carbon dioxide to the earth's atmosphere.</p>
+        <p>The CarChip that I tried (Model E/X with Alarm, $150 to $199) monitors a driver's speed every second and has an alarm that can be set, for instance, to ring whenever the car is going more than 70 miles an hour.</p>
+        <p>The CarChip does not display its data while recording it. Instead, it accumulates the information and then downloads it to a Windows-based computer by way of a U.S.B. connection. The findings can be displayed on a screen or in a report, color-coded to show errors like jackrabbit starts (solid blue lines).</p>
+        <p>The ScanGauge II ($169.95) does not download its data. It shows the numbers it collects instantly, on a small monitor. The digital readout, for example, shows throttle position, coolant temperature, intake air temperature and many other details of interest not only to those who want to conserve gasoline, but also to those who like to know exactly what's going on under the hood.</p>
+        <p>The gadgets plug into a socket, typically under the dashboard, that mechanics use to check a car's emissions system. This port has been installed in most cars and light trucks in the United States since 1996. Before buying either of these gadgets, make sure your car has this diagnostic socket, called an OBD II port. The manufacturers of both devices have information on incompatible vehicles at their Web sites.</p>
+        <p>Installation is simple, but there is a small complication: First, you have to find the port. It is supposed to be within three feet of the driver, but that's a fairly large range if you are lying on your back with a flashlight, peering under the dashboard on the driver's side, inspecting the fuse box (nope, wrong place), and finally starting over again on the passenger side (there it is!).</p>
+        <p>You can avoid such time-wasting searches by going to the National OBD Clearing House Web site, maintained by Weber State University in Ogden, Utah (www.autocenter.weber.edu/OBD-CH/vehicleoems.asp). Find your car model on the list, click on it and get the exact location of the port -- in my case, ''under the passenger's dash next to the center console.''</p>
+        <p>Once the port is found, the devices plug in easily. The CarChip, about the size of a 9-volt battery, begins flashing immediately and logs data until you pull it out. The software that transforms the data into neat reports comes on a CD and installs quickly. The model I tried, the E/X, keeps track of data for up to 300 hours of traveling and then automatically begins overwriting the older data.</p>
+        <p>The CarChip provides a wealth of information. It can tell you when the ignition was turned on and off and the time and date of each trip. That is why some people use these devices for keeping an eye on others' driving. Fleet owners, for example, put them in vans to monitor the driving habits of employees; anxious parents use them in the cars of their teenage children.</p>
+        <p>The CarChip can be moved from one vehicle to another. Patrick Barrett, director of transportation services at the University of Nebraska, Lincoln, has about 100 CarChips that are popped in and out of the more than 430 sedans and vans used by the university. Drivers are told that the vehicles may be equipped with a data recorder.</p>
+        <p>The chips offer a relatively inexpensive way to keep an eye on the driving habits of people who use the university's passenger vans and cars, Mr. Barrett said. In addition, they have helped with the occasional diagnostic problem.</p>
+        <p>For instance, one person complained that the engine was stalling when it pulled onto an Interstate highway, he said. But the chip showed that the driver had not let the engine warm up enough. Instead, Mr. Barrett said, ''the driver pushed the pedal to the floor and expected the car to perform.''</p>
+        <p>Like the CarChip, the ScanGauge II starts logging data immediately. It has a cable that runs from the plug-in to the console, about the size of a stick of butter, which displays the data. The display panel can be attached to the dashboard with Velcro -- two pieces were enclosed with the model I tried. One screen shows trip data, including fuel economy and the distance the car can cover before the fuel tank is empty.</p>
+        <p>REES ROBERTS, who lives in Racine, Wis., uses the ScanGauge II with his Prius 2006. The Prius already has a gauge that shows miles per gallon, Mr. Roberts said, ''but its maximum readout ends at the 99-mile point.'' The ScanGauge II, in contrast, has a gauge that goes up to four digits. ''I can tell at any instant when I'm getting 150, 200, or even 250 miles per gallon,'' he said, referring to instances when gliding downhill on the Interstate, for example.</p>
+        <p>Mr. Roberts is interested not only in his fuel economy, measured in miles per gallon, but also in the fuel rate, measured in gallons per hour. ''That rate depends on your lead foot,'' he said. ''If you are soft on the accelerator, you might get .4 or .5 gallons per hour. Accelerate, and you'll see it go higher, to 1.5 or 1.7 gallons per hour.''</p>
+        <p>The potential savings are not minor, experts say. ''Driving habits, including speed and rate of acceleration, have a great impact on fuel efficiency,'' said Eric Kaufman, technical integration engineer for fuel economy at General Motors in Milford, Mich. ''Driving slower and accelerating slower will improve fuel economy.''</p>
+        <p>Mr. Roberts said that his monitoring of his driving habits had led him to make changes. ''I drive differently now,'' he said. ''You watch the gauge, and you learn the behaviors that work, so that you get better and better at conserving gas -- and reducing emissions.''</p>
+        <p>NOVELTIES E-mail: novelties@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: novelties@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

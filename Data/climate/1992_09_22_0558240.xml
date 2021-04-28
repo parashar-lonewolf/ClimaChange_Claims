@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="558240"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DD1330F931A1575AC0A964958260" item-length="547" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C.CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Glowing Shrimp</p>
+        <p>Q.</p>
+        <p>Some shrimp I tried to feed the cat glowed in the dark. Is that why the cat wouldn't eat it?</p>
+        <p>A.  "Yes," said Dr. Matthew Grober, assistant professor of zoology at the University of Idaho at Moscow. "It probably would have gotten sick if it had eaten the shrimp."</p>
+      </block>
+      <block class="full_text">
+        <p>Glowing Shrimp</p>
+        <p>Q.</p>
+        <p>Some shrimp I tried to feed the cat glowed in the dark. Is that why the cat wouldn't eat it?</p>
+        <p>A.  "Yes," said Dr. Matthew Grober, assistant professor of zoology at the University of Idaho at Moscow. "It probably would have gotten sick if it had eaten the shrimp."</p>
+        <p>Dr. Grober, who is an expert in luminescence in crustaceans, said that the light probably came not from the shrimp but from a contamination of luminescent bacteria, which the cat may have detected by smell.</p>
+        <p>Luminescence is the production of light by an organism by its own chemical resources, without the need for an external energy source, Dr. Grober explained. Some shrimp are luminescent, he said, but they dwell deep in the ocean and are not commercially harvested. Luminescence is also fairly common in bacteria.</p>
+        <p>Luminescence involves a luciferin, a simple molecule often containing just three amino acids, that is acted upon by a luciferase, a large, complex protein molecule, Dr. Grober said. This enzyme oxidizes the luciferin, exciting it to a high energy level. When the energy level decays, a photon of light is emitted.</p>
+        <p>Dr. Grober said that another possible contaminant was an infestation of dynoflagellates, photosynthetic one-celled organisms that produce light. They undergo explosive population growths and produce extremely dense concentrations in the ocean called blooms, he said. "At night, they leave the whole ocean glowing, so that it is like swimming through electricity," he said.</p>
+        <p>Dynoflagellates produce toxins, and paralytic shellfish poisoning is caused by these toxins filtered out of the water by shrimp, Dr. Grober said. Blue Blood, Red Blood</p>
+        <p>Q.</p>
+        <p>What color is blood when it is inside the body? It looks blue through the veins.</p>
+        <p>A.  Blood inside the body is either bright red or dark red, depending on whether it is arterial blood or venous blood, said Dr. Rao Pulakhandam of the New York Blood Center.</p>
+        <p>Red blood cells carry oxygen from the lungs to the tissues, where the oxygen is exchanged for carbon dioxide. Each red blood cell is packed with hemoglobin, a protein that contains iron. Hemoglobin combines chemically with oxygen in the lungs, forming a compound called oxyhemoglobin, which is bright red. When the blood gives up the oxygen to the tissues and enters the veins for the return trip to the lungs, it is a darker red, closer to a purple.</p>
+        <p>"The circulating blood in the veins appears blue from outside the body because of a combination of factors," Dr. Pulakhandam said. First, veins are thin-walled and close to the surface, so the darker red or purplish color may show blue filtered through the layers of the skin. Another factor in the apparent color is the degree of fairness of the skin, providing contrast.</p>
+        <p>Compared with veins, arteries are thick-walled and deep in the body. Arterial blood is seldom seen unless an artery is accidentally or surgically severed, Dr. Pulakhandam said.</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

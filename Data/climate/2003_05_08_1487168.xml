@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Can markets be used to help people make nonmarket decisions?</title>
+    <meta content="Y08SCE$04" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/05/08/business/08SCEN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1487168"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Economic Scene"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Social Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <org class="indexing_service">George Mason University</org>
+        <person class="indexing_service">Varian, Hal R</person>
+        <person class="indexing_service">Hanson, Robin</person>
+        <object.title class="indexing_service">Economic Scene (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Economic Scene</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5DC163FF93BA35756C0A9659C8B63" item-length="1037" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Can markets be used to help people make nonmarket decisions?</hl1>
+        <hl2 class="online_headline">A Market Approach to Politics</hl2>
+      </hedline>
+      <byline class="print_byline">By Hal R. Varian</byline>
+      <byline class="normalized_byline">Varian, Hal R</byline>
+      <abstract>
+        <p>Hal R Varian Economic Scene column on using financial markets to help people make political and social decisions ; says economists believe financial markets do good job of aggregating information in part because they offer strong incentives to those who make good predictions; cites study by George Mason University economist Robin Hanson on using financial markets to help aggregate information about those matters of fact that are important to public choice; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MOST political questions involve a combination of facts and values.</p>
+        <p>One example might be: Does global warming exist and, if so, what should we do about it? The first question is about facts; the second is about values.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Can markets be used to help people make nonmarket decisions?</p>
+      </block>
+      <block class="full_text">
+        <p>MOST political questions involve a combination of facts and values.</p>
+        <p>One example might be: Does global warming exist and, if so, what should we do about it? The first question is about facts; the second is about values.</p>
+        <p>Or consider a narrower economic question: What would be the impact on tax revenue of a cut in the dividend tax rate, and should we enact such a cut? There is presumably a factual answer to the first question, while the second depends on the value one puts on who gains and who loses from such a tax.</p>
+        <p>There is no shortage of experts who will opine on the impact of global warming or dividend tax cuts, but it is often difficult for a nonexpert to evaluate their judgments.</p>
+        <p>Whom should you believe? How can a decision maker -- or a voter -- appropriately weigh all those expert opinions?</p>
+        <p>Economists believe financial markets do a pretty good job of aggregating information in part because they offer strong incentives to those who make good predictions. Prices of oil futures contracts predict future spot prices well because traders who make better predictions can make a lot of money.</p>
+        <p>So why not use financial markets to help aggregate information about those matters of fact that are important to public choice? This intriguing idea is examined in detail in a paper by Robin Hanson, an economist at George Mason University, called ''Shall We Vote on Values, but Bet on Beliefs?'' (http ://hanson.gmu.edu/ideafutures.html.)</p>
+        <p>The title says it all. There isn't much we can do about values. Voting has many problems, but it seems to be better than lots of other ways to reach a social decision.</p>
+        <p>But beliefs are different. Markets may be able to aggregate expert opinion in ways that help voters form beliefs about the likely consequences of various decisions.</p>
+        <p>The Hanson approach is most appealing in cases of corporate governance. Think about hiring or firing a chief executive -- a huge decision for corporate boards.</p>
+        <p>In this case the ''values'' part is pretty easy: the board typically has a fiduciary responsibility to hire the candidate who will maximize the value of the corporation's shares.</p>
+        <p>The question is, which of the available candidates will best accomplish this goal? Mr. Hanson proposes using financial markets to answer this question.</p>
+        <p>The key is to create a derivative security whose value depends on who becomes chief executive.</p>
+        <p>Suppose there are two candidates, Mr. Smith and Ms. Jones. The board creates two stock options, one that will deliver one share of company stock if Ms. Jones becomes chief executive, and one that will deliver one share if Mr. Smith gets the job. They also create two ''money options''; one delivers one dollar if Mr. Smith becomes chief executive, while the other delivers one dollar if Ms. Jones does.</p>
+        <p>In a well-functioning speculative market, the Jones money option should sell for a price that is roughly equal to the probability that Ms. Jones will be chosen. The Jones stock option, on the other hand, should sell for the value of one share of stock if Ms. Jones becomes chief executive, times the probability that Ms. Jones will be chosen. The ratio of the stock option to the money option should therefore give the value of the company's stock if Ms. Jones is picked.</p>
+        <p>Every M.B.A. student is told to ''make choices that maximize shareholder value.'' What could be a better way to do this than to let shareholders determine the value of each alternative directly?</p>
+        <p>The argument above is the simplest account, but one can develop more sophisticated arguments that give essentially the same outcome.</p>
+        <p>Once you get the idea, the possibilities are endless. Suppose a company is trying to choose between ad agencies. The board can simply create an option that pays off in shares conditional on which one is chosen, along with the appropriate money options.</p>
+        <p>Given the increased liability corporate board members are facing, they should welcome ways to make sure their decisions are better aligned with shareholder views. Buying and selling shares is a lot easier than calling a proxy vote.</p>
+        <p>Mr. Hanson wants to go further and extend the idea to the political domain. Government agencies could define a measure of performance and let markets determine their actions.</p>
+        <p>Take central banks. Most economists think central banks should care about both the unemployment rate and the inflation rate. Market expectations about inflation can be estimated from existing financial securities, but what about unemployment?</p>
+        <p>Suppose the Fed creates a security that can be exchanged, at some specific time in the future, for the unemployment rate times $100. If the unemployment rate in December 2003 is 5 percent, then the ''unemployment futures contract'' would be worth $5.</p>
+        <p>Now the Fed could issue options on this security. One option would deliver one contract if the Fed sets a short-term rate of 2 percent, another delivers one contract if the Fed sets a short-term rate of 3 percent, along with the appropriate money options that pay off depending on the decision.</p>
+        <p>All the board of governors now has to do is to see how the market values these two options and carry out whichever action the market recommends. Maybe Alan Greenspan isn't so irreplaceable after all.</p>
+        <p>Mr. Hanson speculates that one might even make explicitly political decisions -- like setting the tax rate on dividends -- by using such a mechanism. Economists would no doubt be active participants in such markets.</p>
+        <p>The Internet has made it easy to set up exotic futures markets. For example, www.tradesports.com offers contracts that pay off if statements like these become true: ''Weapons of mass destruction will be found in Iraq before May 31'' or ''Ruben Studdard wins American Pop Idol 2003.'' Both contracts are selling for about 50 cents right now, indicating that the market views them as even bets.</p>
+        <p>Perhaps the availability of such exotic securities will lead to better decisions, in both foreign policy and recording contracts.</p>
+        <p>Economic Scene Hal R. Varian is an economics professor and the dean of the School of Information Management and Systems at the University of California at Berkeley. E-mail: hal@sims.berkeley.edu.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Hal R. Varian is an economics professor and the dean of the School of Information Management and Systems at the University of California at Berkeley. E-mail: hal@sims.berkeley.edu.</tagline>
+    </body.end>
+  </body>
+</nitf>

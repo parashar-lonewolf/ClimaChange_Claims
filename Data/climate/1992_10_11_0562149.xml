@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sound Bytes; Barring the Door to the Ivory Tower</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="562149"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRONIC INFORMATION SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <org class="indexing_service">MICROELECTRONICS &amp; COMPUTER TECHNOLOGY CORP</org>
+        <person class="indexing_service">FIELDS, CRAIG I</person>
+        <person class="indexing_service">FIELDS, CRAIG I (BIOGRAPHICAL SKETCH)</person>
+        <person class="indexing_service">LEWIS, PETER H</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DC103CF932A25753C1A964958260" item-length="547" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sound Bytes; Barring the Door to the Ivory Tower</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter H. Lewis</byline>
+      <byline class="normalized_byline">LEWIS, PETER H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Craig I. Fields is chairman and chief executive of the Microelectronics and Computer Technology Corporation, a research consortium based in Austin, Tex. A lean, intense man occasionally seen in cowboy boots, he is former head of the Defense Advanced Research Projects Agency. M.C.C. recently announced two ambitious projects to develop global information networks for businesses and consumers.</p>
+        <p>Question: What is your biggest challenge?</p>
+      </block>
+      <block class="full_text">
+        <p>Craig I. Fields is chairman and chief executive of the Microelectronics and Computer Technology Corporation, a research consortium based in Austin, Tex. A lean, intense man occasionally seen in cowboy boots, he is former head of the Defense Advanced Research Projects Agency. M.C.C. recently announced two ambitious projects to develop global information networks for businesses and consumers.</p>
+        <p>Question: What is your biggest challenge?</p>
+        <p>Answer: Mutating scientists and engineers into businessmen and entrepreneurs.</p>
+        <p>Q: Is that your goal?</p>
+        <p>A: That's the process going on now, and it's going really well. Smart people can improve.</p>
+        <p>Q: Does this mean the basic concept of M.C.C. has evolved? The original mandate was for companies to pool research resources and develop technologies, without pressure to contribute immediately to the members' bottom lines. Was the original idea naive, or did the climate change?</p>
+        <p>A: Yes, yes and yes. It's really two issues and it's important to separate them. Time scales are shorter everywhere. Our time scales are longer than most, but everything is compressed. The real issue is more the transfer of the work. The ivory tower has closed its doors for a while, and one has to not only do good work but also attend very directly to getting it commercialized.</p>
+        <p>Q: How?</p>
+        <p>A: It might be by producing prototype products and doing limited-scale production as a means of transfer; or it might be starting companies, as we've done now four times, that mature the technology to the point of being a component, hardware or software, to sell back to our members, or some other scheme. But it's taking on that additional function that requires the mutation.</p>
+        <p>Q: The climate of competition has changed?</p>
+        <p>A: If you put yourself back 10 to 20 years you'd probably see companies competing because they have a unique product. I'm the only one with Polaroid camera, capital P; I'm the only one with a Xerox machine, capital X. That's very rarely true today. Just being a few months ahead in the marketplace with the next generation, or the price is just 10 percent lower, or the quality is and is perceived to be a little higher, or you have just a little more variety in your product mix so that people can get almost exactly what they want by buying yours -- and they have to get less exactly what they want by buying someone else's -- that's what the competition is like today. It's very nonlinear, in mathematical lingo.</p>
+        <p>Q: Next time I'll ask about harpsichords.</p>
+        <p>A: I chose my harpisichord maker because he finishes the inside of the case. It's something that no one will see until they open it 200, 300 years from now. But that's the way he makes them. And that's my kind of guy.</p>
+        <p>CRAIG I. FIELDS</p>
+        <p>Born: July 21, 1946, Mount Vernon, N.Y.  Education: B.S., Massachusetts Institute of Technology; Ph.D., Rockefeller University.  Drives: 1979 Mercedes 240D.  Frequent flier miles: About 500,000.  Ideal escape: Paris.  Current noncomputer reading: Tama Janowitz, "A Cannibal in Manhattan."</p>
+        <p>Hobbies: Baking French pastries, playing  piano and harpsichord.  Typical workday: 8 A.M. to 6 or 7 P.M., weekends too. "I'm on airplanes two or three days a week. My business address is 'aisle seat.' "</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

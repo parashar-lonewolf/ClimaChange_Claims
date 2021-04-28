@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming Research Is Backed</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="381657"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">FEDERAL AID (US)</classifier>
+        <org class="indexing_service">NATIONAL RESEARCH COUNCIL</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Aid (US)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900904T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D9173EF937A3575AC0A966958260" item-length="452" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming Research Is Backed</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, Sept. 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: About $300 million a year in existing Federal energy research money should be diverted to projects that could help fight global warming, a panel of scientists says.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: About $300 million a year in existing Federal energy research money should be diverted to projects that could help fight global warming, a panel of scientists says.</p>
+        <p>Scientists say atmospheric buildups of carbon dioxide, methane, nitrous oxide, chlorofluorocarbons and other gases - mostly from the burning of oil, coal and other fossil fuels - could cause a disastrous warming of the Earth's temperature.</p>
+        <p>The Bush Administration argues that there is still too much scientific uncertainty to warrant expensive steps, such as a proposed worldwide ceiling on carbon dioxide emissions.</p>
+        <p>The research council's Committee on Alternative Energy Research and Development Strategies, led by David L. Morrison of the IIT Research Institute in Chicago, was asked to consider what policy steps should be taken if the Government decides to take action on global warming.</p>
+        <p>Statement by the Secretary</p>
+        <p>The panel said that funds in the Energy Department's current research budget should be shifted to earmark about $300 million a year for projects to improve energy efficiency and encouraging adoption of technology that would cut ''greenhouse'' gas emissions.</p>
+        <p>These steps ''would make sense for other reasons even in the absence of concerns about global climate change,'' the panel said.</p>
+        <p>To get the money, the scientists said the Energy Department could reduce spending on research into fusion power, fossil energy and other projects.</p>
+        <p>Energy Secretary James D. Watkins welcomed the report in a statement, but said the department's current research projects should not be cut.</p>
+        <p>''Although we agree with the priorities highlighted by this study, we believe that these priorities should not be met at the expense of other programs promising substantial, long-term environmental and energy security benefits,'' he said.</p>
+        <p>The committee did not make a precise cost estimate for what it called an insurance strategy for advanced research into renewable energy, conservation, nuclear energy and a range of other new ideas.</p>
+        <p>''These alternative technologies would be developed to the level necessary to understand their costs and impacts if concerns about greenhouse gas emissions and climate change heighten,'' it said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

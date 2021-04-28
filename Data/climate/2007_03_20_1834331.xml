@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Polluters</title>
+    <meta content="l20fossil" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1834331"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070320T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DD1730F933A15750C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Polluters</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Taming Fossil Fuels'' (editorial, March 17):</p>
+        <p>''Forcing people to pay to pollute,'' as you suggest, is an old concept: environmental regulation has extracted penalties for noncompliance from violators for decades.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Taming Fossil Fuels'' (editorial, March 17):</p>
+        <p>''Forcing people to pay to pollute,'' as you suggest, is an old concept: environmental regulation has extracted penalties for noncompliance from violators for decades.</p>
+        <p>Many companies regularly pay fines as merely the cost of doing business. What's finally catching on, though, is the notion that carbon might be considered a pollutant.</p>
+        <p>Yet with the technological world's infrastructure overwhelmingly energized by carbon-based fuels, and vast numbers of people still choosing to doubt that even if climate change is occurring, it may be caused by the additional carbon we load into the atmosphere, those of us who hope that civilization might actually avert calamity would have to be regarded as blissful optimists.</p>
+        <p>H. James Quigley Jr.  Bronx, March 17, 2007</p>
+        <p>The writer is the operations director, the Center for Sustainable Energy, Bronx Community College, CUNY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

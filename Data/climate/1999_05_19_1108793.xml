@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Environmental Literacy</title>
+    <meta content="NOTE2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="Education Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="1108793"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <series series.name="NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <org class="indexing_service">Environmental Literacy Council</org>
+        <person class="indexing_service">Pollak, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5DC103EF93AA25756C0A96F958260" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Environmental Literacy</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL POLLAK</byline>
+      <byline class="normalized_byline">Pollak, Michael</byline>
+      <abstract>
+        <p>Environmental Literacy Council report finds that student awareness of environment, while gaining, is still lacking in most states (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Students are gaining awareness of the environment, reports the Environmental Literacy Council, a nonprofit group, but that does not mean they know very much about it.</p>
+        <p>More than 30 states now require teaching environmental concepts in grade school and high school, the council said in a recent report. But it also complained that environmental studies are often tacked on at the end of science classes; that texts for young children do not engage their curiosity about the natural world, and that texts for older students focus on the politics of the environment rather than the science.</p>
+      </block>
+      <block class="full_text">
+        <p>Students are gaining awareness of the environment, reports the Environmental Literacy Council, a nonprofit group, but that does not mean they know very much about it.</p>
+        <p>More than 30 states now require teaching environmental concepts in grade school and high school, the council said in a recent report. But it also complained that environmental studies are often tacked on at the end of science classes; that texts for young children do not engage their curiosity about the natural world, and that texts for older students focus on the politics of the environment rather than the science.</p>
+        <p>The council cited a study finding that only 35 percent of Wisconsin fifth graders knew that scientists suspect a link between climate change and the use of fossil fuels. The same percentage thought that climate change might be occurring because the Sun is moving closer to the Earth.</p>
+        <p>MICHAEL POLLAK</p>
+        <p>NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

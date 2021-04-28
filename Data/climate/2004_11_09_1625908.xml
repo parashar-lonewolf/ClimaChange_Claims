@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As the Arctic Warms</title>
+    <meta content="09TRAC$01" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1625908"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <location class="indexing_service">Arctic Regions</location>
+        <person class="indexing_service">Marsh, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E0DC103CF93AA35752C1A9629C8B63" item-length="456" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As the Arctic Warms</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <abstract>
+        <p>Impact of Arctic warming on various areas described; photos; maps (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OPENING WATER -- The Arctic Climate Impact Assessment, a study commissioned four years ago by the United States and the seven other countries with Arctic territory, projects that rising global concentrations of heat-trapping emissions will drive up temperatures particularly quickly at high latitudes. Some benefits are predicted. For instance, expanding areas of open water in summer could be a boon to whales and cod stocks. The ice retreat could also create summertime shipping shortcuts between the Atlantic and Pacific and allow oil and gas exploration in previously ice-cloaked waters. But a host of troubles lie ahead as well. The loss of sea ice, for example, could hurt both polar bears and Inuit seal hunters. Details are available on the Web at www.amap.no/acia.</p>
+        <p>ANDREW C. REVKIN</p>
+        <p>A BIG THAW -- The warming of many parts of the Arctic is already reducing the amount of perpetually frozen ground, or permafrost, and that trend will almost certainly continue, creating problems for oil companies, road networks and structures built on a thawing landscape. The frozen season has also been shrinking. The number of days in which oil companies can explore for oil on Alaska's North Slope has been cut in half in 30 years. The ecological impact of the trend is harder to predict. For example, while water may drain from existing tundra lakes through thawed ground, other ponds and lakes may form in thawed spots where the surface sinks, creating more aquatic habitat.</p>
+        <p>FOREST VS. TUNDRA -- In a trend already measured in Arctic portions of Alaska, shrubs and small trees will likely thrive and grow farther north in a warming world, according to the new report. Caught between rising seas on one side and expanding shrub-filled zones to the south, tundra ecosystems around the Arctic (as in eastern Russia, left) will likely shrink to their smallest extent in at least 21,000 years, the scientists concluded. This could reduce breeding areas for many tundra-dwelling bird species and grazing lands for caribou and other mammals.</p>
+        <p>RISING SEAS -- One of the most important consequences of Arctic warming will be increased flows of meltwater and icebergs from glaciers and ice sheets, and thus an accelerated rise in sea levels. The zone of melting on the flanks of Greenland's two-mile-high ice sheet (above) has already grown about 16 percent since 1979, with 2002 setting a record.</p>
+      </block>
+      <block class="full_text">
+        <p>OPENING WATER -- The Arctic Climate Impact Assessment, a study commissioned four years ago by the United States and the seven other countries with Arctic territory, projects that rising global concentrations of heat-trapping emissions will drive up temperatures particularly quickly at high latitudes. Some benefits are predicted. For instance, expanding areas of open water in summer could be a boon to whales and cod stocks. The ice retreat could also create summertime shipping shortcuts between the Atlantic and Pacific and allow oil and gas exploration in previously ice-cloaked waters. But a host of troubles lie ahead as well. The loss of sea ice, for example, could hurt both polar bears and Inuit seal hunters. Details are available on the Web at www.amap.no/acia.</p>
+        <p>ANDREW C. REVKIN</p>
+        <p>A BIG THAW -- The warming of many parts of the Arctic is already reducing the amount of perpetually frozen ground, or permafrost, and that trend will almost certainly continue, creating problems for oil companies, road networks and structures built on a thawing landscape. The frozen season has also been shrinking. The number of days in which oil companies can explore for oil on Alaska's North Slope has been cut in half in 30 years. The ecological impact of the trend is harder to predict. For example, while water may drain from existing tundra lakes through thawed ground, other ponds and lakes may form in thawed spots where the surface sinks, creating more aquatic habitat.</p>
+        <p>FOREST VS. TUNDRA -- In a trend already measured in Arctic portions of Alaska, shrubs and small trees will likely thrive and grow farther north in a warming world, according to the new report. Caught between rising seas on one side and expanding shrub-filled zones to the south, tundra ecosystems around the Arctic (as in eastern Russia, left) will likely shrink to their smallest extent in at least 21,000 years, the scientists concluded. This could reduce breeding areas for many tundra-dwelling bird species and grazing lands for caribou and other mammals.</p>
+        <p>RISING SEAS -- One of the most important consequences of Arctic warming will be increased flows of meltwater and icebergs from glaciers and ice sheets, and thus an accelerated rise in sea levels. The zone of melting on the flanks of Greenland's two-mile-high ice sheet (above) has already grown about 16 percent since 1979, with 2002 setting a record.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

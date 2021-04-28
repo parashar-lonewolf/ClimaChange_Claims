@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fading Foliage</title>
+    <meta content="WEfoliageo5" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/10/23/opinion/nyregionopinions/WEfoliageo5.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1711720"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Westchester"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D8123FF930A15753C1A9639C8B63" item-length="614" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fading Foliage</hl1>
+        <hl2 class="online_headline">Fading Foliage</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As everyone in Westchester and points north has noticed by now, the usual stunning, multihued display of fall foliage is only now beginning to appear, and even then unspectacularly, while in some familiar haunts it has not appeared at all. This has not been good for tourists who base their trips on the expectation of seeing nature at its peacocky best or for the innkeepers and merchants who depend upon those tourists.</p>
+        <p>On the upside, though -- and we do mean upside -- it gives us another reason to think seriously about global warming, its possible consequences and what we might do about it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The usual stunning, multihued display of fall foliage is only now beginning to appear, and even then unspectacularly.</p>
+      </block>
+      <block class="full_text">
+        <p>As everyone in Westchester and points north has noticed by now, the usual stunning, multihued display of fall foliage is only now beginning to appear, and even then unspectacularly, while in some familiar haunts it has not appeared at all. This has not been good for tourists who base their trips on the expectation of seeing nature at its peacocky best or for the innkeepers and merchants who depend upon those tourists.</p>
+        <p>On the upside, though -- and we do mean upside -- it gives us another reason to think seriously about global warming, its possible consequences and what we might do about it.</p>
+        <p>Barrett Rock, who keeps track of these things as a professor and researcher of natural systems in New Hampshire, told The Times last week that ''we haven't had a really great display in the last 10 years.'' And while there are year-to-year variations, he says there is reason to worry that the gradual warming of the earth's atmosphere has been among the primary culprits. In a 2001 report, Dr. Rock and fellow researchers found that New York's average temperature had increased by 1 degree over the last century.</p>
+        <p>This may seem like a tiny increase, but it is enough to disturb nature's delicate balance, leading to warmer autumns, less rainfall and, most important, a delay in the nippy early frosts that degrade chlorophyll and cause leaves to change color. The phenomenon has been particularly pronounced this year. The average August temperature in New York was nearly four degrees higher than the average since 1895, and September was unusually warm and dry as well.</p>
+        <p>Mainstream scientists do not see much letup in the years ahead as carbon dioxide -- a product of burning fossil fuels like coal and oil -- continues to build up in the atmosphere, creating what amounts to a greenhouse effect that raises atmospheric temperatures. Although the Bush administration has disputed the science of global warming, most reputable models predict a further increase of two to six degrees over the next century.</p>
+        <p>These same scientists also predict that warmer weather will alter entire ecosystems, meaning a more northerly breeding range for many bird species, reduced habitat for brook trout and other cold-water fish, and the complete disappearance of some trees -- for instance, sugar maples (all this in addition to rising sea levels, deteriorating coral reefs, more intense hurricanes, drought and so on). To this list we may now add diminished fall foliage.</p>
+        <p>Fortunately, there are tools to help reduce the damage. Gov. George Pataki of New York, among other leaders in the Northeast, has proposed various measures to reduce carbon dioxide emissions. These include cleaner power plants, more fuel-efficient cars, a mandatory cap on industrial emissions along with a regionwide trading system to help lower the costs of compliance, and greater use of alternative forms of energy. Mr. Pataki has pledged to make energy a major focus of concern.</p>
+        <p>Would that the federal government -- the White House and Congress -- showed such concern. One reason it does not, of course, is that the public itself has yet to make the kind of noise on the issue that absolutely demands presidential and Congressional attention. Polls showing that a substantial majority of Americans regard global warming as a serious problem also show that many Americans regard it as too complicated to deal with and too remote from everyday concerns. So they shrug.</p>
+        <p>Added to all the other disturbing signs of change, the disappearance of the annual October spectacular -- the ''month of painted leaves,'' Thoreau called it -- may yet shake that complacency.</p>
+        <p>Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

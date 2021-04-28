@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Doubts Ease on Protecting Ozone</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="661375"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">HYDROFLUORCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFD91531F932A25752C0A962958260" item-length="608" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Doubts Ease on Protecting Ozone</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM W. BROWNE</byline>
+      <byline class="normalized_byline">BROWNE, MALCOLM W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A TEAM of atmospheric scientists has concluded from experiments and theoretical calculations that doubts about the ozone-friendliness of a group of compounds being substituted for ozone-destroying chlorofluorocarbon refrigerants are probably groundless.</p>
+        <p>The substitute compounds, called hydrofluorocarbons, or HFC's, have begun to replace chlorofluorocarbon refrigerants in some new air-conditioners and refrigerators. Although HFC refrigerants do not work as well as the CFC refrigerants they are replacing, HFC's are generally regarded as harmless to atmospheric ozone. Substitutes for CFC's</p>
+        <p>But doubts about the effects of hydrofluorocarbons on the ozone layer arose last March, when scientists at the University of Dublin suggested in a paper that molecular groups consisting of one carbon and three fluorine atoms -- groups formed by certain chemical processes involving HFC's -- might act as catalysts in destroying ozone.</p>
+      </block>
+      <block class="full_text">
+        <p>A TEAM of atmospheric scientists has concluded from experiments and theoretical calculations that doubts about the ozone-friendliness of a group of compounds being substituted for ozone-destroying chlorofluorocarbon refrigerants are probably groundless.</p>
+        <p>The substitute compounds, called hydrofluorocarbons, or HFC's, have begun to replace chlorofluorocarbon refrigerants in some new air-conditioners and refrigerators. Although HFC refrigerants do not work as well as the CFC refrigerants they are replacing, HFC's are generally regarded as harmless to atmospheric ozone. Substitutes for CFC's</p>
+        <p>But doubts about the effects of hydrofluorocarbons on the ozone layer arose last March, when scientists at the University of Dublin suggested in a paper that molecular groups consisting of one carbon and three fluorine atoms -- groups formed by certain chemical processes involving HFC's -- might act as catalysts in destroying ozone.</p>
+        <p>Because ozone in the upper atmosphere shields the surface of the earth from dangerous ultraviolet radiation, there is concern that the progressive thinning of the ozone layer detected in recent years is a health hazard. Scientists have determined that the main reason for this thinning is the long-term pollution of the upper atmosphere by chlorofluorocarbons, which have been released during the last half century from products like aerosol spray propellants, plastic foaming agents, refrigerant fluids and cleaning fluids.</p>
+        <p>Under international agreements and Government directives, the production and use of CFC's are being rapidly phased out. In the United States, production of CFC's and some other ozone-depleting chemicals is supposed to end by 1995. Manufacturers of equipment and chemicals are therefore rushing to develop adequate substitute systems.</p>
+        <p>Some of these systems depend on replacing CFC's with hydrofluorocarbons, which are molecules containing hydrogen, fluorine and carbon atoms, but no chlorine atoms. When the Dublin group reported its suspicion that these compounds also had ozone depleting potential, alarms sounded.</p>
+        <p>But in a paper published in the current issue of the journal Science, investigators from the National Oceanic and Atmospheric Administration and the University of Colorado at Boulder said they had found no evidence that hydrofluorocarbons could cause atmospheric ozone depletion. Their conclusion was based on laboratory tests using a pulsed laser and a chemical reactor, as well as theoretical calculations.</p>
+        <p>The practical meaning of this conclusion is not clear, however, because it is difficult to predict how important the hydrofluorocarbon compounds may be to future technology.</p>
+        <p>E. I. du Pont de Nemours &amp; Company, a major manufacturer of CFC's and their substitutes, says that HFC's may play only a minor role in replacing CFC's. When the phasing out of CFC's is completed some time in the next century, a Du Pont spokesman said, 48 percent of the CFC substitution will involve refrigeration systems that do not use any of the refrigerants in common use today. New systems might use ammonia, sulfur dioxide, carbon dioxide or other gases as refrigerants, or could embody completely different principles like evaporative cooling.</p>
+        <p>Du Pont estimates that another 26 percent of the CFC replacement will result from conservation measures, 15 percent will involve substitution by HFC's and 11 percent will be accounted for by a class of compounds called hydrochlorofluorocarbons. These HCFC's, as they are known, contain chlorine and therefore pose some threat to the ozone layer, but they break down more rapidly than CFC's in the lower atmosphere.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

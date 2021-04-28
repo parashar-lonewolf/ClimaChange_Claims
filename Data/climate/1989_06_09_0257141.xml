@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Head of Panel Releases Data on Toxic Risks</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="257141"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CANCER</classifier>
+        <classifier class="indexing_service" type="descriptor">HAZARDOUS AND TOXIC SUBSTANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">INDUSTRIAL AND OCCUPATIONAL HAZARDS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHEMICALS</classifier>
+        <person class="indexing_service">WAXMAN, HENRY A (REPR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5D6173EF93AA35755C0A96F948260" item-length="386" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Head of Panel Releases Data on Toxic Risks</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, June 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The chairman of a House committee distributed Federal data today identifying 205 industrial plants as increasing cancer risks through the release of airborne toxic chemicals. The Environmental Protection Agency quickly disputed his interpretations.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The chairman of a House committee distributed Federal data today identifying 205 industrial plants as increasing cancer risks through the release of airborne toxic chemicals. The Environmental Protection Agency quickly disputed his interpretations.</p>
+        <p>The chairman of a House committee distributed Federal data today identifying 205 industrial plants as increasing cancer risks through the release of airborne toxic chemicals. The Environmental Protection Agency quickly disputed his interpretations.</p>
+        <p>A spokesman for the Federal agency said the information was old and incomplete, and said that it was ''highly irresponsible'' to use it as ''reflective of risks in the real world.''</p>
+        <p>But the Congressman, Henry A. Waxman, chairman of the House Energy and Commerce environment subcommittee, said that even potentially inaccurate figures should be made public because they ''indicate the enormity of the problem'' and represent a ''stunning demonstration of the urgency of the public health threat.''</p>
+        <p>''It's public information,'' Representative Guy V. Molinari, Republican of Staten Island, said at the news conference, defending the release of the data. Plan to Introduce Legislation</p>
+        <p>''The public has a right to know,'' Representative Mickey Leland, Democrat of Texas, argued.</p>
+        <p>Mr. Leland, Mr. Molinari, Mr. Waxman and Representative Gerry Sikorski, Democrat of Minnesota, combined the releasing of the figures with an announcement that they had introduced legislation to control releases of airborne toxic chemical.</p>
+        <p>The bill would limit emissions from industrial sources and motor vehicles, seek to prevent accidental releases, protect the Great Lakes from further damage by pollutants and control emissions from small businesses. Mr. Waxman plans to incorporate the legislation into a comprehensive clean-air bill that will also deal with urban pollution and acid rain.</p>
+        <p>The Bush Administration is expected to introduce its own clean-air proposals next week.</p>
+        <p>A spokesman for the environmental agency, David Cohen, said the figures on the individual sites were compiled to develop computer models to compare health risks from one plant to another. He said the figures were never used to reflect risks in the real world and any suggestion that those data reflect such risks was ''entirely erroneous'' and ''highly irresponsible.''</p>
+        <p>The Chemical Manufacturers Association said, ''To imply that these estimates depict the real risks of living near one of the plants is not just exaggeration but an outright misuse of data to deliberately alarm people.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

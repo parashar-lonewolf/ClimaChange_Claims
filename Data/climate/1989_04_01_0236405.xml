@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW FUSION GAIN REPORTED IN U.S.</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="236405"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">FUSION (NUCLEAR REACTION)</classifier>
+        <org class="indexing_service">BRIGHAM YOUNG UNIVERSITY</org>
+        <person class="indexing_service">JONES, STEVEN (DR)</person>
+        <person class="indexing_service">SULLIVAN, WALTER</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fusion (Nuclear Reaction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DA143FF932A35757C0A96F948260" item-length="611" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW FUSION GAIN REPORTED IN U.S.</hl1>
+      </hedline>
+      <byline class="print_byline">By WALTER SULLIVAN</byline>
+      <byline class="normalized_byline">SULLIVAN, WALTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Scientists at Brigham Young University in Provo, Utah, have fused heavy forms of hydrogen into helium at room temperature, one of the researchers said yesterday. The achievement could eventually lead to new power sources.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Scientists at Brigham Young University in Provo, Utah, have fused heavy forms of hydrogen into helium at room temperature, one of the researchers said yesterday. The achievement could eventually lead to new power sources.</p>
+        <p>Scientists at Brigham Young University in Provo, Utah, have fused heavy forms of hydrogen into helium at room temperature, one of the researchers said yesterday. The achievement could eventually lead to new power sources.</p>
+        <p>But the reaction occurred at the rate of only 200 fusions an hour, far too slow to be a practical energy source, said the researcher, Dr. Steven Jones.</p>
+        <p>While the production rate is low, the long-term propects are good, Dr. Jones told a conference at Columbia University. ''If you can do it, you can do it better,'' he said. But he added that it might be ''many years'' before the process produces useful energy.</p>
+        <p>Dr. Jones's remarks followed a claim of controlled fusion this week by two chemists. Those findings have been greeted with skepticism, however.</p>
+        <p>The method used by the Brigham Young researchers is called ''piezoelectric fusion'' in which a heavy form of hydrogen is electrically infused into titanium or palladium. There it is compressed sufficiently to sometimes achieve fusion. Fission and Fusion</p>
+        <p>Unlike fission, in which atoms are split, fusion forces atomic nuclei together to release energy. Fission is the power source in conventional nuclear plants; fusion powers the hydrogen bomb.</p>
+        <p>Scientists have long sought ways to control fusion, which could have numerous advantages as a power source. It produces few waste products and it is fueled by deuterium, a form of hydrogen that can be extracted from seawater. Unlike the burning of fossil fuel, it does not create carbon dioxide and a resultant warming of the Earth that scientists call the greenhouse effect.</p>
+        <p>Most researchers in the United States, the Soviet Union and elsewhere have assumed that controlled fusion could be achieved only with hydrogen heated to near the temperature of the sun.</p>
+        <p>That fusion under less extreme conditions might be possible was suggested, Dr. Jones said, by the remarkable amount of helium 3, one of the forms of helium that occurs in nature, emanating through parts of the ocean floor. He suspected that it might be the product of naturally occurring fusion deep in the Earth. Soviet scientists, he pointed out, also suggested in 1978 that fusion may occur in certain metals. Earlier Claim on Fusion</p>
+        <p>Last week two chemists, one at the University of Utah in Salt Lake City and the other at the University of Southampton in England, reported deuterium nuclei being fused after they had become compressed inside in a palladium bar.</p>
+        <p>While fusion at or close to room temperature would revolutionize energy production, the manner of the announcement produced widespread skepticism. It was made by Dr. Martin Fleischman of the University of Southampton and Dr. Stanley Pons of the University of Utah.</p>
+        <p>Skeptics noted that the announcement was made at a press conference and details of the process have never been published, whereas Dr. Jones's earlier work is well known.</p>
+        <p>Since 1979 Dr. Jones quietly tried, with financial support from the Department of Energy, to achieve cold fusion. He worked on it at the Idaho National Engineering Laboratory before moving to Brigham Young University. His early efforts depended on using muons, which are heavy, short-lived versions of the electron.</p>
+        <p>He replaced the electrons in deuterium atoms with muons, heavier, short-lived particles. Theorists had suggested that if the electron orbiting a deuterium atom was replaced by a muon, the muon would circle the atom at such close range that the atomic nuclei might fuse.</p>
+        <p>Production of the muons was costly, and their lifetimes of two millionths of a second was so short that chain reactions of a substantial number were deemed doubtful.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

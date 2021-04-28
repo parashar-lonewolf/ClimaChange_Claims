@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Regulators Consider 50-State Technology</title>
+    <meta content="27DIESEL" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/27/automobiles/27DIESEL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1750079"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel</classifier>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Environmental Protection Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E2DB1430F934A15750C0A9609C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Regulators Consider 50-State Technology</hl1>
+        <hl2 class="online_headline">Regulators Consider 50-State Technology</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <abstract>
+        <p>Matthew L Wald Autos On Monday/Technology column discusses method of treating exhaust gases, which could bring more diesel cars to market (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DESPITE their fuel economy advantage and a core of loyal customers, no new diesel cars can be sold in states that have adopted California's stringent emissions rules. Whether a car could one day meet those standards may depend on the Environmental Protection Agency's approval for a method of treating exhaust gases that is now used at coal-fired generating plants.</p>
+        <p>The technology, selective catalytic reduction, cuts nitrogen oxides, which contribute to smog and acid rain. A chemical called urea is sprayed into the exhaust ahead of a catalyst, helping to convert nitrogen oxides to nitrogen molecules (a nonreactive gas that makes up about 80 percent of the earth's atmosphere) and water.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>DESPITE their fuel economy advantage and a core of loyal customers, no new diesel cars can be sold in states that have adopted California's stringent emissions rules. Whether a car could one day meet those standards may depend on the Environmental Protection Agency's approval for a method of treating exhaust gases that is now used at coal-fired generating plants.</p>
+      </block>
+      <block class="full_text">
+        <p>DESPITE their fuel economy advantage and a core of loyal customers, no new diesel cars can be sold in states that have adopted California's stringent emissions rules. Whether a car could one day meet those standards may depend on the Environmental Protection Agency's approval for a method of treating exhaust gases that is now used at coal-fired generating plants.</p>
+        <p>The technology, selective catalytic reduction, cuts nitrogen oxides, which contribute to smog and acid rain. A chemical called urea is sprayed into the exhaust ahead of a catalyst, helping to convert nitrogen oxides to nitrogen molecules (a nonreactive gas that makes up about 80 percent of the earth's atmosphere) and water.</p>
+        <p>DaimlerChrysler uses the technology for trucks in Europe and would like to bring it here for the 2009 model year. But environmental regulators have not signed off on the concept: the agency requires pollution control equipment to function as a ''black box,'' with no maintenance or replenishment required for 120,000 miles, something the urea supply would need.</p>
+        <p>The DaimlerChrysler system, known as Bluetec, includes a tank that holds five to seven gallons of urea, with refills needed at intervals of 12,000 to 15,000 miles. ''Most of this will get done in oil changes,'' said Simon N. Godwin, the company's manager of regulatory affairs in Washington.</p>
+        <p>But Michael D. Jackson, senior director of Tiax, a consulting firm in Cupertino, Calif., said: ''The E.P.A. kind of looks squinty-eyed at this. This isn't like any normal piece of emissions control equipment that they put on a vehicle and forget about.''</p>
+        <p>A more immediate challenge involves a simpler, 45-state form of Bluetec that Mercedes-Benz plans to introduce this fall in its E320 sedan. This system requires low-sulfur diesel fuel, which is not yet available, though federal regulations require that it be available at pumps by Oct. 15. The added cost is expected to be between a penny and 20 cents a gallon, with most estimates coming in at less than 7 cents.</p>
+        <p>MATTHEW L. WALD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

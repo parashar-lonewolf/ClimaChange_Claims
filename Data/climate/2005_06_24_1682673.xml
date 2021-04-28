@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Energy Debate Closed</title>
+    <meta content="MB015533" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1682673"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEED71F3BF937A15755C0A9639C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Energy Debate Closed</hl1>
+      </hedline>
+      <byline class="print_byline">By David D. Kirkpatrick (NYT)</byline>
+      <abstract>
+        <p>Senate votes to close debate on its energy bill; vote is expected on June 28; Senate version includes requirements for utilities to use more alternative sources of energy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Senate voted to close debate on its energy bill, and leadership aides said they now expected the Senate to vote Tuesday on the legislation. The measure would then head to a conference for reconciliation with the sharply different version passed by the House. The Senate version includes requirements for utilities to use more alternative sources of energy as well as greater subsidies and tax breaks to encourage use of alternative fuels, renewable resources, and energy-efficient cars and appliances. It also includes calls for voluntary reductions in emissions that scientists blame for global climate changes and subsidies for new technology to decrease pollution. The House version includes far more tax breaks for traditional fossil fuels and electric utilities as well as $2 billion to support deep-water drilling for oil. The House also approved a plan to provide makers of the gasoline additive MTBE with some protection from product liability suits arising out of water pollution. Senate opposition to that idea helped derail previous energy bills.</p>
+        <p>David D. Kirkpatrick (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The Senate voted to close debate on its energy bill, and leadership aides said they now expected the Senate to vote Tuesday on the legislation. The measure would then head to a conference for reconciliation with the sharply different version passed by the House. The Senate version includes requirements for utilities to use more alternative sources of energy as well as greater subsidies and tax breaks to encourage use of alternative fuels, renewable resources, and energy-efficient cars and appliances. It also includes calls for voluntary reductions in emissions that scientists blame for global climate changes and subsidies for new technology to decrease pollution. The House version includes far more tax breaks for traditional fossil fuels and electric utilities as well as $2 billion to support deep-water drilling for oil. The House also approved a plan to provide makers of the gasoline additive MTBE with some protection from product liability suits arising out of water pollution. Senate opposition to that idea helped derail previous energy bills.</p>
+        <p>David D. Kirkpatrick (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

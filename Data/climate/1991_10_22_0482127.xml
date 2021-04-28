@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Researchers Report Depletion of Ozone In Temperate Zones</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="482127"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DD123EF931A15753C1A967958260" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Researchers Report Depletion of Ozone In Temperate Zones</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An international panel of scientists will report today that for the first time, instruments have detected significant decreases in the earth's protective ozone layer in spring and summer over the temperate zones of the Northern and Southern Hemispheres.</p>
+        <p>The ozone layer protects living things from the Sun's harmful ultraviolet rays and increases in the radiation will cause more cases of skin cancer and cataracts, scientists have warned. They also fear the radiation could disrupt oceanic food chains and harm some crops. While not unexpected, the decreases are alarming because sunlight, particularly ultraviolet radiation, is strongest in spring and summer.</p>
+      </block>
+      <block class="full_text">
+        <p>An international panel of scientists will report today that for the first time, instruments have detected significant decreases in the earth's protective ozone layer in spring and summer over the temperate zones of the Northern and Southern Hemispheres.</p>
+        <p>The ozone layer protects living things from the Sun's harmful ultraviolet rays and increases in the radiation will cause more cases of skin cancer and cataracts, scientists have warned. They also fear the radiation could disrupt oceanic food chains and harm some crops. While not unexpected, the decreases are alarming because sunlight, particularly ultraviolet radiation, is strongest in spring and summer.</p>
+        <p>The data were gathered by the International Ozone Trends Assessment Panel, a group of scientists organized by the United Nations Environmental Program.</p>
+        <p>In a report to be issued today, the panel said that satellite measurements showed that from the 1979 to 1991 spring and summer ozone levels had decreased by about 6.2 percent in the Southern Hemisphere's middle latitudes and about 2.9 percent in those of the Northern Hemisphere.</p>
+        <p>The United States Environmental Protection Agency announced in April that satellite measurements had shown decreases of 4.5 percent to 5 percent in fall, winter and early spring over the past decade.</p>
+        <p>In its report, the panel suggested that efforts already taken to curtail ozone loss would not be adequate. In 1987, representatives from 57 nations met in Montreal and adopted a treaty calling for reductions in the use of ozone-depleting chemicals and amended the agreement, with stricter controls, in a meeting in London in June 1990.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

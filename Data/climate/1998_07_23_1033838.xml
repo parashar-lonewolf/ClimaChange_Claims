@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Can Bioengineers Feed the Planet?</title>
+    <meta content="LTR003020" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1033838"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetic Engineering</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Agriculture</classifier>
+        <location class="indexing_service">Europe</location>
+        <location class="indexing_service">European Union</location>
+        <person class="indexing_service">Ancelet, Lionel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DD1539F930A15754C0A96E958260" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Can Bioengineers Feed the Planet?</hl1>
+      </hedline>
+      <abstract>
+        <p>Lionel Ancelet letter says Europeans are right to reject genetically modified foods until they are proven safe (July 20 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Europe's decision to block genetically modified food is a lesson in democracy (front page, July 20). Indeed, even though experts and corporations claim that such food is harmless, the public perception is that this may not be true.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Europe's decision to block genetically modified food is a lesson in democracy (front page, July 20). Indeed, even though experts and corporations claim that such food is harmless, the public perception is that this may not be true.</p>
+        <p>There are unfortunate precedents: when chlorofluorocarbons, or CFC's, were discovered in the 1940's and became widely used in refrigerators and air conditioners, the scientific consensus was that these molecules were harmless; it was only a few decades later that their destructive effect on the earth's ozone layer was  discovered. Until the indisputable proof is brought that genetically modified food has only benefits, Europeans are right to err on the safe side.</p>
+        <p>LIONEL ANCELET  Houston, July 20, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The View From Wilkes-Barre</title>
+    <meta content="LTR010010" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1273572"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <person class="indexing_service">Cohen, Chuck</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E3DF1139F936A15751C0A9679C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The View From Wilkes-Barre</hl1>
+      </hedline>
+      <abstract>
+        <p>Chuck Cohen letter concerns Feb 4 article on US economy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''How to Fix the Economy Without Even Touching It'' (On the Contrary, Feb. 4), Daniel Akst discussed energy policy, among other issues. He said that ''sacrificing the environment for more cheap oil won't seem like such a good idea when the greenhouse effect turns Wilkes-Barre, Pa., into oceanfront property.'' As a resident of northeastern Pennsylvania, I ask: So, do you see something wrong with that?</p>
+        <p>CHUCK COHEN  Wilkes-Barre, Pa., Feb. 5</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''How to Fix the Economy Without Even Touching It'' (On the Contrary, Feb. 4), Daniel Akst discussed energy policy, among other issues. He said that ''sacrificing the environment for more cheap oil won't seem like such a good idea when the greenhouse effect turns Wilkes-Barre, Pa., into oceanfront property.'' As a resident of northeastern Pennsylvania, I ask: So, do you see something wrong with that?</p>
+        <p>CHUCK COHEN  Wilkes-Barre, Pa., Feb. 5</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

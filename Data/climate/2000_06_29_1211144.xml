@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Red Cross Says Three Diseases Kill Many More Than Disasters</title>
+    <meta content="Y29CRO$02" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211144"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="indexing_service" type="descriptor">Malaria</classifier>
+        <classifier class="indexing_service" type="descriptor">Tuberculosis</classifier>
+        <org class="indexing_service">Red Cross</org>
+        <person class="indexing_service">Olson, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Tuberculosis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Malaria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tuberculosis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Malaria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E6DB1E30F93AA15755C0A9669C8B63" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Red Cross Says Three Diseases Kill Many More Than Disasters</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+      <dateline>GENEVA, June 28</dateline>
+      <abstract>
+        <p>Report issued by Red Cross says even though natural disasters receive most prominent news coverage, infectious diseases are claiming far more lives; says deaths from diseases such as AIDS, tuberculosis and malaria in 1999 were 160 times greater than those from natural disasters (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Although earthquakes and floods usually receive the most prominent news coverage, infectious diseases are claiming far more lives than natural disasters, according to a report made public today by the Red Cross.</p>
+        <p>The death toll last year from infectious diseases like AIDS, tuberculosis and malaria is 160 times greater than the number of people killed in last year's earthquakes in Turkey, cyclones in India and floods in Venezuela, said the International Federation of Red Cross and Red Crescent Societies, which assists countries suffering natural disasters.</p>
+      </block>
+      <block class="full_text">
+        <p>Although earthquakes and floods usually receive the most prominent news coverage, infectious diseases are claiming far more lives than natural disasters, according to a report made public today by the Red Cross.</p>
+        <p>The death toll last year from infectious diseases like AIDS, tuberculosis and malaria is 160 times greater than the number of people killed in last year's earthquakes in Turkey, cyclones in India and floods in Venezuela, said the International Federation of Red Cross and Red Crescent Societies, which assists countries suffering natural disasters.</p>
+        <p>An estimated 150 million people have died from those three diseases alone since 1945 compared with 23 million in wars during the same period, according to the federation's ''World Disasters Report.''</p>
+        <p>The report's findings have caused the federation to re-examine its work, according to its author, Peter Walker, head of disaster policy. ''Everywhere we do disaster relief, we found the disaster was built on the shaky bedrock of poor public health,'' he said.</p>
+        <p>The Red Cross said that such aid is needed to combat increasing health risks that result from climate change, growing urbanization and environmental damage. Yet governments are lagging behind on preventive health care. ''There has been a real change in the last 10 years. In almost every country, there is a facade of a health system, but away from the city centers, there is nothing,'' Mr. Walker said.</p>
+        <p>The report said this problem enables diseases once under control to escalate -- like malaria has in Azerbaijan and Tajikistan. Last year, 13 million people died from such diseases, which the report said could have been prevented by spending as little as $5 per person in health care.</p>
+        <p>According to the report, public spending on health in poorer countries averages only 1 percent of gross domestic product, compared with the 6 percent that wealthier countries spend.</p>
+        <p>The report's authors said that money spent on changing people's behavior saves more lives than money for expensive facilities like hospitals and high-tech equipment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

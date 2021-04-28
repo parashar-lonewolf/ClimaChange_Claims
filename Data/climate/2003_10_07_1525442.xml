@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Science And Health: Tests Find Smog-Forming Gases In 3 States</title>
+    <meta content="MB005830" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1525442"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Refineries</classifier>
+        <classifier class="indexing_service" type="descriptor">Smog</classifier>
+        <location class="indexing_service">Texas</location>
+        <location class="indexing_service">Kansas</location>
+        <location class="indexing_service">Oklahoma</location>
+        <org class="indexing_service">University of California (Irvine)</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oklahoma</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Kansas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smog</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031007T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E6DF113CF934A35753C1A9659C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Science And Health: Tests Find Smog-Forming Gases In 3 States</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew C. Revkin (NYT)</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Tests by University of California at Irvine show broad region across Texas, Oklahoma and southwestern Kansas with high levels of gases that cause smog, which scientists say is released by oil and natural gas refineries (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Testing a broad region across Texas, Oklahoma and southwestern Kansas, scientists have measured high levels of gases that react with sunlight to create smog. In many spots, concentrations of the gases exceeded levels typical of cities like Los Angeles, Houston and New York. In this week's online edition of the Proceedings of the National Academy of Sciences, the researchers, from the University of California at Irvine, said the gases, including methane, butane and propane, were released by oil and natural gas refineries. The researchers estimated that several million tons of methane were released this way each year. Besides contributing to smog, methane is a heat-trapping gas linked to global warming.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Testing a broad region across Texas, Oklahoma and southwestern Kansas, scientists have measured high levels of gases that react with sunlight to create smog. In many spots, concentrations of the gases exceeded levels typical of cities like Los Angeles, Houston and New York. In this week's online edition of the Proceedings of the National Academy of Sciences, the researchers, from the University of California at Irvine, said the gases, including methane, butane and propane, were released by oil and natural gas refineries. The researchers estimated that several million tons of methane were released this way each year. Besides contributing to smog, methane is a heat-trapping gas linked to global warming.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

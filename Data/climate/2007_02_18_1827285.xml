@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Long Island Rail Road Has a Ways to Go</title>
+    <meta content="l18island-1" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1827285"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Commuting</classifier>
+        <org class="indexing_service">Metropolitan Transportation Authority</org>
+        <org class="indexing_service">Long Island Rail Road Co</org>
+        <person class="indexing_service">Schwarting, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Commuting</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE6DC153EF93BA25751C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Long Island Rail Road Has a Ways to Go</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Schwarting letter on February 4 editorial on Metropolitan Tranportation Authority's latest proposals, including extending electrification of Long Island Rail Road</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Feb. 4 editorial ''The Right Track'' describes the Metropolitan Transportation Authority as ''bursting with proposals,'' and mentions the Long Island Rail Road's plan to extend electrification and add a third track in western Nassau County.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Feb. 4 editorial ''The Right Track'' describes the Metropolitan Transportation Authority as ''bursting with proposals,'' and mentions the Long Island Rail Road's plan to extend electrification and add a third track in western Nassau County.</p>
+        <p>It seems that the decision a decade ago to extend the electrification to Ronkonkoma, thereby reducing commuting time, caused another problem. By not electrifying all three lines, commuters are driving further to stations on the Ronkonkoma line rather than to their nearer, slower line, and Suffolk County is becoming more congested and polluted because of it.</p>
+        <p>More than 6,000 commuters travel to and from the Ronkonkoma station alone. It is astonishing that 40 years ago it took two hours to go the 60 or so miles from Port Jefferson to New York City and today it takes the same two hours.</p>
+        <p>Until the commuter situation, which has a preference for and reliance on the automobile, is changed, the problem of adding to global warming and the decreasing quality of life on Long Island will continue.</p>
+        <p>Michael Schwarting  Port Jefferson</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

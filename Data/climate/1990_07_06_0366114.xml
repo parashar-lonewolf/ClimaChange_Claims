@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ozone Action by Japan</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="366114"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4DC1F3AF935A35754C0A966958260" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ozone Action by Japan</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>TOKYO, July 5</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Ministry of International Trade and Industry said on Wednesday that it was increasing financial help to industries that must limit the use of substances that damage the earth's ozone layer. Ozone-depleting chlorofluorocarbons are to be phased out by the year 2000 and methyl chloroform by 2005 under an international agreement known as the Montreal Protocol.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Ministry of International Trade and Industry said on Wednesday that it was increasing financial help to industries that must limit the use of substances that damage the earth's ozone layer. Ozone-depleting chlorofluorocarbons are to be phased out by the year 2000 and methyl chloroform by 2005 under an international agreement known as the Montreal Protocol.</p>
+        <p>The Ministry of International Trade and Industry said on Wednesday that it was increasing financial help to industries that must limit the use of substances that damage the earth's ozone layer. Ozone-depleting chlorofluorocarbons are to be phased out by the year 2000 and methyl chloroform by 2005 under an international agreement known as the Montreal Protocol. To meet these deadlines, the ministry will provide low-interest loans and tax incentives to companies that make efforts to recycle and re-use the substances, a ministry official said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clean Energy Project</title>
+    <meta content="l05energy" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1766951"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Coal</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <person class="indexing_service">Jarrett, Jeffrey D (Asst Sec)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E7DE1431F936A35755C0A9609C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clean Energy Project</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Jeffrey D Jarrett, Assistant Secretary for Fossil Energy, Department of Energy, explains how FutureGen project will help world standardize technology and protocols for safe and long-term storage of carbon dioxide (May 28 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''2 Industry Leaders Bet on Coal but Split on Cleaner Approach'' (''The Energy Challenge'' series, front page, May 28):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''2 Industry Leaders Bet on Coal but Split on Cleaner Approach'' (''The Energy Challenge'' series, front page, May 28):</p>
+        <p>FutureGen is an initiative to build the world's first integrated sequestration and hydrogen production research power plant.</p>
+        <p>Contrary to assertions in your article, the FutureGen project is being pursued aggressively and is on schedule.</p>
+        <p>The $1 billion project will be the cleanest fossil fuel-fired power plant in the world, establishing the technical and economic feasibility of producing electricity and hydrogen from coal, while capturing and permanently storing the carbon dioxide generated in the process.</p>
+        <p>FutureGen has the broad support of major utilities, coal companies and governments throughout the world.</p>
+        <p>It will help the world standardize the technology and protocols for safe, successful and long-term storage of carbon dioxide.</p>
+        <p>FutureGen is an important part of the global solution to our energy challenges. It represents transformational technology that offers a real solution that is within our reach.</p>
+        <p>Jeffrey D. Jarrett  Asst. Secretary for Fossil Energy  Department of Energy  Washington, June 1, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

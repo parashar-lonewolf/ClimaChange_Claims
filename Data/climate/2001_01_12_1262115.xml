@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming Dispute</title>
+    <meta content="L12WAR$04" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/12/opinion/L12WAR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1262115"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <person class="indexing_service">Peterson, John E (Repr)</person>
+        <person class="indexing_service">Mckibben, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5D81F3AF931A25752C0A9679C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming Dispute</hl1>
+      </hedline>
+      <abstract>
+        <p>Repr John E Peterson letter rebuts Bill McKibben's arguments (Jan 5 Op-Ed) for major cuts in fossil fuels to reduce carbon dioxide emissions; says there is no reliable evidence for catastrophic global warming from fossil-fuel use</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Too Hot to Handle'' (Op-Ed, Jan. 5), Bill McKibben argues for major cuts in fossil fuel use to reduce carbon dioxide emissions, ostensibly to reduce global warming. His fear arises from a new computer model that assumes that carbon will be released from forests as the air warms. But analysis of data from 82 sites over five continents by plant experts at the University of Edinburgh undercuts that assumption. These researchers expect the forests to absorb more carbon if the air warms.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Too Hot to Handle'' (Op-Ed, Jan. 5), Bill McKibben argues for major cuts in fossil fuel use to reduce carbon dioxide emissions, ostensibly to reduce global warming. His fear arises from a new computer model that assumes that carbon will be released from forests as the air warms. But analysis of data from 82 sites over five continents by plant experts at the University of Edinburgh undercuts that assumption. These researchers expect the forests to absorb more carbon if the air warms.</p>
+        <p>There is no reliable evidence for catastrophic global warming from fossil-fuel use. Drastic cuts in America's energy would be destructive to our economy, and those of developing countries that rely on America for global stability and free trade.</p>
+        <p>JOHN E. PETERSON  Member of Congress, 5th Dist., Pa.  Washington, Jan. 8, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="07laugh" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1759993"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DEFDA1F3FF934A35756C0A9609C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>On Capitol Hill, the head of Exxon met with the Republican speaker of the House, Dennis Hastert. It was a big day for the speaker. You always want to be on your best behavior when the boss shows up.</p>
+        <p>A Harvard University sophomore had her novel pulled and her book deal canceled because readers kept finding incidents of plagiarism in the novel. Today, she released a statement: ''It was the best of times, it was the worst of times.''</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>On Capitol Hill, the head of Exxon met with the Republican speaker of the House, Dennis Hastert. It was a big day for the speaker. You always want to be on your best behavior when the boss shows up.</p>
+        <p>A Harvard University sophomore had her novel pulled and her book deal canceled because readers kept finding incidents of plagiarism in the novel. Today, she released a statement: ''It was the best of times, it was the worst of times.''</p>
+        <p>Today, President Bush said global warming is happening much quicker than he thought, but then his staff pulled him aside and told him ''it's just springtime.''</p>
+        <p>David Letterman</p>
+        <p>Unbelievable day, isn't it? It's so beautiful today in New York City, here's what I did: I pretended I was an immigrant and took the day off.</p>
+        <p>According to a new poll, Condoleezza Rice, secretary of state, is the most popular member of the Bush administration. Most popular member of the Bush administration -- that's like being MVP of the Knicks.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

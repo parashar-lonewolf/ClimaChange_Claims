@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Bank on Iron to Curb Global Warming</title>
+    <meta content="LGOETZ" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="890548"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <classifier class="indexing_service" type="descriptor">Steel and Iron</classifier>
+        <person class="indexing_service">Goetze, Darren</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Steel and Iron</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0D9173AF93BA25752C1A960958260" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Bank on Iron to Curb Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Darren Goetze letter disputes November 12 Science Times article on scheme to remedy global warming by fertilizing oceans with iron (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a scientist involved in photosynthesis research for some seven years, I feel compelled to point out that any scheme to remedy global warming by fertilizing the oceans with iron (Science Times, Nov. 12) is premature.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a scientist involved in photosynthesis research for some seven years, I feel compelled to point out that any scheme to remedy global warming by fertilizing the oceans with iron (Science Times, Nov. 12) is premature.</p>
+        <p>Scientific solutions to our environmental problems must follow from the results of experimentation via the scientific method. In the case of ocean fertilization, we have only the results of two experiments, of which one was a failure, to consider. The limited data provide no statistically significant indication or even a compelling trend to make us believe that a global scale experiment would be environmentally benign or successful.</p>
+        <p>If our society wants to prevent global warming, we must take substantive action on the root cause: carbon dioxide emissions from fossil fuel combustion. The solutions lie in the available technologies of energy efficiency, very low fuel consumption vehicles and clean, renewable electricity generation from wind and solar power.</p>
+        <p>DARREN GOETZE</p>
+        <p>Cambridge, Mass., Nov. 12, 1996  The writer is a staff scientist with the Union of Concerned Scientists.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

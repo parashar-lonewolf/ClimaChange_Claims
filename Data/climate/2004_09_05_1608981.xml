@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Heat</title>
+    <meta content="LTR121237" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1608981"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Regenstein, Lewis</person>
+        <person class="indexing_service">Gore, Al</person>
+        <person class="indexing_service">Gelbspan, Ross</person>
+        <object.title class="indexing_service">Boiling Point (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E7DE1731F936A3575AC0A9629C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Heat</hl1>
+      </hedline>
+      <abstract>
+        <p>Lewis Regenstein letter on Aug 15 Al Gore review of book Boiling Point by Ross Gelbspan; holds Gore should be embarrassed by Clinton administration policy failures regarding global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In eight years as vice president, Al Gore did almost nothing effectively to address the civilization-threatening problem of global warming. Now he is reviewing Ross Gelbspan's new book, ''Boiling Point,'' whose subtitle tells us, in part, ''How Politicians, Big Oil and Coal . . . Are Fueling the Climate Crisis.''</p>
+        <p>Yes, Bush/Cheney are much worse. But seeing Gore review without embarrassment a book on an impending catastrophe, in which his administration failed utterly even to use its ''bully pulpit'' to educate the public, makes me wonder. Hasn't there been enough hot air already?</p>
+        <p>Lewis Regenstein  Atlanta</p>
+        <p>Al Gore replies:</p>
+        <p>The ''Sense of the Senate'' resolution that Ed Koch refers to actually took place five months before the Kyoto Protocol was even written, and was aimed at providing guidance to the negotiators on general principles. During the political give-and-take over its wording, that resolution was eventually stated so broadly that even the strongest supporters of a tough treaty ended up supporting it. Indeed, the author of the resolution, Senator Robert Byrd, has publicly criticized the subsequent misrepresentation of its meaning by opponents of Kyoto.</p>
+        <p>The fact that the protocol was not ratified by the Senate during the two years between its signing and the end of the last administration is evidence of the vigorous opposition by the Republican Congress to confronting the global climate crisis. But the record certainly does not support the allegation in Lewis Regenstein's letter that President Clinton and I ''did almost nothing'' to overcome that opposition or to promote public awareness of what is at stake. There are way too many examples to list here, but anyone interested can go to www.environment2004.org to find lots of them.</p>
+        <p>More important, because of the good efforts of many people, there is now growing support for action by Congress, as evidenced by 43 votes for the McCain-Lieberman Resolution, with more expected when it comes up again this year.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In eight years as vice president, Al Gore did almost nothing effectively to address the civilization-threatening problem of global warming. Now he is reviewing Ross Gelbspan's new book, ''Boiling Point,'' whose subtitle tells us, in part, ''How Politicians, Big Oil and Coal . . . Are Fueling the Climate Crisis.''</p>
+        <p>Yes, Bush/Cheney are much worse. But seeing Gore review without embarrassment a book on an impending catastrophe, in which his administration failed utterly even to use its ''bully pulpit'' to educate the public, makes me wonder. Hasn't there been enough hot air already?</p>
+        <p>Lewis Regenstein  Atlanta</p>
+        <p>Al Gore replies:</p>
+        <p>The ''Sense of the Senate'' resolution that Ed Koch refers to actually took place five months before the Kyoto Protocol was even written, and was aimed at providing guidance to the negotiators on general principles. During the political give-and-take over its wording, that resolution was eventually stated so broadly that even the strongest supporters of a tough treaty ended up supporting it. Indeed, the author of the resolution, Senator Robert Byrd, has publicly criticized the subsequent misrepresentation of its meaning by opponents of Kyoto.</p>
+        <p>The fact that the protocol was not ratified by the Senate during the two years between its signing and the end of the last administration is evidence of the vigorous opposition by the Republican Congress to confronting the global climate crisis. But the record certainly does not support the allegation in Lewis Regenstein's letter that President Clinton and I ''did almost nothing'' to overcome that opposition or to promote public awareness of what is at stake. There are way too many examples to list here, but anyone interested can go to www.environment2004.org to find lots of them.</p>
+        <p>More important, because of the good efforts of many people, there is now growing support for action by Congress, as evidenced by 43 votes for the McCain-Lieberman Resolution, with more expected when it comes up again this year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

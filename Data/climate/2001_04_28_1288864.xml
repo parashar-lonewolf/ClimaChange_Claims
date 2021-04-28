@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="28INSI$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1288864"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1DC1139F93BA15757C0A9679C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Airline Case Is Dismissed  A federal judge dismissed an antitrust case in which American Airlines was accused of driving three rivals away from an airport by undercutting their fares.</p>
+        <p>PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>Airline Case Is Dismissed  A federal judge dismissed an antitrust case in which American Airlines was accused of driving three rivals away from an airport by undercutting their fares.</p>
+        <p>PAGE C1</p>
+        <p>Outlining a Vision for Japan  Prime Minister Junichiro Koizumi tried to calm fears of Japanese nationalism and reaffirmed a pledge to create a full-fledged army.</p>
+        <p>PAGE A8</p>
+        <p>Israeli Doubts on Peace Plan  Israel's foreign minister is heading to Jordan and Egypt to convey strong objections to their Mideast peace proposals.</p>
+        <p>PAGE A5</p>
+        <p>Baby Food Deal Is Blocked  A federal appeals panel blocked a bid by H. J. Heinz to buy Milnot Holdings, the maker of Beech-Nut, for $185 million.</p>
+        <p>PAGE C1</p>
+        <p>Tutoring on Global Warming  After rejecting an international treaty on global warming, the Bush administration is seeking advice from a wide array of experts.</p>
+        <p>PAGE A10</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

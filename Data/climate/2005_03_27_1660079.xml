@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy Alternatives</title>
+    <meta content="L27PETROL" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1660079"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <person class="indexing_service">Goldsmith, Patricia</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E2DB163FF934A15750C0A9639C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy Alternatives</hl1>
+      </hedline>
+      <abstract>
+        <p>Patricia Goldsmith letter on March 13 article on US dependence on fossil fuels</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Whether you believe the most or least dire predictions made in ''Running on Empty'' (March 13), or fall somewhere in between, there can be no doubt that the present administration has wasted an opportunity to address a problem that is not going to go away: our reliance on fossil fuels.</p>
+        <p>Instead of focusing on conservation and alternatives to oil in any meaningful way, this administration has driven the country into dangerously deep debt and a disastrous war in a quest to commandeer and control the last vast reserves on the planet, thereby cutting off a desperately needed global strategy for the post-petroleum future.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Whether you believe the most or least dire predictions made in ''Running on Empty'' (March 13), or fall somewhere in between, there can be no doubt that the present administration has wasted an opportunity to address a problem that is not going to go away: our reliance on fossil fuels.</p>
+        <p>Instead of focusing on conservation and alternatives to oil in any meaningful way, this administration has driven the country into dangerously deep debt and a disastrous war in a quest to commandeer and control the last vast reserves on the planet, thereby cutting off a desperately needed global strategy for the post-petroleum future.</p>
+        <p>Like it or not, that future is right around the corner, and we are heading into it more defiantly dependent on oil reserves in hostile foreign lands than we have ever been.</p>
+        <p>Patricia Goldsmith  Island Park</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

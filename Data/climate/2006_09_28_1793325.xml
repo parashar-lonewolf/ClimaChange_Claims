@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Science And Health: Journal Says Global Warming Document Was Blocked</title>
+    <meta content="28brfs-6" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1793325"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">Commerce Department</org>
+        <org class="indexing_service">Nature (Journal)</org>
+        <org class="indexing_service">National Oceanic and Atmospheric Administration (Noaa)</org>
+        <org class="indexing_service">Greenpeace (Orgn)</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEFDC1630F93BA1575AC0A9609C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Science And Health: Journal Says Global Warming Document Was Blocked</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN (NYT)</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Article in journal Nature says that few weeks before hurricane season, Commerce Dept blocked release of document describing possible links between global warming and hurricanes; journal cites exchanges between officials and scientists at National Oceanic and Atmospheric Adm obtained by environmental group Greenpeace (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A few weeks before hurricane season, the Commerce Department blocked the release of a document describing possible links between global warming and hurricanes, according to a news article today in the journal Nature. The journal cited e-mail exchanges between officials and scientists at the National Oceanic and Atmospheric Administration obtained under Freedom of Information laws by the environmental group Greenpeace. Jordan St. John, a NOAA spokesman, said the document was an information sheet being prepared for journalists but not finished in time. Scientists do not agree on the influence of global warming on hurricane activity.</p>
+        <p>ANDREW C. REVKIN (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A few weeks before hurricane season, the Commerce Department blocked the release of a document describing possible links between global warming and hurricanes, according to a news article today in the journal Nature. The journal cited e-mail exchanges between officials and scientists at the National Oceanic and Atmospheric Administration obtained under Freedom of Information laws by the environmental group Greenpeace. Jordan St. John, a NOAA spokesman, said the document was an information sheet being prepared for journalists but not finished in time. Scientists do not agree on the influence of global warming on hurricane activity.</p>
+        <p>ANDREW C. REVKIN (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

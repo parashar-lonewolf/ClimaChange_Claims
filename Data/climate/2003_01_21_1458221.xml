@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Patterned Stone and Soil, the Earth Moved</title>
+    <meta content="21STON$04" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/01/21/science/earth/21STON.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1458221"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Arctic Regions</location>
+        <org class="indexing_service">University of California (San Diego)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Geology</classifier>
+        <classifier class="online_producer" type="descriptor">Coast Erosion</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coast Erosion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2DC1230F932A15752C0A9659C8B63" item-length="981" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Patterned Stone and Soil, the Earth Moved</hl1>
+        <hl2 class="online_headline">The Earth Moves: Patterns of Stone and Soil</hl2>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>University of California at San Diego researchers have developed computer model to show how stone and soil in Arctic organized themselves into rings, islands, labyrinthine ridges and polygons over hundreds of years through cycles of freezing and thawing; striking patterns have intrigued reearchers since explorers first described them; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As landscape features go, the patterned ground of the Arctic lacks the cachet of crop circles, say, or the Nazca lines etched in the high desert of Peru. But the Arctic features -- expanses of stone and soil ordered into rings, islands, labyrinthine ridges and polygons -- have one thing the others do not, a natural explanation.</p>
+        <p>That explanation is now more complete, because of recent work by researchers at the University of California at San Diego. They have developed a computer model to show how under the right conditions over hundreds of years, stone and soil organize themselves into patterns, through cycles of freezing and thawing.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Arctic features, expanses of stone and soil ordered into rings, islands, labyrinthine ridges and polygons, have a natural explanation.</p>
+      </block>
+      <block class="full_text">
+        <p>As landscape features go, the patterned ground of the Arctic lacks the cachet of crop circles, say, or the Nazca lines etched in the high desert of Peru. But the Arctic features -- expanses of stone and soil ordered into rings, islands, labyrinthine ridges and polygons -- have one thing the others do not, a natural explanation.</p>
+        <p>That explanation is now more complete, because of recent work by researchers at the University of California at San Diego. They have developed a computer model to show how under the right conditions over hundreds of years, stone and soil organize themselves into patterns, through cycles of freezing and thawing.</p>
+        <p>At work, said Dr. Mark A. Kessler, an author of a paper on the model in the current issue of Science, are feedback mechanisms that involve segregating stones and soil into distinct areas or domains. As the mechanisms interact, different patterns evolve, depending on factors like the concentration and size of stones and the slope of the land.</p>
+        <p>''We've tried to make a simple model to capture the differences between the patterns,'' said Dr. Kessler, a postdoctoral researcher in earth sciences at U.C. Santa Cruz. He wrote the paper with Dr. Brad Werner of the Institute of Geophysics and Planetary Physics at the university.</p>
+        <p>The striking patterns have intrigued researchers since explorers' first descriptions filtered back. Patterned ground falls into two general categories: sorted, in which natural processes first separate elements like soil and stones, and unsorted, like networks of ice wedges.</p>
+        <p>''Our model doesn't encompass all of patterned ground,'' Dr. Kessler said. ''But it does cover all sorted patterned ground.''</p>
+        <p>Sorted patterned ground has been extensively cataloged. Its rings, ridges and other features generally range from four inches to three or four feet in size. Although it has long been intuitively realized that freezing and thawing are responsible -- the patterns form only under certain conditions of cold and moisture -- a fuller explanation has eluded scientists, said Dr. Daniel Mann, a researcher at the University of Alaska.</p>
+        <p>''People would make little jabs at figuring out why,'' said Dr. Mann, who wrote a perspective article that accompanies Dr. Kessler's paper. ''But they were largely unsuccessful. Somebody would put a rock in a bunch of mud and put it in a cold chamber and say, 'Wow, look, the rock moved.' But the processes were never integrated into a whole landscape.</p>
+        <p>''What's really valuable about the Kessler and Werner paper is that for the first time they've taken these disparate processes and done computer modeling and shown how things interact. It works.''</p>
+        <p>One process is the frost heave, in which repeated freezing and thawing causes an upwelling of soil, in part because of the migration of water and the formation of lens-shaped ice blocks at the freezing zone. Over time, coarser material like rocks slowly migrates to the edges. Eventually, a separate soil domain exists, surrounded by a domain of stone.</p>
+        <p>That in itself is enough for some patterned-ground features to form on their own. They are considered self-organizing structures, unlike the Nazca lines, which indigenous people created, and crop circles, which, Hollywood notwithstanding, pranksters create. Rings of rock might form this way on flat land, while on a slope, the rocks would eventually form stripes or parallel ridges.</p>
+        <p>In their model, Dr. Kessler and Dr. Werner added a second mechanism that helps account for other patterns, notably polygons. That mechanism involves what they refer to as confinement, the degree to which the soil domains squeeze further the stone domains as freezing and thawing continue. That can turn an expanse of stone ''islands'' into a network of polygons by forcing the stone domains to lengthen.</p>
+        <p>Dr. Kessler said field studies on the Norwegian Arctic island of Spitsbergen had helped demonstrate the validity of the model.</p>
+        <p>''We can look at a pattern,'' he said, ''and take statistical measures off it like angles and polygon size and compare them to the model.''</p>
+        <p>Dr. Colin Ballantyne, a geologist at the University of St. Andrews in Scotland, said another theory of patterned ground formation involved the movement of water by convection within the soil, caused by density differences, that can result in a similar segregation of stone and soil.</p>
+        <p>Dr. Ballantyne said that while Dr. Kessler and Dr. Werner had made a strong argument for their theory, he would not rule out convection either. ''Some of us are convinced that both work,'' he said.</p>
+        <p>Dr. William B. Krantz, a professor at the University of Cincinnati, who is studying patterned ground as an indicator of climate change, said that to be truly predictive, a model should take into account fundamental properties of the soil and ecosystem.</p>
+        <p>In his opinion, the the Kessler-Werner work does not. ''It isn't that a model like Kessler's isn't useful,'' he said. But it cannot be used to predict how patterns will change in response to changes in the ecosystem, he said.</p>
+        <p>Nonetheless, Dr. Ballantyne said, a more thorough understanding of pattern formation, as offered by the Kessler-Werner model, can help other Arctic studies.</p>
+        <p>Pattern size and structure can give clues to the depth of the active layer that overlies the permafrost; on older terrain, this can indicate what the climate was when the patterns formed. ''It's useful information you can get on the cheap, just by looking at the landforms,'' Dr. Ballantyne said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

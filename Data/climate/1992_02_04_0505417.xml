@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ocean Currents Tied To Timing of Ice Ages</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="505417"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">ICE AGE</classifier>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <person class="indexing_service">BROECKER, WALLACE S (DR)</person>
+        <person class="indexing_service">DENTON, GEORGE H (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice Age</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDB1639F937A35751C0A964958260" item-length="639" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ocean Currents Tied To Timing of Ice Ages</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCIENTISTS have uncovered strong evidence supporting a theory that sudden and dramatic shifts in big ocean currents play a critical role in the waxing and waning of ice ages.</p>
+        <p>The timing of ice ages, experts on the subject generally agree, is controlled by periodic changes in the tilt, rotation and orbit of the earth. These changes alter the angles at which sunlight strikes the planet. This, in turn, alters the intensity of the seasons at northern latitudes where ice-age glaciers form.</p>
+      </block>
+      <block class="full_text">
+        <p>SCIENTISTS have uncovered strong evidence supporting a theory that sudden and dramatic shifts in big ocean currents play a critical role in the waxing and waning of ice ages.</p>
+        <p>The timing of ice ages, experts on the subject generally agree, is controlled by periodic changes in the tilt, rotation and orbit of the earth. These changes alter the angles at which sunlight strikes the planet. This, in turn, alters the intensity of the seasons at northern latitudes where ice-age glaciers form.</p>
+        <p>Some scientists believe these changes in seasonality act directly on the ice sheets, causing the glaciers to build and advance, shrink and retreat.</p>
+        <p>But other scientists, chiefly Dr. Wallace S. Broecker of Columbia University's Lamont-Doherty Geological Observatory and Dr. George H. Denton of the University of Maine, argue that the changes in solar radiation caused by the earth's shifting tilt, rotation and orbit are not by themselves enough to cause such titanic changes in climate. A Sudden Shift</p>
+        <p>Rather, they say, some sort of amplification must take place. Dr. Broecker and Dr. Denton believe that by altering patterns of evaporation and precipitation, the changes in seasonal intensity cause the circulation of globe-girdling ocean currents to change suddenly from one mode to another.</p>
+        <p>This, they say, distributes heat around the planet differently. In one mode, a "conveyor belt" of global currents delivers heat to the northern Atlantic, causing continental ice sheets to melt; in the other, the conveyor belt ceases to operate, and the ice sheets grow.</p>
+        <p>Now Dr. Christopher D. Charles and Dr. Richard G. Fairbanks, two of Dr. Broecker's colleagues at Lamont-Doherty, have found that the current pattern of deep-water circulation in the Atlantic Ocean did indeed "turn on," delivering more heat to the north Atlantic, at precisely the time when ice-age glaciers last began to melt in the Northern Hemisphere from 12,600 to 12,200 years ago.</p>
+        <p>Through a chemical analysis of sediments in the southern Atlantic, Dr. Charles and Dr. Fairbanks determined that cold north Atlantic waters suddenly began to sink and flow south to Antarctica. North Atlantic waters carry a characteristic signature in the form of relatively rich concentrations of a carbon isotope, carbon-13.</p>
+        <p>At the same time that this water appeared in the southern Atlantic, or slightly earlier, the North American ice sheets began to shrink, the two scientists report in the current issue of the British journal Nature.</p>
+        <p>They determined this by analyzing a record of sea-level fluctuations preserved in fossil remains of surface-dwelling corals near Barbados. By producing a continuous, precisely dated record of sea levels, they were able to calculate when the ice sheets began to retreat. Glaciers release water to the sea, raising its level, when they melt. Melting of Glacial Ice</p>
+        <p>The scientists believe that when the cold North Atlantic surface waters suddenly began to sink, they released enormous amounts of heat to the atmosphere. To replace the water that had sunk and begun flowing to the South Atlantic, great quantities of warm water were sucked northward from the tropics, thus continuing to fuel the north Atlantic with heat in such a "pulse" that the glacial ice began to melt.</p>
+        <p>How do the changes in seasonality brought about by alterations of the earth's tilt, rotation and orbit turn the conveyor belt on and off? No one is entirely sure.</p>
+        <p>The prevailing view is that the changes in seasonality alter patterns of evaporation and rainfall and that this, in turn, changes the salt content of ocean surface water. The more water that evaporates from the ocean's surface, the saltier, denser and heavier it gets. It sinks, according to this view, and the formation of the deep-water current sets the conveyor belt in motion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

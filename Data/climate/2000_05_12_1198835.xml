@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Estimate of Toxic Chemical Emissions Is Tripled</title>
+    <meta content="12CHEM" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198835"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <location class="indexing_service">Ohio</location>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Hu, Winnie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Ohio</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Ohio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DE143BF931A25756C0A9669C8B63" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Estimate of Toxic Chemical Emissions Is Tripled</hl1>
+      </hedline>
+      <byline class="print_byline">By WINNIE HU</byline>
+      <byline class="normalized_byline">Hu, Winnie</byline>
+      <dateline>ALBANY, May 11</dateline>
+      <abstract>
+        <p>First national accounting of toxic chemical emissions by electric power plants and mining industry triples estimated volume of those releases; report, compiled by Environmental Protection Agency, shows that 7.3 billion pounds of toxic chemicals were reported released by eight industries in 1998; says heaviest polluters were 27 power plants in Ohio (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The first national accounting of toxic chemical emissions by electric power plants and the mining industry has tripled the estimated volume of those releases.</p>
+        <p>The report, which was compiled by the federal Environmental Protection Agency, showed that in 1998 7.3 billion pounds of toxic chemicals were reported released by eight industries, including coal mining, chemical wholesalers and petroleum terminals.</p>
+      </block>
+      <block class="full_text">
+        <p>The first national accounting of toxic chemical emissions by electric power plants and the mining industry has tripled the estimated volume of those releases.</p>
+        <p>The report, which was compiled by the federal Environmental Protection Agency, showed that in 1998 7.3 billion pounds of toxic chemicals were reported released by eight industries, including coal mining, chemical wholesalers and petroleum terminals.</p>
+        <p>The environmental agency said metal mining had accounted for nearly half of the discharges and that power plants released 1.1 billion pounds of toxic chemicals in 1998, or about 15 percent of the total. The previous year's report, which covered just manufacturing, showed 2.7 billion pounds of toxic emissions.</p>
+        <p>The report offers the first statistical look at not only the volume of nationwide toxic chemical pollution but also the extensive pollution that has become of particular concern in New York and other Eastern states downwind of the nation's oldest and dirtiest coal-burning power plants, in the Midwest and South.</p>
+        <p>''Americans now will have the best picture ever of the actual amounts of toxic pollution being emitted by industry into local communities,'' said Carol M. Browner, administrator of the environmental agency.</p>
+        <p>The new data reflect releases in 1998, and agency officials urged that the information be used as a guide, not as an indicator of health risk, because the report provides no information on exposure.</p>
+        <p>New York officials and environmentalists said today that the agency's findings would aid their efforts to fight a growing pollution problem. State Attorney General Eliot L. Spitzer has already sued the owners of 12 coal-fired plants in the Midwest, asserting that they had not installed federally required pollution controls.</p>
+        <p>''It's not news that they're polluting, but it is news to the extent that they are polluting,'' said John F. Sheehan, a spokesman for the Adirondack Council, an environmental group that works to protect the state's wilderness from acid rain and other pollution.</p>
+        <p>The heaviest polluters were the 27 power plants in Ohio, which emitted 113.9 million pounds of toxic chemicals in 1998. In comparison, the 34 power plants in New York released 18.7 million pounds, and the 15 power plants in New Jersey released 8 million pounds.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

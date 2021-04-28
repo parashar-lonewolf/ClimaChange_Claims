@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="613895"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DC1439F93BA35755C0A965958260" item-length="396" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Flitting Butterflies</p>
+        <p>Q.  Why do butterflies flit aimlessly, in a random path from point to point?</p>
+        <p>A. "It looks like flitting, but you're not the butterfly," said Dr. Louis Sorkin, an entomologist at the American Museum of Natural History in New York. Depending on the time of day and the species, he said, the butterfly could be searching for or avoiding a number of things.</p>
+      </block>
+      <block class="full_text">
+        <p>Flitting Butterflies</p>
+        <p>Q.  Why do butterflies flit aimlessly, in a random path from point to point?</p>
+        <p>A. "It looks like flitting, but you're not the butterfly," said Dr. Louis Sorkin, an entomologist at the American Museum of Natural History in New York. Depending on the time of day and the species, he said, the butterfly could be searching for or avoiding a number of things.</p>
+        <p>"The butterfly may be cuing in on patterns or colors or perhaps pheromones," the scented hormones of other butterflies, he said. It may be looking for other males to dislodge from its territory, picking up the odors of flowers, looking for a female partner based on odor, avoiding a predator or searching for an appropriate plant to lay eggs on or a food plant.</p>
+        <p>Dr. Sorkin also said he had seen a butterfly fly fast in a perfectly straight line when chased by a bumblebee.</p>
+        <p>Unlike a bee, a butterfly does not live in a colony, Dr. Sorkin said. "There is no reason to fly in a straight line, from point to point," he said. "It is not going home. There is no home."  Candle Flame</p>
+        <p>Q.  Why can you blow out a candle with a puff of air? I would think a blast of oxygen would help it burn.</p>
+        <p>A. A blast of oxygen would ordinarily help a flame, and in fact fanning the flame of a forge with a bellows is standard practice, but a candle flame is a different case for several reasons, explained Dr. Alan J. Friedman, director of the New York Hall of Science in Queens.</p>
+        <p>"First," he said, "the air you breathe out has somewhat less oxygen than in air itself, because you use it and release carbon dioxide. Also, when you send in cool air, it cools the candle flame below the temperature that supports the rapid oxidation that we call burning. You are physically removing the burning gases that keep the flame hot and cooling off the remaining particles of the match or candle."</p>
+        <p>Glowing coals in a fireplace or a blacksmith's fire are starved for oxygen, Dr. Friedman said, "because the mechanical arrangement around them is restricting circulation." Blowing or using the bellows will help these fires burn, unless you blow so hard you blow out the flame.</p>
+        <p>"But with a match or candle you already have excellent circulation, with normal convection currents that move the hot air up so fresh oxygen comes in from below," Dr. Friedman explained. In such cases, blowing will not help.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Outsmarting the Biters</title>
+    <meta content="LTR224241" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1502977"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Insects</classifier>
+        <classifier class="indexing_service" type="descriptor">Mosquitoes</classifier>
+        <person class="indexing_service">Litt, Jerome Z (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EED7143DF93BA35754C0A9659C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Outsmarting the Biters</hl1>
+      </hedline>
+      <abstract>
+        <p>Dermatologist Dr Jerome Z Litt letter on July 1 article gives helpful and witty suggestions for outsmarting mosquitoes and therefore avoiding bites (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>About avoiding mosquito bites (''Don't Get Stung: Outsmarting the Mosquito,'' July 1), there are some time-honored ways: avoid scented products like colognes and hair sprays because odors attract mosquitoes; wear light-colored smooth fabrics instead of bright prints or dark rough clothing, which attract mosquitoes; avoid bright jewelry and other metal objects, which mosquitoes find alluring; keep screens in good repair; avoid stacking firewood and compost heaps against your home; keep garbage cans covered; and, because mosquitoes are attracted to carbon dioxide, you could try talking as little as possible while outdoors.</p>
+        <p>DR. JEROME Z. LITT  Beachwood, Ohio</p>
+        <p>The writer is a dermatologist.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>About avoiding mosquito bites (''Don't Get Stung: Outsmarting the Mosquito,'' July 1), there are some time-honored ways: avoid scented products like colognes and hair sprays because odors attract mosquitoes; wear light-colored smooth fabrics instead of bright prints or dark rough clothing, which attract mosquitoes; avoid bright jewelry and other metal objects, which mosquitoes find alluring; keep screens in good repair; avoid stacking firewood and compost heaps against your home; keep garbage cans covered; and, because mosquitoes are attracted to carbon dioxide, you could try talking as little as possible while outdoors.</p>
+        <p>DR. JEROME Z. LITT  Beachwood, Ohio</p>
+        <p>The writer is a dermatologist.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

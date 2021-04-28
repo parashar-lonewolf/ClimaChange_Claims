@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DANGER OF FLOODS WORRIES ISLANDERS</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="528273"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <location class="indexing_service">MARSHALL ISLANDS</location>
+        <org class="indexing_service">NATIONAL OCEANIC &amp; ATMOSPHERIC ADMINISTRATION</org>
+        <person class="indexing_service">LEWIS, PAUL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Marshall Islands</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/Marshall Islands</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DF1F3FF930A25756C0A964958260" item-length="379" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DANGER OF FLOODS WORRIES ISLANDERS</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL LEWIS,</byline>
+      <byline class="normalized_byline">LEWIS, PAUL</byline>
+      <dateline>UNITED NATIONS, May 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 45,000 people of the Marshall Islands, a former United States trust territory in the Pacific Ocean, will need to be rehoused or evacuated within 30 years if ocean levels rise as much as some scientists predict as a result of atmospheric warming, according to a United States study.</p>
+        <p>The study, paid for by the United States National Oceanic and Atmospheric Administration, describes the Marshall Islands as one of the "innocent victims" of global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>The 45,000 people of the Marshall Islands, a former United States trust territory in the Pacific Ocean, will need to be rehoused or evacuated within 30 years if ocean levels rise as much as some scientists predict as a result of atmospheric warming, according to a United States study.</p>
+        <p>The study, paid for by the United States National Oceanic and Atmospheric Administration, describes the Marshall Islands as one of the "innocent victims" of global warming.</p>
+        <p>Such a rise in sea levels would also threaten other coastal areas with far larger populations, including the Nile Delta and Bangladesh.</p>
+        <p>The report, which is to be released next month, was circulated by environmental groups during international talks here on curbing the emission of gasses that trap warm air in the atmosphere, which in turn melts the polar ice caps, raising ocean levels.</p>
+        <p>These negotiations are intended to produce an agreement on stabilizing climate that government leaders to sign next month at the environmental summit meeting in Rio de Janeiro.</p>
+        <p>In the talks, the Marshall Islands and 34 other island states argue that fear of flooding is already deterring foreign investment. They want the industrial nations to recognize their responsibility by insuring foreign investors against inundation.</p>
+        <p>The study is believed to represent the first attempt to assess the effect on a specific country of the higher sea level that scientists advising the Intergovernmental Panel on Climate Change predicted in 1990. The study says the findings appear valid for a number of island states and archipelagoes, mainly in the Pacific and Indian Oceans, including Maldives, Kiribati, Tuvalu and Tonga.</p>
+        <p>The scientists on the advisory panel said that, depending on several assumptions, ocean levels are likely to rise by a little over a foot during the next century, or perhaps by as much as three feet.</p>
+        <p>Taking the lower assumption, the study says, the population of the 29 atolls and 5 islands of the Marshall Islands would need to be rehoused in high-rise buildings near the highest points on the archipelago by 2022.</p>
+        <p>If ocean levels rise by the upper estimate of three feet a century, the study concludes, the entire population would be forced to abandon the islands, "the only realistic option.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

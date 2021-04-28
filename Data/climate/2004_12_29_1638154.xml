@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Natural Disasters, and Unnatural Consequences</title>
+    <meta content="LTR233108" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1638154"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Earthquakes</classifier>
+        <classifier class="indexing_service" type="descriptor">Tidal Waves</classifier>
+        <location class="indexing_service">Far East, South and Southeast Asia and Pacific Areas</location>
+        <location class="indexing_service">Indian Ocean</location>
+        <location class="indexing_service">Indonesia</location>
+        <location class="indexing_service">Sumatra</location>
+        <person class="indexing_service">Biscaye, Pierre E</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Indonesia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earthquakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tidal Waves</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041229T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E3D61639F93AA15751C1A9629C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Natural Disasters, and Unnatural Consequences</hl1>
+      </hedline>
+      <abstract>
+        <p>Lette</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It's easy for George W. Bush to express sorrow and to send condolences and even some aid for the Indian Ocean tsunami devastation, since he appears to bear no culpability, as he does in other situations in other parts of the world.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It's easy for George W. Bush to express sorrow and to send condolences and even some aid for the Indian Ocean tsunami devastation, since he appears to bear no culpability, as he does in other situations in other parts of the world.</p>
+        <p>But the next time there is a severe offshore earthquake and resulting tsunami, the sea level will be just a little bit higher, and the water and destruction will go a bit further inland and kill even more people. And for that, he will bear some culpability for not even wanting to consider global warming, much less do anything about it as the leader of the country most responsible for man-made warming and ice-cap melting.</p>
+        <p>Pierre E. Biscaye  Palisades, N.Y., Dec. 27, 2004</p>
+        <p>The writer is a special research scientist at the Lamont-Doherty Earth Observatory.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

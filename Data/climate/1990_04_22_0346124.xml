@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Eau Dear!</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="346124"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="HEADLINERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOTTLED WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">CONSUMER PROTECTION</classifier>
+        <classifier class="indexing_service" type="descriptor">MISLEADING AND DECEPTIVE ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">LABELING AND LABELS</classifier>
+        <org class="indexing_service">FOOD AND DRUG ADMINISTRATION (FDA)</org>
+        <org class="indexing_service">SOURCE PERRIER SA</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labeling and Labels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD9133FF931A15757C0A966958260" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Eau Dear!</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: When the Government asked who put the bubbles in Perrier, Mother Nature said, ''Not me.'' Until incidents of contamination forced Source Perrier to take its water off the market in February - traces of the toxic chemical benzene were found in some bottles - its claim that its water was ''naturally sparkling'' went unchallenged.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: When the Government asked who put the bubbles in Perrier, Mother Nature said, ''Not me.'' Until incidents of contamination forced Source Perrier to take its water off the market in February - traces of the toxic chemical benzene were found in some bottles - its claim that its water was ''naturally sparkling'' went unchallenged.</p>
+        <p>When the Government asked who put the bubbles in Perrier, Mother Nature said, ''Not me.'' Until incidents of contamination forced Source Perrier to take its water off the market in February - traces of the toxic chemical benzene were found in some bottles - its claim that its water was ''naturally sparkling'' went unchallenged. But as the company prepared to reintroduce Perrier to America, the mineral water police at the Food and Drug Administration raised questions about its labeling. It seems that the carbon dioxide and the water come from the ground separately and are then combined. Thus, said an F.D.A. official, ''It is not a natually sparkling water.'' Perrier initially resisted the F.D.A. order to change its label, but relented last week. A company spokesman explained: ''We didn't agree, but we decided to make the change because we wanted to be responsible to the Government and to consumers.'' And maybe, just maybe, to keep selling that Perrier.</p>
+        <p>HEADLINERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When Politics Trumps Science</title>
+    <meta content="LTR233312" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1498555"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Margolis, Jonathan J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E5D6163BF932A15755C0A9659C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When Politics Trumps Science</hl1>
+      </hedline>
+      <abstract>
+        <p>Jonathan J Margolis letter on June 19 article on White House editing of Environmental Protection Agency report to play down risks of global climate change; holds issue in 2004 election should be which candidate will tell unvarnished truth to American people</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Environmental Protection Agency is about to issue a report that was edited by the White House to leave out an account of the risks from global warming (front page, June 19). This comes at a time when every day seems to bring new revelations that the administration cooked the books in its drive to plunge the nation into war in Iraq.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Environmental Protection Agency is about to issue a report that was edited by the White House to leave out an account of the risks from global warming (front page, June 19). This comes at a time when every day seems to bring new revelations that the administration cooked the books in its drive to plunge the nation into war in Iraq.</p>
+        <p>The most important issue in the 2004 election should not be national security or the economy. It should be which candidate will tell the unvarnished truth to the American people.</p>
+        <p>JONATHAN J. MARGOLIS  Boston, June 19, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

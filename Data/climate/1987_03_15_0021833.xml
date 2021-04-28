@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Finding On Antarctica's Polar Ozone Hole</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="21833"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="IDEAS AND TRENDS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLORINE</classifier>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <person class="indexing_service">JOHNSON, GEORGE</person>
+        <person class="indexing_service">MANSNERUS, LAURA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3D9153DF936A25750C0A961948260" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Finding On Antarctica's Polar Ozone Hole</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE JOHNSON AND LAURA MANSNERUS</byline>
+      <byline class="normalized_byline">JOHNSON, GEORGE; MANSNERUS, LAURA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Scientists generally agree that chlorofluorocarbons and other chlorine-containing chemicals can destroy the ozone that shields the earth from the sun's harmful ultraviolet rays. Thus they find it perturbing that every September and October a ''hole'' appears in the ozone layer over Antarctica.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Scientists generally agree that chlorofluorocarbons and other chlorine-containing chemicals can destroy the ozone that shields the earth from the sun's harmful ultraviolet rays. Thus they find it perturbing that every September and October a ''hole'' appears in the ozone layer over Antarctica.</p>
+        <p>Scientists generally agree that chlorofluorocarbons and other chlorine-containing chemicals can destroy the ozone that shields the earth from the sun's harmful ultraviolet rays. Thus they find it perturbing that every September and October a ''hole'' appears in the ozone layer over Antarctica.</p>
+        <p>Whether this phenomonenon is actually the result of industrial pollution is disputed - the chill climate might contribute to the effect. But last week scientists who had recently returned from the South Pole described what they considered convincing new evidence.</p>
+        <p>Dr. Susan Soloman of the National Oceanic and Atmospheric Administration told the House Subcommittee on Health and the Environment that she and her colleagues had found levels of chlorine dioxide 20 to 50 times what would normally be expected. While many scientists believe that the chlorine comes from industrial sources, it is not yet possible to show that it caused the atmospheric hole. But Dr. F. Sherwood Rowland, a chemist who first warned of danger to the ozone layer, said the findings ''pretty well nail down'' the case against chlorofluorocarbons. Smaller ozone losses have been observed in other parts of the globe.</p>
+        <p>The United States has called for an international agreement to freeze production levels of chloroflourocarbons and phase them out over the next 10 or 15 years. And, like Canada and several Scandinavian countries, it has banned the chemical from aerosol sprays. But Britain and France reportedly are balking, and Dr. Elwood P. Blanchard, a vice president of E.I. du Pont de Nemours &amp; Company, a maker of chlorofluorocarbons, insisted that ''the changes noted in Antarctica cannot be extrapolated to the rest of the world.''  IDEAS AND TRENDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

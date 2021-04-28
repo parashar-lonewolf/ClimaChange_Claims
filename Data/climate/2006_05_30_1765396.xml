@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy Shortage</title>
+    <meta content="30tue2" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/30/opinion/30tue2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1765396"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Congress</org>
+        <org class="online_producer">Senate</org>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">Boehlert, Sherwood</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E7DB1F3EF933A05756C0A9609C8B63" item-length="388" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy Shortage</hl1>
+        <hl2 class="online_headline">Energy Shortage</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sherwood Boehlert, the moderate Republican who will retire this fall, observed on the floor of the House last week that despite polls showing conservation as the ''preferred option'' among Americans worried about high gas prices and oil dependency, ''this Congress has not voted on a single conservation measure since gasoline hit $3 a gallon.'' At which point his colleagues voted (yet again) to open the Arctic National Wildlife Refuge to oil drilling in the misguided but apparently unshakable belief that a nation that uses one-quarter of the world's oil while possessing 3 percent of its reserves can drill its way to lower prices.</p>
+        <p>The legislative outlook is brighter in the Senate, which has before it the Enhanced Energy Security Act of 2006. The bill has impressive bipartisan sponsorship and incorporates the best features of an earlier (and more cumbersomely named) vehicle called the Vehicle and Fuel Choices for American Security Act. Its stated purpose is to reduce oil dependency, but the strategies and technologies it encourages would also do much to reduce greenhouse gas emissions.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush would do the country a great favor by getting behind a bill in the Senate that aims to reduce oil dependency.</p>
+      </block>
+      <block class="full_text">
+        <p>Sherwood Boehlert, the moderate Republican who will retire this fall, observed on the floor of the House last week that despite polls showing conservation as the ''preferred option'' among Americans worried about high gas prices and oil dependency, ''this Congress has not voted on a single conservation measure since gasoline hit $3 a gallon.'' At which point his colleagues voted (yet again) to open the Arctic National Wildlife Refuge to oil drilling in the misguided but apparently unshakable belief that a nation that uses one-quarter of the world's oil while possessing 3 percent of its reserves can drill its way to lower prices.</p>
+        <p>The legislative outlook is brighter in the Senate, which has before it the Enhanced Energy Security Act of 2006. The bill has impressive bipartisan sponsorship and incorporates the best features of an earlier (and more cumbersomely named) vehicle called the Vehicle and Fuel Choices for American Security Act. Its stated purpose is to reduce oil dependency, but the strategies and technologies it encourages would also do much to reduce greenhouse gas emissions.</p>
+        <p>The bill would require the president to figure out ways to cut oil consumption by 2.5 million barrels -- 12.5 percent of current use -- by 2016, and cut it in half by 2031. It offers a menu of loans, direct subsidies, tax breaks and other incentives that would encourage the production of fuel-efficient cars as well as gasoline alternatives like cellulosic ethanol. It does not mandate specific improvements in fuel economy standards -- a Congressional red flag -- yet the goal it sets would get us to the same place.</p>
+        <p>There is also real money here -- $1.8 billion for hybrid ''plug-in'' vehicles, for instance, $1 billion for cellulosic fuels. And while anything is possible in a Congress habituated to pork, the bill is not yet encumbered with the special favors and tax breaks for the oil and gas industry that have disfigured recent energy bills. It would, in fact, repeal some of those breaks in an effort to lessen its cost.</p>
+        <p>This is a relatively straightforward bill with big ambitions -- to reduce the demand for oil, thus reducing America's contribution to global warming while enhancing its national security. President Bush, who has made so much of the dependency issue without offering legislation of his own, would do the country a great favor by getting behind it.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

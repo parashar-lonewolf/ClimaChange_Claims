@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recalculating the Costs of Global Climate Change</title>
+    <meta content="14scene" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/14/business/14scene.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1811760"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="ECONOMIC SCENE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Economic Scene</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <person class="online_producer">Stern, Nicholas</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE7D81531F937A25751C1A9609C8B63" item-length="908" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recalculating the Costs of Global Climate Change</hl1>
+        <hl2 class="online_headline">Recalculating the Costs of Global Climate Change</hl2>
+      </hedline>
+      <byline class="print_byline">By HAL R. VARIAN</byline>
+      <byline class="normalized_byline">Varian, Hal R</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Stern Review on the Economics of Climate Change was released Oct. 30 and became front-page news because of its striking conclusion that we should immediately invest 1 percent of world economic activity (referred to as global gross domestic product in the report) to reduce the impact of global warming. The British report warned that failing to do so could risk future economic damages equivalent to a reduction of up to 20 percent in global G.D.P.</p>
+        <p>These figures are substantially higher than earlier estimates of the costs of global warming, and environmental economists have studied the 700-page report to try to figure out why the numbers are so large.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Exploring the implications of alternative assumptions is likely to lead to better policy than making a single blanket recommendation.</p>
+      </block>
+      <block class="full_text">
+        <p>The Stern Review on the Economics of Climate Change was released Oct. 30 and became front-page news because of its striking conclusion that we should immediately invest 1 percent of world economic activity (referred to as global gross domestic product in the report) to reduce the impact of global warming. The British report warned that failing to do so could risk future economic damages equivalent to a reduction of up to 20 percent in global G.D.P.</p>
+        <p>These figures are substantially higher than earlier estimates of the costs of global warming, and environmental economists have studied the 700-page report to try to figure out why the numbers are so large.</p>
+        <p>Recently two noted economists, William D. Nordhaus of Yale and Sir Partha Dasgupta of the University of Cambridge, have written critiques of the Stern report that try to solve this puzzle. The reports are available at http://nordhaus.econ.yale.edu/SternReviewD2.pdf and http://www.econ.cam.ac.uk/faculty/dasgupta/Stern.pdf.</p>
+        <p>The two critiques emphasize different but related aspects of the Stern Review's economic model.</p>
+        <p>Mr. Nordhaus's major concern is with the Stern Review's choice of the ''social rate of time discount,'' the rate used to compare the well-being of future generations to the well-being of those alive today.</p>
+        <p>The choice of an appropriate social time discount rate has long been debated. Some very intelligent people have argued that giving future generations less weight than the current generation is ''ethically indefensible.'' Other equally intelligent people have argued that weighting generations equally leads to paradoxical and even nonsensical results.</p>
+        <p>The Stern Review sides with those who believe in a low discount rate, arguing that the only ethical reason to discount future generations is that they might not be there at all -- there could be some cataclysmic event like a comet hitting the earth that wipes out all life. The report assumes that the probability of extinction is 0.1 percent per year. For all intents and purposes, this implies a social rate of discount that is effectively zero, implying almost equal weight to all generations.</p>
+        <p>The report not only chooses to weigh all generations' welfare almost equally, it also makes an extreme choice when specifying the relationship between consumption and welfare. These choices together imply that a 1 percent reduction in consumption today is desirable if it leads to slightly more than 1 percent increase in the consumption of some future generation, even though, in the model, future generations will be much wealthier than the current generation.</p>
+        <p>Given these assumptions it is easy to see where the large numbers come from. Unchecked global warming will certainly make future generations worse off to some degree. If we add up these losses over all time using a zero social discount rate, we get a large sum: a dollar a year over a million years is a million dollars.</p>
+        <p>Mr. Nordhaus examines a model of climate change that is similar to the one used in the Stern Review but with a 3 percent social discount rate that slowly declines to 1 percent in 300 years rather than the 0.1 percent discount rate used in the Stern Review. In his model, the welfare of future generations is given less weight than the current generation's welfare. He finds that preventive measures like a tax on carbon emissions are certainly required. But they are of a much smaller magnitude than those recommended in the report.</p>
+        <p>As Mr. Nordhaus says, ''While the findings of such mainstream economic assessments may not satisfy the most ardent environmentalists, if followed they would go far beyond current global emissions reductions and would be a good first step on a journey of many miles.''</p>
+        <p>So, should the social discount rate be 0.1 percent, as Sir Nicholas Stern, who led the study, would have it, or 3 percent as Mr. Nordhaus prefers? There is no definitive answer to this question because it is inherently an ethical judgment that requires comparing the well-being of different people: those alive today and those alive in 50 or 100 years.</p>
+        <p>Still, we may at least ask for consistency in our decisions. Forget about global warming and consider the much simpler problem of economic growth. How much should we save today to bequeath to future generations if we really believed in a 0.1 percent social discount rate and the other assumptions built into the Stern model? The answer, according to Sir Partha's calculation, is that we should invest 97.5 percent of what we produce today to increase the standard of living of future generations.</p>
+        <p>Sir Partha's stripped-down model leaves out uncertainty, technological change and population growth, but even so, such a high savings rate is totally implausible.</p>
+        <p>It is even more implausible given that future generations will be much richer than those now living. According to Mr. Nordhaus, the assumptions used in the Stern Review imply that per capita yearly consumption in 2200 will be $94,000 as compared with $7,000 today. So, is it really ethical to transfer wealth from someone making $7,000 a year to someone making $94,000 a year?</p>
+        <p>As these examples illustrate, the choice of an appropriate policy toward global warming depends heavily on how one weighs the costs and benefits it imposes on different generations. The Stern Review chose a particular way to do this, but many other choices could have been examined.</p>
+        <p>Exploring the implications of alternative assumptions is likely to lead to better policy than making a single blanket recommendation. At least at this stage of our understanding, exploration beats exhortation.</p>
+        <p>ECONOMIC SCENE Hal R. Varian is a professor of business, economics and information management at the University of California, Berkeley.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Hal R. Varian is a professor of business, economics and information management at the University of California, Berkeley.</tagline>
+    </body.end>
+  </body>
+</nitf>

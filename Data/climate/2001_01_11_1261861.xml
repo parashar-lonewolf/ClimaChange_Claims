@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some Great Web Sites About the Great Lakes</title>
+    <meta content="11GFLO" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1261861"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Great Lakes</location>
+        <person class="indexing_service">Freierman, Shelly</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFD9113AF932A25752C0A9679C8B63" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some Great Web Sites About the Great Lakes</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+      <byline class="normalized_byline">Freierman, Shelly</byline>
+      <abstract>
+        <p>Web site of Great Lakes Information Network provides excellent collection of information; map (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Web site of the Great Lakes Information Network (www.glin.net) provides an excellent collection of information.</p>
+        <p>There is a site for the Great Lakes Circle Tour, for instance, which is a 6,500-mile trail around the lakes and the St. Lawrence Seaway.</p>
+      </block>
+      <block class="full_text">
+        <p>The Web site of the Great Lakes Information Network (www.glin.net) provides an excellent collection of information.</p>
+        <p>There is a site for the Great Lakes Circle Tour, for instance, which is a 6,500-mile trail around the lakes and the St. Lawrence Seaway.</p>
+        <p>There is a system profile (Lake Superior, at 1,330 feet, is the deepest) and information on nuisance species like the zebra mussel, as well as history and cultural information.</p>
+        <p>SHELLY FREIERMAN</p>
+        <p>Browser  A selection of events and sites on the Web.</p>
+        <p>Sites</p>
+        <p>www.king-raleigh.org/natlevent/body.cfm  A listing of events, searchable by state, honoring the Rev. Dr. Martin Luther King Jr. and the civil rights movement.</p>
+        <p>www.lpb.org/programs/forest/calculator.html  A calculator for carbon debt, that is, the amount of carbon dioxide a household produces through household energy use, cars, household waste disposal and mass transit use.</p>
+        <p>www.dur.ac.uk/dla0www/c_tour/intro.html  An online tour of Durham Castle and Cathedral, which overlook the river Wear in England. Construction of the castle began in 1072 under William the Conqueror.</p>
+        <p>carpoint.msn.com/autoshow2001/home.asp  For car freaks, all the fast and shiny new models can be seen at the official site for the North American International Auto Show.</p>
+        <p>Events</p>
+        <p>TODAY, 7 p.m.  www.amuzenet.com  A chat with members of Collective Soul, the rock band.</p>
+        <p>TUESDAY, 4 p.m.  www.foodandwine.com  A chat with Steve Jenkins, an expert on cheese.</p>
+        <p>TUESDAY, 8 p.m.  www.healthatoz.com  A chat about nutrition, with Elizabeth Somer, the author of ''The Origin Diet: How Eating Like Our Stone Age Ancestors Will Maximize Your Health.''</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

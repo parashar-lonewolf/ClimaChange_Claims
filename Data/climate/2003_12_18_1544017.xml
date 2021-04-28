@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Leadership on Climate</title>
+    <meta content="L18ENV$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1544017"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Doniger, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EEDF163FF93BA25751C1A9659C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Leadership on Climate</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from David Doniger of Natural Resources Defense Council demands Bush administration stop blocking and start leading action to curb global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''White House Attacked for Letting States Lead on Climate'' (news article, Dec. 11):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''White House Attacked for Letting States Lead on Climate'' (news article, Dec. 11):</p>
+        <p>At climate treaty talks in Milan, American diplomats praise state curbs on the pollution that causes global warming, while at home the White House tries to block states from acting.</p>
+        <p>Science magazine reports that there is ''no doubt'' that global warming pollution is changing the atmosphere, yet administration officials in Milan claim that the human influence on climate is still ''unknown.''</p>
+        <p>The president's science adviser (letter, Dec. 11) touts token research and development programs to develop clean new technologies, but opposes any pollution limits to give industries real incentives to invest in and adopt these technologies.</p>
+        <p>No serious pollution problem was ever solved by voluntary industry self-policing. When will the White House stop blocking and start leading?</p>
+        <p>DAVID DONIGER  Policy Director, Climate Center  Natural Resources Defense Council  Washington, Dec. 11, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

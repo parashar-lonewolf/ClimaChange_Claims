@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wind Power Will Work</title>
+    <meta content="l04wind" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1729465"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E7DA1130F937A35752C0A9609C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wind Power Will Work</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''An Ill Wind Off Cape Cod,'' by Robert F. Kennedy Jr. (Op-Ed, Dec. 16):</p>
+        <p>Mr. Kennedy says the Cape Cod wind power project could harm songbirds and sea ducks, but the draft environmental impact statement released by the Army Corps of Engineers, after three years of scientific study, indicates that it would not materially affect such species.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''An Ill Wind Off Cape Cod,'' by Robert F. Kennedy Jr. (Op-Ed, Dec. 16):</p>
+        <p>Mr. Kennedy says the Cape Cod wind power project could harm songbirds and sea ducks, but the draft environmental impact statement released by the Army Corps of Engineers, after three years of scientific study, indicates that it would not materially affect such species.</p>
+        <p>And while he says there will be a drastic impact on fishing and tourism, the draft statement says ''the project is not anticipated to have substantial impacts on commercial fishing activities'' and ''will likely have a negligible effect on the use of recreational resources and a positive effect on tourism in general.''</p>
+        <p>And what about the fact that New England faces a serious energy crisis and the threat of rolling blackouts? New England's electric grid operator has warned of the ''urgent need'' for new generating resources and called for the ''aggressive'' development of renewable energy projects like Cape Wind.</p>
+        <p>Dennis J. Duffy  Vice Pres., Cape Wind Associates  Boston, Dec. 28, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

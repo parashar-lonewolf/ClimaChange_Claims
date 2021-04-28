@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="30corrections-11" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1698457"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Pielke, Roger A Sr (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E4D91631F933A0575BC0A9639C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Aug 23 article on climatologist Roger A Pielke Sr's resignation from panel advising Bush administration on temperature changes regarding his position on global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Science Times last Tuesday about a climatologist's resignation from a panel advising the Bush administration on temperature changes in the atmosphere misstated his position on global warming. The scientist, Roger A. Pielke Sr. of Colorado State University, says warming is caused mainly by human activities; he does not disagree with that widely held view. Where he differs with many scientists is on the amount of warming from the accumulation of gases like carbon dioxide, as opposed to other factors; on the reliability of temperature measurements on the earth's surface; and on the value of computer projections that estimate future climate change.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Science Times last Tuesday about a climatologist's resignation from a panel advising the Bush administration on temperature changes in the atmosphere misstated his position on global warming. The scientist, Roger A. Pielke Sr. of Colorado State University, says warming is caused mainly by human activities; he does not disagree with that widely held view. Where he differs with many scientists is on the amount of warming from the accumulation of gases like carbon dioxide, as opposed to other factors; on the reliability of temperature measurements on the earth's surface; and on the value of computer projections that estimate future climate change.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

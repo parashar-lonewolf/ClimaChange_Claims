@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Who Can Predict Our Life in the Greenhouse?; Dueling Computers</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="307567"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <person class="indexing_service">HOWARD, JAMES S</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DC153AF93BA35751C1A96F948260" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Who Can Predict Our Life in the Greenhouse?; Dueling Computers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>For the most part, your article on the costs of curing the greenhouse effect (front page, Nov. 19) is balanced and circumspect. However, you should reconsider your reliance on computer simulation models to draw conclusions far into the future.</p>
+        <p>The limitations of even the most intricate econometric models to predict the performance of the United States economy even one year ahead are well recognized by anyone who follows economic matters. Variations of 1 or 2 percent from year-ahead forecasts of gross national product are not uncommon. Weather forecasting also relies heavily on computer modeling, and no meteorologist takes seriously any forecast of more than 30 days in the future.</p>
+        <p>In forecasting the impact of the greenhouse effect, several computer simulation models are used and cited in the article (and in most serious articles on the subject). It is far more difficult to simulate something as complex as the world environment 50 years from now than the U.S. economy or next summer's weather. Yet this and other articles blithely accept conclusions drawn from the model that was based on 1 percent alterations in the assumptions.</p>
+        <p>There is general agreement in the scientific community that the theory of the greenhouse effect is valid. There is considerable divergence of opinion on how real a threat it poses. Nonetheless, the threat is sufficient to require thoughtful (not precipitate) action now to prevent disaster later.</p>
+        <p>My quarrel is with the evidence you use. A 50-year computer simulation tells us nothing about what will really happen. The last thing we need is to see this high-stakes matter driven by warring computer models that can easily be skewed by slight changes in the assumptions used to show enormous variations in long-term results. JAMES S. HOWARD  New York, Nov. 19, 1989</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

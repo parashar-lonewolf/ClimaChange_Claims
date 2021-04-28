@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Try a Carbon Tax</title>
+    <meta content="L31TK.$01" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1149665"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <person class="indexing_service">Buck, Christopher</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E7DF163BF932A05753C1A96F958260" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Try a Carbon Tax</hl1>
+      </hedline>
+      <abstract>
+        <p>Christopher Buck letter criticizes climate negotiations for not considering carbon tax (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The continuing budget debate in Congress has raised the possibility of a 55-cent-per-pack tax on cigarettes (front page, Oct. 29). It is unconscionable in light of the climate negotiations in Bonn that no proposals have been made to implement a carbon tax rather than or in addition to a cigarette tax. Clearly, carbon taxation is not a politically expedient option.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The continuing budget debate in Congress has raised the possibility of a 55-cent-per-pack tax on cigarettes (front page, Oct. 29). It is unconscionable in light of the climate negotiations in Bonn that no proposals have been made to implement a carbon tax rather than or in addition to a cigarette tax. Clearly, carbon taxation is not a politically expedient option.</p>
+        <p>While issues of regressivity and social justice would have to be addressed, this is no excuse for willful inaction. Failure to act quickly to mitigate the effects of global climate change will only shift the burden to the less affluent and future generations.</p>
+        <p>CHRISTOPHER BUCK  Berkeley, Calif., Oct. 29, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

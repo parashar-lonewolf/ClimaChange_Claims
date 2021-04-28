@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Modernist Design And Fuel Use</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Real Estate; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="848330"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <person class="indexing_service">DIMSON, BARRY H</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E5DC1439F936A35756C0A960958260" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Modernist Design And Fuel Use</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I read the article "Preserving the Legacy of Modernist Design" [April 7] and  was perplexed that the article, while mentioning single-glazed windows and higher operating costs, did not equate these items to greater consumption of fuel, which is a major component of the greenhouse effect. Buildings use 40 percent of the world's fossil fuel reserves. Renovating these buildings with the latest technology in windows and insulation could cut that usage in half, reducing the greenhouse effect and saving resources for future generations.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I read the article "Preserving the Legacy of Modernist Design" [April 7] and  was perplexed that the article, while mentioning single-glazed windows and higher operating costs, did not equate these items to greater consumption of fuel, which is a major component of the greenhouse effect. Buildings use 40 percent of the world's fossil fuel reserves. Renovating these buildings with the latest technology in windows and insulation could cut that usage in half, reducing the greenhouse effect and saving resources for future generations.</p>
+        <p>In addition, the article did not mention at all that most of these buildings have inoperable windows and undersized and antiquated ventilation systems, leading to poor indoor air quality and a reduction in worker productivity. Let's stop worrying so much about preserving glass and steel and start worrying about  worker health and reducing harmful emissions.</p>
+        <p>BARRY H. DIMSON President, Healthy Properties</p>
+        <p>Healthy Properties is a Manhattan company dedicated to promoting and implementing green building practices in the real estate industry.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

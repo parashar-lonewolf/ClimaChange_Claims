@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accord Set On Efficiency For Cooling</title>
+    <meta content="12COOL$01" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/11/12/politics/12cool.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1626581"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Conditioning</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Conditioning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">American Council for an Energy-Efficient Economy</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EEDF163FF931A25752C1A9629C8B63" item-length="407" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accord Set On Efficiency For Cooling</hl1>
+        <hl2 class="online_headline">Accord Set on Efficiency for Cooling</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, Nov. 11</dateline>
+      <abstract>
+        <p>Air-conditioner manufacturers and energy efficiency advocates reach accord on standards for equipment in commercial buildings, ending four years of court fights and eight months of negotiations; under accord, which must be approved by Energy Dept, air-conditioners and heat pumps in commercial buildings must be 26 percent more efficient beginning in 2010; for manufacturers, accord may reduce chance that states would pass their own standards, creating patchwork market (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The combatants in a fight over how much electricity an air-conditioner should use have reached a truce that could eventually lead to savings for building owners.</p>
+        <p>Manufacturers and efficiency advocates, after spending much of the last four years fighting in court over standards for residential central air-conditioning equipment, announced on Thursday that they had agreed on standards for equipment in commercial buildings. The agreement ended eight months of negotiations.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The combatants in a fight over how much electricity an air-conditioner should use have reached a truce that could eventually lead to savings for building owners.</p>
+      </block>
+      <block class="full_text">
+        <p>The combatants in a fight over how much electricity an air-conditioner should use have reached a truce that could eventually lead to savings for building owners.</p>
+        <p>Manufacturers and efficiency advocates, after spending much of the last four years fighting in court over standards for residential central air-conditioning equipment, announced on Thursday that they had agreed on standards for equipment in commercial buildings. The agreement ended eight months of negotiations.</p>
+        <p>''All sides felt it was better to negotiate,'' Steven Nadel, a spokesman for the American Council for an Energy-Efficient Economy, said in a joint statement with the manufacturers and the Energy Department.</p>
+        <p>At the Air-Conditioning and Refrigeration Institute, a trade group, the president, William Sutton, said, ''This agreement represents a win for the environment, for consumers and for manufacturers.''</p>
+        <p>The models, Mr. Sutton said, would also be built to eliminate the use of chemicals called HCFC's, which deplete the ozone layer.</p>
+        <p>Under the accord, air-conditioners and heat pumps in commercial buildings would have to be 26 percent more efficient beginning in 2010. Although the Energy Department would have to approve the agreement, it appears to reduce the potential for another protracted battle. For the manufacturers, the accord may also reduce the chance that the states would pass their own standards, creating a patchwork market.</p>
+        <p>In a joint statement, David Garman, acting energy under secretary, said, ''Given how contentious appliance standard rule makings can be, I am very happy to hear that a broad segment of energy-efficiency advocates and manufacturers have reached agreement on a preferred approach.''</p>
+        <p>By 2020, the efficiency advocates said, the new equipment would reduce power demand 7,400 megawatts, the amount produced by seven large coal-fired power plants. The equipment would cost about 10 percent more to buy than what is now available, but operating costs would be lower. That could save building owners a total of $2.4 billion from 2010 to 2020, the advocates said.</p>
+        <p>Because most parties in an earlier dispute over residential air-conditioning are partners in the accord, a new confrontation seems highly unlikely. In the earlier fight, the Clinton administration approved in its final days a 30 percent improvement in whole-house air-conditioners. The Bush administration rescinded the rule and tried to substitute a 20 percent improvement. The efficiency advocates sued. Eventually, the 30 percent improvement was upheld.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

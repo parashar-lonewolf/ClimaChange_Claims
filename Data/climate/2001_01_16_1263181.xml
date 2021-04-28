@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Solution in Sacramento</title>
+    <meta content="L16CAL$02" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/16/opinion/L16CAL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1263181"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Shortages</classifier>
+        <location class="indexing_service">California</location>
+        <person class="indexing_service">Davis, Gray (Gov)</person>
+        <person class="indexing_service">Cox, Daniel L (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shortages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6D7173DF935A25752C0A9679C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Solution in Sacramento</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Daniel L Cox letter finds Gov Gray Davis's response to California's electric power crisis wanting (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A Jan. 9 front-page news article characterizes Gov. Gray Davis's plan for solving the California energy crisis as ''bolder'' than anticipated.  Aside from a veiled threat to invoke rights of eminent domain for California-based power plants owned by external energy companies, I see little but business as usual.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A Jan. 9 front-page news article characterizes Gov. Gray Davis's plan for solving the California energy crisis as ''bolder'' than anticipated.  Aside from a veiled threat to invoke rights of eminent domain for California-based power plants owned by external energy companies, I see little but business as usual.</p>
+        <p>The governor missed a golden opportunity to bolster alternative power generation (for example, solar and wind power and biomass fuels) that is cost competitive with current electricity wholesale rates. Offering incentives to develop alternative power would lead to cleaner skies, less contribution to greenhouse gases than fossil fuel plants and less dependence on external power suppliers.</p>
+        <p>Mr. Davis also failed to mention the potential for developing publicly owned municipal utility districts like those in Los Angeles and Sacramento, which are evidently immune to the problems deregulation has foisted on the rest of the state.</p>
+        <p>DANIEL L. COX  San Francisco, Jan. 9, 2001</p>
+        <p>The writer is a professor of physics at the University of California at Davis.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

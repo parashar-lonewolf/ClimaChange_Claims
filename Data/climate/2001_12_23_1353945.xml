@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Imagine; Stealth Anti-Environmentalism</title>
+    <meta content="MB020849" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1353945"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Washington (DC)</location>
+        <location class="indexing_service">Afghanistan</location>
+        <person class="indexing_service">Seelye, Katharine Q</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011223T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E2DB1731F930A15751C1A9679C8B63" item-length="352" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Imagine; Stealth Anti-Environmentalism</hl1>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+      <byline class="normalized_byline">Seelye, Katharine Q</byline>
+      <abstract>
+        <p>Fog of war in Afghanistan has obscured some environmentally sensitive actions that would have received front-page coverage as part of evolving 'pro-business' tilt of Bush White House; biggest environmental groups have fallen silent, fearing that attacking president would make them appear unpatriotic (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>George W. Bush was a man with a serious environmental problem throughout his campaign for the presidency. And shortly after he took office, environmental groups successfully managed to cast him as ''pro arsenic,'' for his administration's attempts to change water safety standards.</p>
+        <p>Then came Sept. 11, after which the biggest environmental groups fell silent, fearful that attacking the president would make them appear unpatriotic.</p>
+      </block>
+      <block class="full_text">
+        <p>George W. Bush was a man with a serious environmental problem throughout his campaign for the presidency. And shortly after he took office, environmental groups successfully managed to cast him as ''pro arsenic,'' for his administration's attempts to change water safety standards.</p>
+        <p>Then came Sept. 11, after which the biggest environmental groups fell silent, fearful that attacking the president would make them appear unpatriotic.</p>
+        <p>In response, the administration pressed ahead as quietly as possible -- largely through the regulatory process -- to allow road-building in national forests, reverse the phase-out of snowmobiles in national parks, make it easier for mining companies to dig for gold, copper and zinc on public lands, relax energy-efficiency standards for air conditioners, bar the reintroduction of grizzly bears in the Northwest and make it easier for developers to eliminate wetlands. Most recently, the administration approved the largest timber salvage operation in the nation's history in the Bitterroot National Forest, openly skirting the public appeals process, a move that has been halted by the courts.</p>
+        <p>The administration also pushed for drilling for oil in a wildlife refuge in Alaska as an attempt to bolster national security. And the fog of war has obscured, too, the administration's policy on global warming. Last summer, after President Bush rejected the international Kyoto treaty on global warming, he pledged to start research programs to study climate shifts and find new technologies to cut emissions without harming the economy. But government scientists say that administration officials are now telling agencies not to expect additional money to pay for new efforts.</p>
+        <p>Many of these actions would have received front-page coverage as part of the evolving ''pro-business'' tilt of the Bush White House.</p>
+        <p>KATHARINE Q. SEELYE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

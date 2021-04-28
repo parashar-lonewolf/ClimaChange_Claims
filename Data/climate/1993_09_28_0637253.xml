@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Finds Severe Hurricane Is Due in Alabama</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="The Environment Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="637253"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HURRICANES AND TROPICAL STORMS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">COASTAL AREAS</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DATING</classifier>
+        <location class="indexing_service">ALABAMA</location>
+        <org class="indexing_service">LOUISIANA STATE UNIVERSITY</org>
+        <person class="indexing_service">LIU, KAM-BIU (PROF)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alabama</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1D71639F93BA1575AC0A965958260" item-length="350" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Finds Severe Hurricane Is Due in Alabama</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>USING carbon-dated sediment from the bottom of a lake in Alabama, scientists have calculated that severe hurricanes strike the area every 600 years on average. That means the area may be overdue for another one.</p>
+        <p>Dr. Kam-biu Liu, an associate professor of geography and anthropology at Louisiana State University in Baton Rouge, said the research that he led showed that the Alabama coast was last hit directly by such a hurricane 770 years ago. The results of the study are reported in the current issue of the journal Geology.</p>
+      </block>
+      <block class="full_text">
+        <p>USING carbon-dated sediment from the bottom of a lake in Alabama, scientists have calculated that severe hurricanes strike the area every 600 years on average. That means the area may be overdue for another one.</p>
+        <p>Dr. Kam-biu Liu, an associate professor of geography and anthropology at Louisiana State University in Baton Rouge, said the research that he led showed that the Alabama coast was last hit directly by such a hurricane 770 years ago. The results of the study are reported in the current issue of the journal Geology.</p>
+        <p>Dr. Liu estimated the recurrence of category four or five hurricanes, the two most severe types of hurricanes on a scale of one to five. He did so by studying sand deposits in the center of Lake Shelby, a freshwater lake near the Gulf of Mexico. In the cores of sediment, the scientists found thin layers of sand that could only have been thrown from the shore into the lake by the winds of the more forceful hurricanes.</p>
+        <p>Using the sediment findings from Hurricane Frederic, a category three storm that struck the shores of Lake Shelby in September 1979 and tossed sand only near the perimeter of the lake but not the center, Dr. Liu said the sand layers from the middle of the lake had to have been formed by more intense hurricanes than Frederic. By the depth of the sand layers, Dr. Liu could tell when the hurricanes occurred and by the thickness of the layer he could determine the relative force of the storms.</p>
+        <p>Reliable hurricane records have been kept for the last 120 years and in that time the only category five hurricane to hit the continental United States was Hurricane Camille, which struck Mississippi in 1969.</p>
+        <p>Dr. Liu has collected data from 12 sites along the Gulf Coast from Florida to Texas. He said analysis of these cores would provide a comprehensive hurricane record for the last 6,000 years. Such a record would help scientists test climate models that suggest, for example, that as the earth's temperature increases as a result of global warming, hurricanes may intensify by 40 to 60 percent and may occur more frequently.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

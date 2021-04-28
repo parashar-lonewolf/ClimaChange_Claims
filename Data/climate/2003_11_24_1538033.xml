@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Supercomputing has the momentum, judging by dueling conventions.</title>
+    <meta content="24NECO$03" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/11/24/technology/24neco.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1538033"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="New Economy"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Comdex (Computer Trade Show)</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <location class="indexing_service">Phoenix (Ariz)</location>
+        <location class="indexing_service">Las Vegas (Nev)</location>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Nevada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/New Economy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Phoenix</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada/Las Vegas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="online_producer" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+        <org class="online_producer">Microsoft Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00EEDA113BF937A15752C1A9659C8B63" item-length="1048" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Supercomputing has the momentum, judging by dueling conventions.</hl1>
+        <hl2 class="online_headline">Switching Allegiances in Computers</hl2>
+      </hedline>
+      <byline class="print_byline">By John Markoff</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>PHOENIX</dateline>
+      <abstract>
+        <p>John Markoff column says new interest of supercomputers was evident at SC2003 trade show in Phoenix, which drew crowd of 8,000 visitors; says decline of Comdex show in Las Vegas, where attendance was down to 45,000 to 50,000 from more than 200,000 just three years ago, illustrates how center of gravity in computing world is shifting from its focus on development of faster, more powerful personal computers toward creating supersophisticated machines and building computing intelligence into common consumer electronics devicdes; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TWO seemingly unrelated indicators  the fact that hotels in downtown Phoenix were sold out at the same time that there were no taxi lines in Las Vegas -- point to subtle but sweeping changes under way in the computer industry.</p>
+        <p>Here in Phoenix, 8,000 people crowded into SC2003, the 15-year-old supercomputing industry trade show and conference that has traditionally been the exclusive province of some of the brainiest techies in the computer industry. Meanwhile, Comdex -- long the computer industry's premier annual event -- was a shadow of its former self at its 24-year-old home in Las Vegas.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two recent trade shows tell a lot about how winners and losers emerge as computing technology reacts to technical advances.</p>
+      </block>
+      <block class="full_text">
+        <p>TWO seemingly unrelated indicators  the fact that hotels in downtown Phoenix were sold out at the same time that there were no taxi lines in Las Vegas -- point to subtle but sweeping changes under way in the computer industry.</p>
+        <p>Here in Phoenix, 8,000 people crowded into SC2003, the 15-year-old supercomputing industry trade show and conference that has traditionally been the exclusive province of some of the brainiest techies in the computer industry. Meanwhile, Comdex -- long the computer industry's premier annual event -- was a shadow of its former self at its 24-year-old home in Las Vegas.</p>
+        <p>The contrast tells a lot about how winners and losers emerge as computing technology reacts to technical advances as well as changing market and political realities.</p>
+        <p>The supercomputer industry has begun to show renewed signs of life after almost a decade of decline -- bolstered in part by the government's efforts to develop systems to help prevent terrorism as well as concerns over global economic competitiveness.</p>
+        <p>One crucial factor behind the new interest in supercomputers -- the ultrafast machines capable of handling vast quantities of information to tackle such tasks as modeling the effects of global warming or sorting through millions of digital photographs to find a particular person -- was the completion of the Japanese NEC Earth Simulator, now the world's fastest supercomputer.</p>
+        <p>''The Japanese Earth Simulator has re-energized the U.S. government and the high performance computing field,'' said Jim McGraw, deputy director of the Institute for Scientific Computing Research at Lawrence Livermore National Laboratory in California and chairman of SC2003.</p>
+        <p>The exhibition also highlighted the extent to which the industry has seized on grid computing, which uses complex software to harness dozens, hundreds, even thousands of computers in a single, far more powerful system.</p>
+        <p>''Grids have happened,'' said David Turek, vice president of I.B.M.'s Deep Computing initiative. ''It's fundamentally a proposition about access to computing power and it's cascading across the industry.''</p>
+        <p>The supercomputing renaissance could be seen here in a 100,000-square-foot exhibit floor, which was two-thirds the size of the once vast but now shrinking Comdex exhibition in Las Vegas.</p>
+        <p>The decline of Comdex, which this year concentrated far more on heavy-duty applications for corporations, illustrates how the center of gravity in the computing world is shifting from its focus on the development of faster, more powerful personal computers. Instead, the action now seems to be, on one hand, in creating super-sophisticated machines capable of taking on new tasks and, on the other, building computing intelligence into common consumer electronics devices like wireless phones, home entertainment equipment and even kitchen appliances.</p>
+        <p>Comdex, which for years had been the Las Vegas showplace for the booming personal computer industry, reached dizzying heights in the late 1990's. Just three years ago, several thousand companies supported the event, which filled more than 1.2 million square feet of space, drew more than 200,000 attendees and sprawled across exhibition halls, producing hourlong cab lines.</p>
+        <p>This year, after the company that runs the show emerged from bankruptcy protection, attendance estimates ranged from 45,000 to 50,000 -- several analysts said the actual number was lower -- to view exhibits from about 550 companies taking up about 150,000 square feet.</p>
+        <p>There are several reasons for the decline of Comdex that go beyond the downturn in high-technology spending. The principal cause is almost certainly the way personal computers are now sold. The rise of the Internet as a dominant sales channel, which has contributed to wiping out most independent computer dealers, has made the show increasingly irrelevant for its original purpose.</p>
+        <p>By contrast, the SC2003 exhibition this year sold out its largest venue since the show was created and turned away 50 companies because the hall had run out of space.</p>
+        <p>For the first time, Microsoft was an exhibitor. Apple Computer, which in the past had only a tiny presence, was also a new force on the strength of a surprisingly powerful homebuilt supercomputer recently assembled by researchers and students at Virginia Tech from 1,100 new Apple G5 desktop computers.</p>
+        <p>The achievement was viewed here both as a vindication for I.B.M., whose microprocessor is at the heart of the new Apple computer, and as an indication that the action in computer design is shifting from the PC world and back to the makers of powerful machines.</p>
+        <p>Indeed, one of the liveliest discussions recently has been about why Microsoft chose I.B.M.'s processor technology over Intel's for the next generation of its Xbox video game machines. Neither Microsoft nor I.B.M. has explained the decision in detail, but several technology experts here speculated that one reason might be because I.B.M. has quietly begun pushing its hardware in a new direction known in the industry as reconfigurable logic.</p>
+        <p>Such semiconductor devices can be reorganized internally to run different kinds of applications quickly. The chip technology could be used to run both Microsoft's existing Xbox software and newer applications at high speed.</p>
+        <p>An I.B.M. executive refused to comment on the possibility. Several computer makers here, however, were exhibiting designs that for the first time take advantage of reconfigurable logic to adapt hardware to different computing problems.</p>
+        <p>Back in Las Vegas, even though Comdex continued to attract industry titans like Bill Gates, Microsoft's chairman, and Scott McNealy, Sun Microsystem's chief executive, the trade show had the desultory feel of an event that has lost its way, several attendees said.</p>
+        <p>''Shows have to step up to the changes in the technology,'' said Rob Enderle, a computer industry consultant in San Jose, Calif. ''When the world changes you either adapt or you become extinct.''</p>
+        <p>New Economy</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

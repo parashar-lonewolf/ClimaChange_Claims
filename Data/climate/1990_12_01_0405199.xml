@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gillette Warns Of Plant Closing</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="405199"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FACTORIES AND INDUSTRIAL PLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHUTDOWNS (INSTITUTIONAL)</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <location class="indexing_service">BOSTON (MASS)</location>
+        <org class="indexing_service">GILLETTE CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Boston</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DA153DF932A35751C1A966958260" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gillette Warns Of Plant Closing</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>BOSTON, Nov. 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Gillette Company is threatening to close the world's largest razor blade plant if Boston bans ozone-depleting chemicals. The City Council is considering outlawing chemicals that when released into the atmosphere deplete the ozone layer protecting the earth from damaging rays from the sun.</p>
+        <p>At a hearing on Thursday, Gillette's vice chairman, Joseph E. Mullaney, said that the ban would put the company at a significant competitive disadvantage and that if the bill were adopted, Gillette would close its plant in the South Boston section by January 1992. A statement from the company this morningsoft-pedaled the threat somewhat, saying if the proposed ordinance is approved, Gillette "will make any necessary decisions at that time." Joan Fitzgerald, a Gillette spokeswoman, said the company hoped a compromise wording for the ordinance could be worked out. The Gillette plant employs 3,100 people.</p>
+      </block>
+      <block class="full_text">
+        <p>The Gillette Company is threatening to close the world's largest razor blade plant if Boston bans ozone-depleting chemicals. The City Council is considering outlawing chemicals that when released into the atmosphere deplete the ozone layer protecting the earth from damaging rays from the sun.</p>
+        <p>At a hearing on Thursday, Gillette's vice chairman, Joseph E. Mullaney, said that the ban would put the company at a significant competitive disadvantage and that if the bill were adopted, Gillette would close its plant in the South Boston section by January 1992. A statement from the company this morningsoft-pedaled the threat somewhat, saying if the proposed ordinance is approved, Gillette "will make any necessary decisions at that time." Joan Fitzgerald, a Gillette spokeswoman, said the company hoped a compromise wording for the ordinance could be worked out. The Gillette plant employs 3,100 people.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

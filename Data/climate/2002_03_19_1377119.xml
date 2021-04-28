@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Now, About That Beachfront Property . . .</title>
+    <meta content="LTR005114" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1377119"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Foreign Investments</classifier>
+        <location class="indexing_service">Florida</location>
+        <person class="indexing_service">Mclaughlin, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreign Investments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E0D81538F93AA25750C0A9649C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Now, About That Beachfront Property . . .</hl1>
+      </hedline>
+      <abstract>
+        <p>Andrew McLaughlin letter on March 12 article cites environmental risks to beachfront investors; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Via South America, a Beachfront Boom for South Florida'' (front page, March 12) mentioned several hazards that investors from South America or elsewhere might encounter in their purchase of beachfront properties.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Via South America, a Beachfront Boom for South Florida'' (front page, March 12) mentioned several hazards that investors from South America or elsewhere might encounter in their purchase of beachfront properties.</p>
+        <p>It did not, however, mention the dangers posed by rising ocean levels. Recent studies have indicated that ice melting from glaciers around the world will require the Intergovernmental Panel on Climate Change to greatly increase its 2001 estimates of the rise in ocean levels in this century. Rising ocean levels make beachfront investment rather hazardous.</p>
+        <p>Of course, the greatest risk is to those who actually live on the shores of oceans.</p>
+        <p>ANDREW MCLAUGHLIN  Warwick, N.Y., March 12, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

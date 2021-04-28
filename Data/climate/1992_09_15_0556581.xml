@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Germany's Pollution Offers A Shield</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="The Environment Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="556581"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <location class="indexing_service">NEW ZEALAND</location>
+        <location class="indexing_service">GERMANY</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/New Zealand</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DF123CF936A2575AC0A964958260" item-length="373" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Germany's Pollution Offers A Shield</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALTHOUGH they occupy similar latitudes in opposite hemispheres, New Zealand is exposed to nearly twice as much harmful ultraviolet radiation from the Sun as Germany, scientists have found.</p>
+        <p>Ozone in the atmosphere screens out the radiation, and the scientists attributed the sharp difference to reduced ozone in the upper atmosphere, or stratosphere, over New Zealand and increased ozone polluting the lower atmosphere, or troposphere, over Germany.</p>
+      </block>
+      <block class="full_text">
+        <p>ALTHOUGH they occupy similar latitudes in opposite hemispheres, New Zealand is exposed to nearly twice as much harmful ultraviolet radiation from the Sun as Germany, scientists have found.</p>
+        <p>Ozone in the atmosphere screens out the radiation, and the scientists attributed the sharp difference to reduced ozone in the upper atmosphere, or stratosphere, over New Zealand and increased ozone polluting the lower atmosphere, or troposphere, over Germany.</p>
+        <p>This kind of pollution is found all over the Northern Hemisphere, said Dr. Gunther Seckmeyer of the Research Center for Environmental Health in Neuherberg, Germany, who was co-author of the study in the current issue of the journal Nature with Dr. Richard L. McKenzie of the Department of Scientific and Industrial Research in Lauder, New Zealand.</p>
+        <p>The researchers analyzed measurements of ultraviolet radiation, starting in 1986 during periods when the sky was clear in Neuherberg and the Wank Mountain in southern Germany (48 degrees north), and between November 1990 and March 1991 at Lauder (45 degrees south). The researchers used models of ozone in the atmosphere above both regions to account for the sharp difference in ultraviolet radiation.</p>
+        <p>The relative lack of upper level ozone in New Zealand agrees with other global ozone observations suggesting that ozone reductions have extended beyond the poles to include the midlatitudes in both the Northern and Southern Hemispheres.</p>
+        <p>"We have to expect an increase of ultraviolet radiation in the Northern Hemisphere as well as in the Southern Hemisphere," Dr. McKenzie said. "The ground-based ozone levels in the troposphere over areas such as Germany will stabilize, but there will probably still be reduction of the stratospheric ozone."</p>
+        <p>Because of the limited accuracy and ability of the models to predict trends in ozone depletion, Dr. McKenzie said, "we really don't know what is going to happen to the ozone layer."</p>
+        <p>He added: "We have now only compared cloudless days, but we have to extend our research to the study of cloudy days, because most of the time the sky is cloudy. We need long-term programs to monitor UV radiation. There should be some international efforts made to come together and work on this."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

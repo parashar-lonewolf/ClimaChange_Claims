@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Double Green</title>
+    <meta content="LTR015025" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="Greenhouse Theory Inflates Human Significance" name="column_name"/>
+    <docdata>
+      <doc-id id-string="928816"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Greenhouse Theory Inflates Human Significance"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <org class="indexing_service">Union of Concerned Scientists</org>
+        <person class="indexing_service">Mckibben, Bill</person>
+        <person class="indexing_service">Goetze, Darren</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EFDD1239F933A25756C0A961958260" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Double Green</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Darren Goetze of Union of Concerned Scientists praises Bill McKibben's May 3 Op-Ed article as wake-up call on emissions of heat-trapping gases and global warming (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bill McKibben's wake-up call on global warming (Op-Ed, May 3) could not have come at a better time. In less than seven months, the world's governments will gather in Japan to decide how to reduce emissions of heat-trapping gases that are changing our climate and threatening human health and the environment.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bill McKibben's wake-up call on global warming (Op-Ed, May 3) could not have come at a better time. In less than seven months, the world's governments will gather in Japan to decide how to reduce emissions of heat-trapping gases that are changing our climate and threatening human health and the environment.</p>
+        <p>Many forward-thinking businesses -- like the reinsurance industry and high-technology companies -- are joining scientists in the call for action, because the technology for cost-effective solutions exists today. For example, Vermont's Green Mountain Power Corporation has reduced electricity consumption through energy-efficiency programs, saving its customers $5 million a year.</p>
+        <p>With a cooperative plan involving government, industry and individuals, we can simultaneously protect our fragile climate and bolster the bottom line.</p>
+        <p>DARREN GOETZE  Cambridge, Mass., May 5, 1997</p>
+        <p>The writer is a staff scientist at the Union of Concerned Scientists.</p>
+        <p>Greenhouse Theory Inflates Human Significance</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

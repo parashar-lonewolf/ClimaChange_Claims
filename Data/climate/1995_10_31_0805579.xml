@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="805579"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MAMMOTHS</classifier>
+        <classifier class="indexing_service" type="descriptor">PUMPKINS</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fruit</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E5DD1639F932A05753C1A963958260" item-length="370" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLIABORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mammoth Meat Q.  I heard about explorers eating frozen mammoth. What was it like?</p>
+      </block>
+      <block class="full_text">
+        <p>Mammoth Meat Q.  I heard about explorers eating frozen mammoth. What was it like?</p>
+        <p>A.  Everyone has heard the rumor, but probably only dogs, or passing wolves, ever enjoyed a modern feast of mammoth meat. It looks like horse meat but quickly rots.</p>
+        <p>Several mammoths were found in permafrost, preserved since the last glacial  period, according to "On the Track of Ice Age Mammals," by Antony J. Sutcliffe (Harvard University Press). The most famous was found in 1901 near the banks of  the Berezovka River in Siberia. An Academy of Science expedition with dog sleds  was quickly sent. "Exotic Zoology" by Willy Ley (Viking) says the expedition found a nearly complete carcass, but wolves and dogs had left the skull almost bare.</p>
+        <p>"The meat was dark red, suggesting horse meat, and marbled with fat," the book says. "The dogs ate it avidly; the men could not quite steel themselves to  try it too." Members of the expedition said the stench was like that of a badly  kept stable blended with that of offal. Members of later trips said scientists never banqueted on or even sampled the meat.</p>
+        <p>Books that describe a banquet usually lack a place and date. The rumor seems  to have arisen from Siberian natives' superstitions warning against eating the meat, says "Dinosaur Plots," by Leonard Krishtalka (William Morrow), though the  Yakut fed it to their dogs in time of famine, I.P. Tolmachoff wrote in 1929.</p>
+        <p>Exploding Pumpkin</p>
+        <p>Q.  I went away for a long weekend at Halloween time and my uncarved pumpkin  exploded. Why?</p>
+        <p>A.  The pumpkin almost certainly exploded for the same reason that champagne pops its cork. Several microorganisms that feed on vegetable material produce carbon dioxide as a waste product, Van Nostrand's Scientific Encyclopedia says.  The pumpkin was probably not fresh off the vine when bought, and a few days in a warm house gave these microorganisms time to multiply. The gas built up, then burst through the shell.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

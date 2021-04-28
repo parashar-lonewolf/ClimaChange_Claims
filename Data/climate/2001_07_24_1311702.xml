@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smoking May Reduce Fertility in Women</title>
+    <meta content="24FERT$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/07/24/health/children/24FERT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1311702"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="VITAL SIGNS: SIDE EFFECTS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Smoking</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010724T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6D8153AF937A15754C0A9679C8B63" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smoking May Reduce Fertility in Women</hl1>
+        <hl2 class="online_headline">Side Effects: Smoking May Reduce Fertility in Women</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC NAGOURNEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Women who smoke may be reducing their chances of having a baby, a new study finds.</p>
+        <p>Exposure to even a small amount of a class of chemicals in cigarette smoke may destroy a woman's eggs in the ovaries, researchers wrote in last week's issue of Nature Genetics.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Women who smoke may be reducing their chances of having a baby, a new study finds</p>
+      </block>
+      <block class="full_text">
+        <p>Women who smoke may be reducing their chances of having a baby, a new study finds.</p>
+        <p>Exposure to even a small amount of a class of chemicals in cigarette smoke may destroy a woman's eggs in the ovaries, researchers wrote in last week's issue of Nature Genetics.</p>
+        <p>''I think there's an alarming connection that's going on here,'' said the lead author of the study, Dr. Jonathan L. Tilly of Massachusetts General Hospital and Harvard Medical School.</p>
+        <p>Smoking is already suspected of hastening the onset of menopause in some smokers. And fertility treatments are known to be less successful in women who smoke. The new study offers evidence why.</p>
+        <p>Chemicals in smoke known as polycyclic aromatic hydrocarbons, also created when fossil fuels are burned, spur the expression in the eggs of a gene called ''bax.'' When this takes place, the eggs almost always die.</p>
+        <p>To prove their theory, researchers grafted sections of human ovaries into mice and then exposed them to the hydrocarbons. Even a single exposure, they reported, produced a marked increase in the number of eggs that were degenerating.</p>
+        <p>Apart from the implications for women hoping to conceive, the study may help explain why women who smoke seem to enter menopause several years earlier than the average age in the United States (about 50). The difference may be explained simply by the earlier death of the eggs, the researchers said.</p>
+        <p>VITAL SIGNS: SIDE EFFECTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Other Hand</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="251270"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="TOPICS OF THE TIMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <object.title class="indexing_service">TOPICS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DA143BF93BA25756C0A96F948260" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Other Hand</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The weather has certainly mixed its blessings so far this year. The balmy winter was a pleasure and kept heating bills down. But on the other hand, as everybody kept saying, it may have been the ominous greenhouse effect. The endless spring rains have flooded cellars and made a mess of outdoor life.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The weather has certainly mixed its blessings so far this year. The balmy winter was a pleasure and kept heating bills down. But on the other hand, as everybody kept saying, it may have been the ominous greenhouse effect. The endless spring rains have flooded cellars and made a mess of outdoor life.</p>
+        <p>The weather has certainly mixed its blessings so far this year. The balmy winter was a pleasure and kept heating bills down. But on the other hand, as everybody kept saying, it may have been the ominous greenhouse effect. The endless spring rains have flooded cellars and made a mess of outdoor life. But on the other hand, we keep telling each other, it fills the reservoirs.</p>
+        <p>If things go on this way we may have an unbearably hot midsummer, which will wear out both us and our air-conditioners. But on the other hand, it could ripen the tomatoes early. A late December blizzard might stop just about everything. But on the other hand, it can give us a real white Christmas.</p>
+        <p>Of course, we could have a normal pleasant year and that would be a comfort. But on the other hand, it would make talk about the weather a lot less interesting.</p>
+        <p>TOPICS OF THE TIMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

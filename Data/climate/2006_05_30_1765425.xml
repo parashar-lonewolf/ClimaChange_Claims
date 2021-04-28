@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Science and Politics, Heat and Light</title>
+    <meta content="l30warm-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1765425"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Bossong, Ken</person>
+        <person class="indexing_service">Easterbrook, Gregg</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEEDB1F3EF933A05756C0A9609C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Science and Politics, Heat and Light</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Sun Day Campaign coordinator Ken Bossong lauds Gregg Easterbrook for switching sides in debate on global warming from skeptic to convert; says clear evidence of climate change has been around for at least two decades but Easterbrook's skepticism has provided cover for opponents (May 24 Op-Ed article); drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Finally Feeling the Heat,'' by Gregg Easterbrook (Op-Ed, May 24):</p>
+        <p>So Mr. Easterbrook has finally decided to switch sides regarding global warming, ''from skeptic to convert.'' Well it's about time!</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Finally Feeling the Heat,'' by Gregg Easterbrook (Op-Ed, May 24):</p>
+        <p>So Mr. Easterbrook has finally decided to switch sides regarding global warming, ''from skeptic to convert.'' Well it's about time!</p>
+        <p>Notwithstanding his claims to the contrary, clear evidence of climate change has been around for at least the past two decades. Unfortunately, self-styled ''environmental commentators'' like Mr. Easterbrook, who have publicly voiced skepticism about global warming, have succeeded in providing cover for polluters and their political allies who have resisted taking long-overdue action to address the issue.</p>
+        <p>If the United States had begun grappling with climate change 20 years ago, the solutions would have been far easier and far cheaper, and recent climate-induced catastrophes such as Hurricane Katrina might have been avoided.</p>
+        <p>Ken Bossong  Takoma Park, Md., May 24, 2006</p>
+        <p>The writer is coordinator, Sun Day Campaign.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

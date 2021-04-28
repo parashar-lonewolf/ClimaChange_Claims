@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No NASA Role in Movie</title>
+    <meta content="L01NASA" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1578167"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Mahone, Glenn</person>
+        <object.title class="indexing_service">Day After Tomorrow, The (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E5D9143DF932A35756C0A9629C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No NASA Role in Movie</hl1>
+      </hedline>
+      <abstract>
+        <p>NASA Asst Admr Glenn Mahone letter holds that agency does not plan any specific support for film The Day After Tomorrow because producers have not signed cooperation agreement</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''NASA Curbs Comments on Ice Age Disaster Movie'' (news article, April 25):</p>
+        <p>At first, a number of NASA representatives assisted with the development of the movie ''The Day After Tomorrow.'' But NASA requires film producers to sign a cooperation agreement before any formal support is provided.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''NASA Curbs Comments on Ice Age Disaster Movie'' (news article, April 25):</p>
+        <p>At first, a number of NASA representatives assisted with the development of the movie ''The Day After Tomorrow.'' But NASA requires film producers to sign a cooperation agreement before any formal support is provided.</p>
+        <p>This is a standard agency procedure that has succeeded with blockbusters like ''Armageddon'' and ''Space Cowboys.''</p>
+        <p>But the producers of ''The Day After Tomorrow'' have not signed an agreement. As such, NASA does not plan any specific support of this production.</p>
+        <p>We do not try to control or modify the scientific findings of those engaged in climate change research. Indeed, the taxpayers provide more than $1 billion a year for NASA climate change research. As always, we will answer any scientific questions that arise attendant to the movie's release.</p>
+        <p>GLENN MAHONE  Assistant Administrator  of Public Affairs, NASA  Washington, April 26, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Push for Clean Energy</title>
+    <meta content="19empire-2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1834194"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE1D71630F93AA25750C0A9619C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Push for Clean Energy</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL COOPER</byline>
+      <byline class="normalized_byline">Cooper, Michael</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There may be some money coming into state coffers next year that no one is accounting for. Under the Regional Greenhouse Gas Initiative, a multistate pact intended to reduce carbon dioxide emissions from power plants, New York State could be in a position to begin auctioning emissions allowances to power plants in January.</p>
+        <p>Those auctions could yield more than $250 million a year, officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>There may be some money coming into state coffers next year that no one is accounting for. Under the Regional Greenhouse Gas Initiative, a multistate pact intended to reduce carbon dioxide emissions from power plants, New York State could be in a position to begin auctioning emissions allowances to power plants in January.</p>
+        <p>Those auctions could yield more than $250 million a year, officials said.</p>
+        <p>Now Assemblyman Michael N. Gianaris, below -- a Queens Democrat whose long interest in energy policy was heightened after the Con Edison blackout in Queens in 2006 -- is calling for that money to be earmarked for energy conservation and clean energy development.</p>
+        <p>In a letter to Assembly Speaker Sheldon Silver that was signed by 25 colleagues, he calls for putting language in the budget to make sure the money is dedicated to energy initiatives, not closing budget holes.</p>
+        <p>''New York should set a goal of doubling energy-efficiency spending,'' Mr. Gianaris wrote. ''The best way to do that would be to invest the proceeds from our sales of emissions allowances envisioned by the Regional Greenhouse Gas Initiatives and other emissions allowances back into energy conservation activities.''</p>
+        <p>MICHAEL COOPER</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

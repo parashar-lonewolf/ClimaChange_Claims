@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Our Fragile Ecosystems</title>
+    <meta content="L29ENV$03" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/29/opinion/L29ENV.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1266693"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <person class="indexing_service">Epstein, Paul R (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E5D9123FF93AA15752C0A9679C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Our Fragile Ecosystems</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Paul R Epstein letter on Jan 22, 23 and 25 articles on crises linked to heavy dependence on fossil fuels calls for energy conservation policies that use clean energy sources</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>An oil spill in the Galápagos; an energy crisis in California; and global warming accelerating (news articles, Jan. 22, 23 and 25). Common to all is our dependence on fossil fuels: their extraction, mining, refining, transport and combustion.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>An oil spill in the Galápagos; an energy crisis in California; and global warming accelerating (news articles, Jan. 22, 23 and 25). Common to all is our dependence on fossil fuels: their extraction, mining, refining, transport and combustion.</p>
+        <p>From fragile ecosystems to choking cities, oil and coal play profoundly destructive roles. Today, the ocean is warming, ice is melting and water vapor is rising. How many disasters will it take before we adopt energy conservation policies that use clean energy sources? The proper incentives could make the energy conversion a boon to the global economy.</p>
+        <p>PAUL R. EPSTEIN, M.D.  Boston, Jan. 25, 2001</p>
+        <p>The writer is associate director, Center for Health and the Global Environment, Harvard Medical School.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

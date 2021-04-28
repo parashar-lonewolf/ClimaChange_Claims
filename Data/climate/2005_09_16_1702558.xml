@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Council Approves Construction Rules</title>
+    <meta content="16mbrfs-7" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1702558"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6D71E31F935A2575AC0A9639C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Council Approves Construction Rules</hl1>
+      </hedline>
+      <byline class="print_byline">By Winnie Hu (NYT); Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The City Council passed legislation yesterday that would require any major building construction or renovation paid for with city capital funds to adhere to "green standards," which include using renewable energy sources and conserving materials. Council leaders said the law would affect $12 billion in planned construction projects, including $5 billion for new schools. The Council also passed a law to increase fines on stores that lock workers in against their will as a way to prevent thefts, and another one that strengthens human rights protections for city residents.  Winnie Hu (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The City Council passed legislation yesterday that would require any major building construction or renovation paid for with city capital funds to adhere to "green standards," which include using renewable energy sources and conserving materials. Council leaders said the law would affect $12 billion in planned construction projects, including $5 billion for new schools. The Council also passed a law to increase fines on stores that lock workers in against their will as a way to prevent thefts, and another one that strengthens human rights protections for city residents.  Winnie Hu (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

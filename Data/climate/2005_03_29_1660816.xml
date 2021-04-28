@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="29OBSE$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1660816"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050329T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EFDC123FF93AA15750C0A9639C8B63" item-length="717" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Algae as an Indicator</p>
+        <p>On the chart of mass extinctions, the one that occurred about 250 million years ago was the greatest hit. That is, life on earth took its greatest hit: roughly 95 percent of marine species disappeared, as did about 70 percent of land plants and animals.</p>
+        <p>What caused the extinction (known as the P-T event because it marks the boundary between the Permian and Triassic periods) is unclear. Even its speed is a subject of debate. If the die-off was a result of an asteroid strike, for example, as some scientists have argued recently, it could have happened all at once. But if the culprit was climate change, caused by volcanic eruptions or other phenomena, the extinctions might have occurred more slowly, in several stages.</p>
+      </block>
+      <block class="full_text">
+        <p>Algae as an Indicator</p>
+        <p>On the chart of mass extinctions, the one that occurred about 250 million years ago was the greatest hit. That is, life on earth took its greatest hit: roughly 95 percent of marine species disappeared, as did about 70 percent of land plants and animals.</p>
+        <p>What caused the extinction (known as the P-T event because it marks the boundary between the Permian and Triassic periods) is unclear. Even its speed is a subject of debate. If the die-off was a result of an asteroid strike, for example, as some scientists have argued recently, it could have happened all at once. But if the culprit was climate change, caused by volcanic eruptions or other phenomena, the extinctions might have occurred more slowly, in several stages.</p>
+        <p>A new paper published in the journal Nature adds support for the idea that the P-T extinction took place in several steps. The work, led by Dr. Richard D. Pancost of the University of Bristol in England, looks at how cyanobacteria, or blue-green algae, responded during the extinction period. If most other marine organisms became extinct, for example, cyanobacteria might have increased because fewer creatures were around to graze on it.</p>
+        <p>Dr. Pancost and his team analyzed sedimentary rocks from Meishan in southern China for biochemical evidence of the rise and fall of cyanobacteria. Meishan contains rocks that span the P-T boundary period, and fossils of marine invertebrates unearthed there have already provided clues that the extinction may have occurred in two or more stages.</p>
+        <p>The analysis showed that cyanobacteria levels reached two minimums, which preceded extinctions shown in the fossil record, followed quickly by two maximums. The researchers say this suggests that the P-T die-off occurred in at least two stages, with the blue-green algae expanding after each stage.</p>
+        <p>Memory of a Honeybee</p>
+        <p>The honeybee may be small, and its brain even smaller, but don't sell it short. In recent years scientists have discovered much about the honeybee's intelligence. It can use the orientation of the sun, for example, to time its visits to a particular flower.</p>
+        <p>Scientists at the Australian National University and Würzburg University in Germany have discovered something else about the bee's brain: it has a good short-term memory.</p>
+        <p>The researchers tested bees at the Australian university's All-Weather Bee Flight Facility, a large climate-controlled greenhouse. Bees flew through a tunnel with a patterned sheet hanging in it, and were then confronted with several patterned chambers, one of which matched the tunnel's pattern. If the bee remembered the tunnel pattern and chose the matching chamber, it was rewarded with sugar water.</p>
+        <p>The researchers lengthened the tunnel to increase the time that the bees had to remember the initial pattern. They found that the bees could retain the pattern in their memory (and choose the correct chamber) for up to five seconds. The findings were reported in The Proceedings of the National Academy of Sciences.</p>
+        <p>In a second set of experiments, the bees were presented with two patterns in the tunnel: the correct one and an incorrect one. The bees were able to use the correct pattern to choose the reward chamber, based on the sequence in which they encountered the tunnel patterns. When the experiment was repeated with unfamiliar patterns, the bees were able to make the correct choice based on the order of the new patterns.</p>
+        <p>The results, the researchers say, show that the honeybee's working memory is both robust and flexible.</p>
+        <p>New Views of Earth</p>
+        <p>Those Apollo-era pictures of Earth as a blue orb floating in space did much to encourage the environmental movement of the 1970's. Now NASA has produced some new images of Earth, but it's unclear exactly what they might inspire.</p>
+        <p>They are of Earth's gamma ray emissions, a byproduct of the bombardment of the planet by cosmic rays. The images, assembled from data from a gamma ray observatory 260 miles above Earth, are at www .nasa.gov/vision/earth/lookingatearth/gamma--earth.html.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

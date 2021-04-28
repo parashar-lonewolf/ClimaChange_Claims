@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nuclear Energy Perks</title>
+    <meta content="LROSSI$02" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="961667"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <org class="indexing_service">Environmental Defense Fund</org>
+        <person class="indexing_service">Rossin, A David</person>
+        <person class="indexing_service">Oppenheimer, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E3DB113AF932A35753C1A961958260" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nuclear Energy Perks</hl1>
+      </hedline>
+      <abstract>
+        <p>A David Rossin letter notes that Sept 25 letter by Michael Oppenheimer, chief scientist of Environmental Defense Fund, calls for curtailing greenhouse emissions; contends that defense fund opposes only way to curtail emissions enough to make any real difference--nuclear energy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Michael Oppenheimer, the chief scientist of the Environmental Defense Fund, calls for curtailing greenhouse emissions (letter, Sept. 25). But the defense fund opposes the only way to curtail emissions enough to make any real difference -- nuclear energy, as France's program proves.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Michael Oppenheimer, the chief scientist of the Environmental Defense Fund, calls for curtailing greenhouse emissions (letter, Sept. 25). But the defense fund opposes the only way to curtail emissions enough to make any real difference -- nuclear energy, as France's program proves.</p>
+        <p>If environmental groups really care about global warming, they should work with Government and industry to get nuclear wastes disposed of safely.</p>
+        <p>A. DAVID  ROSSIN</p>
+        <p>Los Altos Hills, Calif., Sept. 26, 1997</p>
+        <p>The writer was Assistant Secretary for Nuclear Energy, Department of Energy, 1986-87.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

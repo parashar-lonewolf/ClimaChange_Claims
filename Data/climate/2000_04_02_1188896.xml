@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>March 26-April 1; Failure Is Reported For Clean Air Act</title>
+    <meta content="MB005136" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1188896"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE4DA1E3CF931A35757C0A9669C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>March 26-April 1; Failure Is Reported For Clean Air Act</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES DAO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Congress enacted amendments to the Clean Air Act in 1990, environmentalists hailed them as powerful weapons in the fight to reduce acid rain. But a new federal report showed that many lakes, ponds and streams in the Northeast, particularly in the Adirondack Mountains, are continuing to turn acidic and are in growing danger of becoming lifeless.</p>
+      </block>
+      <block class="full_text">
+        <p>When Congress enacted amendments to the Clean Air Act in 1990, environmentalists hailed them as powerful weapons in the fight to reduce acid rain. But a new federal report showed that many lakes, ponds and streams in the Northeast, particularly in the Adirondack Mountains, are continuing to turn acidic and are in growing danger of becoming lifeless.</p>
+        <p>The report suggests that even tougher restrictions on nitrogen emissions from upwind power plants may be needed to stem to trend.</p>
+        <p>JAMES DAO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

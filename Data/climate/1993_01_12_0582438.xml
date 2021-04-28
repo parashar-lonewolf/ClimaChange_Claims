@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Go a Long Way Toward Being Safe, Not Sorry, With Data</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="582438"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="PERSONAL COMPUTERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <person class="indexing_service">LEWIS, PETER H</person>
+        <object.title class="indexing_service">PERSONAL COMPUTERS (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4D81E30F931A25752C0A965958260" item-length="835" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Go a Long Way Toward Being Safe, Not Sorry, With Data</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER H. LEWIS</byline>
+      <byline class="normalized_byline">LEWIS, PETER H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THERE are few things sadder, or more annoying, than a computer gone bad. Take my computer, please.</p>
+        <p>Save file.</p>
+      </block>
+      <block class="full_text">
+        <p>THERE are few things sadder, or more annoying, than a computer gone bad. Take my computer, please.</p>
+        <p>Save file.</p>
+        <p>Actually, the Apple Macintosh Powerbook Duo System itself may not be bad. The problem may have been a hiccup in the copy of Microsoft Word 5.1 that was working on it. The truth may never be known because a copy of Safe and Sound, a new "emergency disk" utility, failed to find a problem with the Powerbook Duo 230 that ate my column. And that's good, maybe.</p>
+        <p>Save file.</p>
+        <p>Safe and Sound is essentially the same Diskfix application found in Central Point Software's Mac Tools 2.0 utility program. It has been detached from the main program, redesigned to be easy to use and repackaged for computer novices who want a simple, one-shot way to troubleshoot a computer. The Macintosh version is the first, but Central Point says it will follow soon with Safe and Sound versions for DOS and Windows.</p>
+        <p>Save file.</p>
+        <p>Utility programs are often thought of as software tools for computer mechanics, the bit tweezers and byte tongs that allow a technically minded person to fine-tune a system and perform necessary housekeeping chores. The trend in utility programs has been to pack as many functions into one box as possible, which pleases experienced computer users but intimidates new users.</p>
+        <p>Safe and Sound reverses the trend and adopts the philosophy that less is more. It does four things, which will be discussed as soon as I save this file again.</p>
+        <p>Save file.</p>
+        <p>Yes, it may be paranoid, but my latest compulsion is to save the file to disk every paragraph or so. As with most safety precautions, like eating healthily or fastening seatbelts, it usually takes a good scare to make a good idea into a good habit.</p>
+        <p>It was a particularly hectic day, the phone was ringing constantly, and the column was growing longer and longer. It was just about done, but one last paragraph had to be moved. Highlight, cut, paste, click . . . click . . . click . . . nothing. The cursor moved, but it would not do anything. The program was frozen.</p>
+        <p>And the horror slowly seeped from the screen: I had not saved the file to disk in several hours.</p>
+        <p>Save file.</p>
+        <p>The only way to regain control of the computer was to turn it off and start it again. But doing so would send the column, including all the raw notes and polished prose, skittering off into the ozone layer, never to be seen again. It was a computer glitch, but the damage would have been minimal had I remembered to save the file regularly. It takes about two seconds to hit the "save file" command and watch the electrons scurry over to the hard disk. It takes hours to recreate the file.</p>
+        <p>Save file. Save file. Save file.</p>
+        <p>Similarly, it takes just a couple of minutes to run Safe and Sound. This utility cannot determine why the screen froze, or why the operator was so dumb, but it can help if a Macintosh will not start correctly, and it can fix the most common disk problems.</p>
+        <p>The utility comes on one diskette. Actually, there are two diskettes in the box, one for Macintoshes that have an older, 800-kilobyte diskette drive, and one for newer Macs with a high-density, 1.44-megabyte diskette drive.</p>
+        <p>Also in the box is the instruction manual, which consists of eight illustrated pages of nontechnical guidance. Basically, it tells the user to put the disk in the drive and then start the computer.</p>
+        <p>The diskette contains the Mac operating system (System 7.1 on the high-density disk, System 6.08 on the low-density disk). Once loaded, the program then starts checking the hard disk.</p>
+        <p>There is a cute but essentially worthless animation of some guy holding a magnifying glass over a hard disk platter with a list of the four principal things Safe and Sound does for your disk: provide file information, provide disk information and do maintenance and virus checking. As the program finishes one task, it automatically moves to the rest.</p>
+        <p>Save file.</p>
+        <p>A status line tells the user what the program is doing, although the message may not mean much to a neophyte ("checking catalog structure"). A gauge that shows how far along the program is in its task, and ther are two control buttons, "pause" and "stop." That's it.</p>
+        <p>With luck, that is the only screen the user will ever see.</p>
+        <p>Otherwise, Safe and Sound reports that it has found a problem and asks if the user wants to fix it. The program cannot fix mechanical errors, of course, but it can mend almost anything else on the hard disk surface. It banishes the "sad Mac" or "puzzled Mac" symbols and bids fair to wipe out any computer viruses that may have sneaked onto the system.</p>
+        <p>For those who prefer more hand-holding, Central Point offers free technical support, although the long-distance call is not free.</p>
+        <p>Safe and Sound has a list price of $49.95, which means it will probably be less than $35 in the stores. More information is available from Central Point Software Inc., 15220 N.W. Greenbrier Parkway, No. 200, Beaverton, Ore.; telephone (503) 690-8090 or (800) 825-2504.</p>
+        <p>Save file.</p>
+        <p>PERSONAL COMPUTERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Letter to Our Readers</title>
+    <meta content="02ednote" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="WEB" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Corrections; Editors' Notes" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1751731"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6DF1030F931A35757C0A9609C8B63" item-length="444" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Letter to Our Readers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To Our Readers:</p>
+        <p>Our goal when we set out to redesign The Times Web site more than a year ago was to make experiencing The New York Times online simpler and more useful. We hope you conclude that we have done that on the new pages appearing for the first time this month.</p>
+      </block>
+      <block class="full_text">
+        <p>To Our Readers:</p>
+        <p>Our goal when we set out to redesign The Times Web site more than a year ago was to make experiencing The New York Times online simpler and more useful. We hope you conclude that we have done that on the new pages appearing for the first time this month.</p>
+        <p>We have expanded the page to take advantage of the larger monitors now used by the vast majority of our readers. We've improved the navigation throughout the site so that no matter what page you land on, you can easily dig deeper into other sections or use our multimedia.</p>
+        <p>We also wanted to give our readers a greater voice and sprinkle a little more serendipity around the site by providing prominent links to a list of most e-mailed and blogged articles, most searched for information and popular movies. A new tab at the top of the page takes you directly to all our most popular features.</p>
+        <p>Another new tab takes you to a list of articles as they appeared in the newspaper, section-by-section.</p>
+        <p>Five years ago, when the prior design debuted, multimedia was in its infancy and video quality was poor. Now, video and multimedia are fundamental elements of our Web presentation. We now have video presentations prominently displayed on our home page and a tab at the top of the page to take you directly to all our video offerings.</p>
+        <p>We are also introducing thousands of topic pages about people, places, organizations and subjects. A topic page collects a rich selection of material on a topic news, photos, multimedia and houses it on single page, providing an ideal reference for readers looking for the breadth of Times information on a single subject.</p>
+        <p>Finally, we are very excited about a personalized page called MyTimes that will let you organize your favorite Web sources of information from NYTimes.com and elsewhere and view them at a glance. Personalized pages aren't new on the Web but ones offering the guidance of Times editors, reporters and critics are. More than two dozen Times journalists are offering their picks of sites that should engage you, whether you're interested in baseball or climate change, politics or recipes. MyTimes is currently under development but will be opening to a wider audience later this month. You can sign up now to be among the first invited to try it.</p>
+        <p>There's so much more included in this redesign that I hope you will take a few minutes to explore the site and find new features for yourself. You can also take a guided tour or visit our Frequently Asked Questions page.</p>
+        <p>Sincerely, Leonard M. Apcar  Editor in Chief, NYTimes.com</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

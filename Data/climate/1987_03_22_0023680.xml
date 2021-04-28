@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Carefully Timed Plan on Acid Rain</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Washington; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="23680"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="THE WORLD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES INTERNATIONAL RELATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL RELATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">FEDERAL AID (US)</classifier>
+        <location class="indexing_service">CANADA</location>
+        <person class="indexing_service">REAGAN, RONALD WILSON (PRES)</person>
+        <person class="indexing_service">MULRONEY, BRIAN (PRIME MIN)</person>
+        <person class="indexing_service">FREUDENHEIM, MILT</person>
+        <person class="indexing_service">ROBERTS, KATHERINE</person>
+        <person class="indexing_service">CLARITY, JAMES F</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Aid (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870322T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DE133BF931A15750C0A961948260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Carefully Timed Plan on Acid Rain</hl1>
+      </hedline>
+      <byline class="print_byline">By MILT FREUDENHEIM, KATHERINE ROBERTS AND JAMES F. CLARITY</byline>
+      <byline class="normalized_byline">ROBERTS, KATHERINE; CLARITY, JAMES F; FREUDENHEIM, MILT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: President Reagan, who has been accused of dragging his feet on the most serious conflict between Canada and the United States, declared last week that he would seek $2.5 billion over the next five years to combat acid rain.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: President Reagan, who has been accused of dragging his feet on the most serious conflict between Canada and the United States, declared last week that he would seek $2.5 billion over the next five years to combat acid rain.</p>
+        <p>President Reagan, who has been accused of dragging his feet on the most serious conflict between Canada and the United States, declared last week that he would seek $2.5 billion over the next five years to combat acid rain.</p>
+        <p>The announcement was apparently timed to avoid any unpleasantness when Mr. Reagan and Prime Minister Brian Mulroney of Canada meet in Ottawa next month. Mr. Mulroney had complained that Mr. Reagan was not living up to an agreement, reached last year, to seek ways to control emissions of sulfur and nitrogen oxides, which are generated mostly by coal-fired furnaces.</p>
+        <p>Experts in Canada have estimated that half of all the acid rain in that country originated in the United States, mainly in the industrial Ohio Valley. They have also argued that the failure to limit the emissions, which undergo a chemical change and fall to earth in the form of acidic precipitation, could destroy many lakes and forests in central and eastern Canada in the next 30 years.</p>
+        <p>Some environmentalists said that $2.5 billion was not enough to curb the pollution, arguing that Mr. Reagan must also require huge reductions in sulfur emissions.</p>
+        <p>THE WORLD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Getting More From a PC's Spare Time</title>
+    <meta content="11DIST$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Technology; Education" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/09/11/technology/circuits/11dist.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1518778"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Life, Extraterrestrial</classifier>
+        <classifier class="indexing_service" type="descriptor">Seti (Search for Extraterrestrial Intelligence)</classifier>
+        <org class="indexing_service">University of California</org>
+        <person class="indexing_service">Oleck, Joan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life, Extraterrestrial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E3DC133BF932A2575AC0A9659C8B63" item-length="1046" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Getting More From a PC's Spare Time</hl1>
+        <hl2 class="online_headline">Getting More From a PC's Spare Time</hl2>
+      </hedline>
+      <byline class="print_byline">By JOAN OLECK</byline>
+      <byline class="normalized_byline">Oleck, Joan</byline>
+      <abstract>
+        <p>Distributed computing, which involves millions of Internet users, achieves tasks that would take the world's fastest supercomputer years to complete; projects utilize terminals' unused processing power to help analyze data and perform computer simulations for research; new and largest program is on behalf of SETI (Search for Extraterrestrial Intelligence); program was developed at University of California and allows volunteers to take part in multiple projects; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SOME people talk, sometimes in jest, about leaving their brains to science. But others have found a more immediate way to help: lending their computers' brains.</p>
+        <p>Millions of PC users are volunteering their terminals' unused processing power to help analyze data and perform computer simulations for research into an AIDS cure, climate prediction or the mysteries of biological proteins.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Millions of PC users are volunteering their terminals' unused processing power to help analyze data and perform computer simulations for research.</p>
+      </block>
+      <block class="full_text">
+        <p>SOME people talk, sometimes in jest, about leaving their brains to science. But others have found a more immediate way to help: lending their computers' brains.</p>
+        <p>Millions of PC users are volunteering their terminals' unused processing power to help analyze data and perform computer simulations for research into an AIDS cure, climate prediction or the mysteries of biological proteins.</p>
+        <p>The approach, called distributed computing and involving millions of Internet users, achieves tasks that would take the world's fastest supercomputers years to complete. This fall, distributed computing will take a step forward when its largest project, SETI@home (short for Search for Extraterrestrial Intelligence), introduces a software program named for its University of California origins: Berkeley Open Infrastructure for Network Computing, or Boinc.</p>
+        <p>The new program will eventually allow the SETI@home project to join forces with other distributed computing initiatives so volunteers can take part in multiple projects instead of just one. David P. Anderson, a scientist at the University of California's Space Sciences Laboratory who directs SETI@home, said the program would increase efficiency.</p>
+        <p>First of all, he said, a single software program could be used for diverse efforts. In addition to a server and a database, distributed computing requires a screensaver program (downloaded by volunteers) that ''talks'' to the server, receives work to perform and then sends back the results. But human computer professionals have to keep things going.</p>
+        <p>''We have all these projects that are spending hundreds of thousands of dollars a year to maintain software that does the same thing,'' Dr. Anderson said.</p>
+        <p>Secondly, Boinc would allow fuller use of computing time. Distributed computing projects operate sporadically -- that is, when data is available to analyze and there are no technical glitches. ''By setting things up the way we have,'' Dr. Anderson said, ''when one project doesn't have any work to do, the other projects can receive the benefit.'' Moreover, because SETI@home tries to assure that participating computers always have something to work on, even if it's work that another computer already did, there are periods when each piece of work is done five times or more, when two or three would suffice.</p>
+        <p>Boinc's attractions have reeled in high-profile partners in the world of distributed computing. Among them is Climateprediction.net, a project originating at the University of Oxford in England that, starting tomorrow, will explore potential climate changes in the next century in response to manmade atmospheric pollutants and other factors.</p>
+        <p>Volunteers will download three-dimensional model simulations for climate change from 1950 to 2050 and run them on their computers. Myles Allen, an Oxford physicist who is the project's principal investigator, says that running the models will allow the first ''uncertainty analysis'' tracking climate's chaotic, nonlinear nature. Along the way, he said, the experiment will require ''potentially hundreds of thousands to millions'' of simulations, with ''spiky'' periods of activity and periods of inactivity -- ideal for the Boinc software.</p>
+        <p>''We would typically need all of the spare cycles on your desktop for two to three months to perform a climate simulation,'' he said. ''Participants who want their computer to be put to good use all the time would naturally find this frustrating.''</p>
+        <p>The University of Maryland's Center for Bioinformatics and Computational Biology plans to use Boinc next spring for a project analyzing DNA sequence data to investigate molecular evolution, particularly of bacteria that cause tuberculosis and leprosy. The project provides opportunities for many people to contribute to scientific research in ways other than through their taxes,'' said Michael P. Cummings, a visiting associate professor at the center.</p>
+        <p>Stanford University's Folding@Home project (folding.stanford.edu) is seeking to use Boinc for its current study of how proteins in the human body self-assemble, or ''fold.'' Such research may shed light on whether folding errors underlie such diseases as Alzheimer's or Parkinson's.</p>
+        <p>''We've actually been successful in using distributed computing to achieve fundamental results in computational biology,'' said Vijay Pande, the Stanford professor of chemistry and structural biology who directs Folding@Home and the 80,000-plus volunteers it has enlisted.</p>
+        <p>The volunteers track their projects through Web alerts and those colorful screensavers. Their contribution begins when their computers are on but inactive. When they go online, the data their PC's have processed is relayed to the project's server -- at Berkeley, Stanford, Oxford or elsewhere.</p>
+        <p>Among the distributed-computing projects, SETI@home (setiathome.berkeley.edu) has been a good draw: over the four years since it started, 4.5 million people have volunteered their PC's to analyze radio signals from deep space for patterns or other signs that they were created by intelligent beings. No patterns have emerged, but the search is about to be expanded from the northern skies (using a radio telescope in Puerto Rico) to the southern, starting from Australia.</p>
+        <p>Boinc, which will be available by download from the participating Web sites, will be fully in use by SETI@home by the end of next month, Dr. Anderson said. Once other distributed-computing projects formally adopt Boinc, volunteers will be able to lend their computer time to multiple projects by registering at each respective site. The projects will vary in their system requirements, but Boinc itself works on Windows computers and the Mac OS X operating system; only an Internet account is required.</p>
+        <p>For the volunteers, involvement in active research can be a heady experience, Dr. Anderson said. He said he hoped Boinc would foster and tap that enthusiasm.</p>
+        <p>''Part of the big idea is to try to set things up so the general public has some reason to be interested in all these different science projects,'' he said, ''so it's not just something you read about in the back pages of The New York Times when the project is over.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Debate Spurs Science</title>
+    <meta content="LSEITZ$04" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1015567"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Rockefeller University</org>
+        <person class="indexing_service">Seitz, Frederick (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E5DB1031F93AA35756C0A96E958260" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Debate Spurs Science</hl1>
+      </hedline>
+      <abstract>
+        <p>Rockefeller University president emeritus Frederick Seitz letter on May 2 article holds scientists who signed petition opposing global climate change accord are representative of large group of working scientists who oppose distortion of scientific research traditions (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Scientists and Their Political Passions'' (Op-Ed, May 2): The 17,000 scientists who signed the petition opposing the global climate change accord do not deserve to be called ''a vocal minority.'' They are representative of the large group of highly competent working scientists who are tired of seeing well-founded traditions developed for the pursuit of scientific problems distorted beyond recognition. They finally found a way to express their opinion.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Scientists and Their Political Passions'' (Op-Ed, May 2): The 17,000 scientists who signed the petition opposing the global climate change accord do not deserve to be called ''a vocal minority.'' They are representative of the large group of highly competent working scientists who are tired of seeing well-founded traditions developed for the pursuit of scientific problems distorted beyond recognition. They finally found a way to express their opinion.</p>
+        <p>The scientific community needs open controversy and balanced financing of research by constructive programs, even if they may seem to be in conflict with a political orthodoxy. Controversy among scientists, accompanied by research, lies at the heart of progress in science. In the meantime, our understanding of global warming remains unresolved.</p>
+        <p>FREDERICK SEITZ  New York, May 5, 1998</p>
+        <p>The writer is president emeritus of Rockefeller University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

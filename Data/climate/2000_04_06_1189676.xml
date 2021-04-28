@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Survey Shows Growing Loss of Arctic Atmosphere's Ozone</title>
+    <meta content="Y06OZO$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1189676"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Ozone</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <location class="indexing_service">Arctic Regions</location>
+        <person class="indexing_service">Stevens, William K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EED6153FF935A35757C0A9669C8B63" item-length="577" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Survey Shows Growing Loss of Arctic Atmosphere's Ozone</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">Stevens, William K</byline>
+      <abstract>
+        <p>Scientists say unusual cold and sharp loss of ozone in Arctic stratosphere this winter have heightened concern that changes in global climate may delay recovery of earth's partly depleted ozone layer; computer simulations of atmosphere suggest lower temperatures in stratosphere could increase rate of ozone depletion (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Unusual cold and a sharp loss of ozone in the Arctic stratosphere over the winter just past have heightened concern that changes in global climate may delay recovery of the earth's partly depleted ozone layer, scientists said yesterday.</p>
+        <p>The stratospheric ozone layer, composed of a form of oxygen that blocks some kinds of solar radiation, protects all forms of life from the harmful effects of the sun's ultraviolet rays, which can cause skin cancer, cataracts and damage to the immune system and can harm natural ecosystems. If there were no ozone shield, plants and animals could not exist on land.</p>
+      </block>
+      <block class="full_text">
+        <p>Unusual cold and a sharp loss of ozone in the Arctic stratosphere over the winter just past have heightened concern that changes in global climate may delay recovery of the earth's partly depleted ozone layer, scientists said yesterday.</p>
+        <p>The stratospheric ozone layer, composed of a form of oxygen that blocks some kinds of solar radiation, protects all forms of life from the harmful effects of the sun's ultraviolet rays, which can cause skin cancer, cataracts and damage to the immune system and can harm natural ecosystems. If there were no ozone shield, plants and animals could not exist on land.</p>
+        <p>In the 1970's, it was found that synthetic chemicals used in refrigerants, plastic foams and aerosol propellants were destroying the ozone layer.</p>
+        <p>Production of the most destructive chemicals, mainly chlorofluorocarbons, was halted or curtailed in the early and mid-1990's by international agreement. Scientists say the atmospheric concentrations of such chemicals have peaked and are slowly decreasing.</p>
+        <p>The ozone layer is expected to recover eventually, possibly by the mid-21st century. But computer simulations of the atmosphere have suggested that lower temperatures in the stratosphere, about 11 miles high, could increase the rate of ozone depletion in the meantime, delaying recovery by a decade or two.</p>
+        <p>Measurements taken by instruments carried aloft by aircraft and balloons over the past winter have found that temperatures in the crucial layer of the Arctic atmosphere were, indeed, among the lowest on record and that ozone losses of more than 60 percent occurred.</p>
+        <p>In three of the last five winters, stratospheric temperatures in the Arctic were lower and more persistent, and covered a wider area, than at any other time in the last 20 years, said Dr. Ross Salawitch, an ozone researcher at the Jet Propulsion Laboratory in Pasadena, Calif., who was one of hundreds of American and European scientists from many institutions involved in the recent Arctic survey.</p>
+        <p>The survey's results were announced yesterday by the Pasadena laboratory and the National Aeronautics and Space Administration's Goddard Space Flight Center in Greenbelt, Md.</p>
+        <p>Most Arctic winters in the last decade brought unusually low ozone coincident with an unusually cold stratosphere, according to the World Meteorological Organization.</p>
+        <p>When the Arctic region cools, ''that's bad news for the ozone,'' Dr. Salawitch said, adding that the new data has ''really solidified our view'' that the ozone layer is sensitive not only to ozone-destroying chemicals, but also to temperature.</p>
+        <p>Ozone depletion and global climate change are essentially separate phenomena, but they can interact in some ways. For example, emissions of heat-trapping industrial gases like carbon dioxide, which warm the lower atmosphere, have the opposite effect in the stratosphere: they cool it.</p>
+        <p>Chlorofluorocarbons and other industrial chemicals cause large, rapid ozone losses in the polar regions when the stratospheric temperature reaches 105 to 110 degrees below zero. The critical threshold is reached only in the winter.</p>
+        <p>Over Antarctica, the coldest place on earth, severe ozone depletion takes place every winter. In the Arctic, some winters are too warm for a major depletion. But this year the temperature stayed well below the threshold for long periods, sometimes reaching 120 degrees below zero.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ants and Acid Rain</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="51487"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">ANTS</classifier>
+        <org class="indexing_service">AT&amp;T BELL LABORATORIES</org>
+        <org class="indexing_service">CORNELL UNIVERSITY</org>
+        <person class="indexing_service">GRAEDEL, THOMAS (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFDA143FF930A15755C0A961948260" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ants and Acid Rain</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: An investigator at A.T.&amp;T. Bell Laboratories in Murray Hill, N.J., estimates that most of the acid in rain falling over certain remote areas of the world may come from ants.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: An investigator at A.T.&amp;T. Bell Laboratories in Murray Hill, N.J., estimates that most of the acid in rain falling over certain remote areas of the world may come from ants.</p>
+        <p>An investigator at A.T.&amp;T. Bell Laboratories in Murray Hill, N.J., estimates that most of the acid in rain falling over certain remote areas of the world may come from ants.</p>
+        <p>Dr. Thomas Graedel, an atmospheric scientist, has calculated that formicine ants could easily produce the high levels of formic acid encountered in the atmosphere above the Amazon Basin. He said 10 to 15 percent of the body weight of a formicine ant consists of formic acid, the substance that causes a sharp sting when this type of ant bites a human being.</p>
+        <p>Dr. Graedel and zoologists at Cornell University who collaborated in the study estimated that ants might release as much as 20 million metric tons of formic acid into the atmosphere each year, a quantity about equal to the formic acid created by chemical reactions in the atmosphere. Such reactions result mainly from smokestack pollutants, notably formaldehyde.</p>
+        <p>Formic acid is the dominant component of acid rain only in regions comparatively remote from industrial centers. Regions downwind of factories and power plants are exposed to acid rain in which sulfuric, nitric and other inorganic acids are likely to predominate. The buildup in the environment of these acids can damage aquatic life, forests and buildings.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

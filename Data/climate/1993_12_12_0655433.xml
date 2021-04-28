@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SURFACING</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Styles of The Times" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="655433"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DA173BF931A25751C1A965958260" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SURFACING</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MOVIES  It's a depressing life: Hollywood is spreading very little cheer this Christmas, releasing films on such dire subjects as AIDS ("Philadelphia"), the Holocaust ("Schindler's List," above) and the Vietnam war ("Heaven and Earth").</p>
+        <p>PRETENSION  Ritzy Ritz crackers: These gourmet-style chocolate-dipped wafers are available as a "limited edition" through the holidays, according to Nabisco. (Suggested retail price for box of 15: $2.69.)</p>
+      </block>
+      <block class="full_text">
+        <p>MOVIES  It's a depressing life: Hollywood is spreading very little cheer this Christmas, releasing films on such dire subjects as AIDS ("Philadelphia"), the Holocaust ("Schindler's List," above) and the Vietnam war ("Heaven and Earth").</p>
+        <p>PRETENSION  Ritzy Ritz crackers: These gourmet-style chocolate-dipped wafers are available as a "limited edition" through the holidays, according to Nabisco. (Suggested retail price for box of 15: $2.69.)</p>
+        <p>MUSIC  Solar-powered albums: Greenpeace has produced the first album recorded with solar power. The proceeds from "Alternative NRG," which features the likes of U2 and R.E.M., will be used to fight the burning of fossil fuels.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

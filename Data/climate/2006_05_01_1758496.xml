@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ethanol's Promise</title>
+    <meta content="01mon1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1758496"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E1DE113FF932A35756C0A9609C8B63" item-length="565" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ethanol's Promise</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The political scramble to find quick answers to rising oil prices has produced one useful result, which is to get people talking about substitute fuels that could make us less vulnerable to market forces, less dependent on volatile Persian Gulf oil producers and less culpable on global warming.</p>
+        <p>That, in turn, has focused attention on the fuel that seems to have the best chance of replacing gasoline -- ethanol. President Bush mentioned ethanol in his State of the Union address. Entrepreneurs like Bill Gates have begun investing in it. And every blue-ribbon commission studying energy has embraced ethanol as a fuel of the future. One leading environmental group, the Natural Resources Defense Council, predicts that ethanol, combined with other strategies, could replace all of the gasoline Americans would otherwise use by mid-century.</p>
+      </block>
+      <block class="full_text">
+        <p>The political scramble to find quick answers to rising oil prices has produced one useful result, which is to get people talking about substitute fuels that could make us less vulnerable to market forces, less dependent on volatile Persian Gulf oil producers and less culpable on global warming.</p>
+        <p>That, in turn, has focused attention on the fuel that seems to have the best chance of replacing gasoline -- ethanol. President Bush mentioned ethanol in his State of the Union address. Entrepreneurs like Bill Gates have begun investing in it. And every blue-ribbon commission studying energy has embraced ethanol as a fuel of the future. One leading environmental group, the Natural Resources Defense Council, predicts that ethanol, combined with other strategies, could replace all of the gasoline Americans would otherwise use by mid-century.</p>
+        <p>Until recently, the only ethanol anyone had heard about was corn-based ethanol, a regional curiosity that accounts for about 3 percent of the nation's fuel and suffers from its association with the agribusiness lobby and with presidential candidates hustling support in the Iowa primaries. What the experts are talking about now, however, is cellulosic ethanol, derived from a range of crops, native grasses like switchgrass and even the waste components of farming and forestry -- in short, anything rich in cellulose. A Canadian company called Iogen, a leader in the field, makes its ethanol from wheat straw.</p>
+        <p>Like corn ethanol, cellulosic ethanol can be used in automobiles, so it is appealing as an answer to oil dependency. And both forms of ethanol are inherently superior to gasoline in terms of reducing global warming emissions, since the carbon dioxide they absorb while growing helps offset the carbon dioxide they produce when burned in a car's engine. Cellulosic ethanol is in fact much more useful than corn ethanol on this score, because it requires far less energy to produce and thus emits fewer greenhouse gases.</p>
+        <p>In theory, hydrogen, which Mr. Bush keeps touting, could achieve the same purposes. But hydrogen cars are unaffordable, and a system for producing and delivering hydrogen is at least a generation away. An ethanol infrastructure is already in place, thanks largely to our experience with corn ethanol. Detroit makes cars that are capable of running on a blend of 85 percent ethanol and 15 percent gasoline, and pumps can be quickly constructed. In time, all vehicles can be ''flex fuel,'' capable of running on either fuel.</p>
+        <p>And with oil at $70 a barrel, the price is right, too. Corn ethanol, which once required a subsidy, became competitive when oil hit $40 a barrel. Once the technology matures, cellulosic ethanol should be competitive at even lower oil prices.</p>
+        <p>Daunting problems remain before cellulosic ethanol is available on a broad scale. The technology must be improved, farmers persuaded to cultivate cellulose-rich crops, commercial plants built. Getting all this up and running will require both private and public capital and sustained leadership. Iogen estimates that its first commercial plant, which it wants to build in Idaho, will cost $300 million. Mr. Bush has asked for only $150 million for research, development and production combined.</p>
+        <p>Ethanol will not by itself end our oil dependency or global warming. We also need far more efficient cars and more efficient transportation systems as part of a larger smart-growth strategy. But given enough financial support and political will, it could be a huge first step toward ending America's oil addiction.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

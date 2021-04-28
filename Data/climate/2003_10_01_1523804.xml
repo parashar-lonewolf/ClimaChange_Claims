@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rules That Work</title>
+    <meta content="01WED4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/10/01/opinion/01WED4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1523804"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Office of Management and Budget</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <org class="online_producer">Office of Management and Budget</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E1DD1F3DF932A35753C1A9659C8B63" item-length="342" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rules That Work</hl1>
+        <hl2 class="online_headline">Rules That Work</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial on Office of Management and Budget study that found health and social benefits of federal regulation greatly outweigh costs should make it harder for Bush administration to blame myriad woes on environmental regulation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bush administration has spent the better part of three years weakening federal regulations and belittling their value. Now, from a most unlikely source -- the fervently anti-regulatory Office of Management and Budget -- comes persuasive evidence that the health and social benefits of these rules greatly outweigh their costs.</p>
+        <p>In a report issued last week, the budget office said that an examination of 107 major rules finalized over the last 10 years found quantifiable benefits of between $146 billion and $230 billion, compared with costs of $36 billion to $42 billion. Of particular interest was the finding that just four clean air rules administered by the Environmental Protection Agency -- all challenged at one time or another by industry -- accounted for a big chunk of the benefits. Designed partly to meet Clinton-era health standards, the rules limit emissions of soot and other pollutants from power plants, cars and trucks. These four rules produced even better ratios -- annual benefits of between $101 billion and $119 billion measured in terms of fewer premature deaths, hospitalizations, emergency room visits and lost work days, compared with costs of only $8 billion to $8.8 billion.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new report from the Office of Management and Budget will make it harder for the administration to keep blaming everything on environmental regulations.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bush administration has spent the better part of three years weakening federal regulations and belittling their value. Now, from a most unlikely source -- the fervently anti-regulatory Office of Management and Budget -- comes persuasive evidence that the health and social benefits of these rules greatly outweigh their costs.</p>
+        <p>In a report issued last week, the budget office said that an examination of 107 major rules finalized over the last 10 years found quantifiable benefits of between $146 billion and $230 billion, compared with costs of $36 billion to $42 billion. Of particular interest was the finding that just four clean air rules administered by the Environmental Protection Agency -- all challenged at one time or another by industry -- accounted for a big chunk of the benefits. Designed partly to meet Clinton-era health standards, the rules limit emissions of soot and other pollutants from power plants, cars and trucks. These four rules produced even better ratios -- annual benefits of between $101 billion and $119 billion measured in terms of fewer premature deaths, hospitalizations, emergency room visits and lost work days, compared with costs of only $8 billion to $8.8 billion.</p>
+        <p>Whether these findings will alter the administration's suspicion of federal regulation is unclear. President Bush has rarely allowed science (or, for that matter, logic) to interfere with his policies -- witness his attempts to suppress or ignore alarming evidence about global warming to justify his cost-free strategy. Whatever the numbers, fundamental policy shifts are probably not in the cards. Even now there are efforts afoot to weaken rules protecting water quality, transportation safety and the public lands. Nevertheless, the positive results are now there for all to see, and it should become harder for the administration to keep blaming everything from the California energy crisis to the economic slowdown on environmental regulations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

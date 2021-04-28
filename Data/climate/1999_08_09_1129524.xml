@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Too Many Cars Are Heating Up the Air</title>
+    <meta content="LTR220136" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1129524"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Insurance</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Acton, Laurie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990809T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E3DB1130F93AA3575BC0A96F958260" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Too Many Cars Are Heating Up the Air</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Laurie Acton suggests that if local budgets handled costs of weather-related damage using commercial insurance, global weather changes would get serious attention</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Perhaps Republicans have a suggestion for the global warming problem (letters, Aug. 6): Shrink the Federal Government and let towns and states handle weather-related relief for flooding, droughts and tornadoes using commercial insurance.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Perhaps Republicans have a suggestion for the global warming problem (letters, Aug. 6): Shrink the Federal Government and let towns and states handle weather-related relief for flooding, droughts and tornadoes using commercial insurance.</p>
+        <p>If local budgets handled such costs, global weather changes would get serious attention. And since insurance companies must use good science in assessing risk factors or go under, we would be more likely to get accurate statistics, rather than hype, on the actual rate of global warming.</p>
+        <p>LAURIE ACTON  Hartland, Vt., Aug. 6, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

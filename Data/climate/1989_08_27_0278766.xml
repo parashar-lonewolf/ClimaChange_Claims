@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="278766"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEEDF1631F934A1575BC0A96F948260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  AIDS in the Mayor's Race When Mayor Edward I. Koch took office in 1978, no one had heard of AIDS.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  AIDS in the Mayor's Race When Mayor Edward I. Koch took office in 1978, no one had heard of AIDS.</p>
+        <p>AIDS in the Mayor's Race When Mayor Edward I. Koch took office in 1978, no one had heard of AIDS.</p>
+        <p>Today the scourge of AIDS poses a citywide health-care crisis and is a sharply disputed issue in New York City's mayoral campaign. Page 30.</p>
+        <p>Little League Title for U.S. The Trumbull, Conn., team won the</p>
+        <p>Little League World Series, defeating Taiwan, which took the title the three previous years. Sports, section 8.</p>
+        <p>U.S. Cuts Prison Furloughs The Administration has ordered that many inmates, including major drug offenders, be ineligible for furloughs from Federal prisons. The action results from a campaign promise George Bush made last year. Page 20.</p>
+        <p>Arafat Considers Visit The United States may again be faced with the issue of whether to allow entry to Yasir Arafat, who may seek to visit the U.N. Page 9.</p>
+        <p>Push on Global Warming Soviet and American conferees in Utah urged Presidents Bush and Gorbachev to create an ''environmental security alliance.'' Page 28.</p>
+        <p>A Rise in Racial Hatred Experts say a black youth's killing in Brooklyn last week reflects a rise in racial bias among the young. Page 32.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Links Tropical Ocean Warming to Greenhouse Gases</title>
+    <meta content="12ocean" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/09/12/science/12ocean.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1789423"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Proceedings of the National Academy of Sciences</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <person class="indexing_service">Santer, Benjamin D (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DE1531F931A2575AC0A9609C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Links Tropical Ocean Warming to Greenhouse Gases</hl1>
+        <hl2 class="online_headline">Study Links Tropical Ocean Warming to Greenhouse Gases</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>New study finds that rising ocean temperatures linked by some research to tropical storms are very likely result of global warming; Benjamin D Santer, leader author of study, says findings suggest that further warming would probably make hurricanes stronger in coming decades; study is published by Proceedings of National Academy of Sciences (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rising ocean temperatures linked by some studies to tropical storms are very likely a result of global warming caused by greenhouse gas emissions, according to new research.</p>
+        <p>The lead author of the new study, Benjamin D. Santer of the Lawrence Livermore National Laboratory of the Energy Department, said the findings suggested that further warming would probably make hurricanes stronger in coming decades.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The lead author of the new study said the findings suggested that further warming would probably make hurricanes stronger in coming decades.</p>
+      </block>
+      <block class="full_text">
+        <p>Rising ocean temperatures linked by some studies to tropical storms are very likely a result of global warming caused by greenhouse gas emissions, according to new research.</p>
+        <p>The lead author of the new study, Benjamin D. Santer of the Lawrence Livermore National Laboratory of the Energy Department, said the findings suggested that further warming would probably make hurricanes stronger in coming decades.</p>
+        <p>But while environmentalists and some researchers have asserted that storms like Hurricane Katrina were already measurably stronger because of warming caused by humans, Dr. Santer said his study did not address that issue.</p>
+        <p>The study was published online yesterday by The Proceedings of the National Academy of Sciences.</p>
+        <p>The researchers compared a century of observed temperature changes with those produced in more than 80 computer simulations of how oceans respond to natural and human influences on the climate. The simulations were generated on 22 different computer models at 15 different research centers.</p>
+        <p>The simulations correctly mimicked the cooling caused by plumes from volcanic eruptions, which temporarily block the sun. At the same time, the authors said, the only warming influence that could explain the changes in the oceans was the buildup of heat-trapping smokestack and tailpipe gases in the air.</p>
+        <p>Earlier studies concluded that greenhouse gases from human activities were warming the oceans, but this analysis was the first to examine thoroughly trends in particular tropical regions of the Atlantic and Pacific Oceans that serve as nurseries for the destructive storms.</p>
+        <p>Several climate experts said that while debate persisted about the role of warming in pumping up hurricanes, there was little doubt about the long-term trend should warming continue as projected.</p>
+        <p>''Even under modest scenarios for emissions, we're talking about sea surface temperature changes in these regions of a couple of degrees,'' Dr. Santer said. ''That's much larger than anything we've already experienced, and that is worrying.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When Politics Clashes With Science</title>
+    <meta content="L05WARM" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1469751"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Orris, Rebecca L</person>
+        <person class="indexing_service">Luntz, Frank</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2DA173FF936A35750C0A9659C8B63" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When Politics Clashes With Science</hl1>
+      </hedline>
+      <abstract>
+        <p>Rebecca L Orris letter on Republican strategist Frank Luntz's advice on handling global warming issue; points out that majority of government-funded scientists strongly support evidence that global warming is occurring, and politicians and the public should accept that judgment (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Call for Softer, Greener Language'' (news article, March 2):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Call for Softer, Greener Language'' (news article, March 2):</p>
+        <p>The advice of Frank Luntz, a Republican strategist, to the G.O.P. that winning the global warming debate requires Republicans to ''be even more active in recruiting experts who are sympathetic to your view'' is all wrong.</p>
+        <p>Government financing supports most of the research being done on climate change. The majority of scientists strongly support the evidence that global warming is occurring as a result of the increasing levels of carbon dioxide in the atmosphere.</p>
+        <p>It is the responsibility of politicians and the public to allow the scientists to make this judgment.</p>
+        <p>It is O.K. for a politician to say, ''The evidence says global warming is occurring, but we can't afford to do anything at this time.'' It is not O.K. for a politician to deny that there is sufficient evidence to say it will occur.</p>
+        <p>Otherwise, why finance scientific research?</p>
+        <p>REBECCA L. ORRIS  Kensington, Md., March 2, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

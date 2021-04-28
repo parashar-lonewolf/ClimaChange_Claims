@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Building Less Expensive Solar Arrays</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="582484"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOLAR ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <location class="indexing_service">DAVIS (CALIF)</location>
+        <org class="indexing_service">ADVANCED PHOTOVOLTAIC SYSTEMS INC</org>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDD1038F930A25752C0A965958260" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Building Less Expensive Solar Arrays</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Taking a new approach to large-scale production of electricity from sunlight, a New Jersey company has built a five-acre array of photovoltaic cells of the type normally found in pocket calculators and wristwatches.</p>
+        <p>The array, which produces power for Pacific Gas and Electric, was built in Davis, Calif. It uses a thin film of amorphous silicon sandwiched between two pieces of glass. Earlier arrays built to supply utilities used silicon crystals, which capture a larger fraction of the sun's energy but are more expensive to build.</p>
+      </block>
+      <block class="full_text">
+        <p>Taking a new approach to large-scale production of electricity from sunlight, a New Jersey company has built a five-acre array of photovoltaic cells of the type normally found in pocket calculators and wristwatches.</p>
+        <p>The array, which produces power for Pacific Gas and Electric, was built in Davis, Calif. It uses a thin film of amorphous silicon sandwiched between two pieces of glass. Earlier arrays built to supply utilities used silicon crystals, which capture a larger fraction of the sun's energy but are more expensive to build.</p>
+        <p>The company, Advanced Photovoltaic Systems Inc. of Princeton, N.J., announced on Monday that a cooperative research project called Photovoltaics for Utility Scale Applications in Davis had accepted its array after a one-year test period. The acceptance means the cells meet standards for reliability and durability set by utilities.</p>
+        <p>Thin-film cells are cheap, relative to crystal cells, because of stingy use of materials; with an active layer that is just 1.5 microns thick, the most expensive part of the cells is the plate glass.</p>
+        <p>But in making large thin-film cells, manufacturers have had trouble keeping the layers even; as a result, the cells lost efficiency and showed odd rainbows of color, according to Ronald W. Matlin, Advanced Photovoltaic's director of power systems. But his company has succeeded in building cells that are 31 inches by 61 inches.</p>
+        <p>Thin-film cells capture only about 4.5 percent of the sun's energy, half what crystalline cells can achieve, and skeptics have argued that even the crystalline cells take up so much space that they cannot be useful for bulk power generation.</p>
+        <p>But Mr. Matlin pointed out that in his company's installation, the value of the equipment was $400,000 an acre; compared with that, he said, land is a minor component, because it is generally available at $1,000 to $10,000 an acre.</p>
+        <p>Costs are still high, about 25 cents a kilowatt-hour, compared with a national average retail selling price of about 8 cents for the electricity that utilities make from all sources. But a solar system incurs no costs for acid rain, global warming or other pollution or reliance on depletable natural resources, domestic or imported, he pointed out. And there is room to improve efficiency, raising the power output of a cell of a given size, which would cut costs, he said; in addition, fabrication costs are falling with increasing automation.</p>
+        <p>The new thin-cell system takes up roughly the same space as a crystalline array, Mr. Matlin said, because, following the cheap route, the cells are mounted on simple platforms that do not track to follow the sun. Platforms that track, as are commonly used for crystalline cells, must be spaced farther apart to avoid putting one in the shadow of the next.</p>
+        <p>BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

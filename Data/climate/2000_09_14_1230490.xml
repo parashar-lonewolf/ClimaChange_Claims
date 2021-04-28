@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Bad and the Ugly</title>
+    <meta content="LTR002026" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230490"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Power Lines</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Cells</classifier>
+        <person class="indexing_service">Kessler, Aaron</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4D91238F937A2575AC0A9669C8B63" item-length="226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Bad and the Ugly</hl1>
+      </hedline>
+      <abstract>
+        <p>Aaron Kessler letter comments on Sept 7 article about encroachment of ugly technology into everyday life; says fuel cells that produce on-site electricity offer viable alternative to erecting utility poles and burying wires</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Future Is Here, and It's Ugly'' (Sept. 7), about the encroachment of ugly technology into everyday life: Fuel cells that produce on-site electricity offer a viable alternative to erecting utility poles and burying wires, and other far-reaching benefits as well.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Future Is Here, and It's Ugly'' (Sept. 7), about the encroachment of ugly technology into everyday life: Fuel cells that produce on-site electricity offer a viable alternative to erecting utility poles and burying wires, and other far-reaching benefits as well.</p>
+        <p>Compact fuel cells powered by natural gas or propane for residential and commercial use are being developed by several companies, among them PlugPower in New York State. For consumers, fuel cells promise an end to oil and electric bills and an effective way to reduce the pollution released when fossil fuels are burned.</p>
+        <p>Growing consumer independence  from being tethered to power suppliers will free communities to improve the landscape without the tremendous expense of burying wires. I hope that these advantages will energize programs to help people on low or fixed incomes enjoy fuel cells, too.</p>
+        <p>Fuel cells should have been a national priority. Now they bring the chance to combat ugliness and create a transitional industry and new jobs.</p>
+        <p>What our politicians should be talking about is not missing the boat twice.</p>
+        <p>AARON KESSLER  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

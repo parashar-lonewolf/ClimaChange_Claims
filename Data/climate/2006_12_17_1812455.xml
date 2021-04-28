@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two States, Too Few Lobsters</title>
+    <meta content="CTLobsters" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/17/opinion/CTLobsters.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1812455"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Long Island | Connecticut"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Lobsters</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobsters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <location class="online_producer">Connecticut</location>
+        <location class="online_producer">New York State</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DEED61531F934A25751C1A9609C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two States, Too Few Lobsters</hl1>
+        <hl2 class="online_headline">Two States, Too Few Lobsters</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If all goes well, beginning in January Connecticut lobstermen will be paid $5 to $6 every time they catch a female lobster at or very close to legal size, have a notch cut in its tail and return it to Long Island Sound. Once the lobsters' tails are notched, they cannot be harvested by anyone for two years, until molting shrinks the notch sufficiently.</p>
+        <p>This $1 million initiative is part of an effort to speed the revival of the devastated lobster population in the Sound. Eighty percent of the crustaceans died in 1999 and their numbers have barely recovered. The incentive program is a good idea because it allows the female lobsters at least one more chance to reproduce.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Cooperation on the Sound is a no-brainer. Connecticut lobstermen lobbied hard for the lobster measure, and the legislature responded. Shouldn’t the same occur in Albany?</p>
+      </block>
+      <block class="full_text">
+        <p>If all goes well, beginning in January Connecticut lobstermen will be paid $5 to $6 every time they catch a female lobster at or very close to legal size, have a notch cut in its tail and return it to Long Island Sound. Once the lobsters' tails are notched, they cannot be harvested by anyone for two years, until molting shrinks the notch sufficiently.</p>
+        <p>This $1 million initiative is part of an effort to speed the revival of the devastated lobster population in the Sound. Eighty percent of the crustaceans died in 1999 and their numbers have barely recovered. The incentive program is a good idea because it allows the female lobsters at least one more chance to reproduce.</p>
+        <p>The Sound's lobsters need all the help they can get. They face a depressing array of threats to their survival, including global warming, pesticides and the persistent lack of oxygen in the unhealthy waters closer to New York City. The Sound is at the southernmost limit of the lobsters' natural range -- it is too warm for them farther down the coast -- so their existence there is already precarious.</p>
+        <p>Paying lobstermen to notch their catches is not the only answer. But anything that helps these creatures lay more eggs and keeps the lobstermen away, even for a little while, makes sense.</p>
+        <p>This is one issue on which New York State and Connecticut should act as one. Both states border this estuary. It would double the efforts of Connecticut lobstermen if their counterparts in New York, who ply the same waters, got the same incentive.</p>
+        <p>A similar program has helped the lobster population in Rhode Island waters recover after a 1996 oil spill killed nine million lobsters. Maine lobstermen have notched lobsters and returned them for decades as a conservation measure.</p>
+        <p>Cooperation on the Sound is a no-brainer. Connecticut lobstermen lobbied hard for the lobster measure, and the legislature responded. Shouldn't the same occur in Albany?</p>
+        <p>Long Island | Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

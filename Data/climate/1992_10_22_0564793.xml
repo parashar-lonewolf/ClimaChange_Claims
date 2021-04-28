@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Owens-Corning Shows New Insulation Method</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="564793"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FIBERGLASS</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">OWENS-CORNING FIBERGLAS CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDD1538F931A15753C1A964958260" item-length="494" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Owens-Corning Shows New Insulation Method</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLUSHA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a bid to regain some of the market for refrigerator and freezer insulation that it lost to plastic foams in the late 1970's, the Owens-Corning Fiberglas Corporation said yesterday that it had developed an experimental fiberglass panel with six times the insulating value of foam-filled panels.</p>
+        <p>The announcement comes at a time when appliance manufacturers are scrambling to develop new technology to meet increasing Federal energy efficiency standards and eliminate the use of chlorofluorocarbon gases, or CFC's, to form the insulating foam.</p>
+      </block>
+      <block class="full_text">
+        <p>In a bid to regain some of the market for refrigerator and freezer insulation that it lost to plastic foams in the late 1970's, the Owens-Corning Fiberglas Corporation said yesterday that it had developed an experimental fiberglass panel with six times the insulating value of foam-filled panels.</p>
+        <p>The announcement comes at a time when appliance manufacturers are scrambling to develop new technology to meet increasing Federal energy efficiency standards and eliminate the use of chlorofluorocarbon gases, or CFC's, to form the insulating foam.</p>
+        <p>CFC's are generally held responsible for damaging the earth's protective ozone layer. President Bush has called for an end to their use by the end of 1995 and the appliance industry has pledged to comply.</p>
+        <p>The key to the new panels, which would be used to substitute for foam- filled walls, is that they are a sealed vacuum, like a thermos bottle. The fiberglass would be formed as a hard board to provide structural support as well as insulation. The inner and outer walls would be of thin steel.</p>
+        <p>The market for these appliances is a large one, with 7.2 million refrigerators and 1.4 million freezers produced last year, according to industry sources. Owens-Corning did not disclose how much it has invested in the new insulating panels.</p>
+        <p>Warren W. Wolf, a company spokesman, said that the company had only been working on the new insulation since 1989, but that other applications had demonstrated that a steel container could hold a vacuum for 20 years.  Caution on New Technology</p>
+        <p>Appliance manufacturers say buyers expect refrigerators and freezers to work reliably in the field without any service for 20 years. They say they are wary of trying a technology that could cause problems years later. If, for example, the vacuum was lost, the insulating values of the refrigerator wall would plunge, increasing electricity consumption and the ability of the appliance to keep food cold.</p>
+        <p>Mr. Wolf said an experiment conducted by the Admiral division of the Maytag Corporation, using the Owens-Corning insulation in a 19-cubic-foot refrigerator, produced insulating values of R 50 an inch, compared with R 8 for the urethane foams now used. The R value of a material is a measure of its heat insulating ability.</p>
+        <p>But a spokesman for Owens-Corning said the test did not mean that Admiral had chosen the fiberglass over other types of non-CFC technologies now undergoing testing. Appliance makers have been very secretive about what approachs they plan to take after CFC foams are eliminated.</p>
+        <p>Owens-Corning officials said the fiberglass-vacuum panels were as thin as the foam-filled walls now in use. One big fear of refrigerator and freezer engineers is that doing away with CFC blown foams will lead to thicker walls, and less space in the interior, because substitutes will be poorer insulators.</p>
+        <p>Owens-Corning's shares gained 87.5 cents yesterday, to close at $31 on the New York Stock Exchange.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

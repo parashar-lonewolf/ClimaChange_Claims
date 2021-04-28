@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yawning as the Earth Warms</title>
+    <meta content="LTR230832" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1136269"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Temperature</classifier>
+        <person class="indexing_service">Fischer, Frank</person>
+        <person class="indexing_service">Mckibben, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990908T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EFDA163DF93BA3575AC0A96F958260" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yawning as the Earth Warms</hl1>
+      </hedline>
+      <abstract>
+        <p>Frank Fischer letter c�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bill McKibben (Op-Ed, Sept. 4) is right to wonder what will shock us into waking up to the realities of global warming. However, our actions are determined as much by the incentive systems shaped by our economic and social institutions as by individual perceptions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bill McKibben (Op-Ed, Sept. 4) is right to wonder what will shock us into waking up to the realities of global warming. However, our actions are determined as much by the incentive systems shaped by our economic and social institutions as by individual perceptions.</p>
+        <p>Many Americans are aware of the coming environmental crisis but are personally unwilling to do anything about it until they see everyone else doing something as well. Once we appreciate this societal nature of the problem, it is easier to recognize that our inaction results more from a lack of collective political leadership than from individual disinterest or neglect.</p>
+        <p>FRANK FISCHER  Newark, Sept. 7, 1999</p>
+        <p>The writer is a professor of political science at Rutgers University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Food Without Foam</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="104955"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="TOPICS OF THE TIMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <classifier class="indexing_service" type="descriptor">PLASTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">PAPER AND PULP</classifier>
+        <classifier class="indexing_service" type="descriptor">RECYCLING OF WASTE MATERIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTAINERS AND PACKAGING</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESTAURANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">FAST FOOD INDUSTRY</classifier>
+        <location class="indexing_service">NEW YORK STATE</location>
+        <org class="indexing_service">MCDONALD'S CORP</org>
+        <org class="indexing_service">CONSUMER PROTECTION BOARD, NEW YORK STATE</org>
+        <person class="indexing_service">KESSEL, RICHARD M</person>
+        <object.title class="indexing_service">TOPICS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">EDITORIAL</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plastics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paper and Pulp</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Containers and Packaging</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fast Food Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871227T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6D6133AF934A15751C1A961948260" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Food Without Foam</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Styrofoam box with two compartments keeps the burger hot while the lettuce and tomato stay cool and crisp. But at what cost to the environment? The white plastic packages create hazardous waste. Tons of nonbiodegradable boxes and cups strain the nation's overflowing landfills. Burning can generate toxic emissions.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Styrofoam box with two compartments keeps the burger hot while the lettuce and tomato stay cool and crisp. But at what cost to the environment? The white plastic packages create hazardous waste. Tons of nonbiodegradable boxes and cups strain the nation's overflowing landfills. Burning can generate toxic emissions.</p>
+        <p>The Styrofoam box with two compartments keeps the burger hot while the lettuce and tomato stay cool and crisp. But at what cost to the environment? The white plastic packages create hazardous waste. Tons of nonbiodegradable boxes and cups strain the nation's overflowing landfills. Burning can generate toxic emissions.  Richard Kessel, executive director of New York State's Consumer Protection Commission, sensibly calls on McDonald's, the largest fast-food chain, to switch voluntarily to recyclable paper wrappers. Not all jurisdictions stop at voluntary measures. In October, Berkeley, Calif., prohibited the use of foam packaging by fast-food restaurants. Rhode Island, Seattle and New York's Suffolk County are considering similar steps.</p>
+        <p>McDonald's agreed in August to phase out Styrofoam materials produced with chemicals believed to deplete the earth's ozone layer, substituting Styrofoam produced in a safer way. The company now believes that it is being targeted unfairly. Its food packaging is only a tiny part of the nation's solid waste problem. Still, it's a highly visible part. Burger King, McDonald's chief competitor, manages to keep burgers warm using recyclable paper wrappers.</p>
+        <p>While McDonald's weighs Mr. Kessel's request, he could insist that the state show the same responsibility it asks of the fast-food chain. New York, like Vermont, could stop buying Styrofoam cups, plates and bowls for use in state offices and institutions.</p>
+        <p>TOPICS OF THE TIMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

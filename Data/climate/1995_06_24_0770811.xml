@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Acid Rain Credits</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="770811"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <person class="indexing_service">O'LEARY, HAZEL R (SEC)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DD1331F937A15755C0A963958260" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Acid Rain Credits</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A June 5 news article suggests that the market-based trading system for acid rain pollution credits has been less successful than predicted and may not be working at all. I strongly disagree.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A June 5 news article suggests that the market-based trading system for acid rain pollution credits has been less successful than predicted and may not be working at all. I strongly disagree.</p>
+        <p>A careful evaluation of the real "bottom line" -- size, timing and cost of emissions reductions achieved -- suggests that the program has been a major success. Required emissions reductions, which are larger than those under the conventional regulatory alternative rejected by Congress in 1990, are being made ahead of schedule. As you note, costs are running about half of the projected level.</p>
+        <p>Notwithstanding "thin" markets for trades between companies and low prices for credits cited in your article, the flexibilities in the market-based approach have played a key role by encouraging innovation and competition among clean fuels and technologies. HAZEL R. O'LEARY Secretary of Energy Washington, June 16, 1995</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

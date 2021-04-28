@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Can We Please Save Our Planet?</title>
+    <meta content="l24warm-2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1764034"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <person class="indexing_service">Blewett, Mary</person>
+        <person class="indexing_service">Ellison, Katherine</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E6DF113EF937A15756C0A9609C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Can We Please Save Our Planet?</hl1>
+      </hedline>
+      <abstract>
+        <p>Mary Blewett letter on ways to start addressing global warming, on local level</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Katherine Ellison asks for radical realism to counter global warming.</p>
+        <p>I never boarded a school bus in my life. So send elementary school children to school by bus. Require all others, including university campuses, to have bikes and helmets for this healthy exercise.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Katherine Ellison asks for radical realism to counter global warming.</p>
+        <p>I never boarded a school bus in my life. So send elementary school children to school by bus. Require all others, including university campuses, to have bikes and helmets for this healthy exercise.</p>
+        <p>Redesign all streets with snow-plowable bike paths for safe use for all of us. Give bus drivers jobs as ''bike cops.'' Recycle the buses. Radical enough for a start?</p>
+        <p>Mary Blewett  Lowell, Mass., May 20, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

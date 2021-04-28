@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="180187"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFDD1539F93BA2575AC0A96E948260" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Regarding ''Fighting the Greenhouse Effect'' (Aug. 28), every ton of carbon dioxide removed from the atmosphere by photosynthesis is a gain in controlling the greenhouse effect.</p>
+        <p>But it is clearly in the interest of nations, businesses and individuals to cut down forests and absorb agricultural and open land into urban employment and community benefits.</p>
+        <p>The oxygen gained and carbon dioxide disposed of are gone with the wind. The benefits are so widely dispersed and uncapturable that, although beneficial to humanity, they are not worth producing for any individual or decision-making body. It seems to me quite possible that the human race may eventually use up oxygen and produce carbon dioxide to a point where continued life and growth will be impossible.  WILLIAM HALLER Jr.  West Kingston, R. I, Aug. 29</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

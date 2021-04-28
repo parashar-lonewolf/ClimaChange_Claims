@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: City Joins Clean Fuel Program</title>
+    <meta content="MB013026" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1483277"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Alcohol</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Vehicles</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Archibold, Randal C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5DA1E3AF930A15757C0A9659C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: City Joins Clean Fuel Program</hl1>
+      </hedline>
+      <byline class="print_byline">By Randal C. Archibold (NYT) (Compiled by Anthony Ramirez)</byline>
+      <byline class="normalized_byline">Archibold, Randal C</byline>
+      <abstract>
+        <p>New York City joins Clean Cities campaign, effort by Energy Dept to promote use of vehicles powered by alternative power sources, like natural gas, ethanol and electricity (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York City has joined the federal government's Clean Cities campaign, an effort by the Department of Energy to promote the use of vehicles powered by alternative power sources, like natural gas, ethanol and electricity. The city has the largest municipal fleet of vehicles in the country using alternative fuels, city officials said yesterday. The city also maintains partnerships with the private sector to increase the use of such vehicles, which are designed to reduce air pollution and the nation's dependence on fossil fuels. Mayor Michael R. Bloomberg said the Clean Cities designation would help the city continue such programs.</p>
+        <p>Randal C. Archibold (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>New York City has joined the federal government's Clean Cities campaign, an effort by the Department of Energy to promote the use of vehicles powered by alternative power sources, like natural gas, ethanol and electricity. The city has the largest municipal fleet of vehicles in the country using alternative fuels, city officials said yesterday. The city also maintains partnerships with the private sector to increase the use of such vehicles, which are designed to reduce air pollution and the nation's dependence on fossil fuels. Mayor Michael R. Bloomberg said the Clean Cities designation would help the city continue such programs.</p>
+        <p>Randal C. Archibold (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

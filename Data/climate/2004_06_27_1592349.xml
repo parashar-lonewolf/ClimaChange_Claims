@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bad Climate?</title>
+    <meta content="LTR104112" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1592349"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Boudreaux, Donald J</person>
+        <person class="indexing_service">Klinkenborg, Verlyn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E0D91739F934A15755C0A9629C8B63" item-length="302" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bad Climate?</hl1>
+      </hedline>
+      <abstract>
+        <p>Donald J Boudreaux letter on Verlyn Klinkenborg May 30 review of books about climate change and the environment (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Having read several new books on climate change, your reviewer Verlyn Klinkenborg advises us to be frightened (''Be Afraid. Be Very Afraid,'' May 30). I'll resist.</p>
+        <p>How is it possible, I wonder, to review the updated ''Limits to Growth'' book and Paul R. Ehrlich's latest tome without showing even a trace of recognition that these authors' predictions are notorious for being consistently and dazzlingly wrong? In ''The Population Bomb'' (1968), for example, Ehrlich predicted that ''the battle to feed all of humanity is over. In the 1970's the world will undergo famines -- hundreds of millions of people are going to starve to death in spite of any crash programs embarked upon now.'' Ehrlich later lost his bet with the economist Julian Simon that resource scarcity would intensify during the 1980's.</p>
+        <p>Suppose that a glib and frantic free-market ideologue had written a book 30 years ago predicting that continued regulation and taxation would wreak catastrophic destruction on society by 1985. Further suppose that when that specific prediction proved false, the same ideologue wrote another book advancing the same thesis, with only the year of reckoning changed. That prediction, too, failed. Now the ideologue offers yet another book with the same thesis. Would this ''scholar's'' book be reviewed in The New York Times? Would Klinkenborg take it seriously? If not, what's with the respect accorded to a ''Limits to Growth'' update and yet another prediction from Paul Ehrlich?</p>
+        <p>Donald J. Boudreaux  Fairfax, Va.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Having read several new books on climate change, your reviewer Verlyn Klinkenborg advises us to be frightened (''Be Afraid. Be Very Afraid,'' May 30). I'll resist.</p>
+        <p>How is it possible, I wonder, to review the updated ''Limits to Growth'' book and Paul R. Ehrlich's latest tome without showing even a trace of recognition that these authors' predictions are notorious for being consistently and dazzlingly wrong? In ''The Population Bomb'' (1968), for example, Ehrlich predicted that ''the battle to feed all of humanity is over. In the 1970's the world will undergo famines -- hundreds of millions of people are going to starve to death in spite of any crash programs embarked upon now.'' Ehrlich later lost his bet with the economist Julian Simon that resource scarcity would intensify during the 1980's.</p>
+        <p>Suppose that a glib and frantic free-market ideologue had written a book 30 years ago predicting that continued regulation and taxation would wreak catastrophic destruction on society by 1985. Further suppose that when that specific prediction proved false, the same ideologue wrote another book advancing the same thesis, with only the year of reckoning changed. That prediction, too, failed. Now the ideologue offers yet another book with the same thesis. Would this ''scholar's'' book be reviewed in The New York Times? Would Klinkenborg take it seriously? If not, what's with the respect accorded to a ''Limits to Growth'' update and yet another prediction from Paul Ehrlich?</p>
+        <p>Donald J. Boudreaux  Fairfax, Va.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carbon Dioxide Lawsuits</title>
+    <meta content="L04WAR$01" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1601578"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <org class="indexing_service">Unocal Corp</org>
+        <person class="indexing_service">Stegemeier, Richard J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E6DF143CF937A3575BC0A9629C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carbon Dioxide Lawsuits</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Richard J Stegemeier, former chairman and chief executive of Unocal, suggests suits against power companies by states demanding carbon dioxide reductions are frivolous (July 28 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It's a novel idea indeed for attorneys general to file lawsuits demanding carbon dioxide reductions outside their jurisdictions (editorial, July 28).</p>
+        <p>It's interesting to note that, in the aggregate, four of the eight states filing the lawsuits generate 14.5 percent less electricity than they consume. The reason, of course, is that they prefer to buy cheap imported power from their neighbors.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It's a novel idea indeed for attorneys general to file lawsuits demanding carbon dioxide reductions outside their jurisdictions (editorial, July 28).</p>
+        <p>It's interesting to note that, in the aggregate, four of the eight states filing the lawsuits generate 14.5 percent less electricity than they consume. The reason, of course, is that they prefer to buy cheap imported power from their neighbors.</p>
+        <p>The remedy is cheap and simple. The four states should simply reduce their electricity demands by 14.5 percent; the five targeted companies can then reduce their power generation and carbon dioxide emissions by 14.5 percent, and that problem is solved. There's one other problem, though. The 66 million people in the four states might find it easier to fire their attorneys general than suffer through three and a half hours of brownouts every day.</p>
+        <p>Richard J. Stegemeier  Anaheim, Calif., July 29, 2004</p>
+        <p>The writer is the retired chairman and chief executive of Unocal.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

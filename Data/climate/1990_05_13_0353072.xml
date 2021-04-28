@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REFERENCE</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="353072"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="IN SHORT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">JOHNSON, GEORGE</person>
+        <person class="indexing_service">GOLOB, RICHARD</person>
+        <person class="indexing_service">BRUS, ERIC</person>
+        <object.title class="indexing_service">ALMANAC OF SCIENCE AND TECHNOLOGY, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D6123FF930A25756C0A966958260" item-length="363" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REFERENCE</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE JOHNSON</byline>
+      <byline class="normalized_byline">JOHNSON, GEORGE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>THE ALMANAC OF SCIENCE AND TECHNOLOGY: What's New and What's Known. Edited by Richard Golob and Eric Brus. (Harcourt Brace Jovanovich, Cloth, $59.95; Paper, $29.95.) It takes a lot of guts to try to squeeze everything the thinking person needs to know about science and technology into a 530-page book.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>THE ALMANAC OF SCIENCE AND TECHNOLOGY: What's New and What's Known. Edited by Richard Golob and Eric Brus. (Harcourt Brace Jovanovich, Cloth, $59.95; Paper, $29.95.) It takes a lot of guts to try to squeeze everything the thinking person needs to know about science and technology into a 530-page book.</p>
+        <p>THE ALMANAC OF SCIENCE AND TECHNOLOGY: What's New and What's Known. Edited by Richard Golob and Eric Brus. (Harcourt Brace Jovanovich, Cloth, $59.95; Paper, $29.95.) It takes a lot of guts to try to squeeze everything the thinking person needs to know about science and technology into a 530-page book. The sheer scope of this enterprise is captured in the dizzying mix of topics advertised on the cover: AIDS, Hubble Space Telescope, Punctuated Equilibrium, Brain Grafts, Mount St. Helens, Quarks, Acid Rain, Coronary Bypass Surgery, Black Holes - and on and on. It is hard to imagine a scientific subject that has been in the news in the last decade that is not touched upon somewhere in ''The Almanac of Science and Technology.'' Yet for a book with such a high fact-per-sentence ratio, the writing is very clear. Naturally, trade-offs between breadth and depth were necessary. There is far more technology here than science, much more medicine than basic biological research. The section called Brain and Behavior, for example, concentrates on the great new gadgets and techniques - PET scanners, computerized electroencephalography, and so forth - that allow scientists to monitor the brain; it includes, as well, pages on sleep disorders, stress-caused illnesses and fetal-cell therapy. But nowhere to be found is the most basic concept of neuroscience: how a neuron works. When it comes to chemistry, the entries on quasicrystals, antirubber, caged atoms and other recently synthesized curiosities are right on the technological cutting edge. But why, in a chapter that devotes half a page to automotive catalytic converters and a page to radar-absorbing paint, is there nothing about the periodic table of the elements? The book is much broader on physics, describing not only the nuts and bolts of giant accelerators but also the intellectual milestones in the quest for a grand unification theory. Ideally, this balance between the theoretical and the technological would have been struck in every chapter. Even so, this is a very useful book. In the few weeks it has been on my desk I've referred to it several times, usually finding just what I was looking for.</p>
+        <p>IN SHORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

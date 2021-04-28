@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientists Say Recovery of the Ozone Layer May Take Longer Than Expected</title>
+    <meta content="07ozone" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/07/science/07ozone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1723004"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Oceanic and Atmospheric Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE3D61331F934A35751C1A9639C8B63" item-length="383" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientists Say Recovery of the Ozone Layer May Take Longer Than Expected</hl1>
+        <hl2 class="online_headline">Scientists Say Recovery of the Ozone Layer May Take Longer Than Expected</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <dateline>SAN FRANCISCO, Dec. 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The layer of ozone in the earth's upper atmosphere, which protects life from harmful ultraviolet radiation but which has been damaged by artificial chemicals, may take a decade or two longer to recover than previously thought, scientists reported Tuesday.</p>
+        <p>Until now, the ozone layer had been expected to return to its 1980 condition by about 2050. But at a meeting of the American Geophysical Union here, the scientists said new measurements and computer simulations suggested that continuing use of the chemicals -- chlorofluorocarbons, or CFC's -- would delay the recovery until about 2065.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Until now, the ozone layer had been expected to return to its 1980 condition by 2050.</p>
+      </block>
+      <block class="full_text">
+        <p>The layer of ozone in the earth's upper atmosphere, which protects life from harmful ultraviolet radiation but which has been damaged by artificial chemicals, may take a decade or two longer to recover than previously thought, scientists reported Tuesday.</p>
+        <p>Until now, the ozone layer had been expected to return to its 1980 condition by about 2050. But at a meeting of the American Geophysical Union here, the scientists said new measurements and computer simulations suggested that continuing use of the chemicals -- chlorofluorocarbons, or CFC's -- would delay the recovery until about 2065.</p>
+        <p>Despite a ban on producing the chemicals in industrialized countries and the ready availability of substitute chemicals, the United States and Canada still account for about 15 percent of current emissions, because CFC's are still in use in older refrigerators and air-conditioners.</p>
+        <p>''This is somewhat surprising,'' Dale Hurst, a scientist with the Earth System Research Laboratory of the National Oceanic and Atmospheric Administration in Boulder, Colo., said at a news conference at the meeting. ''We would have expected the reservoirs of these chemicals in developed countries to be exhausted, or nearly exhausted, by 2003.''</p>
+        <p>A slower recovery would expose people in high latitudes to somewhat higher levels of ultraviolet light, which causes skin cancer. The scientists did not try to predict the health effects; indeed, Dr. Hurst said, they ''may be nothing to most people.''</p>
+        <p>A large hole in the ozone layer opened over Antarctica in the 1980's. It closed during the summer, then reopened each winter, becoming larger and larger, finally reaching millions of square miles in size.</p>
+        <p>Scientists found that chlorofluorocarbons, which were used in aerosol cans, refrigerators and air-conditioners, set off chemical reactions that destroy ozone. The same chemicals also cause the ozone to thin over the Arctic during winter months, but computer models predict that the ozone layer there will be restored more quickly, by about 2040.</p>
+        <p>The National Aeronautics and Space Administration announced Tuesday that this year's Antarctic ozone hole averaged 9.4 million square miles, or about the size of North America, between early September and mid-October. That is smaller than in recent years, and NASA scientists said it would have been smaller still except for lower-than-normal temperatures, which increased the rate of ozone destruction.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

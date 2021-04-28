@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="383026"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DB1139F933A2575AC0A966958260" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>Poor Nation's Costly Church</p>
+        <p>Pope John Paul II is to consecrate the largest Christian church in the world, scorned by many as extravagant, in the Ivory Coast. Page A3.</p>
+        <p>Steering Clear of Deer</p>
+        <p>Drivers and highway engineers are developing an array of alarms and diversions to avoid a growing menace to traffic: deer.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>Poor Nation's Costly Church</p>
+        <p>Pope John Paul II is to consecrate the largest Christian church in the world, scorned by many as extravagant, in the Ivory Coast. Page A3.</p>
+        <p>Steering Clear of Deer</p>
+        <p>Drivers and highway engineers are developing an array of alarms and diversions to avoid a growing menace to traffic: deer.</p>
+        <p>Page A3.</p>
+        <p>Steering Clear of Deer</p>
+        <p>Drivers and highway engineers are developing an array of alarms and diversions to avoid a growing menace to traffic: deer. Page A18.</p>
+        <p>A Chief for Health Institutes</p>
+        <p>Dr. Bernadine P. Healy of Cleveland was selected to head the National Institutes of Health. Page A18.</p>
+        <p>Coal Plant Splits States</p>
+        <p>Northeastern unity on acid rain has been disrupted by plans for a coal-burning plant in New York. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

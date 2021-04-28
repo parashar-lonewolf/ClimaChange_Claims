@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="11DUPE2" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1407348"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020711T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E1D71230F932A25754C0A9649C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article on June 16 about climate change in Alaska misstated the rise in temperatures there in the last 30 years. (The error was repeated in an editorial on Monday and in the Bob Herbert column on the Op-Ed page of June 24.) According to an assessment by the University of Alaska's Center for Global Change and Arctic System Research, the annual mean temperature has risen 5.4 degrees Fahrenheit over 30 years, not 7 degrees.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article on June 16 about climate change in Alaska misstated the rise in temperatures there in the last 30 years. (The error was repeated in an editorial on Monday and in the Bob Herbert column on the Op-Ed page of June 24.) According to an assessment by the University of Alaska's Center for Global Change and Arctic System Research, the annual mean temperature has risen 5.4 degrees Fahrenheit over 30 years, not 7 degrees.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

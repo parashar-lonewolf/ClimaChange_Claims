@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Oil and Pollution, An African Legacy</title>
+    <meta content="L17NIG$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1401341"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <location class="indexing_service">Nigeria</location>
+        <location class="indexing_service">Niger Delta (Nigeria)</location>
+        <person class="indexing_service">Epstein, Paul R (Dr)</person>
+        <person class="indexing_service">Achebe, Chidi (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Nigeria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Niger</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E5DA113CF934A25755C0A9649C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Oil and Pollution, An African Legacy</hl1>
+      </hedline>
+      <abstract>
+        <p>Drs Paul R Epstein and Chidi Achebe letter on June 13 editorial holds oil production produces few jobs and many health, environmental and economic costs in Niger Delta and other regions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Tragedy in the Nigerian Delta'' (editorial, June 13):</p>
+        <p>Environmental damage from oil extraction in the Niger River delta has ruined agriculture and fishing, but oil produces few jobs. Indeed, in Nigeria and many other countries oil dependence has many health, environmental and economic costs.</p>
+        <p>From exploration, extraction, refining, transport and combustion, the effects include leaks and spills, carcinogens, air pollution, acid rain and climate instability. The combination is sickening wildlife, plants and humans. Oil dependence has skewed incomes and sowed social conflict.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Tragedy in the Nigerian Delta'' (editorial, June 13):</p>
+        <p>Environmental damage from oil extraction in the Niger River delta has ruined agriculture and fishing, but oil produces few jobs. Indeed, in Nigeria and many other countries oil dependence has many health, environmental and economic costs.</p>
+        <p>From exploration, extraction, refining, transport and combustion, the effects include leaks and spills, carcinogens, air pollution, acid rain and climate instability. The combination is sickening wildlife, plants and humans. Oil dependence has skewed incomes and sowed social conflict.</p>
+        <p>The sooner we all begin the transition to clean energy, the greater are the chances of having a healthy, stable and secure future -- and of preserving the environment we are all part of.</p>
+        <p>PAUL R. EPSTEIN, M.D.  CHIDI ACHEBE, M.D.  Boston, June 14, 2002</p>
+        <p>The writers are, respectively, associate director of the Center for Health and the Global Environment at Harvard Medical School and a student at the center.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

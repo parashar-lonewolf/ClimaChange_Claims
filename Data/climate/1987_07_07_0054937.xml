@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ACID SOIL</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="54937"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">NITROGEN</classifier>
+        <classifier class="indexing_service" type="descriptor">AGRICULTURE</classifier>
+        <org class="indexing_service">MICHIGAN, UNIVERSITY OF</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2D6143AF934A35754C0A961948260" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ACID SOIL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Acidity inhibits the binding of nitrogen-producing bacteria to plant cells, according to scientists at the University of Michigan. They said they feared that soil tainted by acid rain might hinder or halt the necessary synthesis of nitrogen in legumes, such as beans, peas and many forage crops. These play important roles in restoring nitrogen, a crucial nutrient for plant growth, to soils.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Acidity inhibits the binding of nitrogen-producing bacteria to plant cells, according to scientists at the University of Michigan. They said they feared that soil tainted by acid rain might hinder or halt the necessary synthesis of nitrogen in legumes, such as beans, peas and many forage crops. These play important roles in restoring nitrogen, a crucial nutrient for plant growth, to soils.</p>
+        <p>Acidity inhibits the binding of nitrogen-producing bacteria to plant cells, according to scientists at the University of Michigan. They said they feared that soil tainted by acid rain might hinder or halt the necessary synthesis of nitrogen in legumes, such as beans, peas and many forage crops. These play important roles in restoring nitrogen, a crucial nutrient for plant growth, to soils.</p>
+        <p>The scientists studied rhizobial bacteria, which produce enzymes that legumes need to convert nitrogen into nitrates, a form that plants can use for growth. The scientists found that rhizobial bacteria in a solution whose pH was less than 5.3 (7 is neutral) did not bind to plant cells. Acid rain may leave the soil acidic enough to halt the binding process, they suggested.</p>
+        <p>The scientists are studying the effects of environmental conditions on the interaction between plant cells and the rhizobial bacteria, said one of the researchers, Dr. Melvin Schindler, an associate professor of biochemistry at Michigan State.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Traces of Explosion Found In New Jersey's Depths</title>
+    <meta content="IB1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="13NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="IN BRIEF" name="column_name"/>
+    <docdata>
+      <doc-id id-string="933873"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Dinosaurs</classifier>
+        <classifier class="indexing_service" type="descriptor">Meteors and Meteorites</classifier>
+        <location class="indexing_service">Bass River (NJ)</location>
+        <person class="indexing_service">Pollak, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meteors and Meteorites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dinosaurs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E4D7103AF932A35755C0A961958260" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Traces of Explosion Found In New Jersey's Depths</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL POLLAK</byline>
+      <byline class="normalized_byline">Pollak, Michael</byline>
+      <abstract>
+        <p>Tiny glass droplets found nearly quarter-mile underground in Bass River are being called vivid evidence that sudden extinction of dinosaurs was caused by impact of single meteorite 65 million years ago; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tiny glass droplets found nearly a quarter-mile underground in Bass River are being called vivid evidence that the sudden extinction of the dinosaurs was caused by the impact of a single meteorite 65 million years ago.</p>
+        <p>Researchers from Rutgers University discovered the two-inch-thick deposit of glass beads, called spherules, while drilling in the Burlington County town, about 15 miles north of Atlantic City, for a study of global sea level and climate change throughout the ages.</p>
+      </block>
+      <block class="full_text">
+        <p>Tiny glass droplets found nearly a quarter-mile underground in Bass River are being called vivid evidence that the sudden extinction of the dinosaurs was caused by the impact of a single meteorite 65 million years ago.</p>
+        <p>Researchers from Rutgers University discovered the two-inch-thick deposit of glass beads, called spherules, while drilling in the Burlington County town, about 15 miles north of Atlantic City, for a study of global sea level and climate change throughout the ages.</p>
+        <p>The spherules, found 1,260 feet underground, almost certainly represent the residue of sand or rock that melted when a meteorite roughly the size of Mount Everest slammed into the Gulf of Mexico at the edge of the Yucatan Peninsula, said Dr. Richard K. Olsson, a geology professor at Rutgers who took part in the drilling project. He said the molten cloud would have traveled the 1,500 miles to New Jersey in about 10 minutes before cooling into droplets that settled on the ocean floor.</p>
+        <p>The two-inch layer at Bass River is the thickest spherule deposit of that geological period found north of the Gulf of Mexico, and the first discovered in New Jersey. Other effects of the Yucatan explosion theorized by various scientists include huge forest fires, acid rain, planetary darkness, destruction of marine plant life at the bottom of the food chain, wide swings in temperature and giant sea waves.</p>
+        <p>While the meteorite theory is not universally accepted, Dr. Olsson said he could find no other explanation for the spherules.</p>
+        <p>Dr. Olsson and Dr. Kenneth G. Miller, a professor of geological sciences at Rutgers, presented their findings at a meeting of the American Geophysical Union.</p>
+        <p>MICHAEL POLLAK</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

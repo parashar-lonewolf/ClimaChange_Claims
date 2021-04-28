@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>If It's Broke, Why Not Fix It?</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="404027"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="ENVIRONMENTAL BOOKS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">OPPENHEIMER, MICHAEL</person>
+        <person class="indexing_service">BOOKCHIN, MURRAY</person>
+        <object.title class="indexing_service">REMAKING SOCIETY (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DF1331F936A15752C1A966958260" item-length="632" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>If It's Broke, Why Not Fix It?</hl1>
+      </hedline>
+      <byline class="print_byline">By Michael Oppenheimer; Michael Oppenheimer, a senior scientist at the Environmental Defense Fund, is the author, with Robert H. Boyle, of "Dead Heat: The Race Against the Greenhouse Effect."</byline>
+      <byline class="normalized_byline">OPPENHEIMER, MICHAEL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>REMAKING SOCIETY  Pathways to a Green Future. By Murray Bookchin. 222 pp. Boston: South End Press. Cloth, $25. Paper, $10.</p>
+      </block>
+      <block class="full_text">
+        <p>REMAKING SOCIETY  Pathways to a Green Future. By Murray Bookchin. 222 pp. Boston: South End Press. Cloth, $25. Paper, $10.</p>
+        <p>WITH chunks of the Berlin Wall up for sale and Eastern Europe rushing to join a global free market, people who question the virtues of capitalism are generally as welcome as gnats at a nudist party. But the 1980's were also the decade of the ozone hole and global warming, both of which arise chiefly from the emission of industrial gases, which increase during breakneck economic expansion, the sine qua non of capitalist success.</p>
+        <p>One of those gnats buzzing about the capitalist celebration is Murray Bookchin, who has been warning of the conflict between economic growth and environmental stability for nearly 30 years. Mr. Bookchin, the author of nine other books on society and ecology, is an anarchist in the utopian tradition, dispensing as much contempt for the totalitarian Marxists who ruined the landscape of Eastern Europe and the health of its denizens as he doles out for the capitalists. Mr. Bookchin argues that the original sin of humankind is the development of hierarchies. The dominance of one human over another, he believes, led inevitably to the domination of one sex by another, one class by another and, in a cascading sequence of hierarchies, to the domination of nature by humans.</p>
+        <p>Mr. Bookchin's solution is to recoup some of the elements of earlier civilizations, characteristics that were snuffed out by the Industrial Revolution. He envisions confederations of small communities, governments built around town meetings and shared labor based on the artisanal model of customized production. He is no Luddite, but looks to what he calls ecological technologies, such as solar energy, to restore the "balance between town and country." In fact, he expresses withering contempt for the wing of environmentalism known as deep ecology, some of whose adherents regard humans and their technologies as a cancer on the pristine body of nature. Mr. Bookchin sees nature, humanity and society as one piece. If people are fouling their environment, the problem lies in particular socio-economic systems, not in the very essence of human beings.</p>
+        <p>Mr. Bookchin is rather kind to mainstream environmentalists (of whom I am one) who try to reform capitalism with weapons like air pollution regulations. After all, someone has to forestall more Chernobyls, and it is difficult to argue credibly for reform and revolution at the same time. Yet with environmental degradation now threatening our global life support systems, reformists need to reconsider radical questions that have been banished from mainstream debate for over a decade: Can the ethic of individual gain be reconciled with the collective need for common resources, such as air and water? Can permanent growth be reconciled with the limited resilience of the natural processes that sustain us, such as climate?</p>
+        <p>"REMAKING SOCIETY" is a strident, didactic, poorly edited and downright irritating book, with so many uses of "organic" and "ecological" that it constantly teeters on the brink of mushy philosophizing. Its anthropological inferences about older societies are too sweeping to be credible, and its utopian vision seems hopelessly romantic and unrealistic.</p>
+        <p>Nonetheless, the big capitalist party of the 1980's is coming to a crashing end. Questions of fairness and wealth distribution are again in the air. Once more, nations are hostage to their voracious thirst for oil. The central governments of the two big cold warriors are in disarray. Environmentalism is no longer about wilderness protection; it's about saving the collective neck of humanity. In this turbulent context, the questions raised by Murray Bookchin, that annoying gnat, should not be ignored.</p>
+        <p>ENVIRONMENTAL BOOKS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

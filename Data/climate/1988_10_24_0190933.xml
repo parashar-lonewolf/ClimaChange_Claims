@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ozone Loss in Antarctic Appears Diminished</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="190933"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIATION</classifier>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <org class="indexing_service">NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3D71F39F937A15753C1A96E948260" item-length="419" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ozone Loss in Antarctic Appears Diminished</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, Oct. 23</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The seasonal ''hole'' in the protective ozone layer over Antarctica appears to be less severe this year than last year, according to the National Oceanic and Atmospheric Administration.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The seasonal ''hole'' in the protective ozone layer over Antarctica appears to be less severe this year than last year, according to the National Oceanic and Atmospheric Administration.</p>
+        <p>The seasonal ''hole'' in the protective ozone layer over Antarctica appears to be less severe this year than last year, according to the National Oceanic and Atmospheric Administration.</p>
+        <p>The phenomenon is a depletion in the amount of ozone high in the atmosphere over the South Pole region, which occurs in the southern hemisphere in the spring. Some scientists have also found indications of a similar depletion over the North Pole.</p>
+        <p>The phenomenon was detected in the early 1980's and raised concern because ozone, a form of oxygen, helps to block harmful ultraviolet radiation from the sun. That radiation has been associated with skin cancer and damage to ecological systems. Most scientists believe that ozone-destroying industrial chemicals, which can concentrate at the poles, are responsible for the depletion. Ozone Depleted in October</p>
+        <p>Instruments sent up in balloons have found that the amount of ozone in the atmosphere above Antarctica this month averaged 200 Dobson units as against 135 Dobson units last October and 165 in October 1986. The ozone level was as high as 250 units in 1980. A Dobson unit is a measurement of ozone made by comparing how much of each of two wavelengths of sunlight is absorbed in the air. That ratio changes depending on the concentration of ozone.</p>
+        <p>October, which is springtime in the Antarctic, is the time of year when ozone is most depleted over the area, said Walter Komhyr of the atmospheric administration's Environmental Research Laboratories in Boulder, Colo., said a week ago Monday.</p>
+        <p>But the apparent improvement does not mean the threat of ozone depletion is reduced, Mr. Komhyr said. Rather, it seems to indicate that natural variations in the atmosphere can lead to large year-to-year changes in ozone, he said.</p>
+        <p>The ozone hole occurs within a vortex of west-to-east winds, which tend to circle the Antarctic in the winter and spring months.</p>
+        <p>This year, Mr. Komhyr said, the temperatures high in the atmosphere have been a few degrees warmer than in the last two years, reducing the formation of clouds in the stratosphere and perhaps helping protect the ozone. It is within those clouds that chlorine compounds tend to do the most damage to ozone, Mr. Komhyr explained.</p>
+        <p>An international treaty has called for reduction in the release of chlorine compounds that threaten the ozone layer. They are largely derived from chlorofluorocarbons, man-made gases used in refrigeration, industrial processes and as aerosol propellants in some countries.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

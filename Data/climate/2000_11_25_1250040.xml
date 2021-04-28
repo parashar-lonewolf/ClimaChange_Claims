@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="25INSI$03" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1250040"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D8113AF936A15752C1A9669C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mideast Security Link Kept</p>
+        <p>The Israeli and Palestinian leaders agreed to maintain field-level security coordination that Israel had threatened to sever after an Israeli officer was killed.</p>
+        <p>PAGE A3</p>
+        <p>Deadline on Global Warming</p>
+        <p>Negotiators struggled to clinch a deal on a treaty to reduce emissions of greenhouse gases, with many hopeful that at least a general agreement could be reached.</p>
+        <p>PAGE A6</p>
+      </block>
+      <block class="full_text">
+        <p>Mideast Security Link Kept</p>
+        <p>The Israeli and Palestinian leaders agreed to maintain field-level security coordination that Israel had threatened to sever after an Israeli officer was killed.</p>
+        <p>PAGE A3</p>
+        <p>Deadline on Global Warming</p>
+        <p>Negotiators struggled to clinch a deal on a treaty to reduce emissions of greenhouse gases, with many hopeful that at least a general agreement could be reached.</p>
+        <p>PAGE A6</p>
+        <p>5 Million New H.I.V. Cases</p>
+        <p>An estimated 5.3 million people, including 600,000 children under 15, have been infected this year with the virus that causes AIDS, the World Health Organization said.</p>
+        <p>PAGE A5</p>
+        <p>Microbe-Size Machines</p>
+        <p>Scientists have found a way to build and propel microbe-size motors, called nanomachines, that some say could one day power miniature robots to repair cells.</p>
+        <p>PAGE A10</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

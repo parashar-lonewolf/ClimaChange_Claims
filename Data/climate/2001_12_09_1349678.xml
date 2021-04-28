@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hybrid Cars</title>
+    <meta content="MB122957" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="78" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/12/09/magazine/09HYBRID.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1349678"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="THE YEAR IN IDEAS: A TO Z."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Two Thousand and One (Year)</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Efficiency</classifier>
+        <person class="indexing_service">Mihm, Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DE143CF93AA35751C1A9679C8B63" item-length="496" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hybrid Cars</hl1>
+        <hl2 class="online_headline">Hybrid Cars</hl2>
+      </hedline>
+      <byline class="print_byline">By Stephen Mihm</byline>
+      <byline class="normalized_byline">Mihm, Stephen</byline>
+      <abstract>
+        <p>Hybrid-fuel cars introduced in 2001 noted; drawing (The Year in Ideas) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Most cars are at their gas-guzzling worst when they're crawling in bumper-to-bumper traffic. But in 2001, this logic was turned on its head. A new kind of car, the hybrid, is not only environmentally friendly -- it actually gets better gas mileage the longer you're stuck in stop-and-go hell.</p>
+        <p>The Toyota Prius and the Honda Insight are two examples of hybrids. Their fuel efficiency is amazing: in city driving, the Insight gets 61 miles per gallon; the Prius, 52 m.p.g. If everyone in the U.S. drove a hybrid instead of a traditional car, we would save roughly 1.6 billion barrels of oil a year -- far more than we currently import from the Middle East.</p>
+      </block>
+      <block class="full_text">
+        <p>Most cars are at their gas-guzzling worst when they're crawling in bumper-to-bumper traffic. But in 2001, this logic was turned on its head. A new kind of car, the hybrid, is not only environmentally friendly -- it actually gets better gas mileage the longer you're stuck in stop-and-go hell.</p>
+        <p>The Toyota Prius and the Honda Insight are two examples of hybrids. Their fuel efficiency is amazing: in city driving, the Insight gets 61 miles per gallon; the Prius, 52 m.p.g. If everyone in the U.S. drove a hybrid instead of a traditional car, we would save roughly 1.6 billion barrels of oil a year -- far more than we currently import from the Middle East.</p>
+        <p>As their name suggests, hybrids rely on two sources of energy. The first and primary source is the same as any run-of-the-mill car's: an internal combustion engine. The second is a battery that drives an electric motor. Depending on the model, this motor can provide the car with its sole source of power at lower speeds or simply lend a helping hand to the gas engine.</p>
+        <p>Whatever the precise design, these cars, unlike most other vehicles that have batteries, don't need to be plugged in to be recharged. Instead, they are recharged every time the driver hits the brakes. This process, ''regenerative braking,'' uses the electric motor to slow the car; as the car's velocity decreases, energy released by brake-pad friction is captured, thus recharging the battery. All of which helps explain why driving on crowded city streets often yields better gas mileage than cruising at high speeds: the more often you brake, the more you're coasting on free battery power.</p>
+        <p>The fuel savings alone makes hybrid cars attractive. But they also generate far fewer emissions and only half the carbon dioxide released by conventional cars, making them an ideal choice for anyone concerned about global warming. They're also competitively priced, and with tax credits for fuel-efficient vehicles being debated in Washington, it's quite likely they will get even cheaper.</p>
+        <p>Extensive waiting lists already exist for both the Insight and the Prius, and demand keeps increasing. All of which may explain why other major car manufacturers, after sitting on the sidelines for years, are now getting into the hybrid game. Ford, under the leadership of its new C.E.O., William Clay Ford Jr., a professed environmentalist, is readying the introduction of a hybrid version of its Escape S.U.V., which is projected to get 40 m.p.g. in the city, far better than the 18 m.p.g. that the conventional model gets.</p>
+        <p>Think of that next time you gun the engine of your old S.U.V. -- and more important, when you hit the brakes.</p>
+        <p>Stephen Mihm</p>
+        <p>THE YEAR IN IDEAS: A TO Z.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

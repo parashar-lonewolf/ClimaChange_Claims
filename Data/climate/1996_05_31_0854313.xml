@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Refrigerant Deal By Allied Signal</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="854313"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR CONDITIONING</classifier>
+        <classifier class="indexing_service" type="descriptor">LICENSES</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">GASES</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS,DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">ALLIED SIGNAL INC</org>
+        <org class="indexing_service">DU PONT DE NEMOURS, E I, &amp; CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Conditioning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E1DB1E39F932A05756C0A960958260" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Refrigerant Deal By Allied Signal</hl1>
+      </hedline>
+      <byline class="print_byline">By Bloomberg Business News</byline>
+      <dateline>MORRISTOWN, N.J., May 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Allied Signal Inc. has licensed a refrigerant that does not destroy the atmosphere's ozone layer to E. I. du Pont de Nemours &amp; Company for use in new air-conditioning systems.</p>
+        <p>The refrigerant, called Genetron AZ-20, replaces hydrochlorofluorocarbon-22,  which is scheduled to be phased out by 2010 under the Montreal Protocol on substances that deplete the ozone layer.</p>
+      </block>
+      <block class="full_text">
+        <p>Allied Signal Inc. has licensed a refrigerant that does not destroy the atmosphere's ozone layer to E. I. du Pont de Nemours &amp; Company for use in new air-conditioning systems.</p>
+        <p>The refrigerant, called Genetron AZ-20, replaces hydrochlorofluorocarbon-22,  which is scheduled to be phased out by 2010 under the Montreal Protocol on substances that deplete the ozone layer.</p>
+        <p>The licensing agreement will strengthen Allied Signal's position in the global new-equipment air-conditioning market.</p>
+        <p>"AZ-20 is integral to our company's long-term growth strategy in the approximately $1.5 billion global market for refrigerants," said Fred Poses, president of Allied Signal's engineered materials business.</p>
+        <p>Hydrochlorofluorocarbons are an interim substitute for chlorofluorocarbons, which were widely used as refrigerants until their production was banned. Hydrochlorofluorocarbons deplete atmospheric ozone at a slower rate than chlorofluorocarbons.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="04obse" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/04/04/science/04observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1752031"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Snakes</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Toads</classifier>
+        <classifier class="indexing_service" type="descriptor">Poisoning and Poisons</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Paleontology</classifier>
+        <classifier class="indexing_service" type="descriptor">Dinosaurs</classifier>
+        <classifier class="indexing_service" type="descriptor">Insects</classifier>
+        <classifier class="indexing_service" type="descriptor">Cockroaches</classifier>
+        <location class="indexing_service">Australia</location>
+        <location class="indexing_service">Antarctica</location>
+        <location class="indexing_service">Chicxulub (Mexico)</location>
+        <org class="indexing_service">University of Sydney</org>
+        <org class="indexing_service">Proceedings of the Royal Society B (Journal)</org>
+        <org class="indexing_service">Center for Biological Studies</org>
+        <org class="indexing_service">Proceedings of the National Academy of Sciences</org>
+        <org class="indexing_service">University of Utrecht</org>
+        <org class="indexing_service">Free University (Brussels)</org>
+        <person class="indexing_service">Barbraud, Christophe</person>
+        <person class="indexing_service">Weimerskirch, Henri (Dr)</person>
+        <person class="indexing_service">Harting, Markus</person>
+        <person class="indexing_service">Ame, Jean-Marc</person>
+        <person class="indexing_service">Halloy, Jose (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Australia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia</classifier>
+        <classifier class="online_producer" type="descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amphibians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dinosaurs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poisoning and Poisons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reptiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Antarctica</location>
+        <location class="online_producer">Australia</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EED71330F937A35757C0A9609C8B63" item-length="1039" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Deciding on a Roach Motel by Committee</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <abstract>
+        <p>University of Sydney researchers conduct study on impact of toxic cane toads on red-bellied black snakes in northeastern Australia; research, which is published in Proceedings of the Royal Society B, finds that snakes in toad areas are adapting and becoming more resistant to poison from toad; Christophe Barbraud and Henri Weimerskirch of Center for Biological Studies of Chize, France, find that although warming climate has caused northern hemisphere birds to nest early, Antarctica birds are breeding later than in past decandes; hold that various factors have made foraging for food more difficult; research is published in Proceedings of the National Academy of Sciences; Markus Harting of University of Utrecht, Netherlands, leads research that suggests that Chicxulub crater, generated by space rock impact 65 million years ago, was actually created in much earlier collision; holds that event could not have been cause of mass extinctions around globe; Jean-Marc Ame and Jose Halloy of Free University of Brussels conduct study that shows cockroaches use collective decision-making; research is published in Proceedings of the National Academy of Sciences; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rapid Response in Snakes</p>
+        <p>There is more news from the cane toad war in northeastern Australia. A recent study had shown that the toads, introduced to that continent about 70 years ago, were spreading ever faster as long-leggedness evolved as a trait. The toads are considered an invasive pest because they are toxic to many creatures that try to eat them, including snakes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The decision-making skills of cockroaches, snakes taking on toads in Australia, the effects of climate change and more.</p>
+      </block>
+      <block class="full_text">
+        <p>Rapid Response in Snakes</p>
+        <p>There is more news from the cane toad war in northeastern Australia. A recent study had shown that the toads, introduced to that continent about 70 years ago, were spreading ever faster as long-leggedness evolved as a trait. The toads are considered an invasive pest because they are toxic to many creatures that try to eat them, including snakes.</p>
+        <p>Now, it seems, snakes are fighting back with some evolutionary adaptations of their own.</p>
+        <p>A study by some of the same researchers from the University of Sydney shows that red-bellied black snakes in toad-infested areas choose toads as prey far less often than do snakes from toad-free areas. And when a snake from toad territory does eat one, the snake displays a greater resistance to the toxin. The study was published in Proceedings of the Royal Society B.</p>
+        <p>Changes like this may be the result of evolutionary adaptation over generations. Or they may simply be acquired or learned adaptations within an individual's lifetime. The researchers conducted experiments to see whether several exposures to a sublethal dose of toad toxin made a snake more resistant to it, and whether eating a toad once made the snake avoid toads in the future. In both cases, the answer was no. So the researchers suggest the changes are evolutionary.</p>
+        <p>If so, the researchers note, the change has happened remarkably fast. There are about three years between generations of black snakes, so it has taken fewer than 25 generations for the snakes to battle back.</p>
+        <p>Late Breeding in Antarctica</p>
+        <p>Climate change can mean more than melting glaciers and rising sea levels. For plants and animals, it can mean changes in the timing of seasonal activities like germination and reproduction. Studies have shown, for instance, that certain birds arrive at nesting sites earlier in response to rising temperatures.</p>
+        <p>Those studies have focused almost exclusively on the northern hemisphere, however. It hasn't been clear whether similar effects occur south of the equator.</p>
+        <p>A study of breeding dates for nine species of seabirds found in the Antarctic shows that climate change has had an impact in the southern hemisphere. But the birds are breeding later, not earlier.</p>
+        <p>The study, by Christophe Barbraud and Henri Weimerskirch of the Center for Biological Studies of Chizé, France, examined 55 years of data from East Antarctica on dates of the first arrival at breeding colonies and the first egg laying for the birds, including southern fulmars, Atlantic petrels and emperor penguins. They found that over all, the birds arrive at their breeding sites nine days later than in the early 1950's, and begin laying eggs about two days later. The study was published in The Proceedings of the National Academy of Sciences.</p>
+        <p>The authors point out that in the north, earlier arrival and laying dates can probably be attributed to the increased availability of food, which in turn is brought on by higher spring temperatures.</p>
+        <p>But in East Antarctica, the researchers say, more complex changes in larger-scale effects like El Niño may be at work. Other research has linked those changes to a reduction in the extent, and that in turn has been connected to a decline in krill and other food that the seabirds eat. Less food means that the birds need more time to build up the reserves that they need for breeding.</p>
+        <p>New Date for Chicxulub</p>
+        <p>Timing is everything when it comes to the Chicxulub crater, as well. That's the huge hole created in the Yucatan 65 million years ago by a space rock that produced a swarm of dust and fire around the globe.</p>
+        <p>Whether that impact wiped out the dinosaurs has been a subject of much debate in recent years, with a succession of studies supporting one side or the other. Now a new analysis, by Markus Harting of the University of Utrecht in the Netherlands, offers evidence that Chicxulub happened earlier than the extinction.</p>
+        <p>The study, of tiny spheres of glass created by the heat of the impact, puts the event at 300,000 years before the date of the mass extinctions.</p>
+        <p>Deciding on a Roach Motel by Committee</p>
+        <p>Sure, the world may end in fire. Or perhaps in ice.</p>
+        <p>But for those who think the world will end in cockroaches, there may be new cause for concern. Scientists in Belgium have discovered that the insects are good at collective decision-making.</p>
+        <p>The purpose of the study, by Jean-Marc Amé and José Halloy of the Free University of Brussels and colleagues, was not to research the potential ascendancy of cockroaches. Rather, they were trying to understand how gregarious animals (which, as any apartment dweller can attest, cockroaches certainly are) make group decisions.</p>
+        <p>Cockroaches gather in sheltered locations, or resting places, so the question was how they go about forming groups that maximize protection but minimize overcrowding. ''Resting places are a nice experimental setup to test collective decision-making,'' Dr. Halloy said.</p>
+        <p>The researchers used larvae of the German cockroach, Blattella germanica, placing quantities of them in a petri dish outfitted with two or more ''shelters'' -- small plastic caps.</p>
+        <p>No matter the size of the shelters or the number of larvae, the researchers found that the cockroaches would seek a nonrandom, optimal solution. The findings were reported in The Proceedings of the National Academy of Sciences.</p>
+        <p>For instance, if each of two shelters could fit more than half of the cockroaches, the number in each would be about the same.</p>
+        <p>But if the shelters were each large enough to handle the whole population, all the larvae would gather under one, leaving the other empty.</p>
+        <p>The behavior is based on very simple interactions among individual cockroaches, Dr. Halloy said. Through chemical cues, the larvae can detect whether there are other larvae present. And if a shelter gets too crowded, the larvae, who prefer dim locations, can tell that they are out in the light.</p>
+        <p>''It's a simple way of taking the decision collectively,'' he said. ''It doesn't require any leadership or the exchange of a lot of information.''</p>
+        <p>Such simple decision-making models may apply to other gregarious species like sheep or fish, Dr. Halloy said.</p>
+        <p>''There's nothing intrinsic to cockroaches here,'' he said. ''There's no reason it should be different.''</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

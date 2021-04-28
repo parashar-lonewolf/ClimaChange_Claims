@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wired Virtual Patients Simulate Emergencies for Students</title>
+    <meta content="28KIDD" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1148758"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Mannequins (Dummies)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Medical Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Nursing and Nurses</classifier>
+        <org class="indexing_service">Medical Educational Technologies Inc</org>
+        <org class="indexing_service">Medsim-Eagle Simulation Inc</org>
+        <person class="indexing_service">Guernsey, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Nursing and Nurses</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nursing and Nurses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medical Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medical Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E1D81338F93BA15753C1A96F958260" item-length="1091" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wired Virtual Patients Simulate Emergencies for Students</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+      <byline class="normalized_byline">Guernsey, Lisa</byline>
+      <abstract>
+        <p>Students at nursing and medical schools around the country are gaining realistic experience in dealing with both child and adult emergency medical problems by practicing on computerized simulators that react eerily like real people; companies like Medical Educational Technologies Inc and Medsim-Eagle Simulation are supplying schools with virtual patients; Pediasim, child mannequin made by Medical Educational Technologies, works by responding to commands that are entered on computer then transmitted to mannequin; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LAST Friday, three respiratory-therapy students at the Borough of Manhattan Community College were faced with an unsettling learning experience: They were staring into the face of what looked like a young boy having a severe allergic reaction to peanuts. His larynx and tongue were swelling and his breathing was strained.</p>
+        <p>One student placed a plastic resuscitator to aid breathing over the patient's mouth. Another grabbed a syringe and administered a dose of adrenaline, medication that increases circulation and widens the airways. But the drug sent the patient's heart  racing so fast that it went into an abnormal rhythm and suddenly stopped pumping.</p>
+      </block>
+      <block class="full_text">
+        <p>LAST Friday, three respiratory-therapy students at the Borough of Manhattan Community College were faced with an unsettling learning experience: They were staring into the face of what looked like a young boy having a severe allergic reaction to peanuts. His larynx and tongue were swelling and his breathing was strained.</p>
+        <p>One student placed a plastic resuscitator to aid breathing over the patient's mouth. Another grabbed a syringe and administered a dose of adrenaline, medication that increases circulation and widens the airways. But the drug sent the patient's heart  racing so fast that it went into an abnormal rhythm and suddenly stopped pumping.</p>
+        <p>''There is no pulse,'' said Janelle Massiah, one of the students. ''We need to defibrillate.''</p>
+        <p>The students applied shocks to the patient's chest. Within a second, the heart started again. The vital signs on a nearby computer screen began to return to normal. In a few minutes, the patient seemed to be breathing without effort.</p>
+        <p>''All right, I think we caught it just in time,'' said Keith Adamik, another student, as he removed the resuscitator from the patient's face.</p>
+        <p>Most students in medical education would never have such real-life interaction with a child in the throes of a severe respiratory attack. But these students were not dealing with a live child at all. They were interacting with a machine -- a plastic mannequin, equipped with sensors, circuits, tubes and pumps, that simulates the reactions of a child 5 to 7 years old.</p>
+        <p>Nursing and medical schools have been using mannequins and simulated body parts for decades, but many are simply pieces of plastic that are not equipped to simulate responses. Many schools also use interactive computer programs that emulate medical emergencies on a computer screen, without any physical representation of a patient.</p>
+        <p>In the last few years, however, computerized simulators that react eerily like real people have become more commonplace. Companies like Medical Educational Technologies Inc., in Sarasota, Fla., and Medsim-Eagle Simulation, in Binghamton, N.Y., are supplying schools with the virtual patients.</p>
+        <p>The mannequin in use on Friday, which was designed to simulate the physiology of a child, is one of the latest versions. Called a pediatric simulator, it works in conjunction with a box of electronic equipment and a portable computer.</p>
+        <p>It is one of a half-dozen simulators that Medical Educational Technologies is installing this fall at schools of medicine and nursing around the country. The company also makes an adult simulator that is in use at nearly 100 medical schools, nursing schools, community colleges and military training sites.</p>
+        <p>''Students have virtually no opportunity to practice in real life on children,'' said Lou Oberndorf, president of the company. ''The consequence is that when a real emergency happens, it very well may be the first time they are working with a child.''</p>
+        <p>In the Pediasim, physical characteristics -- like the size of the airways and lungs -- are scaled down to the size of a child's. The software has also been adapted to include drug reactions and emergency situations that typically affect children, like allergic reactions and respiratory ailments.</p>
+        <p>The Pediasim works by responding to commands that are entered on a computer and then transmitted to the mannequin.</p>
+        <p>In the scenario faced by the students at the Borough of Manhattan Community College, Professor Neil Rodia had set up the software to demonstrate what might happen if a young boy came into an emergency room with an allergic reaction to peanuts.</p>
+        <p>When the students were introduced to the virtual patient, the computer sent signals to the Pediasim that caused a balloon within its tongue to expand, simulating swelling. That cut off air to the lungs, which actually inhale air and exhale carbon dioxide. Using stethoscopes applied to tiny speakers embedded in the mannequin, the students could hear the sounds of the patient's heart and lungs, choreographed by the software. The mannequin does not have a heart, but electronic equipment stored within a box nearby sends electrical pulses to spots on the chest and the wrists.</p>
+        <p>Other features include eyelids that can be opened and closed for clinical inspection and pupils that dilate or contract in response to either light or software commands. The pressure of fluids moving through tubes in the mannequin can simulate blood pressure and can be measured by a monitor wrapped around the arm. The tongue can be depressed to allow for intubation, the process of inserting a tube into the patient's windpipe. Clinicians often have more difficulty intubating children than adults because the airways are smaller; sometimes the tube is inserted into the esophagus by mistake.</p>
+        <p>The Pediasim also has the ability to simulate the effect of various medications. The simulator comes with bar-coded syringes, with each bar code representing a different drug. The mannequin measures the amount of fluid injected and reads the type of medication with a bar-code scanner. The computer then sends signals back to the virtual body to cause it to react physically to the injection.</p>
+        <p>Professors can manipulate the programs to create a number of scenarios, like an adverse reaction to a drug or no reaction at all.</p>
+        <p>''You can rig it so that even if students are doing it properly, the patient may still have no response,'' Dr. Rodia said.</p>
+        <p>The result is a far better teaching scenario, Dr. Rodia said, than simply asking students to read books and listen to lectures about what might happen in different situations. Even when students go into hospital rotations to see real-life emergencies, he said, ''they usually just stand back and watch.''</p>
+        <p>Medical Education Technologies sells the Pediasim -- including the mannequin, electronics box and software -- to community colleges for $160,000 and to medical schools, which use simulators with additional features, for $175,000. The adult version costs roughly the same amount, although a college that already has an adult version can buy the Pediasim mannequin and software for $35,000 and plug it into its existing equipment.</p>
+        <p>Researchers at the company are now investigating how they might create a virtual baby that is less than 6 months old. ''We'll have to shrink our technology even further,'' Mr. Oberndorf said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

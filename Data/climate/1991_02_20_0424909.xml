@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wimpy Winter</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="424909"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SEASONS AND MONTHS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Seasons and Months</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DD1230F933A15751C0A967958260" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wimpy Winter</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Well, there goes the season. Winter made a last desperate attempt to live up to its name over the weekend and by yesterday, once again, gave up. There will be some nasty days ahead and surely more rain, like the mild showers that endured through yesterday, but not much else wintry: there's just too much sun.</p>
+        <p>It rises before 7 o'clock now and sets shortly before 6. Whatever snow falls, it will melt. Whatever ground freezes, it will thaw. Already the sun is perking up your houseplants, unbuttoning your overcoat and steaming up the insides of your parked car.</p>
+        <p>In years ahead the winter of '91 may be remembered as the time of the big change, if the dramatic worries about global warming should turn out, on the basis of only a few years' experience, to be justified.</p>
+        <p>Right now, however, it is marked as a New York winter with few terrible falls on treacherous sidewalks, no snow emergencies on the streets and no ice packs on the Hudson. Yes, there were curbside puddles of slush so large that there was no way to avoid icy ankles.</p>
+        <p>But on the whole it has been a wimpy winter, one that had a January thaw without a real January freeze -- a winter noted, if it is to be noted at all, not for what it did but for what it didn't do.</p>
+      </block>
+      <block class="full_text">
+        <p>Well, there goes the season. Winter made a last desperate attempt to live up to its name over the weekend and by yesterday, once again, gave up. There will be some nasty days ahead and surely more rain, like the mild showers that endured through yesterday, but not much else wintry: there's just too much sun.</p>
+        <p>It rises before 7 o'clock now and sets shortly before 6. Whatever snow falls, it will melt. Whatever ground freezes, it will thaw. Already the sun is perking up your houseplants, unbuttoning your overcoat and steaming up the insides of your parked car.</p>
+        <p>In years ahead the winter of '91 may be remembered as the time of the big change, if the dramatic worries about global warming should turn out, on the basis of only a few years' experience, to be justified.</p>
+        <p>Right now, however, it is marked as a New York winter with few terrible falls on treacherous sidewalks, no snow emergencies on the streets and no ice packs on the Hudson. Yes, there were curbside puddles of slush so large that there was no way to avoid icy ankles.</p>
+        <p>But on the whole it has been a wimpy winter, one that had a January thaw without a real January freeze -- a winter noted, if it is to be noted at all, not for what it did but for what it didn't do.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

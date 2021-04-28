@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bush and the Climate</title>
+    <meta content="L14CLI$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1400419"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">White House Council on Environmental Quality</org>
+        <person class="indexing_service">Cassell, Mark (Prof)</person>
+        <person class="indexing_service">Connaughton, James L</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EFD8153CF937A25755C0A9649C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bush and the Climate</hl1>
+      </hedline>
+      <abstract>
+        <p>bush and climat</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In a June 10 letter, the chairman of the White House Council on Environmental Quality, James Connaughton, defended President Bush's weak effort to curb America's greenhouse emissions by asserting that such policies are ''appropriate to the current state of climate-change science.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In a June 10 letter, the chairman of the White House Council on Environmental Quality, James Connaughton, defended President Bush's weak effort to curb America's greenhouse emissions by asserting that such policies are ''appropriate to the current state of climate-change science.''</p>
+        <p>Such a claim is disingenuous. Our understanding of what affects global warming far exceeds our knowledge about the consequence of the president's so-called war on terrorism, his trillion-dollar tax gift to the wealthy or his ''Star Wars'' defense system. Ideology rather than knowledge or science is what drives the policies of this administration.</p>
+        <p>MARK CASSELL  Kent, Ohio, June 10, 2002</p>
+        <p>The writer is an assistant professor of political science at Kent State University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

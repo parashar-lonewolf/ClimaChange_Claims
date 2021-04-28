@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="16QNA.$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/09/16/science/16QNA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1519925"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mosquitoes</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE7DC113BF935A2575AC0A9659C8B63" item-length="340" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Mosquitoes and Genes</hl2>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column explains that lure of mosquitoes to one person over another has been found to be attributable to genetic background of person; cartoon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mosquitoes and Genes</p>
+        <p>Q. Why do some of us get bitten by mosquitoes while others go free?</p>
+        <p>A. Some of the factors that lure mosquitoes are well known, like carbon dioxide emissions, body heat and moisture, and there have been many plausible conjectures about variables that a sufferer might be able to control, like avoiding perfume and possibly even adopting a vegetarian diet. But new research suggests that the basis for the difference is likely to be inborn and genetic.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This week's question: Why do some of us get bitten by mosquitoes while others go free?</p>
+      </block>
+      <block class="full_text">
+        <p>Mosquitoes and Genes</p>
+        <p>Q. Why do some of us get bitten by mosquitoes while others go free?</p>
+        <p>A. Some of the factors that lure mosquitoes are well known, like carbon dioxide emissions, body heat and moisture, and there have been many plausible conjectures about variables that a sufferer might be able to control, like avoiding perfume and possibly even adopting a vegetarian diet. But new research suggests that the basis for the difference is likely to be inborn and genetic.</p>
+        <p>In 2001, the Queensland Institute of Medical Research in Brisbane, Australia, announced the results of a study of mosquito bites in identical and nonidentical twins. The researchers said the findings indicated that genes determined up to 85 percent of susceptibility.</p>
+        <p>The study involved 500 pairs of twins 12 to 14 years old. It included both identical twins, who have identical genes, and nonidentical twins, who share about 50 percent of their genes. They were asked about their experience of mosquito bites and that of their twin.</p>
+        <p>Statistical analyses by the institute's genetic epidemiology lab found that 85 percent of the variation in susceptibility could be ascribed to genetic makeup. It is not known which genes are at work or what substances they might produce to cause the difference.</p>
+        <p>The researchers were surprised to find that age made a difference in the subjects' susceptibility, and suggested that because many subjects were going through the hormonal changes of puberty, different genes might be dominant depending on which genes were being expressed on the way to sexual maturity.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

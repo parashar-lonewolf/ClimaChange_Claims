@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Cleanup at Brookhaven Is Not the Major Problem</title>
+    <meta content="LTR225106" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204649"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <classifier class="indexing_service" type="descriptor">Radiation</classifier>
+        <classifier class="indexing_service" type="descriptor">Hanford Nuclear Reservation (Wash)</classifier>
+        <org class="indexing_service">Oak Ridge National Laboratory (Tenn)</org>
+        <org class="indexing_service">Brookhaven National Laboratory</org>
+        <person class="indexing_service">Friedman, Lewis</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E0DA103CF937A35755C0A9669C8B63" item-length="294" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Cleanup at Brookhaven Is Not the Major Problem</hl1>
+      </hedline>
+      <abstract>
+        <p>Lewis Friedman letter on May 28 article holds waste problems at Oak Ridge and Hanford are not same as at Brookhaven National Laboratory; photo (S)�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The acceleration of the Federal cleanup of nuclear waste at Brookhaven was presented [In Brief, May 28] as possibly contingent on the support of Oak Ridge and Hanford. What is implied is that the waste problems in all three locations are similar. In fact the cost of the Hanford cleanup is estimated to be several tens of billions of dollars, and the Brookhaven cleanup roughly 1 percent of this number. The cost of the Brookhaven cleanup appears as ''noise'' in the Hanford budget.</p>
+        <p>As Senator Charles E. Schumer knows, the decision on accelerated budgeting will be made in Washington, D.C., not Washington State.</p>
+      </block>
+      <block class="full_text">
+        <p>The acceleration of the Federal cleanup of nuclear waste at Brookhaven was presented [In Brief, May 28] as possibly contingent on the support of Oak Ridge and Hanford. What is implied is that the waste problems in all three locations are similar. In fact the cost of the Hanford cleanup is estimated to be several tens of billions of dollars, and the Brookhaven cleanup roughly 1 percent of this number. The cost of the Brookhaven cleanup appears as ''noise'' in the Hanford budget.</p>
+        <p>As Senator Charles E. Schumer knows, the decision on accelerated budgeting will be made in Washington, D.C., not Washington State.</p>
+        <p>The only rational complaint that Hanford might make is a question of urgency. With laboratory critics complaining about exposure to less radiation than one gets on a commercial aiplane flight, perhaps the cleanup should be postponed and the funds used for productive basic research.</p>
+        <p>If the current laboratory administration at Brookhaven feels that this cleanup will get an issue off their backs, they don't understand people who refuse to be aware that mankind has been living with natural radioactivity for tens of thousands of years, inhaling carbon dioxide containing natural radiocarbon and eating bananas containing the natural radioactive isotope of potassium.</p>
+        <p>No cleanup can remove these hazards.</p>
+        <p>As one environmental lawyer was quoted, ''After three years, the site will not be cleansed.''</p>
+        <p>LEWIS FRIEDMAN  Moriches</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

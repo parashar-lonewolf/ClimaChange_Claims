@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BRIEFS</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="253021"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY BRIEFS (NYT)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE2DA123FF937A15756C0A96F948260" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: * ARCO, Los Angeles, said it would make a special commission-free purchase offer to holders of fewer than 100 of its common shares at the highest closing price for the stock from May 22 through June 29.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: * ARCO, Los Angeles, said it would make a special commission-free purchase offer to holders of fewer than 100 of its common shares at the highest closing price for the stock from May 22 through June 29.</p>
+        <p>* ARCO, Los Angeles, said it would make a special commission-free purchase offer to holders of fewer than 100 of its common shares at the highest closing price for the stock from May 22 through June 29.</p>
+        <p>* George Banta Co., Menasha, Wis., said it had completed the sale of its Daniels Packaging Co. Inc. business to Daniels Acquisition Inc.,a company affiliated with Printpack Inc., Atlanta. Terms were not disclosed.</p>
+        <p>* BOC Group, Surrey, England, said it would acquire the industrial gases and carbon dioxide divisions from the Amerigas subsidiary of UGI Corp., Valley Forge, Pa., for $143.5 million.</p>
+        <p>* Family Weight Loss Centers, Milwaukee, said it had acquired Essex Weight Loss Centers, based in Paramus, N.J., which operates seven diet and nutrition centers, for an undisclosed sum.</p>
+        <p>* Howard Savings Bank, Newark, said it would acquire Washington Bancorp Inc., Washington, and its Washington Savings Bank unit for $20.59 a share, or about $47 million.</p>
+        <p>* Iroquois Brands Ltd., Greenwich, Conn., said it would acquire about 14.9 percent of Eagle Trust P.L.C. for about $33 million.</p>
+        <p>* Kaneb Services Inc., Sugar Land, Tex., said it would sell a portion of Diamond M Co., its offshore drilling subsidiary, to Loews Corp. Terms were not disclosed.</p>
+        <p>* Matsushita Electric Corp. of America, Secaucus, N.J., a unit of Matsushita Electric Industrial Co., Tokyo, said it had begun its first shipment of microwave ovens to Europe from Matsuhita Cooking Appliance Co., Franklin Park, Ill., a microwave oven manufacturing plant.</p>
+        <p>* Raytheon Co., Lexington, Mass., said it had accepted 3,992,477 shares, or 96 percent, of Standard Havens Inc., in response to its tender offer of $3.58 a share, which expired Monday.</p>
+        <p>* UNR Industries, Chicago, said that it had reached agreements with four insurance companies over asbestos-related claims and that it would receive $43 million under the settlement.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

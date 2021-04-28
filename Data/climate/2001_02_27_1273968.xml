@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How Birds Breathe</title>
+    <meta content="27QNA.$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1273968"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Lungs</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010227T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EEDB1F39F934A15751C0A9679C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How Birds Breathe</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's query about how birds breath</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. How do birds breathe? Is it more like mammals or like fish?</p>
+        <p>A. Like mammals, birds take in air and extract oxygen from it to supply body tissues, while fish respiration depends on getting the oxygen dissolved in water through organs called gills.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. How do birds breathe? Is it more like mammals or like fish?</p>
+        <p>A. Like mammals, birds take in air and extract oxygen from it to supply body tissues, while fish respiration depends on getting the oxygen dissolved in water through organs called gills.</p>
+        <p>But bird respiration is significantly different from that of mammals, according to ''Manual of Ornithology: Avian Structure and Function.'' In the very efficient avian system, the lungs are small, taking up just 2 percent of body volume.</p>
+        <p>The external respiration system uses the lungs and a much larger series of air sacs distributed throughout the body so that the oxygen supply communicates directly with body parts. Oxygen is taken in and exchanged for carbon dioxide waste in the blood, then the carbon dioxide is moved out; so far, much like mammals.</p>
+        <p>But in birds, the air flow is one way, through tubes and chambers, rather than two ways, in and out of the lungs, as it is in mammals. And when a bird inhales, air actually leaves its lungs; fresh air enters the lungs as it exhales.</p>
+        <p>First, a constant stream of air enters through the back of the mouth and goes into the larynx and trachea. It is channeled in a pair of tubes straight through the lungs and into the system of air sacs and hollow bones. Gases from the air sacs are sent forward through the lungs again, then through more air sacs into the trachea, and then finally expelled from the body.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

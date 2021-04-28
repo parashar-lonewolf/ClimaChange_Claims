@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="07OBSE$01" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1158956"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E4DE103EF934A35751C1A96F958260" item-length="638" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Vegetarian Dinosaurs</p>
+        <p>It may not do much for their reputations, but new research shows that some dinosaurs may have had something in common with chickens.</p>
+      </block>
+      <block class="full_text">
+        <p>Vegetarian Dinosaurs</p>
+        <p>It may not do much for their reputations, but new research shows that some dinosaurs may have had something in common with chickens.</p>
+        <p>Researchers from the United States, China, Mongolia and Japan, examining the fossilized remains of 12 relatively small dinosaurs from China, have discovered masses of mineral grains inside their rib cages. The grains, the researchers write in the journal Nature, may be the remnants of gizzards, which the creatures may have used to grind up plant matter much as poultry and other plant-eating birds do today.</p>
+        <p>The dinosaurs, which date to the Upper Cretaceous period, about 70 million years ago, resemble ostriches, with long legs, small heads and toothless beaks. While they have some birdlike features, they are considered nonavian; they are called ornithomimids, or bird mimickers, and belong to the large group of two-legged dinosaurs known as theropods (the most famous member of which is T. rex).</p>
+        <p>Just what ornithomimids ate has long been a subject of debate. The presence of a gizzard and lack of teeth both point to this variety, at least, as eating plants, not meat.</p>
+        <p>Good News on a Pollutant</p>
+        <p>Acid rain brought on by sulfur emissions from industrial smokestacks has been a cause of much concern in the Northeast. But a new analysis of sulfur emissions worldwide shows that the United States, along with parts of Europe and Russia, has generally stabilized its emissions over the last two decades. A growing problem, however, exists in China, which now leads the world in the amount of sulfur put into the atmosphere.</p>
+        <p>The study, by a professor at Washington University in St. Louis and published in the journal Atmospheric Environment, analyzed oil and coal consumption and metal-smelting activity, all contributors to sulfur emissions, from 1850 to 1990. The results show emissions in the United States declining since the 1970's, when new pollution laws took effect and many factories and power plants were forced to switch from burning high-sulfur coal to low-sulfur coal, oil or gas. Industries in the former Soviet Union and some European countries have also switched to natural gas from coal.</p>
+        <p>But in China, which has abundant supplies of high-sulfur coal feeding a rapidly growing industrial economy, sulfur emissions have increased markedly. In 1990, China emitted 22 million metric tons of sulfur, compared with 15 million by the United States and Canada.</p>
+        <p>Along with the increase in emissions has come an increase in complaints about acid rain from China's Asian neighbors, similar to the complaints of Northeastern states about sulfur pollution from the Midwest.</p>
+        <p>Genetically Altered Soil</p>
+        <p>Genetically engineered corn has become very popular among American farmers. About 20 percent of last year's crop was of the modified variety, which exudes a toxin in the leaves and pollen that kills caterpillars and other pests that attack the plant above ground. But what, if anything, happens in the soil?</p>
+        <p>Researchers at New York University have discovered that the toxin, known as Bt because the genes that produce it come from a bacterium, Bacillus thuringiensis, is exuded from the roots of the corn plant, too. In fact, the researchers found, about the same amount of Bt toxin enters the soil through the roots as is introduced from pollen that comes off during tasseling and from the residue of stalks and leaves left behind after harvesting.</p>
+        <p>The researchers, writing in Nature, note that the toxin apparently binds with soil and thus persists for long periods -- at least 234 days, the longest period studied. As to whether the presence of all that pesticide in the soil is good or bad, the scientists were noncommittal, saying further research is needed to show whether it helps control harmful pest populations or wipes out beneficial insects.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

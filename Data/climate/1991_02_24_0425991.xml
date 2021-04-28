@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books of The Times</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="425991"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">FLASTE, RICHARD</person>
+        <object.title class="indexing_service">NEW YORK TIMES BOOK OF SCIENCE, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DD1F30F937A15751C0A967958260" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books of The Times</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE NEW YORK TIMES BOOK OF SCIENCE LITERACY: What Everyone Needs to Know From Newton to the Knuckleball. By the editors and reporters of Science Times. Edited by Richard Flaste. (Times Books/Random House, $24.95). The 120 or so articles in this collection by the staff of Science Times, the weekly science news section of The New York Times, have helped the public wrestle with current issues from passive smoking and disappearing beaches to the greenhouse effect and the perils (if any) of radiation from power lines. Gathered together by Richard Flaste, formerly the editor in charge of Science Times, they convey a view of science not as a mumbo jumbo of specialists or a collection of disciplines but as a sophisticated and perfectly accessible way of thinking whose importance to nonscientists is greater than ever, and unlikely to diminish.</p>
+      </block>
+      <block class="full_text">
+        <p>THE NEW YORK TIMES BOOK OF SCIENCE LITERACY: What Everyone Needs to Know From Newton to the Knuckleball. By the editors and reporters of Science Times. Edited by Richard Flaste. (Times Books/Random House, $24.95). The 120 or so articles in this collection by the staff of Science Times, the weekly science news section of The New York Times, have helped the public wrestle with current issues from passive smoking and disappearing beaches to the greenhouse effect and the perils (if any) of radiation from power lines. Gathered together by Richard Flaste, formerly the editor in charge of Science Times, they convey a view of science not as a mumbo jumbo of specialists or a collection of disciplines but as a sophisticated and perfectly accessible way of thinking whose importance to nonscientists is greater than ever, and unlikely to diminish.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

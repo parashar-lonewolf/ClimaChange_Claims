@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fuming</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="4777"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SMOKE GETS IN THEIR EYES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SMOKING</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <person class="indexing_service">THAYER, FREDERICK C (PROF)</person>
+        <person class="indexing_service">KOOP, C EVERETT (SURGEON GENERAL)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DF1531F93BA25752C0A961948260" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fuming</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:  When the Environmental Protection Agency and the Surgeon General join hands to argue that the slightest involuntary exposure to tobacco smoke is worse than anything else, except breathing asbestos, are they playing a political game?</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:  When the Environmental Protection Agency and the Surgeon General join hands to argue that the slightest involuntary exposure to tobacco smoke is worse than anything else, except breathing asbestos, are they playing a political game?</p>
+        <p>To the Editor:  When the Environmental Protection Agency and the Surgeon General join hands to argue that the slightest involuntary exposure to tobacco smoke is worse than anything else, except breathing asbestos, are they playing a political game?</p>
+        <p>It seems very convenient for the Administration to tell us to forget about nuclear waste, power plant leaks, acid rain damage, polluted fisheries, toxic waste dumps, the vanishing ozone layer and many other problems that probably will require multinational cooperation and substantial government spending.</p>
+        <p>There is something obscene about a Surgeon General who wants a ''smoke-free society by the year 2000'' but has only one kind of smoke in mind. Are we to look back upon Winston Churchill, a cigar smoker, as having been a greater menace to the world than power plants belching smoke produced by ''dirty coal?''  FREDERICK C. THAYER  University of Pittsburgh  Pittsburgh, Jan. 7  SMOKE GETS IN THEIR EYES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

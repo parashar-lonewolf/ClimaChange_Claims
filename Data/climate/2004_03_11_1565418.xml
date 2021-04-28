@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bush's Science Policy</title>
+    <meta content="L11SCI$02" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1565418"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <org class="indexing_service">Union of Concerned Scientists</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Marburger, John H III (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6D6153EF932A25750C0A9629C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bush's Science Policy</hl1>
+      </hedline>
+      <abstract>
+        <p>Pres Bush science adviser John H Marburger III letter disputes</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Uses and Abuses of Science'' (editorial, Feb. 23) portrays the management of science in this administration even more unfairly than the overheated document from the Union of Concerned Scientists that prompted it.</p>
+        <p>Contrary to your editorial, President Bush clearly articulated the relationship between greenhouse gases and human activity in June 2001, stating that concentration of greenhouse gases, especially carbon dioxide, has increased substantially since the beginning of the Industrial Revolution.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Uses and Abuses of Science'' (editorial, Feb. 23) portrays the management of science in this administration even more unfairly than the overheated document from the Union of Concerned Scientists that prompted it.</p>
+        <p>Contrary to your editorial, President Bush clearly articulated the relationship between greenhouse gases and human activity in June 2001, stating that concentration of greenhouse gases, especially carbon dioxide, has increased substantially since the beginning of the Industrial Revolution.</p>
+        <p>That speech launched programs to accelerate climate change science and technology to address remaining uncertainties in the science, develop adaptation and mitigation mechanisms and invest in clean energy technologies to reduce more emissions in the future. In 2004, the United States will spend approximately $4 billion in climate change science and technology research.</p>
+        <p>This administration has a strong record of seeking scientific advice from competent and unbiased sources.</p>
+        <p>We welcome sincere efforts to make the advisory process even stronger.</p>
+        <p>JOHN H. MARBURGER III  Washington, March 4, 2004</p>
+        <p>The writer is science adviser to the president and director of the Office of Science and Technology Policy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

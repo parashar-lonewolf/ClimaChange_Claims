@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Get Set to Say Hi To the Neighbors</title>
+    <meta content="01ALIF" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Millennium" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1165178"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VISIONS: COME OUT, COME OUT, WHEREVER YOU ARE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Life, Extraterrestrial</classifier>
+        <person class="indexing_service">Wilford, John Noble</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life, Extraterrestrial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E0DB1430F932A35752C0A9669C8B63" item-length="592" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Get Set to Say Hi To the Neighbors</hl1>
+      </hedline>
+      <byline class="print_byline">By John Noble Wilford</byline>
+      <byline class="normalized_byline">Wilford, John Noble</byline>
+      <abstract>
+        <p>John Noble Wilford article says there is sound scientific grounds for believing that there is extraterrestrial life, whose detection could be the most reverberating scientific discovery of the next century; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF there is life here on Earth, why not elsewhere?</p>
+        <p>The question has long inspired wonder and some fear, doomed a few to the heretic's stake and invigorated recent investigations of other planets in the solar system and of the stars beyond. If life is indeed the inevitable outcome of cosmic evolution, a ''cosmic imperative,'' in the words of the Nobel Prize-winning chemist Christian de Duve, the first clear evidence of extraterrestrial life will most likely be discovered in the first century of this new millennium.</p>
+      </block>
+      <block class="full_text">
+        <p>IF there is life here on Earth, why not elsewhere?</p>
+        <p>The question has long inspired wonder and some fear, doomed a few to the heretic's stake and invigorated recent investigations of other planets in the solar system and of the stars beyond. If life is indeed the inevitable outcome of cosmic evolution, a ''cosmic imperative,'' in the words of the Nobel Prize-winning chemist Christian de Duve, the first clear evidence of extraterrestrial life will most likely be discovered in the first century of this new millennium.</p>
+        <p>One reason for the optimism is as old as speculations by the ancient Greeks and Romans impressed by the vastness of the heavens. ''Space contains such a huge supply of atoms that all eternity would not be enough time to count them and the force which drives the atoms into various places just as they have been driven together in this world,'' wrote the Roman philosopher Lucretius in the first century B.C. ''So we must realize that there are other worlds in other parts of the universe, with races of different men and different animals.''</p>
+        <p>The modern variation of this reasoning stems from astronomy's recent estimates of upward of 100 billion galaxies, each with tens of billions of stars. So many opportunities for life to have emerged, as it did on one planet of one star, the Sun. And everything scientists learn shows that the physical forces nearby apply everywhere; there is no reason to think that the solar system or its Milky Way galaxy are unique.</p>
+        <p>Biological studies on Earth suggest that, if anything, scientists have been underestimating the potential for life and its resilience in seemingly adverse environments. Drilling deep into Earth's crust, geochemists have encountered bacteria living there, without sunlight and probably on a diet of chemicals. Similarly, oceanographers have been surprised to find undersea vents disgorging mineral-rich hot water that supports a teeming community of exotic life, also existing without sunlight.</p>
+        <p>''The question may not be the probability of the origin of life,'' Dr. Norman R. Pace, a University of California biologist, has said, ''but rather the probability that life, having arisen, survives and comes to dominate a planet.''</p>
+        <p>Seekers of extraterrestrial life, at least in its humblest forms, were encouraged by discoveries in the 1990's. The Galileo spacecraft found strong evidence of a global ocean of water, where simple life just may exist, under the ice of Europa, a moon of Jupiter; Europa will be a target of life-seeking exploration in coming years. A report that a meteorite from Mars contained circumstantial evidence for microbial life created a stir; though the findings were suspect, they galvanized a renewed drive to explore Mars for fossil or extant life.</p>
+        <p>Of surpassing significance, the recent discovery of planets around other stars is fixing for scientists the places to look for extraterrestrial life. Knowing where to search, the National Aeronautics and Space Administration is developing instruments for spacecraft to be launched over the next two decades. These instruments will be capable of finding Earth-sized planets and detecting there the chemical signatures associated with life: oxygen, water and carbon dioxide. The absolute clincher, scientists say, would be to find oxygen and methane together.</p>
+        <p>Current efforts to detect radio signals from other intelligent beings, begun in the 1960's, are a long shot. But for the first time in human history the technology exists to search other planetary systems for worlds harboring life in some form. The results could be the most reverberating scientific discovery of the new century.</p>
+        <p>VISIONS: COME OUT, COME OUT, WHEREVER YOU ARE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

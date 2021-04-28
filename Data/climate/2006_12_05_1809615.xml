@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Signs of Energy</title>
+    <meta content="05tue4" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/05/opinion/05tue4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1809615"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Appliances</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">Gas Appliances and Equipment</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Energy Department</org>
+        <org class="online_producer">Natural Resources Defense Council</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E5D71F3EF936A35751C1A9609C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Signs of Energy</hl1>
+        <hl2 class="online_headline">Signs of Energy</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Bush administration agreement to timetable for establishing new energy efficiency standards for commercial and household appliances is good news for environment</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It seemed to take forever, but the Bush administration has finally agreed to a strict timetable for establishing new energy efficiency standards for nearly two dozen commercial and residential appliances over the next five years. The agreement is good news for the environment. It is also a tribute to the persistence of 15 states, the Natural Resources Defense Council and various consumer groups that sued the Energy Department for failing to comply with longstanding Congressional mandates.</p>
+        <p>By some estimates, the new standards -- covering items like dishwashers, ovens, clothes dryers, and heating and air-conditioning systems -- could eventually save the amount of energy used by 12 million households, eliminate the need to build dozens of power plants and significantly cut emissions of carbon dioxide, the main global warming gas.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Bush administration has finally agreed to a strict timetable for establishing new energy efficiency standards. The agreement is good news for the environment.</p>
+      </block>
+      <block class="full_text">
+        <p>It seemed to take forever, but the Bush administration has finally agreed to a strict timetable for establishing new energy efficiency standards for nearly two dozen commercial and residential appliances over the next five years. The agreement is good news for the environment. It is also a tribute to the persistence of 15 states, the Natural Resources Defense Council and various consumer groups that sued the Energy Department for failing to comply with longstanding Congressional mandates.</p>
+        <p>By some estimates, the new standards -- covering items like dishwashers, ovens, clothes dryers, and heating and air-conditioning systems -- could eventually save the amount of energy used by 12 million households, eliminate the need to build dozens of power plants and significantly cut emissions of carbon dioxide, the main global warming gas.</p>
+        <p>Congress ordered the Energy Department to make periodic updates in efficiency standards for appliances as part of the Energy Policy and Conservation Act of 1975. The Clinton administration strengthened standards for 10 appliances. But no new standards have been issued since 2001. In 2004, under pressure from manufacturers, the Bush administration actually tried to weaken standards for commercial air-conditioners, only to be rebuked by the courts.</p>
+        <p>In some cases, the technology already exists to meet stronger standards; the trick is to get manufacturers to incorporate them across the board. In other cases, the new standards would drive technology forward. The benefits are obvious, and Samuel Bodman, in his second year as secretary of energy, is to be commended for recognizing them.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

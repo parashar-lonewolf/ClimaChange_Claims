@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ignoring the Real Issue</title>
+    <meta content="LTR004332" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1346417"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <person class="indexing_service">barber, julie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6D71E3AF934A15752C1A9679C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ignoring the Real Issue</hl1>
+      </hedline>
+      <abstract>
+        <p>Julie Barber letter comments on Nov 20 article on using oceans to soak up carbon dioxide</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>After reading ''Plan Calls for Using Oceans to Soak up CO2 '' (Nov. 20), I found myself wondering again why the real issue is being ignored.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>After reading ''Plan Calls for Using Oceans to Soak up CO2 '' (Nov. 20), I found myself wondering again why the real issue is being ignored.</p>
+        <p>Scientists should not be searching for ways to dump excess carbon dioxide into the sea. Instead, politicians, world citizens and factory owners should be continually thinking of ways to reduce energy use and emission of fossil fuels. An attempt to use oceans as a sinkhole for carbon dioxide is simply another way of saying it's O.K. to ignore the real problem.</p>
+        <p>JULIE BARBER  Narragansett, R.I.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

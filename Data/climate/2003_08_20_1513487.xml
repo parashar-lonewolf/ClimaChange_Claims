@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In a Heat Wave, an Opportunity</title>
+    <meta content="LTR233648" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1513487"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Encephalitis</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">West Nile Virus</classifier>
+        <classifier class="indexing_service" type="descriptor">Mosquitoes</classifier>
+        <location class="indexing_service">Colorado</location>
+        <org class="indexing_service">Physicians for Social Responsibility</org>
+        <person class="indexing_service">Gould, Robert M (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Colorado</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Encephalitis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">West Nile Virus</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E6DC1E30F933A1575BC0A9659C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In a Heat Wave, an Opportunity</hl1>
+      </hedline>
+      <abstract>
+        <p>Physicians for Social Responsibility president Dr Robert M Gould letter on Aug 18 article on changing weather patterns that have brought mosquito proliferation and West Nile virus to Colorado urges efforts to prevent predicted health effects of global warming; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Spring Rains and Summer Heat Bring West Nile Virus to Colorado'' (front page, Aug. 18):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Spring Rains and Summer Heat Bring West Nile Virus to Colorado'' (front page, Aug. 18):</p>
+        <p>The changing weather patterns conducive to mosquito proliferation and the spread of the West Nile virus are consistent with predictions issued in reports by the Intergovernmental Panel on Climate Change regarding potential impacts of global warming on infectious disease.</p>
+        <p>Beyond using appropriate mosquito abatement and public health measures, it is critical for health officials to advocate for aggressive efforts by our government to curb greenhouse gas emissions to prevent the anticipated health effects of climate change.</p>
+        <p>ROBERT M. GOULD, M.D.  President  Physicians for Social Responsibility  San Francisco, Aug. 18, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

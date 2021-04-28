@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bush Is Concerned About the Climate</title>
+    <meta content="L10CLIM" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1399396"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">White House Council on Environmental Quality</org>
+        <person class="indexing_service">Connaughton, James L</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E4DA153DF933A25755C0A9649C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bush Is Concerned About the Climate</hl1>
+      </hedline>
+      <abstract>
+        <p>White House Council on Environmental Quality chairman James L Connaughton letter on June 3 article holds Pres Bush's policies are appropriate to current state of climate-change science; cites research spending and efforts to curb greenhouse gas emissions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''U.S. Sees Problems in Climate Change'' (front page, June 3) says that the predictions of the U.S. Climate Action Report 2002 ''present a sharp contrast to previous statements on climate change by the administration.''</p>
+        <p>Actually, last year President Bush noted the rise in surface temperatures and concentrations of greenhouse gases, and said that ''the National Academy of Sciences indicates that the increase is due in large part to human activity.'' He also cautioned that significant scientific uncertainties remain, emphasizing that ''the policy challenge is to act in a serious and sensible way, given the limits of our knowledge.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''U.S. Sees Problems in Climate Change'' (front page, June 3) says that the predictions of the U.S. Climate Action Report 2002 ''present a sharp contrast to previous statements on climate change by the administration.''</p>
+        <p>Actually, last year President Bush noted the rise in surface temperatures and concentrations of greenhouse gases, and said that ''the National Academy of Sciences indicates that the increase is due in large part to human activity.'' He also cautioned that significant scientific uncertainties remain, emphasizing that ''the policy challenge is to act in a serious and sensible way, given the limits of our knowledge.''</p>
+        <p>The new report reinforces each of these points, discussing the ''considerable uncertainty'' about the science, natural variability of the climate, and the fact that ''definitive prediction of potential outcomes is not yet feasible.''</p>
+        <p>President Bush's policies are appropriate to the current state of climate-change science. By administering 67 programs to curb greenhouse gas emissions and investing $4.5 billion each year in research and development, the administration is responsibly addressing this important issue.</p>
+        <p>JAMES L. CONNAUGHTON  Chairman, White House Council  on Environmental Quality  Washington, June 7, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

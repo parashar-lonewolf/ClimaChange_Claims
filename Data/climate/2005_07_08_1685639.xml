@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MORE ON BOMBINGS</title>
+    <meta content="08MORE$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1685639"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4D6173DF93BA35754C0A9639C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MORE ON BOMBINGS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT THE SCENE -- Witnesses described chaos and carnage, with bodies strewn on subway tracks in the subterranean darkness. PAGE A12</p>
+        <p>DISRUPTED SUMMIT MEETING -- The bombings abruptly shifted the focus of Group of 8 leaders away from African poverty and global warming to terrorism. PAGE A13</p>
+        <p>POLITICAL CONSEQUENCES -- There were signs that the bombings could take a toll on Prime Minister Tony Blair, whose backing of the war in Iraq had fed fears of retaliation against Britain. PAGE A13</p>
+        <p>HEIGHTENED SECURITY -- In the United States, officials elevated the alert for the nation's rail, subway and bus systems. PAGE A10</p>
+      </block>
+      <block class="full_text">
+        <p>AT THE SCENE -- Witnesses described chaos and carnage, with bodies strewn on subway tracks in the subterranean darkness. PAGE A12</p>
+        <p>DISRUPTED SUMMIT MEETING -- The bombings abruptly shifted the focus of Group of 8 leaders away from African poverty and global warming to terrorism. PAGE A13</p>
+        <p>POLITICAL CONSEQUENCES -- There were signs that the bombings could take a toll on Prime Minister Tony Blair, whose backing of the war in Iraq had fed fears of retaliation against Britain. PAGE A13</p>
+        <p>HEIGHTENED SECURITY -- In the United States, officials elevated the alert for the nation's rail, subway and bus systems. PAGE A10</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

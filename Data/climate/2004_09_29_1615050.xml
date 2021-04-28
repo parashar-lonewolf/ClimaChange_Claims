@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. Supercomputer Sets World Record for Speed</title>
+    <meta content="29COMP$02" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/09/29/technology/29computer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1615050"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Records and Achievements</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <org class="indexing_service">Nec Corp</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">International Business Machines Corporation</org>
+        <org class="online_producer">Lawrence Livermore National Laboratory</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E0DE1438F93AA1575AC0A9629C8B63" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. Supercomputer Sets World Record for Speed</hl1>
+        <hl2 class="online_headline">I.B.M. Supercomputer Sets World Record for Speed</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>International Business Machines supercomputer overtakes NEC Corp machine as world's fastest supercomputer; is based on technology that takes radically different approach from that used in Japanese computer; is one-hundredth size of NEC rival and uses far less power; will have wide commercial applications (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An I.B.M. machine has reclaimed the title of world's fastest supercomputer, overtaking a Japanese computer that had caused shock waves at United States government agencies when it set a computing speed record in 2002.</p>
+        <p>Supercomputing technologies were widely viewed as indicators of national industrial prowess in the 1980's and 1990's. They are used extensively in weapons design.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An I.B.M. machine has reclaimed the title of fastest supercomputer, overtaking a Japanese computer that had caused shock waves at United States government agencies when it set a computing speed record in 2002.</p>
+      </block>
+      <block class="full_text">
+        <p>An I.B.M. machine has reclaimed the title of world's fastest supercomputer, overtaking a Japanese computer that had caused shock waves at United States government agencies when it set a computing speed record in 2002.</p>
+        <p>Supercomputing technologies were widely viewed as indicators of national industrial prowess in the 1980's and 1990's. They are used extensively in weapons design.</p>
+        <p>More recently, federal officials have become concerned that lagging investment in high-performance computing could leave the United States vulnerable to competition in industries ranging from biotechnology to materials science.</p>
+        <p>The International Business Machines computer is based on a computing technology, called BlueGene/L, that takes an approach radically different from that used by the Japanese supercomputer, called the Earth Simulator.</p>
+        <p>The Japanese machine, which was built to analyze climate change patterns, uses fewer processors than the I.B.M. machine, but they are specialized and faster.</p>
+        <p>The I.B.M. supercomputer has surpassed the Earth Simulator, built by the NEC Corporation, in running the Linpack benchmark, a test program that solves a dense system of mathematical equations. I.B.M. announced yesterday that the Blue Gene/L system had attained a sustained performance of 36.01 trillion calculations per second, or teraflops, eclipsing the top mark of 35.86 teraflops reached in 2002 by the Earth Simulator in Yokohama. The new speed was reached during internal testing at I.B.M.'s production center in Rochester, Minn.</p>
+        <p>''This is notable because of the fixation everyone has had on the Earth Simulator,'' said Dave Turek, I.B.M.'s vice president for the high-performance computing division.</p>
+        <p>The new system is notable because it packs its computing power much more densely than other large-scale computing systems. BlueGene/L is one-hundredth the physical size of the Earth Simulator and consumes one twenty-eighth the power per computation, the company said.</p>
+        <p>The BlueGene/L will have wide commercial applications, first in the petroleum and biotechnology industries, Mr. Turek said.</p>
+        <p>A large-capacity version of the BlueGene/L system is scheduled to be installed early next year at the Lawrence Livermore National Laboratory in Livermore, Calif. That machine will have about 130,000 processors, compared to the 16,000-processor prototype that set the speed record.</p>
+        <p>Computer scientists said that increases in speed like that provided by the BlueGene/L would probably have a significant impact on science.</p>
+        <p>''It's again an exciting time to be involved in high-performance computing,'' said Jack Dongarra, a computer scientist at the University of Tennessee who tracks the 500 fastest computers in a biannual ranking. ''For some computational scientists, it's like a Hubble telescope.''</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

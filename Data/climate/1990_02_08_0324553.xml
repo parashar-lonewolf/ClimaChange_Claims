@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Too Cool on Global Warming</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="324553"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <person class="indexing_service">BUSH, GEORGE (PRES)</person>
+        <person class="indexing_service">SUNUNU, JOHN H</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4DA113AF93BA35751C0A966958260" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Too Cool on Global Warming</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Tugged by conflicting views from his advisers, President Bush gave a studiously tepid speech to the meeting in Washington this week on global climate change. The conflict represents a serious debate, within and outside the Administration, about the seriousness of the feared warming of the world's climate by pollutant gases.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Tugged by conflicting views from his advisers, President Bush gave a studiously tepid speech to the meeting in Washington this week on global climate change. The conflict represents a serious debate, within and outside the Administration, about the seriousness of the feared warming of the world's climate by pollutant gases.</p>
+        <p>Tugged by conflicting views from his advisers, President Bush gave a studiously tepid speech to the meeting in Washington this week on global climate change. The conflict represents a serious debate, within and outside the Administration, about the seriousness of the feared warming of the world's climate by pollutant gases. But Mr. Bush was needlessly vacuous, reflecting his Administration's lack of a greenhouse game plan.</p>
+        <p>William Reilly, the head of the Environmental Protection Agency, apparently favored a stronger message committing the United States to action. John Sununu, the White House chief of staff, is said to be skeptical of the computer simulations on which forecasts of global climate warming are largely based. Both advisers are right.</p>
+        <p>The simulations are full of uncertainties, as their creators admit. The same computer programs once predicted that weeks of icy darkness would follow a nuclear war, an estimate now revised to a mild chill. The forecasts of greenhouse warming are not yet robust enough to form a basis for policy. Mr. Sununu's reservations are surely reasonable. But even in their present form, the computer models suggest that the possibility of a warming has to be taken seriously, though its timing and extent remain uncertain. Mr. Sununu's fears that the U.S. will be dragged helplessly toward a policy of abandoning fossil fuels and the automobile are as overdrawn as his editing of Mr. Bush's speech was overcautious. The White House seems to have seized on the imprecision of the computer models as an excuse for inaction.</p>
+        <p>Mr. Bush could at least have reaffirmed his earlier endorsement of an eventual cap on emission of greenhouse gases like carbon dioxide. Moreover, there are many important steps to help avert greenhouse warming that are worth taking anyway, whether or not the forecasts are confirmed.</p>
+        <p>These include energy conservation, raising auto efficiency standards, preserving tropical forests and banning chemicals that chew up the life-protecting ozone layer. Adopting these steps as an immediate policy would help fulfill Mr. Bush's campaign pledge to act on global warming. The present standoff does not.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

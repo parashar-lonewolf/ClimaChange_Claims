@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Books Detail Off-Beat Subjects About Tourism</title>
+    <meta content="21transbooks" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Travel; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820213"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Guidebooks</classifier>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <object.title class="indexing_service">Bluelist 2007, The (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Columns/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DA1330F932A15752C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Books Detail Off-Beat Subjects About Tourism</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>Article on some new tourism books with off-beat themes, including Lonely Planet's latest guide, The Bluelist 2007; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If the idea of taking a guided tour through a former war zone -- Sarajevo, Belfast, Cambodia or Rwanda -- or visiting the scene of devastation from a natural disaster -- New Orleans after Katrina or Thailand after the tsunami -- appeals to you, get the Lonely Planet's latest guide, ''The Bluelist 2007'' ($19.99).</p>
+        <p>Along with a chapter on dark tourism (the desire to visit places of ''death, disaster, and depravity''), the book, above, has a section about ''Cities on the Rise'': Riga, Latvia; Vilnius, Lithuania; Wellington, New Zealand; and Tallinn, Estonia. The guide also features a number of lists: Paranormal Travel, the Most Obscure Festivals and Hotels Where Famous People Have Died.</p>
+      </block>
+      <block class="full_text">
+        <p>If the idea of taking a guided tour through a former war zone -- Sarajevo, Belfast, Cambodia or Rwanda -- or visiting the scene of devastation from a natural disaster -- New Orleans after Katrina or Thailand after the tsunami -- appeals to you, get the Lonely Planet's latest guide, ''The Bluelist 2007'' ($19.99).</p>
+        <p>Along with a chapter on dark tourism (the desire to visit places of ''death, disaster, and depravity''), the book, above, has a section about ''Cities on the Rise'': Riga, Latvia; Vilnius, Lithuania; Wellington, New Zealand; and Tallinn, Estonia. The guide also features a number of lists: Paranormal Travel, the Most Obscure Festivals and Hotels Where Famous People Have Died.</p>
+        <p>Travelers concerned about the size of their carbon footprint should read Alastair Sawday's ''Green Places to Stay''($21.95). The worldwide guide highlights 166 places in 53 countries that are investing in green technologies and engaging in socially responsible practices, from the Kapawi Ecolodge and Reserve in the Amazon (not one nail was used to build the 20 thatched cabanas, and all electricity is solar-powered) to a yurt in France on the top of the Gorge d'Ardèche.</p>
+        <p>Even more helpful is ''The Rough Guide to Climate Change'' ($16.99), which provides a carbon calculator, a list of online links that can help readers learn not only how much carbon each activity in their life generates but also how that number compares to people in other countries.</p>
+        <p>''I am planning to send the book to all the U.S. Senators,'' said Mark Ellingham, the co-founder of the Rough Guides, adding that everyone needs to become much less casual about flying. He urged travelers to make fewer trips and to stay longer. ''</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

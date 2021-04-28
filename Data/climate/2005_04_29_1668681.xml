@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>House Panel Examines Cuts in Earth Studies</title>
+    <meta content="29NASA" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1668681"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E7DF1E31F93AA15757C0A9639C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>House Panel Examines Cuts in Earth Studies</hl1>
+      </hedline>
+      <dateline>WASHINGTON, April 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NASA's new quest to explore the Moon and Mars appears to be coming at the expense of studying a world closer at hand, scientists and lawmakers said Thursday.</p>
+        <p>At a hearing of the House Science Committee, scientists and members of Congress said they were alarmed by recent cuts and delays in the Earth science program as the National Aeronautics and Space Administration shifted its focus to President Bush's ambitious plan to send astronauts back to the Moon and later to Mars.</p>
+      </block>
+      <block class="full_text">
+        <p>NASA's new quest to explore the Moon and Mars appears to be coming at the expense of studying a world closer at hand, scientists and lawmakers said Thursday.</p>
+        <p>At a hearing of the House Science Committee, scientists and members of Congress said they were alarmed by recent cuts and delays in the Earth science program as the National Aeronautics and Space Administration shifted its focus to President Bush's ambitious plan to send astronauts back to the Moon and later to Mars.</p>
+        <p>Representative Sherwood Boehlert, Republican of New York, who is chairman of the committee, said he was disturbed by NASA officials' statements that the agency's Earth studies were significant because they improved the ability to study other planets.</p>
+        <p>''This is precisely backward,'' Mr. Boehlert said. ''The planet that has to matter the most to us is the one we live on.''</p>
+        <p>The hearing focused on a report released Wednesday by an expert panel of the National Research Council of the National Academy of Sciences that concluded that recent and planned cuts in financing were crippling NASA's Earth-monitoring program. Under the program, satellites study a broad range of things, including short-term weather phenomena like hurricanes and monsoon rains, and longer-term issues like global warming and the amount of radiation Earth absorbs from space.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

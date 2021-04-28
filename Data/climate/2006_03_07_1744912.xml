@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="07observe" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/07/science/07obox.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1744912"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Methane</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Longevity</classifier>
+        <classifier class="indexing_service" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Color</classifier>
+        <classifier class="indexing_service" type="descriptor">Pollen</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Fishing, Commercial</classifier>
+        <classifier class="indexing_service" type="descriptor">Turtles and Tortoises</classifier>
+        <classifier class="indexing_service" type="descriptor">Sharks</classifier>
+        <classifier class="indexing_service" type="descriptor">Geckos</classifier>
+        <location class="indexing_service">Spain</location>
+        <org class="indexing_service">Princeton University</org>
+        <org class="indexing_service">Proceedings of the National Academy of Sciences</org>
+        <org class="indexing_service">University of Zurich</org>
+        <org class="indexing_service">Biology Letters (Journal)</org>
+        <org class="indexing_service">Spanish Cetacean Society</org>
+        <org class="indexing_service">Autonomous University of Madrid (Spain)</org>
+        <org class="indexing_service">Earthwatch (Orgn)</org>
+        <org class="indexing_service">Proceedings of the Royal Society B (Journal)</org>
+        <org class="indexing_service">University of Aberdeen (Scotland)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">West, J Jason</person>
+        <person class="indexing_service">Hansen, Dennis M</person>
+        <person class="indexing_service">Priede, Imants G (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Spain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Color</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reptiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E3D81531F934A35750C0A9609C8B63" item-length="1133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Scared of Sharks? Just Dive 10,000 Feet</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>J Jason West of Princeton University leads study on impact that methane gas emissions have on human health; research, which is published in Proceedings of the National Academy of Sciences, finds that reduction in methane emissions could reduce number of premature deaths worldwide along with helping improve climate; Dennis M Hansen of University of Zurich conducts study on flowers that have colored nectar; finds that at least two of three known flowers with colored nectar are pollinated by geckos; research is published in journal Biology Letters; Spanish Cetacean Society and Autonomous University of Madrid researchers conduct study that shows if fishermen would change bait and let lines go slightly deeper needless killing of loggerhead turtles could be significantly reduced without change in overall catch; study is supported by Earthwatch Institute; Dr Imants G Priede of University of Aberdeen leads research on shark habits; research published in Proceedings of the Royal Society B finds that sharks do not go below 10,000 feet; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cut Methane, Save a Life</p>
+        <p>Methane is the second most important greenhouse gas, outranked only by carbon dioxide. Reducing methane emissions from human activities has been suggested as the cheapest way to reduce global warming, at least in the short term.</p>
+        <p>But there is another reason to cut the amount of methane, detailed in a study in The Proceedings of the National Academy of Sciences. Reducing atmospheric methane could have a significant global effect on human health.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sharkless waters, atmospheric methane's effect on human health, colorful plant nectar and protecting loggerhead turtles.</p>
+      </block>
+      <block class="full_text">
+        <p>Cut Methane, Save a Life</p>
+        <p>Methane is the second most important greenhouse gas, outranked only by carbon dioxide. Reducing methane emissions from human activities has been suggested as the cheapest way to reduce global warming, at least in the short term.</p>
+        <p>But there is another reason to cut the amount of methane, detailed in a study in The Proceedings of the National Academy of Sciences. Reducing atmospheric methane could have a significant global effect on human health.</p>
+        <p>In the presence of sunlight, methane interacts with nitrogen oxides to form ozone. And ozone is the Jekyll and Hyde of atmospheric gases: high up in the stratosphere it filters out harmful ultraviolet radiation from the sun, but lower down in the troposphere it worsens respiratory and cardiovascular problems.</p>
+        <p>The study, by J. Jason West of Princeton and colleagues, simulated a reduction in human-related methane emissions by 20 percent, starting in 2010, and looked at its effects on so-called surface ozone concentrations. It found that globally, average surface ozone would be reduced by about 1 part per billion by volume by 2030.</p>
+        <p>That may not sound like much (the current acceptable federal standard is 80 parts per billion). But applying an epidemiological analysis, the researchers found that the change would mean 30,000 fewer premature deaths around the world in 2030 and a total of 370,000 fewer premature deaths from 2010 to 2030.</p>
+        <p>The study also tried to put an economic value on the reduction in premature deaths -- $240 per metric ton of methane eliminated, by one estimate. Since the cost of methane reduction is estimated at $100 per ton, that would mean an economic benefit as well as a health benefit.</p>
+        <p>Geckos Go for Color</p>
+        <p>In the vernacular of sleep-away camp, bug juice is a punchlike beverage notable for its sweetness and its bright unnatural color.</p>
+        <p>Flowers produce bug juice of a different sort -- nectar designed to attract insects and other pollinators. It's big on sweetness, too, but is usually colorless.</p>
+        <p>There are, however, a few flowers around the world that produce nectar that rivals any camp beverage in color.</p>
+        <p>Three of them are found on Mauritius, and their nectars are yellow and red (blood red in the case of Nesocodon mauritianus, a member of the Campanulaceae family).</p>
+        <p>These nectars, it turns out, are not for bugs: at least two of the flowers are pollinated by geckos. And research by scientists at the University of Zurich shows that the color serves as a visual signal to the lizards that the flower has something to offer.</p>
+        <p>Dennis M. Hansen and colleagues tested ornate day geckos on Mauritius to see if they had color preferences. The lizards they used were ''naïve,'' from a part of the island with no colored-nectar flowers.</p>
+        <p>In tests with colored and colorless sugar water in artificial flowers, the geckos chose red or yellow water 70 to 80 percent of the time. The results are published in Biology Letters.</p>
+        <p>The researchers note that these geckos are extremely colorful themselves, often with bright red or orange markings against greenish-blue scales. So they probably have an innate preference for strong colors.</p>
+        <p>A Switch in Bait Protects Turtles</p>
+        <p>Loggerhead turtles are a frequent victim of commercial fisheries, snared most often by boats using long lines with multiple baited hooks. The problem is particularly acute off Spain, where fishing boats catch an estimated 20,000 turtles each year.</p>
+        <p>A study by scientists with the Spanish Cetacean Society and the Autonomous University of Madrid suggests a relatively simple solution to the problem: replacing the conventional bait, squid, with mackerel and letting the lines sink a little deeper. In the study, supported by the Earthwatch Institute, that tactic reduced the turtle catch by 80 percent.</p>
+        <p>Earlier research on loggerhead habits had shown that they spend most of their time at depths above 20 feet. So lowering the hooks slightly had been suggested. The new research showed that changing the bait had no effect on the fish catch.</p>
+        <p>Scared of Sharks? Just Dive 10,000 Feet</p>
+        <p>Here's a little secret: There are no sharks in the deep oceans.</p>
+        <p>That may come as a surprise, but for years, scientists who study the deep sea have had a sneaking suspicion that sharks do not live below about 10,000 feet. And now that suspicion has been confirmed by Imants G. Priede of the University of Aberdeen in Scotland. The finding, published in The Proceedings of the Royal Society B, has implications for efforts to conserve shark species.</p>
+        <p>Dr. Priede has studied the deep oceans for more than two decades, deploying cameras and other equipment 20,000 feet down near Hawaii, among other places. ''One of the facts that emerged was that we never see sharks out on the abyssal plains,'' he said, referring to the deep ocean basins far from land.</p>
+        <p>At a conference several years ago, Dr. Priede talked about the absence of sharks, to the general disbelief of those in attendance. But Rainer Froese, a German scientist who runs a database of fishing records, was intrigued, and overnight ran an analysis of Dr. Priede's data. ''He showed that I was correct,'' Dr. Priede said.</p>
+        <p>Since then, Dr. Priede and his collaborators have tried to find sharks through trawling, long-line fishing and photography. ''The deepest sharks came out at less than 3,000 meters,'' or about 10,000 feet, he said. ''We've got a very convincing case.''</p>
+        <p>As to why no sharks are in deep water, Dr. Priede had a simple explanation: they were outcompeted by bony fishes. Sharks had been around for hundreds of millions of years when the deep oceans became oxygenated about 70 million years ago.</p>
+        <p>''There was a race to colonize the deep sea,'' he said, one that was quickly won by the bony fishes because, among other advantages, they developed very efficient ways to use oxygen and maintain buoyancy. ''These bony fishes down there are so good at what they do,'' he said, ''they just took over.''</p>
+        <p>Because they are found in only the top part of the oceans, sharks are accessible to fisheries, Dr. Priede said. There are no deep-water reserves that may help replenish species as they are depleted by overfishing, as there are with bony fish.</p>
+        <p>Science now knows, for example, that the Portuguese dogfish is the world's deepest shark. But it has been fished almost to extinction. ''It's sad that no sooner than we realized what we've got that we're in the process of almost removing it,'' Dr. Priede said.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

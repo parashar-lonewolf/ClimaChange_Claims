@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chemical Lunch for Termites</title>
+    <meta content="27WATC" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="990850"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Termites</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Pesticides and Pests</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E2DD113BF934A15752C0A96E958260" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chemical Lunch for Termites</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN FREEMAN</byline>
+      <abstract>
+        <p>Termite control experts say that right concentration of carbon dioxide can be used as effective lure with pesticide to get rid of termites (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN termites show up at a house for lunch, then stay for supper and breakfast, too, they may be following the aroma of carbon dioxide.</p>
+        <p>The insects flock to the right concentration of carbon dioxide, said Dr. Lou Bjostad, a professor of entomology at Colorado State University in Fort Collins, and that strong preference may turn out to be an ''attracticide,'' a powerful weapon for pest control. At a recent meeting of the Entomological Society of America, he reported that termites most liked air with about 1 percent carbon dioxide, about one-tenth the concentration in people's exhaled breath.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN termites show up at a house for lunch, then stay for supper and breakfast, too, they may be following the aroma of carbon dioxide.</p>
+        <p>The insects flock to the right concentration of carbon dioxide, said Dr. Lou Bjostad, a professor of entomology at Colorado State University in Fort Collins, and that strong preference may turn out to be an ''attracticide,'' a powerful weapon for pest control. At a recent meeting of the Entomological Society of America, he reported that termites most liked air with about 1 percent carbon dioxide, about one-tenth the concentration in people's exhaled breath.</p>
+        <p>''The attractant could be combined with tiny amounts of insecticide,'' Dr. Bjostad said. ''The attractant would get the termites to come to a highly localized spot, avoiding the need to spray the entire house.</p>
+        <p>''Or you could have carbon dioxide bait around the perimeter of the house, giving the termites something they prefer to the house. They would find the bait first and avoid the house altogether.''</p>
+        <p>That lure of carbon dioxide makes sense biologically because both rotting wood and termite colonies emit the gas in the right concentration. So the insects can follow the odor to find a meal and to get back home again.</p>
+        <p>Unfortunately for homeowners, many types of foam panels used as insulation also emit carbon dioxide, Dr. Bjostad said.</p>
+        <p>''We believe that these insulation types are involved in actually attracting the termites,'' he said. ''The rate of carbon dioxide release is in the range for optimum attraction.''</p>
+        <p>KAREN FREEMAN</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

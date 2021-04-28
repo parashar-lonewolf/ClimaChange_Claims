@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming: A Will to Act?</title>
+    <meta content="l25warm-3" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1757029"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Methane</classifier>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <person class="indexing_service">Dunham, Ben</person>
+        <person class="indexing_service">Kristof, Nicholas D</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E7D9123FF936A15757C0A9609C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming: A Will to Act?</hl1>
+      </hedline>
+      <abstract>
+        <p>Ben Dunham letter says Nicholas D Kristof April 18 Op-Ed points out scary scenario of warming oceans releasing methane and accelerating global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Nicholas D. Kristof (column, April 18) points out a scary scenario of warming oceans releasing gigatons of global-warming pollution. This would speed global warming, which would heat the ocean and potentially release even more pollution.</p>
+        <p>Mr. Kristof gives just one example of what climate scientists call feedback loops, but many others are already happening.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Nicholas D. Kristof (column, April 18) points out a scary scenario of warming oceans releasing gigatons of global-warming pollution. This would speed global warming, which would heat the ocean and potentially release even more pollution.</p>
+        <p>Mr. Kristof gives just one example of what climate scientists call feedback loops, but many others are already happening.</p>
+        <p>As global-warming pollution has increased, temperatures have climbed, especially in the Arctic. Those high temperatures have melted centuries-old permafrost, unlocking global-warming pollution from the frozen ground and releasing it into the atmosphere.</p>
+        <p>There, it causes more global warming, which melts more permafrost, which releases more global-warming pollution. This frightening spiral is happening and is worsened by rising United States emissions of global-warming pollution.</p>
+        <p>Congress needs to pass a science-based bill that places mandatory limits on global-warming pollution and encourages increased efficiency, conservation and the use of renewable energy.</p>
+        <p>Ben Dunham  Washington, April 20, 2006</p>
+        <p>The writer is a staff attorney, U.S. Public Interest Research Group.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

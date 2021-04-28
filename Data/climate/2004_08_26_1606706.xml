@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="26CLIM$10" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1606706"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6D8133EF935A1575BC0A9629C8B63" item-length="357" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>White House Shifts Its Focus on Climate  In a striking shift, the administration issued a report indicating that emissions of carbon dioxide and other heat-trapping gases were the only likely explanation for global warming.</p>
+        <p>An administration official said that the report to Congress reflected ''the best possible scientific information'' on climate change. Previously, President Bush and others had stressed uncertainties in understanding the causes and consequences of warming as a reason for rejecting restrictions.</p>
+        <p>PAGE A16</p>
+      </block>
+      <block class="full_text">
+        <p>White House Shifts Its Focus on Climate  In a striking shift, the administration issued a report indicating that emissions of carbon dioxide and other heat-trapping gases were the only likely explanation for global warming.</p>
+        <p>An administration official said that the report to Congress reflected ''the best possible scientific information'' on climate change. Previously, President Bush and others had stressed uncertainties in understanding the causes and consequences of warming as a reason for rejecting restrictions.</p>
+        <p>PAGE A16</p>
+        <p>Russia Investigates Crashes  Russian investigators searched for the causes of the almost simultaneous crashes of two passenger jets shortly after they took off from Moscow on Tuesday night, killing 89 people.</p>
+        <p>PAGE A12</p>
+        <p>Ban on Central Park Rally  A judge ruled that organizers of the largest protest planned during the Republican convention week may not hold a rally in Central Park, throwing into doubt what thousands will do after marching.</p>
+        <p>PAGE B1</p>
+        <p>Elisabeth Kübler-Ross Dies  The psychiatrist, whose work with terminally ill patients helped to revolutionize attitudes toward the care of the dying and inspired the creation of hospices, died at her home in Scottsdale, Ariz. She was 78.</p>
+        <p>PAGE B8</p>
+        <p>Israelis Rejoice Over First Olympic Gold Medal  Gal Fridman won Israel's first-ever Olympic gold medal, capturing the windsurfing event and bringing joy, pride and relief to his country. After Israelis celebrated with him at the ceremony, Fridman said he would take his medal to the Tel Aviv memorial for the 11 Israeli athletes and coaches killed in a Palestinian terrorist attack at the 1972 Munich Games.</p>
+        <p>SPORTSTHURSDAY</p>
+        <p>Discord on G.O.P. Platform  Conservatives mounted an unexpected challenge to President Bush's positions on stem cell research and immigration.</p>
+        <p>PAGE A25</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

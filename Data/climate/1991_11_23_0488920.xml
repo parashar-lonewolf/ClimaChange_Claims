@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An American Device On a Soviet Satellite Collects Ozone Data</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="488920"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER SATELLITES AND ROCKETS</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS</location>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <person class="indexing_service">LEARY, WARREN E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DA163DF930A15752C1A967958260" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An American Device On a Soviet Satellite Collects Ozone Data</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY,</byline>
+      <byline class="normalized_byline">LEARY, WARREN E</byline>
+      <dateline>GREENBELT, Md., Nov. 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An American instrument aboard a new Soviet satellite is sending back high-quality data on changes in the ozone layer, including confirmation of a recent record drop in the protective shield over Antarctica, scientists said today.</p>
+        <p>The total ozone mapping spectrometer, or TOMS, launched aboard the Meteor-3 weather satellite on Aug. 15, will become a major component in worldwide studies of ozone depletion, American and Soviet scientists said at a news briefing.</p>
+      </block>
+      <block class="full_text">
+        <p>An American instrument aboard a new Soviet satellite is sending back high-quality data on changes in the ozone layer, including confirmation of a recent record drop in the protective shield over Antarctica, scientists said today.</p>
+        <p>The total ozone mapping spectrometer, or TOMS, launched aboard the Meteor-3 weather satellite on Aug. 15, will become a major component in worldwide studies of ozone depletion, American and Soviet scientists said at a news briefing.</p>
+        <p>Because it follows a orbital pattern different from United States weather satellites, data from the Soviet spacecraft will help fill in gaps in the observations of American satellites monitoring ozone, said Dr. Jay Herman, a National Aeronautics and Space Administration scientist working on the cooperative project.</p>
+        <p>The American Nimbus-7 weather satellite, launched in 1978 with an expected two-year lifetime, has an identical TOMS instrument that is credited with providing some of the first evidence of ozone depletion in the stratosphere. Dr. Herman said the Nimbus "has been operating on a prayer" for years and was expected to run out of power entirely in a couple of years.  Hope for Remedies</p>
+        <p>"We eventually hope that the data we receive from TOMS-Meteor will allow us to do future planning to take measures to save the ozone layer," said Vyacheslav Khattatov, deputy director of the Central Aerological Observatory in Gosgidromet, which is in charge of the Soviet part of the project.</p>
+        <p>Ozone is a form of oxygen in an atmospheric layer 9 to 30 miles high that protects living things from harmful ultraviolet radiation from the sun. Loss of ozone has been most acute in polar regions, particularly over the South Pole, where large "holes" in the ozone have appeared each winter for several years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

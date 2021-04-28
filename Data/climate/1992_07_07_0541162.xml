@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="541162"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <classifier class="indexing_service" type="descriptor">BUILDINGS (STRUCTURES)</classifier>
+        <classifier class="indexing_service" type="descriptor">BIRDS</classifier>
+        <classifier class="indexing_service" type="descriptor">PIGEONS</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pigeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buildings (Structures)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6D91731F934A35754C0A964958260" item-length="388" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Skyscrapers</p>
+        <p>Q.  How long will skyscrapers last?</p>
+        <p>A.  "If they are properly maintained, they will last forever," said C. R. (Chuck) Pennoni, president of the American Society of Civil Engineers.</p>
+      </block>
+      <block class="full_text">
+        <p>Skyscrapers</p>
+        <p>Q.  How long will skyscrapers last?</p>
+        <p>A.  "If they are properly maintained, they will last forever," said C. R. (Chuck) Pennoni, president of the American Society of Civil Engineers.</p>
+        <p>After proper design, the key is the integrity of the materials, said Mr. Pennoni, who was trained as a structural engineer. Steel or concrete can be damaged by things like acid rain, he said, but if damaged material is replaced, the building will survive.</p>
+        <p>If a structure like the World Trade Center were abandoned and not maintained at all, the first thing to go would probably be the curtain wall, the skin of the building, Mr. Pennoni said. As it was weathered by rain, pieces would probably start to fall off, he said. However, Mr. Pennoni estimated that it would probably take 25 to 50 years for the core to be affected.</p>
+        <p>Massive buildings of masonry may have a longer lease on life than those with a glass skin, he suggested, but advances in sealants and other materials and techniques mean modern buildings may have more staying power.</p>
+        <p>Mr. Pennoni said that except for disaster damage from things like earthquakes and fires, the reason buildings come down is often economic, because there is no money for maintenance or because the real estate is too valuable for the structure that is on it. "In a throw-away economy, we throw away buildings, too," he said.  Eating Like a Bird</p>
+        <p>Q.  How do pigeons feed their young?</p>
+        <p>A.  Rock doves, which are common city pigeons, and the rest of the pigeon family produce a substance called pigeon's milk, said Todd Culver, an ornithologist at the Cornell Laboratory of Ornithology in Ithaca, N.Y.</p>
+        <p>It is actually a secretion of the stomach lining, he explained. "The living cells of the crop lining slough off, and adults regurgitate a white milk-like substance that is extremely high in fat and protein, the perfect thing to feed young squabs," he said.</p>
+        <p>It is similar in content to mammalian milk, he said.</p>
+        <p>. . .</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

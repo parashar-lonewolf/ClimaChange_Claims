@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Going Green, One Spring Break At a Time</title>
+    <meta content="25transgreen" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/25/travel/25transgreen.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1828556"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <org class="indexing_service">Bonneville Environmental Foundation</org>
+        <org class="indexing_service">REI Adventures</org>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DA143EF936A15751C0A9619C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Going Green, One Spring Break At a Time</hl1>
+        <hl2 class="online_headline">Going Green, One Spring Break at a Time</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>REI Adventures, in deal with Bonneville Environmental Foundation, offers trips that offset 100 percent of climate-altering carbon emissions produced by air, water and ground transportation through use of 'green tag' renewable energy credits; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Environmentally concerned travelers worried about taking the family on safari to Africa or snorkeling the Great Barrier Reef (both high-carbon journeys) might consider booking their spring break vacations through REI Adventures (www.rei.com/adventures).</p>
+        <p>The company now offsets 100 percent of the climate-altering carbon emissions produced by air, water and ground transportation through a deal with the Bonneville Environmental Foundation. Included in the price of each trip are ''green tags,'' renewable energy credits that offset the polluting effects of each passenger's trip by supporting solar, wind and other renewable energy sources.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Environmentally concerned travelers worried about taking the family on safari to Africa or snorkeling the Great Barrier Reef (both high-carbon journeys) have several options.</p>
+      </block>
+      <block class="full_text">
+        <p>Environmentally concerned travelers worried about taking the family on safari to Africa or snorkeling the Great Barrier Reef (both high-carbon journeys) might consider booking their spring break vacations through REI Adventures (www.rei.com/adventures).</p>
+        <p>The company now offsets 100 percent of the climate-altering carbon emissions produced by air, water and ground transportation through a deal with the Bonneville Environmental Foundation. Included in the price of each trip are ''green tags,'' renewable energy credits that offset the polluting effects of each passenger's trip by supporting solar, wind and other renewable energy sources.</p>
+        <p>Bonneville, a nonprofit foundation, also has a green tag program for individual travelers, allowing them to calculate exactly how much CO2 or other greenhouse emissions a particular trip will create. According to the carbon calculator on its Web site, four people traveling by air from New York to Denver (spring skiing anyone?) would need to buy 6.3 green tags.</p>
+        <p>Travelers then have the option of buying Cooler Future green tags ($20, with 99 percent of the money going to wind programs and 1 percent to solar) or Brighter Future green tags ($24, with 90 percent going to wind and 10 percent to solar, a more expensive renewable energy.)</p>
+        <p>''Our goal is to make the power grid green one traveler at a time,'' said Patrick Nye, director of sales at Bonneville. ''When we started the program in 2000 we were happy to sell 600 green tags. Now we are selling half a million annually.'' See www.greentagsusa.org.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

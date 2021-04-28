@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Report Details Global Warming Effects</title>
+    <meta content="05mbrfs-5" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/10/05/nyregion/05mbrfs-005.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1794992"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE2DA1530F936A35753C1A9609C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Report Details Global Warming Effects</hl1>
+        <hl2 class="online_headline">New York State: Report Details Global Warming Effects</hl2>
+      </hedline>
+      <byline class="print_byline">By ANTHONY DePALMA (NYT); Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Depalma, Anthony</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Summers in New York and the rest of the Northeast could be as hot as those in South Carolina by the end of the century if heat-trapping emissions are not reduced, according to a study released yesterday by the Union of Concerned Scientists. Average temperatures are projected to rise by as much as 12.5 degrees, while the number of days when the temperature exceeds 90 degrees could increase fourfold to 60 or more days a year. There could be less snow in the winters, and more rain, the study found. An industry trade group for electricity-generating companies questioned the accuracy of the study's assumptions and said the study had failed to account for the economic costs of measures to reduce emissions.</p>
+        <p>ANTHONY DePALMA (NYT)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Summers in New York and the rest of the Northeast could be as hot as those in South Carolina by the end of the century if heat-trapping emissions are not reduced, according to a study released yesterday by the Union of Concerned Scientists. Average temperatures are projected to rise by as much as 12.5 degrees, while the number of days when the temperature exceeds 90 degrees could increase fourfold to 60 or more days a year. There could be less snow in the winters, and more rain, the study found. An industry trade group for electricity-generating companies questioned the accuracy of the study’s assumptions and said the study had failed to account for the economic costs of measures to reduce emissions.</p>
+      </block>
+      <block class="full_text">
+        <p>Summers in New York and the rest of the Northeast could be as hot as those in South Carolina by the end of the century if heat-trapping emissions are not reduced, according to a study released yesterday by the Union of Concerned Scientists. Average temperatures are projected to rise by as much as 12.5 degrees, while the number of days when the temperature exceeds 90 degrees could increase fourfold to 60 or more days a year. There could be less snow in the winters, and more rain, the study found. An industry trade group for electricity-generating companies questioned the accuracy of the study's assumptions and said the study had failed to account for the economic costs of measures to reduce emissions.</p>
+        <p>ANTHONY DePALMA (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

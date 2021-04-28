@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World's Deepest Lake Shows 8-Year Turnover</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="The Environment Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="434492"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LAKES</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <location class="indexing_service">LAKE BAIKAL (USSR)</location>
+        <person class="indexing_service">WILFORD, JOHN NOBLE</person>
+        <classifier class="online_producer" type="general_descriptor">Lakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waterways and Other Bodies of Water</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DE1531F931A35757C0A967958260" item-length="601" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World's Deepest Lake Shows 8-Year Turnover</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+      <byline class="normalized_byline">WILFORD, JOHN NOBLE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TRACES of an implacable atmospheric pollutant have enabled scientists to track and time the way water circulates from the surface to the bottom and back again in the world's deepest and largest body of fresh water, Lake Baikal in the Soviet Union.</p>
+        <p>The scientists learned that the lake's deepest waters were completely renewed from the surface with water plentiful in oxygen every eight years. The rate of exchange between surface and bottom water, a process called ventilation, is as frequent as once or twice a year in other large lakes in the temperate zone. Previous estimates of Lake Baikal turnover ranged from once a year to once every 25 years.</p>
+      </block>
+      <block class="full_text">
+        <p>TRACES of an implacable atmospheric pollutant have enabled scientists to track and time the way water circulates from the surface to the bottom and back again in the world's deepest and largest body of fresh water, Lake Baikal in the Soviet Union.</p>
+        <p>The scientists learned that the lake's deepest waters were completely renewed from the surface with water plentiful in oxygen every eight years. The rate of exchange between surface and bottom water, a process called ventilation, is as frequent as once or twice a year in other large lakes in the temperate zone. Previous estimates of Lake Baikal turnover ranged from once a year to once every 25 years.</p>
+        <p>An understanding of the rate and mechanism of deep-water mixing is essential to studies of lake ecology and how it is influenced by the biological recycling of oxygen, carbon and nutrients. These factors are critical to a lake's biological productivity.</p>
+        <p>The new research, conducted by an American-Soviet team led by Dr. Ray F. Weiss of the Scripps Institution of Oceanography at La Jolla, Calif., was reported recently in the British journal Nature. The Soviet View</p>
+        <p>In a commentary accompanying the report, Dr. Mikhail Grachev, director of the Limnological Institute of the Soviet Academy of Sciences, said the findings gave new insights into the mechanism "by which the deep waters of Lake Baikal are constantly supplied by oxygen, keeping them at no less than 75 percent of saturation, and by which nutrients are delivered from deep waters to the surface to be consumed by planktonic algae."</p>
+        <p>Dr. Weiss cautioned in a telephone interview that the research had not yet led to a full understanding of the mechanism of lake turnover, "but we have become more aware of the subtleties of the mechanism that is able to force water to a great enough depth where it will sink of itself."</p>
+        <p>The physics of the ventilation process in deep temperate lakes is governed by variations of temperature, pressure and water density. The mixing results from instability that occurs with any decrease in the temperature of fresh water. But the process is also affected by surface winds and currents, and even the dynamics of the water's contact with the shore.</p>
+        <p>For their research, conducted in 1988, Dr. Weiss, working with Dr. Eddy C. Carmack of the Institute of Ocean Sciences in Sidney, British Columbia, and Dr. Valentin M. Koropalov of the Institute of Applied Geophysics in Moscow, turned a chemical pollutant, freon, into a scientific tool. Freon's Bad Name</p>
+        <p>Freon is the gas, called chlorofluorocarbon-12, that has been widely used in refrigerants and aerosol sprays and is now recognized as a threat to the ozone layer in the upper atmosphere. Destruction of the ozone layer exposes the world to higher levels of deadly ultraviolet radiation from the sun.</p>
+        <p>Because freon is extremely stable, scientists decided to use it as a chemical marker to assess time scales of the ventilation process. Some of the gases dissolved in the atmosphere would be transferred to the water's surface and then begin to circulate to the depths. The concentrations of freon in the water would be proportional to known amounts in the atmosphere as they increased over time.</p>
+        <p>Lake Baikal, in Siberia, the deepest lake in the world, holds a fifth of the world's supply of fresh water. The researchers found that 12.5 percent of the deep-water inventory of the lake is renewed each year, corresponding to a mean deep-water residence time of eight years. Some water at intermediate depths had a much slower turnover rate of once every 14 to 16 years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

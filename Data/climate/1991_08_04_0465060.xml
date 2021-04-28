@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On Second Day, Shuttle Crew Measures Earth's Ozone Layer</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="465060"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE SHUTTLE</classifier>
+        <classifier class="indexing_service" type="descriptor">ATLANTIS (SPACE SHUTTLE)</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">GRAVITY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gravitation and Gravity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DB1431F937A3575BC0A967958260" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On Second Day, Shuttle Crew Measures Earth's Ozone Layer</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>CAPE CANAVERAL, Fla., Aug. 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On their second day in orbit today, the five astronauts aboard the space shuttle Atlantis took measurements of the Earth's ozone layer, conducted medical experiments and found time to beam down spectacular scenes of their planet.</p>
+        <p>The astronauts also reported that several test tubes containing biological samples were broken and leaking, apparently casualties of the shuttle's launching on Friday.</p>
+      </block>
+      <block class="full_text">
+        <p>On their second day in orbit today, the five astronauts aboard the space shuttle Atlantis took measurements of the Earth's ozone layer, conducted medical experiments and found time to beam down spectacular scenes of their planet.</p>
+        <p>The astronauts also reported that several test tubes containing biological samples were broken and leaking, apparently casualties of the shuttle's launching on Friday.</p>
+        <p>The four men and one woman, who are to return to Earth on Aug. 11, spent much of today carrying out medical studies on the body's reaction to weightlessness. They also tested mechanical and computer equipment intended for use on the planned American space station.</p>
+        <p>The crew treated viewers on the ground to spectacular television views of their home planet as Atlantis circled the globe surveying the Earth's ozone layer.</p>
+        <p>Cameras in the shuttle's open payload bay took especially dramatic pictures of central Africa.  Satellite Sent Into Orbit</p>
+        <p>The crew kept busy with their experiments after successfully deploying the National Aeronautics and Space Administration's vast Tracking and Data Relay Satellite, which they sent into an orbit about 22,000 miles above the equator.</p>
+        <p>"Happiness is an empty payload bay," read a congratulatory message from earthbound friends of Shannon Lucid, the only woman on board, who was responsible for ejecting the satellite from the shuttle's cargo hold.</p>
+        <p>Ms. Lucid, a 48-year-old biochemist, deployed the $120 million satellite on Friday night, about six hours after the shuttle's launching.</p>
+        <p>Officials said the satellite, the height of a five-story building when its gold-plated antennas are unfurled, was healthy at the start of a 58-day checkout period.</p>
+        <p>In about two months, the satellite will join three others in a network that the space agency uses to communicate with the shuttle and unmanned scientific probes in orbit.</p>
+        <p>The shuttle flew with its open cargo hold facing the Earth so a scientific instrument could measure sunlight reflecting off the Earth's atmosphere.</p>
+        <p>The data will be used to calibrate ozone-mapping satellites already in orbit.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

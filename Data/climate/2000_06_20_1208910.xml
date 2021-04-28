@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Sees Hard Future If Climate Keeps Heating</title>
+    <meta content="20CLIM" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208910"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Heat</classifier>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <person class="indexing_service">Newman, Andy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000620T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7D81231F933A15755C0A9669C8B63" item-length="548" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Sees Hard Future If Climate Keeps Heating</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDY NEWMAN</byline>
+      <byline class="normalized_byline">Newman, Andy</byline>
+      <abstract>
+        <p>Study of effects of climate change finds that if global warming and its effects continue at present rates for rest of century, tristate region around New York City will face much more frequent and more severe floods, more sickness and death from heat, and loss of fragile marshes (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If global warming and its effects continue at present rates for the rest of the century, the tristate region around New York City will face much more frequent and more severe floods, more sickness and death from heat, and the loss of fragile marshes, according to a study released yesterday.</p>
+        <p>The study, which a covers 31-county area ranging from Ocean County, N.J., to Litchfield County, Conn., and Sullivan County, N.Y., is the local version of a national study on climate change released last week.</p>
+      </block>
+      <block class="full_text">
+        <p>If global warming and its effects continue at present rates for the rest of the century, the tristate region around New York City will face much more frequent and more severe floods, more sickness and death from heat, and the loss of fragile marshes, according to a study released yesterday.</p>
+        <p>The study, which a covers 31-county area ranging from Ocean County, N.J., to Litchfield County, Conn., and Sullivan County, N.Y., is the local version of a national study on climate change released last week.</p>
+        <p>The study, which claims to be the first comprehensive projection of the effects of climate change on an urban region anywhere in the country, found that the region would be hit particularly hard. In part this is because temperatures and seas are rising faster here than elsewhere. But it is also because the area is so densely populated.</p>
+        <p>''Climate change is really going to affect people where they live, and people live primarily in cities,'' said Cynthia Rosenzweig, a climate impact specialist with NASA's Goddard Institute for Space Studies and the study's main author.</p>
+        <p>The region is already being transformed, the researchers found, with the recent disappearance of marshland in Jamaica Bay believed to be caused at least in part by temperature increases caused by burning fuel and other human activities.</p>
+        <p>The $500,000 study, paid for mostly by the federal government and conducted by scientists from NASA, the federal Environmental Protection Agency and Columbia University's Earth Institute, reached many of the same conclusions that a study commissioned by the Environmental Defense Fund did last year.</p>
+        <p>The study was released at a daylong conference at Columbia University attended by dozens of officials from state and local planning, health and transportation agencies..</p>
+        <p>While the scientists emphasized that there was no way to know how accurate their projections were likely to be, the study's conclusions included the following:</p>
+        <p>*The sea level is rising about a tenth of an inch a year in the region. By the 2080's, the seas could rise by anywhere from 9 to 43 inches, and beach erosion rates could be up to 10 times what they are now. In the most extreme scenario, floods so severe they now occur every 100 years could take place as often as every 4 years.</p>
+        <p>*Death and sickness from heat stress, insect-borne diseases like the West Nile virus, and asthma are all likely to increase. The study projects a 6.5-percent rise in asthma cases in New York City by the end of the century.</p>
+        <p>*Both severe floods and severe drought are likely to grow more frequent, requiring more sophisticated management of water supplies.</p>
+        <p>*Temperatures in the region, which rose by 1 degree over the past century, are projected to increase another 6 to 10 degrees by the 2080's.</p>
+        <p>*Some salt-marsh islands in Jamaica Bay have lost 12 percent of their area since 1959, possibly due to rising sea levels.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

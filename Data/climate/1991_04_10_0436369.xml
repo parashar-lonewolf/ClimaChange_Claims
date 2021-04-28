@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thirty-Six Degrees of Separation</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="436369"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DE133AF933A25757C0A967958260" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thirty-Six Degrees of Separation</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man who hadn't been to his health club in a few days was startled yesterday morning when he passed the coat rack. The last time he had looked it was jammed with an array of Burberrys and London Fogs, thick with their winter linings, escorted by a phalanx of battered briefcases. Yesterday morning he saw only the briefcases, under a rack of empty hangers.</p>
+        <p>A second man hailed a taxi with his wife in Central Park. She, brightly: "Just look at those gorgeous daffodils!" He, nervously: "I gotta call Al to service the air-conditioner."</p>
+      </block>
+      <block class="full_text">
+        <p>A man who hadn't been to his health club in a few days was startled yesterday morning when he passed the coat rack. The last time he had looked it was jammed with an array of Burberrys and London Fogs, thick with their winter linings, escorted by a phalanx of battered briefcases. Yesterday morning he saw only the briefcases, under a rack of empty hangers.</p>
+        <p>A second man hailed a taxi with his wife in Central Park. She, brightly: "Just look at those gorgeous daffodils!" He, nervously: "I gotta call Al to service the air-conditioner."</p>
+        <p>A third man took his kids to a Haagen-Dazs on the West Side. It was out of sugar cones.</p>
+        <p>And so it went as the thermometer in New York City hit 86 degrees yesterday -- four degrees higher than the previous record of 82 degrees, set in 1871, and</p>
+        <p>36</p>
+        <p>degrees above average.</p>
+        <p>We can't speak for the long-departed citizens of Mayor A. Oakey Hall's New York of 1871, but speaking for the denizens of Mayor David N. Dinkins's New York, we can say flatly: It's too hot, too soon. Too soon for the summer suit. Too soon to be sweating on the subway platform. Too soon for the malodorous scents wafting skyward from the trash bins and gutters of Times Square.</p>
+        <p>Sure, the magnolias are beautiful, the cherry trees stunning, the Henry Hudson Parkway a riot of color. And it was wonderful, for once, to watch an opening-day baseball game in baseball weather instead of a freezing drizzle. But Nature rarely gives anything without taking something else away. If summer is already here, what's left?</p>
+        <p>Is it global warming? Who knows -- we're too hot to think about it. What we do know is that what's unseasonable is also, well, unreasonable.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arizona and Climate</title>
+    <meta content="L29ARI$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1460289"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <classifier class="indexing_service" type="descriptor">Drought</classifier>
+        <location class="indexing_service">Arizona</location>
+        <location class="indexing_service">Western States (US)</location>
+        <person class="indexing_service">Carsen, Dan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drought</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EEDB1039F93AA15752C0A9659C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arizona and Climate</hl1>
+      </hedline>
+      <abstract>
+        <p>Dan Carsen comments on dire impact of drought on Arizona and other Western states (Jan 27 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Arizona Awakens to Drought as Lakes Shrink and Harm Spreads'' (news article, Jan. 27):</p>
+        <p>Here's a troubling but practical suggestion for the desiccated West and for the rest of us too: From now on, as far as the weather is concerned, assume that there is no such thing as ''normal.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Arizona Awakens to Drought as Lakes Shrink and Harm Spreads'' (news article, Jan. 27):</p>
+        <p>Here's a troubling but practical suggestion for the desiccated West and for the rest of us too: From now on, as far as the weather is concerned, assume that there is no such thing as ''normal.''</p>
+        <p>When heat energy increases in a simple system, physical and chemical interactions change. Multiply that effect through a complex, world-spanning circulatory system of energy-driven evaporation cycles, wind patterns and ocean currents, and a logical byproduct is increasingly unstable, unpredictable and intense weather. Been outside lately?</p>
+        <p>Climate change remains a process with implications for everyone and everything that lives on Earth.</p>
+        <p>As we prepare to go to war on a nation rich in what helped get us to this point, let's keep the big picture in mind. Arizona ranchers aren't the only ones with a stake in it.</p>
+        <p>DAN CARSEN  Brookline, Mass., Jan. 27, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

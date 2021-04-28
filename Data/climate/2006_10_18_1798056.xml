@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="18btmcxns-4" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1798056"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <classifier class="indexing_service" type="descriptor">Christians and Christianity</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <person class="indexing_service">Durley, Gerald (Rev)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E6DE1F30F93BA25753C1A9609C8B63" item-length="44" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Oct 15 article about religious activism on global warming; Gerald Durley is minister at Providence Missionary Baptist Church in Atlanta</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Sunday about religious activism on global warming misstated the name of an Atlanta church whose minister, the Rev. Gerald Durley, said members often thought of global warming as a distant issue. It is Providence Missionary Baptist Church, not Providence Baptist Church.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Sunday about religious activism on global warming misstated the name of an Atlanta church whose minister, the Rev. Gerald Durley, said members often thought of global warming as a distant issue. It is Providence Missionary Baptist Church, not Providence Baptist Church.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

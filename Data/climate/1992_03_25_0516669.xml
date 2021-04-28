@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Former Official at Cray Is Named to Post at Intel</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="516669"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="BUSINESS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">INTEL CORP</org>
+        <org class="indexing_service">CRAY RESEARCH INC</org>
+        <person class="indexing_service">FISHER, LAWRENCE M</person>
+        <person class="indexing_service">MASI, EDWARD A</person>
+        <person class="indexing_service">GLOUDEMAN, JOSEPH F</person>
+        <object.title class="indexing_service">BUSINESS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920325T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDF1431F936A15750C0A964958260" item-length="363" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Former Official at Cray Is Named to Post at Intel</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <byline class="normalized_byline">FISHER, LAWRENCE M</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Intel Corporation yesterday named Edward A. Masi, the former executive vice president of Cray Research Inc., as the president of its supercomputer systems division. He is also being recommended for election as a corporate vice president.</p>
+        <p>Mr. Masi, who is 44 years old, is filling a new position at the Intel operation, which is based in Beaverton, Ore. Justin R. Rattner, an Intel fellow, continues as director of technology for the supercomputer systems division.</p>
+      </block>
+      <block class="full_text">
+        <p>The Intel Corporation yesterday named Edward A. Masi, the former executive vice president of Cray Research Inc., as the president of its supercomputer systems division. He is also being recommended for election as a corporate vice president.</p>
+        <p>Mr. Masi, who is 44 years old, is filling a new position at the Intel operation, which is based in Beaverton, Ore. Justin R. Rattner, an Intel fellow, continues as director of technology for the supercomputer systems division.</p>
+        <p>Cray Research, based in Minneapolis, has not named a successor to Mr. Masi, but it did name Joseph F. Gloudeman, the former president and chief executive of the MacNeal-Schwendler Corporation, to the vacant position of vice president for marketing. MacNeal-Schwendler, based in Los Angeles, is a leading producer of scientific software that runs on Cray supercomputers.</p>
+        <p>Intel, based in Santa Clara, Calif., has been a pioneer in the supercomputer technology called massively parallel processing, in which complex tasks are divided among hundreds or thousands of microprocessors. While Cray has recently announced programs to develop such machines, it is considered well behind Intel and Thinking Machines Inc., which both started in the mid-1980's.</p>
+        <p>"There is clearly no question that massively parallel processing has been accepted as representing the pinnacle of high-performance computing," Mr. Masi said yesterday in a telephone interview. As the leading producer of microprocessors, "the core strengths of Intel are second to none" in this technology, he said.</p>
+        <p>"I feel the same sense of excitement as when Cray's pioneering efforts made possible, for the first time, simulations such as automotive crash analysis and the prediction of global warming," Mr. Masi said.</p>
+        <p>Mr. Masi spent 12 years at Cray, most recently as executive vice president for sales and marketing. He was previously with the International Business Machines Corporation, where he held various positions in engineering, sales and marketing.</p>
+        <p>He received his B.S. degree in mechanical engineering at Tufts University. Mr. Masi and his wife, Kristine, have a daughter, and will be moving to the Portland area from Minnesota.</p>
+        <p>BUSINESS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

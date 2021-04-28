@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>European Action on Ozone</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="360396"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <org class="indexing_service">EUROPEAN COMMUNITY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DA103AF932A25755C0A966958260" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>European Action on Ozone</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LUXEMBOURG, June 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The European Community's environment ministers have agreed to set 1997 as the deadline for eliminating the manufacture and use within the community of chlorofluorocarbons, which destroy the earth's protective ozone layer.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The European Community's environment ministers have agreed to set 1997 as the deadline for eliminating the manufacture and use within the community of chlorofluorocarbons, which destroy the earth's protective ozone layer.</p>
+        <p>The European Community's environment ministers have agreed to set 1997 as the deadline for eliminating the manufacture and use within the community of chlorofluorocarbons, which destroy the earth's protective ozone layer.</p>
+        <p>They also said they would negotiate with other countries to enforce an international ban on chlorofluorocarbons, or CFC's, by the year 2000.</p>
+        <p>Although the decision does not have the force of law in the 12-nation community, a spokesman for the community's Executive Commission said Friday that a law would be adopted by the end of the year.</p>
+        <p>The ministers also decided to try at a meeting on the Montreal Protocol in London later this month to forge an international agreement to end worldwide use of CFC's by the year 2000. Under that protocol, signed by 40 nations in 1987, the use of CFC's would be cut by half by 1998.</p>
+        <p>Large developing nations like India, China, Mexico and Brazil have not signed the protocol, arguing that it would cost too much to introduce new technologies.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

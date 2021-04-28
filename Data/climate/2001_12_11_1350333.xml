@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Melting Glaciers in Antarctica Are Raising Oceans, Experts Say</title>
+    <meta content="GLACIEDOC" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/12/11/science/earth/11GEO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1350333"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctica</classifier>
+        <classifier class="online_producer" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="online_producer" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <location class="online_producer">Antarctica</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E4D71138F932A25751C1A9679C8B63" item-length="387" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Melting Glaciers in Antarctica Are Raising Oceans, Experts Say</hl1>
+        <hl2 class="online_headline">Melting Glaciers in Antarctica Are Raising Oceans, Experts Say</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <dateline>SAN FRANCISCO, Dec. 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Antarctica appears to be melting and contributing to the slow rise in the oceans, scientists reported to their colleagues here today.</p>
+        <p>Using two sets of radar data from the European Remote Sensing Satellite, two scientists said they had found that about 36 cubic miles of ice had melted from glaciers in West Antarctica over the past decade. That is enough water to raise sea levels worldwide by about one-sixtieth of an inch, they said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Antarctica appears to be melting and contributing to the slow rise in the oceans, scientists reported to their colleagues Monday.</p>
+      </block>
+      <block class="full_text">
+        <p>Antarctica appears to be melting and contributing to the slow rise in the oceans, scientists reported to their colleagues here today.</p>
+        <p>Using two sets of radar data from the European Remote Sensing Satellite, two scientists said they had found that about 36 cubic miles of ice had melted from glaciers in West Antarctica over the past decade. That is enough water to raise sea levels worldwide by about one-sixtieth of an inch, they said.</p>
+        <p>''These glaciers are thinning rapidly,'' said one of the scientists, Dr. Eric Rignot from NASA's Jet Propulsion Laboratory in Pasadena, Calif. The conclusions were presented at a meeting of the American Geophysical Union.</p>
+        <p>The findings counter results of an earlier study, drawing on ground-based observations, that concluded that Antarctica was gaining in mass, with the snow falling at the interior.</p>
+        <p>Dr. Rignot said a satellite instrument designed to detect deformations in the ground shape found no areas gaining in mass. But, he said, the Pine Island and Thwaites glaciers in West Antarctica, the two largest on the continent, are noticeably thinning. The rest of Antarctica appears to best table, he said.</p>
+        <p>Ocean levels have been rising at a rate of about eight inches a century. Half of that is attributable to the fact that water expands as temperatures rise; 20 percent appears to be water running down mountain glaciers. The remaining 30 percent is a mystery, but the new data suggests it is coming from Antarctica.</p>
+        <p>Using a second instrument on the satellite, one that measures altitude, Dr. Andrew Shepherd, a research fellow at the Center for Polar Observation and Modeling at University College London, came to similar conclusions. A smaller, neighboring glacier, the Smith glacier, is losing mass even more quickly, he said.</p>
+        <p>No obvious explanation exists for the melting. The rise in global temperatures - about one degree Fahrenheit over the last century - would have negligible effect in the frigid climes of Antarctica, scientists say.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

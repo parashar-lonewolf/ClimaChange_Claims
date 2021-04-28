@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>7 Companies Given Awards</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="228207"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CORPORATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">ETHICS</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <org class="indexing_service">ECONOMIC PRIORITIES, COUNCIL ON</org>
+        <org class="indexing_service">DAYTON-HUDSON CORP</org>
+        <org class="indexing_service">DIGITAL EQUIPMENT CORP</org>
+        <org class="indexing_service">FEDERAL EXPRESS CORP</org>
+        <org class="indexing_service">APPLIED ENERGY SERVICES INC</org>
+        <org class="indexing_service">EASTMAN KODAK CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890303T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6DF1F31F930A35750C0A96F948260" item-length="418" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>7 Companies Given Awards</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Council on Economic Priorities, a nonprofit research organization, presented its third annual America's Corporate Conscience Awards last night to five corporations that it regards as exemplifying corporate social responsibility. Two other companies received honorable mention.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Council on Economic Priorities, a nonprofit research organization, presented its third annual America's Corporate Conscience Awards last night to five corporations that it regards as exemplifying corporate social responsibility. Two other companies received honorable mention.</p>
+        <p>The Council on Economic Priorities, a nonprofit research organization, presented its third annual America's Corporate Conscience Awards last night to five corporations that it regards as exemplifying corporate social responsibility. Two other companies received honorable mention.</p>
+        <p>The council, which is celebrating its 20th anniversary, publishes consumer guidebooks and studies on topics related to corporate performance. In December it published ''Shopping for a Better World: A Quick and Easy Guide to Socially Responsible Supermarket Shopping,'' which evaluates 138 companies that produce supermarket goods.</p>
+        <p>It has also conducted studies on nuclear disarmament, verification of arms control agreements and toxic waste disposal.</p>
+        <p>The awards were announced at a ceremony at the Waldorf-Astoria Hotel:  Charitable Giving: Dayton Hudson Corporation. The Minneapolis-based retail chain has donated money to numerous programs for economic and social development, including a 24-hour telephone hot line for family problems in Iowa, day care centers in Arizona and California, and a conference in San Francisco on AIDS in the workplace.  Community Action: Digital Equipment Corporation. Based in Maynard, Mass., this computer company has many job-training programs, makes substantial purchases from businesses owned by women and members of minority groups, and sponsors educational programs for low-income students.  Employer Responsiveness: Federal Express Corporation. The company, based in Memphis, has a no lay-off policy and offers cash awards, free dinners and other rewards and incentives to employees.  Environmental Responsibility: Applied Energy Services Inc. An independent power generator and energy consultant based in Arlington, Va., the company has developed techniques to minimize pollution from its new coal-burning plant in Connecticut. It has also donated $2 million for the planting of 52 million trees in Guatemala to help combat the global warming trend.  Equal Opportunity: Eastman Kodak Company. Based in Rochester, the company does one-fourth of its purchasing from small businesses owned by women, and it helped found the Rochester Business Opportunity Corporation, which helps minority-owned businesses.  Honorable Mention: H. B. Fuller Company, a Minneapolis-based company that makes paints, adhesives and sealants, honored for its environmental record, and Newman's Own Inc., a food company founded by the actor Paul Newman, honored for donating profits to charity.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

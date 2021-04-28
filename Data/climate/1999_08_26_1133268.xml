@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientists Choose Landing Site For Robotic Spacecraft on Mars</title>
+    <meta content="Y26MAR$02" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1133268"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars Polar Lander (Spacecraft)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars Global Surveyor</classifier>
+        <location class="indexing_service">Mars (Planet)</location>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Wilford, John Noble</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DF173BF935A1575BC0A96F958260" item-length="552" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientists Choose Landing Site For Robotic Spacecraft on Mars</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+      <byline class="normalized_byline">Wilford, John Noble</byline>
+      <abstract>
+        <p>National Aeronautics and Space Administration scientists and mission officials chose plain near Mars's South Pole as landing site for Mars Polar Lander spacecraft, on its way and set to arrive Dec 3; select site based on data from Mars Global Surveyor, which is already orbiting and mapping planet (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A broad, gently rolling plain near the south pole of Mars, where layered accumulations of ice and dust preserve a history of planetary climate change, has been selected as the landing site for the Mars Polar Lander spacecraft, on its way and scheduled to arrive on Dec. 3.</p>
+        <p>Scientists and mission officials announced the selection yesterday after a close examination of pictures and altimeter data gathered by another spacecraft, the Mars Global Surveyor, which is already orbiting and mapping the planet.</p>
+      </block>
+      <block class="full_text">
+        <p>A broad, gently rolling plain near the south pole of Mars, where layered accumulations of ice and dust preserve a history of planetary climate change, has been selected as the landing site for the Mars Polar Lander spacecraft, on its way and scheduled to arrive on Dec. 3.</p>
+        <p>Scientists and mission officials announced the selection yesterday after a close examination of pictures and altimeter data gathered by another spacecraft, the Mars Global Surveyor, which is already orbiting and mapping the planet.</p>
+        <p>Flight controllers at the Jet Propulsion Laboratory in Pasadena, Calif., where the mission is being directed, are radioing instructions to the Polar Lander craft for a maneuver next Wednesday to take aim on the target: a rectangular area 125 miles long and 12 miles wide near the edge of the southern polar landscape, at 76 degrees south latitude, 195 degrees west longitude.</p>
+        <p>''We believe we have the site that will accomplish our scientific objectives,'' Dr. Richard W. Zurek, the mission's chief scientist, said at a news conference at the National Aeronautics and Space Administration in Washington.</p>
+        <p>The Polar Lander will be the fourth spacecraft to touch down on Mars but the first to go to a polar region.</p>
+        <p>When the robotic spacecraft reaches Mars, it will be the end of spring in the planet's southern hemisphere. The landing site, on a smooth plateau, will be well north of the thick polar ice cap, in seasonal retreat, and presumably free of ground frost. Drilling into the surface, the spacecraft should be able to investigate subterranean water ice and the details of the layers of dust and ice deposited there.</p>
+        <p>''We believe this layered terrain is a record of climate change on Mars,'' Dr. Zurek said. ''In a sense, digging into its surface will be like reading tree rings or layers in an ice core.''</p>
+        <p>The landing site will be in perpetual sunlight, critical to operations of the craft's solar-powered systems for a minimum of about 90 days. One factor in the site selection was finding a broad area with slopes no steeper than 10 degrees, reducing the risk of the spacecraft's tipping over or tilting so severely that its solar panels might be left in partial shade.</p>
+        <p>The Polar Lander's studies of the icy terrain will be supplemented by two basketball-size microprobes. They are to be deployed about five minutes before the spacecraft enters the Martian atmosphere and should land in the same target region. Their main purpose is to drill below the surface and take soil samples to be heated and examined for emissions of water vapor.</p>
+        <p>The Polar Lander was launched on Jan. 3 as part of the expanded robotic exploration of Mars. A companion craft, Mars Climate Orbiter, departed a few weeks earlier and is scheduled to go into orbit of the planet on Sept. 23, to survey weather and climate conditions and act as a communications relay for Polar Lander.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

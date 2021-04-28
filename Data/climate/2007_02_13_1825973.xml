@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Investing in Cleaner Energy</title>
+    <meta content="13lett-5" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1825973"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <person class="indexing_service">Dormont, Mitchell S</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1D61F3FF930A25751C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Investing in Cleaner Energy</hl1>
+      </hedline>
+      <abstract>
+        <p>Mitchell S Dormont letter on February 6 article about global warming suggests investing in cleaner energies</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''On the Climate Change Beat, Doubt Gives Way to Certainty'' (Feb. 6): The results of the recently released report of the Intergovernmental Panel on Climate Change have moved Senator John McCain to state that the argument about global warming ''is over.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''On the Climate Change Beat, Doubt Gives Way to Certainty'' (Feb. 6): The results of the recently released report of the Intergovernmental Panel on Climate Change have moved Senator John McCain to state that the argument about global warming ''is over.''</p>
+        <p>What appears to have been fueling the argument was not scientific inquiry, but shortsightedness and greed. Political and other vested interests were being protectionist, blind to the greater economic and societal good that could flow from the development of new technologies.</p>
+        <p>We do not need an investment in ethanol fuels, which require burning and further polluting as part of their processing, but something like hydrogen fuel cells -- something entirely different.</p>
+        <p>Mitchell S. Dormont  Manalapan, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

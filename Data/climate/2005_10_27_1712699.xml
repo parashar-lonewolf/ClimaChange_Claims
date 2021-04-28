@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>And Hair Dryers Top Out at $300</title>
+    <meta content="27dryer" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/10/27/fashion/thursdaystyles/27dryer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1712699"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="descriptor">Hair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hair</classifier>
+        <org class="online_producer">Drugstore.com</org>
+        <org class="online_producer">Sephora</org>
+        <person class="online_producer">Nye, Bill</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EEDB113FF934A15753C1A9639C8B63" item-length="538" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>And Hair Dryers Top Out at $300</hl1>
+        <hl2 class="online_headline">And Hair Dryers Top Out at $300</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHANIE ROSENBLOOM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JUST when some women have become used to paying $200 for a hair dryer, a new one is coming along to raise the top price again -- to $300.</p>
+        <p>The limit of what the market could bear seemed to be reached a year ago, when the T3 Tourmaline Featherweight Professional Ceramic Ionic Hair Dryer went on sale for $200. After all, Drugstore.com sells hair dryers for $11.99 to $39.99. Still, the Featherweight enjoyed a good deal of popularity, becoming one of Sephora's top-selling products, said Allison Slater, the vice president for retail marketing of the chain.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Just when some women have become used to paying $200 for a hair dryer, a new one is coming along to raise the top price again -- to $300.</p>
+      </block>
+      <block class="full_text">
+        <p>JUST when some women have become used to paying $200 for a hair dryer, a new one is coming along to raise the top price again -- to $300.</p>
+        <p>The limit of what the market could bear seemed to be reached a year ago, when the T3 Tourmaline Featherweight Professional Ceramic Ionic Hair Dryer went on sale for $200. After all, Drugstore.com sells hair dryers for $11.99 to $39.99. Still, the Featherweight enjoyed a good deal of popularity, becoming one of Sephora's top-selling products, said Allison Slater, the vice president for retail marketing of the chain.</p>
+        <p>Within the next few days the $300 T3 Tourmaline Evolution Professional Ceramic Ionic Hair Dryer, now sold only to professional stylists and salons, will be in select Sephora stores.</p>
+        <p>Kent Yu, the president of T3 Micro, which makes the Evolution, said it dries hair about 70 percent faster than other dryers. (Its predecessor was found in tests to be 60 percent faster than average.) With a whopping 2,000 watts of power the new dryer also blasts hot air more forcefully than did the old one, with 1,800 watts.</p>
+        <p>What does the job in both the $200 and the $300 T3 dryers, Mr. Yu said, is ions, electrically charged particles, which stream out with the hot air and speed evaporation of water. The T3's are not the only ionic hair dryers. But in many others, Mr. Yu said, the nozzle or the internal machinery is sprayed with a mineral compound, which releases positive and negative ions when heated.</p>
+        <p>T3 dryers, by contrast, have motors and heaters molded of tourmaline, a hard mineral, which gives off only negatively charged ions when heated.</p>
+        <p>The negative tourmaline ions not only cause water to evaporate faster, Mr. Yu said, but also ''restore an electrical balance to each hair strand, so there's no static electricity,'' which causes frizz.</p>
+        <p>Tourmaline, which is also used as a gemstone, is expensive, and that's why the dryer costs so much, Mr. Yu said. ''We're buying a natural resource, like gold or silver.''</p>
+        <p>Daniel Nosenchuck, a professor of mechanical engineering at Princeton, who helped design hair dryers for Revlon and Vidal Sassoon, said ions may work against frizz, as advertised. Frizz comes from the hydrogen and disulfide bonds present in the hair, he explained, and an ionic dryer might help break those bonds.</p>
+        <p>''There might be a very slight effect, possibly,'' he said.</p>
+        <p>After phone messages to five university physics departments went unanswered, I phoned Bill Nye, the public television Science Guy, and asked how ions could make hair dry faster.</p>
+        <p>Mr. Nye said negative ions might interact with some of the free radicals in the water droplets on the hair and reduce the surface tension. The ions would then spread out the droplets and evaporate them.</p>
+        <p>''The claim is not extraordinary,'' he said, ''but it is remarkable.''</p>
+        <p>He added, ''If every hair dryer in the developed world could use half as much energy,'' it could affect global warming.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

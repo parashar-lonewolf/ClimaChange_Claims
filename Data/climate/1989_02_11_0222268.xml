@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SATURDAY NEWS QUIZ</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="222268"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NEWS AND NEWS MEDIA</classifier>
+        <classifier class="online_producer" type="types_of_material">QUESTION</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DC163FF932A25751C0A96F948260" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SATURDAY NEWS QUIZ</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA AMSTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Questions are based on news reports in The Times this week. Answers appear on page 50.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Questions are based on news reports in The Times this week. Answers appear on page 50.</p>
+        <p>Questions are based on news reports in The Times this week. Answers appear on page 50.</p>
+        <p>1. Pictures like this speak more than words about the style of the photographer. Identify him and explain.</p>
+        <p>2. A Soviet magazine broke another taboo by publishing a scathing attack on a subject that had been inviolate. What was the subject and the substance of the attack?</p>
+        <p>3. Friends describe Dorothy Hayden Cudahy as simply an Irish grandmother from Queens, but history will record her as something else. What?</p>
+        <p>4. Astronomers reported glimpsing a celestial birth. What did they observe?</p>
+        <p>5. In presenting his budget to Congress, President Bush compared his figures with those for the current fiscal year, rather than the figures President Reagan had proposed for 1990. What did that approach accomplish for Mr. Bush?</p>
+        <p>6. Although Mayor Teddy Kollek of Jerusalem is likely to win re-election in municipal elections this month, his power is expected to ebb. What is the reason?</p>
+        <p>7. A Lord of the Rings is turning in his whip. Identify him and explain.</p>
+        <p>8. New Jersey may be viewed as a rival to New York City, rather than as a satellite. What recent development supports this?</p>
+        <p>9. Eight years after AIDS made its startling appearance, its pattern is shifting. What is the change?</p>
+        <p>10. Congress voted down the proposed 51 percent Federal pay increase, leaving unresolved a related issue concerning members of Congress. What issue is it?</p>
+        <p>11. Promoters of professional wrestling acknowledged that things are not what they seem. What did they admit and what were the circumstances?</p>
+        <p>12. President Bush's plan to rescue the nation's savings and loan industry would distribute the burden of the crisis. In what way?</p>
+        <p>13. A new reading room has been provided for inmates at the Iowa Men's Reformatory. Why is that controversial?</p>
+        <p>14. Dwight Gooden achieved a Mets milestone. Explain.</p>
+        <p>15. Eduard A. Shevardnadze, the Soviet Foreign Minister, concluded a visit to China with an announcement. What was it and what was Beijing's response?</p>
+        <p>16. Climatologists agree that global warming as a result of pollutants in the atmosphere will occur in the decades ahead, with important consequences for life on earth. But they have not been able to agree on the magnitude, timing or effects of the anticipated change. Why not?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

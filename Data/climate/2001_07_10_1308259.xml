@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tracking Climate Change</title>
+    <meta content="LTR001655" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1308259"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Druyan, Leonard M (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05EFD71138F933A25754C0A9679C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tracking Climate Change</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Leonard M Druyan letter on July 3 article cites promising approach to overcoming gaps in climate models</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Efforts to Predict Effects of Global Warming Hinge on Gaps in Climate Models'' (July 3): The need to resolve features at small spatial scales has always been countered by the limits of computing power in the experiments that consider the entire global domain.</p>
+        <p>However, one approach shows promise for overcoming the impasse. Models covering limited areas can afford to make computations at data points more closely spaced to resolve finer features of topography and climate.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Efforts to Predict Effects of Global Warming Hinge on Gaps in Climate Models'' (July 3): The need to resolve features at small spatial scales has always been countered by the limits of computing power in the experiments that consider the entire global domain.</p>
+        <p>However, one approach shows promise for overcoming the impasse. Models covering limited areas can afford to make computations at data points more closely spaced to resolve finer features of topography and climate.</p>
+        <p>By concentrating on particular regions, these models can provide details without overwhelming the available computer resources.</p>
+        <p>But such simulations over limited areas need to receive a continuous stream of climate data at their borders. Accordingly, projections are being made by feeding the results of global climate models to regional models, which in turn produce possible outcomes that account for features as detailed as the proximity of California's Central Valley to the adjacent mountains.  DR. LEONARD M. DRUYAN  New York</p>
+        <p>The writer heads the Columbia Center for Climate Research.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

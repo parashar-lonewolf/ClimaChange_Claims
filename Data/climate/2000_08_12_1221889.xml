@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recycling, Our Gift to Tomorrow</title>
+    <meta content="LTR232440" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221889"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="indexing_service" type="descriptor">Recycling of Waste Materials</classifier>
+        <person class="indexing_service">Cantilli, John</person>
+        <person class="indexing_service">Tierney, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000812T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E4DE123FF931A2575BC0A9669C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recycling, Our Gift to Tomorrow</hl1>
+      </hedline>
+      <abstract>
+        <p>John Cantilli letter holds that John Tierney's Aug 8 column on economics of recycling is shortsighted</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>John Tierney's discussion of the local economics of recycling is rather shortsighted (Big City column, Aug. 8).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>John Tierney's discussion of the local economics of recycling is rather shortsighted (Big City column, Aug. 8).</p>
+        <p>Recycling paper, plastic, glass and metal saves trees, oil and energy derived from combustion of fossil fuels. Combustion causes global warming and acid rain. The benefits of recycling are not only obvious; they are also priceless.</p>
+        <p>JOHN CANTILLI  Cranford, N.J., Aug. 8, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

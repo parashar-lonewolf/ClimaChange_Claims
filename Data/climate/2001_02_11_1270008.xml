@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PRIZE WINNER</title>
+    <meta content="MB051736" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1270008"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="BRIEFING: SCIENCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <org class="indexing_service">Heinz, H J, Co</org>
+        <person class="indexing_service">Hansen, James E</person>
+        <person class="indexing_service">James, Greg</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E5D61531F932A25751C0A9679C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PRIZE WINNER</hl1>
+      </hedline>
+      <byline class="print_byline">By George James</byline>
+      <byline class="normalized_byline">James, Greg</byline>
+      <abstract>
+        <p>NASA scientist James E Hansen, credited with alerting public to global warming, is named winner of $250,000 Heinz Award for people who enhance lives of others (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>James E. Hansen, a NASA scientist credited with alerting the public to global warming, has been named a winner of of the Heinz Award, which honors people who enhance the lives of others. Mr. Hansen, 59, lives in Ridgewood  and is director of the NASA's Goddard Institute of Space Studies in Manhattan. He gave the first warnings about how industrial pollution is changing the climate in testimony before a Congressional panel in 1988. The $250,000 award will be presented in Washington March 5.</p>
+        <p>George James</p>
+      </block>
+      <block class="full_text">
+        <p>James E. Hansen, a NASA scientist credited with alerting the public to global warming, has been named a winner of of the Heinz Award, which honors people who enhance the lives of others. Mr. Hansen, 59, lives in Ridgewood  and is director of the NASA's Goddard Institute of Space Studies in Manhattan. He gave the first warnings about how industrial pollution is changing the climate in testimony before a Congressional panel in 1988. The $250,000 award will be presented in Washington March 5.</p>
+        <p>George James</p>
+        <p>BRIEFING: SCIENCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

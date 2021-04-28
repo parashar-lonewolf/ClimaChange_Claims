@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As Sea Level Rises, Marsh Grass Declines</title>
+    <meta content="l16jersey-3" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1776547"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wetlands</classifier>
+        <location class="indexing_service">Neck River (Conn)</location>
+        <location class="indexing_service">Madison (Conn)</location>
+        <location class="indexing_service">Connecticut</location>
+        <person class="indexing_service">Cantilli, John F</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wetlands</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EED91F30F935A25754C0A9609C8B63" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As Sea Level Rises, Marsh Grass Declines</hl1>
+      </hedline>
+      <abstract>
+        <p>Environmental scientist John F Cantilli letter on July 2 article on widespread dieback of salt marsh cordgrass on Neck River in Madison, Conn</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Something Is Killing the Marsh Grass, but No One Is Sure What It Is'' (July 2): The best explanation for the widespread dieback of salt marsh edges may be the simplest one: sea level rise.</p>
+        <p>Salt marsh cordgrass is an intertidal plant (it grows at elevations between low tide and high tide). While this species receives a daily bath of seawater, it prefers the upper half of the intertidal zone, and it does not tolerate constant inundation.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Something Is Killing the Marsh Grass, but No One Is Sure What It Is'' (July 2): The best explanation for the widespread dieback of salt marsh edges may be the simplest one: sea level rise.</p>
+        <p>Salt marsh cordgrass is an intertidal plant (it grows at elevations between low tide and high tide). While this species receives a daily bath of seawater, it prefers the upper half of the intertidal zone, and it does not tolerate constant inundation.</p>
+        <p>Along the coasts of Connecticut, New York and New Jersey, the rate of relative sea level rise is about two to four millimeters per year. Over a period of 50 years these rates yield water level increases of approximately four to eight inches.</p>
+        <p>The vertical growth of the marsh surface may not be able to keep pace with higher water levels if sediment input is insufficient. The result is drowned and dying cordgrass.</p>
+        <p>As the rate of sea level rise accelerates because of global warming, the inundation and conversion of coastal marshes to open water will far exceed the current dieback-related losses along the East Coast. The disappearance of thousands of acres of wetlands will be a grim reminder that we are changing the planet.</p>
+        <p>John F. Cantilli  Cranford</p>
+        <p>The writer is an environmental scientist.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ozone Hole</title>
+    <meta content="LTR235356" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239554"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001017T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE0DD163EF934A25753C1A9669C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ozone Hole</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Record Ozone Hole Refuels Debate on Climate'' (Oct. 10) seems to miss one vital factor: deforestation.</p>
+        <p>Everything I have seen on the problem of dirty air seems to ignore one very important fact. The world has lungs. They are the forests. It is estimated that an old and very large tree is at least 80 percent more efficient in the carbon dioxide exchange than the tiny saplings that are being used by some foresters to replace the old trees.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Record Ozone Hole Refuels Debate on Climate'' (Oct. 10) seems to miss one vital factor: deforestation.</p>
+        <p>Everything I have seen on the problem of dirty air seems to ignore one very important fact. The world has lungs. They are the forests. It is estimated that an old and very large tree is at least 80 percent more efficient in the carbon dioxide exchange than the tiny saplings that are being used by some foresters to replace the old trees.</p>
+        <p>I am from Australia. There we have a very important saying, ''Respect Mother Nature, she is a hanging judge.'' What to do? I have no idea. Stop logging for a start. Switch to alternative fuels.</p>
+        <p>YARRENA BURDICK  Vero Beach, Fla.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

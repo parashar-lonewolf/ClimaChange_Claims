@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Now, Air-Conditioners</title>
+    <meta content="17SAT5" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/17/opinion/17SAT5.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1551430"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5D81F30F934A25752C0A9629C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Now, Air-Conditioners</hl1>
+        <hl2 class="online_headline">Now, Air-Conditioners</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The courts have recently been giving the Bush administration a hard time for its attempted rollbacks of environmental law. In December, an appeals court in Washington blocked the Interior Department's efforts to overturn rules that would eventually ban snowmobiles from Yellowstone. The same court then blocked the Environmental Protection Agency's attempt to undercut laws governing pollution from power plants.</p>
+        <p>Now a New York appeals court has ruled that the administration acted illegally when it rescinded a new efficiency standard for central air-conditioners adopted by the Clinton administration. The Clinton rule requires a 30 percent improvement in the efficiency of these machines; the Bush administration, bowing to the wishes of some manufacturers, junked that standard in favor of a less stringent 20 percent increase.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The New York appeals court decision that the Bush administration acted illegally when it rescinded a standard for air-conditioners is not only a victory for the environment, but also for the lawful conduct of government.</p>
+      </block>
+      <block class="full_text">
+        <p>The courts have recently been giving the Bush administration a hard time for its attempted rollbacks of environmental law. In December, an appeals court in Washington blocked the Interior Department's efforts to overturn rules that would eventually ban snowmobiles from Yellowstone. The same court then blocked the Environmental Protection Agency's attempt to undercut laws governing pollution from power plants.</p>
+        <p>Now a New York appeals court has ruled that the administration acted illegally when it rescinded a new efficiency standard for central air-conditioners adopted by the Clinton administration. The Clinton rule requires a 30 percent improvement in the efficiency of these machines; the Bush administration, bowing to the wishes of some manufacturers, junked that standard in favor of a less stringent 20 percent increase.</p>
+        <p>This is not a trivial difference. Air-conditioners generally account for about one-third of energy demand during peak summertime periods. Rolling back the Clinton standard -- now reinstated as law -- would have required more new power plants and led to more air pollution, more global warming emissions and almost certainly higher prices for natural gas.</p>
+        <p>The court acted in response to a lawsuit that was filed by the Natural Resources Defense Council and joined by a coalition of states led by New York's attorney general, Eliot Spitzer. Though the decision dealt only with air-conditioners, it was also an implied rebuke to the haste with which the administration has tried to do undo much of Mr. Clinton's handiwork on energy and the environment. The air-conditioner standard was just one of dozens of regulations singled out for amendment or extinction in a famous memo issued on Mr. Bush's first day in office by Andrew Card Jr., his chief of staff.</p>
+        <p>The court concluded that in precipitously dumping the Clinton rule, the administration had ignored the necessary administrative reviews and misread federal energy law, which says that efficiency standards, once in place, cannot be weakened.</p>
+        <p>The decision is thus not only a victory for the environment, but also for the lawful conduct of government.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

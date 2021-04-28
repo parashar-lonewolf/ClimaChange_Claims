@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bloomberg Tells Gore He Should Run in '08</title>
+    <meta content="26gore" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843056"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <person class="indexing_service">Gore, Al</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E2DC153EF935A15757C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bloomberg Tells Gore He Should Run in '08</hl1>
+      </hedline>
+      <abstract>
+        <p>New York City Mayor Michael R Bloomberg says he hopes former Vice Pres Al Gore will run for president in 2008 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mayor Michael R. Bloomberg said yesterday that he hoped former Vice President Al Gore would run for president in 2008, saying ''I think it would be good for the country.''</p>
+        <p>The mayor made the comments to reporters after a news conference kicking off the Tribeca Film Festival, as the two men took the stage and teased each other over speculation about their respective presidential ambitions.</p>
+      </block>
+      <block class="full_text">
+        <p>Mayor Michael R. Bloomberg said yesterday that he hoped former Vice President Al Gore would run for president in 2008, saying ''I think it would be good for the country.''</p>
+        <p>The mayor made the comments to reporters after a news conference kicking off the Tribeca Film Festival, as the two men took the stage and teased each other over speculation about their respective presidential ambitions.</p>
+        <p>The former vice president was on hand to highlight the roughly 60 films in the festival that focus on environmental issues. Mr. Gore, whose profile has been raised in recent months by his starring role in the Oscar-winning documentary on global warming, ''An Inconvenient Truth,'' praised Mr. Bloomberg for several environmental proposals he released earlier this week, saying they included some ''gutsy moves.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

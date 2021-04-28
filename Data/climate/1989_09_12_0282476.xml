@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Bank Ecology Aid</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="282476"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POPULATION</classifier>
+        <classifier class="indexing_service" type="descriptor">FORESTS AND FORESTRY</classifier>
+        <org class="indexing_service">INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (IBRD)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4D7113FF931A2575AC0A96F948260" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Bank Ecology Aid</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>TOKYO, Sept. 11</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Long criticized for financing environmentally damaging projects, the World Bank today announced increased lending for population-control projects and forestry development, The bank's president, Barber B. Conable Jr., told a conference on the environment that the bank was committed to environmental issues and its commitment would not detract from its primary mission of global development.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Long criticized for financing environmentally damaging projects, the World Bank today announced increased lending for population-control projects and forestry development, The bank's president, Barber B. Conable Jr., told a conference on the environment that the bank was committed to environmental issues and its commitment would not detract from its primary mission of global development.</p>
+        <p>Long criticized for financing environmentally damaging projects, the World Bank today announced increased lending for population-control projects and forestry development, The bank's president, Barber B. Conable Jr., told a conference on the environment that the bank was committed to environmental issues and its commitment would not detract from its primary mission of global development. He spoke at the opening of the three-day conference, which is sponsored by the Japanese Government and the United Nations Environment Program.</p>
+        <p>Mr. Conable announced that the bank was establishing a gas development unit to promote use of natural gas because it was the least polluting of the fossil fuels. He said lending for population-control projects had amounted to more than $500 million in the last five years and that this would increase to more than $800 million between 1990 and 1992.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

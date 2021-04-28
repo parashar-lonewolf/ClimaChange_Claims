@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carbide Easing An Ozone Peril</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="168343"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIATION</classifier>
+        <classifier class="indexing_service" type="descriptor">CHEMICALS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <org class="indexing_service">UNION CARBIDE CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D6173EF935A3575BC0A96E948260" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carbide Easing An Ozone Peril</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Union Carbide Corporation said on Thursday that it had found a way to avoid using ozone-destroying chemicals in making foam used for furniture padding.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Union Carbide Corporation said on Thursday that it had found a way to avoid using ozone-destroying chemicals in making foam used for furniture padding.</p>
+        <p>The Union Carbide Corporation said on Thursday that it had found a way to avoid using ozone-destroying chemicals in making foam used for furniture padding.</p>
+        <p>The technology could eliminate 70 percent of the chlorofluorocarbons used in the flexible foam industry, which now accounts for 12 percent to 15 percent of the world's use of the chemicals, the company said.</p>
+        <p>CFC's, which are used to make foam softer, eat away at the atmosphere's ozone layer, which blocks harmful solar rays.</p>
+        <p>Carbide will immediately start selling the ingredients to make the new polyurethane foam, to be called Ultracel, company representatives said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

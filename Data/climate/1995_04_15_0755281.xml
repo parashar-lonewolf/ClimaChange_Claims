@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Small Satellite May Read Atmospheric Temperature</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="755281"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">SATELLITES</classifier>
+        <classifier class="indexing_service" type="descriptor">NAVSTAR GLOBAL POSITIONING SYSTEM</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DD163DF936A25757C0A963958260" item-length="779" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Small Satellite May Read Atmospheric Temperature</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM W. BROWNE</byline>
+      <byline class="normalized_byline">BROWNE, MALCOLM W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For seven years an $8 billion galaxy of Air Force Navstar satellites has been a reliable and precise navigation aid to airline pilots, sailors, truckers, adventurers, surveyors, geologists and oceanographers, among many other users.</p>
+        <p>But a new development may allow scientists to use the 24 satellites in this Global Positioning System, or G.P.S., in an unplanned application: measuring the temperature of the atmosphere at altitudes up to 80 miles. This could allow them to forecast the weather with greater accuracy and to detect subtle symptoms of long-term global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>For seven years an $8 billion galaxy of Air Force Navstar satellites has been a reliable and precise navigation aid to airline pilots, sailors, truckers, adventurers, surveyors, geologists and oceanographers, among many other users.</p>
+        <p>But a new development may allow scientists to use the 24 satellites in this Global Positioning System, or G.P.S., in an unplanned application: measuring the temperature of the atmosphere at altitudes up to 80 miles. This could allow them to forecast the weather with greater accuracy and to detect subtle symptoms of long-term global warming.</p>
+        <p>Earlier this month, a small Pegasus rocket was launched from a high-flying Lockheed L-1011 airplane of the Orbital Sciences Corporation over Vandenberg Air Force Base in California, carrying into orbit a satellite the size of a shoe box. The little spacecraft, named G.P.S./MET, for meteorology, contains only a radio receiver and a computer, but its makers hope it will turn out to be the advance guard of a revolution in meteorology and climatology.</p>
+        <p>A spokesman for the National Center for Atmospheric Research in Boulder, Colo., a sponsor of the project, said on Thursday that the satellite had achieved stable orbit and that its instruments had begun sending data. The research team expects to know within a few weeks whether the data can be used to reveal global climate conditions.</p>
+        <p>Dr. Michael L. Exner of the atmospheric center, the project manager, said the new satellite would look for G.P.S. satellite radio signals grazing Earth at the moments when the satellites sending and receiving signals were nearly hidden from each other by the planet. The signal will be measured as it slices through the atmosphere from one satellite to the other.</p>
+        <p>The purpose is to use the radio beam as a probe of the atmosphere to measure temperatures at altitudes from the ground to about 80 miles high. If the system works, said Dr. Benjamin M. Herman of the University of Arizona in Tucson, a galaxy of 50 to 100 midget satellites could be launched, providing hundreds of atmospheric measurements each day over every part of the globe, including remote oceans.</p>
+        <p>"During the last 30 years," Dr. Herman said, "mathematical models of the atmosphere have become more and more sophisticated and useful, and the power of the computers needed to explore these models has increased at a staggering rate. What we lack in our study of climate and weather prediction is data -- real measurements of temperature and other conditions all over the world.</p>
+        <p>"As it is," he said, "global air temperatures are measured mostly by balloon-borne instruments or by satellite-borne radiometers, which measure infrared and some other forms of radiation."</p>
+        <p>These measurement methods are spotty, covering only small, widely scattered regions at a time.</p>
+        <p>The basis of the system that may evolve from the G.P.S./MET satellite experiment is a fairly simple physical phenomenon.</p>
+        <p>Light and some other forms of radiation, including microwaves, are refracted, or bent, when they pass at an angle from one medium into another medium of higher or lower density; for example, a light beam is refracted as it passes from air into a glass lens or prism. Similarly, the microwave signals emitted by G.P.S. satellites are refracted when they pass at an angle from the vacuum of space into the dense atmosphere.</p>
+        <p>The amount of bending a beam undergoes when it is refracted by air depends on the air's density, which is mainly a function of pressure, which is highest at the surface of the earth, and temperature.</p>
+        <p>The cooler the air is in a region of atmosphere, the more a beam of microwave radiation from a G.P.S. satellite is bent by it. Therefore, measuring the amount a beam is bent as it passes into and then out of the atmosphere can be used to calculate the temperature of the air.</p>
+        <p>A complication the G.P.S./MET system will encounter is water vapor, which could distort temperature measurement. Project scientists believe they have techniques for compensating for this source of error.</p>
+        <p>Dr. Robert Gall of the atmospheric center said a system of satellites based on the G.P.S./MET scheme "won't solve our measurement problems all by itself," but "the very low-cost global coverage it would give us would be a real boost in our ability to gauge the state of the atmosphere."</p>
+        <p>The current experiment costs very little, by spacecraft standards; participants will spend $3.3 million over three years for the construction and operation of G.P.S./MET and for analyzing the data it returns from its 466-mile-high orbit. The little satellite was given a free ride aboard the Pegasus, whose main payload was a NASA instrument.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Science And Health: New On The DNA Front</title>
+    <meta content="MB013539" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1535271"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <person class="indexing_service">Venter, J Craig (Dr)</person>
+        <person class="indexing_service">Wade, Nicholas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3D81538F937A25752C1A9659C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Science And Health: New On The DNA Front</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Wade (NYT)</byline>
+      <byline class="normalized_byline">Wade, Nicholas</byline>
+      <abstract>
+        <p>Dr J Craig Venter says he has developed new technique for synthesizing DNA (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. J. Craig Venter, the scientist whose company decoded the human genome sequence, said he had developed a new technique for synthesizing DNA and used it to reconstitute the DNA of a virus that attacks bacteria. The new technique was better than existing methods, Dr. Venter said. A colleague, Dr. Hamilton Smith, said the new technique could probably be used, in combination with another method, to regenerate viable smallpox from the virus's published DNA sequence. They spoke at a news conference held by Energy Secretary Spencer Abraham, who speculated that someday synthesized microbes might generate hydrogen and remove carbon dioxide from the air.</p>
+        <p>Nicholas Wade (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. J. Craig Venter, the scientist whose company decoded the human genome sequence, said he had developed a new technique for synthesizing DNA and used it to reconstitute the DNA of a virus that attacks bacteria. The new technique was better than existing methods, Dr. Venter said. A colleague, Dr. Hamilton Smith, said the new technique could probably be used, in combination with another method, to regenerate viable smallpox from the virus's published DNA sequence. They spoke at a news conference held by Energy Secretary Spencer Abraham, who speculated that someday synthesized microbes might generate hydrogen and remove carbon dioxide from the air.</p>
+        <p>Nicholas Wade (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

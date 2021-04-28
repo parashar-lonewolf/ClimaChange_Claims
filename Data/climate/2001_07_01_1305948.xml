@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Anne Brener, Edward Linky</title>
+    <meta content="01BREN$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1305948"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BRENER, ANNE</person>
+        <person class="indexing_service">LINKY, EDWARD JAY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010701T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EFD81439F932A35754C0A9679C8B63" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Anne Brener, Edward Linky</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Anne Brener and Edward Jay Linky are to be married today by Rabbi Steven Pik-Nathan at Prospect House, the faculty club at Princeton University, in Princeton, N.J.</p>
+        <p>Ms. Brener, 55, will keep her name. She is the administrative coordinator of the Princeton Adult School, a private adult education program serving the Princeton area. She is also on the board of the Princeton Regional Scholarship Foundation, a private nonprofit organization that awards scholarships to high school students. She graduated from Douglass College, where she also received her teaching certificate in secondary education. Ms. Brener is the daughter of Helen Brener Smith of Princeton and the late David Copperfield Brener, and the stepdaughter of the late Dr. Alan Smith.</p>
+      </block>
+      <block class="full_text">
+        <p>Anne Brener and Edward Jay Linky are to be married today by Rabbi Steven Pik-Nathan at Prospect House, the faculty club at Princeton University, in Princeton, N.J.</p>
+        <p>Ms. Brener, 55, will keep her name. She is the administrative coordinator of the Princeton Adult School, a private adult education program serving the Princeton area. She is also on the board of the Princeton Regional Scholarship Foundation, a private nonprofit organization that awards scholarships to high school students. She graduated from Douglass College, where she also received her teaching certificate in secondary education. Ms. Brener is the daughter of Helen Brener Smith of Princeton and the late David Copperfield Brener, and the stepdaughter of the late Dr. Alan Smith.</p>
+        <p>Mr. Linky, 55, is the senior energy policy adviser in New York City for the federal Environmental Protection Agency. He is also a visiting lecturer on energy issues and global warming at Rutgers University in Newark and at the Military Academy at West Point, and is an energy adviser to the Environmental Protection Agency of Taiwan. He is the son of the late Rose and Abram Linky of Deal, N.J.</p>
+        <p>The bride's previous marriage ended in divorce, as did the bridegroom's.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

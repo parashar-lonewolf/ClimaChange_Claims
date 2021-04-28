@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emissions Trading Will Lead to Less Pollution</title>
+    <meta content="LTR044028" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="981191"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Barter</classifier>
+        <person class="indexing_service">Sandel, Michael J (Prof)</person>
+        <person class="indexing_service">Shavell, Steven (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Barter</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E7DB133FF934A25751C1A961958260" item-length="280" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emissions Trading Will Lead to Less Pollution</hl1>
+      </hedline>
+      <abstract>
+        <p>Steven Shavell letter replies to Dec 15 Op-Ed article in which Michael J Sandel argued that trading the right to emit greenhouse gases is immoral; says trade would probably lead to less pollution; cartoon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Michael J. Sandel (''It's Immoral to Buy the Right to Pollute,'' Op-Ed, Dec. 15) discounts the great benefits of trade in pollution rights and advances flawed arguments against it.</p>
+        <p>Suppose a rich country like the United States would have to spend $50 billion annually to reduce its carbon dioxide emissions by some amount, whereas China could reduce its emissions by this same amount more cheaply, at a cost of $5 billion (say, by installing simple smoke scrubbers in its coal-burning factories).</p>
+        <p>If trade in emissions credits were allowed, both China and the United States would be better off.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Michael J. Sandel (''It's Immoral to Buy the Right to Pollute,'' Op-Ed, Dec. 15) discounts the great benefits of trade in pollution rights and advances flawed arguments against it.</p>
+        <p>Suppose a rich country like the United States would have to spend $50 billion annually to reduce its carbon dioxide emissions by some amount, whereas China could reduce its emissions by this same amount more cheaply, at a cost of $5 billion (say, by installing simple smoke scrubbers in its coal-burning factories).</p>
+        <p>If trade in emissions credits were allowed, both China and the United States would be better off.</p>
+        <p>The United States could pay China $30 billion for the right to emit carbon dioxide. This would make China $25 billion better off: it would receive $30 billion and spend only $5 billion to prevent the emissions. The United States would pay $30 billion rather than spend $50 billion to abate the emissions.</p>
+        <p>And trade would probably lead ultimately to less pollution. When countries know that they can make profits or that ceilings on pollution are easier to meet, they will be more likely to agree to reduce the total amount of permitted pollution over time.</p>
+        <p>STEVEN  SHAVELL</p>
+        <p>Cambridge, Mass., Dec. 16, 1997</p>
+        <p>The writer is a professor of law and economics at Harvard Law School.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

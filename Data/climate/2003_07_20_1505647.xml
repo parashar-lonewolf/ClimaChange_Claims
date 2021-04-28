@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Green Stuff</title>
+    <meta content="LTR105054" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1505647"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Prestowitz, Clyde</person>
+        <person class="indexing_service">Komanoff, Charles</person>
+        <person class="indexing_service">Keller, Bill</person>
+        <object.title class="indexing_service">Rogue Nation (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DA113DF933A15754C0A9659C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Green Stuff</hl1>
+      </hedline>
+      <abstract>
+        <p>Charles Komanoff letter on Bill Keller June 22 review of Rogue Nation: American Unilateralism and the Failure of Good Intentions by Clyde Prestowitz; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of Clyde Prestowitz's ''Rogue Nation'' (June 22), Bill Keller says that Prestowitz ''acknowledges the weaknesses'' of the Kyoto treaty on global warming as well as ''the culpability of the European greens . . . who hijacked the cause of environmentalism.''</p>
+        <p>On the contrary: European greens, unlike their ineffectual American cousins, have actually been able to advance the environmental agenda. Euro greens have inspired ''traffic-calming'' measures that keep European cities hospitable for walking and cycling. They have supported high gasoline taxes that finance Europe's rail systems while discouraging dangerous, gas-guzzling sport utility vehicles. And they have embraced wind energy, which now supplies 18 percent of Denmark's electricity, while some prominent American greens oppose wind-power projects because the windmills interfere with expensive beachfront views.</p>
+        <p>This ''hijacked'' environmentalism is in fact the only environmentalism worthy of the name.</p>
+        <p>Charles Komanoff  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of Clyde Prestowitz's ''Rogue Nation'' (June 22), Bill Keller says that Prestowitz ''acknowledges the weaknesses'' of the Kyoto treaty on global warming as well as ''the culpability of the European greens . . . who hijacked the cause of environmentalism.''</p>
+        <p>On the contrary: European greens, unlike their ineffectual American cousins, have actually been able to advance the environmental agenda. Euro greens have inspired ''traffic-calming'' measures that keep European cities hospitable for walking and cycling. They have supported high gasoline taxes that finance Europe's rail systems while discouraging dangerous, gas-guzzling sport utility vehicles. And they have embraced wind energy, which now supplies 18 percent of Denmark's electricity, while some prominent American greens oppose wind-power projects because the windmills interfere with expensive beachfront views.</p>
+        <p>This ''hijacked'' environmentalism is in fact the only environmentalism worthy of the name.</p>
+        <p>Charles Komanoff  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="23botcorrex-3" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820940"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">United States</location>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E7D71F30F930A15752C0A9619C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 18 article about efforts to pass legislation to curb carbon dioxide emissions missated comparison of two measures</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article on Thursday about efforts in Congress to pass legislation to curb carbon dioxide emissions misstated a comparison of the two measures. A bill introduced by Senators John McCain, Republican of Arizona, and Joseph I. Lieberman, independent of Connecticut, which would tighten controls gradually and include subsidies for nuclear power, is more draconian, not less, than a proposal by Senator Jeff Bingaman, Democrat of New Mexico. Mr. Bingaman's bill would put a less stringent cap on emissions and includes a clause that would free industry from the requirements under certain circumstances.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article on Thursday about efforts in Congress to pass legislation to curb carbon dioxide emissions misstated a comparison of the two measures. A bill introduced by Senators John McCain, Republican of Arizona, and Joseph I. Lieberman, independent of Connecticut, which would tighten controls gradually and include subsidies for nuclear power, is more draconian, not less, than a proposal by Senator Jeff Bingaman, Democrat of New Mexico. Mr. Bingaman's bill would put a less stringent cap on emissions and includes a clause that would free industry from the requirements under certain circumstances.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'The Truth About Chernobyl'</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="443125"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">MEDVEDEV, GRIGORI</person>
+        <person class="indexing_service">BETHE, HANS A</person>
+        <person class="indexing_service">GRAHAM, LOREN</person>
+        <object.title class="indexing_service">TRUTH ABOUT CHERNOBYL, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DC163DF936A35756C0A967958260" item-length="332" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'The Truth About Chernobyl'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of "The Truth About Chernobyl" by Grigory Medvedev (April 7), Loren Graham examines the painful lessons of that disaster, but his implied final reaction that nuclear power everywhere is a menace to life is unjustified.</p>
+        <p>As members of a select scientific panel convened immediately after the Chernobyl accident, my colleagues and I established that the Chernobyl disaster tells us about the deficiencies of the Soviet political and administrative system rather than about problems with nuclear power. The design of the Chernobyl reactor was fundamentally faulty, having a built-in instability. In its operation on the critical day, all safety rules were totally ignored. Moreover, the electrical engineer who was put in charge of it had no knowledge of nuclear power, let alone of the instability of this particular reactor. By contrast, nuclear power plants that operate in the Western world are designed and built so as to preclude any possibility of a Chernobyl-type accident. In addition, Western plants are professionally operated in a manner infinitely superior to the Soviet practice at the time of the accident.</p>
+        <p>In fact, in more than a quarter-century, with 112 nuclear power plants operating in the United States and an additional 200 similar ones operating throughout the world, the safety and environmental record of Western, non-Chernobyl nuclear power has been remarkable. No death or serious injury has been caused by radiation from any American-style light-water reactor anywhere in the world in 30 years of commercial nuclear power.</p>
+        <p>Right now, the world needs nuclear energy sources to help reduce the massive burning of fossil fuels and their recognized environmental impact. Nuclear power is a major component of the solution to dependence on insecure and politically troublesome supplies of imported oil and also to the danger of global warming. It shouldn't be held back by inappropriate generalizations.  HANS BETHE Ithaca, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of "The Truth About Chernobyl" by Grigory Medvedev (April 7), Loren Graham examines the painful lessons of that disaster, but his implied final reaction that nuclear power everywhere is a menace to life is unjustified.</p>
+        <p>As members of a select scientific panel convened immediately after the Chernobyl accident, my colleagues and I established that the Chernobyl disaster tells us about the deficiencies of the Soviet political and administrative system rather than about problems with nuclear power. The design of the Chernobyl reactor was fundamentally faulty, having a built-in instability. In its operation on the critical day, all safety rules were totally ignored. Moreover, the electrical engineer who was put in charge of it had no knowledge of nuclear power, let alone of the instability of this particular reactor. By contrast, nuclear power plants that operate in the Western world are designed and built so as to preclude any possibility of a Chernobyl-type accident. In addition, Western plants are professionally operated in a manner infinitely superior to the Soviet practice at the time of the accident.</p>
+        <p>In fact, in more than a quarter-century, with 112 nuclear power plants operating in the United States and an additional 200 similar ones operating throughout the world, the safety and environmental record of Western, non-Chernobyl nuclear power has been remarkable. No death or serious injury has been caused by radiation from any American-style light-water reactor anywhere in the world in 30 years of commercial nuclear power.</p>
+        <p>Right now, the world needs nuclear energy sources to help reduce the massive burning of fossil fuels and their recognized environmental impact. Nuclear power is a major component of the solution to dependence on insecure and politically troublesome supplies of imported oil and also to the danger of global warming. It shouldn't be held back by inappropriate generalizations.  HANS BETHE Ithaca, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

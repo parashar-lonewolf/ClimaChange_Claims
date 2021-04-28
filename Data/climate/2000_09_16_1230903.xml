@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="16INSI$02" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230903"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E7DD1E38F935A2575AC0A9669C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Manila Strikes at Rebels  Military planes pounded Muslim rebel camps on an island in the southern Philippines, in an attack aimed at rescuing 19 foreign and Filipino hostages.</p>
+        <p>PAGE A8</p>
+      </block>
+      <block class="full_text">
+        <p>Manila Strikes at Rebels  Military planes pounded Muslim rebel camps on an island in the southern Philippines, in an attack aimed at rescuing 19 foreign and Filipino hostages.</p>
+        <p>PAGE A8</p>
+        <p>More Questions on Tires  According to recent testimony, the Firestone tire that Ford uses on the Explorer offers a narrower margin of safety than that on many other vehicles.</p>
+        <p>PAGE C1</p>
+        <p>OPEC and Global Warming  At global warming talks, OPEC pushed for compensation if efforts to cut emissions of heat-trapping gases result in less oil use.</p>
+        <p>PAGE A4</p>
+        <p>A Fusion of Left and Right  Neoconservatism, a hybrid of liberal impulses and conservative analysis, is now just part of the crowd in the center.</p>
+        <p>ARTS &amp; IDEAS, PAGE B7</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

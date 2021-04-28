@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Bright Side, Coffee Will Never Get Cold</title>
+    <meta content="10find" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/10/science/10find.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1730982"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="FINDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Novelties and Notions</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">Unemployed Philosophers Guild (Co)</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Coffee</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coffee</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E3D81F30F933A25752C0A9609C8B63" item-length="354" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Bright Side, Coffee Will Never Get Cold</hl1>
+        <hl2 class="online_headline">On the Bright Side, Coffee Will Never Get Cold</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Unemployed Philosophers Guild, Brooklyn-based novelty company, sells coffee mug that depicts changes in world if polar ice caps melt to draw attention to global warming; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After global warming the disaster film (''The Day After Tomorrow'') and global warming the comedy special (''Earth to America''), the next step was probably inevitable: global warming the coffee mug.</p>
+        <p>The mug is decorated with, naturally, a heat-sensitive world map. When it's filled with a steaming beverage, the shorelines retreat, reflecting an extreme version of what scientists say will happen as melting ice and warming water raise sea levels.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Global warming the coffee mug is decorated with, naturally, a heat-sensitive world map.</p>
+      </block>
+      <block class="full_text">
+        <p>After global warming the disaster film (''The Day After Tomorrow'') and global warming the comedy special (''Earth to America''), the next step was probably inevitable: global warming the coffee mug.</p>
+        <p>The mug is decorated with, naturally, a heat-sensitive world map. When it's filled with a steaming beverage, the shorelines retreat, reflecting an extreme version of what scientists say will happen as melting ice and warming water raise sea levels.</p>
+        <p>Groups with different views on warming have come up with similarly quirky tools to spread their views. In December, the National Center for Public Policy Research distributed rolls of toilet paper at climate-treaty talks in Montreal printed with the phrase ''emissions credit'' in five languages -- reflecting what it claimed is the value of such credits, which are earned by cutting greenhouse gases linked to warming.</p>
+        <p>The online pitch by the mug's purveyor, a Brooklyn-based novelty company called the Unemployed Philosophers Guild, is a bit bleak: ''Have you wondered what the world would look like after the polar ice caps melt? Now see it over a cup of coffee.''</p>
+        <p>Nonetheless, it's been selling briskly, with about 25,000 bought last year, said David Shaw, who designed the mug and runs the company with his brother, Stephan, the unemployed philosopher who started the business in the early 1990's.</p>
+        <p>They've received a few requests for corrections, like an e-mail message that came in last Thursday noting that the Aral Sea would never fill up because its elevation is far too high.</p>
+        <p>''We said we'll try to adjust it in a few places,'' Mr. Shaw said.</p>
+        <p>ANDREW C. REVKIN</p>
+        <p>FINDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

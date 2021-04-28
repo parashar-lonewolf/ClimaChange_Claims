@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Imagining the Tropics in a Visit to a Nursery</title>
+    <meta content="HOTHOUSE" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="13WC" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="912512"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <person class="indexing_service">Hershenson, Roberta</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970302T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EED61F3EF931A35750C0A961958260" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Imagining the Tropics in a Visit to a Nursery</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA HERSHENSON</byline>
+      <byline class="normalized_byline">Hershenson, Roberta</byline>
+      <dateline>WHITE PLAINS</dateline>
+      <abstract>
+        <p>Brief article on how a visit to greenhouse can refresh the spirit during winter season; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN gardening circles, the greenhouse effect is defined as the balmy sensation a nursery can give, especially in winter. The dry, cold air gives way to a soothing moistness, barren backyards yield to acres of green, a loamy scent stirs visions of spring and the spirit is refreshed.</p>
+        <p>Even in mild winters like this one, a visit to a nursery can ease the soul. Wander through rows of orange, lemon and grapefruit trees and imagine being in the tropics. Watch one worker pruning fuchsias and hibiscus, while another makes tiny cuttings of petunias for propagation. A table heaped with soil promises new rows of greenery, ready to flower in May. Even now, the hanging bougainvilleas trail languidly over their pots, spreading color along the skylighted ceiling.</p>
+      </block>
+      <block class="full_text">
+        <p>IN gardening circles, the greenhouse effect is defined as the balmy sensation a nursery can give, especially in winter. The dry, cold air gives way to a soothing moistness, barren backyards yield to acres of green, a loamy scent stirs visions of spring and the spirit is refreshed.</p>
+        <p>Even in mild winters like this one, a visit to a nursery can ease the soul. Wander through rows of orange, lemon and grapefruit trees and imagine being in the tropics. Watch one worker pruning fuchsias and hibiscus, while another makes tiny cuttings of petunias for propagation. A table heaped with soil promises new rows of greenery, ready to flower in May. Even now, the hanging bougainvilleas trail languidly over their pots, spreading color along the skylighted ceiling.</p>
+        <p>At Nabel's Nurseries here recently, Wanda Perugini worked amid a group of five-foot-tall solanum plants (commonly known as potato vine), which she had trained to become trees.</p>
+        <p>Tanya Slivinski sprayed month-old seedlings with a fine mist, while Maggie Reyes made cuttings from stock plants and arranged them in soil.</p>
+        <p>Heavy plastic sheets on the windows flapped in a prematurely spring-like breeze. A caged bird sang.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

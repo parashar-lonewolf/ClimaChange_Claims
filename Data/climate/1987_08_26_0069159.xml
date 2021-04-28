@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Dolphins' Warning</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="69159"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FISH AND OTHER MARINE LIFE</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">DOLPHINS AND PORPOISES</classifier>
+        <classifier class="indexing_service" type="descriptor">CLEAN WATER ACT</classifier>
+        <classifier class="indexing_service" type="descriptor">NITROGEN</classifier>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <location class="indexing_service">VIRGINIA</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DB1439F935A1575BC0A961948260" item-length="426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Dolphins' Warning</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Most years, a dozen dead dolphins wash up on the Eastern Seaboard between New Jersey and Virginia. This year 200 have died, their skin flaking off and their mouths pocked with ulcers. There have also been huge fish kills in Long Island Sound and Chesapeake Bay. Along much of the East Coast, bays and estuaries are under severe stress.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Most years, a dozen dead dolphins wash up on the Eastern Seaboard between New Jersey and Virginia. This year 200 have died, their skin flaking off and their mouths pocked with ulcers. There have also been huge fish kills in Long Island Sound and Chesapeake Bay. Along much of the East Coast, bays and estuaries are under severe stress.</p>
+        <p>Most years, a dozen dead dolphins wash up on the Eastern Seaboard between New Jersey and Virginia. This year 200 have died, their skin flaking off and their mouths pocked with ulcers. There have also been huge fish kills in Long Island Sound and Chesapeake Bay. Along much of the East Coast, bays and estuaries are under severe stress.</p>
+        <p>No one can yet be sure there is a single cause. Enormous tides of algae and ensuing fish kills are part of nature's cycle. The dolphins may have died from a specific disease, but a leading suspect for these marine massacres is pollution. Another factor may be another unusually hot summer, which some authorities fear may herald the predicted global warming known as the greenhouse effect.</p>
+        <p>Estuaries and bays are rich nurseries of marine life because of the nutrients washed out from the land. But along the Eastern Seaboard there's now an excess of such nutrients from sewage, agricultural and urban runoff and the nitrogen in acid rain. Algae thrive on these nutrients, and when they die the decay consumes so much oxygen in the water that fish, shrimp and crabs perish.</p>
+        <p>Since the Clean Water Act of 1972, governments and business have spent some $300 billion to combat pollution. What did that money buy if the Eastern Seaboard is now approaching an ecological crisis? Industrial pollution has been considerably reduced, and most towns now have secondary sewage treatment. Without the Clean Water Act, pollution would be far worse. But the act was amended only last year to address runoff from farms and streets, an important source of nitrogen. Sewage treatment degrades the bacteria that would otherwise consume oxygen, but it leaves untouched the nutrients in sewage like nitrogen and phosphorus.</p>
+        <p>The states bordering Chesapeake Bay agreed this month to reduce by up to 40 percent the amount of nitrogen and phosphorus entering its waters. Studies are still under way to see what remedy is required for Long Island Sound, but any plan is likely to be expensive. A decision to remove nitrogen at sewage treatment plants could cost a billion dollars.</p>
+        <p>As Philip Gutis wrote recently in The Times, more than 70 percent of all fish caught in the United States depend at some point on estuaries. By 1990 more than 75 percent of the population will live within 50 miles of the nation's coasts. People will have to change habits to avoid destroying fish habitats. The Clean Water Act was only the first step needed to protect once-rich bays and estuaries. To understand the need for more, listen to the dolphins.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

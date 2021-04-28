@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hybrid Arithmetic: Pay More, Fill Less</title>
+    <meta content="05CARR$03" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="http://www.nytimes.com/2002/04/05/automobiles/05CARR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1381424"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="DRIVING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Vehicles</classifier>
+        <org class="indexing_service">Honda Motor Co</org>
+        <person class="indexing_service">Wald, Matthew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E2DA1F3AF936A35757C0A9649C8B63" item-length="778" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hybrid Arithmetic: Pay More, Fill Less</hl1>
+        <hl2 class="online_headline">Hybrid Arithmetic: Pay More, Fill Less</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew</byline>
+      <abstract>
+        <p>Honda Civic offers first chance to compare hybrid and gasoline-only models; new hybrid, which will costs about $1500 more than gasoline-only model, has electric motor that assists gasoline engine at high-load periods; energy wasted in braking in ordinary car is recaptured in hybrid, recharging battery and cutting gasoline usage; economics of owning cars compared; table; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR a vehicle designed primarily for policy wonks, the hybrid car is surprisingly cool. Hybrids, which use more than one power source (usually gasoline and electricity), are designed to be more environmentally friendly than gas-powered cars. But they also represent the vanguard of car technology and, with only two models on the road until recently, they were unquestionably exotic.</p>
+        <p>That has changed. Honda recently began offering a hybrid version of the ubiquitous Civic. The possibility that hybrids could become mainstream vehicles raises two complicated questions: do you try to save either your money or the planet?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hybrids represent the vanguard of car technology and, with only two models on the road until recently, they were unquestionably exotic. That has changed.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR a vehicle designed primarily for policy wonks, the hybrid car is surprisingly cool. Hybrids, which use more than one power source (usually gasoline and electricity), are designed to be more environmentally friendly than gas-powered cars. But they also represent the vanguard of car technology and, with only two models on the road until recently, they were unquestionably exotic.</p>
+        <p>That has changed. Honda recently began offering a hybrid version of the ubiquitous Civic. The possibility that hybrids could become mainstream vehicles raises two complicated questions: do you try to save either your money or the planet?</p>
+        <p>The Civic offers an opportunity to compare hybrid and gasoline-only models. (Neither of the earlier hybrids, the Toyota Prius and the Honda Insight, come in a plain-vanilla version.) According to Honda, the new Civic hybrid will cost $19,990, about $1,500 more than the Civic EX, the most comparable gasoline-only model. Will that difference be made up at the gas pump?</p>
+        <p>Ordinary cars burn gasoline in an internal combustion engine. The Civic hybrid has an internal combustion engine, but it also has an electric motor (actually a device that is both a motor and a generator), which assists the gasoline engine at high-load periods, like when a traffic light turns green.</p>
+        <p>When the car stops at a red light, for example, the internal combustion engine stops. Touch the gas pedal, and the electric motor turns the internal combustion engine to start it instantly. This works better than the starter motor on a regular car because the hybrid's 13-horsepower electric motor is more powerful.</p>
+        <p>Thirteen horses may not sound like much, but electric motors have very good torque, or pulling power, at low speeds, so that the hybrid will out-accelerate a conventional car going 0 to 30, according to Honda, and lag slightly going from 0 to 60.</p>
+        <p>The interplay between the engine and the electric motor also means that a hybrid recharges without being plugged in. To decelerate, the driver steps on an ordinary looking brake pedal. Instead of engaging the brakes, the pedal engages the electric motor, which takes the car's momentum and converts it into electric current. The current is dumped back into the battery. The brakes are engaged only if the car decelerates sharply, so most of the energy wasted in braking in an ordinary car is recaptured in the hybrid.</p>
+        <p>This amounts to considerable savings on gasoline. The hybrid Civic is rated by the Environmental Protection Agency at 46 miles a gallon in the city, 51 on the highway. The conventional Civic gets 31 and 38 miles a gallon, respectively.</p>
+        <p>But the question of whether hybrids save money is not simply about gas consumption. To measure the cost difference between the hybrid Civic and the EX, a spreadsheet was prepared by Daniel Goldman of New Energy Capital in Newton, Mass.</p>
+        <p>Assuming that an owner drives the hybrid for 10 years an average of 12,000 miles a year, pays $1.50 a gallon for gas and borrows the extra $1,500 (for the cost of the car) at 3 percent on a three-year loan, and that the money could have earned 7 percent in the stock market, the Hybrid would save about $12 more than the EX. But when you calculate the present value of the $1,500 loan minus the money saved on gas, and invest the difference at 7 percent, the Hybrid costs about $274.74 more than the EX. The cost of gas will not have to rise too much for the car to break even.</p>
+        <p>Some factors are not included in the spreadsheet. John Watts, a Honda spokesman, said that the company expected maintenance costs to be similar to the regular Civic's, until the hybrid's battery pack needed replacing (about 100,000 miles), estimated to cost $2,000, Mr. Watts said.</p>
+        <p>A proposed tax credit also comes into play: the House and Senate versions of the energy bill both include them. Some states offer a credit already; Arizona's is $3,000, Mr. Watts said.</p>
+        <p>What may help tip the balance for some consumers are the environmental benefits. Both versions release extremely small amounts of smog-forming chemicals, but the hybrid releases less carbon dioxide. ''It's hard to justify hybrids purely from a consumer economics' perspective,'' said John M. DeCicco, a senior fellow at Environmental Defense. ''I'm sure some buyers will value saving more fuel, thereby reducing a key part of pollution, than they might value for pocketbook reasons alone.''</p>
+        <p>DRIVING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

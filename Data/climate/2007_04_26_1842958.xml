@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GARDEN Q. &amp; A.</title>
+    <meta content="26qna" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/garden/26qna.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842958"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="indexing_service" type="descriptor">Hydrangeas (Flowers)</classifier>
+        <classifier class="indexing_service" type="descriptor">Crab Apples</classifier>
+        <person class="indexing_service">Land, Leslie</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Fruit</classifier>
+        <classifier class="online_producer" type="descriptor">Insects</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fruit</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EFDF153EF935A15757C0A9619C8B63" item-length="383" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GARDEN Q. &amp; A.</hl1>
+        <hl2 class="online_headline">Garden Q.&amp;A.</hl2>
+      </hedline>
+      <byline class="print_byline">By Leslie Land</byline>
+      <byline class="normalized_byline">Land, Leslie</byline>
+      <abstract>
+        <p>Garden Q&amp;A on crippling effects of cold on crab apple trees and hydrangeas; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Too Warm Too Soon? Too Bad</p>
+        <p>Q. March in Missouri was unseasonably warm; then we had several nights at 20 degrees or lower. The leaves on my Nikko Blue hydrangeas died, and I'm sure the flower buds died too, but will I lose the plants themselves? And will the crab apple tree, its flowers now brown, produce any fruit this year?</p>
+        <p>A. Apple flowers need cross-pollination to set fruit, a process dependent on bees. As they buzz from tree to tree, burrowing into the flowers, pollen from stamens (male) clings to them. At the same time pollen rubs off on the pistils (female). When the pollen is right, the pistil is fertilized.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Q. March in Missouri was unseasonably warm; then we had several nights at 20 degrees or lower. The leaves on my Nikko Blue hydrangeas died, and I’m sure the flower buds died too, but will I lose the plants themselves? And will the crab apple tree, its flowers now brown, produce any fruit this year?</p>
+      </block>
+      <block class="full_text">
+        <p>Too Warm Too Soon? Too Bad</p>
+        <p>Q. March in Missouri was unseasonably warm; then we had several nights at 20 degrees or lower. The leaves on my Nikko Blue hydrangeas died, and I'm sure the flower buds died too, but will I lose the plants themselves? And will the crab apple tree, its flowers now brown, produce any fruit this year?</p>
+        <p>A. Apple flowers need cross-pollination to set fruit, a process dependent on bees. As they buzz from tree to tree, burrowing into the flowers, pollen from stamens (male) clings to them. At the same time pollen rubs off on the pistils (female). When the pollen is right, the pistil is fertilized.</p>
+        <p>This usually takes many bee visits, and bees are fussy about flower color, so even the lightest frost-browning spells trouble. And if the pistils are frozen at any stage, there will be no crop.</p>
+        <p>It is probably too soon for a verdict on the hydrangeas. They can be slow to recover after suffering such a blow, so there is still a chance that new leaves will sprout somewhere low on the plant.</p>
+        <p>If they do, prune down to the new growth. If stems still seem dead after three weeks or so, scrape off a bit of bark. Green underneath is a sign of life -- counsel to more patience.</p>
+        <p>Alternatively, you could take this year as a warning and replace the Nikko Blues with something more reliable. You might choose a blue that is especially hardy, like the beautiful lace cap Blue Billow. Or even better, switch to varieties that can bloom on new growth, like Endless Summer or the less common Penny Mac.</p>
+        <p>Endless Summer is widely available; the others are sold by specialists including Wilkerson Mill Gardens, hydrangea.com, or (770) 463-2400, and Hydrangeas Plus, (866) 433-7896 or hydrangeasplus.com.</p>
+        <p>In many temperate areas, global climate change is likely to make ''hot, then not'' a pattern instead of a fluke. To prepare, plant new fruit trees on north-facing slopes to discourage early flowering. Leave winter mulch in place as long as possible to keep the ground from warming too soon. And although rain may be ample now, try to choose new plants that tolerate drought. That too is predicted to be a problem sooner than later.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

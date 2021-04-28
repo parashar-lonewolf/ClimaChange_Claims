@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Whitman Defends Bush on Emissions</title>
+    <meta content="Y17WHIT" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/03/17/politics/17WHIT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1278433"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Kyoto Protocol</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Whitman, Christie (Admr)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">California</location>
+        <org class="online_producer">Environmental Protection Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010317T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E3D9153DF934A25750C0A9679C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Whitman Defends Bush on Emissions</hl1>
+      </hedline>
+      <dateline>WASHINGTON, March 16</dateline>
+      <abstract>
+        <p>Christie Whitman, administrator of Environmental Protection Agency, defends Pres Bush's reversal of his pledge to reduce carbon dioxide emissions by power plants, saying action is effort to maintain balanced energy supply; previously, Whitman had repeatedly indicated that administration would keep promise on carbon dioxide (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In her first public comments since President Bush reversed a pledge to reduce carbon dioxide emissions by power plants, Christie Whitman, the administrator of the Environmental Protection Agency, defended the action today as an effort to maintain a balanced energy supply.</p>
+        <p>Mrs. Whitman, who had repeatedly indicated that the administration would keep the promise on carbon dioxide, said Mr. Bush and his advisers became worried that capping emissions could cause the energy problems in California to spread.</p>
+      </block>
+      <block class="full_text">
+        <p>In her first public comments since President Bush reversed a pledge to reduce carbon dioxide emissions by power plants, Christie Whitman, the administrator of the Environmental Protection Agency, defended the action today as an effort to maintain a balanced energy supply.</p>
+        <p>Mrs. Whitman, who had repeatedly indicated that the administration would keep the promise on carbon dioxide, said Mr. Bush and his advisers became worried that capping emissions could cause the energy problems in California to spread.</p>
+        <p>''He didn't want to do anything that was going to discourage decisions that would result in a better mix of energy,'' Mrs. Whitman said  at the National Press Club. She also said Mr. Bush determined that proposing carbon dioxide restrictions could complicate his efforts to lower emissions of other harmful gases.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

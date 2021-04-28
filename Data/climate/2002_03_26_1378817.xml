@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Change: Something to Sneeze At</title>
+    <meta content="26CONS" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/03/26/health/26CONS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1378817"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="VITAL SIGNS: CONSEQUENCES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Allergies</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">Harvard University</org>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Allergies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Allergies</classifier>
+        <classifier class="online_producer" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7DB1F38F935A15750C0A9649C8B63" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Change: Something to Sneeze At</hl1>
+        <hl2 class="online_headline">Consequences: Climate Change: Something to Sneeze At</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Researchers at Harvard University find that higher level of carbon dioxide in atmosphere, which contributes to global warming, is helping ragweed to thrive and triggering allergy attacks; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If predictions of global warming prove true, allergy sufferers may have it especially bad.</p>
+        <p>Researchers at Harvard have found that a higher level of carbon dioxide in the atmosphere, which contributes to global warming, acts like a supercharger for ragweed, the bane of many people with allergies.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If predictions of global warming prove true, allergy sufferers may have it especially bad.</p>
+      </block>
+      <block class="full_text">
+        <p>If predictions of global warming prove true, allergy sufferers may have it especially bad.</p>
+        <p>Researchers at Harvard have found that a higher level of carbon dioxide in the atmosphere, which contributes to global warming, acts like a supercharger for ragweed, the bane of many people with allergies.</p>
+        <p>When the lead researcher, Dr. Peter Wayne, and his colleagues used greenhouses to create an environment with double the normal carbon dioxide levels, the ragweed plants thrived, growing taller and bushier and producing more seeds. The plants also produced 61 percent more pollen than ragweed plants grown in greenhouses with normal atmospheres.</p>
+        <p>Dr. Paul Epstein, one of the researchers, said the findings might represent another, unexpected consequence of global warming. And the implications go beyond just the misery associated with allergies like hay fever. Plant allergens are believed to aggravate asthma.</p>
+        <p>The article, published this month in The Annals of Allergy, Asthma and Immunology, noted that carbon dioxide concentrations in the atmosphere were believed to have gone up 29 percent since preindustrial times. By some projections, they will double in the next 50 to 100 years. Meanwhile, the researchers said, hay fever and asthma have also been on the rise.</p>
+        <p>But experts cautioned against jumping to conclusions. No one is sure why the incidence of asthma is going up, though much speculation has centered on the role of indoor pollutants, dietary changes and certain types of pollution.</p>
+        <p>Also, there are vast differences between a greenhouse and the real world. The authors noted that global warming was likely to be accompanied by a variety of climate changes, including in rainfall, and these could also affect the growth of allergy-causing plants.</p>
+        <p>VITAL SIGNS: CONSEQUENCES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

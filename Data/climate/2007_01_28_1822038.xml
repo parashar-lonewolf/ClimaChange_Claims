@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Samantha Chapman, Adam Langley</title>
+    <meta content="28CHAPMAN" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/28/fashion/weddings/28CHAPMAN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822038"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Chapman, Samantha K.</person>
+        <person class="indexing_service">Langley J. Adam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E5DC173FF93BA15752C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Samantha Chapman, Adam Langley</hl1>
+        <hl2 class="online_headline">Samantha Chapman, Adam Langley</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Samantha K. Chapman, a daughter of RoseMary and Thomas A. Chapman of Fort Washington, Pa., was married last evening to J. Adam Langley, a son of Deborah and Larry Langley of Boone, N.C. The Rev. Linda Noonan, a United Methodist minister, officiated at the Franklin Institute in Philadelphia.</p>
+        <p>Both the bride, 30, and the bridegroom, 31, are postdoctoral research fellows at the Smithsonian Environmental Research Center in Edgewater, Md. The bride does ecological research in tropical mangrove ecosystems, and the bridegroom studies how coastal salt marshes respond to simulated future carbon dioxide levels. They met at Northern Arizona University, where each received a Ph.D. in biology.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Samantha K. Chapman, a daughter of RoseMary and Thomas A. Chapman of Fort Washington, Pa., was married last evening to J. Adam Langley, a son of Deborah and Larry Langley of Boone, N.C. The Rev. Linda Noonan, a United Methodist minister, officiated at the Franklin Institute in Philadelphia.</p>
+      </block>
+      <block class="full_text">
+        <p>Samantha K. Chapman, a daughter of RoseMary and Thomas A. Chapman of Fort Washington, Pa., was married last evening to J. Adam Langley, a son of Deborah and Larry Langley of Boone, N.C. The Rev. Linda Noonan, a United Methodist minister, officiated at the Franklin Institute in Philadelphia.</p>
+        <p>Both the bride, 30, and the bridegroom, 31, are postdoctoral research fellows at the Smithsonian Environmental Research Center in Edgewater, Md. The bride does ecological research in tropical mangrove ecosystems, and the bridegroom studies how coastal salt marshes respond to simulated future carbon dioxide levels. They met at Northern Arizona University, where each received a Ph.D. in biology.</p>
+        <p>The bride will continue to use her name professionally. She graduated from Pennsylvania State University. Her father is a director of purchasing at Rohm &amp; Haas, a chemical company in Philadelphia. Her mother conducts training and coordinates workshops on workplace safety at McNeil Pharmaceuticals in Fort Washington.</p>
+        <p>The bridegroom graduated from North Carolina State University. His parents own Langley Associates, a house design and construction company in Boone.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

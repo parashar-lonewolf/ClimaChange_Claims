@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="604161"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFD7103AF930A15757C0A965958260" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>U.S. Role in Nuclear Issue</p>
+        <p>The United States offered to take part in talks to resolve North Korea's refusal to abide by an international treaty on nuclear weapons. Page A10. Lawmakers Support Reno</p>
+        <p>Attorney General Janet Reno was praised in Congress for her handling of the assault on the cult compound in Texas, but the agency involved in the initial raid is under fire. Page A20. Germany Cuts Interest Rates</p>
+        <p>The German central bank again lowered two key interest rates amid signs that Germany's recession had worsened substantially. Page D1. Italian Premier Resigns</p>
+        <p>Prime Minister Giuliano Amato of Italy formally resigned, opening what is likely to be intense political competition over a successor. Page A9. Holtzman's Bank Got Job</p>
+        <p>As the New York City Comptroller was renegotiating a loan, her office recommended a branch of the bank to become a bond underwriter. Page B1. Ozone Loss Goes On</p>
+        <p>The atmospheric ozone layer declined this year in the Northern Hemisphere, scientists say, but the effect may not last. Page A24.</p>
+      </block>
+      <block class="full_text">
+        <p>U.S. Role in Nuclear Issue</p>
+        <p>The United States offered to take part in talks to resolve North Korea's refusal to abide by an international treaty on nuclear weapons. Page A10. Lawmakers Support Reno</p>
+        <p>Attorney General Janet Reno was praised in Congress for her handling of the assault on the cult compound in Texas, but the agency involved in the initial raid is under fire. Page A20. Germany Cuts Interest Rates</p>
+        <p>The German central bank again lowered two key interest rates amid signs that Germany's recession had worsened substantially. Page D1. Italian Premier Resigns</p>
+        <p>Prime Minister Giuliano Amato of Italy formally resigned, opening what is likely to be intense political competition over a successor. Page A9. Holtzman's Bank Got Job</p>
+        <p>As the New York City Comptroller was renegotiating a loan, her office recommended a branch of the bank to become a bond underwriter. Page B1. Ozone Loss Goes On</p>
+        <p>The atmospheric ozone layer declined this year in the Northern Hemisphere, scientists say, but the effect may not last. Page A24.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

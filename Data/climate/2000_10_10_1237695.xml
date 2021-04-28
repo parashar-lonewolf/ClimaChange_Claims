@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On Climate Control</title>
+    <meta content="LTR232628" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237695"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4D7113CF933A25753C1A9669C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On Climate Control</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A climate policy that addresses methane and other greenhouse gases in addition to carbon dioxide is not a new idea; it is the current policy (Debate Rises Over a Quicker Climate Fix,'' Oct. 3).</p>
+        <p>Prof. Richard B. Stewart of New York University and I proposed this comprehensive approach in 1989.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A climate policy that addresses methane and other greenhouse gases in addition to carbon dioxide is not a new idea; it is the current policy (Debate Rises Over a Quicker Climate Fix,'' Oct. 3).</p>
+        <p>Prof. Richard B. Stewart of New York University and I proposed this comprehensive approach in 1989.</p>
+        <p>We showed that the comprehensive approach protects the climate much more effectively, by preventing the cross-gas shifts that would result from piecemeal regulation of one gas alone, and that it sharply reduces the cost of climate protection, by giving countries the flexibility to focus on restrictions where they are least costly.</p>
+        <p>The comprehensive approach became a centerpiece of United States policy in both the Bush and Clinton administrations, and it was adopted at the Rio Convention in 1992 and the Kyoto Protocol in 1997.</p>
+        <p>Dr. James E. Hansen, the NASA climate specialist, now emphasizes the air quality benefits of controlling gases besides carbon dioxide.  The plant fertilization benefits of carbon dioxide may offer a further reason to abate other gases more significantly.</p>
+        <p>The comprehensive approach matches the regulatory system to the climate system. It is a win-win solution: more environmental protection at less cost.</p>
+        <p>PROF. JONATHAN B. WIENER  Durham, N.C.</p>
+        <p>The writer is a professor at the Duke Law School and the Nicholas School of the Environment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

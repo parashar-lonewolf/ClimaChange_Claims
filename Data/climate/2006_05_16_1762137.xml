@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Time to Invest in Nuclear Power?</title>
+    <meta content="l16nuclear-3" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1762137"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <person class="indexing_service">Kuo, Gioietta</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E3DA153EF935A25756C0A9609C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Time to Invest in Nuclear Power?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from nuclear physicist Gioietta Kuo says nuclear energy is the only possible replacement for fossil fuel, at least from cost standpoint (May 13 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Whether we like nuclear energy or not, the sad reality is that there are no other options open to us.</p>
+        <p>Renewables like wind and solar energy are prohibitively expensive in capital cost, about $8,000 a kilowatt. Since wind does not blow and the sun doesn't shine all the time, there has to be a standby source of power for wind-solar lulls.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Whether we like nuclear energy or not, the sad reality is that there are no other options open to us.</p>
+        <p>Renewables like wind and solar energy are prohibitively expensive in capital cost, about $8,000 a kilowatt. Since wind does not blow and the sun doesn't shine all the time, there has to be a standby source of power for wind-solar lulls.</p>
+        <p>The only non-emitting carbon dioxide energy source that can replace the grid provided by fossil fuel plants is nuclear reactors.</p>
+        <p>The capital cost of nuclear reactors is a factor of 3 or more lower: around $2,000 a kilowatt. To replace present-day fossil fuel with nuclear reactors would cost around $1 trillion. Spread over 10 years, this becomes $100 billion a year.</p>
+        <p>Compared with the cost of the Iraq war or tax cuts to the rich, surely this sum is within reach?</p>
+        <p>Gioietta Kuo  Twain Harte, Calif., May 13, 2006</p>
+        <p>The writer is a nuclear physicist.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

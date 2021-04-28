@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Erasing the Footprint</title>
+    <meta content="02letters-1" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1773377"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <person class="indexing_service">Harman, Rob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE4DB1530F931A35754C0A9609C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Erasing the Footprint</hl1>
+      </hedline>
+      <abstract>
+        <p>Bonneville Environmental Foundation vice president Rob Harman letter on June 25 article about consumers' purchase of environmental offsets</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A New Way to Ask, 'How Green Is My Conscience?' '' (June 25), which described consumers' purchase of environmental offsets, to make up for the pollution caused by the events of everyday life:</p>
+        <p>As the article said, the challenge for consumers wishing to reduce their ''carbon footprint'' is to understand how much their dollars help the environment.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A New Way to Ask, 'How Green Is My Conscience?' '' (June 25), which described consumers' purchase of environmental offsets, to make up for the pollution caused by the events of everyday life:</p>
+        <p>As the article said, the challenge for consumers wishing to reduce their ''carbon footprint'' is to understand how much their dollars help the environment.</p>
+        <p>The carbon problem is an energy problem. The solution is to increase the amount of secure, domestic, renewable energy entering the grid. Planting trees may be a low-cost, short-term way to reduce carbon dioxide in the atmosphere, but it does nothing to address the underlying problem: an overreliance on fossil fuels.</p>
+        <p>Rob Harmon  Portland, Ore., June 26</p>
+        <p>The writer is a vice president of the Bonneville Environmental Foundation, which sells offsets generated from renewable energy projects.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

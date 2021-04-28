@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Geochemists Win Prizes in Earth Science</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Science; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="94524"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <person class="indexing_service">BROECKER, WALLACE S (DR)</person>
+        <person class="indexing_service">CRAIG, HARMON (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1D71031F93AA25752C1A961948260" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Geochemists Win Prizes in Earth Science</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Two geochemists who did pioneering work on the chemical relationships of the oceans and the atmosphere and the land have been awarded the 1987 Vetlesen Prize in the earth sciences.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Two geochemists who did pioneering work on the chemical relationships of the oceans and the atmosphere and the land have been awarded the 1987 Vetlesen Prize in the earth sciences.</p>
+        <p>Two geochemists who did pioneering work on the chemical relationships of the oceans and the atmosphere and the land have been awarded the 1987 Vetlesen Prize in the earth sciences.</p>
+        <p>Dr. Wallace S. Broecker of Columbia University's Lamont-Doherty Geological Observatory and Dr. Harmon Craig of the Scripps Institution of Oceanography at the University of California, in San Diego, shared the $100,000 prize.</p>
+        <p>The prize was established in 1959 to offer earth scientists an award comparable to the Nobel Prize.</p>
+        <p>In the mid-1970's, Dr. Broecker, 55 years old, helped revive interest in the ''greenhouse effect,'' warning that carbon dioxide released from burning fuels would spur global warming.</p>
+        <p>Dr. Craig, 61, showed that atmospheric methane had doubled in the past 300 years, a finding important to studies of climate warming.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

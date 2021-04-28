@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Value of Diversity</title>
+    <meta content="L20TEN$02" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1552345"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Tenure</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Engineering and Engineers</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <person class="indexing_service">Grasso, Domenico</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tenure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE2DD1F30F933A15752C0A9629C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Value of Diversity</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Domenico Grasso, Smith College, says apparent preference for males in tenured positions in engineering is more than academic problem; cites societal costs of lack of diversity (Jan 15 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Despite Gain in Degrees, Women Lag in Tenure in 2 Main Fields'' (news article, Jan. 15):</p>
+        <p>The improving number of women and minorities among engineering Ph.D.'s is heartening news.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Despite Gain in Degrees, Women Lag in Tenure in 2 Main Fields'' (news article, Jan. 15):</p>
+        <p>The improving number of women and minorities among engineering Ph.D.'s is heartening news.</p>
+        <p>But engineering's male cast is far more than an academic problem. The lack of diversity at the design table has had societal costs: environmentally hazardous facilities disproportionately located in low-income areas, cars designed without consideration of female drivers' proportions and safety needs, and the profligate use of nonrenewable resources like fossil fuels, to name only a few.</p>
+        <p>Good design begins in the classroom. With diversity of thought, perspective and experience, engineering's inequities -- and clear dangers -- can be averted.</p>
+        <p>DOMENICO GRASSO  Northampton, Mass., Jan. 16, 2004</p>
+        <p>The writer is director, Picker Engineering Program, Smith College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

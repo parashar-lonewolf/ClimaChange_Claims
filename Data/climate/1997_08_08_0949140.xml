@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Space Shuttle Blasts Off and Deploys a Scientific Satellite</title>
+    <meta content="08SHUT" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="949140"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Discovery (Space Shuttle)</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Shuttle</classifier>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Stations</classifier>
+        <person class="indexing_service">Broad, William J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970808T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EFDE153CF93BA3575BC0A961958260" item-length="564" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Space Shuttle Blasts Off and Deploys a Scientific Satellite</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM J. BROAD</byline>
+      <byline class="normalized_byline">Broad, William J</byline>
+      <dateline>CAPE CANAVERAL, Fla., Aug. 7</dateline>
+      <abstract>
+        <p>Space shuttle Discovery and crew of six astronauts blasts off on mission to deploy scientific satellite that tracks atmospheric pollution and to test new kind of robotic arm that one day might aid experimenters on international space station (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The space shuttle Discovery and a crew of six astronauts blasted off today on a mission to deploy a scientific satellite that tracks atmospheric pollution and to test a new kind of robotic arm that one day might aid experimenters on the international space station.</p>
+        <p>The 11-day mission got off to a flawless start from the Kennedy Space Center here at 10:41 A.M., right on time despite scattered clouds and the threat of rain. Launchings without serious delays are starting to take place regularly here, a testament to good planning, management and luck.</p>
+      </block>
+      <block class="full_text">
+        <p>The space shuttle Discovery and a crew of six astronauts blasted off today on a mission to deploy a scientific satellite that tracks atmospheric pollution and to test a new kind of robotic arm that one day might aid experimenters on the international space station.</p>
+        <p>The 11-day mission got off to a flawless start from the Kennedy Space Center here at 10:41 A.M., right on time despite scattered clouds and the threat of rain. Launchings without serious delays are starting to take place regularly here, a testament to good planning, management and luck.</p>
+        <p>The Discovery soared to a height of 185 miles, the altitude at which it will orbit Earth. The flight is the sixth this year and the 86th since the winged spaceships first thundered aloft 16 years ago.</p>
+        <p>The $73 million satellite, which the astronauts deployed this evening, is reusable and is to be retrieved after eight days in space and returned to the Kennedy Space Center when the crew is scheduled to land on Aug. 18. Its three super-cooled telescopes are to track how chemicals are eating up Earth's protective ozone layer, which blocks out harmful solar rays that can damage plants and cause skin cancer.</p>
+        <p>Dr. Jack A. Kaye, an atmospheric scientist at the Washington headquarters of the National Aeronautics and Space Administration, said in an interview that telescopes could track ozone destroyers like hydrocarbons and chloroflourocarbons ''in unprecedented detail.''</p>
+        <p>While the ozone layer is continuously created and destroyed naturally, man-made chemicals that waft up into the stratosphere are throwing the process out of balance.</p>
+        <p>The shuttle-satellite payload, known as the Cryogenic Infrared Spectrometers and Telescopes for the Atmosphere, flew once before on a mission in November 1994. Dr. Kaye said deploying the instrument in the summer rather than winter would allow scientists to make seasonal comparisons of the rate of ozone destruction.</p>
+        <p>The Discovery astronauts plan to test a new miniature shuttle robot arm designed by Japanese scientists for the international space station, on which construction work in space is to begin next year. The $87 million arm features very fine control and is about five feet long, compared with the 60-foot arm on the space shuttles.</p>
+        <p>The astronauts will also point a seven-inch ultraviolet telescope out the shuttle's windows to observe the Hale-Bopp comet.</p>
+        <p>The Discovery is also carrying a payload designed and built by students -- 85 undergraduates and 15 graduates of the University of Colorado. Their experiment in the shuttle's payload bay is to probe the mysteries of the Sun's radiation, seeking to correlate solar activity with the flux of X-rays and ultraviolet radiation.</p>
+        <p>Such studies can help illuminate changes in Earth's layer of stratospheric ozone, which is created as the Sun's ultraviolet rays hit the upper atmosphere and break apart molecular oxygen (O2 ) so that if forms the ozone molecule (O3 ).</p>
+        <p>The Discovery's commander is Lieut. Col. Curtis L. Brown Jr. of the Air Force, who is making his fourth shuttle flight. The pilot is Comdr. Kent V. Rominger of the Navy, a two-time shuttle veteran.</p>
+        <p>The mission specialists are Dr. N. Jan Davis, a mechanical engineer; Lieut. Comdr. Robert L. Curbeam Jr., of the Navy; Dr. Stephen K. Robinson, a mechanical engineer, and Bjarni V. Tryggvason, a Canadian born in Reykjavik, Iceland.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

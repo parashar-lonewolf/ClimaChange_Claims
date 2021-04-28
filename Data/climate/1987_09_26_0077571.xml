@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Acid-Rain Researcher Submits Resignation</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="77571"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <person class="indexing_service">KULP, LAURENCE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D61230F935A1575AC0A961948260" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Acid-Rain Researcher Submits Resignation</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, Sept. 25</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Government researcher who directed the production of a controversial report on acid rain has resigned for what he said were personal reasons.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Government researcher who directed the production of a controversial report on acid rain has resigned for what he said were personal reasons.</p>
+        <p>The Government researcher who directed the production of a controversial report on acid rain has resigned for what he said were personal reasons.</p>
+        <p>The official, Laurence Kulp, said he would step down Oct. 3 from his post as research director of the National Acid Precipitation Assessment Program, the interagency group that has spent more than $300 million since 1980 in an effort to learn more about acid rain.</p>
+        <p>The program's interim report, issued Sept. 17, concluded there was no evidence that a significant number of Northeastern lakes would get much more acidic under current levels of acid rain, but lakes in the Southeast could continue to worsen.</p>
+        <p>Environmentalists assert that acid rain is acidifying lakes in the Northeast to the point that fish are killed. Several groups attacked the interim report summary as a distortion of the scientific reports on which it was based.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

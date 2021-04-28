@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="248389"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <object.title class="indexing_service">Q&amp;A (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3D71F3DF93AA35756C0A96F948260" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Yawning  Q. Why do my mouth and eyes sometimes water when I yawn?  A. The American Medical Association says that medical authorities believe the watering of the eyes may result from pressure on the main tear glands, at the outer margins of the eye sockets, because of the facial contortions involved in yawning.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Yawning  Q. Why do my mouth and eyes sometimes water when I yawn?  A. The American Medical Association says that medical authorities believe the watering of the eyes may result from pressure on the main tear glands, at the outer margins of the eye sockets, because of the facial contortions involved in yawning.</p>
+        <p>Yawning  Q. Why do my mouth and eyes sometimes water when I yawn?  A. The American Medical Association says that medical authorities believe the watering of the eyes may result from pressure on the main tear glands, at the outer margins of the eye sockets, because of the facial contortions involved in yawning. The involuntary act of yawning usually includes opening the mouth very wide while slowly taking in a deep breath.</p>
+        <p>The same contortions might also put pressure on the salivary glands, especially in a stifled yawn, when the yawner struggles to keep the mouth closed while opening the throat wide.</p>
+        <p>There are three pairs of salivary glands: two over the angle of the jaws; two in the floor of the front of the mouth, and two toward the back of the mouth close to the sides of the jaws.</p>
+        <p>It is still not known exactly why people yawn or why yawning is contagious. One theory suggests that yawning is triggered by increased levels of carbon dioxide in the blood, but other studies have contradicted this.</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

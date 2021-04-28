@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Underground Water Used For Power</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="53451"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="BUSINESS TECHNOLOGY: ADVANCES IN ENERGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">STEAM</classifier>
+        <classifier class="indexing_service" type="descriptor">RESERVOIRS</classifier>
+        <classifier class="indexing_service" type="descriptor">GEOTHERMAL POWER</classifier>
+        <person class="indexing_service">SIMS, CALVIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geothermal Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waterways and Other Bodies of Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870701T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DA1031F932A35754C0A961948260" item-length="1061" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Underground Water Used For Power</hl1>
+      </hedline>
+      <byline class="print_byline">By CALVIN SIMS</byline>
+      <byline class="normalized_byline">SIMS, CALVIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: FOR decades, electric utilities and oil companies that were lucky enough to find very hot geothermal reserves on their land have operated small power plants that generate electricity from steam produced by the earth's natural heat. While the amount of power produced from such plants has been limited, it has enabled the companies to save millions of dollars in production costs.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: FOR decades, electric utilities and oil companies that were lucky enough to find very hot geothermal reserves on their land have operated small power plants that generate electricity from steam produced by the earth's natural heat. While the amount of power produced from such plants has been limited, it has enabled the companies to save millions of dollars in production costs.</p>
+        <p>FOR decades, electric utilities and oil companies that were lucky enough to find very hot geothermal reserves on their land have operated small power plants that generate electricity from steam produced by the earth's natural heat. While the amount of power produced from such plants has been limited, it has enabled the companies to save millions of dollars in production costs.</p>
+        <p>Now engineers are trying to produce power from the more common underground reserves that contain hot water instead of steam.</p>
+        <p>A traditional geothermal power plant is a relatively simple operation. Dry steam, which forms in reservoirs beneath the surface of the earth, is used to power a turbine that drives a generator. Although these reservoirs are easy to tap - in simple terms, by drilling a deep well and inserting a pipe - they are seldom found.</p>
+        <p>Most of the known geothermal reserves are of moderate temperature - no more than 400 degrees - and contain mostly hot water. Thus, energy concerns have been concentrating on converting these more abundant liquid reservoirs into electricity.  * * *</p>
+        <p>A process called the binary system, because it employs two fluids to generate power, has demonstrated commercial viability in recent years, and it has been employed in six geothermal power plants in the Western United States.</p>
+        <p>Now, engineers are trying to use the process on a considerably larger scale than had previously been tried. Although the current price of oil does not yet make the technology competitive with fossil fuels, energy experts expect both oil prices and the demand for electricity to increase - factors they say will ultimately make the binary system more cost efficient.</p>
+        <p>The largest geothermal power plant using the binary technology is in operation in Heber, Calif., in the Imperial Valley. The plant uses the heat from the hot water to vaporize a liquid that has a low boiling point. This vapor fuels the generator.  The Heber plant, which is designed to have an ultimate capacity of 50 megawatts of power, is about five times larger than any other of its kind and has already passed early performance tests. Fifty megawatts is enough power to supply a community of 50,000 people.</p>
+        <p>''This cycle is probably the most significant advance in geothermal technology to date, and the Heber plant is proving that it can be done on a large scale,'' said James Koenig, president of Geothermex Inc., a geothermal energy consulting firm in Richmond, Calif.</p>
+        <p>Mr. Koenig said that the costs of building and operating binary cycle plants were lower than most conventional geothermal projects because less surveying and drilling are required to locate moderate-temperature reserves.</p>
+        <p>The United States Geological Survey estimates that the accessible geothermal heat deposits in this country contain an energy equivalent of about 430 billion barrels of oil, or enough to provide power for the whole United States for 47 years. More than 80 percent of those reserves are of the moderate-temperature type.</p>
+        <p>By 1995, the Electric Power Research Institute, an industry research group, estimates, 4,700 megawatts of geothermal generating capacity will be in place in the United States, compared with about 2,000 to 2,500 megawatts of capacity now.  * * *</p>
+        <p>As its name implies, the binary system contains two separate parts or loops: one for the hot water, the ''geofluid,'' and another for the working fluid, a hydrocarbon with a low boiling point.</p>
+        <p>In the first loop, the geofluid is pumped from the reservoir 4,000 to 10,000 feet below the ground and into heat exchangers where it boils the working fluid - most commonly a chemical compound called isobutane - which vaporizes at a much lower temperature than the water coming from the earth.</p>
+        <p>The vapor from the working fluid begins the second loop, by turning the turbine, which powers the generator to make electricity. A condenser converts the vapor back into a fluid, which is then reheated in the system.</p>
+        <p>The used geofluid, which is cold water, is recycled into the reservoir, where it is reheated and channeled back through the system as well. Because the binary system is a closed system, none of the brine escapes into the atmosphere, where it would pose some danger to the environment.</p>
+        <p>An elaborate computer system with more than 400 sensors controls the Heber plant, monitoring the pressure, temperature and flow of the various working fluids to insure that the system works properly.</p>
+        <p>The Heber plant is a demonstration project built to prove the economics of the binary system on a grand scale. ''No utility will seriously consider this technology until it's proved on this grand scale,'' said Robert Lacy, project manager.</p>
+        <p>''We still have a long way to go because it's only operating at part load, but so far the part-load performance is better than we anticipated,'' Mr. Lacy added. The plant is not expected to reach full load for a few years.</p>
+        <p>Financing for the Heber project is being provided by the Government and private industry. Among the sponsors are the Electric Power Research Institute, the Department of Energy, and San Diego Gas and Electric, the regional utility.</p>
+        <p>Binary technology is not new. Its development was spurred by the rise in energy costs in the late 1970's and early 1980's, when the Government provided incentives for the development of new energy resources. Many of the recent advances in geothermal energy technology are the result of these incentives.</p>
+        <p>There are about 2,000 megawatts of geothermal power capacity installed in the Western United States. Of that, about 75 percent comes from the Geysers, the world's largest dry steam reservoirs, north of San Francisco. The Geysers provide electricity for about two million customers.</p>
+        <p>Among the sellers of geothermal power are the Unocal Corporation, which operates much of the Geysers; the Pacific Gas and Electric Company; the Southern California Edison Company; the San Diego Gas and Electric Company, and the Utah Power and Light Company.</p>
+        <p>Geothermal energy is used abroad as well. About 20 percent of the electricity in the Philippines is produced from geothermal resources. Mexico, China, Japan and the Soviet Union also have extensive developments.</p>
+        <p>BUSINESS TECHNOLOGY: ADVANCES IN ENERGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

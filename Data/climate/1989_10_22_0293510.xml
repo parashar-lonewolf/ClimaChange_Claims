@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smaller Solar</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="293510"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="types_of_material">LETTER</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DE123AF931A15753C1A96F948260" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smaller Solar</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>For nearly two decades, Peter Glaser (''Power From Space Is Pollution Free,'' Oct. 1) has tried to convince the energy community that we should capture solar energy in space and beam space power back to terra firma. His scheme has never caught hold for two fundamental reasons:</p>
+        <p>He has not shown that the marginal cost of collecting energy in space, compared with ground based systems, repays the marginal cost. And public and private leaders have grown increasingly wary of large-scale energy schemes, particularly those that rely on large inputs and guarantees from the public.</p>
+        <p>The question is simple: Is energy the justification for a space program, or vice versa? With the growing evidence of climate change, better to get on with more mundane ways of generating clean energy, particularly using amorphous silicon photovoltaic cells for electricity and hydrogen, energy-efficiency, and perhaps a new kind of nuclear fission (or fusion that works), rather than the pie-in-the-sky Mr. Glaser has proposed for so long.  DR. LEE SCHIPPER  Co-leader  International Energy Studies  Lawrence Berkeley Laboratory  Berkely, Calif., Oct. 2.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

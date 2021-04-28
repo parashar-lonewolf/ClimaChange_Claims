@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shuttle Lands in Florida After 9-Day Mission</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="518615"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE SHUTTLE</classifier>
+        <classifier class="indexing_service" type="descriptor">ATLANTIS (SPACE SHUTTLE)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DD1539F930A35757C0A964958260" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shuttle Lands in Florida After 9-Day Mission</hl1>
+      </hedline>
+      <dateline>CAPE CANAVERAL, Fla. April 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The space shuttle Atlantis glided safely back to earth today after a nine-day mission that the space agency said was nearly flawless.</p>
+        <p>The Atlantis, with its crew of seven, rolled to a stop under clear skies on a runway at the Kennedy Space Center about 6:25 A.M. It circled the globe 142 times while the crew conducted a series of observations on the chemistry and physics of the earth's upper atmosphere.</p>
+      </block>
+      <block class="full_text">
+        <p>The space shuttle Atlantis glided safely back to earth today after a nine-day mission that the space agency said was nearly flawless.</p>
+        <p>The Atlantis, with its crew of seven, rolled to a stop under clear skies on a runway at the Kennedy Space Center about 6:25 A.M. It circled the globe 142 times while the crew conducted a series of observations on the chemistry and physics of the earth's upper atmosphere.</p>
+        <p>"We believe it was an outstanding mission," said William B. Lenoir, associate administrator of the National Aeronautics and Space Administration. "The vehicle performed very very well."</p>
+        <p>Daniel S. Goldin watched his first shuttle landing as NASA's administrator just three days after being confirmed by the Senate. He replaced Richard Truly, who was ousted earlier this year by the Bush Administration in a conflict over the direction of the space effort.</p>
+        <p>"When Atlantis touched down on the runway, I was teary-eyed." Mr. Goldin said.</p>
+        <p>The shuttle's Florida landing is just the 9th at Kennedy in a series of 46 shuttle flights in the last 11 years. Each Kennedy landing saves NASA at least $900,000 because it is not necessary to ferry the shuttle back from the landing site at Edwards Air Force Base in California.  New Shuttle on Line</p>
+        <p>Of the eight shuttle launches scheduled this year, NASA officials hope to land five at Kennedy. The Endeavour, the newest member of the space agency's four-shuttle fleet, is scheduled to be launched the first week of May.</p>
+        <p>Atlantis carried into orbit a laboratory called Atlas, short for atmospheric laboratory for applications and science, a multi-national effort involving NASA, The European Space Agency, Belgium, France, Germany, Japan, the Netherlands and Switzerland.</p>
+        <p>Results from some experiments, including tests to measure the depletion of the earth's ozone layer, may not be known for several months, said Lennard Sisk, the space agency's associate administrator for space science and applications. He said the mission is one of a series the agency hopes to undertake to study the earth's atmosphere.</p>
+        <p>In addition to Colonel Bolden, the crew members were Dr. Kathyrn D. Sullivan, a scientist; Lieut. Col. Brian Duffy of the Air Force; Capt. David C. Leestma of the Navy; Dr. Byron K. Lichtenberg, a biomedical engineer; Dr. Michael Foale, a British physicist, and Dr. Dirk D. Frimout, a physicist who was the first Belgian to fly into space.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

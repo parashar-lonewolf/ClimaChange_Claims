@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="28OBSE" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/10/28/science/28OBSE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1530690"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bees</classifier>
+        <classifier class="indexing_service" type="descriptor">Honey</classifier>
+        <classifier class="indexing_service" type="descriptor">Navigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Mountains</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Asteroids</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <location class="indexing_service">Germany</location>
+        <location class="indexing_service">Andes (Mountains)</location>
+        <location class="indexing_service">Arizona</location>
+        <org class="indexing_service">Proceedings of the Royal Society of Britain</org>
+        <org class="indexing_service">Oxford University</org>
+        <org class="indexing_service">University of California (Los Angeles)</org>
+        <org class="indexing_service">Science (Journal)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Mountains</classifier>
+        <classifier class="online_producer" type="descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mountains</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Honey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E0DC1031F93BA15753C1A9659C8B63" item-length="661" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Supernavigators Secret</hl2>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <abstract>
+        <p>British and German researchers publish findings in Proceedings of Royal Society of Britain that conclude honeybees use vector navigation to find their home base; Oxford University and University of California at Los Angeles scientists, reporting in journal Science, explain theory in which development of mountain ranges is directly effected by amount of lubrication on sliding tectonic plates; Andes are hypothesized to be higher because of less available sediment lubrication; Hermes, asteroid recently re-discovered by Arizona astronomer, is found by UCLA researchers to be binary asteroid; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Supernavigator's Secret</p>
+        <p>Honeybees can go home again, and again, and again. Their ability to return directly to the hive after a rambling flight in pursuit of food is remarkable, although exactly how they accomplish this has been unclear.</p>
+        <p>The most reasonable explanation is that, like some other insects, they use vector navigation, constantly calculating the required direction of homeward travel from their movements during foraging.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This weeks column includes items on the navigation of honeybees, why the Andes are so tall, and the rediscovery of a long-lost asteroid.</p>
+      </block>
+      <block class="full_text">
+        <p>Supernavigator's Secret</p>
+        <p>Honeybees can go home again, and again, and again. Their ability to return directly to the hive after a rambling flight in pursuit of food is remarkable, although exactly how they accomplish this has been unclear.</p>
+        <p>The most reasonable explanation is that, like some other insects, they use vector navigation, constantly calculating the required direction of homeward travel from their movements during foraging.</p>
+        <p>Using radar, scientists from Britain and Germany have now provided strong evidence that honeybees navigate this way. The researchers outfitted honeybees with tiny transponders so they could be tracked.</p>
+        <p>In a large mown field outside a German village, they allowed the bees to reach a feeding station. But before the bees left to return to the hive, the researchers moved them to another location in the field. A paper describing the work was published online in The Proceedings of the Royal Society of Britain.</p>
+        <p>The researchers found that the displaced bees still flew in the direction that would have taken them home from the feeding station. In other words, they used the navigational calculations they had made while foraging. Some even completed the entire length of what would have been the return flight before starting to search for their hives.</p>
+        <p>The bees appeared to be on automatic pilot; they ignored large artificial landscape features placed in the return path and compensated for wind drift. Previous studies have shown that bees measure distance traveled using the flow of images of the ground across their retinas. The researchers suggest that bees are using this tool, plus their ability to orient themselves according to the sun's angle in the sky, to make their return journeys.</p>
+        <p>Up, Up Go the Andes</p>
+        <p>A little lubricant helps most things work better, but it doesn't do much for mountain ranges. Those that are formed through tectonics -- by the sliding of one plate under the other, a process called subduction -- will be higher if the friction and shear stresses between the two plates are strong.</p>
+        <p>But if there is a lubricant acting between the two plates, the stresses will be weaker and the mountains will not rise as high.</p>
+        <p>That concept, scientists from Oxford and the University of California at Los Angeles say, helps explain why the Andes, the spine of South America, are so tall. For much of their recent history, the scientists say in a paper in the journal Nature, the Andes haven't had much lubrication, and the climate may be the reason.</p>
+        <p>The Andes were formed by the oceanic Nazca plate's sliding under and pushing up the continental South American plate. The lubricant that would make things more slippery is sediment washed down from the emerging mountains into the trench that forms where the Nazca dives beneath the South American plate.</p>
+        <p>The researchers suggest that the climate change that occurred in the past 50 million years, notably the cooling of coastal currents in the Pacific, made the west coast of South America extremely arid. This reduced the amount of erosion, and thus the quantity of sediment reaching the trenches. Shear stresses then increased, forcing the Andes ever higher.</p>
+        <p>An Asteroid's Surprise</p>
+        <p>Hermes, the long-lost asteroid that astronomers were stunned to rediscover this month, has been found to harbor another surprise: it is not one rock, but two.</p>
+        <p>Hermes was discovered in 1937, shortly before it made a close approach to Earth. It was lost within days, however, and remained so until an Arizona astronomer spotted it on Oct. 15.</p>
+        <p>Now, researchers at U.C.L.A., using radar-telescope observations made in the days after the rediscovery, have determined that Hermes is actually two asteroids orbiting each other. Such binary asteroids are not unknown, but the researchers say that Hermes is unusual in that the rocks are roughly the same size -- about a quarter-mile in diameter.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

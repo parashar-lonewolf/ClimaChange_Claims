@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kyoto Treaty: The Future Is Now</title>
+    <meta content="LTR000126" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1540668"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">SustainUS</org>
+        <person class="indexing_service">Paul, Scott</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEED6143DF936A35751C1A9659C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kyoto Treaty: The Future Is Now</hl1>
+      </hedline>
+      <abstract>
+        <p>SustainUS chairman Scott�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Kyoto Protocol in Peril'' (editorial, Dec. 4): You rightly point out that the Bush administration's approach to greenhouse gases ''would translate into an actual increase in emissions of 14 percent over the next decade.'' If America fails to act within that time frame, it will be effectively passing the buck -- to its children.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Kyoto Protocol in Peril'' (editorial, Dec. 4): You rightly point out that the Bush administration's approach to greenhouse gases ''would translate into an actual increase in emissions of 14 percent over the next decade.'' If America fails to act within that time frame, it will be effectively passing the buck -- to its children.</p>
+        <p>Investments in technological solutions may help, but without short-term regulatory control, America's next generation will inherit an economic and ecological burden far more imposing than that we face today. For tomorrow's leaders to preserve our standard of living, we need concerted action today.</p>
+        <p>SCOTT PAUL  New York, Dec. 4, 2003</p>
+        <p>The writer is chairman of SustainUS.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

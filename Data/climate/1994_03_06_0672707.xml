@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN SHORT: NONFICTION</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="672707"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">MARANTO, GINA</person>
+        <person class="indexing_service">HARTE, JOHN</person>
+        <object.title class="indexing_service">GREEN FUSE, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940306T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5D8103AF935A35750C0A962958260" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN SHORT: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By Gina Maranto</byline>
+      <byline class="normalized_byline">MARANTO, GINA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ENVIRONMENT  THE GREEN FUSE  An Ecological Odyssey. By John Harte. University of California, $15.</p>
+      </block>
+      <block class="full_text">
+        <p>ENVIRONMENT  THE GREEN FUSE  An Ecological Odyssey. By John Harte. University of California, $15.</p>
+        <p>From the wilds of southwest Alaska to the windswept plains of central China, John Harte has plied his trade, puzzling out the flows of energy and intricate biogeochemical cycles that drive life on earth. In "The Green Fuse," an account of his research, Mr. Harte, a professor of energy and resources at the University of California, Berkeley, issues an alert to the large-scale and possible long-term environmental consequences of industrial society. A facile writer, the author provides lucid and inventive explanations of such staples of Ecology 101 as the nitrogen cycle, and artfully carries the reader through chains of associations from the atomic to the global scale and back again. In one chapter, for example, a description of a field study in the Colorado Rockies of a unique population of aquatic tiger salamanders leads to discussions of acid rain (Mr. Harte was among the first to measure this form of pollution in the mountainous West), soils, snowpacks, the Monteverde Cloud Forest Reserve in Costa Rica and global warming. A few quibbles aside, this is a lovely narrative, one that would serve well as an introductory text on the practice and principles of ecology.  GINA MARANTO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

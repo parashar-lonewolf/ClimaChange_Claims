@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lowering the Global Thermostat</title>
+    <meta content="LTR231513" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217237"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Forests and Forestry</classifier>
+        <person class="indexing_service">Niles, John O</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFDF123AF930A15754C0A9669C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lowering the Global Thermostat</hl1>
+      </hedline>
+      <abstract>
+        <p>John O Niles letter responds to Bob Herbert's July 17 column on global warming; contends destruction of rain forests causes approximately 20 percent of greenhouse gas emissions worldwide</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bob Herbert (''Global Cooling,'' column, July 17) could have mentioned another way to reduce global warming: policies that slow tropical deforestation. The destruction of rain forests causes approximately 20 percent of greenhouse gas emissions worldwide.</p>
+        <p>By helping interested countries conserve their forests, Americans can also maintain an ecosystem that, in some cases, removes gases already in the atmosphere. These forests also buffer equatorial solar radiation.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bob Herbert (''Global Cooling,'' column, July 17) could have mentioned another way to reduce global warming: policies that slow tropical deforestation. The destruction of rain forests causes approximately 20 percent of greenhouse gas emissions worldwide.</p>
+        <p>By helping interested countries conserve their forests, Americans can also maintain an ecosystem that, in some cases, removes gases already in the atmosphere. These forests also buffer equatorial solar radiation.</p>
+        <p>Rain forests also protect genetic diversity that may be helpful in countering some of global warming's possible ills, like outbreaks of pests and viruses from the tropics. This is an affordable global insurance policy that enjoys international and bipartisan support but inadequate financing.</p>
+        <p>JOHN O. NILES  Stanford, Calif., July 17, 2000</p>
+        <p>The writer is a staff scientist at Stanford University's Center for Conservation Biology.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Perrier to Revise Its Label</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="380658"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOTTLED WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">LABELING AND LABELS</classifier>
+        <classifier class="indexing_service" type="descriptor">SALES</classifier>
+        <location class="indexing_service">FRANCE</location>
+        <location class="indexing_service">EUROPE</location>
+        <org class="indexing_service">SOURCE PERRIER SA</org>
+        <org class="indexing_service">EUROPEAN COMMUNITY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labeling and Labels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4DA1531F932A0575BC0A966958260" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Perrier to Revise Its Label</hl1>
+      </hedline>
+      <byline class="print_byline">Special to The New York Times</byline>
+      <dateline>PARIS, Aug. 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Perrier mineral water, having weathered a storm early this year about contamination of its water, now faces another blow: bowing to government pressure, it can no longer call its water ''naturally carbonated.''</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Perrier mineral water, having weathered a storm early this year about contamination of its water, now faces another blow: bowing to government pressure, it can no longer call its water ''naturally carbonated.''</p>
+        <p>Perrier mineral water, having weathered a storm early this year about contamination of its water, now faces another blow: bowing to government pressure, it can no longer call its water ''naturally carbonated.''</p>
+        <p>Facing objections from the French Government and the European Community, Source Perrier S.A. agreed to use labels on its bottles sold in Europe saying, ''Natural mineral water fortified with gas from the spring.''</p>
+        <p>Perrier was pressed to make the change because its water does not go directly from the spring into its green bottles.</p>
+        <p>Company officials say that to insure uniform gas levels in its water, they first separate the carbon dioxide from the water bubbling out of its famed spring in southern France. Then Perrier infuses the gas back into the water. But officials admit that more gas is mixed in by drilling deeper into the spring and by tapping pockets of natural carbon dioxide.</p>
+        <p>Last April, Perrier, under pressure from the Food and Drug Administration in the United States, agreed to delete the word ''naturally'' from its American labels. Beginning in October, Perrier bottles sold in the United States will say, ''The carbonation of Perrier mineral water comes from a naturally occurring source deep beneath the spring.''</p>
+        <p>Last February, scientists discovered traces of benzene, a cancer-causing chemical, in Perrier's water. Perrier recalled 160 million bottles after it was discovered that workers had not changed dirty filters that were failing to remove the benzene, which occurs naturally in the spring water.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

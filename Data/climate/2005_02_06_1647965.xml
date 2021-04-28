@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LIPA Approves Fuel Cell, To Be Completed by 2006</title>
+    <meta content="MB002541" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1647965"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Cells</classifier>
+        <location class="indexing_service">West Babylon (NY)</location>
+        <org class="indexing_service">Long Island Power Authority</org>
+        <person class="indexing_service">Ain, Stewart</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DEFDE1E3BF935A35751C0A9639C8B63" item-length="300" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LIPA Approves Fuel Cell, To Be Completed by 2006</hl1>
+      </hedline>
+      <byline class="print_byline">By Stewart Ain</byline>
+      <byline class="normalized_byline">Ain, Stewart</byline>
+      <abstract>
+        <p>Long Island Power Authority says it is ready to accept proposals to build and operate refrigerator-size fuel cell at West Babylon substation which could power about 10,000 homes (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Five years of experimenting with fuel cells to determine their reliability and compatibility with Long Island's electric grid ended Tuesday when the Long Island Power Authority said it was ready to accept proposals to build and operate the most powerful fuel cell in the country.</p>
+        <p>LIPA said the fuel cell, which would be about the size of a refrigerator and would be built at its West Babylon substation, would have to be able to produce 10 megawatts of electricity, enough to power about 10,000 homes. LIPA wants it up and running by the summer of 2006. The fuel cell would be powered by natural gas but eventually could run on hydrogen.</p>
+      </block>
+      <block class="full_text">
+        <p>Five years of experimenting with fuel cells to determine their reliability and compatibility with Long Island's electric grid ended Tuesday when the Long Island Power Authority said it was ready to accept proposals to build and operate the most powerful fuel cell in the country.</p>
+        <p>LIPA said the fuel cell, which would be about the size of a refrigerator and would be built at its West Babylon substation, would have to be able to produce 10 megawatts of electricity, enough to power about 10,000 homes. LIPA wants it up and running by the summer of 2006. The fuel cell would be powered by natural gas but eventually could run on hydrogen.</p>
+        <p>The experiments with fuel cells were part of LIPA's 10-year, $355-million Clean Energy Initiative established in 1998 to develop and use alternative and renewable energy sources.</p>
+        <p>Michael Lowndes, LIPA's director of media relations, said that a fuel cell of this capacity had never been built before in the United States but that the technology had proven itself in the last five years. During that time, he said, fuel cells scattered throughout the Island have produced 2.5 million kilowatt-hours of electricity, enough to power about 270 homes for one year.</p>
+        <p>''When we embarked on the program five years ago,'' Mr. Lowndes said, ''one of the first demonstration projects was at Brookhaven National Laboratory, and that one fuel cell filled an entire room. Now a fuel cell is the size of a refrigerator.''</p>
+        <p>Stewart Ain</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

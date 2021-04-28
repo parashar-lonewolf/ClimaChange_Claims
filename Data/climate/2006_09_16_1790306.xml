@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sahara</title>
+    <meta content="16roun-2" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1790306"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="TELEVISION IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E1DC1331F935A2575AC0A9609C8B63" item-length="342" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sahara</hl1>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>History Channel, tomorrow night at 8, Eastern and Pacific times; 7, Central time.</p>
+        <p>The documentary about the Sahara that the History Channel offers tomorrow night gives you a new appreciation of that vast desert's role in human history. But its most striking tidbit, especially for anyone still viewing global warming as some unborn generation's problem, is the glimpse it provides of our possible immediate future.</p>
+      </block>
+      <block class="full_text">
+        <p>History Channel, tomorrow night at 8, Eastern and Pacific times; 7, Central time.</p>
+        <p>The documentary about the Sahara that the History Channel offers tomorrow night gives you a new appreciation of that vast desert's role in human history. But its most striking tidbit, especially for anyone still viewing global warming as some unborn generation's problem, is the glimpse it provides of our possible immediate future.</p>
+        <p>The Sahara, the program relates, now three and a half million square miles and stretching over parts of 11 African nations, was an area of rivers and swamps and plant life 10,000 years ago. That was all upended with surprising speed.</p>
+        <p>''Probably within the space of one person's lifetime, there would have been dramatic changes, and areas would have become uninhabitable,'' Nick Brooks, a Saharan studies expert at the University of East Anglia in Britain, says on the program. The cause, the program says, is believed to have been a shift in the earth's tilt and orbit, but the lesson is applicable to things more man-made: radical climate change does not necessarily take millenniums.</p>
+        <p>Most of the program focuses on the Sahara's human rather than geological history, and it is rather surprising how much fuss has been made over this ''world of mesmerizing desolation,'' as the narration labels it. We meet once-great cities like Carthage and Timbuktu. We meet Romans and Berbers and Muslims and French Legionnaires. (The French come off looking particularly stupid, investing lots of effort and blood into conquering the Sahara only to realize after the fact that it had no value to them.)</p>
+        <p>We learn how ''The Marines' Hymn'' came to include that line about the shores of Tripoli, and we develop a new appreciation for camels, which have two sets of eyelids, one being transparent, allowing them to see in a sandstorm.</p>
+        <p>The presentation is as dry as the subject matter, sticking strictly to the talking-head/re-enactment formula (and the re-enactments here often have the look of a low-budget school pageant). But somehow it's all pretty interesting anyway.</p>
+        <p>NEIL GENZLINGER</p>
+        <p>TELEVISION IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

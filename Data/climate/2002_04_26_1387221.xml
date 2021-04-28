@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cooperation on Energy</title>
+    <meta content="L26GORE" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1387221"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <org class="indexing_service">National Assn of Manufacturers</org>
+        <person class="indexing_service">Jasinowski, Jerry J</person>
+        <person class="indexing_service">Gore, Al</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DF123EF935A15757C0A9649C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cooperation on Energy</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Jerry Jasinowski, president, National Assn of Manufacturers, says Al Gore should know that air quality has improved dramatically in last 30 years (Apr 21 Op-Ed)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Former Vice President Al Gore should know that our air quality has improved dramatically in the last 30 years (''The Selling of an Energy Policy,'' Op-Ed, April 21), and that this has occurred even as our population, economy, jobs and energy consumption have grown. In fact, history shows that without economic growth, there are no appreciable environmental improvements.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Former Vice President Al Gore should know that our air quality has improved dramatically in the last 30 years (''The Selling of an Energy Policy,'' Op-Ed, April 21), and that this has occurred even as our population, economy, jobs and energy consumption have grown. In fact, history shows that without economic growth, there are no appreciable environmental improvements.</p>
+        <p>Our best manufacturers and engineers work constantly on the next generation of cleaner, more efficient energy technologies and look forward to the day their products are economically viable. But for now, our economic health is tied to fossil fuels.</p>
+        <p>Mr. Gore complains about a conspiratorial executive branch. He should instead work with business to improve energy conservation and supply.</p>
+        <p>JERRY JASINOWSKI  President, National  Association of Manufacturers  Washington, April 22, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Solar Power From Space Grows More Feasible</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="49" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="496233"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOLAR ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DE123AF936A15751C1A967958260" item-length="1429" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Solar Power From Space Grows More Feasible</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It may sound like "Star Trek" several generations removed, but technology is moving toward a long-harbored dream of gathering the sun's energy in space and beaming it to earth for electric power.</p>
+        <p>In space, where there are no clouds and few shadows, solar-collecting cells could capture more sunlight than on earth. And now, as improvements in photovoltaic technology make harnessing solar power increasingly feasible, and as concern mounts about the environmental impact of burning fossil fuels, some scientists and engineers are devoting serious thought to the notion of electricity from outer space.</p>
+      </block>
+      <block class="full_text">
+        <p>It may sound like "Star Trek" several generations removed, but technology is moving toward a long-harbored dream of gathering the sun's energy in space and beaming it to earth for electric power.</p>
+        <p>In space, where there are no clouds and few shadows, solar-collecting cells could capture more sunlight than on earth. And now, as improvements in photovoltaic technology make harnessing solar power increasingly feasible, and as concern mounts about the environmental impact of burning fossil fuels, some scientists and engineers are devoting serious thought to the notion of electricity from outer space.</p>
+        <p>Research on another facet of the project -- beaming the power to earth in the form of microwaves -- is also moving gradually ahead. In August, dozens of scientists from around the world gathered in Paris to discuss power from space, with solar satellites a major focus of interest. Advancements Are Expected</p>
+        <p>"There is a lot of progress in microwave-beamed power, and a lot of work has been done, sort of in fits and starts," said Dr. Alton D. Patton, a professor of electrical engineering at Texas A &amp; M and the director of NASA's Center for Space Power and Communications on the campus in College Station, Tex.</p>
+        <p>Proponents of power from space talk about progress over the coming decades. In the energy field, only power from nuclear fusion is commonly discussed with anything near such a long time frame in mind. But there is a difference with solar satellites, advocates say, because each element of the technology has already been demonstrated, albeit at nothing remotely approaching a commercially feasible price.</p>
+        <p>The idea was first floated in the 1960's by Peter E. Glaser, who is now vice president of space operations at Arthur D. Little Inc., the consulting firm in Cambridge, Mass., and is still the theory's most energetic proponent.</p>
+        <p>With the energy crises of the 1970's, interest grew in Dr. Glaser's pet notion. But enthusiasm waned after $20 million in studies by the Government. One, by the National Academy of Sciences in 1981, estimated that the cost could be $3 trillion over 50 years.  By the mid-1980's, the Soviets, who had built the world's largest rocket boosters and may have been exploring uses for them, were also expressing interest. But with the turmoil in the former Soviet Union, a Soviet role would now seem a moot point.</p>
+        <p>In the last few years, however, has come new concern about whether burning coal and other fuels for electric generation is leading to a "greenhouse effect" and global climate change. And photovoltaic technology, which turns sunlight directly into electricity, is moving steadily forward, with cells that cost less, require less surface area, and, most important from an astronautical point of view, weigh less.</p>
+        <p>As sketched by Dr. Glaser, the basic elements are "1960's technology," consisting of photovoltaic cells, microwave transmitters and receivers, and launching vehicles. But 21st-century engineering refinements would be needed.</p>
+        <p>His vision calls for a cluster of satellites in geosynchronous orbit, staying at a fixed point above receiver stations on the ground. At 22,000 miles up, the satellites would avoid the earth's shadow except for a brief period around the equinoxes.</p>
+        <p>Each spacecraft would carry several square miles of solar cells and a microwave generator. The microwaves would be focused on the ground receiving station, also several square miles.</p>
+        <p>Dr. Glaser said a receiving antenna, some five miles in diameter, could handle five billion watts, or about as much as is generated by five large nuclear power plants. The antenna, called a "rectenna," would consist of metal twigs in which the microwaves would generate an electric current, and a rectifier to turn this from alternating current into direct current.  In an era of pervasive environmentalism, the idea of bathing the world in microwaves might be expected to raise hackles. But Dr. Glaser said that the heart of the beam would have only one-quarter the intensity of sunlight, on the order of 100 milliwatts per square centimeter. "Compared to the energy released in a thunderstorm, this is peanuts," he said.</p>
+        <p>The technology also calls up visions of beams running amok, frying hapless towns in their path. But the beams would have no harmful effect if they briefly strayed off target, he said, and would be kept continuously aimed at the receiving antenna by a signal sent from the center of the antenna; if that failed, the beam would shut down. In any case, other researchers note, a malfunction would probably cause the beam to become less focused, rather than more focused.</p>
+        <p>And beaming is not really the challenge, some experts say. "The beaming part is actually well proven, well within the state of the art," said Ivan Bekey, a space power expert at the National Aeronautics and Space Administration. "There's nothing new there," he said, pointing out that researchers in the 1970's successfully beamed 10 kilowatts -- enough power to serve several large houses -- over several miles of California desert. Putting the giant satellites in orbit would be the hard part, he said.</p>
+        <p>But a space-based power system would run against the current trend of electric technology, which is for smaller, lower-risk projects. If a satellite is practical at all, experts say, it will be so only on a huge scale, since the equipment for controlling the spacecraft's precise location and angle and for converting electricity to microwaves must be roughly the same size and weight whether it gathers one megawatt of power or 1,000. May Send Power to Islands</p>
+        <p>Power beaming has also been tested on the ground, for electricity transmission. Experts say it shows promise for carrying power to islands. On land, power is transmitted in overhead wires, but when the wires are bundled together in an undersea cable, it becomes difficult after a mile or two to transmit alternating current -- the type most commonly used for electric lights, appliances and equipment. The conventional solution is to convert the alternating current to direct current at the mainland end of the cable, and back to alternating current at the island end. But this transformation is expensive.</p>
+        <p>Dr. Patton of Texas A &amp; M and Dr. Glaser say beaming may well emerge in the next few years as the preferred alternative. Microwaves would be picked up by antennas as alternating current, and converted back into direct current so the power from various parts of the antenna cluster can be combined and then, finally, converted back into alternating current.</p>
+        <p>The challenge may be getting the satellite into orbit. A five-billion-watt satellite would probably weigh 10 million pounds, said Mr. Bekey of NASA. Large satellites today run 20,000 to 30,000 pounds, he said.</p>
+        <p>"You're talking about something on 100 times larger scale than has ever been done," he said. "You cannot hope to launch it in a single launch; it has to be launched in pieces and assembled."</p>
+        <p>But the last time NASA drew up plans for space assembly, Mr. Bekey said, "we laid an egg, because we grossly underestimated how expensive and difficult that is." That was the long-envisioned space station, which at 100,000 to 200,000 pounds would be 100 times smaller.</p>
+        <p>An American space shuttle, he said, can deliver a payload of only about 50,000 pounds into low-earth orbit. But this project is already so far into the future that other possiblities present themselves, Dr. Glaser and others say. Chief among these is mining the silicon for the solar cells and the aluminum for the structure from the moon. Those materials might make up 90 percent of the mass, Mr. Bekey said, meaning that far less weight would have to be launched from earth. Own Propulsion System</p>
+        <p>The moon is also a long way from the location the solar satellites would have to take up, but the satellite would have its own propulsion system. (It would need one anyway, to stay positioned in orbit.) With a huge amount of electric power from its solar cells, it could strip the electrons off atoms of mercury or argon carried along for the purpose, and take the resulting charged particles, or ions, and shoot them out at tremendous velocity, producing thrust.</p>
+        <p>Predicting any technology decades away is risky, but Dr. Glaser and others say they think that a continuously growing demand for energy, coupled with the limited ability of the earth's atmosphere to absorb more carbon dioxide, will eventually make power from space essential.</p>
+        <p>Will it work?</p>
+        <p>"You bet," said Mr. Bekey, in 20 or 30 years.</p>
+        <p>BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

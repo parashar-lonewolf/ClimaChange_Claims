@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Senate Energy Bill</title>
+    <meta content="LTR005222" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1490093"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Coal</classifier>
+        <classifier class="indexing_service" type="descriptor">Mines and Mining</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">National Mining Assn</org>
+        <person class="indexing_service">Gerard, Jack</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mines and Mining</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7DA123EF93BA25756C0A9659C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Senate Energy Bill</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from National Mining Assn president Jack Gerard says proposed energy legislation will help US coal industry</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Before weighing the merits of the energy bill being considered by the Senate (editorial, May 12), your readers should also know other facts.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Before weighing the merits of the energy bill being considered by the Senate (editorial, May 12), your readers should also know other facts.</p>
+        <p>First, the bill enables our nation to rely more on a domestic energy reserve larger than the world's proved oil -- our 274 billion tons of coal. Official estimates say each ton equals up to 4.5 barrels of oil.</p>
+        <p>Next, its coal-specific provisions promote higher efficiency in power generation; lower national carbon intensity (for global warming); and the long-term availability of a reliable and reliably low-cost source of energy for our nation.</p>
+        <p>Finally, its research provisions ultimately support the initiative to vanquish carbon altogether with the hydrogen economy. Such things considered, your readers may conclude that this bill should be passed.</p>
+        <p>JACK GERARD  Pres., National Mining Assn.  Washington, May 12, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

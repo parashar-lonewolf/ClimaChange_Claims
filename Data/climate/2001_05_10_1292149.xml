@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>America Lashes Back</title>
+    <meta content="LTR230428" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1292149"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Fleishman, Francine</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E6DD133BF933A25756C0A9679C8B63" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>America Lashes Back</hl1>
+      </hedline>
+      <abstract>
+        <p>Francine Fleishman letter says US ouster from United Nations Human Rights Commission (May 9 article) may be related to US withdrawal from Kyoto Protocol on global warming and its restarting of missile race</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Dick Armey, the House majority leader, says it is an affront to the  whole notion of human rights that the United States lost a seat on the United Nations Human Rights Commission (''House Threatens to Hold U.N. Dues in Loss of a Seat,'' front page, May 9).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Dick Armey, the House majority leader, says it is an affront to the  whole notion of human rights that the United States lost a seat on the United Nations Human Rights Commission (''House Threatens to Hold U.N. Dues in Loss of a Seat,'' front page, May 9).</p>
+        <p>Perhaps, among other things, the other nations find that our backing out of the Kyoto Protocol, which would control worldwide levels of carbon dioxide, and our planned restarting of the missile race are affronts to the notion of human rights.</p>
+        <p>FRANCINE FLEISHMAN  Lido Beach, N.Y., May 9, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

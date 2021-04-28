@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="18laugh" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1770076"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E5D91131F93BA25755C0A9609C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>Finally some good news for the White House. Today, federal prosecutors told Karl Rove he will not be charged in the C.I.A. leak case. This is the best news for the White House since oil hit $70 a barrel.</p>
+        <p>I'm sure you know, there's a big storm named Alberto heading toward Florida. See, even the hurricanes are getting smarter. They know a Hispanic hurricane has a better chance of getting into the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>Finally some good news for the White House. Today, federal prosecutors told Karl Rove he will not be charged in the C.I.A. leak case. This is the best news for the White House since oil hit $70 a barrel.</p>
+        <p>I'm sure you know, there's a big storm named Alberto heading toward Florida. See, even the hurricanes are getting smarter. They know a Hispanic hurricane has a better chance of getting into the United States.</p>
+        <p>Democrats are not giving President Bush any credit for killing Zarqawi. Today, Al Gore blamed it on global warming.</p>
+        <p>David Letterman</p>
+        <p>Mayor Bloomberg might run for president. Isn't there a height requirement for that?</p>
+        <p>You know, the Iraqi terror mastermind Abu Musab al-Zarqawi is dead. Anyway, his successor is Abu Ayyub al-Masri. And if anything happens to that guy: Russell Crowe.</p>
+        <p>Here's interesting news from the Pentagon. According to autopsy results, Zarqawi's cause of death: choked on a ham sandwich.</p>
+        <p>Conan O'Brien</p>
+        <p>About $1.4 billion of aid money to Hurricane Katrina victims has gone to alcohol, vacations and pornography. The worst part is that some of that was wasted.</p>
+        <p>Last week, the United States eliminated Iraq's No. 1 terrorist, Abu Musab al-Zarqawi. This week, Al Qaeda announced his successor: Abu Ayyub al-Masri. When asked why, an Al Qaeda spokesperson said: ''We have a lot of leftover stationery that says: 'From the desk of Abu.' ''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deep Sea Extinctions</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="476063"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FISH AND OTHER MARINE LIFE</classifier>
+        <classifier class="indexing_service" type="descriptor">TEMPERATURE</classifier>
+        <org class="indexing_service">NATURE (JOURNAL)</org>
+        <person class="indexing_service">KENNETT, JAMES P (DR)</person>
+        <person class="indexing_service">STOTT, LOWELL D (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DC1230F937A1575AC0A967958260" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deep Sea Extinctions</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Deep sea life was virtually obliterated over large parts of the ocean floors 57 million years ago by a rapid warming of the earth, a recent study has found.</p>
+        <p>While scientists have long known that an intense global warming during this epic affected life on the surface of the earth, the study, reported last week in Nature, showed that a rapid rise in temperature also caused up to 50 percent of the deep sea species to become extinct.</p>
+      </block>
+      <block class="full_text">
+        <p>Deep sea life was virtually obliterated over large parts of the ocean floors 57 million years ago by a rapid warming of the earth, a recent study has found.</p>
+        <p>While scientists have long known that an intense global warming during this epic affected life on the surface of the earth, the study, reported last week in Nature, showed that a rapid rise in temperature also caused up to 50 percent of the deep sea species to become extinct.</p>
+        <p>"A lot of the crustaceous forms of life were zapped, never to be seen again," said Dr. James P. Kennett, a geologist at the University of California in Santa Barbara, who along with Dr. Lowell D. Stott of the University of Southern California at Los Angeles, was a co-author of the study.</p>
+        <p>The extinction, one of the largest to have occurred in the last 90 million years, was not connected with the extinction of dinosaurs and other land and sea life some 11 million to 12 million years ago.</p>
+        <p>As the earth's atmosphere heated up, the waters warmed by about six degrees centigrade, leading to a depletion in the oxygen levels, the study reported. Because the change occurred relatively rapidly, over the course of several thousand years, deep sea life failed to adapt quickly enough to survive, Dr. Kennett said.</p>
+        <p>But fish and other free-floating species living close to the surface survived to a greater degree because of their ability to migrate to cooler waters, where the oxygen level remained higher.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

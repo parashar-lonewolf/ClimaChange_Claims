@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>June 10-16; Bush's European Tour</title>
+    <meta content="MB235746" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1302550"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E0D81231F934A25755C0A9679C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>June 10-16; Bush's European Tour</hl1>
+      </hedline>
+      <byline class="print_byline">By John H. Cushman Jr.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush and European leaders made little effort to conceal significant differences over global warming, capital punishment and missile defenses as he visited there for the first time since taking office.</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush and European leaders made little effort to conceal significant differences over global warming, capital punishment and missile defenses as he visited there for the first time since taking office.</p>
+        <p>The allies were nearly as unhappy about his plans to abandon the Antiballistic Missile Treaty as Russia has been; Mr. Bush met with President Vladimir V. Putin on Saturday. And Mr. Bush's rejection of the Kyoto Protocol limiting emissions of heat-trapping gases was politely but firmly criticized by European leaders, who said they would move ahead with or without the United States. Before meeting Mr. Putin, Mr. Bush called for letting all the democracies of Europe join the NATO alliance eventually -- including states that once were members of the Warsaw Pact or Soviet republics.</p>
+        <p>John H. Cushman Jr.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

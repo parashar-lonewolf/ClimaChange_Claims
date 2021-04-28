@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="58687"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <object.title class="indexing_service">Q&amp;A (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870721T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DE1430F932A15754C0A961948260" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Q.Which will burn more calories, a 20-minute walk immediately after dinner or a 20-minute walk three hours later?</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Q.Which will burn more calories, a 20-minute walk immediately after dinner or a 20-minute walk three hours later?</p>
+        <p>Q.Which will burn more calories, a 20-minute walk immediately after dinner or a 20-minute walk three hours later?</p>
+        <p>A. Theoretically a person will burn the same number of calories in either case. But people may have more energy three hours after dinner, when food has been digested fully, and therefore may burn more calories through greater exertion, according to Theodore LaBuza, a professor of food science and nutrition at the University of Minnesota.</p>
+        <p>Q. Why do people yawn? And why do people yawn when they see others doing so?</p>
+        <p>A. Many scientists believe yawning may be a respiratory reflex that increases the oxygen level when there is an imbalance in the blood between oxygen and carbon dioxide, a waste product, according to Dr. Charles Pollak, head of the the Sleep-Wake Disorder Center at New York Hospital-Cornell Medical Center.</p>
+        <p>But in a recent study, Robert Provine, a professor of psychology at the University of Maryland, found that bloodstream concentrations of carbon dioxide that were higher than normal did not affect the rate of yawning. He said that yawning might have behaviorial functions, such as helping reduce tension.</p>
+        <p>No one knows why yawning is contagious, Dr. Pollak said. It may be, he added, that yawning among a group of people occurs when ''everybody shares the boredom.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

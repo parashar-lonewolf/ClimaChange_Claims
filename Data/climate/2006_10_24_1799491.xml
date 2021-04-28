@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="24obse" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/10/24/science/24observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1799491"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="descriptor">Insects</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radar</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life, Extraterrestrial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deserts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">United Nations</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E2D9173FF937A15753C1A9609C8B63" item-length="1058" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">No Skating on the Moon, Apparently</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Desperate Locusts</p>
+        <p>Pheromones, those chemical compounds produced by many insects and animals, are often associated with breeding. Female sex pheromones are a signal of availability and help attract male mates.</p>
+        <p>And other reproduction-related pheromones serve to dampen desire. A male desert locust that has a mate, for example, produces a compound that is meant to inhibit courtship behavior in other males, to keep them from trying to sweep a female off her feet.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How icy is the moon, what are the possibilities of life on Mars, and more.</p>
+      </block>
+      <block class="full_text">
+        <p>Desperate Locusts</p>
+        <p>Pheromones, those chemical compounds produced by many insects and animals, are often associated with breeding. Female sex pheromones are a signal of availability and help attract male mates.</p>
+        <p>And other reproduction-related pheromones serve to dampen desire. A male desert locust that has a mate, for example, produces a compound that is meant to inhibit courtship behavior in other males, to keep them from trying to sweep a female off her feet.</p>
+        <p>But a new study in the journal Biology Letters finds that it doesn't always work. It depends on how desperate the other males are.</p>
+        <p>Karsten Seidelmann of Martin Luther University in Germany placed males that had been without mates for varying amounts of time in an ''arena'' occupied by a male-female pair. He found that males that had been mateless for 24 hours or more ignored the courtship-inhibiting pheromone and tried to evict the other male and mate with the female. The longer the single male was without a mate (up to 72 hours in the study), the greater the number of attempts at displacing the other male.</p>
+        <p>Some insects produce similar pheromones that work differently: the male transfers them to its mate, who becomes unresponsive to other attempts to mate with it. As the study suggests, this may be a more effective way to stop other males in their tracks.</p>
+        <p>Life on Mars? That Depends</p>
+        <p>In 1976, two spacecraft landed on Mars to study its atmosphere and surface. These were the Viking landers, and among other instruments they carried shoebox-size laboratories to search for signs of life.</p>
+        <p>The biology experiments these minilabs conducted on small bits of scooped-up soil all produced positive results. But another experiment, which heated the soil to vaporize any organic compounds and then used gas chromatography and mass spectrometry to detect them, was negative. In other words, one set of experiments showed the soil was alive, the other that it was dead.</p>
+        <p>Faced with these apparently contradictory results, researchers concluded that the positive results from the biology experiments were due to something nonbiological -- a highly reactive soil, full of some kind of oxidant like peroxide. While that conclusion has been accepted by most astrobiologists, debate about it has never completely quieted down.</p>
+        <p>A new study led by Rafael Navarro-González of the National Autonomous University of Mexico may raise the decibel level again. In tests on Mars-like soils from the Antarctic dry valleys and other desert locations, they raise the possibility that very small quantities of organic compounds in the Martian soil may have gone undetected by the Viking experiments.</p>
+        <p>For one thing, they write in a paper in The Proceedings of the National Academy of Sciences, the Viking gas chromatography experiments may have operated at too low a temperature to release all the organic compounds from the soil. And their tests showed that iron in the Martian soil could have oxidized any organic compounds while the soil was being heated.</p>
+        <p>The researchers suggest that while gas chromatography-mass spectrometry is still the standard technique and should be used in any future search for life on Mars, other methods should be employed as well.</p>
+        <p>Perilous Waters</p>
+        <p>A new estimate by researchers for a United Nations project on the marine environment shows that the number of ''dead zones'' in the oceans has increased about one-third in just two years. The number of these anoxic zones -- areas where nutrients from fertilizer runoff, sewage and other sources has led to algal blooms that starve fish and plants of oxygen -- is now about 200, according to the estimate by researchers led by Robert Diaz of the Virginia Institute of Marine Science, affiliated with the College of William and Mary.</p>
+        <p>Well-known dead zones include those in the Gulf of Mexico, the Baltic Sea and the Chesapeake Bay. But the researchers say they found new ones in the Mersey estuary in Britain, the Archipelago Sea in Finland and the Pearl River estuary in China, among others.</p>
+        <p>No Skating on the Moon, Apparently</p>
+        <p>O.K., so the Moon isn't made of green cheese. But what about ice?</p>
+        <p>Well, the Moon isn't made of water ice, either. At least there don't seem to be large sheets of it in the soil near the lunar south pole.</p>
+        <p>That's the conclusion of a team of astronomers led by Donald B. Campbell of Cornell, who used radar to scan the polar region. In a paper in the journal Nature, they show that distinctive return echoes, thought to be a sign of ice, are more likely just reflections from the rough, rocky lunar soil, the kind left after a crater-making meteor impact.</p>
+        <p>Astronomers have debated this issue since the early 1990's. The question is not academic: if they exist, large ice sheets could be a source of water, oxygen and hydrogen fuel for a permanent lunar base.</p>
+        <p>Most of the Moon's water -- which is thought to have arrived there, as it did on Earth, through bombardment by icy comets -- would have boiled off billions of years ago. But astronomers have held out the possibility that in polar areas that are permanently shielded from the Sun, where the temperature remains several hundred degrees below zero, water could have frozen and remained stable for eons.</p>
+        <p>Dr. Campbell and his colleagues bounced radar signals off the Moon. They were looking for a specific polarization signature, the distinctive way the electromagnetic waves are oriented, from the returning signal. In radar studies of the planet Mercury, such a signature had been seen in signals reflected off permanently shaded areas near the poles.</p>
+        <p>''Given the Mercury results, it was a good idea to take a look at the poles of the Moon,'' Dr. Campbell said.</p>
+        <p>Earlier lunar studies were inconclusive. But high-resolution radar showed that while the polarization signature was found in signals reflected off shaded areas, it came from sunny areas as well. And sunny areas could have no ice at all.</p>
+        <p>''Our work shows clearly that this polarization signal is correlated with rocky ejecta around young impact craters and scree slopes,'' Dr. Campbell said, ''and not with the degree of solar radiation.''</p>
+        <p>There still may be ice in the lunar soil, but it would be mixed in as small particles, and thus extremely difficult for astronauts to harvest. ''I really wish it had been the other way around,'' Dr. Campbell said.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

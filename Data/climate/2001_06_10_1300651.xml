@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>You'll Want to Take Notes, Folks. There Will Be a Test.</title>
+    <meta content="10REV" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week In Review Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1300651"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0D8153EF933A25755C0A9679C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>You'll Want to Take Notes, Folks. There Will Be a Test.</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Comment on 'classes' being presented to Bush administration top officials to help them understand complicated subject of global warming; drawings (S)/</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last week, Condoleezza Rice, President Bush's national security adviser, defended the administration's reexamination of evidence of global warming, challenging critics to find another instance when most of a cabinet sat ''week after week after week'' through briefings by scientists on such a complicated topic.</p>
+        <p>Indeed, some of the sessions -- aside from the security scans by the Secret Service and bomb-sniffing dogs -- have borne quite a resemblance to a college course in climatology. In one recent ''class'' for Vice President Dick Cheney and half a dozen cabinet secretaries at Commerce Department headquarters, Dr. Daniel L. Albritton, the director of the department's Aeronomy Laboratory in Boulder, Col., eschewed the ubiquitous PowerPoint presentation and instead used hand-drawn transparencies and an overhead projector to lay out the basics. The transparencies can be seen in their entirety online at www.oar.noaa.gov/education/.</p>
+      </block>
+      <block class="full_text">
+        <p>Last week, Condoleezza Rice, President Bush's national security adviser, defended the administration's reexamination of evidence of global warming, challenging critics to find another instance when most of a cabinet sat ''week after week after week'' through briefings by scientists on such a complicated topic.</p>
+        <p>Indeed, some of the sessions -- aside from the security scans by the Secret Service and bomb-sniffing dogs -- have borne quite a resemblance to a college course in climatology. In one recent ''class'' for Vice President Dick Cheney and half a dozen cabinet secretaries at Commerce Department headquarters, Dr. Daniel L. Albritton, the director of the department's Aeronomy Laboratory in Boulder, Col., eschewed the ubiquitous PowerPoint presentation and instead used hand-drawn transparencies and an overhead projector to lay out the basics. The transparencies can be seen in their entirety online at www.oar.noaa.gov/education/.</p>
+        <p>Although Dr. Albritton has spent his 34-year career as a government scientist, not a teacher, he came across like a seasoned professor, people who attended the briefing said.</p>
+        <p>In crisp, quick sentences, he described the links -- some clear, some not -- between human affairs and the planet's thermostat. Dr. Albritton said he likes to draw his own slides as a way to crystallize his thoughts on an issue. ''It's like a mini-rehearsal,'' he said in an interview. Herewith a taste of Climate 101 at White House U.</p>
+        <p>ANDREW C. REVKIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

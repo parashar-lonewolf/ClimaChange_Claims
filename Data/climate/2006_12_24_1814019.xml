@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TOWARD A CLEANER PLANET</title>
+    <meta content="24mail-2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1814019"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <person class="indexing_service">Macgregor, Kate</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7DD1031F937A15751C1A9609C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TOWARD A CLEANER PLANET</hl1>
+      </hedline>
+      <abstract>
+        <p>Kate MacGregor letter on October 15 and December 10 articles on carbon offsets and eco-tourism</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Regarding ''Carbon Neutral: Raising the Ante on Eco-Tourism'' (Buzzword of the Year, Dec. 10): although Michelle Higgins discussed third-party verification of carbon offsets in her Practical Traveler article on Oct. 15, she did not mention it in this piece. Clean Air--Cool Planet (www.cleanair-coolplanet.org) recently published a report evaluating 30 offset providers.</p>
+        <p>The report reveals the top eight providers while cautioning that ''the market is still catching up with public interest,'' and that it's difficult for even environmentally savvy consumers to be able to judge the difference in product quality.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Regarding ''Carbon Neutral: Raising the Ante on Eco-Tourism'' (Buzzword of the Year, Dec. 10): although Michelle Higgins discussed third-party verification of carbon offsets in her Practical Traveler article on Oct. 15, she did not mention it in this piece. Clean Air--Cool Planet (www.cleanair-coolplanet.org) recently published a report evaluating 30 offset providers.</p>
+        <p>The report reveals the top eight providers while cautioning that ''the market is still catching up with public interest,'' and that it's difficult for even environmentally savvy consumers to be able to judge the difference in product quality.</p>
+        <p>Instead of another article on how to reduce the travel consumer's guilt, the newspaper should consider an article on reducing climate-changing travel emissions.</p>
+        <p>Kate MacGregor  Sacramento, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

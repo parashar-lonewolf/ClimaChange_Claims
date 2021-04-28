@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Antarctic Ice Buildup</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="491178"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">ICE</classifier>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DA1239F930A35751C1A967958260" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Antarctic Ice Buildup</hl1>
+      </hedline>
+      <byline class="print_byline">By WALTER SULLIVAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WARMING of the climate is causing a "significant increase" in the accumulation of ice in East Antarctica, rather than a depletion as widely predicted, American and Japanese scientists have found.</p>
+        <p>The report, in the journal Geology, is based on dating layers in sea-floor sediment extracted off Wilkes Land and Prydz Bay, where tongues of continental ice sometimes push far out to sea before breaking off.</p>
+      </block>
+      <block class="full_text">
+        <p>WARMING of the climate is causing a "significant increase" in the accumulation of ice in East Antarctica, rather than a depletion as widely predicted, American and Japanese scientists have found.</p>
+        <p>The report, in the journal Geology, is based on dating layers in sea-floor sediment extracted off Wilkes Land and Prydz Bay, where tongues of continental ice sometimes push far out to sea before breaking off.</p>
+        <p>A similar finding has been reported by Australian scientists who have measured snow accumulation 60 to 180 miles inland in Wilkes Land. They have found that since 1960 accumulation has been increasing and recently reached 20 percent above the mean since 1806. The researchers, who reported their findings in a recent issue of the journal Nature, estimate that the accumulation should contribute to a slight lowering of global sea level, contrary to the trend reported elsewhere. Snow accumulation close to the coast is, however, affected by oceanic weather and may not show what is happening to the continent as a whole.</p>
+        <p>It has been assumed that slippage of the West Antarctic ice sheet, across the continent, into the Ross Ice Shelf and, eventually, into the sea south of the Pacific Ocean may raise world sea levels by a substantial amount. In the journal Science, however, American scientists reported last month that while part of that ice sheet is thinning, elsewhere it is thickening. Furthermore, the response of the ice to climate change is so slow, they say, that it is still responding to the end of the last ice age. Because of that lag, its near-term future "is already determined," they said, and too little of it has been surveyed "to predict its overall future behavior."  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

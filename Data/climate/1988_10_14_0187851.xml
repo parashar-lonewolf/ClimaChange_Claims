@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How Carbon 14 Was Used to Fix Date of Shroud</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="187851"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881014T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE0DB133DF937A25753C1A96E948260" item-length="726" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How Carbon 14 Was Used to Fix Date of Shroud</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM W. BROWNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Shroud of Turin was identified as a medieval forgery using a very sensitive dating technique available to only half a dozen laboratories around the world.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Shroud of Turin was identified as a medieval forgery using a very sensitive dating technique available to only half a dozen laboratories around the world.</p>
+        <p>The Shroud of Turin was identified as a medieval forgery using a very sensitive dating technique available to only half a dozen laboratories around the world.</p>
+        <p>In common with traditional dating techniques, the method used to determine the age of the shroud is based upon the slow decay of a radioactive form of carbon called carbon 14. Living organisms assimilate carbon 14 from the environment along with two stable isotopes, or forms, of carbon - carbon 12 and carbon 13.</p>
+        <p>The ratios between these isotopes of carbon remain more or less constant as long as the organism remains alive, but after death the radioactive carbon 14 is no longer replenished as it disappears by radioactive decay. Since the rate at which carbon 14 decays is known - half of any given amount of it decays in 5,730 years - the age of any organic material of either vegetable or animal origin can be estimated from its ratio of carbon 14 to stable carbon isotopes.</p>
+        <p>Most carbon dating is carried out by measuring the radiation emitted by the carbon 14 in any organic substance. This is done using radiation detectors similar in principle to the Geiger counter. But in the case of the Shroud of Turin, this conventional testing technique would have required the use of relatively large amounts of material, the size of a handkerchief for each laboratory, more than Vatican authorities were willing to allow to be cut from the shroud. Pieces the Size of Postage Stamp</p>
+        <p>Instead, the Vatican opted for a more advanced method that is more precise and requires the destruction of a much smaller sample of material, roughly the size of a postage stamp. The three laboratories conducting the analyses were at the University of Arizona in Tucson, the British Museum in London and the Swiss Federal Institute in Zurich.</p>
+        <p>In the technique used by all three institutions, carbon and other atoms and molecules extracted from the sample are electrically charged and hurled through a series of magnetic fields by a special nuclear accelerator, called a tandem accelerator mass spectrometer. These fields deflect atoms of varying mass and electrical charge so they strike different regions of a detector target.</p>
+        <p>Heavier atoms are deflected less by the magnetic fields than are lighter atoms, and this difference separates the trajectories of atoms according to their masses. By counting the atoms that strike any given part of the detector, the apparatus can estimate their abundance in the original sample.</p>
+        <p>Dr. Douglas J. Donahue of the University of Arizona explained in an interview that the instrument's very high energy endows it with great precision. The accelerator, which can impart an energy of 10 million electron volts to the atoms it accelerates, can easily distinguish between the carbon atoms of interest and other atoms and molecules having the same mass that must be excluded from the result. Instruments working at lower energies cannot make such sharp distinctions. Sample Was Cleaned and Burned</p>
+        <p>Dr. Donahue said that in dealing with a postage stamp-size sample from the shroud, the linen was first ''carefully cleaned, using both chemical and mechanical methods.'' Next, the sample was burned in oxygen, thereby converting the carbon in its molecules into carbon dioxide gas. The gas was then reduced to pure carbon in the form of graphite by heating the gas in the presence of iron powder.</p>
+        <p>In the next stage, the graphite derived from the shroud sample, consisting of a mixture of stable carbon isotopes with radioactive carbon 14, was bombarded by heavy cesium atoms. This process knocked carbon atoms loose from the graphite, endowed some of them with electric charges and sent them toward the accelerator.</p>
+        <p>By passing accelerated carbon atoms through argon gas, the instrument next stripped electrons from the carbon atoms, thereby giving them positive charges. In the process, ''background'' molecules having the same masses as carbon atoms were removed, eliminating a potential source of error. Finally, the electrically charged carbon atoms emerging from the accelerator were sorted out by magnetic fields, permitting precise measurement of the ratio between carbon 14 and carbon 13.</p>
+        <p>From this, scientists concluded that the flax plants from which the linen in the Shroud of Turin was made were grown in medieval times, long after the death of Jesus.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Challenges Theory on Evolution of Mammal and Bird Orders</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="850913"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PALEONTOLOGY</classifier>
+        <classifier class="indexing_service" type="descriptor">DINOSAURS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIRDS</classifier>
+        <classifier class="indexing_service" type="descriptor">ANIMALS</classifier>
+        <person class="indexing_service">HEDGES, S BLAIR (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dinosaurs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0D61239F935A25756C0A960958260" item-length="535" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Challenges Theory on Evolution of Mammal and Bird Orders</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Challenging the classic theory about the development of the animal kingdom, a new study says that some major categories of mammals and birds appeared long before the dinosaurs died out.</p>
+        <p>The dinosaurs vanished about 65 million years ago. By examining animal genes  to compute how long certain creatures have been around, researchers estimated that the major orders of birds and mammals evolved 100 million years ago. An order is a category of animal, like rodents, for example.</p>
+      </block>
+      <block class="full_text">
+        <p>Challenging the classic theory about the development of the animal kingdom, a new study says that some major categories of mammals and birds appeared long before the dinosaurs died out.</p>
+        <p>The dinosaurs vanished about 65 million years ago. By examining animal genes  to compute how long certain creatures have been around, researchers estimated that the major orders of birds and mammals evolved 100 million years ago. An order is a category of animal, like rodents, for example.</p>
+        <p>The new work argues against the classic idea that the disappearance of the dinosaurs opened the door for the diversification of mammals and birds. Instead, the researchers suggest today in the journal Nature that the breaking up of ancient continents might have been the cause for such diversification.</p>
+        <p>The early date for the emergence of the major orders was a surprise, said Dr. S. Blair Hedges of Pennsylvania State University, an author of the paper, because there is virtually no trace of such diversification in the fossil record until about 40 million years later.</p>
+        <p>The earlier creatures might have left few fossils because high sea levels restricted the amount of land available for them, Dr. Hedges said, and dinosaurs and other reptiles may have kept the populations of such animals low.</p>
+        <p>Dr. Hedges and colleagues based their study on animal genes. The idea is that genes change over time by accumulating mutations. So when a particular gene is inherited by two species from a common ancestor, it evolves in each species, and the two versions become less and less alike as time passes.</p>
+        <p>If the mutation rate is fairly constant, the differences between two versions can indicate how much time has passed since the two species split from each other. Dr. Hedges and his colleagues looked at dozens of genes. They compared the human, mouse and cow versions of particular genes to estimate when the three orders represented by those creatures split apart. For birds, they compared genes from the chicken, duck, ostrich and pigeon.</p>
+        <p>The researchers noted that continents were being split apart around 100 million years ago, both by water intrusions because of high sea levels and by movement of the continental plates. That splitting could have isolated species,  Dr. Hedges said, eventually spurring the appearance of new orders of mammals and birds.</p>
+        <p>The study does not knock dinosaurs out of the picture completely. Their disappearance, Dr. Hedges said, could still have opened up opportunities for the creation of species within the various orders of mammals and birds.</p>
+        <p>Dr. Michael Novacek, curator of vertebrate paleontology at the American Museum of Natural History in New York, said the 100-million-year figure did not  surprise him because scientists had an inkling that mammals and birds diversified before dinosaurs died out. Dr. Novacek also said the link to the breakup of continents made sense.</p>
+        <p>But he said he was skeptical about using genetic analysis to estimate the time of evolutionary splits, because of doubts over whether genes really change  at a constant rate.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

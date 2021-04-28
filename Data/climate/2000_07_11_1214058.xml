@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy-Smart Lifestyle</title>
+    <meta content="L11GLO$02" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214058"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <person class="indexing_service">Klein, Dale</person>
+        <person class="indexing_service">Herbert, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000711T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E6DC1338F932A25754C0A9669C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy-Smart Lifestyle</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Dale Klein, vice chancellor for special engineering programs at University of Texas system, says controlling global warming will require economic investments and new way of looking at how we generate and use electricity (July 6 Bob Herbert column)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Danger Point,'' by Bob Herbert (column, July 6):</p>
+        <p>Despite much natural evidence for global climate change, there is likely to be substantial opposition to any drastic measures that affect the economy or people's way of life.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Danger Point,'' by Bob Herbert (column, July 6):</p>
+        <p>Despite much natural evidence for global climate change, there is likely to be substantial opposition to any drastic measures that affect the economy or people's way of life.</p>
+        <p>The only effective means for controlling greenhouse gas emissions, within the constraints of not affecting lifestyle, is to do what makes sense from both economic and environmental viewpoints.</p>
+        <p>We can increase the amount of electricity from nuclear plants (which do not emit greenhouse gases) and from wind. We can also improve the efficiency of vehicles, electric motors, lighting and industrial processes.</p>
+        <p>Dealing with global warming does not have to become a sacrifice for people. What we do have to recognize, however, is that it will require economic investments and a new way of looking at how we generate electricity and use it.</p>
+        <p>DALE KLEIN  Austin, Tex., July 7, 2000</p>
+        <p>The writer is vice chancellor for special engineering programs, University of Texas system.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

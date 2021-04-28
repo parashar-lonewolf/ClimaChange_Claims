@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hints of Oil Bonanzas Beneath Arctic Ocean</title>
+    <meta content="01arctic" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/06/01/science/earth/01arctic.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1765903"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <location class="online_producer">Arctic Regions</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0DB1631F932A35755C0A9609C8B63" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hints of Oil Bonanzas Beneath Arctic Ocean</hl1>
+        <hl2 class="online_headline">Hints of Oil Bonanzas Beneath Arctic Ocean</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The studies on Arctic sediment that appear today in the journal Nature tell a dramatic story of polar warming and cooling over millions of years. But what they tell petroleum geologists may be just as striking.</p>
+        <p>Though there is little mention of it in the papers, some scientists involved in the work said the huge amounts of organic material from dead algae and plants embedded in the ancient sedimentary layers suggested that the center of the Arctic Ocean could hold vast oil deposits.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Scientists said that huge amounts of organic material from dead algae and plants found in sedimentary layers suggested that the Arctic Ocean could hold vast oil deposits.</p>
+      </block>
+      <block class="full_text">
+        <p>The studies on Arctic sediment that appear today in the journal Nature tell a dramatic story of polar warming and cooling over millions of years. But what they tell petroleum geologists may be just as striking.</p>
+        <p>Though there is little mention of it in the papers, some scientists involved in the work said the huge amounts of organic material from dead algae and plants embedded in the ancient sedimentary layers suggested that the center of the Arctic Ocean could hold vast oil deposits.</p>
+        <p>Several of the researchers said they were reluctant to focus on that aspect of the work, saying it would be unfortunate if their climate studies prompted new oil exploration that could liberate more greenhouse gases and further warm the climate.</p>
+        <p>But one of the authors, Henk Brinkhuis of the University of Utrecht in the Netherlands, was not shy when he first pointed this out to reporters in 2004. This week, he said he remained confident that the prospect was real.</p>
+        <p>''The entire Arctic rim is already one big exploration machine,'' Dr. Brinkhuis said. ''I was nearly crucified for talking about this by some of the more politically environmentally friendly people out there. But it's a fact.''</p>
+        <p>If the oil exists, it would probably take decades to develop techniques for exploiting such midocean deposits, Dr. Brinkhuis and other scientists said.</p>
+        <p>Still, a quarter of the world's undiscovered oil and gas resources lie in the Arctic, according to the United States Geological Survey.</p>
+        <p>Oil companies are clearly interested in what may lie beneath the sea, said Kathryn Moran, a professor of ocean engineering at the University of Rhode Island who was a chief scientist on the drilling project that led to the new studies.</p>
+        <p>Dr. Moran said she recently gave a talk on the project at the University of Alaska, Fairbanks, and was invited at the last minute by BP, the giant oil company, to stop over in Anchorage to present the talk to 30 petroleum geologists.</p>
+        <p>''They've definitely taken note,'' Dr. Moran said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

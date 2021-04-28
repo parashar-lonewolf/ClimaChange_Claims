@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mystery of Methane Levels in 90's Seems Solved</title>
+    <meta content="28methane" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/09/28/science/28methane.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1793270"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E2DD1630F93BA1575AC0A9609C8B63" item-length="329" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mystery of Methane Levels in 90's Seems Solved</hl1>
+        <hl2 class="online_headline">Mystery of Methane Levels in 90’s Seems Solved</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For years, scientists have been trying to figure out why the atmospheric concentration of methane, a heat-trapping gas, stopped increasing in the early 1990's after tripling during the preceding 200 years.</p>
+        <p>Some scientists and environmental groups said the change could be a sign of success in efforts to stem emissions of methane, a gas that contributes to global warming. They included stanching pipeline leaks and capturing methane from landfills.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study suggests that the reason why the atmospheric concentration of methane slowed in the 1990’s was related to the collapse of the Soviet Union.</p>
+      </block>
+      <block class="full_text">
+        <p>For years, scientists have been trying to figure out why the atmospheric concentration of methane, a heat-trapping gas, stopped increasing in the early 1990's after tripling during the preceding 200 years.</p>
+        <p>Some scientists and environmental groups said the change could be a sign of success in efforts to stem emissions of methane, a gas that contributes to global warming. They included stanching pipeline leaks and capturing methane from landfills.</p>
+        <p>Now a new study by an international research team supports the suspicions of some experts that the leveling off was probably temporary and caused by a downturn in emissions from industry and most likely related to the collapse of the Soviet Union and its economy.</p>
+        <p>After 1999, emissions from industry and other human activities began rising again, particularly in China, according to the study, which will be published today in the journal Nature. But that increase in methane from manmade sources appears to have been masked by a reduction in methane from sources in nature. Tropical droughts reduced methane released by bacteria in muddy wetlands, the study said.</p>
+        <p>Inez Y. Fung, an atmospheric scientist at the University of California, Berkeley, said the study was a convincing portrait of shifts in human and natural contributions to the methane mix in the atmosphere.</p>
+        <p>Methane is considered the second-most-important heat-trapping gas emitted by human activities, after carbon dioxide. Methane exists in the atmosphere as a trace of less than two parts per million, but has more than 20 times the heat-holding capacity of carbon dioxide.</p>
+        <p>''If methane's growth rate resumes its historic pace, its future contribution to global warming could be significant,'' said Edward J. Dlugokencky, a scientist at a National Oceanic and Atmospheric Administration laboratory in Boulder, Colo., and an author of the study.</p>
+        <p>The researchers used a combination of measurements of regional variations in methane levels and computer simulations to determine that changes in specific sources were the most likely cause of the overall shift in concentrations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

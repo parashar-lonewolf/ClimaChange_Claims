@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making Circuits Without CFC's</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="494975"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRONICS</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIATION</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">NORTHERN TELECOM INC</org>
+        <org class="indexing_service">SANDIA NATIONAL LABORATORIES</org>
+        <org class="indexing_service">MOTOROLA INC</org>
+        <person class="indexing_service">HOLUSHA, JOHN</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D61E30F93BA25751C1A967958260" item-length="885" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making Circuits Without CFC's</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLUSHA</byline>
+      <byline class="normalized_byline">HOLUSHA, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Electronics companies have been scrambling in recent years to find ways to eliminate the use of environmentally damaging chlorofluorocarbons from the manufacture of circuit boards. Two approaches -- one already well tested by Northern Telecom, the other under development by Motorola -- demonstrate that responding to environmental concerns can sometimes cut costs without affecting the reliability of the product.</p>
+        <p>Although best known as a refrigerant and as a blowing agent in plastic-foam production, the family of chemicals called chlorofluorocarbons is widely used to clean newly soldered electronic circuit boards. But CFC's, as they are generally known, have been linked to the degradation of the earth's protective ozone layer. Production Is Ending</p>
+        <p>By international agreement, CFC production is to be phased out by the end of the century. And that deadline may well move up as political leaders respond to environmental concerns and to mounting evidence of the adverse effect of CFC's on the atmosphere. Moreover, the price of the compounds is going up because of production cutbacks and increasingly stiff Federal taxes.</p>
+      </block>
+      <block class="full_text">
+        <p>Electronics companies have been scrambling in recent years to find ways to eliminate the use of environmentally damaging chlorofluorocarbons from the manufacture of circuit boards. Two approaches -- one already well tested by Northern Telecom, the other under development by Motorola -- demonstrate that responding to environmental concerns can sometimes cut costs without affecting the reliability of the product.</p>
+        <p>Although best known as a refrigerant and as a blowing agent in plastic-foam production, the family of chemicals called chlorofluorocarbons is widely used to clean newly soldered electronic circuit boards. But CFC's, as they are generally known, have been linked to the degradation of the earth's protective ozone layer. Production Is Ending</p>
+        <p>By international agreement, CFC production is to be phased out by the end of the century. And that deadline may well move up as political leaders respond to environmental concerns and to mounting evidence of the adverse effect of CFC's on the atmosphere. Moreover, the price of the compounds is going up because of production cutbacks and increasingly stiff Federal taxes.</p>
+        <p>Most solders are alloys of lead and tin that have melting temperatures below those of most metals. In electronics, soldering increases the reliability of circuit boards by freezing the components into the proper position on the board.</p>
+        <p>To insure good metal-to-metal contact, chemicals called fluxes are usually used in soldering, to remove oxides and other films that can form on both the solder and the surfaces to be soldered. One common flux is rosin, which is derived from pine trees.</p>
+        <p>In most modern circuit board assembly operations, individual joints are not soldered. Instead, the entire board is prepared, the flux applied and the whole assembly heated. The board is then floated on a flowing wave of molten solder, which seals many components.</p>
+        <p>While efficient, this process tends to leave flux residues on the circuit board. (Rosin attracts moisture, which is why baseball pitchers use a rosin bag to draw moisture from their fingertips and insure a solid grip on the ball.) Manufacturers have feared that over time, in tightly packed electronic circuits, the rosin residue may attract contaminants that degrade the performance of a board or render it useless.</p>
+        <p>One big producer of circuit boards for the telecommunications industry, Northern Telecom Ltd. of Mississauga, Ontario, has decided that the way to get rid of CFC cleaning agents is to eliminate the cleaning step. The company has done so by switching to a flux that is 98 percent liquid, so that very little residue is left.</p>
+        <p>"We looked into aqueous, semi-aqueous, alcohol-clean and no-clean systems and decided to focus on no-clean technology," said Arthur D. FitzGerald, Northern Telecom's assistant vice president for environmental affairs.</p>
+        <p>When a board moves into a fluxing unit at one of Northern Telecom's 42 telephone-equipment factories and research centers, a hollow wire-mesh drum rotates through a bath of flux, which is 98 percent isopropyl alcohol, picking up a small amount. A stream of air then blows the flux from the mesh, producing a mist that settles on the board. This is a key step, since no-clean technology depends on applying just enough flux to aid soldering, without excess.</p>
+        <p>After the flux is applied, the board is heated and sent to the molten-wave solderer, where most of the flux simply boils off. The little residue that remains will not affect the projected 40-year life of the equipment, Mr. FitzGerald said. The final step is a fan chamber, which dries the solder and cools the board.</p>
+        <p>Proponents of no-clean systems say the approach has multiple benefits. In addition to reducing the amount of CFC's and other chlorinated solvents that rise into the atmosphere, circuit-board makers will save the cost of buying the cleaning chemicals, handling them, reclaiming them and disposing of them. A Second Approach</p>
+        <p>In a second no-clean approach, a controlled atmosphere is central to the process under joint development by Sandia National Laboratories of Albuquerque, N.M., and Motorola Inc.'s government electronics group in Scottsdale, Ariz. The goal is to eliminate CFC cleaning. But getting rid of CFC's is no simple matter for products used in military and research projects, because detailed military specifications continue to require the use of CFC cleaners.</p>
+        <p>The influence of "milspecs," as they are commonly known, extends beyond military programs, Sandia officials said, because many private-sector customers insist that products be built to military standards.</p>
+        <p>Under the unusual arrangement linking a private company and a national laboratory, Motorola fabricates the circuit boards and Sandia performs reliability testing. The Sandia-Motorola process does away with flux as well as chemical cleaning. Instead, a mild solution of adipic acid, an industrial chemical, is used to remove oxides from metal surfaces before soldering. The boards are then soldered in an inert atmosphere.</p>
+        <p>Based on early indications, the quality of the boards has not suffered, said Robert M. Cranwell, a reliability and testing specialist at Sandia. "They appear to be highly reliable," he said. "In fact, they may be better than the old rosin system."  BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV005215" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="Books in Brief: Nonfiction" name="column_name"/>
+    <docdata>
+      <doc-id id-string="892793"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="Books in Brief: Nonfiction"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Boone, Jacqueline</person>
+        <person class="indexing_service">Ehrlich, Paul R</person>
+        <person class="indexing_service">Ehrlich, Anne H</person>
+        <object.title class="indexing_service">Betrayal of Science and Reason (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFDE113DF932A35751C1A960958260" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By JACQUELINE BOONE</byline>
+      <byline class="normalized_byline">Boone, Jacqueline</byline>
+      <abstract>
+        <p>Jacqueline Boone reviews book Betrayal of Science and Reason: How Anti-Environmental Rhetoric Threatens Our Future by Paul R Ehroich and Anne H Ehrlich (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BETRAYAL OF SCIENCE AND REASON</p>
+        <p>How Anti-Environmental Rhetoric Threatens Our Future.</p>
+        <p>By Paul R. Ehrlich</p>
+        <p>and Anne H. Ehrlich.</p>
+        <p>Island Press, $24.95.</p>
+      </block>
+      <block class="full_text">
+        <p>BETRAYAL OF SCIENCE AND REASON</p>
+        <p>How Anti-Environmental Rhetoric Threatens Our Future.</p>
+        <p>By Paul R. Ehrlich</p>
+        <p>and Anne H. Ehrlich.</p>
+        <p>Island Press, $24.95.</p>
+        <p>Paul R. Ehrlich and Anne H. Ehrlich contend that scientists concerned with the sobering issues of overpopulation, ozone depletion, loss of biodiversity and global climate change are engaged in a grim struggle with a pervasive yet nebulous anti-environmental contingent. Its chief byproduct is ''an outpouring of seemingly authoritative opinions in books, articles and media appearances that greatly distort what is or isn't known by environmental scientists,'' collectively producing a ''body of anti-science'' that bolsters a ''predetermined worldview'' and supports a political agenda. The bulk of ''Betrayal of Science and Reason'' comprises point-by-point examinations of these pronouncements, and rebuttals to them. The underlying frustration -- even rage -- of the authors is palpable and understandable; however, the lay reader is put in the awkward position of hapless bystander in this frequently personal and vituperative scientific brawl. Since the writers -- Mr. Ehrlich is the author of ''The Population Bomb'' and teaches biological studies at Stanford, where Ms. Ehrlich is a senior research associate in biological studies -- readily acknowledge the short attention span and scientific illiteracy of the general public, it may be too much to expect the reader's indulgence in this belabored and sometimes repetitive settling of professional accounts. The public interest would have been better served by a shorter book that focused more precisely on the ''potentially catastrophic consequences'' of environmental hazards.</p>
+        <p>Jacqueline Boone</p>
+        <p>Books in Brief: Nonfiction</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN SHORT: NONFICTION</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="424258"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">YULSMAN, TOM</person>
+        <person class="indexing_service">MITCHELL, GEORGE J (SEN)</person>
+        <object.title class="indexing_service">WORLD ON FIRE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DB1330F934A25751C0A967958260" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN SHORT: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By TOM YULSMAN</byline>
+      <byline class="normalized_byline">YULSMAN, TOM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WORLD ON FIRE Saving an Endangered Earth. By George J. Mitchell. Scribner's, $22.50.</p>
+      </block>
+      <block class="full_text">
+        <p>WORLD ON FIRE Saving an Endangered Earth. By George J. Mitchell. Scribner's, $22.50.</p>
+        <p>The Senate majority leader, George J. Mitchell, has written a detailed and often depressing account of what he calls the "Four Horsemen of the Apocalypse riding over today's world environment": the buildup of heat-trapping carbon dioxide and other greenhouse-effect gases in the atmosphere, the razing of rain forests, the destruction of the ozone layer and acid rain. Unfortunately, "World on Fire" bogs down in boring lists of statistics. And it is weakened by hyperbole. For example: "The day we began burning fossil fuels . . . we began turning our earth into an uninhabitable hothouse." But Mr. Mitchell does make several serious proposals, including a "world atmosphere fund," financed by a tax on fossil fuel use, and forgiveness of the debts of third world countries that agree to follow ecologically sound development practices. Despite its bleak tone, "World on Fire" ultimately is reassuring, because it reflects how concern for the environment has deepened since the time when Ronald Reagan declared that trees are a major source of air pollution.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

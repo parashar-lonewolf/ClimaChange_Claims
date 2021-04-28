@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy Dept. Finances Effort to Create Living Cell</title>
+    <meta content="Y22CEL$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/11/22/science/22CELL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1442743"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Human Genome Project</classifier>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Venter, J Craig</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <org class="online_producer">Energy Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E3D71539F931A15752C1A9649C8B63" item-length="360" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy Dept. Finances Effort to Create Living Cell</hl1>
+        <hl2 class="online_headline">Energy Dept. Finances Effort to Create Artificial Life</hl2>
+      </hedline>
+      <abstract>
+        <p>Energy Department gives $3-million grant to Dr J Craig Venter, leader of private effort to decode human genome, to develop best possible approximation to artificially created living cell (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Department of Energy has given a $3 million grant to Dr. J. Craig Venter, leader of the private effort to decode the human genome, to develop the best possible approximation to an artificially created living cell.</p>
+        <p>Under the grant, which was first reported by The Washington Post yesterday, scientists at an institute founded by Dr. Venter will try to synthesize the chromosome of a simple bacterium.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Department of Energy has awarded a $3 million grant to develop the best possible approximation to an artificially created living cell.</p>
+      </block>
+      <block class="full_text">
+        <p>The Department of Energy has given a $3 million grant to Dr. J. Craig Venter, leader of the private effort to decode the human genome, to develop the best possible approximation to an artificially created living cell.</p>
+        <p>Under the grant, which was first reported by The Washington Post yesterday, scientists at an institute founded by Dr. Venter will try to synthesize the chromosome of a simple bacterium.</p>
+        <p>The ability to create a living cell from scratch, by chemically synthesizing all its components, is far beyond present technology. But several years ago, Dr. Clyde Hutchinson of the University of North Carolina tried an alternative route to the same goal by taking one of the simplest known bacteria, Mycoplasma genitalium, and trying to define the minimum number of genes it needed to survive by stripping out all the unnecessary ones. Dr. Hutchinson reported in 1999 that the microbe could get by with as few as 265 genes, which could be thought of as the minimal set of genes needed for life.</p>
+        <p>A piece of DNA containing these genes might in principle be synthesized and inserted into a cell that had also been assembled artificially, probably with bits and pieces from other cells.</p>
+        <p>Dr. Venter, who helped lead the decoding of the M. genitalium genome in 1995, has now resumed Dr. Hutchinson's project at the Institute for Biological Energy Alternatives.</p>
+        <p>In a statement, Dr. Venter said the hope was that ''we could potentially engineer an organism with the ideal qualities to begin to cope with our energy issues,'' perhaps one that could create hydrogen or absorb carbon dioxide.</p>
+        <p>Whether this organism would be a new life form or a greatly modified bacterium could be debated, but Dr. Venter told The Associated Press, ''The description of this being a modification rather than making new life is probably correct.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

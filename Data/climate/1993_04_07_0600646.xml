@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Slicing and Molding by Computer</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="600646"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <org class="indexing_service">BAXTER HEALTHCARE CORP</org>
+        <person class="indexing_service">HOLUSHA, JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5DA1E3DF934A35757C0A965958260" item-length="1062" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Slicing and Molding by Computer</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLUSHA</byline>
+      <byline class="normalized_byline">HOLUSHA, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If and when the space station is ever built, what will happen when the crew needs a replacement part? In the absence of a fully stocked parts warehouse or astro-parcel post, the answer may lie in technology that is already making its way into the design studios of industrial companies.</p>
+        <p>Picture a part that exists only as data in a computer, but data that can be transmitted anywhere -- even to outer space, conceivably -- where a machine creates the part from raw materials.</p>
+      </block>
+      <block class="full_text">
+        <p>If and when the space station is ever built, what will happen when the crew needs a replacement part? In the absence of a fully stocked parts warehouse or astro-parcel post, the answer may lie in technology that is already making its way into the design studios of industrial companies.</p>
+        <p>Picture a part that exists only as data in a computer, but data that can be transmitted anywhere -- even to outer space, conceivably -- where a machine creates the part from raw materials.</p>
+        <p>This quick translation of computer data into physical objects is known as rapid prototyping, and it is happening now at companies like Baxter Healthcare.  Useful in Marketing</p>
+        <p>Baxter, a maker of hospital supplies, uses rapid prototyping to produce models of new products to show to its marketing representatives, who may not all be able to read engineering drawings.</p>
+        <p>"We can cut development time 50 percent with this approach, which also cuts costs," said Michael McEvoy, the vice president of advanced engineering at Baxter Healthcare, at a recent briefing sponsored by the Institute of Electrical and Electronics Engineers.</p>
+        <p>In an era in which getting new products quickly to market has become a key competitive weapon, rapid prototyping has the potential to give companies an advantage. Mr. McAvoy said Baxter had used rapid prototyping to develop new lines of intravenous solution equipment and needle-less connectors.  Rapid Advances Expected</p>
+        <p>The technology has not developed to the point where generating a solid model is as easy as ordering a printout of a computerized drawing, but that is the clear goal of the industry and many expect that it will be achieved by the middle of the decade.</p>
+        <p>Rapid prototyping began in the late 1980's with a process known as stereolithography, which uses a laser beam to form a hardened object out of a bath of molten plastic. The process begins with a computer-aided design terminal manipulating data about the object; in effect, electronically "cutting" it into hundreds of horizontal slices.</p>
+        <p>A laser beam describes each slice as the beam sweeps across the top of the vat of plastic, polymerizing the material where the beam focuses. Then a support descends a few thousandths of an inch into the bath, and the next layer is formed. Since the laser is playing across the surface of the plastic, complex internal shapes -- a ship in a bottle, for instance -- can be formed. Because there is a danger that an unstable object will fall over before the forming is complete, designers usually add a support structure that can be detached later.  Break With Tradition</p>
+        <p>Building up an object from multiple slices is a distinct departure from the traditional method of forming parts, which is to take an oversized piece of material and carve or machine it to the desired shape.</p>
+        <p>The development of stereolithography, and the obvious advantages of being able to transform images on a computer screen quickly into solid objects appear to have touched off a burst of creativity among engineers. Now there are systems under development that can use different procedures to create parts using metals, wax and ceramics, as well as plastic.</p>
+        <p>One interesting system, developed by researchers at Carnegie Mellon University, involves using lasers to cut paper masks that are used in stencil fashion to make parts out of metals. For each slice created by the software, a carbon dioxide laser cuts a pattern in two sheets of paper, which are then fixed in a frame. Spraying Out an Object</p>
+        <p>The frame is moved into a cell where an electric-arc torch sprays a layer of molten metal four-thousandths of an inch thick on the opening and the upper layer of paper. Although the molten metal is hotter than the temperature at which paper burns, the quantity of metal is small enough that it cools before fires start.</p>
+        <p>After the spraying, the upper layer of paper, which was sprayed with metal, is removed, leaving the partly formed metal part and the lower layer of paper as a support. The process is repeated as many times as necessary -- a test with a turbine blade required 162 layers, a small fan blade 52 layers -- and then the paper is peeled and cut away, freeing the part.</p>
+        <p>Daniel P. Siewiorek, a professor of computer science at Carnegie Mellon, and some of his students found how useful rapid prototyping could be when they produced a second-generation version of a "wearable" computer they call the Vu Man.</p>
+        <p>The plastic case for Vu Man 1, which was designed to hang from the user's belt and display information on an eye-level viewer, was formed by conventional vacuum molding techniques. This meant that any mistakes in the design were incorporated in each device.</p>
+        <p>"We forgot to provide a hole for a switch, so we had to go and drill one in each by hand," Professor Siewiorek said.</p>
+        <p>The case for Vu Man 2 was created by stereolithography. That meant a part could be quickly produced and checked to see where the design was working and where it was not. "We probably did four or five iterations of Vu Man 2 before we got it the way we wanted," Professor Siewiorek said. Among other improvements, the back of Vu Man 2 is slightly curved to conform more closely to the hip.</p>
+        <p>Rapid prototyping can also be used to make short-batch runs of products that otherwise would not be made, because conventional hard-tooling would be too expensive. Mr. McAvoy said Baxter makes stereolithographic models of parts, and then uses them as cores to make molds out of rubbery material.</p>
+        <p>After the rubber cools and hardens, the mold is split, the original core taken out, and the mold used to make runs of 50 to 100 plastic parts. "This is what we call second-generation rapid prototyping -- the use of the rapid prototype as a master model," Mr. McAvoy said.</p>
+        <p>Since computer data can be easily transmitted over telephone lines, it is now possible to, in effect, fax parts to remote sites. A part can be designed in one place and then sent to another site thousands of miles away where a prototyping machine translates the signals into an object.</p>
+        <p>Mr. McAvoy said Baxter had sent some designs over telecommunication lines to its affiliates in Europe, but widespread use of the technique is more likely in the future when less costly prototyping machines become widespread.</p>
+        <p>Which, someday, may lead to those spare parts for the space station.  BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

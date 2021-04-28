@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scorched Earth</title>
+    <meta content="15park" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/15/opinion/15park.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1732234"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+        <person class="online_producer">Park, Robert L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907EFD6173FF936A25752C0A9609C8B63" item-length="679" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scorched Earth</hl1>
+        <hl2 class="online_headline">Scorched Earth</hl2>
+      </hedline>
+      <byline class="print_byline">By Robert L. Park</byline>
+      <byline class="normalized_byline">Park, Robert L</byline>
+      <dateline>College Park, Md.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NASA has quietly terminated the Deep Space Climate Observatory, citing ''competing priorities.'' The news media took little notice. Few Americans, after all, had even heard of the program. But the entire world may come to mourn its passing.</p>
+        <p>Earth is growing warmer. Even the most strident global-warming deniers have taken to saying that a little warming is a good thing. If the trend continues, however, it will have catastrophic consequences for life on this planet. Correctly identifying the cause could be the most important problem facing humanity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Few Americans have heard of the Deep Space Climate Observatory, but the entire world may come to mourn its passing.</p>
+      </block>
+      <block class="full_text">
+        <p>NASA has quietly terminated the Deep Space Climate Observatory, citing ''competing priorities.'' The news media took little notice. Few Americans, after all, had even heard of the program. But the entire world may come to mourn its passing.</p>
+        <p>Earth is growing warmer. Even the most strident global-warming deniers have taken to saying that a little warming is a good thing. If the trend continues, however, it will have catastrophic consequences for life on this planet. Correctly identifying the cause could be the most important problem facing humanity.</p>
+        <p>Most scientists link global warming to unrestrained burning of fossil fuels, which shrouds Earth in a blanket of carbon dioxide, trapping the Sun's energy. Others, backed by industries that spew pollutants into the atmosphere, insist that greenhouse emissions are not the problem. They prefer to attribute warming to natural variations in solar output. Scientists are skeptical, but they don't deny the possibility. The issue cries out to be resolved.</p>
+        <p>Even in a world wracked by wars, battles are not fought over scientific disagreements. In science, nature is the sole arbiter. Disputes are resolved only by better experiments.</p>
+        <p>The better experiment when it comes to global warming was to be the climate observatory, situated in space at the neutral-gravity point between the Sun and Earth. Called Lagrange 1, or L1, this point is about one million miles from Earth. At L1, with a view of the full disk of the Sun in one direction, and a full sunlit Earth in the opposite, the observatory could continuously monitor Earth's energy balance. It was given a poetic name, Triana, after Rodrigo de Triana, the sailor aboard Christopher Columbus's ship who first sighted the New World.</p>
+        <p>Development began in November 1998 and it was ready for launching three years later. The cost was only about $100 million. For comparison, that is only one-thousandth the cost of the International Space Station, which serves no useful purpose.</p>
+        <p>Before Triana could be launched, however, there was a presidential election. Many of the industries favored by the new Bush White House were not anxious to have the cause of global warming pinned down. The launching was put on hold.</p>
+        <p>The disdain of the Bush White House for Triana goes much deeper than just a desire to avoid the truth about global warming. Triana began life in early 1998 as a brainchild of Al Gore, who was then the vice president. Mr. Gore, the story goes, woke up one morning wondering if it would be possible to beam a continuous image of the full Earth back from space to inspire people with the need to care for our planet. The 1972 portrait of the full Earth, taken from the Moon, had inspired millions with the fragile beauty of our blue planet. Why not beam the image live into classrooms, allowing students to view weather systems marching around the globe?</p>
+        <p>Scientists had dreamed of such an observatory for years. They hoped Mr. Gore's influence would make it happen. Mr. Gore's support would end up destroying it. Those who hated him, hated Triana. His dream of inspiring environmentalists and schoolchildren served only to trivialize the project. It was ridiculed as ''Gore's screen saver.''</p>
+        <p>Triana is terminated, but global warming is not. Someday, there will have to be an observatory at L1. Perhaps the most important lesson from our exploration of the solar system is that the most terrible place on Earth is a Garden of Eden compared to the best place anywhere else. We must find out how to keep it that way.</p>
+        <p>Op-Ed Contributor Robert L. Park, a professor of physics at the University of Maryland, is the author of ''Voodoo Science: The Road From Foolishness to Fraud.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Robert L. Park, a professor of physics at the University of Maryland, is the author of ''Voodoo Science: The Road From Foolishness to Fraud.''</tagline>
+    </body.end>
+  </body>
+</nitf>

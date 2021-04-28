@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nimby Factor In the Blackout</title>
+    <meta content="LTR014355" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1517940"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Blackouts (Electrical)</classifier>
+        <location class="indexing_service">Long Island (NY)</location>
+        <person class="indexing_service">Berwald, David</person>
+        <person class="indexing_service">Kessel, Richard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blackouts and Brownouts (Electrical)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E0DA163BF934A3575AC0A9659C8B63" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nimby Factor In the Blackout</hl1>
+      </hedline>
+      <abstract>
+        <p>David Berwald letter disputes Richard Kessel's comment in August 24 article that there is no way to isolate Long Island from future blackouts</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Richard Kessel's comment in ''Could Long Island Disconnect and Avoid Future Blackouts?'' [Aug. 24] that ''anyone who thinks there is a way to isolate Long Island either permanently or in an emergency from what's happening in the rest of the world is kidding themselves'' appears quite reasonable. At the time of the Aug. 14 blackout, total demand on Long Island was 4,589 megawatts, requiring that 600 to 700 megawatts be supplied from the six interconnections linking Long Island to the regional grid.</p>
+        <p>However, Mr. Kessel ignores Long Island's nimby legacy, much of which was spearheaded in the 1980's and 90's by Mr. Kessel himself. It was his amalgam of environmental organizations that led the fight to close the Shoreham nuclear power plant. With Shoreham, we might not have chosen to separate entirely from the grid, but its 840 megawatts would have allowed us to restore full power to the Island after we severed existing connections.</p>
+      </block>
+      <block class="full_text">
+        <p>Richard Kessel's comment in ''Could Long Island Disconnect and Avoid Future Blackouts?'' [Aug. 24] that ''anyone who thinks there is a way to isolate Long Island either permanently or in an emergency from what's happening in the rest of the world is kidding themselves'' appears quite reasonable. At the time of the Aug. 14 blackout, total demand on Long Island was 4,589 megawatts, requiring that 600 to 700 megawatts be supplied from the six interconnections linking Long Island to the regional grid.</p>
+        <p>However, Mr. Kessel ignores Long Island's nimby legacy, much of which was spearheaded in the 1980's and 90's by Mr. Kessel himself. It was his amalgam of environmental organizations that led the fight to close the Shoreham nuclear power plant. With Shoreham, we might not have chosen to separate entirely from the grid, but its 840 megawatts would have allowed us to restore full power to the Island after we severed existing connections.</p>
+        <p>The closure of Shoreham, wherein Long Island ratepayers bought, then closed, an unused nuclear plant that had already been completed and licensed for operation, was unprecedented nationwide. Today, Long Island lacks energy self-sufficiency and continues to pay among the highest electric rates in the nation. Mr. Kessel and his peers were adamant that Shoreham be dismantled rather than mothballed, so there is no bringing Shoreham back, badly needed and environmentally kind as it would have been (nuclear plants generate no carbon dioxide or other airborne effluents).</p>
+        <p>An opinion essay in the same section, ''Tough Choices Ahead After the Blackout,'' by Desmond Ryan, tells us what we already know: fighting every solution is no solution. But if we cannot be mature enough to make decisions that are in our collective best interest, then giving the federal Energy Regulatory Commission the authority to make them for us, as suggested by Mr. Ryan, begins to make sense.</p>
+        <p>David Berwald  Centerport</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="24OBSE" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/24/science/24OBSE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241362"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Penguins</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Amundsen-Scott South Pole STation</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Saturn (Planet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Titan (Moon)</classifier>
+        <location class="indexing_service">Antarctic Regions</location>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Saturn (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Penguins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Penguins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E0DC113EF937A15753C1A9669C8B63" item-length="693" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Chinese researchers study penguin populations in Antarctica over past 3,000 years by seeing how birds' droppings have affected chemical composition of a lake's sediment; comment on $153 million project to modernize Amundsen-Scott South Pole Station, only permanent station in Antarctic interior; scientists find evidence of variable cloud coverage on Titan, Saturn's largest moon (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Penguins and Climate</p>
+        <p>Much of science involves studying things left behind -- rocks deposited when an ice sheet retreated, say, or animal bones discarded after a Stone Age feast.</p>
+        <p>Penguins in Antarctica leave something behind as well. And that has enabled scientists to track the birds' rise and fall.</p>
+      </block>
+      <block class="full_text">
+        <p>Penguins and Climate</p>
+        <p>Much of science involves studying things left behind -- rocks deposited when an ice sheet retreated, say, or animal bones discarded after a Stone Age feast.</p>
+        <p>Penguins in Antarctica leave something behind as well. And that has enabled scientists to track the birds' rise and fall.</p>
+        <p>Chinese researchers have studied penguin populations in Antarctica over the past 3,000 years by seeing how the birds' droppings have affected the chemical composition of a lake's sediment.</p>
+        <p>The researchers collected a sediment core from a lake on the Ardley Peninsula, sectioned it and dated the sections using radiocarbon techniques. They then analyzed the samples for concentrations of elements like sulfur, phosphorous, calcium, zinc and selenium. Penguin droppings are rich in these elements, and there is a breeding ground around the lake, so concentrations of these elements are much higher in this lake than in others in the region.</p>
+        <p>The analysis, reported in the journal Nature, shows that the penguin population declined from 3,000 years ago, reaching its lowest level from 2,300 to 1,800 years ago, a known cold period. Then the population increased, reaching a peak sometime before 1,400 years ago, coinciding with a period of high precipitation.</p>
+        <p>So, the researchers point out, the size of penguin populations appears to be linked to climate. And if this has happened historically, they say, penguins may be affected by climate change today.</p>
+        <p>Update in Antarctica</p>
+        <p>Unlike penguins, people are relative newcomers to Antarctica. The Amundsen-Scott South Pole Station, for example, the only permanent station in the Antarctic interior, has only been continuously occupied for a little more than four decades.</p>
+        <p>That is not such a long time, but the station, which is operated by the National Science Foundation, is really showing its age.</p>
+        <p>A $153 million project to modernize the station has been under way for several years, and now, during the coming Antarctic summer, workers will begin building the first portion of a new main structure to replace a 52-foot-high geodesic dome built in the 1970's. That dome has been structurally weakened over the years by the buildup of drifting snow in the harsh polar conditions.</p>
+        <p>The new building will be more spacious, and, like a beach house in hurricane country, will be built on stilts. The idea is that snow and ice will blow right through without drifting. As the stilts -- metal columns -- settle into the polar ice, the building will be jacked up from time to time.</p>
+        <p>The modernization project is expected to be completed by 2005. Other improvements include new fuel storage facilities, and a system for treating sewage and recycling waste water. Previously, the station had pumped raw sewage down into the ice, where it has been left to accumulate.</p>
+        <p>Clouds of Titan</p>
+        <p>Things keep getting curiouser and curiouser with Titan, Saturn's largest moon and one of the objects to be studied by the Cassini spacecraft in 2004. Titan has an atmosphere, composed, like Earth's, mostly of nitrogen, and some planetary scientists think it may have a methane cycle, like the Earth's water cycle with its clouds, rain and seas.</p>
+        <p>While there has been no firm evidence of rain or seas on Titan, there are now strong indications of clouds. Scientists at Northern Arizona University, writing in Science, have reported variations in spectral observations of the planet in a frequency range, the near-infrared, that indicates the presence of variable cloud coverage.</p>
+        <p>The observations showed that the clouds are of the same height and are sparse, covering less than 1 percent of Titan. They also can dissipate quickly, in as little as two hours. Their short lives indicate the presence of rain, the researchers suggest, and the common heights indicate that a common process, perhaps convection, is responsible for their formation.</p>
+        <p>So, the researchers suggest, Titan may indeed have a methane cycle.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

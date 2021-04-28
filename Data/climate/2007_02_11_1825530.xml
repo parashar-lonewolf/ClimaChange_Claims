@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SERIOUS TALK</title>
+    <meta content="11suits-4" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1825530"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Debating</classifier>
+        <org class="indexing_service">Asia Society</org>
+        <org class="indexing_service">Delphi Financial Group Inc</org>
+        <person class="indexing_service">Rosenkranz, Robert</person>
+        <person class="indexing_service">Fabrikant, Geraldine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E4DA1E3FF932A25751C0A9619C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SERIOUS TALK</hl1>
+      </hedline>
+      <byline class="print_byline">By GERALDINE FABRIKANT</byline>
+      <byline class="normalized_byline">Fabrikant, Geraldine</byline>
+      <abstract>
+        <p>Delphi Financial Group chief executive Robert Rosenkranz is underwriting much of cost of series of debates at Asia Society's New York headquarters on variety of public policy issues (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>He made a fortune in private equity, but Robert Rosenkranz's passion is public policy. That passion has led Mr. Rosenkranz, chief executive of the Delphi Financial Group, to organize a series of public policy debates under the rubric Intelligence Squared US.</p>
+        <p>On Thursday, the Asia Society's New York headquarters, on Park Avenue at 70th Street, was packed with people paying $40 to hear six speakers kick around the question of whether religion plays too big a role in American life. Other programs on the schedule are scarcely less combustible: global warming, domestic surveillance and China. All the programs are already sold out.</p>
+      </block>
+      <block class="full_text">
+        <p>He made a fortune in private equity, but Robert Rosenkranz's passion is public policy. That passion has led Mr. Rosenkranz, chief executive of the Delphi Financial Group, to organize a series of public policy debates under the rubric Intelligence Squared US.</p>
+        <p>On Thursday, the Asia Society's New York headquarters, on Park Avenue at 70th Street, was packed with people paying $40 to hear six speakers kick around the question of whether religion plays too big a role in American life. Other programs on the schedule are scarcely less combustible: global warming, domestic surveillance and China. All the programs are already sold out.</p>
+        <p>Mr. Rosenkranz, who underwrites much of the cost for the evenings, said he wants to provoke serious discussion on important issues, something he believes is missing from the public discourse.</p>
+        <p>''I think people are tired of the crudeness that passes for debate,'' said Mr. Rosenkranz, who modeled his group on a British debating society. ''There is a hunger for discourse on this level.''</p>
+        <p>GERALDINE FABRIKANT</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

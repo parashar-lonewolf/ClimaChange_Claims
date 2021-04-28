@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let's Keep the Lights On: Some Expert Advice for Con Ed; Can We Blame The Weather?</title>
+    <meta content="30CIfox-penner" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1779584"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Blackouts and Brownouts (Electrical)</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Queens (NYC)</location>
+        <org class="indexing_service">Consolidated Edison Inc</org>
+        <person class="indexing_service">Fox-Penner, Peter</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blackouts and Brownouts (Electrical)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E6D7123FF933A05754C0A9609C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let's Keep the Lights On: Some Expert Advice for Con Ed; Can We Blame The Weather?</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter Fox-Penner</byline>
+      <byline class="normalized_byline">Fox-Penner, Peter</byline>
+      <dateline>Cambridge, Mass.</dateline>
+      <abstract>
+        <p>Op-Ed article by Brattle Group chairman Peter Fox-Penner, in light of recent blackouts in Queens, holds US power grid must be redesigned to deal with extreme weather (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AN aging distribution system may be implicated in New York's recent blackouts, but there are longer-term forces at work here.</p>
+        <p>On the positive side, new technologies are available that monitor the distribution system and automatically report overloads and blackouts. In New York, where reliable power is vital, the distribution system should be state-of-the-art.</p>
+      </block>
+      <block class="full_text">
+        <p>AN aging distribution system may be implicated in New York's recent blackouts, but there are longer-term forces at work here.</p>
+        <p>On the positive side, new technologies are available that monitor the distribution system and automatically report overloads and blackouts. In New York, where reliable power is vital, the distribution system should be state-of-the-art.</p>
+        <p>But the power failure in Queens was the combined effect of a prolonged heat wave, intense rains and a tornado. Severe weather like this -- perhaps the early effects of global climate change -- are increasing in frequency and intensity.</p>
+        <p>The United States power grid must be redesigned to deal with this extreme weather. Although it is easy to blame utilities when blackouts occur, state and federal leadership and a willingness to pay for grid upgrades have been lacking. A smarter, stronger grid is a national priority, not just New York's problem.</p>
+        <p>Peter Fox-Penner is the chairman of the Brattle Group, a consulting firm that advises utilities and energy companies. A principal of the firm has a proposal pending with Con Edison.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Peter Fox-Penner is the chairman of the Brattle Group, a consulting firm that advises utilities and energy companies. A principal of the firm has a proposal pending with Con Edison.</tagline>
+    </body.end>
+  </body>
+</nitf>

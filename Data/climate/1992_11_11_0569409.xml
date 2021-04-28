@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Ferment in the Kitchen</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Living Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="569409"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BAKERIES AND BAKED PRODUCTS</classifier>
+        <person class="indexing_service">FABRICANT, FLORENCE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bakeries and Baked Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE3D71038F932A25752C1A964958260" item-length="280" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Ferment in the Kitchen</hl1>
+      </hedline>
+      <byline class="print_byline">By Fflorence fabricant</byline>
+      <byline class="normalized_byline">FABRICANT, FLORENCE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT its most basic, bread-baking requires only flour, water and leavening. Adjusting the proportions, as well as the baking time and temperature, results in a wide variety of breads.</p>
+        <p>Sourdough, a baking term that evokes images of gritty gold miners, refers to a kind of leavening. It is popular with serious bread bakers these days, both because it is considered more natural than commercial yeast and because sourdough breads tend to have more "rustic" textures, thicker crusts and a more assertive but not necessarily sour taste.</p>
+      </block>
+      <block class="full_text">
+        <p>AT its most basic, bread-baking requires only flour, water and leavening. Adjusting the proportions, as well as the baking time and temperature, results in a wide variety of breads.</p>
+        <p>Sourdough, a baking term that evokes images of gritty gold miners, refers to a kind of leavening. It is popular with serious bread bakers these days, both because it is considered more natural than commercial yeast and because sourdough breads tend to have more "rustic" textures, thicker crusts and a more assertive but not necessarily sour taste.</p>
+        <p>Once flour is mixed with water and yeast and allowed to stand, it will ferment because of the action of the yeast, which actually "eats" the sugars in the grain or flour and causes the mixture to sour. Such fermentation is the basis for making beer, wine and yogurt as well. One byproduct of fermentation is carbon dioxide gas. (Another is ethyl alcohol.) In bread, bubbles of the gas remain trapped in the mixture, giving it lightness and sponginess.</p>
+        <p>A baker can use commercial yeast, which works relatively quickly and in a highly controlled manner, or a sourdough method, taking advantage of natural yeasts in the air to start the fermentation. When a baker has found a good sourdough starter, a little is usually kept from one batch of bread to start the next, sometimes even from generation to generation.</p>
+        <p>Bakers have found that by letting dough rise very slowly, sometimes for 15 to 20 hours, the bread will have a better, richer, more complex flavor. They also try to use as little yeast as possible. This is easier with sourdough starters. Some bakers are experimenting with combinations of sourdough and commercial yeast.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

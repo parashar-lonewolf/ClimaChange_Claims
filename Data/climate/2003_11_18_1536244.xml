@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fires and Warming</title>
+    <meta content="18QNA.$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/11/18/science/earth/18QNA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1536244"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Fireplaces</classifier>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="indexing_service" type="descriptor">Heaters</classifier>
+        <classifier class="indexing_service" type="descriptor">Ovens and Stoves</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fireplaces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Heating</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE2D71138F93BA25752C1A9659C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fires and Warming</hl1>
+        <hl2 class="online_headline">Fires and Warming</hl2>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A Column discusses effects of fireplaces, wood stoves and burning garden wastes on global warming; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  How much do fireplaces and wood stoves contribute to global warming? What about the burning of garden waste?</p>
+        <p>A. In the United States, more heat-trapping greenhouse gas is absorbed by the regrowth of forests and other plants than is released by burning wood, said Kevin Baumert, a researcher at the World Resources Institute, an environmental research group. Burning of garden waste makes a negligible contribution to the greenhouse gas burden, he added.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This weeks question: How much do fireplaces and wood stoves contribute to global warming? What about the burning of garden waste?</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  How much do fireplaces and wood stoves contribute to global warming? What about the burning of garden waste?</p>
+        <p>A. In the United States, more heat-trapping greenhouse gas is absorbed by the regrowth of forests and other plants than is released by burning wood, said Kevin Baumert, a researcher at the World Resources Institute, an environmental research group. Burning of garden waste makes a negligible contribution to the greenhouse gas burden, he added.</p>
+        <p>Green plants use the greenhouse gas carbon dioxide for photosynthesis as they grow, and it is recycled to the atmosphere when they die.</p>
+        <p>In the United States, the major greenhouse emissions are carbon dioxide from the burning of fossil fuel and methane from agriculture, Mr. Baumert said.</p>
+        <p>Forest fires and deforestation in the tropics are an entirely different situation, he said.</p>
+        <p>In countries like Brazil and Indonesia, emissions from deforestation are a huge source of carbon dioxide, and such emissions are even larger than carbon dioxide emissions from the burning of fossil fuel in many tropical countries.</p>
+        <p>''When trees are cut down there is an assumption that they will be burned or rot, with carbon dioxide emitted at some point,'' Mr. Baumert said. ''It doesn't matter whether it burns in a fireplace or rots in the forest.''</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

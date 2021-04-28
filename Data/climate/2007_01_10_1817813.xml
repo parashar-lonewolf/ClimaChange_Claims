@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Favorite Green Lump</title>
+    <meta content="10friedman" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/10/opinion/10friedman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817813"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Coal</classifier>
+        <location class="indexing_service">Montana</location>
+        <person class="indexing_service">Friedman, Thomas L</person>
+        <person class="indexing_service">Schweitzer, Brian (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Thomas L Friedman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Montana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Rockies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Montana</classifier>
+        <classifier class="online_producer" type="descriptor">Coal</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Montana</location>
+        <person class="online_producer">Schweitzer, Brian</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0DE1230F933A25752C0A9619C8B63" item-length="842" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Favorite Green Lump</hl1>
+        <hl2 class="online_headline">My Favorite Green Lump</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS L. FRIEDMAN</byline>
+      <byline class="normalized_byline">Friedman, Thomas L</byline>
+      <dateline>COLSTRIP, MONTANA</dateline>
+      <abstract>
+        <p>Thomas L Friedman Op-Ed column says cheap, abundant coal is his favorite 'green' energy source but it is crucial to find cleaner way of burning coal to slow carbon dioxide emissions that cause global warming; supports Montana Gov Brian Schweitzer's crusade to get coal-burning industries, in partnership with government, to take lead on finding and using clean coal technologies; relates tour of Montana, which has one-third of coal deposits in US (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All environmentalists have their favorite ''green'' energy source that they think will break our addiction to oil and slow down climate change. I've come out to Montana to see mine. It's called coal.</p>
+        <p>Yes, yes, I know, you thought I was going to say corn ethanol or switch grass or soybean diesel. Well, one day they all might reach a scale that can get us off oil. But the cheap, available fuel that China, India and America all have in abundance today -- and are all going to burn for the next decade -- is coal. So unless we can burn coal in a cleaner way, you can kiss the climate goodbye -- we'll all be wearing bikinis and shorts in Manhattan in January.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When it comes to cleaning up coal, Governor Schweitzer of Montana is dead serious.</p>
+      </block>
+      <block class="full_text">
+        <p>All environmentalists have their favorite ''green'' energy source that they think will break our addiction to oil and slow down climate change. I've come out to Montana to see mine. It's called coal.</p>
+        <p>Yes, yes, I know, you thought I was going to say corn ethanol or switch grass or soybean diesel. Well, one day they all might reach a scale that can get us off oil. But the cheap, available fuel that China, India and America all have in abundance today -- and are all going to burn for the next decade -- is coal. So unless we can burn coal in a cleaner way, you can kiss the climate goodbye -- we'll all be wearing bikinis and shorts in Manhattan in January.</p>
+        <p>When it comes to what it will take to ''green'' coal, there's no more informed or intrepid tour guide than Montana's Democratic governor, Brian Schweitzer. The governor, a bulldozer of a man, met me in Billings in his little prop plane, we flew into a winter gale that tossed us around like salad pieces, and then we set down on a makeshift runway in Colstrip, on the edge of a coal strip mine. On the way back, after flying through another howling storm that caused me to dig my nails so deeply into the armrests I left my fingerprints in the leather, I thanked the pilots profusely. The governor simply bellowed, ''I'm glad we had our best interns flying today!''</p>
+        <p>When it comes to cleaning up coal, though, Governor Schweitzer is dead serious.</p>
+        <p>''Here in Montana we make our living outside,'' said the governor, an agronomist who got his start building farms in Saudi Arabia, ''and when you do that, you know the climate is changing. We don't get as much snow in the high country as we used to  and the runoff starts sooner in the spring.  The river I've been fishing over the last 50 years is now warmer in July by five degrees than 50 years ago, and it is hard on our trout population.  So when Exxon Mobil hires someone who calls himself a 'scientist' to claim this is not true, you don't have to get The New York Times to know the guy is blowing smoke.''</p>
+        <p>But here's what the governor also knows: Montana has one-third of all the coal deposits in America -- 8 percent of all the coal in the world. Montana's coal is roughly equivalent to 240 billion barrels of oil. ''That's enough to replace all our imported oil for 60 years,'' he noted.</p>
+        <p>That's the good news. The bad news is that because of global warming -- fueled in part by carbon dioxide emissions from coal-burning electricity plants -- the only way we'll be able to use all those coal reserves is if we can burn coal without emitting the CO2. Otherwise we're cooked, literally.</p>
+        <p>So Governor Schweitzer's crusade is to get the coal-burning industries to take the lead on this, in partnership with government. The governor recalled a recent conference of coal-dependent industries, held in Phoenix, at which he held up a lump of coal and warned: ''You are the people who represent the companies who will decide whether I'm holding up the future of energy or the past. Take a look at all the other people sitting at your table. You know who you see? You see the last remaining people on the planet who don't believe CO2 is a problem.  The only way you will make this the energy of the future is to recognize C02 as a problem and that you have to be part of the solution.'' And by the way, he added, ''there is a lot of money in it for you guys. You can sell this technology all over the world.''</p>
+        <p>Governor Schweitzer has a plan for Washington: 1) Set a floor price for crude oil in the U.S. at $40 a barrel forever. That will tell Wall Street that if it invests in new, clean coal technologies -- which can be run profitably at the equivalent of $40 a barrel -- OPEC will never undercut them. 2) Set up a European-style cap and trade system rewarding companies that buy clean coal technologies and punishing those that don't. 3) Have Washington co-invest in a dozen pilot gasification and liquefaction technologies -- which already exist -- for cleaning coal and sequestering the carbon dioxide. Then we'll identify the best technologies quicker and move down the innovation curve. 4) Write the regulations now for how we will manage carbon dioxide that is removed from coal and stored underground.</p>
+        <p>As we talked, four smokestacks from the coal-fired electricity plant in Colstrip, which helps power Portland and Seattle, were belching CO2.</p>
+        <p>''For the last 100 years we built plants like this one,'' the governor said. ''It takes crushed coal, ignites it to heat water that produces steam, and that turns a turbine and produces electricity.  You build that smoke stack real high so that nasty stuff goes to someone else's backyard. Well, we've run out of backyards.''</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

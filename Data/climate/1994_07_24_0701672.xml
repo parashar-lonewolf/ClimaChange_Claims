@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robot Set to Explore a Volcano That's Too Dangerous for Humans to Enter</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="701672"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">VOLCANOES</classifier>
+        <classifier class="indexing_service" type="descriptor">ROBOTS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">DANTE II (ROBOT)</classifier>
+        <location class="indexing_service">MOUNT SPURR (ALASKA)</location>
+        <person class="indexing_service">LEARY, WARREN E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="general_descriptor">Volcanoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940724T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DB133EF937A15754C0A962958260" item-length="1346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robot Set to Explore a Volcano That's Too Dangerous for Humans to Enter</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY,</byline>
+      <byline class="normalized_byline">LEARY, WARREN E</byline>
+      <dateline>WASHINGTON, July 23</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A gangly eight-legged robot called Dante II is preparing to descend into the dark interior of an active Alaskan volcano in an effort to extend the reach of humans into places too dangerous for them to go.</p>
+        <p>Plans call for the walking robot to spend five days in the crater of the volcano, Mount Spurr, 80 miles west of Anchorage.</p>
+      </block>
+      <block class="full_text">
+        <p>A gangly eight-legged robot called Dante II is preparing to descend into the dark interior of an active Alaskan volcano in an effort to extend the reach of humans into places too dangerous for them to go.</p>
+        <p>Plans call for the walking robot to spend five days in the crater of the volcano, Mount Spurr, 80 miles west of Anchorage.</p>
+        <p>Researchers powered up Dante today and tested its telemetry, finding all systems to be working properly. Helicopters began moving the robot and associated equipment toward the crater's edge, but poor weather curtailed the operation and the robot was left for the night, under guard, 7,500 feet below the crater's rim, officials said. The operation will resume on Sunday, weather permitting.</p>
+        <p>Tethered to the rim of the crater, Dante is to pick its way down the snowy, rock-strewn slopes of an active vent and sample the toxic gases spewing from below. Engineers said it should take about two days for the robot to amble and rappel down to the crater floor, about 600 feet below the rim. Once there, it is to spend a day mapping the crater and measuring the temperature and composition of gases before starting an expected two-day climb out.</p>
+        <p>An earlier version of the robot tried a similar feat a year and a half ago on Mount Erebus in Antarctica, but that mission was cut short after the robot had advanced only 28 feet. A fiber-optic communication cable had broken and could not be repaired. Dangers Limit Scientists</p>
+        <p>Mount Spurr is an active volcano, having erupted three times in 1992 and having constant quakes and rockfalls. That means scientists can spend only a few hours at a time there, and only then with a helicopter nearby for an emergency escape. So a team of researchers plans to spend less than three hours setting up Dante at the crater rim, 7,575 feet above sea level.</p>
+        <p>They will deploy the robot, anchor its tether, set up a power generator and erect a satellite dish for communicating with control centers in Anchorage and the Ames Research Center of the National Aeronautics and Space Administration in Mountain View, Calif.</p>
+        <p>Dante, standing 10 feet tall with its arched sensor mast, is 10 feet long and 8 feet wide. The robot is equipped with a laser range-finder to measure distances, sensors to measure leg stress and contact, sensors to measure tether tension and tilt, six regular video cameras, two stereo video cameras and a digital high-resolution still-frame camera.</p>
+        <p>Employing two sets of four legs, the robot moves with a crablike gait by lifting two legs on each side at the same time and sliding them forward. It repeats the action with the second set of legs, advancing about three feet a minute. On a tryout Wednesday at an Anchorage quarry, Dante took 10 hours to cover 600 feet up and down a sloping gravel pit.  Testing for Planet Exploration</p>
+        <p>The $1.8 million Alaskan mission is sponsored primarily by NASA, which is interested in perfecting remote robot operations for use on the moon and other celestial bodies. In addition, scientists from the Robotics Institute of Carnegie Mellon University in Pittsburgh, which designed and built the robot, say such machines acting independently or under human guidance could revolutionize the study of volcanoes, caves, deep ocean chasms or other parts of the earth that are risky for humans to enter.</p>
+        <p>"The primary interest we have is to use this project to drive new technology that can be applied to planetary rover missions," said David Lavery, manager of the telerobotics research program at NASA. "We don't envision something like Dante on the moon, but parts of it, such as the intelligent software of its computer system that controls its movements and its system for perceiving its surroundings, could be applied to an advanced project."</p>
+        <p>Dante is a step toward scientists' goal of extending human senses into areas or environments either too hazardous or too distant for human presence. They have dubbed it "telepresence."</p>
+        <p>Scientists say they need a way to sample the gases and materials venting from volcanoes so they can look for clues to predicting eruptions and study how these gases may contribute to ozone loss and global warming. They also say it is better to sample these materials before they mix with other substances or are diluted by the air.</p>
+        <p>But getting close to volcanic sources is difficult and dangerous. In the past two years, eight volcanologists around the world have died trying to descend into volcanoes. Obviously, scientists say, robot explorers could be as useful on Earth as they are in space. Bigger, Better Robot</p>
+        <p>The Carnegie Mellon team, led by Dr. William L. Whittaker and Dr. John E. Bares, says that the new Dante contains parts of the robot that went to Antarctica but is essentially a new and better machine.</p>
+        <p>At 1,700 pounds, Dante II is 500 pounds heavier than its predecessor. The computers that control the robot and its sensors are now mounted on the machine instead of being at a remote-control center. The tether system, which reels out automatically, stabilizing the robot and allowing it to rappel down steep inclines, has been bolstered with 1,000 feet of tougher cable.</p>
+        <p>The cable, almost a half-inch thick and reinforced with the same material used to make bulletproof vests, contains three lines supplying power to the robot and five pairs of copper wires for communications and data transmission.</p>
+        <p>"We have a lot more backups this time, in both components and methods of using components," Dr. Bares said. "But there are still all kinds of failures that could take us down."</p>
+        <p>Relying on its sensors and computer programming, Dante can negotiate down a slope and over obstacles 4 feet 2 inches high without human guidance. But researchers said they plan to use a combination of remote control and autonomous movement by the robot for the journey down the crater, the same approach that might be used for a robot on the moon. Three-Dimensional Viewing</p>
+        <p>The project will also employ a type of virtual reality to help the robot's human handlers guide the robot through the mists and smoke of the uncharted crater. Using data from the range-finder and sensors, the robot's computers will generate a three-dimensional map of its environment that will be seen by its controllers. Researchers at the Ames center, where the technology was developed, will wear stereo glasses to give them a sense of depth as they follow a representation of Dante on monitor screens.</p>
+        <p>As the robot walks, controllers will see an animation of it moving among the boulders, ditches and other features re-created on their screens from information relayed by the robot. The legs of the animated robot even change color with the force they apply to the ground.</p>
+        <p>"A model of the crater interior builds up as the robot proceeds," Mr. Lavery said. "The more information the robot gathers, the more detail you get about the terrain."</p>
+        <p>After the mission, he said, researchers can use computers to combine the robot data with images from the stereo video cameras to make high-resolution, three-dimensional models of the crater that give people the feeling of being there.</p>
+        <p>While Dante could be destroyed in a rock slide or earthquake, Mr. Lavery said he would consider the project successful if the robot made it from the rim to the bottom of the crater and relayed some scientific information.</p>
+        <p>"That would demonstrate that a robot is a viable delivery platform for scientific research," he said.</p>
+        <p>Dr. Whittaker, a robotics pioneer who says Dante II is his 40th robot creation, said the technology had reached a point where it was time to put more of the machines into the real world. Carnegie Mellon recently received a NASA grant to establish a Robotics Engineering Consortium to bring together business, universities and government to apply the technology to new industrial uses, like in farming and construction.</p>
+        <p>"Robots are not just laboratory entities," Dr. Whittaker said, "and we must transform our technical gymnastics into appliances. When this stuff leaves the lab, it will change the world."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

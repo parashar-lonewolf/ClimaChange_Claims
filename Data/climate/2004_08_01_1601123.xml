@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Southold's Municipal Energy To Be Met by Wind Turbines</title>
+    <meta content="MB012616" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1601123"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Wind</classifier>
+        <location class="indexing_service">Southold (NY)</location>
+        <location class="indexing_service">Fenner (NY)</location>
+        <org class="indexing_service">Community Energy Inc</org>
+        <person class="indexing_service">Rather, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EEDB1F3DF932A3575BC0A9629C8B63" item-length="297" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Southold's Municipal Energy To Be Met by Wind Turbines</hl1>
+      </hedline>
+      <byline class="print_byline">By John Rather</byline>
+      <byline class="normalized_byline">Rather, John</byline>
+      <abstract>
+        <p>Town board in Southold, NY, votes unanimously to sign five-year contract with Community Energy of Wayne, Pa, for supplies from wind turbines in upstate Fenner, NY (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Town of Southold will become the first town or village on Long Island to purchase all of its municipal power from wind turbines. But for now, at least, the power will not be generated locally.</p>
+        <p>The town board voted unanimously last month to sign a five-year contract with Community Energy of Wayne, Pa., for supplies from wind turbines in upstate Fenner, which is east of Syracuse.</p>
+      </block>
+      <block class="full_text">
+        <p>The Town of Southold will become the first town or village on Long Island to purchase all of its municipal power from wind turbines. But for now, at least, the power will not be generated locally.</p>
+        <p>The town board voted unanimously last month to sign a five-year contract with Community Energy of Wayne, Pa., for supplies from wind turbines in upstate Fenner, which is east of Syracuse.</p>
+        <p>The town supervisor, Joshua Y. Horton, said the wind power would be about 8 percent more expensive than electricity the town now purchases from the Long Island Power Authority.</p>
+        <p>But Mr. Horton said a town conservation program that goes into effect next year would offset the higher cost. He said the town's annual municipal bill for streetlights and all town buildings was currently about $100,000.</p>
+        <p>''The collective consciousness on the board was that this is an environmentally responsible step to take given that this is a renewable energy source,'' he said of the town's foray into wind power.</p>
+        <p>Keith Christensen, the director of Hudson Valley operations for Community Energy, said the Southold power would be generated by 20 1.5-megawatt turbines situated on farms in the area. The turbines are 220 feet high and have blades 120 feet in length.</p>
+        <p>Farmers receive $3,000 to $4,000 annually for each turbine on their land. ''It's a cash crop for them,'' Mr. Christensen said.</p>
+        <p>Mr. Christensen said that building turbines on Long Island was ''certainly not in our plans'' because the turbines would probably meet strong local opposition.</p>
+        <p>John Rather</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

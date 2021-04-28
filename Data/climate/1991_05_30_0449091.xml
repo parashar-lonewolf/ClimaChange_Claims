@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>House Approves Bill For a Texas Collider And Water Projects</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="449091"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PHYSICS</classifier>
+        <classifier class="indexing_service" type="descriptor">ATOMIC WEAPONS</classifier>
+        <classifier class="indexing_service" type="descriptor">NUCLEAR WASTES</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">PUBLIC WORKS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUPERCONDUCTING SUPERCOLLIDER</classifier>
+        <classifier class="indexing_service" type="descriptor">ENERGY AND POWER</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">TEXAS</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nuclear Wastes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Works</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5D6133CF933A05756C0A967958260" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>House Approves Bill For a Texas Collider And Water Projects</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, May 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The House today approved $21.5 billion for energy and water projects, including increased spending to clean up nuclear weapons plants and continued financing for a planned $8.2 billion atom smasher in Texas.</p>
+        <p>The legislation, approved by a 392-to-24 vote, was the first major appropriation bill to reach the floor for the fiscal year that begins Oct. 1.</p>
+      </block>
+      <block class="full_text">
+        <p>The House today approved $21.5 billion for energy and water projects, including increased spending to clean up nuclear weapons plants and continued financing for a planned $8.2 billion atom smasher in Texas.</p>
+        <p>The legislation, approved by a 392-to-24 vote, was the first major appropriation bill to reach the floor for the fiscal year that begins Oct. 1.</p>
+        <p>The vote came after nearly five hours of debate on whether to continue to spend money for the particle collider, the Superconducting Supercollider. The project calls for construction near Dallas of a laboratory that scientists hope will help answer basic questions about energy and matter.</p>
+        <p>The measure includes $443 million for the project. It also provides a 25 percent increase, for a total of $4.4 billion, in spending to clean up hazardous wastes at the Government's nuclear weapons plants and financing for scores of flood and erosion-control projects and drought relief in the West.</p>
+        <p>Under the bill, $637 million would be spent to clean up and resume plutonium production at the Rocky Flats weapons plant in Colorado where the Energy Department wants to resume processing plutonium later this year.</p>
+        <p>The legislation also calls for $237 million for research into renewable energy sources including solar power, hydropower, geothermal heat and biofuels.</p>
+        <p>But debate over the measure was focused largely on whether to halt financing for the collider project, to be completed in 1999.</p>
+        <p>Representative Pete Geren, Democrat of Texas, defended it as "an investment in the future." But critics questioned assurances by the Energy Department about its cost and scientific value.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

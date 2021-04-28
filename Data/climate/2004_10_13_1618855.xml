@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Is That Your Final Answer?: Questions For Kerry; Clearing the Air</title>
+    <meta content="13WHIT$01" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1618855"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <classifier class="indexing_service" type="descriptor">Debating</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Whitman, Christie</person>
+        <person class="indexing_service">Kerry, John (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0DB1E3BF930A25753C1A9629C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Is That Your Final Answer?: Questions For Kerry; Clearing the Air</hl1>
+      </hedline>
+      <byline class="print_byline">By Christie Whitman</byline>
+      <byline class="normalized_byline">Whitman, Christie</byline>
+      <abstract>
+        <p>Christie Whitman Op-Ed article suggests questions on air pollution and global warming that Sen John Kerry should be asked in third presidential debate (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You have been critical of President Bush's rejection of the Kyoto Protocol, yet in 1997 you joined 94 of your Senate colleagues in effectively rejecting its terms. What has changed to make you accept now what you then rejected?</p>
+      </block>
+      <block class="full_text">
+        <p>You have been critical of President Bush's rejection of the Kyoto Protocol, yet in 1997 you joined 94 of your Senate colleagues in effectively rejecting its terms. What has changed to make you accept now what you then rejected?</p>
+        <p>The president's Clear Skies proposal calls for a 70 percent reduction in some of the worst air pollutants, including mercury, over the next decade. While the current Clean Air Act has made a difference, it is cumbersome, it almost always involves lengthy litigation that delays any benefits, and it doesn't set any specific level for the reduction of mercury. Why haven't you led the fight to avoid lawsuits and instead demand the results the president has advocated?</p>
+        <p>Christie Whitman was administrator of the Environmental Protection Agency from 2001 to 2003.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Christie Whitman was administrator of the Environmental Protection Agency from 2001 to 2003.</tagline>
+    </body.end>
+  </body>
+</nitf>

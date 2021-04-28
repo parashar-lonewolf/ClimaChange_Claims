@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Actor Interviews Clinton</title>
+    <meta content="Y01LEO$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1188358"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <org class="indexing_service">Abc Inc</org>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Dicaprio, Leonardo</person>
+        <object.title class="indexing_service">Planet Earth 2000 (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EFD8103CF932A35757C0A9669C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Actor Interviews Clinton</hl1>
+      </hedline>
+      <dateline>WASHINGTON, March 31</dateline>
+      <abstract>
+        <p>Actor Leoanrdo DiCaprio interviews Pres Clinton about global warming for ABC News special, Planter Earth 2000, which will be shown in late April (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The actor Leonardo DiCaprio, the star of ''Titanic,'' assumed a new role today, interviewing President Clinton about global warming for ABC News.</p>
+        <p>Mr. DiCaprio, chairman of the coming Earth Day celebration in Washington, spent 20 minutes with the president for a television special, ''Planet Earth 2000.''</p>
+      </block>
+      <block class="full_text">
+        <p>The actor Leonardo DiCaprio, the star of ''Titanic,'' assumed a new role today, interviewing President Clinton about global warming for ABC News.</p>
+        <p>Mr. DiCaprio, chairman of the coming Earth Day celebration in Washington, spent 20 minutes with the president for a television special, ''Planet Earth 2000.''</p>
+        <p>''It wasn't a grilling,'' said an aide to the president, ''but he did ask the president very thoughtful questions.''</p>
+        <p>ABC News said the hourlong special would be shown in late April in connection with the 30th anniversary of Earth Day on April 22.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

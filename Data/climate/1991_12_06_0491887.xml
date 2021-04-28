@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At the Movies</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="491887"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTION PICTURES</classifier>
+        <person class="indexing_service">VAN GELDER, LAWRENCE</person>
+        <person class="indexing_service">HAUER, RUTGER</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DA123FF935A35751C1A967958260" item-length="446" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At the Movies</hl1>
+      </hedline>
+      <byline class="print_byline">By Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">VAN GELDER, LAWRENCE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If Rutger Hauer were an army, he'd be proceeding on many fronts.</p>
+        <p>The Dutch-born star of such films as "Soldier of Orange," "Blade Runner" and "Ladyhawke," is anticipating the release of two new movies, the re-release of one old one, the remodeling of his image and the expansion of his career into writing and directing.</p>
+      </block>
+      <block class="full_text">
+        <p>If Rutger Hauer were an army, he'd be proceeding on many fronts.</p>
+        <p>The Dutch-born star of such films as "Soldier of Orange," "Blade Runner" and "Ladyhawke," is anticipating the release of two new movies, the re-release of one old one, the remodeling of his image and the expansion of his career into writing and directing.</p>
+        <p>To many filmgoers, Mr. Hauer is best known as a hissable character in films like "Blade Runner" and "Nighthawks," and while he is hoping his new films will show a more mature, sensitive side of his nature, he understands that villainy has its uses.</p>
+        <p>"If you're a foreigner, that's how you start," he said. But, he said, "in the last couple of years, I've been looking for some material where I can use my wit."</p>
+        <p>Coming out early in the new year are "Past Midnight" and "Split Second." The former, co-starring Natasha Richardson, is a psychological thriller. "It's sort of a game with four cards, music for a couple of strings," Mr. Hauer said. "I really like that sort of a setup. The information is simple, but you weave it in and out."</p>
+        <p>Mr. Hauer plays a man who as the film begins is about to be released from prison after serving 15 years for murdering his pregnant wife. "Natasha Richardson plays a social worker, and they fall into each other's net," Mr. Hauer said. "This is a tough one, because until he is proven innocent, if that ever happens, he is a killer. You won't walk out.</p>
+        <p>"It's a sort of love story, in an impossible frame. I saw a possibility to give a little more of the mature, sensitive side, which is hard, because my character in America is so macho."</p>
+        <p>Mr. Hauer said that "Split Second" was another psychological thriller, but that the exiled American cop he plays has "a cartoon character quality." Set in London in the near future, when global warming floods large portions of the city, "Split Second" teams him with "an intellectual idiot from Oxford," played by Neil Duncan, to solve a crime. (Kim Cattrall provides the romantic interest.)</p>
+        <p>Mr. Hauer is also looking forward to the possibility of the re-release of "Blade Runner" in a version edited by the director, Ridley Scott. In addition, he is trying for the third time to make a film about Vincent van Gogh. If so, he would co-direct the film with Sammy Pavel and portray the artist.</p>
+        <p>In addition, he has been working for four years with the poet Michael Lally on a screenplay adapted from the David W. Brown play "Fleas." Now known as "Raindogs," the story is about an institution for criminals, somewhere between a prison and a mental hospital, financed by the state and the community.</p>
+        <p>Mr Hauer plans to direct the film but not to act in it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

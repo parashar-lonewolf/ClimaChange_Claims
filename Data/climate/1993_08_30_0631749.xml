@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Good News, for Once, on Ozone</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="631749"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DE1638F933A0575BC0A965958260" item-length="419" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Good News, for Once, on Ozone</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's not often that science, industry and government can agree on the causes of a complicated problem and then work to solve it. When they do, there's reason to celebrate. Last week an issue of Nature, a British journal, carried some unexpected good news that is directly traceable to a collective effort: The invasion of the stratosphere by chemicals that thin the earth's protective ozone layer is slowing down.</p>
+        <p>If the trend continues, the buildup of ozone-destroying chemicals should stop by the year 2000. The worst of the destruction -- and it will get worse for a while -- should come around the turn of the century when the peak load of chemicals, now wafting upward, reaches the stratosphere. At that point, assuming no new assaults, the ozone layer should begin a slow recovery.</p>
+      </block>
+      <block class="full_text">
+        <p>It's not often that science, industry and government can agree on the causes of a complicated problem and then work to solve it. When they do, there's reason to celebrate. Last week an issue of Nature, a British journal, carried some unexpected good news that is directly traceable to a collective effort: The invasion of the stratosphere by chemicals that thin the earth's protective ozone layer is slowing down.</p>
+        <p>If the trend continues, the buildup of ozone-destroying chemicals should stop by the year 2000. The worst of the destruction -- and it will get worse for a while -- should come around the turn of the century when the peak load of chemicals, now wafting upward, reaches the stratosphere. At that point, assuming no new assaults, the ozone layer should begin a slow recovery.</p>
+        <p>"Here is a beautiful example of science and public policy working well," said Dr. James W. Elkins, a Government scientist who led the team that detected the slowdown.</p>
+        <p>He's right. Though it took some doing (Donald Hodel, President Reagan's Energy Secretary, once suggested that the way to deal with ozone depletion was to apply more suntan oil), scientists finally persuaded the world's governments that unchecked ozone depletion could, in time, expose large parts of the globe to cancer-causing ultraviolet rays from the sun.</p>
+        <p>In 1987 industrialized nations agreed to a 50 percent reduction in the main chemical culprit -- chlorofluorocarbons, or CFC's, commonly used as a coolant in refrigerators and air conditioners. Three years later, they agreed to eliminate CFC's by the year 2000. Last year, in Copenhagen, the deadline was moved up to 1995.</p>
+        <p>Meanwhile, manufacturers like du Pont, driven as much by competitive fears as by altruism, moved swiftly to develop substitutes. Most of next year's new cars, for example, will be equipped with non-CFC air conditioning systems. The steady decline in CFC emissions, scientists say, is almost certainly responsible for the slower growth in atmospheric concentrations.</p>
+        <p>This success story will not be easily replicated. Finding substitutes for CFC's is one thing; finding substitutes for fossil fuels -- the main cause of suspected global warming -- is quite another. Still, the fact that bureaucrats and business leaders actually responded, once they grasped some unpleasant scientific truths, might be something to remember the next time that querulous countries get together to talk about the shrinking rain forests or climate change or even the fish in the sea.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Brain's Best Friend</title>
+    <meta content="16SHARRAT" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="909091"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Sharratt, Bernard</person>
+        <person class="indexing_service">Bailey, James</person>
+        <object.title class="indexing_service">After Thought (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E7DD153CF935A25751C0A961958260" item-length="990" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Brain's Best Friend</hl1>
+      </hedline>
+      <byline class="print_byline">By Bernard Sharratt</byline>
+      <byline class="normalized_byline">Sharratt, Bernard</byline>
+      <abstract>
+        <p>Bernard Sharratt reviews book After Thought: The Computer Challenge to Human Intelligence by James Bailey (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AFTER THOUGHT</p>
+        <p>The Computer Challenge to Human Intelligence.</p>
+        <p>By James Bailey.</p>
+        <p>Illustrated. 277 pp. New York:</p>
+        <p>Basic Books. $25.</p>
+      </block>
+      <block class="full_text">
+        <p>AFTER THOUGHT</p>
+        <p>The Computer Challenge to Human Intelligence.</p>
+        <p>By James Bailey.</p>
+        <p>Illustrated. 277 pp. New York:</p>
+        <p>Basic Books. $25.</p>
+        <p>Santa Claus was clearly an outmoded computer program, an old-fashioned sequential ''Do-While'' loop: ''at child (n), descend chimney, leave present, go to: next child (n + 1).'' As any streetwise kid knows, the more reliable method is to use a parallel processing system, based on multiple parent power: for each child, assign local dedicated agent(s) and process simultaneously. Christmas is much more efficient that way. James Bailey offers a version of this analogy in his entertaining and stimulating ''After Thought,'' and it echoes the persuasive inventiveness of a practiced salesman. He was once a senior manager for the Thinking Machines Corporation, selling supercomputers that used thousands of processors working simultaneously to crack a problem rather than churning through the successive steps of a traditional linear program.</p>
+        <p>Mr. Bailey's book has a basic thesis: the days of sequential thought processes are mutating into an epoch of parallel mathematics inhabited by such strange creatures as genetic algorithms, cellular automata, simulated annealing -- a math geared both to the demands of a world awash with information and to the capabilities of electronic neural nets. He builds an ambitious framework for this shift: a division of human history into epochs governed successively by the guiding concepts of place, pace and pattern.</p>
+        <p>Place: For the Greeks, concerned with astrology and navigation, the appropriate math was geometry, using lines, circles and angles to map the movement and location of planets. Geometry was imagined as accessing eternal truths that underpinned the appearance of change.</p>
+        <p>Pace: Since Newton the preferred math has been algebra, calculating unknown forces through complex equations. Such things as rates of acceleration, airflows and hydraulic pressures embody not eternal heavenly truths but universally applicable laws of physics.</p>
+        <p>Pattern: A new math links our current scientific concerns -- biology, ecology, meteorology, the economy. Phenomena like the convoluted structures of DNA, flood waters or global warming are not easily modeled by geometric projections, predicted by differential equations or captured by calculus. We now have to decipher constantly shifting configurations of vast and rapid data flows: oscillations of the stock exchange, downloads from Earth-observing satellites, unexpected disseminations of diseases or pollutants. Economies and ecologies are intricately adaptive systems, their states neither eternal nor universal, but characterized by temporary interactions and multiple feedback. It is parallel processing computers, not linear programs or human brainpower, that can spot significant patterns in such volatile data storms.</p>
+        <p>Mr. Bailey describes in appealing ways the new math appropriate to these areas. He explains neural networks by picturing a classroom arranged in rows, like the layers in a neural net, transmitting information from front to rear, with no individual pupil but the whole self-adjusting class performing the operation.</p>
+        <p>He clarifies cellular automata through those checkerboard games in which each cell lives or dies according to very simple rules that assess the concurrent status of all its neighbors. Think of a wave rippling through a football stadium, the swirling flights of bird flocks or the spread of fashions through a playground: not a simple matter of follow-the-leader but of local imitations and reciprocal reinforcements. One such simulation disturbingly indicated that an inoffensive preference for having a third of one's neighbors be simpatico rapidly produced 70 percent apartheid: a drift to digital ethnic cleansing.</p>
+        <p>The most interesting possibility is that of genetic algorithms. Start with randomly generated rules and let them pair off in a Darwinian pattern of mating successful fragments of code, and eventually there might evolve a sorting program, or the third law of planetary motion, or perhaps some bits of Windows 95. One day we may entrust aircraft navigation to the evolved product of billions of interbred bytes.</p>
+        <p>These new maths are already familiar in some commercial fields. Simulated annealing is used to optimize wiring distances in chip design (Santa's route map might benefit similarly), and genetic algorithms and neural nets are used by banks to assess customers' creditworthiness.</p>
+        <p>Once only large corporations could afford their own thinking machines but now, in Mr. Bailey's expansive vision, parallel processing is an affordable option for us all, collectively. The proliferation of personal computers means millions of hours of idle computer time, and he envisages thousands of schoolchildren linking up these idle computers into enormous parallel processing systems, able to digest trillions of data bytes from all over the world. BBC children's television once had every kid in Britain counting earthworms in his backyard; now the Globe project has 2,000 schools coordinating data from Earth-observing satellites every day. Since anyone can also download a program to make his own PC network into a virtual parallel machine, soon we may all harness the equivalent of a supercomputer.</p>
+        <p>Perhaps. But even a supercomputer depends on how the data put into it are processed beforehand. For example, overall historical patterns may appear highly plausible, but historical interpretation comes first as well as last, in the details of the data as well as in the final overview. When Mr. Bailey summarizes an ''evolutionary economics'' model that reckons the Middle Ages as lacking in invention, I question the criteria it relies on, and wonder whether an economic program based on it would produce another Chartres Cathedral, an inexpensive cure for cancer or just a few junk-bond billionaires. What may matter most in our intelligence is deciding what counts as relevant or important in the first place, the formulation of those fuzzy concepts and comparisons we judge by. Human intelligence inevitably asks, for example, whether my opening Santa analogy is an illuminating joke or not. But if I tell a neural net, empty-handed on a future Christmas morning, that it's the thought that counts, will its layers ripple with resigned amusement? If so, I would acknowledge not a challenge to intelligence, but a welcome ally, and variant, of it.</p>
+        <p>Bernard Sharratt teaches multimedia in the School of Arts and Image Studies, University of Kent, in Canterbury, England.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Bernard Sharratt teaches multimedia in the School of Arts and Image Studies, University of Kent, in Canterbury, England.</tagline>
+    </body.end>
+  </body>
+</nitf>

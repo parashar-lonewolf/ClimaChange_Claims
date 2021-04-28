@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Caution in the Adirondacks</title>
+    <meta content="WEtupper" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/11/20/opinion/nyregionopinions/WEtupper.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1718986"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Westchester"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Zoning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Zoning</classifier>
+        <org class="online_producer">Adirondack Park Agency</org>
+        <org class="online_producer">Domtar Incorporated</org>
+        <org class="online_producer">Adirondack Council</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DA113EF933A15752C1A9639C8B63" item-length="372" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Caution in the Adirondacks</hl1>
+        <hl2 class="online_headline">Caution in the Adirondacks</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the whole, this has been a positive year for the Adirondacks. Apart from the Adirondack Park Agency's inexplicable fondness for ugly and wholly unnecessary cell towers (known locally as Frankenpines), government agencies generally gave the park the protective affection it deserves.</p>
+        <p>Under a deal brokered partly by Gov. George Pataki, for instance, more than 100,000 acres in the park's northeast corner belonging to Domtar Inc., a timber company, were awarded permanent protection. The state's then-acting environmental chief, Denise Sheehan, kicked all-terrain vehicles off most forest land. And Attorney General Eliot Spitzer's aggressive campaign against Midwestern power plants, as well as new federal regulations, will help in the struggle against acid rain.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A proposed development just south of Tupper Lake could threaten the area's wilderness character if it is poorly executed.</p>
+      </block>
+      <block class="full_text">
+        <p>On the whole, this has been a positive year for the Adirondacks. Apart from the Adirondack Park Agency's inexplicable fondness for ugly and wholly unnecessary cell towers (known locally as Frankenpines), government agencies generally gave the park the protective affection it deserves.</p>
+        <p>Under a deal brokered partly by Gov. George Pataki, for instance, more than 100,000 acres in the park's northeast corner belonging to Domtar Inc., a timber company, were awarded permanent protection. The state's then-acting environmental chief, Denise Sheehan, kicked all-terrain vehicles off most forest land. And Attorney General Eliot Spitzer's aggressive campaign against Midwestern power plants, as well as new federal regulations, will help in the struggle against acid rain.</p>
+        <p>Yet constant attention to park values is required, especially when a developer comes calling in a depressed area. Such is the case with a 700-unit development proposed by a partnership called Preserve Associates just south of Tupper Lake, a once-vibrant mill town that, like other poor Adirondack villages, could use an economic transfusion.</p>
+        <p>Tupper Lake's neediness has inspired bad ideas in the past, including a 1997 proposal to build a $130 million, 1,500-bed maximum-security prison on forested land near town. Carl McCall, then state comptroller, intervened and had the project moved outside the park.</p>
+        <p>The developers' proposal is not terrible on its face. But it is a big project and, if poorly executed, could threaten the area's wilderness character. The conceptual proposal involves a 700-unit subdivision, hotel, golf course and marina. The fear among park advocates like The Adirondack Council is that the developers will carve up the back country into dense, cookie-cutter building lots in order to subsidize the rest. There are also worries that the town will be saddled with the costs of new sewer and water lines, negating the benefits of any new jobs.</p>
+        <p>The Adirondack Park Agency -- which acts, in effect, as the park's zoning board -- has sent the developers 33 pages of questions that must be answered before a final decision can be made on their plans. Though understaffed and overwhelmed by applications, the agency cannot afford a mistake on a project of this magnitude.</p>
+        <p>Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

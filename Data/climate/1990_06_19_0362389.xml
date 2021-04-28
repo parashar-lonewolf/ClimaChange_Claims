@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sea-Level Changes</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="362389"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <org class="indexing_service">PLANCK, MAX, METEOROLOGY INSTITUTE</org>
+        <person class="indexing_service">MIKOLAJEWICZ, UWE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DB173CF93AA25755C0A966958260" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sea-Level Changes</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Using a model that simulates ocean circulation, scientists studying pollution-induced warming of the globe have calculated changes in sea level by region. Their findings may be good news for penguins, but not for people.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Using a model that simulates ocean circulation, scientists studying pollution-induced warming of the globe have calculated changes in sea level by region. Their findings may be good news for penguins, but not for people.</p>
+        <p>Using a model that simulates ocean circulation, scientists studying pollution-induced warming of the globe have calculated changes in sea level by region. Their findings may be good news for penguins, but not for people.</p>
+        <p>Assuming a rise of 6 degrees Fahrenheit caused by a doubling of carbon dioxide in the atmosphere, the scientists project an average worldwide sea-level rise of about 7 inches in 50 years. The North Atlantic is expected to rise about 16 inches while the Ross Sea in the Antarctic is expected to fall.</p>
+        <p>The study, conducted by Uwe Mikolajewicz and colleagues at the Max Planck Meteorology Institute in Hamburg, West Germany, appears in the current issue of the journal Nature.</p>
+        <p>Michael E. Schlesinger, a professor of atmospheric science at the University of Illinois, who has studied atmospheric models, said this is the first published study using a model of ocean currents, which until now have been an overlooked factor in sea level change.</p>
+        <p>Dr. Mikolajewicz stressed that the study had shortcomings and its results should not be interpreted as a prediction.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

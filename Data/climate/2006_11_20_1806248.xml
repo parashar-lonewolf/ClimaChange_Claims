@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reforestation and Deforestation</title>
+    <meta content="20mon4" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/11/20/opinion/20mon4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1806248"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <location class="indexing_service">India</location>
+        <location class="indexing_service">Asia</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India</classifier>
+        <classifier class="online_producer" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0D9153EF933A15752C1A9609C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reforestation and Deforestation</hl1>
+        <hl2 class="online_headline">Reforestation and Deforestation</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial welcomes signs that reforestation, which is well advanced in Europe and North America, is now beginning to occur in parts of India and Asia, even if, sadly, deforestation is expanding elsewhere; notes that reforestation is directly linked to prosperity, indicating that a country has risen well above level of mere subsistence and has economy that no longer depends entirely on exploiting natural resources</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Almost anyone who lives in the rural Northeast can attest that the forest has expanded its range in the past century. That is why all those stone walls -- the edges of cleared fields once upon a time -- are now orphaned deep in the woods. A new study published by the National Academy of Sciences and based on a recent international assessment of forests confirms that reforestation has become a widespread pattern in well-off countries and also in a few that are not so well off.</p>
+        <p>This is obviously good news. Forests provide critical wildlife habitat, and the study's authors say the forest ''withholds carbon dioxide that would add to greenhouse gas in the atmosphere.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In some parts of the world, deforestation is only expanding, with dire consequences for biodiversity and the climate.</p>
+      </block>
+      <block class="full_text">
+        <p>Almost anyone who lives in the rural Northeast can attest that the forest has expanded its range in the past century. That is why all those stone walls -- the edges of cleared fields once upon a time -- are now orphaned deep in the woods. A new study published by the National Academy of Sciences and based on a recent international assessment of forests confirms that reforestation has become a widespread pattern in well-off countries and also in a few that are not so well off.</p>
+        <p>This is obviously good news. Forests provide critical wildlife habitat, and the study's authors say the forest ''withholds carbon dioxide that would add to greenhouse gas in the atmosphere.''</p>
+        <p>Forest transitions -- the shift from net deforestation to reforestation -- began long ago in Europe and more recently in the United States. What is surprising is that they are beginning to happen in parts of India and Asia as well. Reforestation is directly linked to prosperity, an indicator that a country has risen well above the level of mere subsistence and has an economy that no longer depends entirely on exploiting natural resources.</p>
+        <p>But there is also bad news mixed with the good news. In some parts of the world, deforestation is only expanding, with dire consequences for biodiversity and the climate.</p>
+        <p>And even where forests have recovered, there is the likelihood that they have passed through an ecological point of no return. Some of the most biologically diverse forests are being logged or burned without ceasing, destroying irreplaceable habitat and extinguishing species one by one.</p>
+        <p>Perhaps someday those tropical forests will come back. But there will be no bringing back all the creatures who lived among them.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

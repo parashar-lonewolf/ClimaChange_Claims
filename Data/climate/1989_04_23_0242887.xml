@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Closing Shoreham Is Half the Job</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="12LI" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="242887"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SHUTDOWNS (INSTITUTIONAL)</classifier>
+        <org class="indexing_service">LONG ISLAND LIGHTING CO (LILCO)</org>
+        <person class="indexing_service">HAFNER, WILLIAM</person>
+        <object.title class="indexing_service">SHOREHAM NUCLEAR POWER PLANT</object.title>
+        <classifier class="online_producer" type="types_of_material">letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7D81F3BF930A15757C0A96F948260" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Closing Shoreham Is Half the Job</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: It must be remembered that closing Shoreham is only half the job. Our next task must focus on providing energy for our growing economy.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: It must be remembered that closing Shoreham is only half the job. Our next task must focus on providing energy for our growing economy.</p>
+        <p>It must be remembered that closing Shoreham is only half the job. Our next task must focus on providing energy for our growing economy.</p>
+        <p>Unfortunately, the Governor's deal places more emphasis on reviving corporate Lilco than establishing a comprehensive energy plan. The locations of the base-load facilities and even the fuel type to be used remains unknown. In addition, the concerns over the continued use of fossil fuels, not to mention our well-entrenched Nimby complex, are issues which have yet to be faced.</p>
+        <p>It is imperative that any potential problems be resolved quickly and decisively. If anything goes wrong, the supporters of Shoreham will only be too happy to say, ''We told you so.''  WILLIAM HAFNER  Mastic</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

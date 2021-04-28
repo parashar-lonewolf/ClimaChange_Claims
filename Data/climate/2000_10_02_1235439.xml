@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gore's Energy Policy</title>
+    <meta content="L02HAR" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/02/opinion/L02HAR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1235439"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2000</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <person class="indexing_service">Harkin, Tom (Sen)</person>
+        <person class="indexing_service">Friedman, Thomas L</person>
+        <person class="indexing_service">Gore, Al (Vice Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001002T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE6DB173DF931A35753C1A9669C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gore's Energy Policy</hl1>
+      </hedline>
+      <abstract>
+        <p>Sen Tom Harkin letter on Thomas L Friedman's Sept 26 article hails Vice Pres Al Gore's energy program4</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Thomas L. Friedman (column, Sept. 26) criticizes Al Gore for lacking a real program on energy, yet ignores Mr. Gore's ambitious plan proposed in June that would give American families energy choices, reduce our dependence on foreign oil and clean up our air and water. In contrast, George W. Bush's plan is basically the same old drill, drill, drill -- even in our few remaining pristine natural areas.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Thomas L. Friedman (column, Sept. 26) criticizes Al Gore for lacking a real program on energy, yet ignores Mr. Gore's ambitious plan proposed in June that would give American families energy choices, reduce our dependence on foreign oil and clean up our air and water. In contrast, George W. Bush's plan is basically the same old drill, drill, drill -- even in our few remaining pristine natural areas.</p>
+        <p>Mr. Gore would offer families tax incentives to purchase fuel-efficient cars, homes and home products. He would invest in light-rail systems, cleaner buses and high-speed trains that would cut traffic, reduce smog and end our dependence on foreign oil. He supports market-based approaches to clean up and increase the efficiency of our nation's aging power plants. And he has long backed renewable energy from biomass fuels, wind and solar power.</p>
+        <p>TOM HARKIN  U.S. Senator from Iowa  Washington, Sept. 28, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

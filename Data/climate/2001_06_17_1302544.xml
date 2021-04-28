@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nation; Sliced Another Way: Per Capita Emissions</title>
+    <meta content="17REV" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week In Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20010624T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1302544"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E1D81231F934A25755C0A9679C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nation; Sliced Another Way: Per Capita Emissions</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>European leaders and private environmental groups have long pointed to the United States as the largest single source of carbon dioxide emissions, which most scientists link to a global warming trend. President Bush last week pointed out that although the United States is the world's biggest emitter, it also provides the most goods and services to global markets.</p>
+        <p>But when G.D.P. and emissions are measured and compared on a per capita basis, the playing field suddenly gets much more mixed, with Singapore, Australia, and Saudi Arabia joining the United States in the group with far above average output of carbon dioxide, while other counties prove more efficient at producing things without adding to the greenhouse effect.</p>
+      </block>
+      <block class="full_text">
+        <p>European leaders and private environmental groups have long pointed to the United States as the largest single source of carbon dioxide emissions, which most scientists link to a global warming trend. President Bush last week pointed out that although the United States is the world's biggest emitter, it also provides the most goods and services to global markets.</p>
+        <p>But when G.D.P. and emissions are measured and compared on a per capita basis, the playing field suddenly gets much more mixed, with Singapore, Australia, and Saudi Arabia joining the United States in the group with far above average output of carbon dioxide, while other counties prove more efficient at producing things without adding to the greenhouse effect.</p>
+        <p>The conclusion some economists draw is that prosperity does not always have to come with environmental costs, and environmental cleanups can be achieved without necessarily harming economies.</p>
+        <p>ANDREW C. REVKIN</p>
+        <p>Correction:  June 24, 2001, Sunday  This chart, which appeared last Sunday, incorrectly labeled the trend line as the ''average ratio of emissions to G.D.P.'' The line actually represents a statistical calculation known as linear regression and a more accurrate description is provided above. The chart should be used to compare emission levels in countries with similar G.D.P.'s. It is not intended to compare countries of vastly differing G.D.P.'s.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 24, 2001, Sunday</p>
+        <p>This chart, which appeared last Sunday, incorrectly labeled the trend line as the ''average ratio of emissions to G.D.P.'' The line actually represents a statistical calculation known as linear regression and a more accurrate description is provided above. The chart should be used to compare emission levels in countries with similar G.D.P.'s. It is not intended to compare countries of vastly differing G.D.P.'s.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Debating an Author's Legacy</title>
+    <meta content="12lett-1" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854023"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E4D9173FF931A25755C0A9619C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Debating an Author's Legacy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Fateful Voice of a Generation Still Drowns Out Real Science'' (Findings, June 5): John Tierney joins an odd, dissonant chorus of cavilers who have chosen to disparage if not completely dismiss the legacy of Rachel Carson. Although we live in a time of unprecedented climate change, ecological devastation and species extinction, Tierney and his ilk critique Carson for supposed miscalculations regarding DDT.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Fateful Voice of a Generation Still Drowns Out Real Science'' (Findings, June 5): John Tierney joins an odd, dissonant chorus of cavilers who have chosen to disparage if not completely dismiss the legacy of Rachel Carson. Although we live in a time of unprecedented climate change, ecological devastation and species extinction, Tierney and his ilk critique Carson for supposed miscalculations regarding DDT.</p>
+        <p>In majestic and captivating prose, Carson notified the readers of ''Silent Spring'' that humans do not stand apart from the land, air and water. This clarion call to eco-awareness sounded 45 years ago has gone largely unheeded and thus we are today witness to precipitous environmental degradation. Those like Tierney who choose to minimize Carson's prophetic insight demonstrate a stunning capacity for crass indifference and ignorance.</p>
+        <p>Joe Martin  Seattle</p>
+        <p>To the Editor:</p>
+        <p>John Tierney lauds agricultural expert I. L. Baldwin for his analysis of the ''costs and benefits'' of pesticide use in a 1962 review of ''Silent Spring,'' while condemning Carson's use of ''rhetoric.'' Yet Tierney forgets that cost-benefit analysis only gained currency in the United States when it became politically necessary to hold technical experts accountable for their decisions during the economic depression of the 1930s.</p>
+        <p>Similarly, when William Ruckelshaus introduced formal risk assessment at the E.P.A. in 1983, he was responding to the need for better communication with a public whose concerns had been raised in part by Carson's book. ''Silent Spring'' should be seen as a watershed event in the relationship between scientists, policy makers and the public -- one that has made debates over environmental policies more, not less, rational.</p>
+        <p>Deborah Coen  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Remember the World</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="134096"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FAMILIES AND FAMILY LIFE</classifier>
+        <person class="indexing_service">LEVY, IRWIN A</person>
+        <person class="indexing_service">RUBENSTEIN, CARIN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDB1E3DF934A35757C0A96E948260" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Remember the World</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To The Home Section:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To The Home Section:</p>
+        <p>To The Home Section:</p>
+        <p>Your article ''A Vanishing Way of Life: The Large American Family''  [ March 17 ]  was interesting and well written, and it dealt rather thoroughly with the emotional and financial ''average'' number of children.</p>
+        <p>What bothers me is what it completely neglected: the ecological angle. Did any of these parents consider the impact of the large family, its implications for the physical world? We face a worsening set of problems as to garbage and sewage disposal, in using more ground water than we replace in our aquifers, in damage to the ozone layer, and even in the simpler needs for food, clothing, housing and education. It seems to me that only the most self- or family-centered could remain proponents of 6-, 8- or 10-child families.</p>
+        <p>It may be that such an attitude of ''be fruitful and multiply'' might have been justified for 18th-century European pioneers on the shores of half-empty continents. But in a world where zero population growth is not just a buzz phrase, the otherwise caring parents quoted in Carin Rubenstein's article seem self-indulgent anachronisms. IRWIN A. LEVY, New York, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

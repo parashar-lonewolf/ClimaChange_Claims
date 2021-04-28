@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="12QNA" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="889284"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E4D6123BF931A25752C1A960958260" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beer and Liquor</p>
+        <p>Q. Is there any truth in the saying ''Liquor before beer, never fear; beer before liquor, never sicker?'' Based on my own experiments, I contend that this is sound advice. My roommate counters, ''It's all alcohol, so what's the difference?''</p>
+        <p>A. The saying may have a grain of truth, alcoholism experts suggest, but so does your roommate's belief, and neither explanation accounts for the chief cause of hangovers, beyond sheer quantity: substances in alcoholic drinks called congeners.</p>
+      </block>
+      <block class="full_text">
+        <p>Beer and Liquor</p>
+        <p>Q. Is there any truth in the saying ''Liquor before beer, never fear; beer before liquor, never sicker?'' Based on my own experiments, I contend that this is sound advice. My roommate counters, ''It's all alcohol, so what's the difference?''</p>
+        <p>A. The saying may have a grain of truth, alcoholism experts suggest, but so does your roommate's belief, and neither explanation accounts for the chief cause of hangovers, beyond sheer quantity: substances in alcoholic drinks called congeners.</p>
+        <p>All carbonated alcoholic beverages, both beer and sparkling wines like Champagne, contain carbon dioxide in solution. The resulting acidity slightly irritates the lining of the stomach and the intestines, producing vasodilation, or expansion of the blood vessels, so that the alcoholic content is absorbed into the bloodstream somewhat more quickly, ounce for ounce of pure alcohol, than the alcohol in still beverages. Therefore, it is conceivable that a head start of beer might speed a drinker on the path to inebriation.</p>
+        <p>However, it is the total quantity of alcohol absorbed, whether from distilled spirits, wine, spritzers or beer, that counts toward getting drunk.  And it is the congeners, alcohol molecules that have a larger number of carbon atoms, that are believed to make the biggest contribution to the sick feeling and headache of a hangover. These molecules are usually present in greater concentrations in fermented drinks, like wine or beer, than in distilled spirits, like vodka.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

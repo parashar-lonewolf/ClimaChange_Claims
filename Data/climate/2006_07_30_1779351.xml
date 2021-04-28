@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Atomic Balm?</title>
+    <meta content="30letters-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1779351"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <person class="indexing_service">petrone, charles d</person>
+        <person class="indexing_service">Gertner, Jon</person>
+        <person class="indexing_service">Keppel, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E0D7143FF933A05754C0A9609C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Atomic Balm?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letters from Charles D Petrone and David Keppel comment on July 16 article on future of atomic power in US</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was impressed with Jon Gertner's article (July 16). I recently retired from the Nuclear Regulatory Commission. During my 25 years there, I worked as a nuclear-power-plant inspector at many sites in the United States, including two years as a resident inspector at the now defunct Shoreham nuclear-power plant. At Shoreham, I witnessed firsthand how political considerations and public opposition by a vocal minority led to the decision to abandon an otherwise technically sound and safe source of electrical power. So it was a refreshing change to see a comprehensive, well-balanced and technically accurate discussion of the issues associated with nuclear power.</p>
+        <p>Charles D. Petrone</p>
+        <p>Rockville Centre, N.Y.</p>
+        <p>If nuclear power ''makes economic sense,'' so did coal and oil -- until we began to face the catastrophic cost of global warming. Nuclear power may make economic sense to economists, who don't count the cost of accident, waste and weapons proliferation. If so, why not repeal the recently renewed Price-Anderson Act, which shields the nuclear industry from full liability?</p>
+        <p>David Keppel</p>
+        <p>Bloomington, Ind.</p>
+      </block>
+      <block class="full_text">
+        <p>I was impressed with Jon Gertner's article (July 16). I recently retired from the Nuclear Regulatory Commission. During my 25 years there, I worked as a nuclear-power-plant inspector at many sites in the United States, including two years as a resident inspector at the now defunct Shoreham nuclear-power plant. At Shoreham, I witnessed firsthand how political considerations and public opposition by a vocal minority led to the decision to abandon an otherwise technically sound and safe source of electrical power. So it was a refreshing change to see a comprehensive, well-balanced and technically accurate discussion of the issues associated with nuclear power.</p>
+        <p>Charles D. Petrone</p>
+        <p>Rockville Centre, N.Y.</p>
+        <p>If nuclear power ''makes economic sense,'' so did coal and oil -- until we began to face the catastrophic cost of global warming. Nuclear power may make economic sense to economists, who don't count the cost of accident, waste and weapons proliferation. If so, why not repeal the recently renewed Price-Anderson Act, which shields the nuclear industry from full liability?</p>
+        <p>David Keppel</p>
+        <p>Bloomington, Ind.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

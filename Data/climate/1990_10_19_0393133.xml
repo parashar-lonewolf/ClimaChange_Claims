@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientists Offer Two Explanations Of Dark Streaks on Neptune Moon</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="393133"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">PHOTOGRAPHY</classifier>
+        <location class="indexing_service">NEPTUNE (PLANET)</location>
+        <person class="indexing_service">WILFORD, JOHN NOBLE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DC123CF93AA25753C1A966958260" item-length="614" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientists Offer Two Explanations Of Dark Streaks on Neptune Moon</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+      <byline class="normalized_byline">WILFORD, JOHN NOBLE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: After a year analyzing data and photographs from the Voyager 2 spacecraft, scientists are not sure they can explain the strange streaks that appear like dark brush strokes on the bright canvas of Triton, the large icy moon of Neptune.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: After a year analyzing data and photographs from the Voyager 2 spacecraft, scientists are not sure they can explain the strange streaks that appear like dark brush strokes on the bright canvas of Triton, the large icy moon of Neptune.</p>
+        <p>After a year analyzing data and photographs from the Voyager 2 spacecraft, scientists are not sure they can explain the strange streaks that appear like dark brush strokes on the bright canvas of Triton, the large icy moon of Neptune.</p>
+        <p>They proposed at least two possible explanations in reports being published today in an issue of the journal Science devoted mainly to Voyager's first explorations of Triton. Either the streaks or plumes are geysers of nitrogen gas, scientists suggested, or powerful ''dust devils,'' wind-driven gusts of hydrocarbons that leave dark smudges on the moon's otherwise crystalline surface of nitrogen ice.</p>
+        <p>In the first reconnaissance of Triton, in August 1989, Voyager's cameras detected several of the mysterious plumes toward the south pole of the moon. Geologists immediately suspected these to be evidence of gaseous eruptions, even though they were surprised to see such dynamic forces on a world so far from the Sun that would seem to be frozen solid at temperatures approaching absolute zero, or more than 400 degrees below zero Fahrenheit.</p>
+        <p>A team of Voyager geologists, led by Dr. Laurence A. Soderblom of the United States Geological Survey in Flagstaff, Ariz., reported identifying at least four active geyserlike eruptions occurring at the time of the spacecraft's encounter. Two of the best documented eruptions appeared as columns of dark material rising to an altitude of five miles, where winds stretched the clouds out more than 60 miles.</p>
+        <p>A Greenhouse Effect</p>
+        <p>After weighing many hypotheses, the geologists decided that the most probable cause was what they call a solid-state greenhouse effect operating on Triton. The nitrogen gas coating the surface is mostly crystal clear, reflecting nearly all of the dim sunlight reaching the moon. But there could be patches of dark particles embedded in the ice, the residue of methane that has been exposed to cosmic rays or ultraviolet radiation and thereby converted to black hydrocarbons, much like soot.</p>
+        <p>As Dr. Soderblom explained it, the hydrocarbons in the ice could absorb enough sunlight to warm subsurface layers, vaporize some of the nitrogen ice and produce reservoirs of trapped gases. A key to the hypothesis is that the observed plumes are in a region of Triton that is toward the Sun.</p>
+        <p>Scientists cannot agree whether the pressurized gases erupt explosively and form a long dark cloud, or if they vent quietly and are swept higher and into elongated clouds by a strong west wind. Two Cornell University scientists, Dr. Carl Sagan and Dr. Christopher Chyba, have proposed how winds alone, though relatively weak, could be responsible for the plumes.</p>
+        <p>An alternative proposals is that Triton's plumes may not be anything like geysers, but instead may resemble another terrestrial phenomenon: those cyclones of dust, dust devils, that sweep desert plains.</p>
+        <p>Both Theories Fall Short</p>
+        <p>Dr. Andrew P. Ingersoll and Dr. Kimberly A. Tryka, both of the California Institute of Technology, contend that temperature differences between the ground and the near-surface atmosphere, the cause of swirling winds on Earth, could cause similar turbulence on Triton.</p>
+        <p>In a telephone interview, Dr. Edward C. Stone, the Cal Tech physicist who is chief scientist of the Voyager project, said: ''There is no consensus on the plumes yet. Each model is not completely consistent with all the known elements. Each case is weakened by some missing element.''</p>
+        <p>Voyager 2's encounter with Neptune and Triton was its last in a 13-year voyage through the outer solar system. The spacecraft is now climbing above the plane of the planets, heading toward the fringes of the solar system.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

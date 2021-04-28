@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Analysis Finds Large Antarctic Area Has Melted</title>
+    <meta content="16melt" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/16/science/earth/16melt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1847742"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Ice</classifier>
+        <location class="indexing_service">Antarctic Regions</location>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+        <location class="online_producer">Antarctica</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E5D81331F935A25756C0A9619C8B63" item-length="370" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Analysis Finds Large Antarctic Area Has Melted</hl1>
+        <hl2 class="online_headline">Analysis Finds Large Antarctic Area Has Melted</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>New satellite analysis shows at least once in last several years, masses of unusually warm air pushed to within 310 miles of South Pole and remained long enough to melt surface snow across California-size expanse (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While much of the world has warmed in a pattern that scientists have linked with near certainty to human activities, the frigid interior of Antarctica has resisted the trend.</p>
+        <p>Now, a new satellite analysis shows that at least once in the last several years, masses of unusually warm air pushed to within 310 miles of the South Pole and remained long enough to melt surface snow across a California-size expanse.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While much of the world has warmed in a pattern that scientists have linked to human activities, the frigid interior of Antarctica has resisted the trend.</p>
+      </block>
+      <block class="full_text">
+        <p>While much of the world has warmed in a pattern that scientists have linked with near certainty to human activities, the frigid interior of Antarctica has resisted the trend.</p>
+        <p>Now, a new satellite analysis shows that at least once in the last several years, masses of unusually warm air pushed to within 310 miles of the South Pole and remained long enough to melt surface snow across a California-size expanse.</p>
+        <p>The warm spell, which occurred over one week in 2005, was detected by scientists from the Jet Propulsion Laboratory of NASA and the University of Colorado, Boulder.</p>
+        <p>Balmy air, with a temperature of up to 41 degrees in some places, persisted across three broad swathes of West Antarctica long enough to leave a distinctive signature of melting, a layer of ice in the snow that cloaks the vast ice sheets of the frozen continent. The layer formed the same way a crust of ice can form in a yard in winter when a warm day and then a freezing night follow a snowfall, the scientists said.</p>
+        <p>The evidence of melting was detected by a National Aeronautics and Space Administration satellite, the QuickScat, that uses radar to distinguish between snow and ice as it scans the surfaces of Greenland and Antarctica.</p>
+        <p>There have been other areas in Antarctica where such melt zones have been seen, but they are not common so far inland, said Son Nghiem, a scientist at the NASA laboratory who directed the analysis with Konrad Steffen, a glaciologist at the University of Colorado, Boulder.</p>
+        <p>Some melting also occurred at an elevation of more than 6,000 feet, in regions where temperatures usually remain far below freezing year-round.</p>
+        <p>It is too soon to know whether the warm spell was a fluke or a portent, Dr. Nghiem said.</p>
+        <p>''It is vital we continue monitoring this region to determine if a long-term trend may be developing,'' he said.</p>
+        <p>Dr. Steffen said if such conditions intensified or persisted for a long time, the melting could conceivably produce streams of water that could, as has been measured in Greenland, percolate down to bedrock and allow the thick ice sheets coating the continent to slide a bit faster toward the sea.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

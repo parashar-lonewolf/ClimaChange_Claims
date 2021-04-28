@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cost of Clean Air Bill Assailed</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="126294"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CLEAN AIR ACT</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880310T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDB1E3DF933A25750C0A96E948260" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cost of Clean Air Bill Assailed</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, March 9</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A bill revising the Clean Air Act would be likely to cost the economy $32 billion and 300,000 to 600,000 manufacturing jobs, a business group told a Congressional committee today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A bill revising the Clean Air Act would be likely to cost the economy $32 billion and 300,000 to 600,000 manufacturing jobs, a business group told a Congressional committee today.</p>
+        <p>A bill revising the Clean Air Act would be likely to cost the economy $32 billion and 300,000 to 600,000 manufacturing jobs, a business group told a Congressional committee today.</p>
+        <p>In the worst case, the cost could reach $73 billion and a million jobs, the group said. The minimum cost was put at $14 billion, without an estimate of the number of jobs it would cost.</p>
+        <p>''We can't afford to be exposing ourselves to $30 to $70 bilion a year and expect to be part of the solution to the trade problem,'' said David M. Roderick, chairman of the USX Corporation, in presenting a study of the bill, which as been approved by the Senate Environment and Public Works Committee. He was refering to the United States $170 billion annual trade deficit.</p>
+        <p>The bill would require tighter pollution controls in several areas, including new controls on emissions from old power plants that cause acid rain, and stricter requirements for motor vehicles. Passage of the bill is by no means certain.</p>
+        <p>Richard Ayres, chairman of the Clean Air Coalition, said Mr. Roderick's study was ''an elaborate, thick stack of back-of-the-envelope calculations, probably two to four times too high.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Researchers Act to Cut Auto Pollution Further</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="433044"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">CATALYTIC CONVERTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DE153BF934A15750C0A967958260" item-length="1189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Researchers Act to Cut Auto Pollution Further</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tailpipe catalytic converters are one of the most successful technologies in the history of air pollution control, eliminating 96 to 98 percent of the carbon monoxide and hydrocarbons, and three-quarters of the nitrogen oxide emitted by car engines. But this is no longer good enough.</p>
+        <p>Air quality in California is still so poor, even with stringent anti-pollution laws, that almost any emission is too much. So officials there are pushing the auto makers to do better, and several other large states plan to follow suit. This has set off intensive research into improving the technology used in catalytic converters.</p>
+      </block>
+      <block class="full_text">
+        <p>Tailpipe catalytic converters are one of the most successful technologies in the history of air pollution control, eliminating 96 to 98 percent of the carbon monoxide and hydrocarbons, and three-quarters of the nitrogen oxide emitted by car engines. But this is no longer good enough.</p>
+        <p>Air quality in California is still so poor, even with stringent anti-pollution laws, that almost any emission is too much. So officials there are pushing the auto makers to do better, and several other large states plan to follow suit. This has set off intensive research into improving the technology used in catalytic converters.</p>
+        <p>Catalytic converters do their work mainly by burning up the offending pollutants. Therefore much of the new research is concentrating on developing a pre-heated converter that starts working much more quickly and more efficiently than existing ones.</p>
+        <p>California officials favor such converters that will "light off" faster, and companies, led by W. R. Grace &amp; Company, are rushing to build prototypes. Already, auto parts suppliers sense that every new car in the United States could eventually be required to have an extra $100 or so of additional hardware to improve catalytic converters.</p>
+        <p>But the auto makers think pre-heated converters will cause new problems. General Motors, for one, is aiming for a different solution -- moving the converter back from the tailpipe toward the engine to heat it faster. It could even place the converter inside the engine exhaust manifold, which gathers the exhaust gases from the cylinders.</p>
+        <p>Compared with the rest of the car, catalytic converters operate simply in burning the pollutant material, thus "converting" it into benign carbon dioxide, water and nitrogen. But that reaction usually happens at 700 degrees Fahrenheit, which is higher than the normal engine-operating temperature and which is reached mostly through the reaction of the burning pollutants. When Engine Is Cold</p>
+        <p>When a car starts up, particularly on a cold morning, the catalyst is too cold to burn anything.</p>
+        <p>In addition, the engine is at its dirtiest when it first starts. Older carburetors run with a choke that cuts down the air flow, nursing a cold engine with a mixture rich in fuel. Modern, fuel-injected engines use a microchip to produce a similar effect. The result is more unburned hydrocarbons in the exhaust, along with more carbon monoxide. The hydrocarbons react with other chemicals in sunlight to make ground-level ozone, or smog, and the carbon monoxide is a poison in its own right.</p>
+        <p>"In a typical 22-mile commute, half the hydrocarbons are emitted in the first three or four miles," said Bill Sessa, a spokesman for the California Air Resources Board, a state panel whose regulations have eventually set nationwide standards. Nitrogen oxide, another ingredient of smog, is not so much a problem because it starts to flow as the engine gets hotter, by which point the catalytic converter is operating well.</p>
+        <p>Another solution would be to pre-heat the fuel, eliminating the need for a choke, or imitation of a choke by a fuel injection system. Many experts think that will eventually come, but after advances in the catalytic converter system. 700 Degrees in 8 Seconds</p>
+        <p>The problem is to make the converter get very hot very fast. The converter's effectiveness increases exponentially with temperature, said J. Kevin Burns, president of Precision Combustion Inc. of New Haven, which has been studying the problem. "At 675 degrees a catalyst might be operating at 2 percent conversion, and at 700 might be 95 percent," he said.</p>
+        <p>W. R. Grace has built a prototype that will heat to 700 degrees in 8 seconds, with a jolt of hundreds of amps of electricity. The catalytic converter is a small cylinder, about half the size of a pineapple, with huge electrodes sticking out. Inside is a coil with seven square feet of surface area, bearing a catalyst that encourages the pollutants to burn.</p>
+        <p>Dr. F. Peter Boyer, Grace's executive vice president and chief technical officer, said it took some research to develop a patented system to reduce the heating time to 8 seconds. But a driver need not wait even that long, he said, because the car could be wired to begin the heat-up as soon as the key goes into the lock.</p>
+        <p>Precision Combustion says it has a catalyst that heats up with a smaller jolt of electricity, but it has no prototypes on the road.</p>
+        <p>The electric approach is simple, but Grace's method requires roughly as much electricity as it takes to turn the starter motor. To meet the needs of a quick-heating converter probably means a much bigger battery, along with a bigger alternator/generator, Dr. Boyer acknowledged.</p>
+        <p>That means a weight penalty, which works against better gas mileage. Car makers watch vehicle weight like wrestlers watch theirs. A few extra pounds can throw a car into the next weight class, which means a different setting on the treadmill used for pollution testing. That makes it harder to pass an emissions test.</p>
+        <p>Some experts think the weight problem is overstated by reluctant auto makers. "The issue here is not can the technology do it," said Jason S. Grumet, a program research specialist at the New York Department of Environmental Conservation. "It's can we make the industry provide it," he said.</p>
+        <p>Dr. Boyer said, "Compared to the alternatives, this isn't bad." For instance, switching a car to run on natural gas would mean the loss of half the trunk space for a huge fuel tank, he said, and an electric vehicle sacrifices performance.</p>
+        <p>Not surprisingly, Grace, a major manufacturer of components for batteries, does not see the battery problem as insurmountable.</p>
+        <p>But General Motors sees it as a last resort. Pulling that much juice from a battery "might be O.K. in California," said Jack Dinan of the Environmental Activities staff because starting a car in that climate is usually easy. "But we sell cars in places like Minnesota and New Hampshire," he said. And after taking steps to save weight, like shrinking the spare tire and even removing the heavy hinges that hold a car hood open and substituting lighter hinges and prop rods, the engineers do not want to add the weight back with a second battery.</p>
+        <p>G.M. will study converters that "light off" faster, he said, and "close coupled" catalysts, mounted next to the engine for warmth. Corvettes have small catalytic converters in the exhaust manifold, Mr. Dinan said, and other models might be helped by simply moving the catalytic converter toward the engine. In many models, it is now roughly parallel to the driver's feet.</p>
+        <p>Whether or not the catalysts are eventually pre-heated, the auto makers and parts suppliers are facing a second challenge. Current regulations set limits for exhaust emissions from cars with up to 50,000 miles on the odometer, but California wants the converters to last twice as long, and other states will probably follow that lead. Converters tend to run hotter as they get older, and can damage themselves by overheating. The next step may be ceramic or other heat-resistant materials in the converters.</p>
+        <p>BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

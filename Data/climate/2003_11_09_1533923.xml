@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Solar Energy's Relative Cost</title>
+    <meta content="LTR235950" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1533923"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Solar Energy</classifier>
+        <person class="indexing_service">Regenstein, Lewis</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6DB1339F93AA35752C1A9659C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Solar Energy's Relative Cost</hl1>
+      </hedline>
+      <abstract>
+        <p>Lewis Regenstein letter comments on Oct 12 article on business use of solar energy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''In Search of Savings, Companies Turn to the Sun'' (Oct. 12), about business use of solar power:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''In Search of Savings, Companies Turn to the Sun'' (Oct. 12), about business use of solar power:</p>
+        <p>Another consideration in computing the relative costs of power is the huge government subsidies given to fossil fuels. These handouts from taxpayers make it difficult for the cheaper, cleaner, more reliable renewable sources to compete.</p>
+        <p>Hidden subsidies for fossil fuels include the many billions of dollars spent over the years to keep Middle Eastern shipping lanes open and our allies in the region out of the hands of Saddam Hussein.</p>
+        <p>Additional costs include the effects of fossil fuels on the environment, tourism (through oil spills) and human health, to say nothing of the impact of global warming. How could solar power cost us more than that?</p>
+        <p>LEWIS REGENSTEIN  Atlanta, Oct. 12</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At Milepost 1 on the Hydrogen Highway</title>
+    <meta content="29INFRA" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/automobiles/29INFRA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843730"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HYDROGEN'S SECOND COMING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EED7153EF93AA15757C0A9619C8B63" item-length="946" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At Milepost 1 on the Hydrogen Highway</hl1>
+        <hl2 class="online_headline">At Milepost 1 on the Hydrogen Highway</hl2>
+      </hedline>
+      <byline class="print_byline">By DON SHERMAN</byline>
+      <byline class="normalized_byline">Sherman, Don</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANY discussion of a future generation of hydrogen cars inevitably leads to the same question: Where will I fill the tank?</p>
+        <p>While automakers have demonstrated that they can build vehicles that produce no tailpipe pollutants, the commercial availability of hydrogen to power them remains a showstopper. There are other issues, of course -- the cost of fuel cells and the methods of storing hydrogen among them -- but matters like driveability and safety are no longer impediments to retail introduction.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Any discussion of a future generation of hydrogen cars inevitably leads to the same question: Where will I fill the tank?</p>
+      </block>
+      <block class="full_text">
+        <p>ANY discussion of a future generation of hydrogen cars inevitably leads to the same question: Where will I fill the tank?</p>
+        <p>While automakers have demonstrated that they can build vehicles that produce no tailpipe pollutants, the commercial availability of hydrogen to power them remains a showstopper. There are other issues, of course -- the cost of fuel cells and the methods of storing hydrogen among them -- but matters like driveability and safety are no longer impediments to retail introduction.</p>
+        <p>Still, proponents promise a future of placid (and carbon-free) travel punctuated by occasional stops to replenish the tanks as conveniently as we fill them today. They champion an America laced by a hydrogen highway, dotted with service stations offering safe, affordable refueling.</p>
+        <p>Their vision is more than an idealistic pipe dream. President Bush has been talking up hydrogen for four years; the Energy Department has set a goal for hydrogen to provide 10 percent of the nation's energy needs by 2030; and Samuel W. Bodman, the secretary of energy, recently doled out research grants worth $8.2 million aimed at expanding hydrogen storage capacity.</p>
+        <p>Today, every major vehicle maker is studying alternatives to gasoline with the goal of supplanting hydrocarbons with hydrogen.</p>
+        <p>So far, the only hydrogen fueling stations in service are prototypes built to foster research. Hydrogen tankers are not an everyday sight on American highways, and the hydrogen production plants needed to slake America's nearly insatiable thirst for portable energy have not been built. The hydrogen highway is not yet a county byway, let alone an Interstate. But it is more than a dirt path through the woods.</p>
+        <p>Hydrogen is at least a global commodity: 50 million tons of this industrial gas are produced every year around the world. More than half of that is used to make ammonia, a component of fertilizer, cleaning products and medicines. It is also a constituent of methanol, an important ingredient in paint, antifreeze and formaldehyde.</p>
+        <p>The surprising slice of the global hydrogen pie is the 14 million tons -- more than 25 percent of annual production -- consumed by oil companies. Hydrogen is a cozy bedfellow with petroleum: hydrogen is both an ingredient in the refining processes used to upgrade the quality of crude oil and a byproduct of oil refineries. It is collected for on-site use, but that source is not enough to meet the needs of refiners.</p>
+        <p>Hydrogen can be transported from centralized plants by pipeline or tank truck, but a more practical option is manufacturing it on-site by a process known as steam reforming, which separates the hydrogen from natural gas. Used to produce 95 percent of the hydrogen supply for the United States, steam reforming is a cost-effective means of sustaining the oil business, but not a viable way to energize a hydrogen economy.</p>
+        <p>One downside to steam reforming is the amount of carbon dioxide it generates -- 350 million tons a year, according to the Energy Department. One possible way to offset that undesirable addition to the atmosphere is sequestration, collecting the carbon dioxide and storing it in the ocean or the ground. This plan shows some promise, but not on the scale required to support a hydrogen-powered future.</p>
+        <p>Distribution is another issue. Hydrogen pipelines already exist in California, Texas and Europe -- but they total fewer than 1,000 miles. While it is possible to deliver hydrogen in pipes used for natural gas, a well-known risk is hydrogen embrittlement -- the tendency of hydrogen atoms to infiltrate the surface of welded or heat-treated steel, which can result in cracks and leaks.</p>
+        <p>Hydrogen proponents offer near- and long-term solutions to these concerns. Researchers at G.M. propose building pilot hydrogen-making facilities that follow the lead of electric power plants now in use, using local resources: Larry Burns, G.M.'s vice president for research and development, proposes what he calls hydrogen pathways keyed to existing natural resources. He envisions hydrogen produced from natural gas in Rhode Island, coal in West Virginia and hydroelectric power in Idaho.</p>
+        <p>''The refueling points necessary to support the first million fuel-cell vehicles could be built for $10 billion to $15 billion, which is half the cost of the Alaska pipeline,'' Mr. Burns said. ''That sum would establish a network of 11,700 stations. Seventy percent of the U.S. population would be within two miles of a station.''</p>
+        <p>Meeting the Bush administration's goal of replacing fossil fuels with hydrogen would require nearly 90 million tons of the gas a year, according to the Energy Department. Coal and natural gas are possible sources only if they can be processed without spewing greenhouse gases. Biomass -- agricultural crops processed with steam reforming -- also has potential if the carbon dioxide byproducts can be contained.</p>
+        <p>Electricity from solar cells and wind turbines can also be used to electrolyze water to hydrogen and oxygen without undesirable byproducts, though it would be a considerable undertaking. The Energy Department estimates that meeting the country's needs with wind power would require more than 160,000 two-megawatt turbines.</p>
+        <p>Advanced nuclear energy may be a more attractive option. The Energy Department is promoting a Nuclear Hydrogen Initiative aimed at demonstrating the commercial feasibility of new nuclear plants that produce hydrogen using high-temperature electrolysis processes.</p>
+        <p>One proposal for vehicles -- reforming gasoline or methanol on board rather than waiting for a hydrogen supply network to be built -- is so complex that it has sent automakers back to their research labs.</p>
+        <p>Clearly, the hydrogen highway will be a toll road, not a low-cost thoroughfare. All of these technologies, and probably others yet to be discovered, will be required to energize a hydrogen future. But Americans can take solace in this: The journey to a clean, secure and possibly more efficient future has begun.</p>
+        <p>HYDROGEN'S SECOND COMING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

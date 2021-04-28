@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Perrier Says Employees Failed to Change Filters</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="326864"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOTTLED WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">BENZENE</classifier>
+        <classifier class="indexing_service" type="descriptor">HAZARDOUS AND TOXIC SUBSTANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">RECALLS AND BANS OF PRODUCTS</classifier>
+        <org class="indexing_service">PERRIER GROUP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recalls and Bans of Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DD1E3AF936A25751C0A966958260" item-length="340" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Perrier Says Employees Failed to Change Filters</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The contamination of Perrier sparkling water was caused when company employees failed to replace charcoal filters that screen out benzene, a chemical impurity in the natural gas present in the company's famous spring in southern France, Perrier officials said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The contamination of Perrier sparkling water was caused when company employees failed to replace charcoal filters that screen out benzene, a chemical impurity in the natural gas present in the company's famous spring in southern France, Perrier officials said yesterday.</p>
+        <p>The contamination of Perrier sparkling water was caused when company employees failed to replace charcoal filters that screen out benzene, a chemical impurity in the natural gas present in the company's famous spring in southern France, Perrier officials said yesterday.</p>
+        <p>At a news conference in Paris, Frederik Zimmer, chief executive of Source Perrier, said the chemical impurities within the natural gas at the company's spring in Vergeze were usually filtered out before the popular beverage was bottled. But because plant workers there failed to replace filters as scheduled, minute quantities of benzene entered the production process, Mr. Zimmer said.</p>
+        <p>The company had previously said that a worker had mistakenly used a cleaning agent containing benzene to clean some production equipment.</p>
+        <p>Benzene, a highly toxic chemical, is a well-known industrial solvent that is made commercially from petroleum. But the chemical also occurs naturally both in drinking and subsurface waters at concentrations up to 10 parts per million. The chemical is a colorless liquid with a distinctive odor.</p>
+        <p>Underground water travels upward through a series of geological strata, including layers of marl, a mixture of sand, clay and limestone.</p>
+        <p>Natural carbon dioxide gas also rises from separate pockets below the water. That gas enters the spring and is drawn off and used to carbonate the beverage as it is bottled, said Jane Lazgin, a spokeswoman for the Perrier Group of America, which distributes the beverage in the United States. The gas is cleaned by passing through charcoal filters intended to remove impurities.</p>
+        <p>Ms. Lazgin said she did not know how often filters were replaced. Tests run in the United States indicated that the beverage had been contaminated with benzene for about six months.</p>
+        <p>The popular drink derives its name from Dr. Louis Perrier, a French physician and entrepreneur. It was Dr. Perrier and St. John Harmsworth, an English aristocrat, who joined in 1903 to help make the spring a thriving commercial enterprise.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

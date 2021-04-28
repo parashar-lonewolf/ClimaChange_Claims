@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mocking the Utopian Dream</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="295956"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">BELL-VILLADA, GENE H</person>
+        <person class="indexing_service">KELLER, BILL</person>
+        <person class="indexing_service">SCOTT, JOHN</person>
+        <object.title class="indexing_service">BEHIND THE URALS (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">LETTER</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1D61730F93AA15753C1A96F948260" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mocking the Utopian Dream</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>This is how Bill Keller concludes his review of the new edition of John Scott's 1942 book, ''Behind the Urals: An American Worker in Russia's City of Steel'' (Sept. 24):</p>
+        <p>''One wonders what Scott would make of Magnitogorsk today. It is a misbegotten place, a mockery of the utopian dream of an egalitarian workers' state. The vast steel mill is a good 20 years out of date, a wheezing dinosaur  [ with ]  foul, multicolored discharge from the smokestacks. The ideal socialist city that was to surround the plant was never realized. . . . Meat, butter and sugar are still rationed, as they were in 1932.''</p>
+        <p>For a heartfelt and inspiring contrast, we might look upon the glory of our Rust Belt states, where there are hundreds of vast steel mills that are at least 40 years out of date and also spew smoke that causes acid rain. Meanwhile, thousands upon thousands of American skilled workers now subsist either on low-paying service sector jobs or on welfare, unemployment compensation and food stamps - our own form of rationing.</p>
+        <p>Which is the ''utopian dream'' that went wrong in Buffalo and Pittsburgh? Are they our happy reply to ''the ideal socialist city''?  GENE H. BELL-VILLADA  Williamstown, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

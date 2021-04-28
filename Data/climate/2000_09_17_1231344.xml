@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fuel-Efficient Cars</title>
+    <meta content="L17OIL$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/17/opinion/L17OIL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1231344"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Production</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Organization of Petroleum Exporting Countries (OPEC)</org>
+        <person class="indexing_service">Anderson, David C</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Production</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E5DF1E38F934A2575AC0A9669C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fuel-Efficient Cars</hl1>
+      </hedline>
+      <abstract>
+        <p>David C Anderson letter, responding to Sept 13 editorial and Op-Ed on high oil prices, urges reduction in demand as long-term solution; suggests development of more fuel-efficient automobiles</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The Latest Oil Shock'' (editorial, Sept. 13) and ''Taking Power Over Oil'' (Op-Ed, Sept. 13) advocate increased oil production to ease high oil prices. While more production by OPEC and drawing on our strategic oil reserves may be necessary in the short term, reducing demand is a far better long-term solution.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The Latest Oil Shock'' (editorial, Sept. 13) and ''Taking Power Over Oil'' (Op-Ed, Sept. 13) advocate increased oil production to ease high oil prices. While more production by OPEC and drawing on our strategic oil reserves may be necessary in the short term, reducing demand is a far better long-term solution.</p>
+        <p>The technology to vastly improve fuel efficiency in cars is not some distant dream but a reality. Why not push for the mass-marketing of hybrid gas-electric cars and improvements of fuel-cell technology? We could offer tax incentives for the purchase of cars using the new technologies, and put sport utility vehicles under the same standards as other passenger cars.</p>
+        <p>Fuel-efficient cars would not only help lower fuel prices but would also reduce air pollution and the emission of greenhouse gases.</p>
+        <p>DAVID C. ANDERSON  Kansas City, Mo., Sept. 13, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

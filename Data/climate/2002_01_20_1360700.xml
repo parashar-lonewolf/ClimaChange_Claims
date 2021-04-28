@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>George Divoky's Planet</title>
+    <meta content="LTR133854" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1360700"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E0DD1238F933A15752C0A9649C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>George Divoky's Planet</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frey's artful account recalls, in the language of its chapter headings, Coleridge's poem ''The Rime of the Ancient Mariner.'' Divoky's courageous career, Frey's powerful retelling of it and the Coleridge poem seem to converge and offer hope that art, science and spirit will in time defeat the one enemy that is greater than global warming. Namely, our denial of it.</p>
+        <p>Alfred M. Niese Jr.  Woolwich, Me.</p>
+      </block>
+      <block class="full_text">
+        <p>Frey's artful account recalls, in the language of its chapter headings, Coleridge's poem ''The Rime of the Ancient Mariner.'' Divoky's courageous career, Frey's powerful retelling of it and the Coleridge poem seem to converge and offer hope that art, science and spirit will in time defeat the one enemy that is greater than global warming. Namely, our denial of it.</p>
+        <p>Alfred M. Niese Jr.  Woolwich, Me.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

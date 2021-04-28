@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>100 Nations Move to Save Ozone Shield</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="814758"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">METHYL BROMIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">PESTICIDES AND PESTS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">HYDROCHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <location class="indexing_service">VIENNA (AUSTRIA)</location>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Austria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Austria/Vienna</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Austria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E0DF1639F933A25751C1A963958260" item-length="367" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>100 Nations Move to Save Ozone Shield</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Representatives of more than 100 governments agreed last week to phase out developed countries' production of methyl bromide, an agricultural pesticide that had been the only industrial chemical responsible for weakening the earth's protective ozone shield not previously designated for elimination.</p>
+        <p>The ozone layer prevents harmful ultraviolet rays from reaching the earth. The rays can cause skin cancer and cataracts, and can damage immune systems and natural ecosystems. Without the shield, plants and animals could not exist on land.</p>
+      </block>
+      <block class="full_text">
+        <p>Representatives of more than 100 governments agreed last week to phase out developed countries' production of methyl bromide, an agricultural pesticide that had been the only industrial chemical responsible for weakening the earth's protective ozone shield not previously designated for elimination.</p>
+        <p>The ozone layer prevents harmful ultraviolet rays from reaching the earth. The rays can cause skin cancer and cataracts, and can damage immune systems and natural ecosystems. Without the shield, plants and animals could not exist on land.</p>
+        <p>Scientists say they believe that if production of methyl bromide were to continue, it would account for about 15 percent of ozone depletion in 2000. Production of the major ozone-eating chemicals, chlorofluorocarbons, or CFC's, is to cease in developed countries -- by far the major producers -- at the end of this month under a 1992 international agreement. Developing countries are to  phase them out by 2010.</p>
+        <p>Methyl bromide is a more powerful ozone depleter than CFC's. But unlike CFC's, which persist in the atmosphere for decades, the agricultural chemical persists only a short time. Under the new accord reached on Thursday in Vienna,  the manufacture of methyl bromide by developed countries, which account for 80 percent of global production, is to be cut by 25 percent by 2001, 50 percent by  2005 and 100 percent by 2010.</p>
+        <p>Parties to the accord are to consider next year allowing exemptions for "critical agricultural use" of methyl bromide. In 1997 they are to consider eliminating developing countries' manufacture of the chemical.</p>
+        <p>The negotiators in Vienna also accelerated an earlier timetable for eliminating the production of hydro-chlorofluorocarbons, or HCFC's, the interim  substitute for CFC's as refrigerants, solvents and cleaning agents. HCFC's also  deplete ozone, but not as much as the chemicals they are replacing.</p>
+        <p>Production of HCFC's by developed countries now is to cease by 2020 rather than 2030, as agreed in 1992. Manufacturers will be allowed to supply old equipment with HCFC's until 2030, within limits.</p>
+        <p>Developing countries, which had not had HCFC controls before, agreed to freeze production by 2016.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics of The Times; Extended Forecasts: Clouded</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="575503"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <object.title class="indexing_service">TOPICS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDB1E30F93AA35751C1A964958260" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics of The Times; Extended Forecasts: Clouded</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>December comes in with some mixed extended weather forecasts. Scientists making new studies of ancient minerals believe that the earth's next Ice Age, which has been scheduled to deep-freeze much of the North within a few centuries, may not come for another 10,000 years.</p>
+        <p>Scientists studying tree rings, another reliable recorder of climate changes, are finding no signs yet of the imminently predicted greenhouse effect, which could disastrously warm up the earth.</p>
+      </block>
+      <block class="full_text">
+        <p>December comes in with some mixed extended weather forecasts. Scientists making new studies of ancient minerals believe that the earth's next Ice Age, which has been scheduled to deep-freeze much of the North within a few centuries, may not come for another 10,000 years.</p>
+        <p>Scientists studying tree rings, another reliable recorder of climate changes, are finding no signs yet of the imminently predicted greenhouse effect, which could disastrously warm up the earth.</p>
+        <p>That's fine for the long-range future and posterity. But what about right now -- and short-range us?</p>
+        <p>Don't expect much. The days are at their shortest, the sun at its lowest, the calendar on its last page and our own annual ice age is upon us. Chilly air, gusty winds, snow and sleet lie in our future.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

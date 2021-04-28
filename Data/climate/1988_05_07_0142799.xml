@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spring Cleaning</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="142799"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PARKS AND OTHER RECREATION AREAS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <location class="indexing_service">GATEWAY NATIONAL RECREATION AREA</location>
+        <org class="indexing_service">ENVIRONMENT, COUNCIL ON THE</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDE1438F934A35756C0A96E948260" item-length="257" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spring Cleaning</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A cold wind was blowing off Jamaica Bay. Sixteen shivering students and their teacher from Lafayette High School in Brooklyn were cleaning up Plumb Beach. The students, wearing white cotton gloves and carrying blue plastic garbage bags, picked up old milk cartons, beer cans, bottles, buckets, pieces of cardboard and plastic-foam plates - a winter's worth of litter washed up on the sand.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A cold wind was blowing off Jamaica Bay. Sixteen shivering students and their teacher from Lafayette High School in Brooklyn were cleaning up Plumb Beach. The students, wearing white cotton gloves and carrying blue plastic garbage bags, picked up old milk cartons, beer cans, bottles, buckets, pieces of cardboard and plastic-foam plates - a winter's worth of litter washed up on the sand.</p>
+        <p>A cold wind was blowing off Jamaica Bay. Sixteen shivering students and their teacher from Lafayette High School in Brooklyn were cleaning up Plumb Beach. The students, wearing white cotton gloves and carrying blue plastic garbage bags, picked up old milk cartons, beer cans, bottles, buckets, pieces of cardboard and plastic-foam plates - a winter's worth of litter washed up on the sand.</p>
+        <p>The scene occurred on April 29 - the 100th anniversary of Arbor Day - and it was repeated by students and teachers from Franklin Delano Roosevelt, Beach Channel, James Madison and Susan Wagner High Schools in other parts of the Gateway National Recreation Area. Nearly a ton of trash was removed, making the sites a little more habitable for birds and for people. Why were the students brought there? Some might eventually become environmentalists, and most will be more sensitive to the ravages of pollution. That's the hope of the Council on the Environment, a private nonprofit group that organized the clean-up. The council, working with the Board of Education, has trained more than 5,000 students in techniques of advocacy for the environment.</p>
+        <p>The students write letters to officials urging support of legislation to curtail acid rain. They have petitioned the state health department to uphold standards for sewage treatment plants. They have urged the Transit Authority to install noise abatement measures in subway stations. The cleanup day at Jamaica Bay offered a lesson in more direct action - a lesson all New Yorkers might heed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

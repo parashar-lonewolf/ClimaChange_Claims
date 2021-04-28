@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Hotter, for Colder: The Fickle Earth</title>
+    <meta content="L23WARM" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1386389"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <person class="indexing_service">Joyce, Terrence</person>
+        <person class="indexing_service">Shaw, David</person>
+        <person class="indexing_service">Schubel, Jerry R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E5DE1E3FF930A15757C0A9649C8B63" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Hotter, for Colder: The Fickle Earth</hl1>
+      </hedline>
+      <abstract>
+        <p>Jerry R Schubel and David Shaw letter comments on Terrence Joyce's April 18 Op-Ed on global temperature changes; says prudent course is to reduce emissions of carbon dioxide and other greenhosue gases until their consequences are understood; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The Heat Before the Cold,'' by Terrence Joyce (Op-Ed, April 18), gave an excellent summary of how present global warming might lead to colder climates in eastern North America and Western Europe.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The Heat Before the Cold,'' by Terrence Joyce (Op-Ed, April 18), gave an excellent summary of how present global warming might lead to colder climates in eastern North America and Western Europe.</p>
+        <p>It would be a serious error for readers to conclude that, since scientists aren't yet sure whether global warming or regional cooling is in store, there is no need to be concerned about greenhouse gases. Any abrupt climate shift (hotter, colder, wetter, drier) would be hugely disruptive. In rich countries engineering solutions would be applied but, in a replay of the current AIDS tragedy in Africa, poor countries would not have the resources to cope, and large numbers of people could die.</p>
+        <p>Perhaps everything will be O.K., but like the Titanic, we risk recognizing our danger only when a crash is unavoidable. The prudent course is to reduce emissions of carbon dioxide and other greenhouse gases until we understand the consequences.</p>
+        <p>JERRY R. SCHUBEL  DAVID SHAW</p>
+        <p>Boston, April 19, 2002</p>
+        <p>The writers are, respectively, president emeritus of the New England Aquarium and professor emeritus of oceanography at the University of Alaska, Fairbanks.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

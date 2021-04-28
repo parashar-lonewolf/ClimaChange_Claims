@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Personal Health</title>
+    <meta content="25ULCE$04" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="Health Page" name="feature_page"/>
+    <meta content="Personal Health" name="column_name"/>
+    <docdata>
+      <doc-id id-string="939400"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Personal Health"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ulcers</classifier>
+        <classifier class="indexing_service" type="descriptor">Bacteria</classifier>
+        <classifier class="indexing_service" type="descriptor">Flies</classifier>
+        <person class="indexing_service">Brody, Jane E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Ulcers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ulcers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E3DB1731F936A15755C0A961958260" item-length="1227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Personal Health</hl1>
+      </hedline>
+      <byline class="print_byline">By Jane E. Brody</byline>
+      <byline class="normalized_byline">Brody, Jane E</byline>
+      <abstract>
+        <p>Jane E Brody Personal Health column on bacterium called Helicobacter pyloris, or H. pyloris, as a cause of about 90 percent of ulcers; reports that microbiologists at St Elizabeth's Medical Center in Boston recently demonstrated that common housefly can become a reservoir of H. pyloris, carrying organism on its skin and in its intestinal tract and passing bacterium on in its excretions; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COULD a person catch ulcers from a housefly? As preposterous as that may seem, it could happen, at least indirectly.</p>
+        <p>About 90 percent of ulcers are now known to be caused by a slender, spiral-shaped bacterium called Helicobacter pyloris, or H. pyloris. This resilient organism, found in the stomachs of a quarter of American adults, is believed to spread from person to person by way of food or water contaminated by fecal matter.</p>
+      </block>
+      <block class="full_text">
+        <p>COULD a person catch ulcers from a housefly? As preposterous as that may seem, it could happen, at least indirectly.</p>
+        <p>About 90 percent of ulcers are now known to be caused by a slender, spiral-shaped bacterium called Helicobacter pyloris, or H. pyloris. This resilient organism, found in the stomachs of a quarter of American adults, is believed to spread from person to person by way of food or water contaminated by fecal matter.</p>
+        <p>Microbiologists at St. Elizabeth's Medical Center in Boston recently demonstrated that the common housefly can become a reservoir of H. pyloris, carrying the organism on its skin and in its intestinal tract and passing the bacterium on in its excretions.</p>
+        <p>One does not have to be a scientist to envision a likely mode of transmission. People infected with H. pyloris excrete viable bacteria in their feces. Houseflies lay eggs, develop and feed on excrement -- human or otherwise -- and often land on unprotected food, where they may deposit the troublesome organism and pass it along to an unsuspecting consumer.</p>
+        <p>If this mode of transmission is correct, it may partly explain why H. pyloris infection is most common in poor countries. Indoor plumbing, refrigeration and modern sanitation are often lacking, and H. pyloris infection is nearly universal.</p>
+        <p>A Challenging Infection</p>
+        <p>How H. pyloris is transmitted is only one of several unsolved mysteries about a bacterium that should become as familiar to people as E. coli, Salmonella and Pneumococcus. For one thing, scientists are still not sure exactly how H. pyloris causes an ulcer, although they know how it is able to survive and flourish in the hostile acid environment of the stomach.</p>
+        <p>H. pyloris produces an enzyme, urease, which converts urea to ammonia and bicarbonate that neutralize the stomach acid and allow the organism to gain a foothold. This it does with the aid of a tail, or flagellum, and special receptors that enable it to wriggle through the stomach's protective mucus coating and attach itself to the cells that line the stomach. Once secure, the bacteria produce toxins that irritate and inflame surrounding tissue.</p>
+        <p>But the most pressing question is why, when so many people harbor this organism, often for their entire lives, do only a few develop ulcers and even fewer develop either of the two forms of stomach cancer that are also attributed to H. pyloris infection.</p>
+        <p>One strain of the organism has a gene that renders it more virulent than other strains. But is this the whole answer? Are human factors also involved?</p>
+        <p>Currently, there is no simple way to predict who is likely to get sick as a result of an H. pyloris infection so that they can be treated to eliminate the organism before illness strikes.</p>
+        <p>Although discovery of H. pyloris has prompted experts to discount stress as a cause of ulcers, might stress-induced changes in body chemistry explain why some people are susceptible and others are resistant to ulcers caused by this bacterium?</p>
+        <p>Then there is the treatment dilemma: the inability so far to find a simple way to cure an H. pyloris infection. Currently three or four drugs taken simultaneously are best able to knock out the organism, but the more complicated, costly and unpleasant the treatment regimen, the less likely people are to follow it and be cured.</p>
+        <p>What We Know</p>
+        <p>Thanks to the discovery of H. pyloris just 15 years ago by two Australian scientists, Dr. Barry J. Marshall and Dr. J. Robin Warren, most people who develop the symptoms of an ulcer can be spared the constant threat of recurrence once they are treated with appropriate antibiotics.</p>
+        <p>They no longer have to forever  gobble antacids or live on a bland diet, avoiding all spices, alcohol and coffee to squelch the pain that arises in the upper abdomen whenever their stomachs are empty or they consume irritating foods. And while reducing stress is always a good idea, ulcer or no ulcer, relaxation therapy is not essential to keeping this distressing ailment at bay.</p>
+        <p>There are several ways to diagnose an H. pyloris infection. The simplest and least expensive is a blood test that can detect antibodies to H. pyloris. But this test cannot distinguish between a current active infection and a prior one that has recently been cured.</p>
+        <p>A second more expensive blood test may be needed to be certain of the diagnosis. More costly but also more precise is the recently approved urea breath test. The patient consumes a small amount of urea that has been labeled with a special form of carbon. If there are H. pyloris bacteria in the stomach, a short while later the patient will exhale carbon dioxide with the labeled carbon.</p>
+        <p>Through these tests doctors can usually avoid having to insert a fiberoptic tube through the mouth and into the stomach to examine the stomach lining and to remove a tissue sample to test for the presence of H. pyloris. Although this is the most accurate test, it is also the most expensive and discomforting and must be administered by a specialist in gastroenterology.</p>
+        <p>Another test not yet approved relies on detecting the genes of the bacteria in samples of dental plaque or stool. It is quick, painless and highly accurate and can identify the particular strain of the organism.</p>
+        <p>Who should be tested for H. pyloris? Experts recommend testing anyone who has a new or recurrent stomach or duodenal ulcer, including those who regularly take nonsteroidal anti-inflammatory drugs like ibuprofen and aspirin, which are known to produce ulcers in some people. But people with chronic acid indigestion need not be tested because treatment to eradicate an H. pyloris infection, if found, has not been shown to relieve their symptoms.</p>
+        <p>Anyone with a currently active ulcer or a healed ulcer who is found to harbor H. pyloris should be treated to eradicate the organism. But this bacterium does not go down without a good fight. No one drug is fully effective and the organism readily develops resistance to antibiotics. Thus, it is important to hit it hard and effectively with the first round of treatment.</p>
+        <p>There are several treatment options, none of them easy or pleasant. All involve a two-week regimen that combines one or two antibiotics and a substance that coats stomach lesions or a substance that inhibits secretion of stomach acid, or both. The cost of the medication ranges from $30 to $200. Two four-drug regimens that include the antibiotics metronidazole and tetracycline with bismuth (Pepto-Bismol), which coats the stomach, and omeprazole (Prilosec), an acid inhibitor, are the most effective, eradicating the organism in 95 percent of cases.</p>
+        <p>Although the drugs cost more than $100 and the treatment schedule is complex, it pays to follow it closely if you want to be cured. Side effects, which may include diarrhea, taste disturbances, nausea and black stool, disappear when the treatment is completed.</p>
+        <p>Personal Health</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

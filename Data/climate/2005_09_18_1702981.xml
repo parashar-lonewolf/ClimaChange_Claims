@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Political Science</title>
+    <meta content="18letters.1-14" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1702981"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E2D91031F93BA2575AC0A9639C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Political Science</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was disappointed that Daniel Smith devoted only two sentences, in his Sept. 4 article, to the issue of ''intelligent design.'' Here is a classic case of the administration ignoring not just decades of scientific research (as with global warming or stem cells) but also a century and a half of careful, documented scientific research in biology and geology. Evolution is truly the idea that makes the rest of biology make sense.</p>
+        <p>Judith S. Weis</p>
+        <p>Newark</p>
+      </block>
+      <block class="full_text">
+        <p>I was disappointed that Daniel Smith devoted only two sentences, in his Sept. 4 article, to the issue of ''intelligent design.'' Here is a classic case of the administration ignoring not just decades of scientific research (as with global warming or stem cells) but also a century and a half of careful, documented scientific research in biology and geology. Evolution is truly the idea that makes the rest of biology make sense.</p>
+        <p>Judith S. Weis</p>
+        <p>Newark</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

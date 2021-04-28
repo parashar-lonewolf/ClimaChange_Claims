@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Administration Split On Warming Issue, Aides to Bush Say</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="322951"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <person class="indexing_service">BUSH, GEORGE (PRES)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD91038F930A35751C0A966958260" item-length="280" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Administration Split On Warming Issue, Aides to Bush Say</hl1>
+      </hedline>
+      <dateline>WASHINGTON, Feb. 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A significant policy dispute has erupted inside the Bush Administration over whether the President should call for strong measures to curb what environmentalists believe is an ominous warming of the world's atmosphere, Administration officials said tonight.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A significant policy dispute has erupted inside the Bush Administration over whether the President should call for strong measures to curb what environmentalists believe is an ominous warming of the world's atmosphere, Administration officials said tonight.</p>
+        <p>A significant policy dispute has erupted inside the Bush Administration over whether the President should call for strong measures to curb what environmentalists believe is an ominous warming of the world's atmosphere, Administration officials said tonight.</p>
+        <p>Officials at the Departments of State and Energy and the Environmental Protection Agency have recommended that the President take a strong stand in a speech he will give here Monday to the Intergovernmental Panel on Climate Change, which was set up by the United Nations in 1988 to study global warming.</p>
+        <p>But the President's chief of staff, John H. Sununu, former Governor of New Hampshire, is resisting those proposals and has played a major role in writing an intitial draft of Mr. Bush's speech that takes a more conservative approach, Administration officials said.</p>
+        <p>That draft, not yet approved by Mr. Bush, takes the more cautious line that Mr. Bush has espoused in the past, said the officials, who spoke on condition of anonymity. ''Our concern is that the available science is not definitive and we are not able to take a more radical stand at this point,'' one official said.</p>
+        <p>''Some members of the scientific staff of the agencies wanted us to jump on board with more proposals and a tougher position and they are disappointed by the first draft of the speech,'' an official said.</p>
+        <p>Mr. Sununu, who has a degree in nuclear engineering, has had a strong influence on the environmental agenda of the White House.</p>
+        <p>Many scientists believe that the earth's temperature is beginning to rise as a result of heat trapped in the atmosphere by carbon dioxide and other products that are produced by modern society.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

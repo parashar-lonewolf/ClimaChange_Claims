@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Polina Shklyanoy, Patrick Schultz</title>
+    <meta content="03shklyanoy" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/09/03/fashion/weddings/03shklyanoy.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1787290"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Shklyanoy, Polina (Polina Schultz)</person>
+        <person class="indexing_service">Schultz, Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E4D61E3EF930A3575AC0A9609C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Polina Shklyanoy, Patrick Schultz</hl1>
+        <hl2 class="online_headline">Polina Shklyanoy, Patrick Schultz</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Polina Shklyanoy and Patrick Schultz are to be married this afternoon by Rabbi David Sandmel at KAM Isaiah Israel Congregation in Chicago.</p>
+        <p>The bride, 31, is an associate at Boundas, Skarzynski, Walsh &amp; Black, a law firm in New York. She graduated from Northwestern, where she also received a master's degree in journalism; she received a law degree from George Washington University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Polina Shklyanoy and Patrick Schultz are to be married this afternoon by Rabbi David Sandmel at KAM Isaiah Israel Congregation in Chicago.</p>
+      </block>
+      <block class="full_text">
+        <p>Polina Shklyanoy and Patrick Schultz are to be married this afternoon by Rabbi David Sandmel at KAM Isaiah Israel Congregation in Chicago.</p>
+        <p>The bride, 31, is an associate at Boundas, Skarzynski, Walsh &amp; Black, a law firm in New York. She graduated from Northwestern, where she also received a master's degree in journalism; she received a law degree from George Washington University.</p>
+        <p>She is a daughter of Bena Shklyanoy of Skokie, Ill., and the late Mikhail Shklyanoy. Her mother is a project manager for information technology at HSBC, the London bank, in Mount Prospect, Ill. Her father was a structural engineer in Skokie.</p>
+        <p>The bridegroom, 28,is a doctoral student, and also has a master's degree, in geosciences at Princeton, where he is studying the effects of climate change on ocean biology. He graduated from the University of Stuttgart in Germany; he received a master's degree in environmental engineering from Michigan Technological University in Houghton, Mich.</p>
+        <p>He is the son of Christl and Horst Schultz of Bad Liebenzell, Germany. His mother taught English, German and art at the secondary school in Bad Wildbad, Germany, until 1999, and now teaches students in her home. His father, who is retired, was a manager for planning and engineering of assembly plants at DaimlerChrysler in Sindelfingen, Germany.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

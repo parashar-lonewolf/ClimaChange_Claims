@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hydrogen's Problems As Energy Alternative</title>
+    <meta content="l26west-1" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1742839"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Hydrogen</classifier>
+        <person class="indexing_service">Fox, Herbert</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DF1631F935A15751C0A9609C8B63" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hydrogen's Problems As Energy Alternative</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Institute of Technology Center for Energy, Environment and Economics director Herbert Fox letter on February 19 article on hydrogen as alternative fuel</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The problem with hydrogen as a fuel goes much beyond the safety issues raised in ''Alternative Fuel Loses Another Alternative'' (Feb. 19).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The problem with hydrogen as a fuel goes much beyond the safety issues raised in ''Alternative Fuel Loses Another Alternative'' (Feb. 19).</p>
+        <p>Hydrogen is not an energy source, but rather an energy carrier. What this means is that we must make the hydrogen from other compounds that have the hydrogen embedded in it.</p>
+        <p>One of those sources is natural gas. Another obvious choice is water. In both cases, it takes energy to make the hydrogen from these compounds. And in turn using energy to make the hydrogen will inevitably produce unwanted global warming gases. (Unless, of course, the power source is nuclear power.)</p>
+        <p>As a consequence, Federated Conservationists of Westchester County (of which I am a board member) is looking to a variety of other schemes to recommend either low-polluting measures, such as low production of global warming gases, or renewable sources for hydrogen production. While the latter seems promising, both the scale and major requirements for either wind or solar production seem very difficult at this time.</p>
+        <p>Adding to that is the infrastructure required for nationwide distribution of hydrogen as the fuel of choice. We now have oil and gas pipelines; the costs associated with an efficient hydrogen pipeline are exceedingly high at current pricing.</p>
+        <p>Herbert Fox  Old Westbury</p>
+        <p>The writer is director, Center for Energy, Environment and Economics, New York Institute of Technology.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

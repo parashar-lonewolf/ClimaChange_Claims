@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ratify Biodiversity Pact</title>
+    <meta content="LISENB$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="929959"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970515T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE4DF1738F936A25756C0A961958260" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ratify Biodiversity Pact</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>If President Clinton really wants to raise the profile of the upcoming United Nations summit on the environment (''Clinton Urges Action on Global Warming,'' news article, May 10), he should begin by leading the charge for Congress to ratify the Convention on Biodiversity.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>If President Clinton really wants to raise the profile of the upcoming United Nations summit on the environment (''Clinton Urges Action on Global Warming,'' news article, May 10), he should begin by leading the charge for Congress to ratify the Convention on Biodiversity.</p>
+        <p>Five years after the Earth Summit, the United States has yet to sign this landmark document that intends to conserve biological diversity and promote sustainable use of biological resources and sharing of the benefits of genetic resources. It is hypocritical of the United States to encourage other countries to follow the lead of Costa Rica when America has yet to demonstrate its own commitment.</p>
+        <p>MICHAEL ISENBERG  Philadelphia, May 13, 1997</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

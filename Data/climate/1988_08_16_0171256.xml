@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="171256"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LIGHT</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880816T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D9163BF935A2575BC0A96E948260" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Q. How do the glowing plastic necklaces sold at fairs and carnivals work?  A.The necklaces and other temporary chemical lights work by imitating the chemical reaction called bioluminescence that allows fireflies to light up, according to Dr. Bruce H. Baretz, a chemist.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Q. How do the glowing plastic necklaces sold at fairs and carnivals work?  A.The necklaces and other temporary chemical lights work by imitating the chemical reaction called bioluminescence that allows fireflies to light up, according to Dr. Bruce H. Baretz, a chemist.</p>
+        <p>Q. How do the glowing plastic necklaces sold at fairs and carnivals work?  A.The necklaces and other temporary chemical lights work by imitating the chemical reaction called bioluminescence that allows fireflies to light up, according to Dr. Bruce H. Baretz, a chemist.</p>
+        <p>The reaction in the plastic tube is oxidation, as in burning, but the chemicals involved, called luciferins, produce more light than heat, said Dr. Baretz, who is manager of operations and new product development for the American Cyanamid Corporation, which makes the devices.</p>
+        <p>When the proper chemical is mixed with dilute hydrogen peroxide from a glass ampule in the tube, it generates dual carbon dioxide molecules, a compound called dioxetane dione. This compound reacts in the presence of a fluorescer, or glow-producing chemical, to generate light plus carbon dioxide, he said. The reaction can continue until all the active components are consumed.</p>
+        <p>The non-toxic fluorescers used in American Cyanamid's Lite-Up lightsticks are proprietary formulas, he said.</p>
+        <p>People can prolong the light from their necklaces and bracelets by keeping them in the refrigerator, Dr. Baretz said. ''Like all chemical reactions, chilling slows down the reaction and makes it last longer,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

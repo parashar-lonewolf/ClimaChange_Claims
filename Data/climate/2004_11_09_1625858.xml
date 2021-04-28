@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Warming May Claim The Ice (and Seals) These Bears Need</title>
+    <meta content="09ABOX$01" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1625858"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Bears</classifier>
+        <classifier class="indexing_service" type="descriptor">Polar Bears</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <location class="indexing_service">Arctic Regions</location>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE0D7133CF93AA35752C1A9629C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Warming May Claim The Ice (and Seals) These Bears Need</hl1>
+      </hedline>
+      <abstract>
+        <p>Researchers predict that by 2070 Arctic will consist of primarily ice-free water during part of summer because of global warming; change would compromise life of polar bear and their food source; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A comprehensive study of climate change in the Arctic, released yesterday, does what few people anywhere in the debate have managed: it puts a face on global warming. Among the first victims, the study predicts, will be polar bears.</p>
+        <p>That is because unbroken sea ice serves as a kind of herder for seals, concentrating them around breathing holes and other small openings, where they become polar bears' favorite prey. The study concludes that by 2070, the top of the world is likely to be mainly open blue water in the summer.</p>
+      </block>
+      <block class="full_text">
+        <p>A comprehensive study of climate change in the Arctic, released yesterday, does what few people anywhere in the debate have managed: it puts a face on global warming. Among the first victims, the study predicts, will be polar bears.</p>
+        <p>That is because unbroken sea ice serves as a kind of herder for seals, concentrating them around breathing holes and other small openings, where they become polar bears' favorite prey. The study concludes that by 2070, the top of the world is likely to be mainly open blue water in the summer.</p>
+        <p>The four-year study, by 300 scientists for the eight countries with Arctic territory, says the region will probably experience other profound changes. More findings are on Page 3.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

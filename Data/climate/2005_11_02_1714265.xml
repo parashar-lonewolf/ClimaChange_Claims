@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Study Warns of Warming and Losses of Arctic Tundra</title>
+    <meta content="02climate" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/11/02/science/earth/02climate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1714265"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <location class="online_producer">Arctic Regions</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E3DD163EF931A35752C1A9639C8B63" item-length="648" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Study Warns of Warming and Losses of Arctic Tundra</hl1>
+        <hl2 class="online_headline">Climate Study Warns of Warming and Losses of Arctic Tundra</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If emissions of heat-trapping gases continue to accumulate in the atmosphere at the current rate, there may be many centuries of warming and a near total loss of Arctic tundra, according to a new climate study.</p>
+        <p>Over all, the world would experience profound transformations, some potentially beneficial but many disruptive, and all at a pace rarely seen in nature, said the authors of the new study, which was published yesterday in The Journal of Climate.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If emissions of heat-trapping gases continue to accumulate in the atmosphere at the current rate, there may be many centuries of warming, according to a new climate study.</p>
+      </block>
+      <block class="full_text">
+        <p>If emissions of heat-trapping gases continue to accumulate in the atmosphere at the current rate, there may be many centuries of warming and a near total loss of Arctic tundra, according to a new climate study.</p>
+        <p>Over all, the world would experience profound transformations, some potentially beneficial but many disruptive, and all at a pace rarely seen in nature, said the authors of the new study, which was published yesterday in The Journal of Climate.</p>
+        <p>''The question is no longer whether we will need to address this problem, but when we will need to address the problem,'' said Kenneth Caldeira, an author of the study and a climate expert at the Department of Global Ecology of the Carneige Institution, based at Stanford University.</p>
+        <p>''We can either address it now, before we severely and irreversibly damage our climate, or we can wait until irreversible damage manifests itself strongly,'' Dr. Caldeira said. ''If all we do is try to adapt, things will get worse and worse.''</p>
+        <p>The paper's lead author, Bala Govindasamy of the Lawrence Livermore National Laboratory in California, said it might be 20 or 30 years before the scope of the human-caused changes became evident. The researchers ran a computer model that simulates the climate system and the flow of heat-trapping carbon into the air in the form of carbon dioxide, then back into soils and the ocean.</p>
+        <p>Most simulations of the potential human impact on climate have been confined to studying the next 100 years or so, but in this case the scientists started the calculations with the year 1870 and let the computers churn away through 2300. The authors emphasized that uncertainties were high over such a time span and said the study was intended to illustrate broad consequences rather than project specific ones.</p>
+        <p>In the simulation, the atmospheric concentration of carbon dioxide rises about 0.45 percent a year through 2300. That is slightly less than the current rate, about 0.5 percent. But even at the lower rate, the concentration of carbon dioxide would double from preindustrial levels by 2070, triple by 2120 and quadruple by 2160.</p>
+        <p>The results are sobering, Dr. Caldeira and other climate experts said, because the computer model used in the study tends to produce less warming from a greenhouse-gas buildup than many climate simulations run by other research teams.</p>
+        <p>Consistent with many other studies, the model showed that the Arctic would see the most warming, with average annual temperatures in many parts of Arctic Russia and northern North America rising by more than 25 degrees by around 2100. Antarctica's temperatures would rise sharply around 2200.</p>
+        <p>In the simulation, the scrubby Arctic tundra largely vanishes as climate zones shift hundreds of miles north. Tundra would decline to 1.8 percent of the world's land area from about 8 percent. In the model, Alaska loses almost all of its evergreen boreal forests and becomes a largely temperate state.</p>
+        <p>Vast stretches of land would open up. The area beneath ice would diminish to 4.8 percent of the planet's total land area, from 13.3 percent.</p>
+        <p>Several climate scientists not associated with the study said its main benefit was akin to the visions of possible futures experienced by Ebenezer Scrooge in ''A Christmas Carol.''</p>
+        <p>''It's a cautionary tale,'' said Gerald A. Meehl, a climate modeler at the National Center for Atmospheric Research in Boulder, Colo., who has conducted similar studies. ''The message is not to give up because the changes appear overwhelming, but instead the message should be the longer we wait to do something, the worse the consequences.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

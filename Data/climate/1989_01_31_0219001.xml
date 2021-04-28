@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="219001"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <object.title class="indexing_service">Q&amp;A (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0DE123DF932A05752C0A96F948260" item-length="302" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Q.Where does the air supply come from for extended space missions?  A. On past space flights, the components of breathable air, oxygen and nitrogen, were brought up in canisters.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Q.Where does the air supply come from for extended space missions?  A. On past space flights, the components of breathable air, oxygen and nitrogen, were brought up in canisters.</p>
+        <p>Q.Where does the air supply come from for extended space missions?  A. On past space flights, the components of breathable air, oxygen and nitrogen, were brought up in canisters.</p>
+        <p>When the United States space station is launched, however, it will carry equipment to recover oxygen indirectly from the carbon dioxide crewmembers exhale, according to National Aeronautics and Space Administration spokesmen.</p>
+        <p>Randy Humphries, Ph.D., chief of the life support branch at NASA's Marshall Space Flight Center, Huntsville, Ala., described the system, which is still being designed.</p>
+        <p>He explained that carbon dioxide will be reclaimed from the exhaled air by a concentrator. The 95-percent-pure carbon dioxide will then be burned with hydrogen in a carbon dioxide reduction device, yielding water and some waste products, either carbon or methane.</p>
+        <p>This water will then be used as drinking water on the space station.</p>
+        <p>''Then we take some water from the hygiene system, dirtier water, and put it in an oxygen generator, an electrolyzer that breaks it down into its two components, hydrogen and oxygen, by electrolysis,'' he said.</p>
+        <p>''The oxygen is fed back into the cabin, closing the cycle. The hydrogen is used in the propulsion system to keep the space station at the proper attitude and to reboost it into the proper orbit as the orbit decays.''</p>
+        <p>Oxygen requirements are about 1.8 pounds per day per person. On past flights, carbon dioxide was recaptured but not reused.</p>
+        <p>Initially, Mr. Humphries said, the Soviet Union used a multistep chemical recovery system to obtain oxygen for its extended space flights.</p>
+        <p>''We understand they have switched to an electrolyzer-type process,'' he said. ''We think the supply vehicle, Progress, that visits every 60 days, brings water up that is then electrolyzed.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

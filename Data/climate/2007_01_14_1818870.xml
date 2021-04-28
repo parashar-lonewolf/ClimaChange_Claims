@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Connecting the Global Warming Dots</title>
+    <meta content="14basics" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/weekinreview/14basics.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818870"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Basics"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <org class="indexing_service">Intergovernmental Panel on Climate Change</org>
+        <org class="indexing_service">National Oceanic and Atmospheric Administration</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <org class="online_producer">Intergovernmental Panel on Climate Change</org>
+        <org class="online_producer">National Climatic Data Center</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E3D71330F937A25752C0A9619C8B63" item-length="510" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Connecting the Global Warming Dots</hl1>
+        <hl2 class="online_headline">Connecting the Global Warming Dots</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Intergovernmental Panel on Climate Change's most recent report, issued in 2001, identified various trends indicating that human activity is contributing to global warming; trends include rising global average of nighttime temperature, cooling stratosphere and parallel warming over land and oceans; panel's new report will be released on Feb 2; National Oceanic and Atmospheric Adm graphs of warming trends (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If thought of as a painting, the scientific picture of a growing and potentially calamitous human influence on the climate has moved from being abstract a century ago to impressionistic 30 years ago to pointillist today.</p>
+        <p>The impact of a buildup of carbon dioxide and other greenhouse gases is now largely undisputed. Almost everyone in the field says the consequences can essentially be reduced to a formula: More CO2 = warmer world = less ice = higher seas. (Throw in a lot of climate shifts and acidifying oceans for good measure.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If thought of as a painting, the scientific picture of a growing human influence on the climate has moved from being abstract a century ago to impressionistic 30 years ago to pointillist today.</p>
+      </block>
+      <block class="full_text">
+        <p>If thought of as a painting, the scientific picture of a growing and potentially calamitous human influence on the climate has moved from being abstract a century ago to impressionistic 30 years ago to pointillist today.</p>
+        <p>The impact of a buildup of carbon dioxide and other greenhouse gases is now largely undisputed. Almost everyone in the field says the consequences can essentially be reduced to a formula: More CO2 = warmer world = less ice = higher seas. (Throw in a lot of climate shifts and acidifying oceans for good measure.)</p>
+        <p>But the prognosis -- and the proof that people are driving much of the warming -- still lacks the sharpness and detail of a modern-day photograph, which makes it hard to get people to change their behavior.</p>
+        <p>Indeed, the closer one gets to a particular pixel, be it hurricane strength, or the rate at which seas could rise, the harder it is to be precise. So what is the basis for the ever-stronger scientific agreement on the planet's warming even in the face of blurry details?</p>
+        <p>As in a pointillist painting, the meaning emerges from the broadest view, from the ''balance of evidence,'' as the scientific case is described in the periodic reports issued by an enormous international network of experts: the Intergovernmental Panel on Climate Change, www.ipcc.ch. The main findings of the panel's fourth assessment since 1990 will be released in Paris on Feb. 2.</p>
+        <p>In the panel's last report, issued in 2001, and in more recent studies reviewed for the coming report, various trends provide clues that human activity, rather than natural phenomena, probably caused the most recent warming. A number of trends have been identified:</p>
+        <p>The global average minimum nighttime temperature has risen. (This is unlikely to be caused by some variability in the sun, for example, and appears linked to the greenhouse gases that hold in heat radiating from the earth's surface, even after the sun has gone down.)</p>
+        <p>The stratosphere, high above the earth's surface, has cooled, which is an expected outcome of having more heat trapped by the gases closer to the surface, in the troposphere. (Scientists say that variations in the sun's output, for example, would instead cause similar trends in the two atmospheric layers instead of opposite ones.)</p>
+        <p>There has been a parallel warming trend over land and oceans. (In other words, the increase in the amount of heat-trapping asphalt cannot be the only culprit.)</p>
+        <p>''There's no urbanization going on on the ocean,'' said Jay Lawrimore, chief of the climate monitoring branch of the National Climatic Data Center in Asheville, N.C.</p>
+        <p>Another important finding comes from computer simulations of the climate system. While the several dozen top models remain rough approximations, they have become progressively better at replicating climate patterns, past and present.</p>
+        <p>In the models, the only way to replicate the remarkable warming, and extraordinary Arctic warming, of recent decades is to add greenhouse gases as people have been doing, Dr. Lawrimore said.</p>
+        <p>''Without the greenhouse gases,'' he said, ''you just don't get what we've observed.''</p>
+        <p>ANDREW C. REVKIN</p>
+        <p>The Basics</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

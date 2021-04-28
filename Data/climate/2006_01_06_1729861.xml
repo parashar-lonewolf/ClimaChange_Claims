@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DNA Analyses Offer New Insight on Cat Evolution and Migration</title>
+    <meta content="06cats" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/06/science/06cats.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1729861"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Cats</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DC1E30F935A35752C0A9609C8B63" item-length="683" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DNA Analyses Offer New Insight on Cat Evolution and Migration</hl1>
+        <hl2 class="online_headline">DNA Offers New Insight Concerning Cat Evolution</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Researchers have gained a major insight into the evolution of cats by showing how they migrated to new continents and developed new species as sea levels rose and fell.</p>
+        <p>About nine million years ago -- two million years after the cat family first appeared in Asia -- these successful predators invaded North America by crossing the Bering land bridge connecting Siberia and Alaska, a team of geneticists writes in the journal Science today.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Researchers have shown how cats migrated to new continents and developed new species as sea levels rose and fell.</p>
+      </block>
+      <block class="full_text">
+        <p>Researchers have gained a major insight into the evolution of cats by showing how they migrated to new continents and developed new species as sea levels rose and fell.</p>
+        <p>About nine million years ago -- two million years after the cat family first appeared in Asia -- these successful predators invaded North America by crossing the Bering land bridge connecting Siberia and Alaska, a team of geneticists writes in the journal Science today.</p>
+        <p>Later, several American cat lineages returned to Asia. With each migration, evolutionary forces morphed the pantherlike patriarch of all cats into a rainbow of species, from ocelots and lynxes to leopards, lions and the lineage that led to the most successful cat of all, even though it has mostly forsaken its predatory heritage: the cat that has induced people to pay for its board and lodging in return for frugal displays of affection.</p>
+        <p>This new history of the family, Felidae, is based on DNA analyses of the 37 living species performed by Warren E. Johnson and Stephen J. O'Brien of the National Cancer Institute and colleagues elsewhere.</p>
+        <p>Before DNA, taxonomists had considerable difficulty in classifying the cat family. The fossil record was sparse and many of the skulls lacked distinctiveness. One scheme divided the family into Big Cats and Little Cats. Then, in 1997, Dr. Johnson and Dr. O'Brien said they thought most living cats fell into one of eight lineages, based on the genetic element known as mitochondrial DNA.</p>
+        <p>Having made further DNA analyses, the researchers have drawn a full family tree that assigns every cat species to one of the lineages. They have also integrated their tree, which is based solely on changes in DNA, with the fossil record. The fossils, which are securely dated, allow dates to be assigned to each fork in the genetic family tree.</p>
+        <p>Knowing when each species came into existence, the Johnson-O'Brien team has been able to reconstruct a series of at least 10 intercontinental migrations by which cats colonized the world. The cheetah, for instance, now found in Africa, belongs to a lineage that originated in North America and some three million years ago migrated back across the Bering land bridge to Asia and then Africa.</p>
+        <p>As predators, Dr. O'Brien said, cats were second only to humans and quickly explored new territories. Sea levels were low from 11 million to 6 million years ago, enabling the first modern cats, in paleontologists' perspective (saber-tooth tigers are ancient cats), to spread from Asia into Africa, creating the caracal lineage, and into North America, generating the ocelot, lynx and puma lineages.</p>
+        <p>The leopard lineage appeared around 6.5 million years ago in Asia. The youngest of the eight lineages, which led to the domestic cat, emerged some 6.2 million years ago in Asia and Africa, either from ancestors that had never left Asia or more probably from North American cats that had trekked back. Sea levels then rose, confining each cat species to its own continent, but sank again some three million years ago, allowing a second round of cat migrations. Chris Wozencraft, an authority on the classification of carnivorous mammals, said the new cat family tree generally agreed with one that he had just published in Mammal Species of the World, a standard reference. Dr. Wozencraft, a taxonomist at Bethel College in Indiana, based his classification on fossil and zoological information, as well as on DNA data already published by Dr. O'Brien's laboratory.</p>
+        <p>Cat fossils are very hard to tell apart, because they differ mostly just in size, and the DNA data emerging over the last decade has helped bring the field from confusion to consensus, Dr. Wozencraft said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

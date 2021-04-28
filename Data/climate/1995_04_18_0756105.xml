@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Earth Day at 25: The State of Nature</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Front Page" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="756105"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5D71731F93BA25757C0A963958260" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Earth Day at 25: The State of Nature</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the 25th anniversary of Earth Day coming up, a debate is raging over just how successful the environmental movement it spawned has been.</p>
+        <p>A spate of recent books and articles declare that the worst is over and a green and healthy future lies ahead. Several types of air and water pollution have been reduced, as the optimists point out, and industrial toxins are being released at a markedly lower rate.</p>
+      </block>
+      <block class="full_text">
+        <p>With the 25th anniversary of Earth Day coming up, a debate is raging over just how successful the environmental movement it spawned has been.</p>
+        <p>A spate of recent books and articles declare that the worst is over and a green and healthy future lies ahead. Several types of air and water pollution have been reduced, as the optimists point out, and industrial toxins are being released at a markedly lower rate.</p>
+        <p>But others argue that these victories were relatively easy ones against clear and obvious threats. The real test is still to come, as the nation begins to deal with the difficult and less well defined issues of declining biodiversity and global warming.</p>
+        <p>Science Times, page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

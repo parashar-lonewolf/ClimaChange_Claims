@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paying More at the Gas Pump</title>
+    <meta content="LTR232334" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1185286"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Wong, Henry</person>
+        <person class="indexing_service">Mosbacher, Robert A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE6DB133AF93AA25750C0A9669C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paying More at the Gas Pump</hl1>
+      </hedline>
+      <abstract>
+        <p>Henry Wong letter disputes Robert A Mosbacher March 13 Op-Ed article contending that high oil prices will spur development of energy alternatives</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>History does not support Robert A. Mosbacher's argument that high oil prices will spur the development of energy alternatives like synthetic fuels, renewable energy sources and gasified coal (Op-Ed, March 13).</p>
+        <p>The two oil shocks in the 1970's led to the establishment of large government research programs as well as subsidies and tax incentives to encourage development of energy alternatives. These programs were mostly a waste of taxpayer money.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>History does not support Robert A. Mosbacher's argument that high oil prices will spur the development of energy alternatives like synthetic fuels, renewable energy sources and gasified coal (Op-Ed, March 13).</p>
+        <p>The two oil shocks in the 1970's led to the establishment of large government research programs as well as subsidies and tax incentives to encourage development of energy alternatives. These programs were mostly a waste of taxpayer money.</p>
+        <p>The synthetic fuels program spent millions on hopeless projects. Ethanol subsidies still remain, despite the dim future for ethanol fuels. Tax incentives encouraged construction of wind turbines, but were awarded whether or not the turbines worked. When oil prices dropped and stabilized, the research programs and tax incentives disappeared.</p>
+        <p>We need a sustained effort to encourage alternatives to oil. That won't happen if government dollars are tied to the fluctuations in oil prices.</p>
+        <p>HENRY  WONG  New Haven, March 13, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

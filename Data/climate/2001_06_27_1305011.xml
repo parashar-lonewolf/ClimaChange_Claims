@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ABC Cuts Child Interviews After Their Parents Object</title>
+    <meta content="Y27XAB$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1305011"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Abc Inc</org>
+        <person class="indexing_service">Rutenberg, Jim</person>
+        <person class="indexing_service">Stoessel, John</person>
+        <object.title class="indexing_service">Tampering With Nature (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7D71E30F934A15755C0A9679C8B63" item-length="402" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ABC Cuts Child Interviews After Their Parents Object</hl1>
+      </hedline>
+      <byline class="print_byline">By JIM RUTENBERG</byline>
+      <byline class="normalized_byline">Rutenberg, Jim</byline>
+      <abstract>
+        <p>ABC News agrees to remove interview with schoolchildren from coming special on environment, Tampering With Nature, after their parents complain that children were asked leading questions by host, John Stoessel, intended to get them to say teachings about environment are scaring them; Stoessel has frequently angered environmentalists for painting them as scaremongers and for questioning reasoning behind some of their positions (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ABC News has agreed to remove an interview with schoolchildren from a coming special on the environment after their parents said they had been misled about the nature of the questioning when they permitted their children to participate.</p>
+        <p>Called ''Tampering With Nature,'' the special is to be shown on Friday night. Its host will be John Stossel, who has frequently angered environmentalists for painting them as scaremongers and for questioning the reasoning behind some of their positions.</p>
+      </block>
+      <block class="full_text">
+        <p>ABC News has agreed to remove an interview with schoolchildren from a coming special on the environment after their parents said they had been misled about the nature of the questioning when they permitted their children to participate.</p>
+        <p>Called ''Tampering With Nature,'' the special is to be shown on Friday night. Its host will be John Stossel, who has frequently angered environmentalists for painting them as scaremongers and for questioning the reasoning behind some of their positions.</p>
+        <p>The children -- about 10 of them ages 8 to 17 -- were interviewed in Santa Monica, Calif., on Earth Day.</p>
+        <p>Several parents said they had given ABC permission to interview their children after they had been led to believe that their children would be asked straightforward questions about environmental issues. The parents said they were surprised, however, when Mr. Stossel asked ''leading questions to get them to say'' what he wanted, namely, they said, that teachings about the environment were scaring them.</p>
+        <p>Brad Neal, who was at the interview session with his children Samantha, 8, and Brandon, 10, said: ''He led them. He was asking the kids, 'Isn't it true that scientists all agree that the greenhouse effect is the result of fossil fuel burning?' It was like he was trying to get them to come out and say an incorrect answer.''</p>
+        <p>In a letter to Mr. Stossel, the parents said that they had not initially been told that he would be involved and that they were revoking their permission.</p>
+        <p>Some of the parents took their concerns to the Environmental Working Group, a watchdog group that helped them take their complaint public on Monday.</p>
+        <p>Last summer, the Environmental Working Group raised questions about a report by Mr. Stossel that supposedly debunked the assumed benefits of organic produce, but was based, in part, on results from ''research'' that was never conducted. Mr. Stossel was reprimanded, and he later apologized on ABC's ''20/20.''</p>
+        <p>In a statement yesterday, ABC said that despite its decision to scrap the interview with the children -- part of a four-minute segment about the teaching of environmental science -- it did not think Mr. Stossel or his team had done anything wrong.</p>
+        <p>The network said no parent objected ''until the week of our broadcast, after they had spoken with activists.''</p>
+        <p>But, ABC said, it wanted to be sensitive to the parents' objections.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

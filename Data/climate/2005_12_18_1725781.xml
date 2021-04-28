@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vicki Arroyo, John Carey</title>
+    <meta content="18ARRO" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/18/fashion/weddings/18ARRO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1725781"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Arroyo, Vicki</person>
+        <person class="indexing_service">Carey, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EEDD1630F93BA25751C1A9639C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vicki Arroyo, John Carey</hl1>
+        <hl2 class="online_headline">Vicki Arroyo and John Carey</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Vicki Arroyo and John Carey were married yesterday at the Unitarian Universalist Church of Arlington in Virginia. The Rev. Richard Nugent performed the ceremony.</p>
+        <p>Ms. Arroyo, 42, is keeping her name. She is the director of policy analysis at the Pew Center on Global Climate Change, a nonprofit research group in Arlington. She is also an actress who has appeared in community theater. She graduated magna cum laude from Emory University and received a master's degree in public administration from Harvard. She also received a law degree magna cum laude from Georgetown University, where she was the editor in chief of The Georgetown International Environmental Law Review.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Vicki Arroyo and John Carey were married on Saturday in Virginia.</p>
+      </block>
+      <block class="full_text">
+        <p>Vicki Arroyo and John Carey were married yesterday at the Unitarian Universalist Church of Arlington in Virginia. The Rev. Richard Nugent performed the ceremony.</p>
+        <p>Ms. Arroyo, 42, is keeping her name. She is the director of policy analysis at the Pew Center on Global Climate Change, a nonprofit research group in Arlington. She is also an actress who has appeared in community theater. She graduated magna cum laude from Emory University and received a master's degree in public administration from Harvard. She also received a law degree magna cum laude from Georgetown University, where she was the editor in chief of The Georgetown International Environmental Law Review.</p>
+        <p>She is a daughter of Verna L. Arroyo of Arlington and the late Sidney Arroyo. Her father was a controller at E. H. Gilmore Inc., an engineering firm in Jefferson, La. He was also an actor in New Orleans. Her mother was a children's entertainer.</p>
+        <p>Mr. Carey, 51, is a senior correspondent in the Washington bureau of Business Week magazine. A magna cum laude graduate of Yale, he received a master's degree in marine biology from the University College of North Wales and a Master of Forest Science degree, also from Yale.</p>
+        <p>He is a son of Philip Carey of Princeton, N.J., and the late Priscilla Carey. His father is retired as a personal assistant to the president of Gale Research, a publishing company in Detroit.</p>
+        <p>The bride's previous marriage ended in divorce; the bridegroom was a widower.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

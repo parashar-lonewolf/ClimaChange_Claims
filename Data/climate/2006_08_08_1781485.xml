@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Team Looks At Seafloor As Gas Trap</title>
+    <meta content="08carbon" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/08/08/science/earth/08carbon.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1781485"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="descriptor">Storage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Storage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <org class="online_producer">Proceedings of the National Academy of Sciences</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060808T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFDA1E3FF93BA3575BC0A9609C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Team Looks At Seafloor As Gas Trap</hl1>
+        <hl2 class="online_headline">Team Looks at Seafloor as Gas Trap</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As the world heads toward a midcentury population of some nine billion people with at least twice today's energy thirst, one vital way to limit global warming, many scientists say, will be to capture the heat-trapping carbon dioxide emitted by coal-fired power plants.</p>
+        <p>But what can you do with what will amount to tens of billions of tons of the gas?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Researchers are proposing what they say is a limitless, low-risk repository for carbon dioxide: seafloor sediments.</p>
+      </block>
+      <block class="full_text">
+        <p>As the world heads toward a midcentury population of some nine billion people with at least twice today's energy thirst, one vital way to limit global warming, many scientists say, will be to capture the heat-trapping carbon dioxide emitted by coal-fired power plants.</p>
+        <p>But what can you do with what will amount to tens of billions of tons of the gas?</p>
+        <p>Pumping carbon dioxide into the earth or deep into the sea have been suggested. But some escape is possible in both cases.</p>
+        <p>Now a team of researchers propose what they say is a limitless, low-risk repository for carbon dioxide: seafloor sediments at depths and temperatures that would guarantee it would stay denser than the water above, and thus be permanently locked away.</p>
+        <p>Writing in Monday's edition of the weekly Proceedings of the National Academy of Sciences, and analyzing chemical and physical data, the team identified an ideal depth of ocean waters and sediment that creates just the right cold-storage conditions.</p>
+        <p>Several hundred yards beneath the seabed in waters about 10,000 feet deep, the temperature is typically about 35 degrees and the pressure from the water overhead would cause liquid carbon dioxide pumped into porous sediment to stay denser than water, the researchers said.</p>
+        <p>Experts not involved with the analysis, which was partly paid for by the Department of Energy, said the idea showed promise but would need to be extensively tested in the field.</p>
+        <p>Others noted that designing and building plants that could efficiently catch and compress the gas in sufficient volume would ultimately be more daunting than finding a place to stash it.</p>
+        <p>The lead author, Kurt Zenz House, a graduate student in earth sciences at Harvard, said that at the very least, the study showed there was ''an inherently stable and permanent storage option that could bite off a huge chunk of the CO2.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

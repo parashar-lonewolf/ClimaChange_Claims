@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="03QNA.$01" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1555853"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Moon</classifier>
+        <classifier class="indexing_service" type="descriptor">Radiation</classifier>
+        <location class="indexing_service">Mars (Planet)</location>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EEDC173BF930A35751C0A9629C8B63" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column questions how people could survive intense radiation if living on Moon or Mars; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Radiation on Mars</p>
+        <p>Q. If and when people try to live on Mars, or even on the Moon, how will they be protected from radiation?</p>
+        <p>A. While much remains to be learned about conditions on Mars, the fact that its soil or dirt can be shoveled around is highly encouraging. In all probability, the living quarters for space pioneers will simply be buried under more than a yard of the stuff lying on the surface.</p>
+      </block>
+      <block class="full_text">
+        <p>Radiation on Mars</p>
+        <p>Q. If and when people try to live on Mars, or even on the Moon, how will they be protected from radiation?</p>
+        <p>A. While much remains to be learned about conditions on Mars, the fact that its soil or dirt can be shoveled around is highly encouraging. In all probability, the living quarters for space pioneers will simply be buried under more than a yard of the stuff lying on the surface.</p>
+        <p>Both solar and cosmic radiation are worries in space, the NASA Web site explains. Outside the Earth's protective ozone layer, ultraviolet radiation will rapidly give unshielded space travelers sunburn and skin cancer. The metal skin and most of the glass of spacecraft, however, block much UV radiation.</p>
+        <p>Meanwhile, when the Sun flares, it produces X-rays, gamma rays and high-energy particles. The particles are the most dangerous, but they are delayed enough that travelers will have some warning, giving them time to get to a a shielded area, perhaps amid water tanks, for a few days until the particles die down.</p>
+        <p>Even more such radiation comes continuously from deep space. Small amounts of metal shielding can block most of this, but the rest increases the risk of cancer somewhat, shortening the theoretical life expectancy by roughly a day for every week spent in space's cosmic ray environment. But such a risk is relatively small in comparison with other risks of space exploration.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

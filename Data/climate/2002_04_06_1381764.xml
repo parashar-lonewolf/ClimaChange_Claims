@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR004726" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1381764"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Randol, Arthur G III (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DA143DF935A35757C0A9649C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Apr 2 article: Dr Arthur G Randol III's call to replace head of international panel on climate change was in memo attached to his letter to White House</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Tuesday about efforts to replace the chairman of an international panel on climate change referred imprecisely to a letter sent to the White House a year ago by Dr. Arthur G. Randol III, senior environmental adviser for ExxonMobil. In the letter, Dr. Randol introduced an attached memo and wrote, ''I will call to discuss the recommendations regarding the team that can better represent the Bush Administration interests.'' It was the memo, rather than his cover note, that accused the chairman of using the panel's reports to further his ''personal agenda'' and asked whether he could ''be replaced now at the request of the U.S.'' The memo was unsigned, and a spokesman for ExxonMobil said he was unable to say who wrote it.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Tuesday about efforts to replace the chairman of an international panel on climate change referred imprecisely to a letter sent to the White House a year ago by Dr. Arthur G. Randol III, senior environmental adviser for ExxonMobil. In the letter, Dr. Randol introduced an attached memo and wrote, ''I will call to discuss the recommendations regarding the team that can better represent the Bush Administration interests.'' It was the memo, rather than his cover note, that accused the chairman of using the panel's reports to further his ''personal agenda'' and asked whether he could ''be replaced now at the request of the U.S.'' The memo was unsigned, and a spokesman for ExxonMobil said he was unable to say who wrote it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

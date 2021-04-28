@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Dependence on Oil</title>
+    <meta content="L05OIL$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1181508"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Conservation of Resources</classifier>
+        <org class="indexing_service">Sierra Club</org>
+        <person class="indexing_service">Richardson, Bill (Sec)</person>
+        <person class="indexing_service">Mesnikoff, Ann</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E2DB1738F936A35750C0A9669C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Dependence on Oil</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Ann Mesnikoff of Sierra Club points out that sending Sec Bill Richardson to secure lower oil prices may help consumers in short term but does nothing to address long-term problem of US oil addiction (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Effort for Lowering Oil Prices Gains at U.S.-Saudi Meeting'' (news article, Feb. 27):</p>
+        <p>Sending Energy Secretary Bill Richardson to secure lower oil prices may provide consumer relief in the short term, but does nothing to address the long-term problem of our oil addiction. In addition to spewing 20 percent of our global warming pollution, automobiles guzzle 40 percent of the oil we use, keeping us dependent on foreign oil.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Effort for Lowering Oil Prices Gains at U.S.-Saudi Meeting'' (news article, Feb. 27):</p>
+        <p>Sending Energy Secretary Bill Richardson to secure lower oil prices may provide consumer relief in the short term, but does nothing to address the long-term problem of our oil addiction. In addition to spewing 20 percent of our global warming pollution, automobiles guzzle 40 percent of the oil we use, keeping us dependent on foreign oil.</p>
+        <p>In fact, with the proliferation of S.U.V.'s, the average fuel economy of new vehicles sold has fallen to its lowest point since 1980. Since 1996, Congress has blocked President Clinton's ability to raise fuel economy standards. The president must stand up to Congress and the auto industry now to raise these standards.</p>
+        <p>ANN MESNIKOFF  Washington, Feb. 29, 2000</p>
+        <p>The writer is a representative of the Sierra Club's Global Warming and Energy Program.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Discovery Crew Prepares to Deploy Satellite</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="473498"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">DISCOVERY (SPACE SHUTTLE)</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE SHUTTLE</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <person class="indexing_service">WILFORD, JOHN NOBLE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D91038F937A2575AC0A967958260" item-length="369" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Discovery Crew Prepares to Deploy Satellite</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD,</byline>
+      <byline class="normalized_byline">WILFORD, JOHN NOBLE</byline>
+      <dateline>CAPE CANAVERAL, Fla., Sept. 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Astronauts steered the shuttle Discovery to a slightly higher orbit today and prepared to deploy a 14,500-pound environmental research satellite for a comprehensive study of the upper atmosphere.</p>
+        <p>The Upper Atmosphere Research Satellite is scheduled to be released from the shuttle's cargo bay shortly before midnight Saturday. Its $710 million mission is expected to last two years and give scientists a clearer picture of what is causing a depletion of the atmosphere's ozone layer, which shields the Earth from deadly radiation.</p>
+      </block>
+      <block class="full_text">
+        <p>Astronauts steered the shuttle Discovery to a slightly higher orbit today and prepared to deploy a 14,500-pound environmental research satellite for a comprehensive study of the upper atmosphere.</p>
+        <p>The Upper Atmosphere Research Satellite is scheduled to be released from the shuttle's cargo bay shortly before midnight Saturday. Its $710 million mission is expected to last two years and give scientists a clearer picture of what is causing a depletion of the atmosphere's ozone layer, which shields the Earth from deadly radiation.</p>
+        <p>Engineers said that all systems on the satellite had been checked out and found to be operating normally. The Discovery, launched here on Thursday evening, was also reported to be performing well. Experimental Electronic Camera</p>
+        <p>The five astronauts spent the day conducting scientific experiments inside the cabin and taking pictures with an experimental electronic camera that does not use film. It captures an image electronically and converts it to digital data that can be stored on disks and transmitted by radio to the ground.</p>
+        <p>The National Aeronautics and Space Administration said the electronic camera was the first model in the planned development of a family of high-resolution digital cameras.</p>
+        <p>In preparing to deploy the satellite, the astronauts fired the Discovery's steering jets twice to raise and circularize its orbit three miles to 354 miles above Earth. This is the altitude at which the satellite is to be released on the shuttle's 34th orbit.</p>
+        <p>After the satellite is released its own steering rockets will be fired over a period of four days to boost it into an orbit of at least 372 miles. The higher the altitude the longer the satellite can remain in orbit and the more encompassing its view of Earth, including the polar regions where the vanishing ozone is especially extensive.</p>
+        <p>Even the astronauts were impressed by their higher-than-usual perspective. Capt. John O. Creighton of the Navy reported being able to see Australia from coast to coast.</p>
+        <p>The other crew members are Comdr. Kenneth S. Reightler of the Navy, Maj. Charles D. Gemar of the Army, Col. James F. Buchli of the Marine Corps and Col. Mark N. Brown of the Air Force.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

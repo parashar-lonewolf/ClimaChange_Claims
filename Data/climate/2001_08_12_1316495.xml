@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Merlot Sampler</title>
+    <meta content="12VINE" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1316495"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="LONG ISLAND VINES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <person class="indexing_service">Goldberg, Howard G</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Wine Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010812T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D81F3CF931A2575BC0A9679C8B63" item-length="397" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Merlot Sampler</hl1>
+      </hedline>
+      <byline class="print_byline">By HOWARD G. GOLDBERG</byline>
+      <byline class="normalized_byline">Goldberg, Howard G</byline>
+      <abstract>
+        <p>Howard Goldberg reviews Channing Daughters' 2000 Fresh Red merlot wine; photo (Long Island Vines column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Although merlot and 80-degree days don't socialize comfortably, a couple of cool nights encouraged a sampling of stylistically different North and South Fork versions.</p>
+        <p>Lieb Family Cellars' second merlot, dated 1998, further validates the North Fork's claim that merlot is its standard-bearing red grape and wine.</p>
+      </block>
+      <block class="full_text">
+        <p>Although merlot and 80-degree days don't socialize comfortably, a couple of cool nights encouraged a sampling of stylistically different North and South Fork versions.</p>
+        <p>Lieb Family Cellars' second merlot, dated 1998, further validates the North Fork's claim that merlot is its standard-bearing red grape and wine.</p>
+        <p>Channing Daughters' 2000 Fresh Red is perhaps the tastiest red Larry Perrine has made since the winery, in Bridgehampton, went into business in 1997.</p>
+        <p>The compact Lieb merlot ($20), composed from grapes grown in the Lieb Vineyard in Mattituck, was made for Mark and Kathy Lieb at Paumanok in Aquebogue. (Their 2000 wines were made at the Premium Wine Group in Mattituck, where Mr. Lieb is a partner. The 2000 merlot is being sold in the Group's tasting room.)</p>
+        <p>The Lieb blend, containing some cabernet sauvignon and cabernet franc, has knit harmoniously. Its sultry bouquet gives way to fresh, rich flavors supported modestly by oak, and the flavor shows poise, complexity and power.</p>
+        <p>Lieb's merlot is vinified in a traditional style that is instantly recognizable. But Channing Daughters' ($15) is almost startlingly unorthodox. After uncorking it, I checked the label to make sure no mistake had been made.</p>
+        <p>The first noticeable feature is the jammy aroma; the second is the velvet texture; then, confectionery flavors come across as a compote of strawberries and raspberries.</p>
+        <p>The merlot (with cabernet franc playing a minor supporting role) is sumptuous, soothing, a little smoky, round, with a touch of black licorice, a dab of bacon. The tannins are sturdy but not intrusive.</p>
+        <p>The wine's relatively light weight suggested that it would profit from refrigeration. Twenty to 30 minutes so heightened the fruitiness that the wine imitated a slurpy Beaujolais.</p>
+        <p>The winery's Web site, www .channingdaughters.com, offered an explanation. Mr. Perrine partly used a fermentation method called carbonic maceration, practiced in Beaujolais.</p>
+        <p>Instead of crushing grapes and letting the juice ferment in contact with the skins, vintners put clusters of ripe berries into sealed tanks below a carbon dioxide blanket and let the grapes break themselves down. The method produces vivaciously fruity wines for immediate consumption. At Channing Daughters, it certainly clicked.</p>
+        <p>HOWARD G. GOLDBERG</p>
+        <p>LONG ISLAND VINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

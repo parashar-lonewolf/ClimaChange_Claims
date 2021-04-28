@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Edited E.P.A. Report</title>
+    <meta content="L24EPAA" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1499343"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Chilton, Kenneth W</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E5DB153BF937A15755C0A9659C8B63" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Edited E.P.A. Report</hl1>
+      </hedline>
+      <abstract>
+        <p>Kenneth W Chilton letter on June 19 article holds th</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Report by E.P.A. Leaves Out Data on Climate Change'' (front page, June 19), you suggest that the heavy-handed White House crew is keeping important information from the public. I believe that there is no credible information about the likely effects of climate change on Americans because the science of climate change is simply not up to the task.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Report by E.P.A. Leaves Out Data on Climate Change'' (front page, June 19), you suggest that the heavy-handed White House crew is keeping important information from the public. I believe that there is no credible information about the likely effects of climate change on Americans because the science of climate change is simply not up to the task.</p>
+        <p>Your article cites a 2001 report on climate by the National Research Council as evidence that information is being suppressed. That report tried to do the impossible: to apply the current crude climate change models to make regional projections of climate change outcomes -- droughts, floods, hurricanes and so on.</p>
+        <p>The public will benefit far more from facts on environmental challenges than from hysterical speculations.</p>
+        <p>KENNETH W. CHILTON  Lake St. Louis, Mo., June 23, 2003</p>
+        <p>The writer is director, Institute for Study of Economics and the Environment, Lindenwood University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

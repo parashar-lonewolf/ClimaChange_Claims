@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Refilling Ozone Hole</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19911127T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="489809"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">GASES</classifier>
+        <classifier class="indexing_service" type="descriptor">PROPANE</classifier>
+        <classifier class="indexing_service" type="descriptor">ETHANE</classifier>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFD71E31F935A15752C1A967958260" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Refilling Ozone Hole</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A fleet of planes spraying 50,000 tons of propane or ethane high over the South Pole may be able to heal the hole in the earth's protective ozone layer, scientists say. They admit the idea is impractical, but believe it could start serious discussion.</p>
+        <p>"This is a concept and not a proposal," said Ralph Cicerone, a professor of geosciences at the University of California at Irvine, a co-author of a report in the current issue of the journal Science. "We are serious about thinking about these things, but we aren't serious about going out and doing them yet."</p>
+      </block>
+      <block class="full_text">
+        <p>A fleet of planes spraying 50,000 tons of propane or ethane high over the South Pole may be able to heal the hole in the earth's protective ozone layer, scientists say. They admit the idea is impractical, but believe it could start serious discussion.</p>
+        <p>"This is a concept and not a proposal," said Ralph Cicerone, a professor of geosciences at the University of California at Irvine, a co-author of a report in the current issue of the journal Science. "We are serious about thinking about these things, but we aren't serious about going out and doing them yet."</p>
+        <p>Dr. Cicerone and two other scientists created a computer model that suggests that by injecting 50,000 tons of some hydrocarbon, like propane or ethane, into the atmosphere above the South Pole, they could set off a chemical reaction that would prevent the seasonal destruction there of ozone, which protects humans, animals and crops from the sun's harmful ultraviolet rays.</p>
+        <p>They said the propane or ethane gas would have to be sprayed into the polar sky by a squadron of several hundred large airplanes within the few weeks of the southern winter.</p>
+        <p>For more than a decade, atmospheric scientists have known that the ozone layer over the South Pole thins sharply during the austral winter. They attribute it to chlorine atoms, released by human industry, which interact with ozone in the presence of darkness, stratospheric clouds and deep cold.</p>
+        <p>These atoms strip one of three oxygen atoms from ozone molecules, thinning the ozone layer and creating an "ozone hole" over Antarctica. (AP)  SCIENCE WATCH  Correction:  November 27, 1991, Wednesday</p>
+        <p>Because of a production error, the Science Watch column of Science Times yesterday included an incorrect credit. The Associated Press was the source of the report on the ozone hole, not the one on zebra mussels.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: November 27, 1991, Wednesday</p>
+        <p>Because of a production error, the Science Watch column of Science Times yesterday included an incorrect credit. The Associated Press was the source of the report on the ozone hole, not the one on zebra mussels.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

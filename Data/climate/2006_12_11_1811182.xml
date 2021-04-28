@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Muzzling Those Pesky Scientists</title>
+    <meta content="11mon3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/11/opinion/11mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1811182"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <org class="online_producer">Environmental Protection Agency</org>
+        <org class="online_producer">American Petroleum Institute</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E6DA1431F932A25751C1A9609C8B63" item-length="378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Muzzling Those Pesky Scientists</hl1>
+        <hl2 class="online_headline">Muzzling Those Pesky Scientists</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Environmental Protection Agency's revised procedures to set standards for air polutants will have effect of decreasing role of science in policy making while increasing influence of agency's political appointees</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Environmental Protection Agency disclosed last week that it had revised -- stood on their head is more like it -- procedures it has used for 25 years to set standards for air pollutants like soot and lead. The administration said the change will streamline decision making. Perhaps it will. It will also have the further effect of decreasing the role of science in policy making while increasing the influence of the agency's political appointees.</p>
+        <p>This is disheartening, but not surprising. Whether the issue is birth control or global warming or clean air, this administration has already acquired a special place in regulatory history for the audacity with which it has manipulated or muzzled science (and in some cases individual scientists) that might discomfit its industrial allies or interfere with its political agenda.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Bush administration has acquired a special place in regulatory history for the audacity with which it has manipulated or muzzled science that might discomfit its industrial allies or interfere with its political agenda.</p>
+      </block>
+      <block class="full_text">
+        <p>The Environmental Protection Agency disclosed last week that it had revised -- stood on their head is more like it -- procedures it has used for 25 years to set standards for air pollutants like soot and lead. The administration said the change will streamline decision making. Perhaps it will. It will also have the further effect of decreasing the role of science in policy making while increasing the influence of the agency's political appointees.</p>
+        <p>This is disheartening, but not surprising. Whether the issue is birth control or global warming or clean air, this administration has already acquired a special place in regulatory history for the audacity with which it has manipulated or muzzled science (and in some cases individual scientists) that might discomfit its industrial allies or interfere with its political agenda.</p>
+        <p>The E.P.A. is required every five years to review scientific research and set new exposure levels for six pollutants identified as hazardous to human health. Normally, recommendations are first solicited from two groups of scientists: professional staff members inside the agency and independent outside scientists. Those recommendations are then sent to the department's senior officers -- nearly all political appointees -- who shape departmental policy and then send it to the White House and Office of Management and Budget for clearance.</p>
+        <p>Under the new process, initial reviews will be done by staff scientists and political appointees, who together will produce a synopsis of ''policy-relevant'' science -- which sounds ominously like science tailored to predetermined policy outcomes. The independent scientists, meanwhile, will be frozen out until the very end, when they will be allowed to comment on proposals that will have already generated considerable momentum.</p>
+        <p>The betting among environmental groups is that these new procedures will lead to weaker air quality standards more in keeping with industry objectives -- indeed, the American Petroleum Institute is already claiming credit for some of the changes. The new procedures will also help spare the agency the sort of public embarrassment it suffered in October, when its final standards for soot turned out to be far weaker than those recommended earlier (and virtually unanimously) by its staff scientists and the outside consultants.</p>
+        <p>Under the new process, when the E.P.A. considers how it will set air pollution standards, the only debate it will have is with itself.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

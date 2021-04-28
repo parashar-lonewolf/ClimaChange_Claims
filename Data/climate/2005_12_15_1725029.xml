@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Congress May Block Plan for a Wind Farm in Nantucket Sound</title>
+    <meta content="15wind" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/15/politics/15wind.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1725029"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Coast Guard</org>
+        <org class="online_producer">Congress</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E6DB1F31F936A25751C1A9639C8B63" item-length="496" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Congress May Block Plan for a Wind Farm in Nantucket Sound</hl1>
+        <hl2 class="online_headline">Congress May Block Plan for a Wind Farm in Nantucket Sound</hl2>
+      </hedline>
+      <byline class="print_byline">By CORNELIA DEAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A plan to build what could become the first large offshore wind farm in the United States would be effectively killed by a proposed amendment to a Coast Guard budget bill now making its way through Congress, people on both sides of the issue say.</p>
+        <p>The amendment, offered by Representative Don Young, Republican of Alaska, would prohibit new offshore wind facilities within 1.5 nautical miles of a shipping lane or a ferry route. That would rule out construction of the installation, proposed for Nantucket Sound. The budget bill awaits action in a House-Senate conference committee.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Part of a Coast Guard budget bill would prohibit new offshore wind facilities within 1.5 nautical miles of a shipping lane or a ferry route.</p>
+      </block>
+      <block class="full_text">
+        <p>A plan to build what could become the first large offshore wind farm in the United States would be effectively killed by a proposed amendment to a Coast Guard budget bill now making its way through Congress, people on both sides of the issue say.</p>
+        <p>The amendment, offered by Representative Don Young, Republican of Alaska, would prohibit new offshore wind facilities within 1.5 nautical miles of a shipping lane or a ferry route. That would rule out construction of the installation, proposed for Nantucket Sound. The budget bill awaits action in a House-Senate conference committee.</p>
+        <p>The installation would consist of 130 turbines in a grid that would occupy 24 square miles in the sound. Each tower, with its turbine and blades, would rise 420 feet above the water. The developer, a private company called Cape Wind Associates, says the turbines could produce three-quarters of the electricity now used on Cape Cod, Martha's Vineyard and Nantucket.</p>
+        <p>Greenpeace, the American Lung Association and other organizations endorse the plan as an important step in reducing pollution and global warming.</p>
+        <p>But fishery groups, many local communities and Massachusetts political figures like Gov. Mitt Romney and Senator Edward M. Kennedy say that Nantucket Sound, a major attraction for the region's tourism economy, is an inappropriate place for so large an industrial installation and that nothing should be built in federal coastal waters until the government has devised a way to regulate development there.</p>
+        <p>Christine Real de Azua of the American Wind Energy Association, a trade group, said Mr. Young's amendment was not the way to address those objections.</p>
+        <p>''It's 'behind the closed doors' kind of government which is really not in the public interest,'' she said.</p>
+        <p>If Mr. Young ''were really worried about safety issues,'' she said, ''he would be worried about oil rigs which are allowed within 500 feet of a shipping channel.''</p>
+        <p>Ms. Real de Azua and Mark Rodgers, a spokesman for Cape Wind, said that in Denmark, the country with the most experience with offshore wind farms, there were installations only about a quarter-mile from major shipping channels into Copenhagen Harbor and about a mile from a major channel in the Baltic Sea. Those shipping lanes handle far more traffic than Nantucket Sound, they said.</p>
+        <p>They said concern had arisen in Britain over whether wind turbines might interfere with ships' radar. But even there, they said, the issue involves distances of 500 yards or so from the turbines, far less than the 1.5-mile buffer sought by the Young amendment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

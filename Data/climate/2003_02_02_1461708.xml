@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jan. 26-Feb. 1: NATIONAL; ENVIRONMENTAL WRANGLE</title>
+    <meta content="MB234418" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1461708"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E1DA1238F931A35751C0A9659C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jan. 26-Feb. 1: NATIONAL; ENVIRONMENTAL WRANGLE</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew C. Revkin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bush administration said it would help dozens of companies seek exemptions to an impending international ban on methyl bromide, a pesticide that damages the atmosphere's protective ozone layer. Officials said the exemptions were not a loophole, as environmental groups claimed, because the companies had no practical alternatives to the gas, which is used to sterilize soils and crop shipments. But environmentalists said too many exemptions would weaken the ban.</p>
+        <p>Andrew C. Revkin</p>
+      </block>
+      <block class="full_text">
+        <p>The Bush administration said it would help dozens of companies seek exemptions to an impending international ban on methyl bromide, a pesticide that damages the atmosphere's protective ozone layer. Officials said the exemptions were not a loophole, as environmental groups claimed, because the companies had no practical alternatives to the gas, which is used to sterilize soils and crop shipments. But environmentalists said too many exemptions would weaken the ban.</p>
+        <p>Andrew C. Revkin</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

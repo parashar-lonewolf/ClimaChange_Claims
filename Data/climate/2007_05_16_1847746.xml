@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sometimes, What's Needed Is a Nudge</title>
+    <meta content="16leonhardt" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Business; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/16/business/16leonhardt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1847746"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ECONOMIX"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Economics</classifier>
+        <person class="indexing_service">Leonhardt, David</person>
+        <person class="indexing_service">Sunstein, Cass R (Prof)</person>
+        <person class="indexing_service">Thaler, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Economics</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5D81331F935A25756C0A9619C8B63" item-length="1156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sometimes, What's Needed Is a Nudge</hl1>
+        <hl2 class="online_headline">Sometimes, What’s Needed Is a Nudge</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID LEONHARDT</byline>
+      <byline class="normalized_byline">Leonhardt, David</byline>
+      <abstract>
+        <p>David Leonhardt column on policies based on economics of nudging; says these policies do not restrict choice, they simply make sure right choice in most circumstances is also default; focuses on study by University of Chicago Profs Cass Sunstein and Richard Thaler that refers to this idea as 'libertarian paternalism' (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was walking through the intensive care unit of a San Francisco hospital earlier this year when I noticed a jarring sight. Most of the patients in the unit were sitting up in their beds. Some of them were gravely ill, drifting in and out of consciousness, but their mechanical beds were still propped up, much as the bed of an alert patient receiving visitors might be.</p>
+        <p>For more than a decade, it turns out, medical researchers have known that people on ventilators should generally have their heads elevated. When the patients are lying down, bacteria can easily travel from the stomach, up to the mouth and breathing tube, and ultimately into the lungs, causing pneumonia. When people are propped up, gravity becomes their ally.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In areas like health care and education, innovative people are starting to devise policies based on the economics of nudging.</p>
+      </block>
+      <block class="full_text">
+        <p>I was walking through the intensive care unit of a San Francisco hospital earlier this year when I noticed a jarring sight. Most of the patients in the unit were sitting up in their beds. Some of them were gravely ill, drifting in and out of consciousness, but their mechanical beds were still propped up, much as the bed of an alert patient receiving visitors might be.</p>
+        <p>For more than a decade, it turns out, medical researchers have known that people on ventilators should generally have their heads elevated. When the patients are lying down, bacteria can easily travel from the stomach, up to the mouth and breathing tube, and ultimately into the lungs, causing pneumonia. When people are propped up, gravity becomes their ally.</p>
+        <p>But hospitals have had a hard time translating this scientific knowledge into better medical care. Patients frequently need to be put on their backs, to be bathed or to receive treatment, and once they are lying down, doctors and nurses -- busy worrying about dozens of other things -- don't always remember to move the bed back up.</p>
+        <p>''When you have to rely on someone to do it, it's not going to happen every time,'' said Dr. Michael Gropper, the director of critical care medicine at UCSF Medical Center, the hospital I was visiting.</p>
+        <p>So Dr. Gropper made a new rule. Unless there was a written order from a doctor saying that a patient should be lying down, every patient on a ventilator had to be sitting up.</p>
+        <p>The rule was one small part of a common-sense campaign to reduce infections in the intensive care unit over the last two years. None of it was cutting-edge science, but it has made a big difference: the incidence of ventilator-associated pneumonia has fallen more than 40 percent since 2005. There are people walking around Northern California this morning who otherwise would not be alive.</p>
+        <p>The pneumonia campaign is an excellent example of the economics of nudging. By changing what was normal, Dr. Gropper enabled his colleagues to do what they already knew they should be doing.</p>
+        <p>A couple of weeks ago in this space, I described some ingenious food psychology experiments that help explain why this country has become so fat. By surrounding ourselves with foot-wide dinner plates, huge popcorn buckets and 20-ounce bottles of Coke, we have made gorging seem normal. The only obvious way to fight back is through thousands of individual decisions, like buying smaller plates and avoiding the bulk bags of potato chips. (The bigger the bag, the more you'll eat. Really.)</p>
+        <p>But in a lot of areas beyond the kitchen -- like health care and education -- innovative people are starting to devise policies based on the economics of nudging. Like the push to elevate beds, these policies don't restrict choice; they simply make sure the right choice in most circumstances is also the default. Cass Sunstein and Richard Thaler, two professors at the University of Chicago, have referred to this idea as ''libertarian paternalism,''  and they are now writing a book about it. The book is tentatively titled ''Nudge.''</p>
+        <p>They're not ready to talk about all their ideas, but I think there are two big ways that libertarian paternalism can work its magic. The first has to do with bureaucracy. No matter how lofty the aims of a government program, it usually won't make a difference if people can't understand it.</p>
+        <p>Five years ago, the Charlotte-Mecklenburg Schools, the largest district in North Carolina, started a school choice program, giving parents a bigger say over where their children went to school. But finding good information about schools, like their average test scores, sometimes seemed like an unpleasant exam in its own right. Parents often had to wade through a Web site filled with acronyms like EOC, EOG, ABC and AYP.</p>
+        <p>Last year, at the urging of an economist named Justine Hastings and two other Yale researchers, the Charlotte schools conducted a little experiment to see if this complexity mattered. Along with their school choice applications, a few thousand parents were also mailed a sheet of paper listing a single test score -- the average of the math and reading scores -- for each school they could apply to.</p>
+        <p>And guess what? These parents were much more likely  than others to apply to schools with high scores. They were starting to create the feedback loop that is the whole point of school choice.</p>
+        <p>Unfortunately, Charlotte hasn't drawn the obvious lesson from the experiment and continues to make good information hard to find. This same sort of complexity has plagued Medicare Part D, the new prescription drug benefit. Almost one-quarter of low-income people eligible for a subsidy aren't getting it  because they have not signed up for the program at all. ''It's sufficiently complicated that people sort of throw up their hands and say, 'I can't deal with it,' '' said Joseph Newhouse, a Harvard economist.</p>
+        <p>Likewise, there are almost seven million children without health insurance who are eligible for the State Children's Health Insurance Program but are not in it. A few  proposals  to make it easier for children to be signed up are now working their way through Congress. In every one of these cases -- school choice, Medicare, health insurance -- the government can help people make good choices by tearing down bureaucratic hurdles.</p>
+        <p>The second big nudging strategy puts up hurdles -- in front of bad choices that are otherwise easy to make. This is what Dr. Gropper did in his intensive care unit. Other hospitals have undertaken similar efforts in the last decade, and as a result, the national pneumonia rate has fallen.</p>
+        <p>But it is still too high. Throughout the health care system, in fact, the nudging possibilities remain enormous. Almost 150 years after Dr. Ignaz Semmelweis demonstrated the danger of dirty hands, patients still die every year because doctors and nurses do not wash their hands often enough.</p>
+        <p>Millions of Americans, meanwhile, aren't taking diabetes and heart disease medications that could help them. Sometimes, the solution is as simple as a reminder, like a hand washing sign placed at eye level or a pillbox with an alarm clock embedded in it.</p>
+        <p>As Atul Gawande, a surgeon and writer, argues in ''Better,'' his new book, ''The scientific effort to improve performance in medicine -- an effort that at present gets only a pitifully minuscule portion of scientific budgets -- can arguably save more lives in the next decade than bench science, more lives than research on the genome, stem cell therapy, cancer vaccines and all the other laboratory work we hear about in the news.''</p>
+        <p>There are a lot of problems that nudging won't solve. It won't keep Medicare from going bankrupt. It won't lift stagnant middle-class incomes or reverse global warming. But there are also a lot of problems in which neither politics nor knowledge is the real obstacle, and a whole lot of progress is just waiting to be made.</p>
+        <p>ECONOMIX E-mail: Leonhardt@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Leonhardt@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Way to Store Solar Power</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="397158"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOLAR ENERGY</classifier>
+        <location class="indexing_service">ISRAEL</location>
+        <org class="indexing_service">WEIZMANN INSTITUTE</org>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D81230F932A05753C1A966958260" item-length="1317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Way to Store Solar Power</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As technology for gathering the sun's rays improves, engineers are focusing on storage, so the energy can be used at night or on cloudy days. A storage medium would also help in transporting the energy from the desert, where it is most efficiently gathered, to cities, where it is most needed.</p>
+        <p>Some Israeli scientists think that the solution is a pair of chemical reactions using methane and water. The first uses the sun's heat to create a gas from methane and water, a process that absorbs energy. The other consumes the gas and gives the energy back.</p>
+      </block>
+      <block class="full_text">
+        <p>As technology for gathering the sun's rays improves, engineers are focusing on storage, so the energy can be used at night or on cloudy days. A storage medium would also help in transporting the energy from the desert, where it is most efficiently gathered, to cities, where it is most needed.</p>
+        <p>Some Israeli scientists think that the solution is a pair of chemical reactions using methane and water. The first uses the sun's heat to create a gas from methane and water, a process that absorbs energy. The other consumes the gas and gives the energy back.</p>
+        <p>With oil prices at about $35 a barrel, the process is almost economically competitive in some circumstances, the scientists say. Although their approach is outside the mainstream of solar research, which involves direct production of electricity from photovoltaic cells, the Israelis may be closer to commercial success.</p>
+        <p>Their technology is not competitive with cheap fossil fuels and thus would seem to have limited usefulness, at least in the short term, for the United States, with its vast reserves of coal and natural gas. But nearly all third world countries are looking for new ways to make electricity, and scientists in the industrial world hope they will choose solar power. If they choose coal, levels of carbon dioxide in the atmosphere will quickly increase, probably leading to worldwide climate change.  Storage Is the Key</p>
+        <p>But solar energy will never contribute a large fraction of energy requirements until it can be stored.</p>
+        <p>Solar energy can be stored through any of several chemical reactions that are reversible, consuming energy in one direction and giving it off in the other. Most attention has been focused on electrolysis, the process of splitting a water molecule into hydrogen and oxygen, a step that absorbs electric energy; the two can be recombined later, giving off electricity, or the hydrogen can simply be burned, using the oxygen or plain air, producing heat.</p>
+        <p>Electrolysis is a natural complement to the most prominent solar cell technology, photovoltaic cells. They turn sunlight directly into low-voltage direct current, an energy form well suited to electrolysis. The hydrogen could be shipped by pipeline and used to run cars, home furnaces orpower plants.  Making Steam</p>
+        <p>But the Weizmann Institute in Rehovot, Israel, has concentrated on a simpler form of solar energy: gathering the sun's rays as heat for making steam rather than electricity. Steam can spin a turbine and make power; in fact, that is the way most electricity is made, with the steam coming from burning coal or oil. Some commercial plants in California use Israeli-fabricated solar components to boil water into steam, and then use the steam to make electricity. But steam cannot be stored or shipped long distances.</p>
+        <p>It can, however, drive a chemical reaction, and researchers at the Weizmann Institute think they have found a chemical that can absorb the steam's energy and give it back later.</p>
+        <p>It is an unusual choice: methane, better known as natural gas. Methane is usually thought of as a fuel, but a new Israeli system employs it instead as an energy carrier that is never consumed. In short, what had been the candy bar is now the wrapper.</p>
+        <p>The first step is to use steam to add energy to the methane. The Israelis get the steam from a "power tower," a black-painted container atop a tower in which water is boiled into steam by sunlight focused by 64 computer-driven mirrors.</p>
+        <p>As the steam heats the methane to more than 900 degrees centigrade, the methane and water vapor combine to produce carbon monoxide and hydrogen. The new molecules contain about 30 percent more energy than the methane had.</p>
+        <p>But the Israeli system never consumes the methane. The Israelis take the product, which engineers call synthesis gas, and push it through a pipeline to another chemical reactor where the process is reversed.</p>
+        <p>When the process runs the other way, it produces steam at 700 degrees, and methane gas. The number of calories of heat given off in the second reaction is about the same as the number absorbed in the first reaction. The methane is sent by pipeline back to the solar site for the process to be repeated.</p>
+        <p>In the Israeli project, the two processes are adjacent, but with a pipeline the solar power could be used hundreds of miles away, said Dr. Israel Dostrovsky, a former president of Weizmann who is a researcher there.</p>
+        <p>An Old Practice</p>
+        <p>Making synthesis gas is not an original practice; almost any hydrocarbon fuel, from coal to natural gas, can be broken down by intense steam into carbon monoxide and free hydrogen.</p>
+        <p>Refineries have been making synthesis gas for years. It is an early step in the manufacture of methanol, which can be a vehicle fuel.</p>
+        <p>Texaco Inc. has been making synthesis gas at a plant in Coolwater, Calif. Its raw material is not natural gas, however, but coal. It then filters the pollutants out of the gas and uses the cleaned-up remainder as fuel for a gas turbine -- essentially a land-bound jet engine -- to make electricity.</p>
+        <p>Texaco gets its heat by burning the coal. But the Israelis have virtually no coal or natural gas; what they have is sunlight.</p>
+        <p>The Israelis say they have made substantial progress in one tricky area: making the chemical reactor run smoothly even though the sun's heat may vary.  Hard to Compete</p>
+        <p>The United States pursued similar research until budget cuts a few years ago, said Dr. Craig E. Tyner, supervisor of the Solar Thermal Collector Technology Division at Sandia National Laboratories in New Mexico. "The real stumbling block is just the economics," he said, citing the cost of the solar collector, the reactor, the pipeline and the reactor at the other end. "With oil at $20 a barrel, it certainly wasn't economical for us," he said. "But at $40 a barrel, it becomes not too far away."</p>
+        <p>Even with high oil prices, Dr. Tyner said, synthesis gas would find it hard to compete because North America has natural gas to burn for power generation. But for the Israelis, and for many third world countries in sunny areas, the system is attractive because they have very little natural gas.</p>
+        <p>It is attractive for another reason: There are no carbon dioxide emissions, so use of the system would not add to the greenhouse effect. And the gas could be stored, quite literally, for a rainy day.</p>
+        <p>There are skeptics. At the Florida Solar Energy Center in Cape Canaveral, Dr. Ali T-Raissi, a solar researcher, said that evaluating the process required a careful measure of the losses at each step, from gathering the sun's heat, to making the synthetic gas, to pushing it through a pipeline, to running the reverse reactor, to pushing the methane back to the solar site. "It will be hard to beat a photovoltaic system, which directly converts solar energy to electricity," he said. Electrolysis, Dr. T-Raissi pointed out, is 100 years old and well understood.</p>
+        <p>But Scott Sklar, director of the Solar Energy Industries Association, a trade group in Washington, said the technology might prove a winner. "It ain't cheap," he said. "But in countries like Israel that don't have access to energy when they want it, it might pay for itself." Saving Solar Energy for a Rainy Day 1. Sunlight, focused by mirrors onto a "power tower," heats water and methane gas, breaking them down to carbon monoxide and hydrogen. The reaction absorbs heat. The new gas mixture is called synthesis gas. 2. Synthesis gas can be stored for long periods until it is needed. A pipeline carries the low-temperature gas to cities hundreds of miles away. 3. The gas is placed in a methanator, which separates it into methane and steam. The reaction gives off heat. The methane is sent back to the solar site; the steam is used in industry, or to power a turbine to create electricity. (source: The Weizmann Institute)  BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

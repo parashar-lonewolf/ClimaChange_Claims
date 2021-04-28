@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warning</title>
+    <meta content="LTR231552" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1609655"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Church, Charles R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E5DD1F31F934A3575AC0A9629C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warning</hl1>
+      </hedline>
+      <abstract>
+        <p>Charles R Church letter on Aug 31 article about new report on global warming suggests that climate debate should be about ways to control human effects on warming and not whether or not it is occurring (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Computers Add Sophistication, but Don't Resolve Climate Debate'' (Aug. 31): This article creates the false impression that there is meaningful doubt over whether humans have played a significant role in creating global warming. Rather, the uncertainty that does exist relates to how terrible the damage will be and how fast it will happen.</p>
+        <p>The overwhelming majority of independent, responsible scientists tell us that we have greatly enhanced global warming's danger. So does common sense. In the 400,000 years preceding the Industrial Revolution, the highest level of CO2 was 280 parts per million. Now it is about 370 p.p.m. and is spiking far higher.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Computers Add Sophistication, but Don't Resolve Climate Debate'' (Aug. 31): This article creates the false impression that there is meaningful doubt over whether humans have played a significant role in creating global warming. Rather, the uncertainty that does exist relates to how terrible the damage will be and how fast it will happen.</p>
+        <p>The overwhelming majority of independent, responsible scientists tell us that we have greatly enhanced global warming's danger. So does common sense. In the 400,000 years preceding the Industrial Revolution, the highest level of CO2 was 280 parts per million. Now it is about 370 p.p.m. and is spiking far higher.</p>
+        <p>Scientists do debate whether we can prevent CO2 from exceeding 450 or even 550 p.p.m. But if we do not, surely we risk incurring devastating damage to life as we know it.</p>
+        <p>Charles R. Church  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

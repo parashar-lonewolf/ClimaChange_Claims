@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR013826" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1626453"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Methyl Bromide</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Pesticides</classifier>
+        <classifier class="indexing_service" type="descriptor">Recalls and Bans of Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recalls and Bans of Products</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E1DF1F3CF932A25752C1A9629C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Oct 8 article about use of methyl bromide and pesticide's possible effects on ozone layer; article contained misspelled name (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Oct. 8 about methyl bromide, a pesticide that has raised concern among environmentalists, misspelled the surname of the president of the California Strawberry Commission, who said technological improvements suggest that some limited use of the chemical could be possible while still protecting the ozone layer. He is Rodger Wasson, not Wesson. (The error was pointed out in a telephone message shortly after the article appeared. This correction was delayed by a reporting oversight.)</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Oct. 8 about methyl bromide, a pesticide that has raised concern among environmentalists, misspelled the surname of the president of the California Strawberry Commission, who said technological improvements suggest that some limited use of the chemical could be possible while still protecting the ozone layer. He is Rodger Wasson, not Wesson. (The error was pointed out in a telephone message shortly after the article appeared. This correction was delayed by a reporting oversight.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

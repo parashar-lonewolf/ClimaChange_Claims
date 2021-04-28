@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy Debate: Malthus vs. Big Oil</title>
+    <meta content="LTR225945" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1300817"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <person class="indexing_service">Cell, Donald</person>
+        <person class="indexing_service">Nering, Evar D (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EFD9123EF932A25755C0A9679C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy Debate: Malthus vs. Big Oil</hl1>
+      </hedline>
+      <abstract>
+        <p>Donald Cell letter disagrees with Evar D Nering June 4 Op Ed article that contended that extracting more oil will leave an impoverished world; says energy from fossil fuel is finite, but renewable forms of energy from sun are not (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The Mirage of a Growing Fuel Supply,'' by Evar D. Nering (Op-Ed, June 4), shows mathematically that a compounded growth rate in our use of finite fossil fuels cannot be sustained. However, I disagree that extracting more oil will ''leave our descendants in an impoverished world.'' Energy from fossil fuel is finite, but renewable forms of energy from the sun are not.  Well before we exhaust fossil fuels, their rising prices will gradually lead us to renewable energy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The Mirage of a Growing Fuel Supply,'' by Evar D. Nering (Op-Ed, June 4), shows mathematically that a compounded growth rate in our use of finite fossil fuels cannot be sustained. However, I disagree that extracting more oil will ''leave our descendants in an impoverished world.'' Energy from fossil fuel is finite, but renewable forms of energy from the sun are not.  Well before we exhaust fossil fuels, their rising prices will gradually lead us to renewable energy.</p>
+        <p>Policy can encourage this, but we must allow time for the necessary cost-reducing technologies to blossom in order to avoid a wrenching blow to the quality-of-life aspirations of the world's growing populations.</p>
+        <p>DONALD CELL  Mount Vernon, Iowa, June 6, 2001</p>
+        <p>The writer is professor emeritus of environmental economics, Cornell College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

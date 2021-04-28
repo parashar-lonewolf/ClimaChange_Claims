@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Familiar Energy Plan</title>
+    <meta content="L24ENE$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/05/24/opinion/L24ENER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1295924"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Land Use Policies</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <org class="indexing_service">Wilderness Society</org>
+        <person class="indexing_service">Meadows, William H</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska/Arctic National Wildlife Refuge</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Mines and Mining</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mines and Mining</classifier>
+        <classifier class="online_producer" type="general_descriptor">Land Use Policies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Arctic National Wildlife Refuge</location>
+        <location class="online_producer">Washington</location>
+        <org class="online_producer">Denver Post</org>
+        <org class="online_producer">Wilderness Society</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E5DE103DF937A15756C0A9679C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Familiar Energy Plan</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from William H Meadows, Wilderness Society president, says Pres Bush's energy plan would exploit public land that should be preserved for future generations (May 18 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Misguided Energy Proposal'' (editorial, May 18):</p>
+        <p>James Watt, the former interior secretary, may have said it best. He told The Denver Post that the Bush administration energy policy is ''exactly what we were saying 20 years ago.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Misguided Energy Proposal'' (editorial, May 18):</p>
+        <p>James Watt, the former interior secretary, may have said it best. He told The Denver Post that the Bush administration energy policy is ''exactly what we were saying 20 years ago.''</p>
+        <p>The ''new'' plan, like Mr. Watt's, would let the oil and mining industries have their way with the national forests, wildlife refuges and other public lands. But studies show that these special places harbor a tiny fraction of the nation's energy resources. And such exploitation would damage natural treasures that we should be passing down to future generations.</p>
+        <p>The president's plan also features the perverse logic that we should turn the Arctic National Wildlife Refuge into a sprawling oil field and then invest the proceeds in land conservation and renewable energy research. That makes about as much sense as burning your furniture to heat your home.</p>
+        <p>WILLIAM H. MEADOWS  President, Wilderness Society  Washington, May 18, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

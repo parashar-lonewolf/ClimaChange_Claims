@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="219129"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6DD1E3CF932A05752C0A96F948260" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Combating Global Warming  Secretary of State James A. Baker 3d urged an international effort to counter the threat of global warming caused by pollution. Page C7.  Prison for Ex-Olympian  Bruce Kimball, an Olympic silver medalist in diving in 1984, was sentenced to 17 years for drunken driving that killed two teen-agers and injured three others.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Combating Global Warming  Secretary of State James A. Baker 3d urged an international effort to counter the threat of global warming caused by pollution. Page C7.  Prison for Ex-Olympian  Bruce Kimball, an Olympic silver medalist in diving in 1984, was sentenced to 17 years for drunken driving that killed two teen-agers and injured three others.</p>
+        <p>Combating Global Warming  Secretary of State James A. Baker 3d urged an international effort to counter the threat of global warming caused by pollution. Page C7.  Prison for Ex-Olympian  Bruce Kimball, an Olympic silver medalist in diving in 1984, was sentenced to 17 years for drunken driving that killed two teen-agers and injured three others. Page B7.  House Survey on Raise  Speaker Jim Wright is surveying House members to determine whether to vote on the 50 percent Congressional pay increase. Page A19.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

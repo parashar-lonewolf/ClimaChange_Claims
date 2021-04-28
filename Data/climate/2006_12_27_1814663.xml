@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meat and the Planet</title>
+    <meta content="27wed4" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/27/opinion/27wed4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1814663"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Livestock</classifier>
+        <classifier class="indexing_service" type="descriptor">Manure</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Livestock</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Livestock</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <org class="online_producer">Food and Agriculture Organization</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061227T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEED91E31F934A15751C1A9609C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meat and the Planet</hl1>
+        <hl2 class="online_headline">Meat and the Planet</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial asserts that livestock production must be more sustainable to slow global warming effect caused by gases released by manure</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When you think about the growth of human population over the last century or so, it is all too easy to imagine it merely as an increase in the number of humans. But as we multiply, so do all the things associated with us, including our livestock. At present, there are about 1.5 billion cattle and domestic buffalo and about 1.7 billion sheep and goats. With pigs and poultry, they form a critical part of our enormous biological footprint upon this planet.</p>
+        <p>Just how enormous was not really apparent until the publication of a new report, called ''Livestock's Long Shadow,'' by the Food and Agriculture Organization of the United Nations.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Our health and the health of the planet depend on pushing livestock production in more sustainable directions.</p>
+      </block>
+      <block class="full_text">
+        <p>When you think about the growth of human population over the last century or so, it is all too easy to imagine it merely as an increase in the number of humans. But as we multiply, so do all the things associated with us, including our livestock. At present, there are about 1.5 billion cattle and domestic buffalo and about 1.7 billion sheep and goats. With pigs and poultry, they form a critical part of our enormous biological footprint upon this planet.</p>
+        <p>Just how enormous was not really apparent until the publication of a new report, called ''Livestock's Long Shadow,'' by the Food and Agriculture Organization of the United Nations.</p>
+        <p>Consider these numbers. Global livestock grazing and feed production use ''30 percent of the land surface of the planet.'' Livestock -- which consume more food than they yield -- also compete directly with humans for water. And the drive to expand grazing land destroys more biologically sensitive terrain, rain forests especially, than anything else.</p>
+        <p>But what is even more striking, and alarming, is that livestock are responsible for about 18 percent of the global warming effect, more than transportation's contribution. The culprits are methane -- the natural result of bovine digestion -- and the nitrogen emitted by manure. Deforestation of grazing land adds to the effect.</p>
+        <p>There are no easy trade-offs when it comes to global warming -- such as cutting back on cattle to make room for cars. The human passion for meat is certainly not about to end anytime soon. As ''Livestock's Long Shadow'' makes clear, our health and the health of the planet depend on pushing livestock production in more sustainable directions.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

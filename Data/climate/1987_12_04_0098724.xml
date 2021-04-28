@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SNAPSHOTS TAKEN AS CHEMICALS BOND</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="98724"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CHEMICALS</classifier>
+        <classifier class="indexing_service" type="descriptor">LASERS</classifier>
+        <org class="indexing_service">CALIFORNIA INSTITUTE OF TECHNOLOGY</org>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Laser (Light Amplification by Stimulated Emission of Radiation)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD91639F937A35751C1A961948260" item-length="700" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SNAPSHOTS TAKEN AS CHEMICALS BOND</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM W. BROWNE</byline>
+      <byline class="normalized_byline">BROWNE, MALCOLM W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Using pulses of light lasting only one-millionth of one-billionth of a second, scientists at the California Institute of Technology have invented an instrument to detect the subtle sequences of events that occur in some ultra-fast chemical reactions.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Using pulses of light lasting only one-millionth of one-billionth of a second, scientists at the California Institute of Technology have invented an instrument to detect the subtle sequences of events that occur in some ultra-fast chemical reactions.</p>
+        <p>Using pulses of light lasting only one-millionth of one-billionth of a second, scientists at the California Institute of Technology have invented an instrument to detect the subtle sequences of events that occur in some ultra-fast chemical reactions.</p>
+        <p>Dr. Ahmed H. Zewail, leader of the research group, said that the technique would significantly enhance understanding of the complexity of chemical reactions. In the past, many fast reactions could be studied only in their initial and final stages.</p>
+        <p>''This gives us a tool with which scientists can record the actual dynamics of chemical bonding,'' Dr. Zewail said in an interview. ''It will be the basis for a lifetime of new research and discovery.''</p>
+        <p>Chemical bonding occurs when forces of attraction bind atoms together into molecules. Although chemists have long had a good working knowledge of the nature of chemical bonds, recent discoveries have shown that the bonding process is a more complex phenomenon than was believed. Laser Beam Is Split</p>
+        <p>The new method is based on a refinement of the technique called microinterferometry, in which a laser light beam is first split into two parts using a semitransparent mirror and is then recombined.</p>
+        <p>Dr. Zewail's device directs one part of the beam through a mixture of chemicals, triggering an ultra-fast cascade of reactions. The other part of the beam, which is used to detect what happens in the reaction, is tuned to a specific wavelength and is transmitted through the reacting mixture an instant later.</p>
+        <p>Chemicals in the mixture absorb different wavelengths of light in characteristic ways, so that an optical analysis of the light emerging from the reaction chamber reveals the fingerprints of the substances it contains. As the original substances in the mixture are consumed and new ones are created, the pattern of absorption of laser light passing through the reaction changes.</p>
+        <p>The function of Caltech's apparatus is to freeze the observation of a reaction at an instant so soon after the triggering beam has passed through the reaction chamber that the chemical result is still incomplete. By making a series of such snapshots at different wavelengths and different time intervals, chemists can obtain a continuous record of the steps in the reaction process. 'We Use an Old Trick'</p>
+        <p>''But since no electronic component can operate at a speed anywhere near what we have to achieve,'' Dr. Zewail said, ''we use an old trick based on microinterferometry.''</p>
+        <p>This entails very careful adjustment of the separate paths that the triggering and measuring parts of the laser beam must follow. The measuring beam is forced to cover a slightly longer distance than the triggering beam, and thus arrives at the reaction chamber at a slightly later time.</p>
+        <p>To put this achievement in perspective, the Caltech group points out that in one second, light travels 180,000 miles, or three-quarters of the distance from the Earth to the Moon. But in one femtosecond - a millionth of a billionth of a second - light travels only about 1 percent of the thickness of a human hair. This is the tiny disparity that scientists must build into the twin laser paths in order to distinguish ultra-fast chemical events. 'Femtosecond Snapshots'</p>
+        <p>Dr. Zewail explained: ''Our femtosecond snapshots can examine a molecule at discrete instants in time. Up to now, the fastest laser analysis has been on the time-scale of the picosecond - a thousandth of a billionth of a second. This is too long a time interval to freeze the actions of interest to our group. Analysis of a reaction over a picosecond produces only an average result rather than the specific ones we want to see.''</p>
+        <p>In one of the two chemical reactions the Caltech group studied initially, chemists were able to determine the steps by which a molecule of cyanogen iodide was broken apart to yield iodine and cyanide. Another experiment studied the reaction of electrically charged elemental hydrogen with carbon dioxide, a reaction important in the chemical dynamics of Earth's upper atmosphere.</p>
+        <p>''We are at just at the beginning of a long process of investigation likely to affect many branches of chemistry,'' Dr. Zewail said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

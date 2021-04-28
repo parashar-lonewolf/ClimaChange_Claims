@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE WEIGHT OF THE EVIDENCE</title>
+    <meta content="12qna" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853905"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q + A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E1DC173FF931A25755C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE WEIGHT OF THE EVIDENCE</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. How do they weigh greenhouse gas emissions?</p>
+        <p>A. While it is possible to weigh a quantity of gas, by comparing the weight of an evacuated container to one filled at a known pressure, climate scientists do not rely on direct measurements. Instead, they use estimates based on the molecular weight of carbon dioxide; the weights of other greenhouse gases are converted to their greenhouse impact as compared with that of a ton of carbon dioxide.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. How do they weigh greenhouse gas emissions?</p>
+        <p>A. While it is possible to weigh a quantity of gas, by comparing the weight of an evacuated container to one filled at a known pressure, climate scientists do not rely on direct measurements. Instead, they use estimates based on the molecular weight of carbon dioxide; the weights of other greenhouse gases are converted to their greenhouse impact as compared with that of a ton of carbon dioxide.</p>
+        <p>Carbon dioxide, the benchmark greenhouse gas implicated in global warming, has a molecule containing one carbon atom and two oxygen atoms. The CO2 output from burning a quantity of coal or oil is known. Depending on the fuel, the carbon dioxide can weigh almost three times as much as the fuel, because of the addition of oxygen from the air.</p>
+        <p>The Carbon Dioxide Information Analysis Center of the Department of Energy does the official estimates of carbon dioxide emissions for vehicles in the United States.</p>
+        <p>The center points out that the calculations involve numerous assumptions and vary by source. The center's own estimates use a model called Greet (Greenhouse Gases, Regulated Emissions and Energy Use in Transportation), developed for the Department of Energy by the Argonne National Laboratory.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q + A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

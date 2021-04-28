@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.N. Chief Gives Key Post To American</title>
+    <meta content="10nations" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/10/world/10nations.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1825062"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Hoge, Warren</person>
+        <person class="indexing_service">Ban Ki-Moon (Sec Gen)</person>
+        <person class="indexing_service">Pascoe, B Lynn (Amb)</person>
+        <person class="indexing_service">Akasaka, Kiyotaka</person>
+        <person class="indexing_service">Guehenno, Jean-Marie</person>
+        <person class="indexing_service">Holmes, John (Sir)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <org class="online_producer">United Nations</org>
+        <person class="online_producer">Ban Ki-moon</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EEDB1E3FF933A25751C0A9619C8B63" item-length="411" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.N. Chief Gives Key Post To American</hl1>
+        <hl2 class="online_headline">U.N. Chief Gives Key Post to American</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN HOGE</byline>
+      <byline class="normalized_byline">Hoge, Warren</byline>
+      <dateline>UNITED NATIONS, Feb. 9</dateline>
+      <abstract>
+        <p>UN Sec Gen Ban Ki-moon names B Lynn Pascoe, US ambassador to Indonesia, as under secretary general for political affairs; also names Kiyotaka Akasaka of Japan, Jean-Marie Guehenno of France and Sir John Holmes of Britain as under secretary generals (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stirred by criticism of the slow pace of senior appointments, Ban Ki-moon, the new United Nations secretary general, on Friday named four new cabinet members, including an American diplomat, while keeping a dozen other senior officials in place.</p>
+        <p>B. Lynn Pascoe, the United States ambassador to Indonesia, becomes under secretary general for political affairs, a delicate position in United Nations efforts to mediate disputes in international trouble spots. Mr. Pascoe, a Chinese speaker, has extensive experience in Asia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Stirred by criticism of the slow pace of senior appointments, the new United Nations secretary general named four new cabinet members on Friday.</p>
+      </block>
+      <block class="full_text">
+        <p>Stirred by criticism of the slow pace of senior appointments, Ban Ki-moon, the new United Nations secretary general, on Friday named four new cabinet members, including an American diplomat, while keeping a dozen other senior officials in place.</p>
+        <p>B. Lynn Pascoe, the United States ambassador to Indonesia, becomes under secretary general for political affairs, a delicate position in United Nations efforts to mediate disputes in international trouble spots. Mr. Pascoe, a Chinese speaker, has extensive experience in Asia.</p>
+        <p>Shortly after taking office on Jan. 1, Mr. Ban, the former foreign minister of South Korea, asked 55 assistant and under secretaries general to tender their resignations to allow him flexibility in forming his team.</p>
+        <p>He said Friday that he had accepted 17 of resignations, one of which was from Shashi Tharoor of India, the under secretary general for communications and public information, who finished second in the contest last summer to be secretary general. He will be replaced by Kiyotaka Akasaka of Japan, a former ambassador to the United Nations and a top negotiator at the Kyoto Conference on Climate Change.</p>
+        <p>Among those Mr. Ban retained from the administration of Kofi Annan, the former secretary general, was Jean-Marie Guéhenno of France, the under secretary general for peacekeeping operations.</p>
+        <p>Mr. Pascoe succeeds Ibrahim A. Gambari of Nigeria, who took the post in July 2005, ending decades in which a Briton held the job. Britain had put forward Sir John Holmes, its ambassador to France, for the political affairs position, but he instead was chosen last month to be under secretary general for humanitarian affairs, succeeding Jan Egeland of Norway, who resigned in December.</p>
+        <p>The announcements were made by Mr. Ban's new chief of staff, Vijay Nambiar of India, as complaints circulated widely among United Nations ambassadors who said Mr. Ban's decision-making was secretive, impulsive and badly planned. The complaints follow questions about Mr. Ban's decision last month to fill specialized posts with people who had no apparent experience in running large operations.</p>
+        <p>In answer to questions on Friday, Mr. Nambiar said Mr. Ban was aware of unhappiness over the time it was taking to make appointments.</p>
+        <p>''There has been a slippage in terms of the time that is required, but that has been for a variety of reasons, and he is conscious that he needs to make these appointments as quickly as possible,'' Mr. Nambiar said. ''More than anybody else, I suppose, he is interested in having his team together.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

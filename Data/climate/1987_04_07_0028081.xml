@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SMILES AND DOUBTS FOR REAGAN OVER STATEMENT ON ACID RAIN</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="28081"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">CANADA</location>
+        <person class="indexing_service">BURNS, JOHN F</person>
+        <person class="indexing_service">MULRONEY, BRIAN (PRIME MIN)</person>
+        <person class="indexing_service">REAGAN, RONALD WILSON (PRES)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDC113AF934A35757C0A961948260" item-length="526" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SMILES AND DOUBTS FOR REAGAN OVER STATEMENT ON ACID RAIN</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN F. BURNS, Special to the New York Times</byline>
+      <byline class="normalized_byline">BURNS, JOHN F</byline>
+      <dateline>OTTAWA, April 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Prime Minister Brian Mulroney responded with obvious pleasure today to President Reagan's statement that he would consider an acid rain agreement between Canada and the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Prime Minister Brian Mulroney responded with obvious pleasure today to President Reagan's statement that he would consider an acid rain agreement between Canada and the United States.</p>
+        <p>Prime Minister Brian Mulroney responded with obvious pleasure today to President Reagan's statement that he would consider an acid rain agreement between Canada and the United States.</p>
+        <p>But other Canadians expressed doubts that any agreement would produce the cuts in chemically charged precipitation that experts here have long sought. The President did not offer any terms for a possible agreement.</p>
+        <p>Mr. Mulroney greeted Mr. Reagan's announcement in the House of Commons with a broad smile, then stood and applauded with other Canadian legislators as Mr. Reagan concluded his speech. It was a moment of relief for the Canadian leader, whose critics have accused him of being insufficiently assertive with the United States on the issue.</p>
+        <p>The American position could be of particular political value to Mr. Mulroney because of the way in which it was made.</p>
+        <p>The relevant passage in Mr. Reagan's speech was added to his text at the last minute, and the White House spokesman, Marlin Fitzwater, said Mr. Reagan had decided to add it after listening to the arguments Mr. Mulroney made during a private discussion between the two men on Sunday. A Timetable Is Lacking</p>
+        <p>However, the Reagan announcement was harshly criticized by spokesmen for the Canadian Coalition on Acid Rain, a private organization that has lobbied hard for requiring reductions in chemical emissions in Canada and the United States.</p>
+        <p>The coalition's leader, Michael Perley, said that Mr. Reagan had said nothing about a timetable for reducing acid rain emissions in the United States of the kind that the Canadian Government and several of the provinces here drew up in 1985.</p>
+        <p>''There's been an attempt on the political level to placate the Canadian Government, but in terms of the substance of the issues we're looking at a fig leaf,'' Mr. Perley said.</p>
+        <p>Studies by Environment Canada, the Government agency that monitors pollution, have estimated that 50 percent of all damage done to Canadian lakes and forests, and 70 percent in the areas affected worst, results from chemical emissions from American industrial plants. Once released into the atmosphere, the emissions are carried long distances by the wind and return to earth as acidic rain, snow, fog or dust. Harm to Fishing and Tourism</p>
+        <p>The damage is done by two substances: sulfur dioxide from coal-fired power stations and ore smelters, and nitrogen oxide mainly from vehicle exhausts and other forms of fuel combustion. Canadian concerns most recently have focused on sulfur dioxide, four million tons of which is said to waft across the border each year from the United States.</p>
+        <p>Sulfur dioxide pollution has been blamed for the biological death of thousands of lakes in the provinces of Ontario and Quebec, causing serious harm to the fishing and tourism industries and major losses in the Quebec maple sugar industry, which maintains that 82 percent of its trees have a disease caused by the pollution.</p>
+        <p>Canadian experts acknowledge that about 1.8 million tons of sulfur dioxide from Canadian sources, mainly in Ontario and Quebec, falls each year on the Northeastern United States, primarily in New England.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

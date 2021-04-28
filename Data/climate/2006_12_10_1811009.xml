@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Terrible Thing to Waste. Or Try This.</title>
+    <meta content="10peters" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/10/weekinreview/10peters.html" name="alternate_url"/>
+    <meta content="THE ENERGY CHALLENGE" name="series_name"/>
+    <docdata>
+      <doc-id id-string="1811009"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="THE NATION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surveys and Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">kirshenbaum bond &amp; partners</org>
+        <org class="online_producer">New York Times</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E6DE1431F933A25751C1A9609C8B63" item-length="397" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Terrible Thing to Waste. Or Try This.</hl1>
+        <hl2 class="online_headline">A Terrible Thing to Waste. Or Try This.</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS</byline>
+      <byline class="normalized_byline">Peters, Jeremy W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ENERGY conservation has been linked with more than its fair share of ambitious causes: preserving American liberty and saving humanity, for starters.</p>
+        <p>If ever an issue was ripe for one of those ubiquitous, can't-get-it-out-of-your-head public service slogans, one would think that this is it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The nation’s energy excesses may be politically dangerous, but you don’t see the federal government rushing to tell the people, so The New York Times enlisted some help to get the news out.</p>
+      </block>
+      <block class="full_text">
+        <p>ENERGY conservation has been linked with more than its fair share of ambitious causes: preserving American liberty and saving humanity, for starters.</p>
+        <p>If ever an issue was ripe for one of those ubiquitous, can't-get-it-out-of-your-head public service slogans, one would think that this is it.</p>
+        <p>But advertisers and the federal government aren't rushing to produce a public service campaign along the lines of ''Only you can prevent forest fires'' and ''This is your brain on drugs,'' which have become part of the national consciousness. The New York Times enlisted three advertising agencies known for their creative flair to take a shot.</p>
+        <p>The assignment was to imagine that the Ad Council, the nonprofit organization behind some of the most memorable public service announcements, has asked them to create the definitive campaign to promote energy conservation.</p>
+        <p>Creating any P.S.A. is a chore, ad executives said, because the goal is getting people to alter everyday behavior.</p>
+        <p>''To compel people to change their behavior, we need to help them decide what's at stake is worth changing their lifestyle for,'' said Gail Barlow, creative director with Kirshenbaum Bond &amp; Partners, an advertising agency in New York. ''You need to identify something that people hold dearly.''</p>
+        <p>Is that their pocketbooks? Drinking water? Security?</p>
+        <p>The White House has said that the nation's ''addiction'' to oil threatens its ability to compete in the global economy. ''We are too dependent on oil,'' President Bush said recently.</p>
+        <p>Experience shows that even if faced with the loss of something they say they hold dear, it is hard to sway many Americans because they don't see the need to change.</p>
+        <p>Vice President Dick Cheney, the former chief executive of an oil-services company, famously dismissed conservation as a ''personal virtue'' in 2001. Senator James M. Inhofe, Republican of Oklahoma and chairman of the Senate Environment and Public Works Committee until control shifts to the Democrats, has called global warming ''the greatest hoax ever perpetrated on the American people.'' In a committee hearing last week, he said that global warming was exaggerated by ''advocates for alarmism.''</p>
+        <p>Here are the efforts of three advertisers, two of whom said unabashedly that they have no problem with alarmism.</p>
+        <p>THE ENERGY CHALLENGE  Articles in this series are examining the ways in which the world is, and is not, moving toward a more energy-efficient, environmentally benign future. Previous articles are at nytimes.com/energychallenge.</p>
+        <p>THE NATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

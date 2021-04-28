@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Problems in Modeling Nature, With Its Unruly Natural Tendencies</title>
+    <meta content="20book" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/20/science/20book.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1827488"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BOOKS ON SCIENCE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Books on Science and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Geology</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Mathematics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mathematics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <object.title class="online_producer">Useless Arithmetic: Why Environmental Scientists Cant Predict the Future (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFD6153EF933A15751C0A9619C8B63" item-length="949" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Problems in Modeling Nature, With Its Unruly Natural Tendencies</hl1>
+        <hl2 class="online_headline">The Problems in Modeling Nature, With Its Unruly Natural Tendencies</hl2>
+      </hedline>
+      <byline class="print_byline">By CORNELIA DEAN</byline>
+      <byline class="normalized_byline">Dean, Cornelia</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When coastal engineers decide whether to dredge sand and pump it onto an eroded beach, they use mathematical models to predict how much sand they will need, when and where they must apply it, the rate it will move and how long the project will survive in the face of coastal storms and erosion.</p>
+        <p>Orrin H. Pilkey, a coastal geologist and emeritus professor at Duke, recommends another approach: just dredge up a lot of sand and dump it on the beach willy-nilly. This ''kamikaze engineering'' might not last very long, he says, but projects built according to models do not usually last very long either, and at least his approach would not lull anyone into false mathematical certitude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new book argues that nature is too complex and depends on too many processes that are poorly understood or little monitored to be modeled using computer programs.</p>
+      </block>
+      <block class="full_text">
+        <p>When coastal engineers decide whether to dredge sand and pump it onto an eroded beach, they use mathematical models to predict how much sand they will need, when and where they must apply it, the rate it will move and how long the project will survive in the face of coastal storms and erosion.</p>
+        <p>Orrin H. Pilkey, a coastal geologist and emeritus professor at Duke, recommends another approach: just dredge up a lot of sand and dump it on the beach willy-nilly. This ''kamikaze engineering'' might not last very long, he says, but projects built according to models do not usually last very long either, and at least his approach would not lull anyone into false mathematical certitude.</p>
+        <p>Now Dr. Pilkey and his daughter Linda Pilkey-Jarvis, a geologist in the Washington State Department of Geology, have expanded this view into an overall attack on the use of computer programs to model nature. Nature is too complex, they say, and depends on too many processes that are poorly understood or little monitored -- whether the process is the feedback effects of cloud cover on global warming or the movement of grains of sand on a beach.</p>
+        <p>Their book, ''Useless Arithmetic: Why Environmental Scientists Can't Predict the Future,'' originated in a seminar Dr. Pilkey organized at Duke to look into the performance of mathematical models used in coastal geology. Among other things, participants concluded that beach modelers applied too many fixed values to phenomena that actually change quite a lot. For example, ''assumed average wave height,'' a variable crucial for many models, assumes that all waves hit the beach in the same way, that they are all the same height and that their patterns will not change over time. But, the authors say, that's not the way things work.</p>
+        <p>Also, modelers' formulas may include coefficients (the authors call them ''fudge factors'') to ensure that they come out right. And the modelers may not check to see whether projects performed as predicted.</p>
+        <p>Eventually, the seminar participants widened the project, concluding that erroneous assumptions, fudge factors and the reluctance to check predictions against unruly natural outcomes produce models with, as the authors put it, ''no demonstrable basis in nature.'' Among other problems, they cite much-modeled but nevertheless collapsed North Atlantic fishing stocks, poisonous pools unexpectedly produced by open pit mining, and invasive plants and animals that routinely outflank their modelers.</p>
+        <p>Two issues, the authors say, illustrate other problems with modeling. One is climate change, in which, they say, experts' justifiable caution about model uncertainties can encourage them to ignore accumulating evidence from the real world. The other is the movement of nuclear waste through an underground storage site at Yucca Mountain in Nevada, not because it has failed -- it has yet to be built -- but because they say it is unreasonable to expect accurate predictions of what will happen far into the future -- in this extreme case, tens or even hundreds of thousands of years from now.</p>
+        <p>Along the way, Dr. Pilkey and Ms. Pilkey-Jarvis describe and explain a host of modeling terms, including quantitative and qualitative models (models that seek to answer precise questions with more or less precise numbers, as against models that seek to discern environmental trends).</p>
+        <p>They also discuss concepts like model sensitivity -- the analysis of parameters included in a model to see which ones, if changed, are most likely to change model results.</p>
+        <p>But, the authors say it is important to remember that model sensitivity assesses the parameter's importance in the model, not necessarily in nature. If a model itself is ''a poor representation of reality,'' they write, ''determining the sensitivity of an individual parameter in the model is a meaningless pursuit.''</p>
+        <p>Given the problems with models, should we abandon them altogether? Perhaps, the authors say. Their favored alternative seems to be adaptive management, in which policymakers may start with a model of how a given ecosystem works, but make constant observations in the field, altering their policies as conditions change. But that approach has drawbacks, among them requirements for assiduous monitoring, flexible planning and a willingness to change courses in midstream. For practical and political reasons, all are hard to achieve.</p>
+        <p>Besides, they acknowledge, people seem to have such a powerful desire to defend policies with formulas (or ''fig leaves,'' as the authors call them), that managers keep applying them, long after their utility has been called into question.</p>
+        <p>So the authors offer some suggestions for using models better. We could, for example, pay more attention to nature, monitoring our streams, beaches, forests or fields to accumulate information on how living things and their environments interact. That kind of data is crucial for models. Modeling should be transparent. That is, any interested person should be able to see and understand how the model works -- what factors it weighs heaviest, what coefficients it includes, what phenomena it leaves out, and so on. Also, modelers should say explicitly what assumptions they make.</p>
+        <p>And instead of demanding to know exactly how high seas will rise or how many fish will be left in them or what the average global temperature will be in 20 years, they argue, we should seek to discern simply whether seas are rising, fish stocks are falling and average temperatures are increasing. And we should couple these models with observations from the field. Models should be regarded as producing ''ballpark figures,'' they write, not accurate impact forecasts.</p>
+        <p>''If we wish to stay within the bounds of reality we must look to a more qualitative future,'' the authors write, ''a future where there will be no certain answers to many of the important questions we have about the future of human interactions with the earth.''</p>
+        <p>BOOKS ON SCIENCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Energy Plan</title>
+    <meta content="24NJSOAP2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1514426"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Blackouts (Electrical)</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Mcgreevey, James E (Gov)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blackouts and Brownouts (Electrical)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFDB1539F937A1575BC0A9659C8B63" item-length="674" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Energy Plan</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES E. MCGREEVEY</byline>
+      <byline class="normalized_byline">Mcgreevey, James E (Gov)</byline>
+      <abstract>
+        <p>New Jersey Gov James McGreevey essay holds recent blackout was wake-up call on need to modernize electric grid and clear message that energy policy debate in Washington has been dominated by special interests and short-term thinking; says New Jersey is working hard to improve infrastructure but that action is needed at federal level (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN the power went out on millions of people from Detroit to New York, it was indeed a wake-up call that we need to modernize our electric grid. But it was also a clear message that the energy policy debate in Washington has been dominated by special interests and short-term thinking. This debate cannot simply focus on drilling for more oil or searching for more natural gas. Rather, we need a long-term plan that invests in our infrastructure, protects our environment and enhances our security.</p>
+        <p>After failures plunged us into darkness in 1965 and again in 1977, we were told that necessary investments had been made to protect us from further blackouts. These promises clearly fell short.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN the power went out on millions of people from Detroit to New York, it was indeed a wake-up call that we need to modernize our electric grid. But it was also a clear message that the energy policy debate in Washington has been dominated by special interests and short-term thinking. This debate cannot simply focus on drilling for more oil or searching for more natural gas. Rather, we need a long-term plan that invests in our infrastructure, protects our environment and enhances our security.</p>
+        <p>After failures plunged us into darkness in 1965 and again in 1977, we were told that necessary investments had been made to protect us from further blackouts. These promises clearly fell short.</p>
+        <p>Today, our electric grid relies largely on 1950's technology. America has an Internet economy running on an Edsel engine. Our grid is simply not designed for a world dominated by digital technology, air-conditioning and mass transit.</p>
+        <p>A great deal of discussion over the last week about the need to modernize the grid has been short on details. Fortunately, solutions do exist. Researchers have already begun developing a 21st-century electric infrastructure called a smart grid.</p>
+        <p>Using digital sensors, computer modeling and real-time data, a smart grid would revolutionize our antiquated system. Today's energy infrastructure is built around large, centralized, and often polluting, power plants. These plants churn out massive amounts of energy that is sent through the grid to your home, guided by grid operators who work with inadequate data to ensure the efficiency and reliability that residents and businesses deserve.</p>
+        <p>The current grid works like an old telephone switchboard, but a smart grid would function more like the Internet. It would move us away from the centralized power-plant model and allow the widespread use of smaller, cleaner and more decentralized sources of power like fuel cells or solar panels. A smart grid would also be self-healing - using digital data and computer systems to seamlessly and automatically route power around problem areas.</p>
+        <p>By making our energy use more efficient, the smart grid would also make electricity more affordable and would reduce the number of costly and polluting power plants that we need to construct. Finally, the ability to easily plug decentralized renewable energy into the grid would be a major step toward weaning our nation off of fossil fuels.</p>
+        <p>Most of this technology exists or is in development. In fact, experts predict that - with adequate financing - we could see widespread adaptation of smart-grid technologies in just a few years. The entire grid could be transformed in a decade.</p>
+        <p>Here in New Jersey, we are investing heavily in our transmission infrastructure and spending more than $125 million a year on renewable energy and energy efficiency. We are also in discussions with leading national researchers to become the site of smart-grid pilot projects. But as the events of last week painfully demonstrated, energy transcends state boundaries, and to have a reliable energy infrastructure we need action at the federal level.</p>
+        <p>First, the federal government should work with states to develop uniform reliability standards for electric grid performance. Such standards will spur investment in modern grid technology. Second, we need increased federal financing for research and development of smart-grid technologies. Investments in such research have declined over the last decade, even though the strain on our grid is greater than ever. Third, states and local utilities need financial assistance to help pay for these upgrades.</p>
+        <p>We need both regulatory protections and financial assistance to guarantee that necessary long-term investments are being made. Even more important, we need leadership to tackle this challenge. Congress should quickly pass a bill focused on upgrading our electric grid, so that this pressing issue does not get bogged down in the political gamesmanship that has stalled the larger energy bill.</p>
+        <p>James E. McGreevey is the 51st governor of New Jersey.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">James E. McGreevey is the 51st governor of New Jersey.</tagline>
+    </body.end>
+  </body>
+</nitf>

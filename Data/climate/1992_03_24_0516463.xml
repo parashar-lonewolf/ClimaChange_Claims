@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NASA Ozone Study</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="516463"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIATION</classifier>
+        <org class="indexing_service">NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920324T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEED61731F937A15750C0A964958260" item-length="385" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NASA Ozone Study</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A landmark study of ozone depletion over the Northern Hemisphere that found alarmingly high levels of ozone-destroying chemicals is coming to a close.</p>
+        <p>In the study, the National Aeronautics and Space Administration made 27 high-altitude flights to measure losses in the Earth's protective ozone layer. It completed the last flight of the series on Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>A landmark study of ozone depletion over the Northern Hemisphere that found alarmingly high levels of ozone-destroying chemicals is coming to a close.</p>
+        <p>In the study, the National Aeronautics and Space Administration made 27 high-altitude flights to measure losses in the Earth's protective ozone layer. It completed the last flight of the series on Sunday.</p>
+        <p>NASA officials said they were pleased with the progress of the project, but declined to say if they detected an ozone hole similar to one discovered in 1985 over the South Pole. Results of the study are to be outlined next month in Washington.</p>
+        <p>"It really has been a huge success, in terms of the number of flights, the instruments working, the measurements we've obtained," Michael J. Kurylo, NASA's project manager, said of the study.</p>
+        <p>NASA last month reported finding alarming levels of ozone-destroying chemicals over Canada, the United States and Europe. It said aircraft and satellite studies found that chlorine monoxide, a chemical produced by breakdown of chlorofluorocarbons, reached unusually high levels over parts of the Northern Hemisphere in January.</p>
+        <p>That report prompted President Bush to move up a deadline for halting United States production of chlorofluorocarbons, or CFC's, which are used as coolants in refrigerators and air-conditioners.</p>
+        <p>The ozone layer shields the Earth from the Sun's most severe ultraviolet radiation. In humans, excess exposure to ultraviolet rays can cause skin cancer, cataracts and damage to the immune system.</p>
+        <p>NASA used a civilian version of the U-2 spy plane known as the ER-2 to make the flights in the six-month study. On some flights, the plane penetrated the polar vortex, a cold air mass in which ice particles can serve as platforms for the chemical reactions involved in ozone destruction. Other flights took the plane southward to subtropical latitudes.</p>
+        <p>The ER-2 flew to 68,000 feet, where it collected data that have vastly enlarged scientists' understanding about ozone thinning in the Northern Hemisphere, said James G. Anderson of Harvard, a participant in the project.</p>
+        <p>NASA scientists will continue to analyze the data and will try to develop new instruments that can be used on future flights. Researchers plan to make flights in early 1994 in the Southern Hemisphere.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

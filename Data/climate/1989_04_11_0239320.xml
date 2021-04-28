@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Process to Reduce Cholesterol in Milk</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="239320"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DAIRY PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHOLESTEROL</classifier>
+        <classifier class="indexing_service" type="descriptor">OILS AND FATS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">MILK</classifier>
+        <org class="indexing_service">CORNELL UNIVERSITY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cholesterol</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cholesterol</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oils and Fats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3D71030F932A25757C0A96F948260" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Process to Reduce Cholesterol in Milk</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: SCIENTISTS at Cornell University say they have developed a commercially feasible process to remove up to 90 percent of the cholesterol and reduce the amount of saturated fats in milk, without significantly changing its taste.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: SCIENTISTS at Cornell University say they have developed a commercially feasible process to remove up to 90 percent of the cholesterol and reduce the amount of saturated fats in milk, without significantly changing its taste.</p>
+        <p>SCIENTISTS at Cornell University say they have developed a commercially feasible process to remove up to 90 percent of the cholesterol and reduce the amount of saturated fats in milk, without significantly changing its taste.</p>
+        <p>The technique, similar to the process used to decaffeinate coffee, might also be used to produce a variety of other low-cholesterol dairy products like butter, cheese and ice cream, said Syed S. H. Rizvi, a professor of food engineering at Cornell's College of Agriculture and Life Sciences in Ithaca, N.Y.</p>
+        <p>Dr. Rizvi and his associates used a process in which carbon dioxide is injected into butterfat under high pressure, picking up cholesterol-laden fat. The butterfat, which gives milk its flavor, is manipulated to remove most of the cholesterol and then returned to the milk.</p>
+        <p>Dr. Rizvi said the resulting milk contains 2 percent butterfat, of which less than 40 milligrams per gallon is cholesterol. Whole milk contains 3.3 percent butterfat, of which about 532 milligrams per gallon is cholesterol.</p>
+        <p>''It tastes just like regular 2 percent milk and is considerably healthier,'' Dr. Rizvi said.</p>
+        <p>The dairy industry helped finance Dr. Rizvi's research and is looking seriously at the process, he said. Cholesterol has been implicated in many studies as causing plaque to build up in arteries, leading to heart disease.</p>
+        <p>''We are investigating the commercial applicability of this process and if he has perfected it, we will be very interested in using it,'' said James H. Bender, vice president of research at Crowley Foods, a dairy distributer to most of the eastern United States. ''We see a great consumer interest in low-cholesterol dairy products.''  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

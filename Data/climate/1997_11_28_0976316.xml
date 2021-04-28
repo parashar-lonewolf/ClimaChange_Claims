@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="28INSI$03" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="976316"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DD133AF93BA15752C1A961958260" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Action Sought on Climate  As nations prepare to discuss a treaty on global warming, The New York Times Poll has found that the American people are more willing than their Government to take steps to counter the threat. Page A36.</p>
+      </block>
+      <block class="full_text">
+        <p>Action Sought on Climate  As nations prepare to discuss a treaty on global warming, The New York Times Poll has found that the American people are more willing than their Government to take steps to counter the threat. Page A36.</p>
+        <p>Airlines Tighten Bag Rules  With airplanes nearly full and business fares at record levels, airlines are limiting the amount of carry-on baggage. But they are facing complaints from passengers. Page D1.</p>
+        <p>Dinner in a Diner  Single women, divorced fathers and young couples who refuse to cook find their Thanksgiving meal at a coffee shop that is also a microcosm of life in New York City. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

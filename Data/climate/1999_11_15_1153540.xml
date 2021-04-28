@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Green, as in G.O.P.</title>
+    <meta content="15STAF$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1153540"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Smith, Robert C (Sen)</person>
+        <person class="indexing_service">Stafford, Robert T (Sen)</person>
+        <person class="indexing_service">Chafee, John (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E3D6173DF936A25752C1A96F958260" item-length="458" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Green, as in G.O.P.</hl1>
+      </hedline>
+      <byline class="print_byline">By Robert T. Stafford</byline>
+      <byline class="normalized_byline">Stafford, Robert T (Sen)</byline>
+      <dateline>RUTLAND, Vt.</dateline>
+      <abstract>
+        <p>Op-Ed article by Republican Repr Robert T Stafford expresses misgivings about appointment of Sen Robert C Smith to head Senate Environment and Public Works Committee, replacing late Sen John Chafee; notes while Chafee stood up to well-financed efforts to eviscerate environmental laws, Smith has often deviated from bipartisan path in favor of big business interests; says it is not only bad policy but bad politics for Republicans to stake out anti-environmental positions; urges Smith to respect bipartisan tradition (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Now that Robert C. Smith of New Hampshire, once again a Republican, has been selected to succeed John Chafee as chairman of the Senate Environment and Public Works Committee, the void left by Senator Chafee's death may quickly become obvious.</p>
+        <p>As head of the committee from 1995 until his death last month, Mr. Chafee stood up to well-financed efforts, promoted by polluting industries, to eviscerate our Clean Air Act, Clean Water Act and Superfund law. He continued a committee tradition, dating back to the 1960's, of working to craft responsible and bipartisan environmental policy.</p>
+      </block>
+      <block class="full_text">
+        <p>Now that Robert C. Smith of New Hampshire, once again a Republican, has been selected to succeed John Chafee as chairman of the Senate Environment and Public Works Committee, the void left by Senator Chafee's death may quickly become obvious.</p>
+        <p>As head of the committee from 1995 until his death last month, Mr. Chafee stood up to well-financed efforts, promoted by polluting industries, to eviscerate our Clean Air Act, Clean Water Act and Superfund law. He continued a committee tradition, dating back to the 1960's, of working to craft responsible and bipartisan environmental policy.</p>
+        <p>Senator Smith, when he took a stab this summer at running for president as an independent, faulted the Republicans as too conciliatory. On the environment committee, he has often deviated from the bipartisan path in favor of legislative efforts promoted by business interests. For example, he led regressive efforts to shift the cost of the Superfund program's clean-up of toxic dumps to the taxpayers. In the waning days of Congress in 1980, I worked with my colleagues, across party lines and in the face of enormous pressure by business lobbies, to enact the Superfund law, establishing that polluters should pay for such clean-ups.</p>
+        <p>Senator Smith has also voted against strict drinking water protections and in favor of legislation, attached as riders to unrelated proposals, that would have crippled enforcement of the Clean Air and Clean Water Acts.</p>
+        <p>I believe it is not only bad policy but bad politics for Republicans to stake out anti-environmental positions. In a recent survey by the independent pollster John Zogby, nearly half of Republican primary voters said they considered themselves environmentalists, and fully 93 percent of those said protecting the environment was important in deciding their votes. In Senator Smith's own state, the survey found strong support for improving the quality of air and water and cleaning up toxic wastes.</p>
+        <p>Three decades of progress have not solved all environmental problems. Many of our rivers and streams are threatened by pollution from sources, like giant hog farms, that once did not exist. Increased driving and the popularity of sport utility vehicles threaten to erode our gains in controlling motor vehicle emissions. Many toxic waste dumps still fester. And we have not begun in any meaningful way to address climate change.</p>
+        <p>The Senate environment committee historically set aside partisan concerns and protected the environment. Democrats like Edmund Muskie, Jennings Randolph and George Mitchell worked hand in hand with Republicans like John Sherman Cooper, Howard Baker and myself. The consensus included even very conservative senators like James Buckley of New York.  Senator Smith would do well to respect this bipartisan tradition.</p>
+        <p>Robert T. Stafford, Republican of Vermont, was a member of the Senate Committee on Environment and Public Works for 17 years and its chairman from 1981 to 1986.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Robert T. Stafford, Republican of Vermont, was a member of the Senate Committee on Environment and Public Works for 17 years and its chairman from 1981 to 1986.</tagline>
+    </body.end>
+  </body>
+</nitf>

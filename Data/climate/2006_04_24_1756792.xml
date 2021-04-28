@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Science and Exxon Mobil</title>
+    <meta content="l24krugman" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1756792"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Exxon Mobil</org>
+        <person class="indexing_service">Sheskin, Theodore J (Prof)</person>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E7DE123FF937A15757C0A9609C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Science and Exxon Mobil</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Theodore J Sheskin letter, prompted by Paul Krugman April 17 Op-Ed on Exxon Mobil's fighting scientific evidence of global warming, says Exxon has also sponsored helpful climate change research</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Paul Krugman called Exxon Mobil an ''enemy of the planet'' (column, April 17) because it has opposed action to limit global warming by ''trashing good science.'' But it should be noted that Exxon Mobil has made a 10-year investment of $100 million in a project led by Stanford University to develop practical technologies to address the potential long-term risk of climate change.</p>
+        <p>Theodore J. Sheskin  Lakewood, Ohio, April 19, 2006</p>
+        <p>The writer is a professor of industrial engineering at Cleveland State University.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Paul Krugman called Exxon Mobil an ''enemy of the planet'' (column, April 17) because it has opposed action to limit global warming by ''trashing good science.'' But it should be noted that Exxon Mobil has made a 10-year investment of $100 million in a project led by Stanford University to develop practical technologies to address the potential long-term risk of climate change.</p>
+        <p>Theodore J. Sheskin  Lakewood, Ohio, April 19, 2006</p>
+        <p>The writer is a professor of industrial engineering at Cleveland State University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

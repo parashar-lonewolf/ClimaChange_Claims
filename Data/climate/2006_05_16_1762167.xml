@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="16obse" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/16/science/16observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1762167"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Goby (Fish)</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Dolphins and Porpoises</classifier>
+        <classifier class="indexing_service" type="descriptor">Sound</classifier>
+        <classifier class="indexing_service" type="descriptor">Paleontology</classifier>
+        <classifier class="indexing_service" type="descriptor">Mammals</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Hubble Space Telescope</classifier>
+        <classifier class="indexing_service" type="descriptor">Comets</classifier>
+        <classifier class="indexing_service" type="descriptor">Telescopes and Observatories</classifier>
+        <org class="indexing_service">Biology Letters (Journal)</org>
+        <org class="indexing_service">University of St Andrews (Scotland)</org>
+        <org class="indexing_service">Proceedings of the National Academy of Sciences</org>
+        <org class="indexing_service">University of Alaska</org>
+        <org class="indexing_service">Nature (Journal)</org>
+        <org class="indexing_service">European Southern Observatory</org>
+        <org class="indexing_service">Cook, James, University</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">Munday, Philip L</person>
+        <person class="indexing_service">Janik, Vincent M</person>
+        <person class="indexing_service">Guthrie, R Dale (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Comets</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="descriptor">Hubble Space Telescope</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Comets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hubble Space Telescope</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mammals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sound</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E7D9153EF935A25756C0A9609C8B63" item-length="1054" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Hello, My Name Is . . .</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Philip L Munday and colleagues at James Cook University (Australia) conduct study on green clown gobies that suggests rate of growth in fish is variable depending on initial size of fish; find that after period of several months smaller fish grow to same size as larger ones; research is published in journal Biology Letters; R Dale Guthrie of University of Alaska has determined through extensive fossil timeline that climate change is most likely cause of disappearance of America's largest mammals 13,000 years ago; research is published in journal Nature; Hubble Space Telescope and European Southern Observatory capture images of 73P/Schwassmann-Wachmann 3 comet breaking up near earth; only few dozen breakups of comets have ever been documented; Dr Vincent M Janik of University of St Andrews (Scotland) leads study on bottlenose dolphin communication; research, which is published in Proceedings of the National Academy of Sciences, shows that dolphins have signature whistles that identify them like names; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rich Get Richer, or Do They?</p>
+        <p>Among fish, generally speaking, the rich get richer. That is, the larger, more dominant fish in a group tend to grow faster than subordinates -- because they can get more food or because they can cause the smaller fish more stress and make them work harder.</p>
+        <p>But there may be strategic reasons to alter this growth pattern. Philip L. Munday and colleagues at James Cook University in Australia have discovered one among gobies, small coral-dwelling fish.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Bottlenose dolphins with "names," observing comet breakups and more.</p>
+      </block>
+      <block class="full_text">
+        <p>Rich Get Richer, or Do They?</p>
+        <p>Among fish, generally speaking, the rich get richer. That is, the larger, more dominant fish in a group tend to grow faster than subordinates -- because they can get more food or because they can cause the smaller fish more stress and make them work harder.</p>
+        <p>But there may be strategic reasons to alter this growth pattern. Philip L. Munday and colleagues at James Cook University in Australia have discovered one among gobies, small coral-dwelling fish.</p>
+        <p>Among gobies, the number of eggs that hatch depend on the size of both members of a breeding pair. Larger females produce more eggs, and larger males are better able to care for them. If one fish is large and the other is small, then presumably it would be in their interest for the smaller fish to get bigger.</p>
+        <p>The researchers tested this with green clown gobies on the Great Barrier Reef. Breeding pairs occupy coral colonies, usually one pair to a colony. So the researchers were able to put together pairs of fishes of different sizes, collect them two months later and check growth rates. The study was published online May 9 in Biology Letters.</p>
+        <p>They found that regardless of whether the male or female was larger, the larger fish had a much slower growth rate compared with pairs of equal size, and the smaller fish had a much faster rate.</p>
+        <p>A result was that the two fish were of relatively equal size. The researchers suggest the larger fish may simply eat less food, allowing more for the smaller one. Or the larger fish, not needing to grow more, may spend more time defending turf or doing other activities, giving the smaller one more time to eat.</p>
+        <p>Timeline Says Climate Is Culprit</p>
+        <p>This much is clear: most of North America's largest mammals, including the woolly mammoth, disappeared about 13,000 years ago, as the last ice age came to an end. Why that happened, however, is a subject of great debate.</p>
+        <p>Some scientists think climate change was responsible, causing a shift in vegetation that favored certain animals over others. Others blame people, who arrived on the continent around the same time.</p>
+        <p>Humans may have hunted the mammals to extinction, the so-called overkill hypothesis. They may have brought diseases that had the same cataclysmic effect. Or they may have only wiped out the mammoths, a ''keystone'' grazing species whose disappearance could have had a ripple effect by altering vegetation.</p>
+        <p>While it won't end the debate, R. Dale Guthrie of the University of Alaska has compiled an extensive fossil timeline for the period that argues in favor of climate change, at least in what is now Alaska and the Yukon. The findings are in the May 11 issue of the journal Nature.</p>
+        <p>The research involved radiocarbon dating of many fossils of two extinct mammals, the Eurasian wild horse and mammoth, as well as others that survived the period, like bison and wapiti. The findings show that surviving species actually increased in number in the early part of human influx, even though there is evidence that they were hunted.</p>
+        <p>That argues against overkill. And horses became extinct in the region well before mammoths -- a pattern that argues against the mammoth as a keystone species, and against the disease hypothesis (which would have caused simultaneous extinctions).</p>
+        <p>Instead, Dr. Guthrie suggests, climate-induced changes in vegetation from grassy steppes to a more tundralike terrain with woody plants was probably the major cause of the extinctions.</p>
+        <p>Anatomy of a Breakup</p>
+        <p>Comets break up occasionally as they get close to the Sun and gravitational forces pull them apart. But only a few dozen breakups have been observed. The latest is 73P/Schwassmann-Wachmann 3, which orbits the Sun (and comes near Earth) every five years.</p>
+        <p>The breakup picked up steam last month, and since the comet was as close as it's ever been to the Earth, telescopes were able to document the changes. Earlier images are at the Hubble Space Telescope site, hubblesite.org, and the European Southern Observatory (eso.org) should have more images this month.</p>
+        <p>Hello, My Name Is . . .</p>
+        <p>When you introduce yourself to someone, your name does a good job of identifying you. No matter how you say your name, the person you're addressing will know who you are. It's the language, not the tone or timbre of your voice, that provides the identifying information.</p>
+        <p>Bottlenose dolphins, researchers have discovered, have ''names'' as well. They aren't words, of course, but distinctive whistles that contain identifying information.</p>
+        <p>''We thought this was something fairly unique to human language,'' said Vincent M. Janik of the University of St. Andrews in Scotland, the lead author of a paper on the subject in The Proceedings of the National Academy of Sciences. ''Now we find it in dolphins, too.''</p>
+        <p>Bottlenose dolphins have a fission-fusion social structure, in which groups break apart for periods and then get back together. Scientists have known since the 1960's that the dolphins make up distinctive whistles, or calls. ''It's always been suggested that they are important for staying in touch with each other,'' Dr. Janik said.</p>
+        <p>The question for him and his colleagues was whether the whistles had unique identifying information or whether the dolphins were just responding to the tone of the sound or some other feature of it.</p>
+        <p>To test this, they synthesized whistles, using real dolphin calls as a model. Each real whistle has a distinct pattern of frequency modulation, or the variation in frequency over time. The artificial whistles maintained these patterns, but eliminated other characteristics like harmonics, dynamics and extraneous noises (including the clicking sounds that the dolphins also make).</p>
+        <p>Dr. Janik found that when the dolphins in a group were exposed to an artificial whistle modeled after that of a related group member, the dolphins turned toward the sound. To draw an analogy to humans, the frequency modulation pattern is the ''language,'' and the dolphins could identify it regardless of the whistle's ''voice.''</p>
+        <p>Most other animals appear to rely on the sound of the voice, rather than any coded information, for recognition. But parrots may have similar ''signature'' calls, Dr. Janik said. ''Which shows that you can do this if you have a huge brain, but you can also do this if you have a small one.''</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

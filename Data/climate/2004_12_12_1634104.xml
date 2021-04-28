@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Water That Isn't Wet</title>
+    <meta content="MB091549" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="103" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/12/12/magazine/12WATER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1634104"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THE 4TH ANNUAL: YEAR IN IDEAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="indexing_service" type="descriptor">Chemicals</classifier>
+        <classifier class="indexing_service" type="descriptor">Novec 1230 (Chemical)</classifier>
+        <org class="indexing_service">Tyco International Inc</org>
+        <person class="indexing_service">Lin, William S</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Water</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E4DD1031F931A25751C1A9629C8B63" item-length="434" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Water That Isn't Wet</hl1>
+        <hl2 class="online_headline">Water That Isn't Wet</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM S. LIN</byline>
+      <byline class="normalized_byline">Lin, William S</byline>
+      <abstract>
+        <p>William S Lin article, in review of year's notable ideas and developments, on liquid-based produced called Sapphire that can extinguish flames without causing damage to items in area where fire is burning; systems relies on Novec 1230, colorless chemical agent that resembles water; was developed by division of Tyco International (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last spring, a peculiar new fire-suppression system made its debut in the United States with a splash -- literally. A division of Tyco International introduced a liquid-based product called Sapphire that can extinguish flames without damaging electronic equipment, precious library collections, priceless works of art or any other ''critical business assets,'' in Tyco's lingo.</p>
+        <p>The system relies on Novec 1230, a colorless chemical agent that resembles water and feels cool to the touch. When released, the fluid transforms into a gas that snuffs out blazes. According to Tyco, it then evaporates at a rate 25 times quicker than normal water, leaving all other items in the room virtually bone dry.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Novec 1230 is a colorless chemical agent that resembles water and feels cool to the touch.</p>
+      </block>
+      <block class="full_text">
+        <p>Last spring, a peculiar new fire-suppression system made its debut in the United States with a splash -- literally. A division of Tyco International introduced a liquid-based product called Sapphire that can extinguish flames without damaging electronic equipment, precious library collections, priceless works of art or any other ''critical business assets,'' in Tyco's lingo.</p>
+        <p>The system relies on Novec 1230, a colorless chemical agent that resembles water and feels cool to the touch. When released, the fluid transforms into a gas that snuffs out blazes. According to Tyco, it then evaporates at a rate 25 times quicker than normal water, leaving all other items in the room virtually bone dry.</p>
+        <p>Back in 1999, Paul Rivers, a 3M researcher who holds a degree in fire-protection engineering, led a team that first identified the carbon-based molecule as having fire-safety applications. ''When I first saw it,'' he says, ''I was a bit skeptical because I thought it was going to be a 'me too' product''; that is, he presumed it wouldn't differ from fire-suppression chemicals already on the market. But after testing its effectiveness and environmental safety, Rivers and his team became elated. Among its other virtues, Novec 1230, which remains intact in the atmosphere for only five days, would not deplete the ozone layer.</p>
+        <p>In April, Tyco marketers kick-started a publicity campaign with a stop at ''Good Morning America'' and went on to demonstrate the product around the country by dunking laptops, cellphones, flat-screen TV's, books, photographs, paintings and clothing in the liquid. All of the electronic devices worked moments afterward or even while submerged. Floating cellphones could still be heard humming tunes. The other items dried within seconds without any of the usual traces of water damage: no marks, smears or smudges. Charging a standard fee of roughly $30 to $40 per square foot of protection, Tyco claims it has already raked in millions from companies in the telecommunications, banking and television-broadcast industries, among others.</p>
+        <p>There is one field, however, in which Novec 1230 won't be used: since it may cause vomiting if guzzled, it doesn't stand much of a chance of becoming the next Gatorade.</p>
+        <p>WILLIAM S. LIN</p>
+        <p>THE 4TH ANNUAL: YEAR IN IDEAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

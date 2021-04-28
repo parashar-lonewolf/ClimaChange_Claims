@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cities Begin Taking Action on Environment</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="383335"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">CONVENTIONS AND CONFERENCES</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <org class="indexing_service">WORLD CONGRESS OF LOCAL GOVERNMENTS FOR A SUSTAINABLE FUTURE</org>
+        <org class="indexing_service">INTERNATIONAL COUNCIL FOR LOCAL ENVIRONMENTAL INITIATIVES</org>
+        <person class="indexing_service">SHABECOFF, PHILIP</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conventions and Conferences</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D6153AF932A2575AC0A966958260" item-length="555" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cities Begin Taking Action on Environment</hl1>
+      </hedline>
+      <byline class="print_byline">By PHILIP SHABECOFF; Special to The New York Times</byline>
+      <byline class="normalized_byline">SHABECOFF, PHILIP</byline>
+      <dateline>UNITED NATIONS, Sept. 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Expressing impatience with the slowness of national governments, municipal leaders from around the world agreed today that local governments must take action on their own to address global warming and other broad environmental threats.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Expressing impatience with the slowness of national governments, municipal leaders from around the world agreed today that local governments must take action on their own to address global warming and other broad environmental threats.</p>
+        <p>With a loan from the Interamerican Development Bank, Mayor Camacho reported, Mexico will be able to reduce its foreign debt by $150 million and use the money to plant trees on some 150,000 acres of now barren Federal lands around the city.</p>
+        <p>In an interview, Mayor Camacho said that not only would the project protect water quality, guard against soil erosion and provide recreation areas around Mexico City, the use of carbon dioxide by the trees would also help reduce the threat of global warming.</p>
+        <p>Carbon dioxide and other industrial gasses accumulating in the atmosphere are absorbing radiation from the sun and will cause the Earth's surface to warm by three to eight degrees Fahrenheit by the middle of the next century, many scientists now agree.</p>
+        <p>Mayor Art Eggleton of Toronto described the measures his city was taking to reduce its carbon dioxide emissions by 20 percent by the year 2005. Its plan calls for expanding mass transportation, creating bicycle lanes for commuting, requiring more efficient lighting and new standards for energy conservation in houses, planting trees on a large scale and a variety of other measures. Toronto is believed to be the first large city in the world to initiate its own program for addressing the global warming threat.</p>
+        <p>Dr. James Hansen, the director of the National Aeronautics and Space Administration's Goddard Institute for Science, a pioneer in preparing projections of global warming and in calling the dangers to the attention of the public and policy makers, presented computer predictions of the effect of global warming on some cities around the world. In the past, such models had been available only for a sample of cities in the United States.</p>
+        <p>When carbon dioxide or its equivalent in other greenhouse gases reached a level double that of the pre-industrial era, Dr. Hansen projected greatly extended periods of very high temperatures. For example, Rio de Janeiro, which now averages five days a year of temperatures over 95 degrees Fahrenheit, would have 52 days a year of such high temperatures; Singapore would go from zero days over 95 to 124; Rome from six to 55, and Tokyo from five to 41.</p>
+        <p>Dr. Hansen emphasized that those projections were based on current trends but could be altered by lowering emissions of greenhouse gases.</p>
+        <p>The meeting was sponsored by the United Nations Environmental Program, the International Union of Local Authorities and the Center for Innovative Diplomacy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taking the Sea's Pulse</title>
+    <meta content="MB224305" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197623"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PRIVATE SECTOR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <org class="indexing_service">International Seakeepers Society</org>
+        <person class="indexing_service">Dunn, Julie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E3DF1538F934A35756C0A9669C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taking the Sea's Pulse</hl1>
+      </hedline>
+      <byline class="print_byline">By JULIE DUNN</byline>
+      <byline class="normalized_byline">Dunn, Julie</byline>
+      <abstract>
+        <p>Owners of several super yachts are paying $40,000 each to add equipment to their boats to monitor ocean water quality and weather; effort is spearheaded by nonprofit International SeaKeepers Society (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The super yachts, and their owners, are going green. Among those who have agreed to pay $40,000 each to add equipment to their boats to monitor ocean water quality and weather for researchers are Paul G. Allen, the co-founder of Microsoft and owner of the 201-foot Meduse; James H. Clark, the Netscape founder, whose 165-foot Hyperion is arguably the world's highest-technology sailboat; Craig O. McCaw, the cellular telephone pioneer whose 328-foot Tatoosh has just hit the water; Richard M. DeVos, the founder of Amway and owner of the 155-foot sailboat Independence; and John A. Williams, founder of Post Properties, one of the nation's largest apartment builders and owner of the 171-foot Georgia, the world's biggest single-mast private yacht.</p>
+        <p>The nonprofit International SeaKeepers Society, founded in July 1998 by Albert Gersten, a housing and shopping center developer based in Los Angeles, has installed 15 equipment modules on its members' boats.</p>
+      </block>
+      <block class="full_text">
+        <p>The super yachts, and their owners, are going green. Among those who have agreed to pay $40,000 each to add equipment to their boats to monitor ocean water quality and weather for researchers are Paul G. Allen, the co-founder of Microsoft and owner of the 201-foot Meduse; James H. Clark, the Netscape founder, whose 165-foot Hyperion is arguably the world's highest-technology sailboat; Craig O. McCaw, the cellular telephone pioneer whose 328-foot Tatoosh has just hit the water; Richard M. DeVos, the founder of Amway and owner of the 155-foot sailboat Independence; and John A. Williams, founder of Post Properties, one of the nation's largest apartment builders and owner of the 171-foot Georgia, the world's biggest single-mast private yacht.</p>
+        <p>The nonprofit International SeaKeepers Society, founded in July 1998 by Albert Gersten, a housing and shopping center developer based in Los Angeles, has installed 15 equipment modules on its members' boats.</p>
+        <p>The modules send data, in real time via satellite, on weather conditions and the ocean's surface temperature, clarity, currents, salinity and levels of oxygen, phytoplankton and pH levels. New sensors are being prepared to monitor carbon dioxide, heavy metals, ocean color and the presence of toxic algae blooms. The data is beamed to the Rosenstiel School of Marine and  Atmospheric Science at the University of Miami, which developed the technology. In turn, the university shares the data with the National Oceanic and Atmospheric Administration. ''We want to be involved in real research, gathering accurate information on what is really going on with the oceans free from any politics or bias,'' said Stanley Hubbard, a satellite television pioneer and owner of the 132-foot Kakapo.</p>
+        <p>The cost of these modules -- two metal boxes, actually -- might seem modest compared with the cost of the yachts, which Thomas K. Houston, the president of SeaKeepers and a former deputy mayor of Los Angeles, put at $8 million to $100 million. Sending out research vessels, however, costs $10,000 a day. The Royal Caribbean and Carnival cruise lines plan to test the modules this summer.</p>
+        <p>JULIE DUNN</p>
+        <p>PRIVATE SECTOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Big Dirty Apple</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="379432"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">MARANTO, GINA</person>
+        <person class="indexing_service">GOLDSTEIN, ERIC A</person>
+        <person class="indexing_service">IZEMAN, MARK A</person>
+        <object.title class="indexing_service">NEW YORK ENVIRONMENT BOOK, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D8103DF935A1575BC0A966958260" item-length="518" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Big Dirty Apple</hl1>
+      </hedline>
+      <byline class="print_byline">By GINA MARANTO; Gina Maranto, a former staff writer at Discover magazine, writes frequently on environmental topics.</byline>
+      <byline class="normalized_byline">MARANTO, GINA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>THE NEW YORK ENVIRONMENT BOOK</p>
+        <p>By Eric A. Goldstein and Mark A. Izeman.</p>
+        <p>Illustrated. 267 pp. Washington:</p>
+        <p>Island Press.</p>
+        <p>Cloth, $24.95. Paper, $14.95.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>THE NEW YORK ENVIRONMENT BOOK</p>
+        <p>By Eric A. Goldstein and Mark A. Izeman.</p>
+        <p>Illustrated. 267 pp. Washington:</p>
+        <p>Island Press.</p>
+        <p>Cloth, $24.95. Paper, $14.95.</p>
+        <p>THE NEW YORK ENVIRONMENT BOOK</p>
+        <p>By Eric A. Goldstein and Mark A. Izeman.</p>
+        <p>Illustrated. 267 pp. Washington:</p>
+        <p>Island Press.</p>
+        <p>Cloth, $24.95. Paper, $14.95.</p>
+        <p>Nineteen thousand tons of garbage, 7,000 pounds of heavy metals, tons of dioxins, hydrocarbons, carbon dioxide: these are just a fraction of the wastes excreted every day by the great glass-and-steel beast that is New York City. Its ecology, in the broadest sense, is laid out in ''The New York Environment Book'' in accessible, no-nonsense fashion by Eric A. Goldstein, an attorney for the Natural Resources Defense Council, and Mark A. Izeman, a consultant for the group.</p>
+        <p>Aiming both to define the terms of the city's debate on environmental issues and to prod New Yorkers to reduce waste and pollution, the authors survey five areas - solid waste disposal, hazardous substances, the pollution of waterways, the quality of air and the purity of drinking water.</p>
+        <p>Much of the information is familiar, but there are some odd historical tidbits too. For instance, the nation's first garbage incinerator was built in the early 1880's on Governors Island. Also, by the mid-1700's the wells in Manhattan were so befouled by cesspools and street runoff that the city had to search for alternative water supplies upstate.</p>
+        <p>Looking for bright spots in New York's ecology, the authors cite New York's vaunted network of reservoirs and aqueducts, which each day delivers 1.5 billion gallons of high-quality water to all five boroughs and is the envy of cities worldwide.</p>
+        <p>But this asset is overwhelmed by the minuses. The 3,000-acre Fresh Kills landfill in Staten Island, which handles 80 percent of the city's trash, operates without a state permit and has been leaking cyanide and other toxic substances into the Arthur Kill for years. Hundreds of unregulated incinerators in apartment houses and hospitals spew a haze of pollutants from their low-level stacks. During heavy rains, storm drains often overflow, and as a result millions of gallons of effluent bypass sewage treatment plants and pour directly into rivers and bays. Meanwhile, the Hudson River has been called ''perhaps the world's most severely PCB-contaminated aquatic ecosystem.''</p>
+        <p>The authors do not shy away from naming the names of big polluters or exposing the inefficiency of governmental agencies. They indict, for instance, the state for failing to shut down the Radiac Research Corporation, a depot in a residential neighborhood in Brooklyn where tons of hazardous chemicals are stockpiled, awaiting shipment to dumps out of state. But for all the focus on large-scale polluters, a subtext of this volume, as of so many environmental writings of late, is that private citizens bear some of the blame. An epilogue details actions we all can take - from quitting smoking to planting trees - and lists phone numbers and addresses for agencies and organizations that will help.</p>
+        <p>One must wonder, as the novelist Kurt Vonnegut does in the foreword to this book, why the ''physiology of the enormous creature millions of us inhabit'' has never been examined so thoroughly before.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

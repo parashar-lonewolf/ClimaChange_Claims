@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Following Fire, Ship Returns</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="466226"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D8163BF932A2575BC0A967958260" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Following Fire, Ship Returns</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Premier Cruise Lines' Starship Majestic was due to go back into service last week after being disabled from a fire at sea July 14. The ship was set to resume its three- and four-day cruises out of Port Canaveral, Fla., to the Abaco Islands in the northern Bahamas.</p>
+        <p>A small fire broke out on the ship around 2 A.M. as the ship was returning from a three-day cruise. None of the ship's 739 passengers and 381 crew members were injured. The fire was extinguished quickly, the cruise line said, but the passengers were evacuated from their cabins and sent to lifeboat stations because of carbon dioxide produced by the ship's fire control system.</p>
+      </block>
+      <block class="full_text">
+        <p>Premier Cruise Lines' Starship Majestic was due to go back into service last week after being disabled from a fire at sea July 14. The ship was set to resume its three- and four-day cruises out of Port Canaveral, Fla., to the Abaco Islands in the northern Bahamas.</p>
+        <p>A small fire broke out on the ship around 2 A.M. as the ship was returning from a three-day cruise. None of the ship's 739 passengers and 381 crew members were injured. The fire was extinguished quickly, the cruise line said, but the passengers were evacuated from their cabins and sent to lifeboat stations because of carbon dioxide produced by the ship's fire control system.</p>
+        <p>The fire erupted when the Starship Majestic was 100 miles from Port Canaveral and damaged one of the ship's auxiliary generators. The ship had to be towed the 100 miles to Port Canaveral, which it reached a day late. Damage was limited to the auxiliary engine room, the line said.</p>
+        <p>Premier gave full refunds to all passengers. To those scheduled to sail while the ship was disabled, the company offered refunds, alternative cruises or booking at a later date.</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

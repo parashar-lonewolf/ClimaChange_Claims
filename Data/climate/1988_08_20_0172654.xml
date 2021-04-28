@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patents; Tapping the Energy Of Geothermal Steam</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="172654"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GEOTHERMAL POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">INVENTIONS AND INVENTORS</classifier>
+        <org class="indexing_service">UNOCAL CORP</org>
+        <person class="indexing_service">ANDREWS, EDMUND</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geothermal Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE5DA173CF933A1575BC0A96E948260" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patents; Tapping the Energy Of Geothermal Steam</hl1>
+      </hedline>
+      <byline class="print_byline">By Edmund Andrews</byline>
+      <byline class="normalized_byline">ANDREWS, EDMUND</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Engineers at the Unocal Corporation have designed a system that makes it easier to tap the energy of geothermal steam.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Engineers at the Unocal Corporation have designed a system that makes it easier to tap the energy of geothermal steam.</p>
+        <p>Engineers at the Unocal Corporation have designed a system that makes it easier to tap the energy of geothermal steam.</p>
+        <p>Geothermal steam is created by water in underground reservoirs that are heated by the earth's magma.</p>
+        <p>When the water, heated to more than 500 degrees Fahrenheit, is brought to the earth's surface, it immediately ''flashes'' into high-pressure steam that can generate electricity. At the same time, however, solids in the water - lead, copper and silicon - mix with gases like hydrogen sulfide and carbon dioxide to form a thick sludge filled with hazardous heavy metals. Daniel Hoyer, the system's chief inventor, said that a 10-megawatt geothermal plant produces about six tons of sludge daily.</p>
+        <p>Mr. Hoyer has designed a wellhead device to prevent these metals from turning toxic by separating them from the gases. The solids are then precipitated out of the liquid and washed with condensed steam. The result is a stable, sand-like product that poses little environmental threat. The remaining liquid, purged of most metals, can be pumped back into the reservoir.</p>
+        <p>In the final step, Mr. Hoyer mixes the sludge with cement to form what he calls ''geocrete,'' a substitute for concrete.</p>
+        <p>Mr. Hoyer and several co-inventors received patents 4,763,479 and 4,761,182.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

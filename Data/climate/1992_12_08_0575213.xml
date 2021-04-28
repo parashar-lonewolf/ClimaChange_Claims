@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Museum Chief Quits</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="575213"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <org class="indexing_service">AMERICAN MUSEUM OF NATURAL HISTORY (NYC)</org>
+        <person class="indexing_service">LANGDON, GEORGE D JR (DR)</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DC1E3FF93BA35751C1A964958260" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Museum Chief Quits</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE American Museum of Natural History announced yesterday that Dr. George D. Langdon Jr., would step down as president next June and that a search had begun for his replacement.</p>
+        <p>William T. Golden, chairman of the museum's board of trustees, said that Dr. Langdon was approaching his 60th birthday and had asked to be replaced when his five-year term ends June 30. Dr. Langdon, Mr. Golden said, "has been our president throughout a demanding five-year transition which has positioned the museum for the future."</p>
+      </block>
+      <block class="full_text">
+        <p>THE American Museum of Natural History announced yesterday that Dr. George D. Langdon Jr., would step down as president next June and that a search had begun for his replacement.</p>
+        <p>William T. Golden, chairman of the museum's board of trustees, said that Dr. Langdon was approaching his 60th birthday and had asked to be replaced when his five-year term ends June 30. Dr. Langdon, Mr. Golden said, "has been our president throughout a demanding five-year transition which has positioned the museum for the future."</p>
+        <p>Among the projects begun during Dr. Langdon's presidency were the reorganization of the its paleontology exhibits, including the museum's famed fourth-floor dinosaur collection, the construction of a new hall of human biology and evolution and the creation of a traveling exhibition on global warming.</p>
+        <p>Mr. Golden said that the museum's search for a new director would focus on candidates' scientific achievements or interests, administrative skills and fund-raising abilities.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

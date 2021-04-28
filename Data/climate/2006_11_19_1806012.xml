@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FRYER-FIRED FUTURE</title>
+    <meta content="19suits-5" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1806012"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corn</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poultry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vegetables</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4D6143EF93AA25752C1A9609C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FRYER-FIRED FUTURE</hl1>
+      </hedline>
+      <byline class="print_byline">By MARK A. STEIN</byline>
+      <byline class="normalized_byline">Stein, Mark A</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tyson Foods, the world's largest chicken producer and meat processing company, blamed high corn prices last week for its third consecutive quarterly loss. It said that recent excitement over corn-based ethanol fuel sent the price of that grain soaring, raising feed costs and compounding the effect of a meat glut that depressed prices.</p>
+        <p>''This is either corn for feed or corn for fuel,'' Richard L. Bond, president and chief executive, lamented in a statement.</p>
+      </block>
+      <block class="full_text">
+        <p>Tyson Foods, the world's largest chicken producer and meat processing company, blamed high corn prices last week for its third consecutive quarterly loss. It said that recent excitement over corn-based ethanol fuel sent the price of that grain soaring, raising feed costs and compounding the effect of a meat glut that depressed prices.</p>
+        <p>''This is either corn for feed or corn for fuel,'' Richard L. Bond, president and chief executive, lamented in a statement.</p>
+        <p>Well, if fuels are where the money is, Tyson will be there, too. As Mr. Bond was releasing the disappointing results, Jeff Webster of the corporate strategy department was announcing a brand new venture: Tyson Renewable Energy.</p>
+        <p>Its first task? Turning some of what the company described as its ''vast supply of animal fat'' -- 2.3 billion pounds a year, Mr. Webster reckons -- into a diesel-like biofuel.</p>
+        <p>MARK A. STEIN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

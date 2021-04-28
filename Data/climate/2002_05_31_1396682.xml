@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Climate Sensors for Earth Malfunction on Aqua Satellite</title>
+    <meta content="Y31CLI$01" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/05/31/science/31CLIM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1396682"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Earth Observing System</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E3DC173AF932A05756C0A9649C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Climate Sensors for Earth Malfunction on Aqua Satellite</hl1>
+        <hl2 class="online_headline">New Climate Sensors for Earth Malfunction on Aqua Satellite</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <dateline>WASHINGTON, May 30</dateline>
+      <abstract>
+        <p>NASA says vital instrument named Aqua, centerpiece of new billion-dollar Earth Observing System, is malfunctioning; radiometer is part of satellite designed to resolve questions about changing climate (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A vital instrument on a new billion-dollar satellite designed to resolve questions about the changing climate is malfunctioning, NASA officials said today.</p>
+        <p>The satellite, called Aqua, is the centerpiece of NASA's Earth Observing System, a suite of satellites and projects intended to improve forecasting and gather data on the human role in global warming.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A vital instrument on a new billion-dollar satellite designed to resolve questions about the changing climate is malfunctioning.</p>
+      </block>
+      <block class="full_text">
+        <p>A vital instrument on a new billion-dollar satellite designed to resolve questions about the changing climate is malfunctioning, NASA officials said today.</p>
+        <p>The satellite, called Aqua, is the centerpiece of NASA's Earth Observing System, a suite of satellites and projects intended to improve forecasting and gather data on the human role in global warming.</p>
+        <p>The malfunctioning instrument, a radiometer with a five-foot dish, records with resolution far better than previous space-based instruments patterns that trace how water moves from the oceans and soil to the atmosphere and back again. That cycle is a major influence on global weather patterns, and because water vapor is the dominant natural heat-trapping gas, also plays a role in long-term climate change.</p>
+        <p>The satellite is also designed to take detailed measurements of snow cover, rainfall, soil moisture, sea temperatures and winds over the ocean.</p>
+        <p>The radiometer grew out of more than a decade of work by American, European and Japanese researchers and was built by Mitsubishi Electric. At the spring meeting of the American Geophysical Union here, satellite experts involved with the project dipped repeatedly out of presentations on climate science to check with colleagues on any news about the device.</p>
+        <p>Since the launching of Aqua on May 4, scientists had slowly been activating and testing the half-dozen instruments that it carries, NASA officials said. On May 25 and May 28, the stream of data from the scanning radiometer began to stutter.</p>
+        <p>''It was looking great and just as you got excited -- blip -- it goes off the air,'' said an American scientist involved with Aqua.</p>
+        <p>A spokesman for NASA, David E. Steitz, said it appeared that the problem was isolated to the device and not the satellite. Mr. Steitz said it would be premature to say the instrument had failed.</p>
+        <p>''When you launch a brand new big spacecraft with a bunch of instruments on it,'' he said, ''naturally it's a birthing process.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fields of Oil, From Iraq to Alaska</title>
+    <meta content="LTR005350" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1384219"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <location class="indexing_service">Alaska</location>
+        <location class="indexing_service">Arctic National Wildlife Refuge</location>
+        <person class="indexing_service">Whitenton, Mark</person>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska/Arctic National Wildlife Refuge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0D9133CF937A25757C0A9649C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fields of Oil, From Iraq to Alaska</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Mark Whitenton (National Assn of Manufacturers) says Paul Krugman's assessment of potential for world oil crisis is effective argument for opening Arctic National Wildlife Refuge to exploration (Apr 9 Op-Ed column)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>If a case for opening the Arctic National Wildlife Refuge to oil and gas exploration has ever been made more effectively than Paul Krugman's April 9 column, ''The Third Oil Crisis?,'' I haven't read it.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>If a case for opening the Arctic National Wildlife Refuge to oil and gas exploration has ever been made more effectively than Paul Krugman's April 9 column, ''The Third Oil Crisis?,'' I haven't read it.</p>
+        <p>Until renewable energy technologies are further refined and become economically viable, the inescapable truth is that our economy will continue to run primarily on fossil fuels. And until we expand our own domestic production of those fuels, our economy will be vulnerable to the whims of Iraq, Venezuela and others.</p>
+        <p>MARK WHITENTON  V.P., Resources &amp; Environment  Natl. Assn. of Manufacturers  Washington, April 9, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

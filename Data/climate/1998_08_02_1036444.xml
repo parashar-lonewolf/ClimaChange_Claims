@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Severe Weather Warning</title>
+    <meta content="108316SGM" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1036444"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980802T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E5DA143FF931A3575BC0A96E958260" item-length="806" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Severe Weather Warning</hl1>
+      </hedline>
+      <byline class="print_byline">By Mark Hertsgaard</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The year 1998 may be remembered as the time when weird weather became the norm. From the storms that pounded California over the winter to the drought that fed Florida's fires this summer, the one constant of the weather has been its bizarreness. In March, New York City experienced record-tying spring heat a few days after late-season snow. Santa Barbara, Calif., received 21 inches of rainfall in February, a once-a-millennium event. Texas endured weeks of 100-degree-plus July heat, resulting in scores of deaths.</p>
+        <p>Mischief from El Nino? In part. But extreme weather is also consistent with global-warming scenarios. The scientists of the Intergovernmental Panel on Climate Change, a United Nations group, expect a two-to-six-degree increase in global temperature by 2100, with a result that sea levels could rise as much as two feet. As temperatures go up, it is expected, more frequent and severe storms and droughts will occur. That's because a hotter planet experiences greater rates of evaporation. More evaporation leads to more rain and snow in some areas, even as arid regions like the American Midwest, breadbasket to the world, become drier. In effect, global warming reinforces El Nino's heat and storms. But even without El Nino, global warming, extra storms and droughts promise more floods and fires, like the recent blazes in Florida, Mexico, Brazil and Indonesia. To make matters worse, such fires also intensify global warming by releasing the carbon dioxide locked up in trees into the atmosphere. The Indonesian fires released more carbon in three months than all of Europe's industry does in a year. Brazil's fires received less foreign media attention than Indonesia's, but they destroyed even more rain forest -- forest that, by definition, is generally quite difficult to ignite.</p>
+      </block>
+      <block class="full_text">
+        <p>The year 1998 may be remembered as the time when weird weather became the norm. From the storms that pounded California over the winter to the drought that fed Florida's fires this summer, the one constant of the weather has been its bizarreness. In March, New York City experienced record-tying spring heat a few days after late-season snow. Santa Barbara, Calif., received 21 inches of rainfall in February, a once-a-millennium event. Texas endured weeks of 100-degree-plus July heat, resulting in scores of deaths.</p>
+        <p>Mischief from El Nino? In part. But extreme weather is also consistent with global-warming scenarios. The scientists of the Intergovernmental Panel on Climate Change, a United Nations group, expect a two-to-six-degree increase in global temperature by 2100, with a result that sea levels could rise as much as two feet. As temperatures go up, it is expected, more frequent and severe storms and droughts will occur. That's because a hotter planet experiences greater rates of evaporation. More evaporation leads to more rain and snow in some areas, even as arid regions like the American Midwest, breadbasket to the world, become drier. In effect, global warming reinforces El Nino's heat and storms. But even without El Nino, global warming, extra storms and droughts promise more floods and fires, like the recent blazes in Florida, Mexico, Brazil and Indonesia. To make matters worse, such fires also intensify global warming by releasing the carbon dioxide locked up in trees into the atmosphere. The Indonesian fires released more carbon in three months than all of Europe's industry does in a year. Brazil's fires received less foreign media attention than Indonesia's, but they destroyed even more rain forest -- forest that, by definition, is generally quite difficult to ignite.</p>
+        <p>It has now been 10 years since ''global warming'' became a household term in the United States. It happened during the brutally hot summer of 1988, when James Hansen, a climatologist and director of NASA's Goddard Space Institute, described the problem to a Congressional committee and then told journalists: . . . the evidence is pretty strong that the greenhouse effect is here. Skeptics lambasted Hansen for speaking too soon, but seven years later, the I.P.C.C. reached the same conclusion, declaring in a 1995 report that there was ''a discernible human influence on global climate.''</p>
+        <p>Global warming is often thought of as a danger for the year 2050, not today. But 8 of the 10 warmest years in recorded history have been in the last decade; the first six months of 1998 rank as the world's hottest months on record. ''The scientists are telling us that global warming means more extreme weather,'' says Daniel F. Becker of the Sierra Club, which helped assemble the map shown above. The weather is telling us that global warming is here.</p>
+        <p>Mark Hertsgaard is the author of the forthcoming ''Earth Odyssey: Around the World in Search of Our Environmental Future.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Mark Hertsgaard is the author of the forthcoming ''Earth Odyssey: Around the World in Search of Our Environmental Future.''</tagline>
+    </body.end>
+  </body>
+</nitf>

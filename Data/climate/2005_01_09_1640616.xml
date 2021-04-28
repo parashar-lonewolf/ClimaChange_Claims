@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dana Fisher, Aaron Patton</title>
+    <meta content="09FISH" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/01/09/fashion/weddings/09fish.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1640616"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">FISHER, DR. DANA ROBIN</person>
+        <person class="indexing_service">PATTON, AARON DANIEL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EFD91139F93AA35752C0A9639C8B63" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dana Fisher, Aaron Patton</hl1>
+        <hl2 class="online_headline">Dana Fisher, Aaron Patton</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Dana Robin Fisher and Aaron Daniel Patton were married last evening. Abigail Schwartz, a Universal Life minister, officiated at Estherwood, in Dobbs Ferry, N.Y.</p>
+        <p>Dr. Fisher, 33, is keeping her name. She is an assistant professor of sociology at Columbia, and conducts research on policy and the environment through Columbia's Earth Institute. She is also the author of ''National Governance and the Global Climate Change Regime'' (Rowman &amp; Littlefield, 2004). She graduated from Princeton and received a Ph.D. in sociology from the University of Wisconsin.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Dana Robin Fisher and Aaron Daniel Patton were married Saturday evening in Dobbs Ferry, N.Y. Abigail Schwartz, a Universal Life minister, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Dana Robin Fisher and Aaron Daniel Patton were married last evening. Abigail Schwartz, a Universal Life minister, officiated at Estherwood, in Dobbs Ferry, N.Y.</p>
+        <p>Dr. Fisher, 33, is keeping her name. She is an assistant professor of sociology at Columbia, and conducts research on policy and the environment through Columbia's Earth Institute. She is also the author of ''National Governance and the Global Climate Change Regime'' (Rowman &amp; Littlefield, 2004). She graduated from Princeton and received a Ph.D. in sociology from the University of Wisconsin.</p>
+        <p>She is a daughter of Jacqueline E. Fields and Dr. Robert S. Fisher, both of Bryn Mawr, Pa. The bride's father is the chief of gastroenterology at Temple University Hospital and is a professor of medicine at Temple's School of Medicine, both in Philadelphia. Her mother is a presentation skills consultant in Bryn Mawr.</p>
+        <p>Mr. Patton, 29, is an associate at Murray, Frank &amp; Sailer, a New York law firm. He graduated magna cum laude from San Jose State University and received his law degree from Wisconsin, where the couple met. His previous marriage ended in divorce.</p>
+        <p>He is a son of Peggy L. Patton and Brian E. Patton of San Jose. His mother is an interpreter for the deaf there. His father is a carpenter in San Jose for Santa Clara County's building operations department.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

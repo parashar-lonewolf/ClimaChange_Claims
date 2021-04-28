@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Science and Politics Collide</title>
+    <meta content="LTR001759" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Washington; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1622281"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <person class="indexing_service">O'Keefe, William</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2DB143DF935A15753C1A9629C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Science and Politics Collide</hl1>
+      </hedline>
+      <abstract>
+        <p>William O'Keefe letter on Oct 19 article about conflict between scientific community and Bush administration over various policies holds that disagreement is primarily political (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>On environmental issues, especially climate change, science is important but rarely definitive. Where science is not definitive, it is just one of many factors that policy makers must consider (''Bush vs. the Laureates'').</p>
+        <p>In the 1990's, Vice President Al Gore repeatedly asserted that climate science was settled even though it was not. One distinguished scientist was fired for telling him that. Where was the outcry then?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>On environmental issues, especially climate change, science is important but rarely definitive. Where science is not definitive, it is just one of many factors that policy makers must consider (''Bush vs. the Laureates'').</p>
+        <p>In the 1990's, Vice President Al Gore repeatedly asserted that climate science was settled even though it was not. One distinguished scientist was fired for telling him that. Where was the outcry then?</p>
+        <p>The Environmental Protection Agency during the Clinton years was the most politicized in memory. It pushed regulations that went beyond what science and economics could justify. Where were the complaints then?</p>
+        <p>That silence may be more telling than today's rhetoric.</p>
+        <p>WILLIAM O'KEEFE  Washington</p>
+        <p>The writer is president of the George C. Marshall Institute.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

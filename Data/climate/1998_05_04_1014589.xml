@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pollution Credits Work</title>
+    <meta content="LGOFFM$05" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1014589"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">Midwestern States (US)</location>
+        <location class="indexing_service">Southern States (US)</location>
+        <org class="indexing_service">Environmental Defense Fund</org>
+        <person class="indexing_service">Goffman, Joseph</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E4DD1E3EF937A35756C0A96E958260" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pollution Credits Work</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Joseph Goffman of Environmental Defense Fund disputes Apr 30 article holding purchase of pollution credits in South and Middle West contributes to acid rain problem in New York; holds credit program has spurred major polluters to cut emissions (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>An April 30 news article asserts that ''major polluters in the South and Middle West have found it cheaper to buy pollution credits instead of cutting toxic emissions that eventually blow back into New York and contribute to its acid rain problem.'' The article says experts find that ''areas like the Adirondacks and the Catskills have suffered immensely.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>An April 30 news article asserts that ''major polluters in the South and Middle West have found it cheaper to buy pollution credits instead of cutting toxic emissions that eventually blow back into New York and contribute to its acid rain problem.'' The article says experts find that ''areas like the Adirondacks and the Catskills have suffered immensely.''</p>
+        <p>The Environmental Protection Agency, the United States Geological Survey and the Environmental Defense Fund have found that the program is having the opposite effect. Because of incentives created by emissions trading, major polluters in the Middle West and South have reduced emissions by 30 percent more than required by law.</p>
+        <p>In 1995, the first year in which these reductions occurred, the United States Geological Survey happened to observe a significant  decrease in rainfall acidity related to sulfur throughout the Eastern United States, including New York State. These results have been achieved at lower costs than predicted.</p>
+        <p>JOSEPH GOFFMAN  Washington, May 1, 1998</p>
+        <p>The writer is a lawyer at the Environmental Defense Fund.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

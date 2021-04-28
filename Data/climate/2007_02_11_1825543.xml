@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2008 Campaign's Tone</title>
+    <meta content="l11mccain" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1825543"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Political Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2000</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <person class="indexing_service">Voorhees, Dayton</person>
+        <person class="indexing_service">Mccain, John S (Sen)</person>
+        <person class="indexing_service">Kerry, John (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFD91E3FF932A25751C0A9619C8B63" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2008 Campaign's Tone</hl1>
+      </hedline>
+      <abstract>
+        <p>Dayton Voorhees letter, prompted by Feb 4 article on aides hired by Sen John McCain's presidential campaign whom he has criticized for their work on ads attacking him during 2000 campaign and Sen John Kerry in 2004 campaign, says candidates should resist egocentric, negative politics</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''McCain Embracing Advisers Whose Ads Once Drew His Ire'' (front page, Feb. 4):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''McCain Embracing Advisers Whose Ads Once Drew His Ire'' (front page, Feb. 4):</p>
+        <p>Our nation's problems -- terrorism, climate change, entitlements, health care reform -- require thoughtful, long-term solutions. Each party should offer the American people a slate of its best, most innovative and inspiring thinkers rather than have the election process devolve once again into an egocentric, negative politics of personal attack.</p>
+        <p>Dayton Voorhees  Corrales, N.M., Feb. 4, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

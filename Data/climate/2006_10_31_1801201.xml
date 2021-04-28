@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Humans and Marine Life</title>
+    <meta content="31lett-2" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1801201"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Fishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E6D9123FF932A05753C1A9609C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Humans and Marine Life</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I didn't know whether to laugh or cry after reading ''The Biologist and the Sea: Lessons in Marine-Life Restoration'' (Oct. 24). The combination of arrogance and ignorance displayed is totally phenomenal.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I didn't know whether to laugh or cry after reading ''The Biologist and the Sea: Lessons in Marine-Life Restoration'' (Oct. 24). The combination of arrogance and ignorance displayed is totally phenomenal.</p>
+        <p>We inhabitants of this finite earth face unprecedented horrors associated with six-billion-plus humans and their antinatural lifestyles. With global warming in full cry, we don't recreate by burning fossil fuels in boat motors. We don't catch a beautiful sea creature ''prized for both its fight and its flavor'' because the act makes us feel relaxed or rejuvenated. We don't express our love of nature by creating toxic smoke and underwater noise.</p>
+        <p>What we do to recreate is walk or swim or bike gently, leaving no trace of our passing. We respect the nature of Nature. We have a tiny window in which to relearn the meaning of ''recreation.''</p>
+        <p>Kirk S. Nevin  Corvallis, Ore.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

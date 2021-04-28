@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York City and 8 States Plan to Sue Power Plants</title>
+    <meta content="21POLL$02" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/07/21/national/21pollute.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1598246"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">California</location>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New Jersey</location>
+        <location class="indexing_service">Vermont</location>
+        <location class="indexing_service">Iowa</location>
+        <location class="indexing_service">Connecticut</location>
+        <location class="indexing_service">Wisconsin</location>
+        <location class="indexing_service">Rhode Island</location>
+        <org class="indexing_service">American Electric Power Co</org>
+        <org class="indexing_service">Cinergy Corp</org>
+        <org class="indexing_service">Southern Company Energy Marketing</org>
+        <org class="indexing_service">Tennessee Valley Authority</org>
+        <org class="indexing_service">Xcel Energy Co</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Rhode Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Vermont</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Wisconsin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Rhode Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Vermont</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040721T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EFDA113AF932A15754C0A9629C8B63" item-length="643" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York City and 8 States Plan to Sue Power Plants</hl1>
+        <hl2 class="online_headline">New York City and 8 States Plan to Sue Power Plants</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Eight states and New York City will file federal lawsuit demanding 'substantial cuts' in carbon dioxide emissions by five major utility companies that operate 174 power plants (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Eight states and New York City plan to sue utilities today that they say are the country's biggest emitters of carbon dioxide, the heat-trapping gas that scientists have linked to global warming.</p>
+        <p>The states and the city will not seek financial penalties but, according to a draft news release, will demand ''substantial cuts'' in the emissions, which they say ''pose serious threats to our health, our economy and our environment.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The states and the city say that the utilities are the country's biggest emitters of carbon dioxide, the heat-trapping gas that scientists have linked to global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>Eight states and New York City plan to sue utilities today that they say are the country's biggest emitters of carbon dioxide, the heat-trapping gas that scientists have linked to global warming.</p>
+        <p>The states and the city will not seek financial penalties but, according to a draft news release, will demand ''substantial cuts'' in the emissions, which they say ''pose serious threats to our health, our economy and our environment.''</p>
+        <p>State and city officials familiar with the effort said yesterday that they would not discuss details of the suit until today. The planned statements and other details had changed since the draft, dated July 16, the officials said, but they did not disavow the basic thrust of the release.</p>
+        <p>The states are California, Connecticut, Iowa, New Jersey, New York, Rhode Island, Vermont and Wisconsin. The suit will be filed in Federal District Court in Manhattan, according to the release.</p>
+        <p>The document was provided to The New York Times and other news outlets by a person at an industry-financed advocacy group in Washington opposed to restrictions on carbon dioxide and other heat-trapping gases.</p>
+        <p>The companies named as defendants in the draft were American Electric Power, Cinergy, the Southern Company, the Tennessee Valley Authority and Xcel Energy. They operate a total of 174 power plants that burn fossil fuels and that the states and city say emit 646 million tons of carbon dioxide a year, or 10 percent of the national total.</p>
+        <p>''The states are collectively deciding that our economy, our public health, our environment is being damaged,'' Marc Violette, a spokesman for Attorney General Eliot Spitzer of New York, said.</p>
+        <p>Many of the states in this suit as well as others have used suits to pressure out-of-state utilities to curtail nitrogen and sulfur emissions that travel long distances. Other suits have been filed by states and private organizations against the Environmental Protection Agency over carbon dioxide, saying the agency had failed to restrict the gas as a pollutant under the Clean Air Act despite growing evidence that it posed risks.</p>
+        <p>But the new suit is the first state legal action taken directly against companies that discharge carbon dioxide, an unavoidable byproduct of burning coal, oil and other fossil fuels.</p>
+        <p>New York City is joining the action, according to a statement in the draft from Michael A. Cardozo, the corporation counsel, ''out of concern for the impacts that global warming will have on the city and its residents and as part of the Bloomberg administration's commitment to maintaining a clean and sustainable Big Apple.''</p>
+        <p>The plaintiffs plan to base the suit on federal common law of public nuisance. The common law, the news release said, ''provides a right of action to curb air and water pollution emanating from sources in other states.''</p>
+        <p>Industry lawyers said yesterday that the plaintiffs would have a hard time making a case that carbon dioxide was a pollutant, and they noted that it flowed not only from power plants, but was also in exhaled breaths and the bubbles rising from open beer containers.</p>
+        <p>''Filing lawsuits is not a constructive way to deal with this issue,'' Melissa A. McHenry, a spokeswoman for American Electric Power, said.</p>
+        <p>Her company, Ms. McHenry said, has committed to reducing its carbon dioxide emissions 10 percent by 2006 below the average yearly discharge from 1998 to 2000, through changes at its power plants and by investing in tree plantings and other projects overseas that sop up the gas.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

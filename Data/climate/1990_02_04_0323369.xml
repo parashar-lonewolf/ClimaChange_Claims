@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Aid to Damaged Lung Is Implanted in Human</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="323369"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LUNGS</classifier>
+        <classifier class="indexing_service" type="descriptor">IMPLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTRAVASCULAR OXYGENATOR</classifier>
+        <org class="indexing_service">LDS HOSPITAL (SALT LAKE CITY)</org>
+        <org class="indexing_service">CARDIO-PULMONICS INC</org>
+        <person class="indexing_service">MILLAR, ROGER C (DR)</person>
+        <person class="indexing_service">MORTENSEN, J D (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Implants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDD173DF937A35751C0A966958260" item-length="459" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Aid to Damaged Lung Is Implanted in Human</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>SALT LAKE CITY, Feb. 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A surgeon at a hospital here has implanted in a human an experimental device made of a slender, hollow bundle of fibers that works like a lung in supplying oxygen to the body.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A surgeon at a hospital here has implanted in a human an experimental device made of a slender, hollow bundle of fibers that works like a lung in supplying oxygen to the body.</p>
+        <p>A surgeon at a hospital here has implanted in a human an experimental device made of a slender, hollow bundle of fibers that works like a lung in supplying oxygen to the body.</p>
+        <p>The device, the IntraVascular Oxygenator, is not a lung replacement but a temporary mechanism to give patients with lung damage time to heal. The Food and Drug Administration has approved its use for up to seven days.</p>
+        <p>Tim Madden, a spokesman for LDS Hospital here, said the two-hour operation to implant the device was performed Friday afternoon. He said the patient's family had asked that no details about the patient be disclosed, but sources told The Associated Press that the recipient is a teen-age girl.</p>
+        <p>The Salt Lake Tribune, quoting an unidentified source at the hospital, reported today that the girl is 16.</p>
+        <p>For Respiratory Failure</p>
+        <p>Dr. Roger C. Millar performed the operation, inserting the device into the inferior vena cava, large major vein that returns oxygenated blood from the lungs to the heart.</p>
+        <p>The device's fibers are as thin as hairs, and through it, oxygen is delivered and carbon dioxide is removed. Two intravenous tubes attached to the bundle do the delivering and removing.</p>
+        <p>Developers of the device say it could help patients recover from acute respiratory failure caused by inhalation of smoke or other noxious fumes, or by drugs, severe pneumonia and scores of other ailments.</p>
+        <p>The only alternative for people with acute lung failure is a big machine that requires pumping the blood outside the body. Dr. J. D. Mortensen, who invented the device. said it performed much like the natural membranes of the air sacs in the human lung.</p>
+        <p>The developer of the device, CardioPulmonics Inc., a Salt Lake City biomedical technology company, announced Jan. 11 that the IntraVascular Oxygenator would be tested in 10 patients at four medical centers in the United States.</p>
+        <p>Foreign Centers Are Interested</p>
+        <p>One of those centers is LDS Hospital, whose initials stand for Latter-day Saints, in this city of the Mormons. The three others are the Hershey Medical Center of Pennsylvania State University, the University of Michigan Medical Center at Ann Arbor and the Los Angeles County-University of Southern California Medical Center.</p>
+        <p>Several centers in Europe and Japan have applied to test the device.</p>
+        <p>The device is to be tested on patients with acute respiratory failure who have little chance of survival.The product was the outcome of membrane technology that makes much higher concentrations of oxygen available using polypropylene tubes the width of a hair.</p>
+        <p>The temporary artificial lung is threaded through a vein in the leg or the neck into the body's main vein and can be removed the same way. It has been tested on dogs and sheep.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

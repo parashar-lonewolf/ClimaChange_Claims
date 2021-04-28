@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Migrating Monarch Butterflies Exceed Expected Numbers</title>
+    <meta content="MB233315" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1147708"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Butterflies and Moths</classifier>
+        <classifier class="indexing_service" type="descriptor">Migration</classifier>
+        <classifier class="indexing_service" type="descriptor">Monarch Butterflies</classifier>
+        <location class="indexing_service">Cape May (NJ)</location>
+        <org class="indexing_service">Audubon Society</org>
+        <person class="indexing_service">Demasters, Karen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey/Cape May</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Butterflies and Moths</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migration</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3D71139F937A15753C1A96F958260" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Migrating Monarch Butterflies Exceed Expected Numbers</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN DeMASTERS</byline>
+      <byline class="normalized_byline">Demasters, Karen</byline>
+      <abstract>
+        <p>New Jersey Audubon Society's Monarch Monitoring Project reports record numbers of monarch butterflies migrating through Cape May enroute to Mexico; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Monarch butterflies, which stop in Cape May in September and October on their migration south to the mountains outside Mexico City, have been appearing in southern New Jersey in record numbers this year, said Louise Zemaitis, acting director of the Monarch Monitoring Project of the New Jersey Audobon Society.</p>
+        <p>The Monarch Monitoring Project has been counting monarch butterflies for nine years and had thought the count would be low this year because of the summer drought. Instead counters found that on Oct. 2, up to 250,000 monarchs moved through Cape May County.</p>
+      </block>
+      <block class="full_text">
+        <p>Monarch butterflies, which stop in Cape May in September and October on their migration south to the mountains outside Mexico City, have been appearing in southern New Jersey in record numbers this year, said Louise Zemaitis, acting director of the Monarch Monitoring Project of the New Jersey Audobon Society.</p>
+        <p>The Monarch Monitoring Project has been counting monarch butterflies for nine years and had thought the count would be low this year because of the summer drought. Instead counters found that on Oct. 2, up to 250,000 monarchs moved through Cape May County.</p>
+        <p>''Even on an average day it should be a small fraction of that, and we had four other days with large numbers,'' Ms. Zemaitis said.</p>
+        <p>Monarchs feed on milkweed plants which absorb acid rain, therefore their numbers can indicate how healthy the environment is, Ms. Zemaitis said.</p>
+        <p>KAREN DeMASTERS</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

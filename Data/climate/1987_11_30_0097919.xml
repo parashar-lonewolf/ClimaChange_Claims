@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recycling Helps Avoid Wasteful Incineration; It's Energy-Efficient</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="97919"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <classifier class="indexing_service" type="descriptor">GARBAGE</classifier>
+        <classifier class="indexing_service" type="descriptor">INCINERATORS</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <person class="indexing_service">FIOL, DAVID</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2D91E3EF933A05752C1A961948260" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recycling Helps Avoid Wasteful Incineration; It's Energy-Efficient</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Your articles failed to discuss one uncertain but potentially critical problem with the use of garbage-incineration technology. Basic chemistry tells us that no pollution control equipment will change the fact that burning our garbage will add yet more to the stream of artificial processes that are overloading the atmosphere with carbon dioxide.</p>
+        <p>Until we can determine what the effects of carbon dioxide buildup will be, we should not be rushing to technologies that not only aggravate the problem but hinder implementation of widespread recycling, which would actually improve upon the present state of affairs. Many recycled materials require less energy to produce than their virgin counterparts; reduced energy use always results in reduced combustion of fossil fuels, thereby further reducing the threat from carbon dioxide buildup in the atmosphere.As far as the carbon dioxide problem goes, waste-burning plants are a giant step in the wrong direction. DAVID FIOL  Somerville, Mass., Nov. 15, 1987</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Logic and the Miser Brothers</title>
+    <meta content="17alsmail-8" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1812439"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="'YEAR WITHOUT SANTA'"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFD91531F934A25751C1A9609C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Logic and the Miser Brothers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Fiery Hair vs. Pointy Nose: Seasonal Smackdown Returns'' by Stuart Miller [Dec. 10]:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Fiery Hair vs. Pointy Nose: Seasonal Smackdown Returns'' by Stuart Miller [Dec. 10]:</p>
+        <p>If the plot of ''The Year Without a Santa Claus'' (a k a ''that Heat Miser and Snow Miser show'') is difficult to recall, that may be because it's more overwrought than forgettable (Mr. Miller's term). When Santa doesn't feel like going out that year, the obvious solution -- send Mrs. Claus (voiced by the great Shirley Booth) in his place -- is for some reason immediately rejected. And during the era of women's lib, yet. If you want to talk forgettable, look at the current crop of holiday offerings. In a time of global warming, Heat Miser doesn't seem like such an outrageous concept after all.</p>
+        <p>Kevin Dawson  Los Angeles</p>
+        <p>'YEAR WITHOUT SANTA'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

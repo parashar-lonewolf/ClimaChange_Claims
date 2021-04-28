@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Bug in the Bug-Zapper</title>
+    <meta content="ZAP" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="SCIENCE WATCH" name="column_name"/>
+    <docdata>
+      <doc-id id-string="916556"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Insects</classifier>
+        <classifier class="indexing_service" type="descriptor">Mosquitoes</classifier>
+        <person class="indexing_service">Yoon, Carol Kaesuk</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D71338F93BA25750C0A961958260" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Bug in the Bug-Zapper</hl1>
+      </hedline>
+      <byline class="print_byline">By CAROL KAESUK YOON</byline>
+      <byline class="normalized_byline">Yoon, Carol Kaesuk</byline>
+      <abstract>
+        <p>Study of bug-zapping devices finds that they kill billions of insects each year, but hardly any are mosquitoes or other biting pests (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bug-zappers, those sizzling, glowing fixtures in many a suburban yard, kill billions of insects each year -- but hardly any are mosquitoes or other biting pests, a study of six of the devices has found.</p>
+        <p>Dr. Douglas W. Tallamy, an entomologist at the University of Delaware in Newark, recruited a high school student, Timothy B. Frick, to collect all of the insects killed over the course of one summer by zappers in six yards in Newark. They counted  13,789 dead bugs, but only 31 were biting flies. Nearly all the neighborhoods' biting flies remained on the wing to torment the zappers' owners.</p>
+      </block>
+      <block class="full_text">
+        <p>Bug-zappers, those sizzling, glowing fixtures in many a suburban yard, kill billions of insects each year -- but hardly any are mosquitoes or other biting pests, a study of six of the devices has found.</p>
+        <p>Dr. Douglas W. Tallamy, an entomologist at the University of Delaware in Newark, recruited a high school student, Timothy B. Frick, to collect all of the insects killed over the course of one summer by zappers in six yards in Newark. They counted  13,789 dead bugs, but only 31 were biting flies. Nearly all the neighborhoods' biting flies remained on the wing to torment the zappers' owners.</p>
+        <p>The zapper, Dr. Tallamy concluded, ''is a totally useless device.''</p>
+        <p>The bug-zappers' haul included nearly 2,000 potentially beneficial insects that prey on or parasitize other bugs. In addition, thousands of harmless species, including esthetically pleasing creatures like fireflies and scarab beetles, were grilled right along with the season's burgers and hot dogs.</p>
+        <p>The study, reported in a recent issue of Entomological News, confirms earlier research suggesting that the comfort people derive from zappers is almost totally psychological, heightened with every sizzle as another insect bites the dust.</p>
+        <p>In fact, the carbon dioxide that humans exhale is so attractive to mosquitoes that the only way to avoid the insects entirely might be to stop breathing.</p>
+        <p>Instead, Dr. Tallamy recommends  common sense. ''I wouldn't plan a picnic in the Everglades in June at night,'' he said. ''And a little bug spray works great.''</p>
+        <p>CAROL KAESUK YOON  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

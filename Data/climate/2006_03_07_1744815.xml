@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Cool Ride That Saves Gas</title>
+    <meta content="07findings" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/07/science/07findings.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1744815"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="FINDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <org class="indexing_service">National Renewable Energy Laboratory</org>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Motavalli, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E1DB1531F934A35750C0A9609C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Cool Ride That Saves Gas</hl1>
+        <hl2 class="online_headline">A Cool Ride That Saves Gas</hl2>
+      </hedline>
+      <byline class="print_byline">By JIM MOTAVALLI</byline>
+      <byline class="normalized_byline">Motavalli, Jim</byline>
+      <abstract>
+        <p>Energy Department National Renewable Energy Laboratory reports that if every car or truck in America had ventilated seats that gas consumption could be reduced by 7.5 percent; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some government researchers have come up with a new idea for improving fuel economy -- the cool seat.</p>
+        <p>The Department of Energy's National Renewable Energy Laboratory reported on Thursday that if every car and truck on America's roads was equipped with ventilated seats, air-conditioning-related gasoline consumption could be reduced by 7.5 percent, thus saving 522 million gallons of fuel per year.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some government researchers have come up with a new idea for improving fuel economy  the cool seat.</p>
+      </block>
+      <block class="full_text">
+        <p>Some government researchers have come up with a new idea for improving fuel economy -- the cool seat.</p>
+        <p>The Department of Energy's National Renewable Energy Laboratory reported on Thursday that if every car and truck on America's roads was equipped with ventilated seats, air-conditioning-related gasoline consumption could be reduced by 7.5 percent, thus saving 522 million gallons of fuel per year.</p>
+        <p>The seats tested have two built-in fans that suck warm air and moisture through their perforated leather and send it away from the driver or passenger.</p>
+        <p>Ventilated seats make drivers feel cooler, so they could save fuel by turning their air-conditioners down a notch, in theory.</p>
+        <p>''But try telling that to some guy driving through Mississippi on a hot day in July,'' said David Caldwell, a spokesman for Cadillac.</p>
+        <p>The seats, ComfortCools, made by W.E.T. Automotive Systems of Germany, are offered as an option in the Cadillac STS.</p>
+        <p>Mr. Caldwell says 30 to 40 percent of STS models are ordered with ventilated seats, but only as part of $3,000 to $10,000 luxury packages that also include some features (including a heated steering wheel) that actually make the car less fuel-efficient.</p>
+        <p>Closely related to the ventilated seat is the heated and air-conditioned ''climatized'' seat with its own refrigeration unit, seen in an increasing number of upscale vehicles. Cooled seats are hot, but they're not exactly fuel savers.</p>
+        <p>JIM MOTAVALLI</p>
+        <p>FINDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

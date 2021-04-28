@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming Study</title>
+    <meta content="L23WAR$01" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1568509"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Dessler, Andrew E</person>
+        <person class="indexing_service">Minschwaner, Ken (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E6DF1630F930A15750C0A9629C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming Study</hl1>
+      </hedline>
+      <abstract>
+        <p>Andrew E Dessler and Prof Ken Minschwaner letter on March 18 article says that while their research suggests that climate models somewhat overestimate 21st-century warming, it does not argue against seriousness of global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your March 18 news article ''Study Disputes Idea on Global Warming'' gives the impression that our research goes against the consensus scientific view that global warming is a serious concern. While our research does suggest that climate models are somewhat overestimating 21st-century warming, our work does not argue against the seriousness of the problem.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your March 18 news article ''Study Disputes Idea on Global Warming'' gives the impression that our research goes against the consensus scientific view that global warming is a serious concern. While our research does suggest that climate models are somewhat overestimating 21st-century warming, our work does not argue against the seriousness of the problem.</p>
+        <p>The predicted global warming over the 21st century is so large (up to 11 degrees Fahrenheit), and the potential effects so serious, that slight overestimates of this warming make little difference -- just as reducing the size of a firing squad from 10 shooters to nine makes little difference to the person being executed. Our research should provide no comfort to those arguing against policies to combat global warming.</p>
+        <p>ANDREW E. DESSLER  KEN MINSCHWANER  College Park, Md., March 20, 2004</p>
+        <p>The writers are, respectively, an associate research scientist, Earth System Science Interdisciplinary Center, University of Maryland, and an associate professor of physics, New Mexico Institute of Mining and Technology.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

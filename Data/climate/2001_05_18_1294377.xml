@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology Called Safer Than in Past</title>
+    <meta content="18TEC" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1294377"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="THE ENERGY PLAN: NUCLEAR POWER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Nuclear Wastes</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Seelye, Katharine Q</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nuclear Wastes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEFDE1E3AF93BA25756C0A9679C8B63" item-length="378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology Called Safer Than in Past</hl1>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+      <byline class="normalized_byline">Seelye, Katharine Q</byline>
+      <abstract>
+        <p>Pres Bush's energy plan could give significant boost to nuclear power industry; policy report declares the technology much safer than in past and encourages relicensing of existing nuclear plants and creation of new ones; offers no solution for complex problem of nuclear-waste disposal (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nuclear power plant construction has been dormant in the United States for the last two decades, but as President Bush pointed out, existing plants provide 20 percent of the nation's electricity with 103 plants functioning. Still, the last American nuclear power plant to enter operation was ordered in 1973.</p>
+        <p>Since then, safety requirements, which increased after the 1979 accident at Three Mile Island, have kept the industry from expanding. It has also been plagued by financial woes, including high interest rates and long construction times, stretching the average time to put a new plant in service to 14 years and souring Wall Street on financing nuclear power plants.</p>
+      </block>
+      <block class="full_text">
+        <p>Nuclear power plant construction has been dormant in the United States for the last two decades, but as President Bush pointed out, existing plants provide 20 percent of the nation's electricity with 103 plants functioning. Still, the last American nuclear power plant to enter operation was ordered in 1973.</p>
+        <p>Since then, safety requirements, which increased after the 1979 accident at Three Mile Island, have kept the industry from expanding. It has also been plagued by financial woes, including high interest rates and long construction times, stretching the average time to put a new plant in service to 14 years and souring Wall Street on financing nuclear power plants.</p>
+        <p>The Bush energy plan could give a substantial boost to the industry. It declares the technology much safer than it was 20 years ago. It says the administration should encourage the relicensing of nuclear plants, which would not require Congressional action, and should seek legislation to reduce taxes that it says impede mergers of nuclear utilities.</p>
+        <p>But it still has no solution for the complex problem of nuclear-waste disposal. Plants now store nuclear waste on site, waiting for a national repository. ''The Department of Energy is over a decade behind schedule for accepting nuclear waste from utilities,'' the report concedes. Studies to determine whether Yucca Mountain, Nev., is suitable for a repository have dragged on.</p>
+        <p>The report echoes an industry idea to add reactors to sites that already have them. This approach could eliminate the highly contentious issue of finding new sites for such plants.</p>
+        <p>''Many U.S. nuclear plant sites were designed to host four to six reactors, and most operate only two or three,'' the report states.</p>
+        <p>Polls show that Americans are less concerned about nuclear power than they are about coal, largely because nuclear power is cleaner and does not contribute to global warming.</p>
+        <p>KATHARINE Q. SEELYE</p>
+        <p>THE ENERGY PLAN: NUCLEAR POWER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Repairing Ozone Layer</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="349059"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">HALONS (CHEMICAL)</classifier>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <org class="indexing_service">NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD81339F932A35756C0A966958260" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Repairing Ozone Layer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: THE hole in the Antarctic ozone layer can repair itself by the year 2100, but only if there is a worldwide phase-out of nearly all emissions of chlorofluorocarbons and halon gases early in the next century, NASA scientists say.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: THE hole in the Antarctic ozone layer can repair itself by the year 2100, but only if there is a worldwide phase-out of nearly all emissions of chlorofluorocarbons and halon gases early in the next century, NASA scientists say.</p>
+        <p>THE hole in the Antarctic ozone layer can repair itself by the year 2100, but only if there is a worldwide phase-out of nearly all emissions of chlorofluorocarbons and halon gases early in the next century, NASA scientists say.</p>
+        <p>Chlorofluorocarbons, which are used in refrigerators, aerosols and other products, and halon gases have been linked to the destruction of ozone in the upper atmosphere.</p>
+        <p>Atmospheric chlorine concentrations have increased to more than 3 parts per billion from 0.6 parts per billion a century ago. Recovery of the Antarctic ozone hole would not occur until chlorine levels fall below 2 parts per billion, said the latest report, written by Michael J. Prather and Robert T. Watson. It was published in the April 19 issue of the journal Nature.</p>
+        <p>The United Nations reached an accord in 1987 to reduce chlorofluorocarbon production by 50 percent by the year 2000, but several large countries have not ratified the pact. Last year the 12 European Community countries decided to phase them out entirely by the end of the century. President Bush said the United States would try to do the same.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

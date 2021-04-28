@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pipeline Alternatives</title>
+    <meta content="FN230612" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1097401"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pipelines</classifier>
+        <org class="indexing_service">Columbia Gas Transmission Corp</org>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pipelines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4D71539F937A35757C0A96F958260" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pipeline Alternatives</hl1>
+      </hedline>
+      <byline class="print_byline">By ELSA BRENNER</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>Columbia Gas Transmission is granted permission to survey five-mile section of North County Trailway in Westchester County, NY, which may be used as alternate for natural-gas pipeline (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Columbia Gas Transmission, the lead company in a consortium that is seeking to lay a natural-gas pipeline from Cortlandt south to Mount Vernon, has received permission from the county to survey a five-mile section of the North County Trailway.</p>
+        <p>Overall, the county-owned trailway stretches more than 20 miles from the Putnam County line south to the northernmost border of Yonkers -- with some small breaks in between.</p>
+      </block>
+      <block class="full_text">
+        <p>Columbia Gas Transmission, the lead company in a consortium that is seeking to lay a natural-gas pipeline from Cortlandt south to Mount Vernon, has received permission from the county to survey a five-mile section of the North County Trailway.</p>
+        <p>Overall, the county-owned trailway stretches more than 20 miles from the Putnam County line south to the northernmost border of Yonkers -- with some small breaks in between.</p>
+        <p>Columbia Gas is considering part of the trailway as an alternative to its original proposal, which was to lay the line along the Consolidated Edison right of way from Cortlandt to Mount Vernon, said Joyce M. Lannert, the county's Planning Commissioner. The local line would be included in a larger plan by Columbia Gas and its partners to lay pipe from Canada, across the Southern Tier of New York to Rockland County and under the Hudson River to Westchester. The line would transfer 700 million cubic feet of natural gas a day.</p>
+        <p>County Legislator Michael B. Kaplowitz, Democrat of Cortlandt, chairman of the Board of Legislators' Environment Committee, said that from an environmental and cost perspective, natural gas was preferable to fossil fuels. He also said that the pipeline would draw distributors who could tap into it, and that the real estate tax benefits from the pipeline for governments could amount to $1 million a mile a year, according to Columbia Gas figures.</p>
+        <p>But before any pipeline is built, the Federal Energy Regulatory Commission must determine if there is an economic need for more natural gas in the region, Mr. Kaplowitz said.</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

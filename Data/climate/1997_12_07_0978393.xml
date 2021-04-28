@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robert Redford Has This Problem</title>
+    <meta content="LTR120159" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="978393"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Redford, Robert</person>
+        <person class="indexing_service">sherwood, jessica</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E4DF173DF934A35751C1A961958260" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robert Redford Has This Problem</hl1>
+      </hedline>
+      <abstract>
+        <p>Jessica Sherwood letter questions whether the Robert Redford profiled in Nov 16 special Hollywood issue of Times Magazine can really be called an environmentalist; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a longtime admirer of Robert Redford's active environmentalism, I read Walter Kirn's article ''Robert Redford Has This Problem'' with interest. But my heart sank when I learned that not only does Redford drive a 4-by-4, but his concern for the threats to Western wilderness has not stopped him from building on the land he wanted to keep safe from developers. He is sending the message that if you have enough money to make it esthetically pleasing, build away.</p>
+      </block>
+      <block class="full_text">
+        <p>As a longtime admirer of Robert Redford's active environmentalism, I read Walter Kirn's article ''Robert Redford Has This Problem'' with interest. But my heart sank when I learned that not only does Redford drive a 4-by-4, but his concern for the threats to Western wilderness has not stopped him from building on the land he wanted to keep safe from developers. He is sending the message that if you have enough money to make it esthetically pleasing, build away.</p>
+        <p>Furthermore, if you can afford to build a house on a mountaintop, you're going to have to buy a big, rough car to get up it. Carbon dioxide is the No. 1 polluter of our air, and today's chic, road-hogging, gas-guzzling 4-by-4's are among the worst culprits. If you drive a car that gets 13 miles to the gallon, you're not an environmentalist. Redford's guilt is well deserved.</p>
+        <p>Jessica Sherwood  Denver</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

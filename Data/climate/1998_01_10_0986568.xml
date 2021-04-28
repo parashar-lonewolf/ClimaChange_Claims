@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Miami on the Hudson</title>
+    <meta content="10SAT4$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="986568"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EEDD1739F933A25752C0A96E958260" item-length="440" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Miami on the Hudson</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial notes that the spring-like weather in New York is not entirely welcome to most New Yorkers, who prefer a seasonably cold winter (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the week began, tourists had finally retreated to tourist repositories around the world, making room in New York for the rain. Duelists in the umbrella wars faced off on sidestreets and on the narrow pavements of Lexington Avenue. Polite umbrellists remembered that an umbrella is only a large hat, easily tipped as a courtesy to other pedestrians.</p>
+        <p>Everyone overheard everyone else say, ''I'm glad the holidays are over,'' as though it were impossible to say anything else in the presence of Christmas trees lying prostrate at the curb. The spires of midtown disappeared in the fog, like shears in ramswool. Rain fell, the wind rose, and with it the temperature. The personal crocus in many New Yorkers began to stir in its soil. Only the overheated openly mourned the absence of the cold that came on New Year's Day, now so long ago.</p>
+      </block>
+      <block class="full_text">
+        <p>When the week began, tourists had finally retreated to tourist repositories around the world, making room in New York for the rain. Duelists in the umbrella wars faced off on sidestreets and on the narrow pavements of Lexington Avenue. Polite umbrellists remembered that an umbrella is only a large hat, easily tipped as a courtesy to other pedestrians.</p>
+        <p>Everyone overheard everyone else say, ''I'm glad the holidays are over,'' as though it were impossible to say anything else in the presence of Christmas trees lying prostrate at the curb. The spires of midtown disappeared in the fog, like shears in ramswool. Rain fell, the wind rose, and with it the temperature. The personal crocus in many New Yorkers began to stir in its soil. Only the overheated openly mourned the absence of the cold that came on New Year's Day, now so long ago.</p>
+        <p>But the fact is that most New Yorkers want the season to feel seasonal, for the pleasure of spring is based on the hard accomplishment of winter. The first week of January is not supposed to be a warm bath, not at this latitude, anyway. The Hockney-blue waters of the fountains on the Avenue of the Americas should make a pedestrian shiver this time of year, or dream of the Caribbean. The sky should have the bone-smooth look of winter. As it is, the city's physical being can barely keep up when the thermometer lurches drunkenly. The buildings retain heat. Apartment windows stand open while radiators hiss beneath them. Only the subway platforms respond quickly. Another week of yesterday's temperatures and it would be summer on the IRT.</p>
+        <p>El Nino, global warming, the Farmer's Almanac, the jet stream -- all the usual excuses were trotted out to normalize the anomalous weather, to explain the sprouting of lettuce and the confusion of birds. It made some New Yorkers nostalgic for a time when the weather required no explanation and was a byword, in fact, for inconstancy. Prediction is not an exact science, and this was the week that proved it. As climatologists debated the meaning and even the degree of our aberrant warmth, astronomers predicted confidently that the universe would expand forever.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

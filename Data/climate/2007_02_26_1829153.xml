@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The First International Polar Year</title>
+    <meta content="26webpolar" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/26/science/26webpolar.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1829153"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEFDE1E3EF935A15751C0A9619C8B63" item-length="606" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The First International Polar Year</hl1>
+        <hl2 class="online_headline">The First International Polar Year</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nearly a century before the first spacecraft offered humans a wide-angle view of their home planet, the first International Polar Year (1882-83) sought to look at the big picture by setting up a network of research stations all around the Arctic.</p>
+        <p>This revolutionary effort to understand the remarkable conditions at the top of the world looked at everything from the brutal weather to the magnetic fields, from the frozen ocean to the shimmering aurora borealis (the northern lights).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The first International Polar Year.</p>
+      </block>
+      <block class="full_text">
+        <p>Nearly a century before the first spacecraft offered humans a wide-angle view of their home planet, the first International Polar Year (1882-83) sought to look at the big picture by setting up a network of research stations all around the Arctic.</p>
+        <p>This revolutionary effort to understand the remarkable conditions at the top of the world looked at everything from the brutal weather to the magnetic fields, from the frozen ocean to the shimmering aurora borealis (the northern lights).</p>
+        <p>The research stations had no way to stay in touch with one another -- they collected data in isolation from the outside world month after month. But the instruments and recording methods at each station were coordinated, so that once the project was done, scientists could compile all the information and create the first snapshot of the remote region. A smaller effort was made at the other end of the planet, in areas near Antarctica.</p>
+        <p>Until that time, all of the probing in the Arctic was somewhat like a bunch of people working separately to assemble a jigsaw puzzle. Each person would collect some scattered pieces and try to fit them together. But no one shared information, and so nobody saw the big picture.</p>
+        <p>The Polar Year project grew out of the ideas of Karl Weyprecht, an Austrian explorer and physicist. After completing an expedition in the Arctic in 1874, he traveled from one scientific organization to another, urging them to create a unified research mission. He said the only way to understand Arctic patterns would be to monitor winds, snow, ice, temperature, and other conditions at many spots simultaneously and share the data.</p>
+        <p>The international push into the Arctic until then, he said, had amounted to little more than a dangerous contest. As he wrote: ''Immense sums were being spent and much hardship endured for the privilege of placing names in different languages on ice-covered promontories, but where the increase in human knowledge played a very secondary role.''</p>
+        <p>Weyprecht died the year before the project got under way, but he is now recognized as having inspired a great moment in science: the first time some portion of the earth was probed by researchers from many countries and disciplines in the pursuit of shared knowledge.</p>
+        <p>Altogether, 11 countries established 14 stations around the Arctic. The effort was filled with difficulties and danger. An American expedition sent 25 men into the Arctic to collect data -- only 6 returned. Among the survivors was the expedition leader, Adolphus Greely, and for many years afterward people hinted that his inept leadership put the few survivors in such dire straits that they survived only by eating the flesh of fallen comrades.</p>
+        <p>The data collected through this project were significant, but more important was the change the first Polar Year marked in the way scientists work. Dr. E. Fred Roots, a leading polar scientist in Canada, wrote that from that time on, science would no longer be ''an exclusive or elitist pursuit, often jealously guarded for reasons of national or institutional prestige.'' Instead, he said, ''science developed into an open activity, in which everyone qualified could take part and in which the results belonged to the whole world and the quality of the science was judged by criticisms of other knowledgeable scientists, not by patrons or clients.''</p>
+        <p>(Adapted from ''The North Pole Was Here: Puzzles and Perils at the Top of the World,'' by Andrew C. Revkin, New York Times/Kingfisher, 2006. First chapter online here, with more resources on global and Arctic climate change: www.nytimes.com/learning/globalwarming )</p>
+        <p>For a history and gallery of images of the first International Polar Year, visit http://www.arctic.noaa.gov/aro/ipy-1/index.htm</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

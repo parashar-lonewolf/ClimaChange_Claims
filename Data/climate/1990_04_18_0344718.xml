@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bush and Europeans Disagree on Warming</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="344718"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DB1F3CF93BA25757C0A966958260" item-length="43" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bush and Europeans Disagree on Warming</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: President Bush today called for more research on the issue of global warming induced by pollution, but officials from several European nations responded that research was not enough and that prompt, concrete action was needed as well.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: President Bush today called for more research on the issue of global warming induced by pollution, but officials from several European nations responded that research was not enough and that prompt, concrete action was needed as well.</p>
+        <p>President Bush today called for more research on the issue of global warming induced by pollution, but officials from several European nations responded that research was not enough and that prompt, concrete action was needed as well.</p>
+        <p>Article, page B4.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

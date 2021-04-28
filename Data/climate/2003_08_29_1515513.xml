@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why Do Polluters Get a Break?</title>
+    <meta content="LTR224640" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1515513"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <person class="indexing_service">Wurster, Charles F</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030829T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E3DA1F39F93AA1575BC0A9659C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why Do Polluters Get a Break?</hl1>
+      </hedline>
+      <abstract>
+        <p>Charles F Wurster letter contends Bush administration is violating Clean Air Act by permitting increases in pollution from power plants and other major polluters (Aug 28 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>We had better prepare for those hazy, hot and humid summer air masses to get worse.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>We had better prepare for those hazy, hot and humid summer air masses to get worse.</p>
+        <p>The Bush administration is violating the Clean Air Act by permitting increases in pollution from power plants and other major polluters (news article, Aug. 28).</p>
+        <p>The haze is made up of particulate pollutants, mainly from power plants and motor vehicles, which lower visibility, damage property and are a serious health hazard.</p>
+        <p>Slow-moving summer air masses become especially dirty.</p>
+        <p>They also are getting hotter because President Bush refuses to join the Kyoto Protocol, which would reduce carbon dioxide emissions, global warming and changes in the earth's climate.</p>
+        <p>CHARLES F. WURSTER  Setauket, N.Y., Aug. 28, 2003</p>
+        <p>The writer is emeritus professor of environmental sciences, Stony Brook University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

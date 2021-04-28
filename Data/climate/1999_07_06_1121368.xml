@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rethinking Dams</title>
+    <meta content="06TUE1" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1121368"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Rivers</classifier>
+        <classifier class="indexing_service" type="descriptor">Dams and Dikes</classifier>
+        <classifier class="indexing_service" type="descriptor">Edwards Dam (Maine)</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">Kennebec River (Maine)</location>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rivers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dams and Dikes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waterways and Other Bodies of Water</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E3D8113DF935A35754C0A96F958260" item-length="494" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rethinking Dams</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial praises destruction of Edwards Dam on Kennebec River in Maine as important moment in struggle to restore nation's rivers to good health and could inspire removal of other dams whose environmental costs now outweigh their benefits; says Clinton Administration, in deciding fate of other dams, should go where science takes it</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last week construction workers began dismantling the 24-foot-high, 917-foot-wide Edwards Dam on Maine's Kennebec River. This was an important moment in the struggle to restore the nation's rivers to good health. It marked the first time that the Federal Government had ordered the destruction of a private hydroelectric dam against the owner's wishes. It could also inspire the removal of other dams whose environmental costs now outweigh their benefits.</p>
+        <p>The decision to remove the Edwards Dam was 10 years in the making, and would not have happened without outside pressure and independent scientific studies underwritten by private groups like American Rivers and Trout Unlimited. But once the Federal Energy Regulatory Commission -- which regulates the nation's 2,300 non-Federal hydroelectric dams -- studied the facts, the decision was relatively easy. The dam generated only one-tenth of 1 percent of Maine's annual energy usage. Removing it would open up the river for recreation and give nine species of Atlantic fish access to their traditional spawning grounds.</p>
+      </block>
+      <block class="full_text">
+        <p>Last week construction workers began dismantling the 24-foot-high, 917-foot-wide Edwards Dam on Maine's Kennebec River. This was an important moment in the struggle to restore the nation's rivers to good health. It marked the first time that the Federal Government had ordered the destruction of a private hydroelectric dam against the owner's wishes. It could also inspire the removal of other dams whose environmental costs now outweigh their benefits.</p>
+        <p>The decision to remove the Edwards Dam was 10 years in the making, and would not have happened without outside pressure and independent scientific studies underwritten by private groups like American Rivers and Trout Unlimited. But once the Federal Energy Regulatory Commission -- which regulates the nation's 2,300 non-Federal hydroelectric dams -- studied the facts, the decision was relatively easy. The dam generated only one-tenth of 1 percent of Maine's annual energy usage. Removing it would open up the river for recreation and give nine species of Atlantic fish access to their traditional spawning grounds.</p>
+        <p>Hydroelectric dams do not produce any of the gases that contribute to smog or global warming. But some have outlived their usefulness, and experience suggests that nature benefits when any dam comes down. A recent study by American Rivers of 12 dam removals, all voluntarily undertaken by the owners, cites the case of California's Butte Creek, where four small dams were breached last year. Chinook salmon runs began to rise.</p>
+        <p>There should be other success stories soon. The commission has warned the owners of the Condit Dam on Washington State's White Salmon River that they may have to build elaborate fish ladders. The owners are considering removal instead. Meanwhile the utilities that own the Elwha and Glines Canyon dams, which have virtually wiped out the salmon populations on Washington State's Elwha River, have agreed to sell their dams to the Federal Government, which awaits only a Congressional appropriation before tearing them down.</p>
+        <p>This Administration has been favorably disposed to dam removal, but its biggest test lies ahead. It is under a court order to devise a plan by the end of the year to save endangered salmon runs in Washington State's Lower Snake River. Many fish biologists say the salmon will never recover unless Congress agrees to dismantle four large dams on the river. The fate of these dams, which also supply cheap power, is an emotional issue in the Pacific Northwest, and several members of the House are trying to block removal as an option. As with the Edwards Dam, the Administration should go where the science takes it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

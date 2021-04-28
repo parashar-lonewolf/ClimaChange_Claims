@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I'm Being Eaten Alive!</title>
+    <meta content="306PEE$02" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1111354"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Pesticides and Pests</classifier>
+        <classifier class="indexing_service" type="descriptor">Jewels and Jewelry</classifier>
+        <org class="indexing_service">Bugs B Wear (Co)</org>
+        <person class="indexing_service">Tien, Ellen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jewels and Jewelry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7D81630F933A05756C0A96F958260" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I'm Being Eaten Alive!</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA LEE</byline>
+      <abstract>
+        <p>Bugs B Wear introduces line of jewelry filled with insect repellent; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This season the battle against mosquitoes and other biting insects has become more sophisticated -- and stylish. Bugs B Wear of Minneapolis has a line of repellent-filled sterling silver jewelry. A frisky lemony-scented oil of lavender, citronella, lemongrass and spearmint is applied with a dropper in earrings, necklaces and, for the guys, stickpins, $27 each. Information: (877) 877-7879. ''You can take the jewelry off in the clubhouse for lunch, so you don't smell like insect repellent,'' Jill Johnson, the company's owner, said. Mosquito 'Cognito is a battery-powered citronella dispenser available from the Gardener's Supply Company catalogue for $29.95; (800) 863-1700. More militaristic additions to the arsenal include the Mosquito Killing Unit, $399.95; (877) 545-5667. It draws biting insects with heat, as does the Dragonfly, which uses carbon dioxide and a substance called octenol to lure biters. ''CO2  works like landing lights for biting insects,'' said Jim Nolen, president of Biosensory, which will sell the Dragonfly starting on Tuesday for $279, from www.biosensory.com or (860) 423-3009. Mosquito Magnet, $1,295, is a propane-fueled device that sucks bugs from the air. The American Biophysics Corporation, the machine's maker, says that in tests in the Florida Everglades, it caught 100,000 bugs a night. Available from (401) 884-3500 or www.mosquitomagnet.com.</p>
+        <p>LINDA LEE</p>
+      </block>
+      <block class="full_text">
+        <p>This season the battle against mosquitoes and other biting insects has become more sophisticated -- and stylish. Bugs B Wear of Minneapolis has a line of repellent-filled sterling silver jewelry. A frisky lemony-scented oil of lavender, citronella, lemongrass and spearmint is applied with a dropper in earrings, necklaces and, for the guys, stickpins, $27 each. Information: (877) 877-7879. ''You can take the jewelry off in the clubhouse for lunch, so you don't smell like insect repellent,'' Jill Johnson, the company's owner, said. Mosquito 'Cognito is a battery-powered citronella dispenser available from the Gardener's Supply Company catalogue for $29.95; (800) 863-1700. More militaristic additions to the arsenal include the Mosquito Killing Unit, $399.95; (877) 545-5667. It draws biting insects with heat, as does the Dragonfly, which uses carbon dioxide and a substance called octenol to lure biters. ''CO2  works like landing lights for biting insects,'' said Jim Nolen, president of Biosensory, which will sell the Dragonfly starting on Tuesday for $279, from www.biosensory.com or (860) 423-3009. Mosquito Magnet, $1,295, is a propane-fueled device that sucks bugs from the air. The American Biophysics Corporation, the machine's maker, says that in tests in the Florida Everglades, it caught 100,000 bugs a night. Available from (401) 884-3500 or www.mosquitomagnet.com.</p>
+        <p>LINDA LEE</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

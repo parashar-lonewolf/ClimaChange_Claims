@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>About That March</title>
+    <meta content="20lett-14" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1703722"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3DA1630F933A1575AC0A9639C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>About That March</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>One wonders how you could see ''March of the Penguins'' without wondering whether global warming will eventually make it impossible for penguins to find a breeding ground that doesn't melt well before the chicks are ready to swim. I'd like to see how that is explained as part of God's plan.</p>
+        <p>Catherine Fisk  Durham, N.C.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>One wonders how you could see ''March of the Penguins'' without wondering whether global warming will eventually make it impossible for penguins to find a breeding ground that doesn't melt well before the chicks are ready to swim. I'd like to see how that is explained as part of God's plan.</p>
+        <p>Catherine Fisk  Durham, N.C.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

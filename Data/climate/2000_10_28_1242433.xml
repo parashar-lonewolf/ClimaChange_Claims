@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Sharper Warning on Warming</title>
+    <meta content="28SAT1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/28/opinion/28SAT1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1242433"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Treaties</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <org class="indexing_service">Intergovernmental Panel on Climate Change</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE4D71F31F93BA15753C1A9669C8B63" item-length="479" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Sharper Warning on Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial notes that Intergovernmental Panel on Climate Change report has concluded that mankind's contribution to global warming is greater than originally believed; holds that finding should give added urgency to upcoming meeting in Hague, where most of world's nations will try to work out details of 1997 Kyoto Protocol, treaty intended to cut man-made releases of carbon dioxide and other greenhouse gases</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The international panel of climate scientists considered the most authoritative voice on global warming has now concluded that mankind's contribution to the problem is greater than originally believed. In addition, the panel warns that warming over the next 100 years could increase even more than originally estimated. Its worst-case scenario calls for a truly unnerving rise of 11 degrees Fahrenheit over 1990 temperature levels.</p>
+        <p>These findings should give added urgency to next month's meeting in The Hague, where most of the world's nations will try to work out details of the 1997 Kyoto Protocol, a treaty intended to cut man-made releases of carbon dioxide and other greenhouse gases. With any luck, the new estimates will also stir curiosity in the United States Congress, where all but a few members have adopted an ostrich-like attitude toward global warming, and the Republican leadership has shown only contempt for the Kyoto accord.</p>
+      </block>
+      <block class="full_text">
+        <p>The international panel of climate scientists considered the most authoritative voice on global warming has now concluded that mankind's contribution to the problem is greater than originally believed. In addition, the panel warns that warming over the next 100 years could increase even more than originally estimated. Its worst-case scenario calls for a truly unnerving rise of 11 degrees Fahrenheit over 1990 temperature levels.</p>
+        <p>These findings should give added urgency to next month's meeting in The Hague, where most of the world's nations will try to work out details of the 1997 Kyoto Protocol, a treaty intended to cut man-made releases of carbon dioxide and other greenhouse gases. With any luck, the new estimates will also stir curiosity in the United States Congress, where all but a few members have adopted an ostrich-like attitude toward global warming, and the Republican leadership has shown only contempt for the Kyoto accord.</p>
+        <p>The 1,000-page report, due out early next year, will be the third issued since 1990 by the Intergovernmental Panel on Climate Change, which was established by the United Nations to assess the most up-to-date research on global warming every five years. The report was written by 45 scientists and reviewed by hundreds more and by about 150 governments. A summary was funneled to several newspapers this week by scientists who were eager to circulate its key findings in advance of next month's meeting.</p>
+        <p>The earlier reports said that man-made emissions from the burning of fossil fuels like coal and oil had probably contributed to the gradual warming of the earth's atmosphere during the 20th century. But the summary of the latest report asserts more confidently that man-made gases have ''contributed substantially to the observed warming over the last 50 years.'' It also raises the worst-case estimate for a temperature rise by the year 2100, from 6.3 degrees to 11 degrees.</p>
+        <p>Unfortunately, Congress has blindly refused to address the issue. Indeed the only real progress has come from the private sector. In the last year, Ford, DaimlerChrysler, Dow Chemical, I.B.M. and Johnson &amp; Johnson have pledged to make big cuts in the greenhouse gases they produce. Recently DuPont, Shell, BP and four other multinational companies joined with Environmental Defense, a private environmental group, in a voluntary plan to reduce the wasteful use of energy and produce cleaner products. The companies hope that by reducing emissions now, they will get credit later on if and when the Kyoto Protocol is ratified and Washington embarks on a nationwide program of reducing emissions. But there will be no such program without the consent of Congress, which persists in a policy of reckless inaction.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

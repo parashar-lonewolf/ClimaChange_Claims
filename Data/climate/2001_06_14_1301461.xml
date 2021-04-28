@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What You Can't See, Seen</title>
+    <meta content="14GFLO$01" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1301461"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Microscopes</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">University of Hawaii</org>
+        <person class="indexing_service">Freierman, Shelly</person>
+        <person class="indexing_service">Carvalho, Tina M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Microscopes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Laboratories and Scientific Equipment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E5D81E3EF937A25755C0A9679C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What You Can't See, Seen</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+      <byline class="normalized_byline">Freierman, Shelly</byline>
+      <abstract>
+        <p>Tina M Carvalho of University of Hawaii maintains Web site with collection of electron microscope photographic images; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you like to ponder questions on the scale of how many Web sites can fit on the head of a pin, there is a fine collection of electron microscope images to examine at MicroAngela, an online collection (www.pbrc.hawaii  .edu/bemf/microangela). The Web site is maintained by Tina M. Carvalho, the supervisor at the Biological Electron Microscope Facility at the University of Hawaii in Manoa.</p>
+      </block>
+      <block class="full_text">
+        <p>If you like to ponder questions on the scale of how many Web sites can fit on the head of a pin, there is a fine collection of electron microscope images to examine at MicroAngela, an online collection (www.pbrc.hawaii  .edu/bemf/microangela). The Web site is maintained by Tina M. Carvalho, the supervisor at the Biological Electron Microscope Facility at the University of Hawaii in Manoa.</p>
+        <p>She has taken the images of tiny bugs, bacteria, mold, parasites and grains of sand, and colored them.</p>
+        <p>There is a description for each of the objects, which were collected from captured insects; from samples of ocean life, like tubeworms and coral; and even from mold growing on some Romano cheese in Ms. Carvalho's refrigerator.</p>
+        <p>SHELLY FREIERMAN</p>
+        <p>Browser  A selection of events and sites on the Web.</p>
+        <p>Events</p>
+        <p>TODAY, 8:30 a.m.  www.historychannel.com  A three-hour Webcast, which will be repeated during the day, of the awards ceremony of the National History Day competition for students in grades six through twelve.</p>
+        <p>TOMORROW, 1 p.m.  www.foodandwine.com  Charlie Trotter, of Charlie Trotter's restaurant in Chicago, will take part in the first of seven chats with chefs participating in the Aspen Classic, a conference sponsored by Food and Wine magazine.</p>
+        <p>MONDAY, 9 p.m.  chat.msn.com  A chat with Luther Vandross, the R &amp; B singer, about his new recording, ''Luther Vandross.''</p>
+        <p>Sites</p>
+        <p>www.themeparkinsider.com  A site for theme park fanatics; news, surveys, parks, roller coasters and water rides, and links to attractions in the United States and abroad.</p>
+        <p>www.crest.org  A site devoted to renewable energy, including solar, wind and geothermal sources, with news and tips on conservation.</p>
+        <p>www-stu.pem.cam.ac.uk/pooh  A site, started at Cambridge University in England, all about Winnie the Pooh and other A. A. Milne works. If you are in Cambridge, you can join the club for a meeting and tea and cakes.</p>
+        <p>www.wunderground.com  Weather Underground, a site with maps for wind chill, which most people won't need for the next three months, and for heat index, humidity and a U.V. forecast, which they will.</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

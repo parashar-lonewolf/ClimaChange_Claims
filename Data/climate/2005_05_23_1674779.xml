@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Cost of Nuclear Power</title>
+    <meta content="L23IND$01" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1674779"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EED61539F930A15756C0A9639C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Cost of Nuclear Power</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re '''No Nukes,' No More,'' by John Tierney (column, May 17):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re '''No Nukes,' No More,'' by John Tierney (column, May 17):</p>
+        <p>The only sector that reaps economic benefits from nuclear power is the nuclear industry. Entergy, the owner-operator of the Indian Point nuclear plant, 24 miles north of New York City, hauls in more than $10 billion in annual revenue.</p>
+        <p>Over the last 50 years, some $145 billion in federal research and development subsidies has gone to the nuclear industry; only $5 billion has gone to renewable energy sources.</p>
+        <p>Meanwhile, a substantial portion of the costs of operating a nuclear plant are imposed on communities. Indian Point kills over a billion Hudson River fish, eggs and larvae annually; local taxpayers cover most of the emergency planning costs.</p>
+        <p>Entergy recently went on record opposing backup power to emergency sirens, yet it seems to have ample funds for advertising campaigns designed to lull the public into a false sense of security. Providing increased safety and prosperity for American families is patriotic. Providing more welfare checks to the nuclear industry is not.</p>
+        <p>Lisa Rainwater van Suntum  Indian Point Campaign Director  Riverkeeper  Garrison, N.Y., May 17, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

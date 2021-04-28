@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="17corrections-9" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1833555"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light Bulbs</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">United States Climate Action Partnership</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light Bulbs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070317T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE1D71F31F934A25750C0A9619C8B63" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>March 14 article about coalition that is trying to eliminate incandescent light bulb misstated name of group that cooperates on global warming issues; it is US Climate Action Partnership</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day on Wednesday about a coalition of industrialists, environmentalists and energy specialists who are trying to eliminate the incandescent light bulb misstated the name of a business-environmental group that cooperates on global warming issues. It is the United States Climate Action Partnership, not the United States Carbon Action Program.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day on Wednesday about a coalition of industrialists, environmentalists and energy specialists who are trying to eliminate the incandescent light bulb misstated the name of a business-environmental group that cooperates on global warming issues. It is the United States Climate Action Partnership, not the United States Carbon Action Program.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="20OBSE$04" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1124702"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE7D8113FF933A15754C0A96F958260" item-length="669" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Remaking a Mirror</p>
+        <p>To create the reflective surface of a telescope mirror, a standard technique calls for depositing a thin -- very, very thin -- coating of aluminum on the glass. This is done by putting the mirror inside a vacuum chamber and heating up tungsten filaments that have aluminum soldered to them. As the aluminum vaporizes, there are few air molecules in the chamber to impede the aluminum from forming a uniform coat.</p>
+      </block>
+      <block class="full_text">
+        <p>Remaking a Mirror</p>
+        <p>To create the reflective surface of a telescope mirror, a standard technique calls for depositing a thin -- very, very thin -- coating of aluminum on the glass. This is done by putting the mirror inside a vacuum chamber and heating up tungsten filaments that have aluminum soldered to them. As the aluminum vaporizes, there are few air molecules in the chamber to impede the aluminum from forming a uniform coat.</p>
+        <p>Of course, with a very large mirror, a very large vacuum chamber is required. When most large telescopes need re-aluminizing, the mirror and its supporting framework are removed to a nearby chamber constructed for the purpose.</p>
+        <p>At the Multiple Mirror Telescope Observatory on Mount Hopkins in Arizona, which is operated by the University of Arizona and the Smithsonian Institution, engineers and astronomers rebuilding a large telescope did not have that option.</p>
+        <p>There was not enough room on the mountaintop for a vacuum chamber; the telescope's new 21-foot mirror had to be aluminized on its mount.</p>
+        <p>The aluminizing process took place in a few minutes last week, and the results are disappointing.</p>
+        <p>While it is hardly as bad as a fun-house mirror, the surface is unacceptably lumpy.</p>
+        <p>The vacuum chamber was not as high as those normally used for large mirrors, so the tungsten filaments were far closer to the glass than is usually the case.</p>
+        <p>Observatory officials do not know whether this was a problem. But they speculated that some tungsten might have vaporized along with the aluminum, producing the unevenness.</p>
+        <p>Planning a Huge Fire</p>
+        <p>A group of scientists in Alaska have had better luck with their project. In an experiment coordinated by the United States Forest Service and the University of Alaska, researchers earlier this month ignited a controlled 2,000-acre forest fire about 25 miles northeast of Fairbanks.</p>
+        <p>The fire, the first experimental one in terrain that is dominated by permafrost, is being studied by about 60 scientists from around the world researching such subjects as fire behavior and the effect of northern-latitude fires on climate change.</p>
+        <p>The fire site, watershed land owned by the university and the state, included stands of spruce, birch and aspen. Needless to say, the experimenters took precautions to prevent the fire from spreading. By last week, the fire had burned itself out enough that scientists were being let back in to the site.</p>
+        <p>So what's the tab for a 2,000-acre blaze? About $115 an acre, when all costs are factored in.</p>
+        <p>Charting Coral's Demise</p>
+        <p>Coral reefs are like racehorses; they don't handle stress very well. And one of the major causes of stress for coral is elevated water temperatures. Warmer water conditions that last for a couple of months (and, research suggests, longer-lasting patterns caused by global warming) can cause the phenomenon known as coral bleaching. This occurs when the symbiotic algae that live within the coral are expelled, leaving the white of the coral shells as the dominant color.</p>
+        <p>Scientists from the University of Georgia have studied why bleaching happens and have found that it isn't so much the coral's problem as it is the algae's.</p>
+        <p>The researchers studied reefs in the Caribbean during a warming period in 1997, isolating algae and using a technique called pulse-amplitude modulation fluorometry to determine how efficiently the algae were conducting photosynthesis. Their work, reported in a recent issue of The Proceedings of the National Academy of Sciences, showed that as water temperatures rose, a protein that is a key element of photosynthesis became irreversibly damaged.</p>
+        <p>It is the algae that suffer at first from a warming trend. The coral can't take having stressed-out algae around anymore.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

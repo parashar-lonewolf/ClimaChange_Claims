@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SEEKING A SWEETER CITRUS JUICE</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Living Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Home and Garden" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="28289"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CITRUS FRUITS</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <classifier class="indexing_service" type="descriptor">JUICES</classifier>
+        <org class="indexing_service">FOOD AND DRUG ADMINISTRATION (FDA)</org>
+        <org class="indexing_service">AGRICULTURE, DEPARTMENT OF (US)</org>
+        <org class="indexing_service">CALIFORNIA CITRUS PRODUCERS</org>
+        <person class="indexing_service">HASEGAWA, SHIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="general_descriptor">Citrus Fruits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Juices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fruit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DC123CF93BA35757C0A961948260" item-length="385" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SEEKING A SWEETER CITRUS JUICE</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>FRESNO, Calif., April 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: First scientists take the caffeine out of coffee and colas. They take the fat out of potato chips. Now they are looking at limonin.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: First scientists take the caffeine out of coffee and colas. They take the fat out of potato chips. Now they are looking at limonin.</p>
+        <p>First scientists take the caffeine out of coffee and colas. They take the fat out of potato chips. Now they are looking at limonin.</p>
+        <p>Limonin gives oranges and grapefruits their tartness, but also makes their juice bitter. ''The technology is still years away from getting approved for the market, but the light is finally at the end of the research tunnel,'' said Dale Genung, technical director for Sunkist Growers, the huge citrus cooperative in California and Arizona.</p>
+        <p>Because navel oranges from California become bitter when they are squeezed to make juice and frozen concentrate, the Valencia oranges grown in Florida dominate the juice industry. Western growers say they think a sweeter navel orange would allow them to compete better.</p>
+        <p>''If we can find a way to make our orange juice sweeter, our company alone can probably make another $500,000 a year,'' said Dan Kimball, director of quality control and research and development at California Citrus Producers Inc., a leading researcher and producer in the San Joaquin Valley.</p>
+        <p>A biochemist for the Agriculture Department, Shin Hasegawa, will conduct tests of his debittering process at an orchard of California Citrus Producers this spring. He discovered that synthetic versions of auxins - a family of natural plant hormones - prevent formation of up to 95 percent of limonin and other bitter chemicals when applied to citrus seedlings. The tests will determine whether the same effect can be achieved by spraying the hormones on adult fruit.</p>
+        <p>Mr. Hasegawa predicted that removing the bad taste could mean up to $8 million a year in added revenue for California growers and would reduce consumer prices if the navel orange could compete with Valencias as a source of juice.</p>
+        <p>For two and a half years, Mr. Kimball's company has tried its own debittering experiments using high-pressure carbon dioxide to remove limonin. In the process, temperature and pressure of the carbon dioxide are greatly increased, causing the chemical extraction. The method is being used in Europe to decaffeinate coffee and cola, and in Australia for hop extraction.</p>
+        <p>Mr. Genung said Sunkist has been trying for years to find a workable debittering method. But the process is still years away because it must first be approved by the Food and Drug Administration.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Weather Satellites Can Be Better Used</title>
+    <meta content="01FORE$03" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/04/01/science/space/01FORE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1477098"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <org class="indexing_service">National Oceanic and Atmospheric Administration</org>
+        <org class="indexing_service">National Research Council</org>
+        <person class="indexing_service">Leary, Warren E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E2DD1339F932A35757C0A9659C8B63" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Weather Satellites Can Be Better Used</hl1>
+        <hl2 class="online_headline">Weather Satellites Can Be Better Used</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY</byline>
+      <byline class="normalized_byline">Leary, Warren E</byline>
+      <dateline>WASHINGTON, March 31</dateline>
+      <abstract>
+        <p>National Research Council publishes report recommending combined effort between NASA and National Oceanic and Atmospheric Administration to improve weather prediction capabilities; currently experimental satellites and weather satellites function independent of each other; panel notes weather effects 40% of nation's $10 trillon economy each year (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Weather satellites could be even more effective forecasting and charting climate change if the agencies that run them keep up with the latest technology, an expert panel has reported.</p>
+        <p>Too often, the panel said, no efficient pathway exists to move sensors from experimental satellites to operating weather satellites. In addition, the panel said, information from research satellites often has no way to reach people working on practical weather and climate prediction.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Weather satellites could be more effective forecasting climate change if the agencies that run them keep up with the latest technology.</p>
+      </block>
+      <block class="full_text">
+        <p>Weather satellites could be even more effective forecasting and charting climate change if the agencies that run them keep up with the latest technology, an expert panel has reported.</p>
+        <p>Too often, the panel said, no efficient pathway exists to move sensors from experimental satellites to operating weather satellites. In addition, the panel said, information from research satellites often has no way to reach people working on practical weather and climate prediction.</p>
+        <p>The report was issued by the National Research Council, an arm of the National Academy of Sciences.</p>
+        <p>Although great advances in forecasting and understanding climate have been made since the first weather satellite was launched in 1960, practical applications have not been realized, the study said.</p>
+        <p>Benefits of better prediction could be huge, the panel said, noting that up to 40 percent of the nation's $10 trillion economy is affected by weather and climate each year.</p>
+        <p>The National Aeronautics and Space Administration is largely responsible for developing technology and methods for earth observation, the council said. The National Oceanic and Atmospheric Administration uses the work to build and operate weather satellites.</p>
+        <p>The panel recommended that the two agencies set up a joint office to evaluate proposals for earth science missions and plan to put the results to practical use as soon as possible.</p>
+        <p>A NASA administrator, Dr. Ghassem Asrar, said, ''We agree with the N.R.C.'s emphasis on better communication.''</p>
+        <p>The Aqua satellite is one project that was successfully planned to serve both basic and applied science needs, a panel member, Dr. Paul D. Try, said in an interview.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

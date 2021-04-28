@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHARLES MURRAY</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="726625"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <classifier class="indexing_service" type="descriptor">SOCIAL CONDITIONS AND TRENDS</classifier>
+        <person class="indexing_service">DEPARLE, JASON</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E4DE1131F933A15752C1A962958260" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHARLES MURRAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I guess the upside for those of us on the lower end of Charles Murray's I.Q. ladder is that we don't have to take responsibility for -- oh, let's see: acid rain, radioactive waste, smog, ozone depletion, World Wars I and II, the atom bomb, germ warfare, water pollution, the Exxon Valdez, slavery, genocide, mercury in fish, the cold war, apartheid, the Vietnam War, Agent Orange, etc. etc.</p>
+      </block>
+      <block class="full_text">
+        <p>I guess the upside for those of us on the lower end of Charles Murray's I.Q. ladder is that we don't have to take responsibility for -- oh, let's see: acid rain, radioactive waste, smog, ozone depletion, World Wars I and II, the atom bomb, germ warfare, water pollution, the Exxon Valdez, slavery, genocide, mercury in fish, the cold war, apartheid, the Vietnam War, Agent Orange, etc. etc.</p>
+        <p>Heaven only knows how long it would have taken us to accomplish those feats of intelligence. JESSE JUNIOR Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

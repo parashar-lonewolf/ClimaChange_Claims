@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A (White) House Party for Lobbyists</title>
+    <meta content="09THU2$01" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/06/09/opinion/09thu2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1678833"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">White House Council on Environmental Quality</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Cooney, Philip</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Environmental Protection Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E3DB1038F93AA35755C0A9639C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A (White) House Party for Lobbyists</hl1>
+        <hl2 class="online_headline">A (White) House Party for Lobbyists</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial on charge that Philip Cooney, chief of staff of White House Council on Environmental Quality and former gas industry lobbyist, has sanitized government reports in effort to cast doubt on link between climate change and emissions caused by burning fossil fuels; cites this as evidence of industry's influence on environmental issues in Bush administration</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush moved quickly after the 2000 election to fill many of the important environmental and energy jobs with corporate lobbyists who had spent their careers trying to weaken the laws they would then swear to protect. Most were vetted by Karl Rove and Dick Cheney. The result has been an erosion of the regulatory framework protecting the country's air, water, public lands and wildlife, combined with a chronic unwillingness by the administration to address difficult environmental issues.</p>
+        <p>Anyone needing evidence of industry's influence need look no further than Andrew C. Revkin's article in Wednesday's Times involving the handiwork of one Philip Cooney, an important but heretofore obscure official who serves as chief of staff of the White House Council on Environmental Quality.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It's sad to think of a White House run by people who believe that environmental problems can be edited out of existence.</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush moved quickly after the 2000 election to fill many of the important environmental and energy jobs with corporate lobbyists who had spent their careers trying to weaken the laws they would then swear to protect. Most were vetted by Karl Rove and Dick Cheney. The result has been an erosion of the regulatory framework protecting the country's air, water, public lands and wildlife, combined with a chronic unwillingness by the administration to address difficult environmental issues.</p>
+        <p>Anyone needing evidence of industry's influence need look no further than Andrew C. Revkin's article in Wednesday's Times involving the handiwork of one Philip Cooney, an important but heretofore obscure official who serves as chief of staff of the White House Council on Environmental Quality.</p>
+        <p>Mr. Cooney spent his immediate pre-White House years as a lawyer at the American Petroleum Institute, where he helped organize the oil industry's fight against limits on greenhouse gas emissions from factories and automobiles. Mr. Revkin reported that Mr. Cooney had been fighting the same fight in his new job by sanitizing government reports in an effort to cast doubt on the link -- a link accepted by mainstream scientists -- between climate change and the emissions caused by burning fossil fuels.</p>
+        <p>Creating uncertainty about that connection, of course, reduces the chances that anything meaningful will be done to clamp down on those emissions and thus to discomfit Mr. Bush's corporate allies.</p>
+        <p>This is hardly the first time this administration has tinkered with the truth. In 2002 and 2003, about the same time Mr. Cooney was deploying his literary skills, the White House censored two Environmental Protection Agency reports that linked warming to industrial activity.</p>
+        <p>It's sad to think of a White House run by people who believe that a problem can be edited out of existence.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

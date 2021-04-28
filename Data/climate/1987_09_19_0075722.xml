@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Hole at the Bottom of the World</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="75722"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <org class="indexing_service">STATE, DEPARTMENT OF</org>
+        <classifier class="online_producer" type="types_of_material">EDITORIAL</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DC1130F93AA2575AC0A961948260" item-length="464" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Hole at the Bottom of the World</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: High in the atmosphere, a frail, invisible layer of ozone screens out damaging ultraviolet rays from the sun. Without it, life on earth would be devastated. Yet governments for years have ridiculed the fear, first voiced by two scientists in 1974, that the ozone shield was being eroded by industrial chemicals called chlorofluorocarbons, or CFC's.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: High in the atmosphere, a frail, invisible layer of ozone screens out damaging ultraviolet rays from the sun. Without it, life on earth would be devastated. Yet governments for years have ridiculed the fear, first voiced by two scientists in 1974, that the ozone shield was being eroded by industrial chemicals called chlorofluorocarbons, or CFC's.</p>
+        <p>High in the atmosphere, a frail, invisible layer of ozone screens out damaging ultraviolet rays from the sun. Without it, life on earth would be devastated. Yet governments for years have ridiculed the fear, first voiced by two scientists in 1974, that the ozone shield was being eroded by industrial chemicals called chlorofluorocarbons, or CFC's. A remarkable reversal of attitude occurred this week in Montreal.</p>
+        <p>Some 40 countries have agreed on a plan to freeze the present use of CFC's and then to halve consumption by 1999. This giant step toward protecting the ozone layer would help avert a projected 130 million extra cases of skin cancer over the next century. It will require development of substitutes and major changes in a $2 billion industry that produces CFC's for refrigerants, solvents and plastics.</p>
+        <p>Such changes are not easily agreed on, especially for the sake of far-off dangers that skeptics can pooh-pooh as conjectural. The Environmental Protection Agency banned the use of CFC's in aerosol propellants in 1978, but European countries failed to follow suit, deriding the ozone hypothesis as an ill-founded panic.</p>
+        <p>What changed opinion was the discovery in 1985 of a continent-sized ozone hole over the Antarctic. This 40 percent depletion of the ozone shield occurs every September and October. Though the cause is still uncertain - other factors may contribute -the hole's sudden and frightening appearance made it seem foolish to take a chance with CFC's. If the world's ozone were to be depleted that much, the flux of ultraviolet rays would become deadly. ''Looking at the ozone hole is like staring at a picture where you watch the future of the human race go down a big black hole,'' says Michael Oppenheimer of the Environmental Defense Fund.</p>
+        <p>The hole aside, the ozone shield worldwide is projected to erode by 6 percent from continued CFC production by the year 2025. That would result in an 18 percent increase in ultraviolet rays. The reductions agreed on at Montreal will cut the expected erosion to 1 percent, maybe more depending on how fast CFC substitutes take over.</p>
+        <p>The agreement, yet to be ratified, came about through American leadership, particularly by the Environmental Protection Agency and the State Department. These agencies fended off ludicrous proposals by senior Administration officials that it would be better to let people rely on more sunglasses and suntan oil than to restrict the CFC industry. Groups like the Environmental Defense Fund, the Natural Resources Defense Council and the World Resources Institute helped their European counterparts to change the recalcitrant attitude of their governments. Under the threat of the ozone hole, the countries meeting in Montreal have been frightened into salutary action.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

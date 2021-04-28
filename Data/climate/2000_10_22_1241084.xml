@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Getting Gases Down</title>
+    <meta content="MB234757" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241084"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="OCTOBER 15-21"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E0D91F3EF931A15753C1A9669C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Getting Gases Down</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew C. Revkin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seven large manufacturing and energy companies joined a growing list of businesses pursuing sharp -- and voluntary -- cuts in their emissions of heat-trapping greenhouse gases. As a group, the companies, which included  DuPont, Shell, and Alcan Aluminium, agreed to reduce emissions by about 90 million tons a year by 2010, which would put them 15 percent below their  combined annual output a decade ago.</p>
+      </block>
+      <block class="full_text">
+        <p>Seven large manufacturing and energy companies joined a growing list of businesses pursuing sharp -- and voluntary -- cuts in their emissions of heat-trapping greenhouse gases. As a group, the companies, which included  DuPont, Shell, and Alcan Aluminium, agreed to reduce emissions by about 90 million tons a year by 2010, which would put them 15 percent below their  combined annual output a decade ago.</p>
+        <p>They made the decision because they concluded that mandatory cuts in emissions were coming eventually, and they would gain competitive advantages by acting now.</p>
+        <p>Andrew C. Revkin</p>
+        <p>OCTOBER 15-21</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

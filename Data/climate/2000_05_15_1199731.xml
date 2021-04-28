@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ford Motor's Environmental Candor</title>
+    <meta content="15MON4" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199731"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <org class="indexing_service">Ford Motor Co</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000515T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFDF103BF936A25756C0A9669C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ford Motor's Environmental Candor</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial praises Ford Motor Company for issuing 'surprisingly honest assessment' of environmental and safety hazards of sport utility vehicles, one of its most profitable products (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Ford Motor Company offered a surprisingly honest assessment last week of the environmental and safety hazards of sport utility vehicles, one of the company's most profitable products. The assessment, in the company's ''corporate citizenship report'' to shareholders, may herald an era of heightened environmental consciousness at the industrial giant in response to consumer demands for safer, more socially responsible vehicles.</p>
+        <p>S.U.V.'s, minivans and pickup trucks are allowed under current federal law to emit substantially more smog-creating tailpipe gases than cars. This loophole in the law threatens to destroy gains in air quality because these big vehicles now make up nearly half of all new vehicle purchases. They are less fuel efficient than cars, and therefore generate more greenhouse gases. They also pose special dangers for passengers in other cars during crashes because of their size and design.</p>
+      </block>
+      <block class="full_text">
+        <p>The Ford Motor Company offered a surprisingly honest assessment last week of the environmental and safety hazards of sport utility vehicles, one of the company's most profitable products. The assessment, in the company's ''corporate citizenship report'' to shareholders, may herald an era of heightened environmental consciousness at the industrial giant in response to consumer demands for safer, more socially responsible vehicles.</p>
+        <p>S.U.V.'s, minivans and pickup trucks are allowed under current federal law to emit substantially more smog-creating tailpipe gases than cars. This loophole in the law threatens to destroy gains in air quality because these big vehicles now make up nearly half of all new vehicle purchases. They are less fuel efficient than cars, and therefore generate more greenhouse gases. They also pose special dangers for passengers in other cars during crashes because of their size and design.</p>
+        <p>Ford will not stop selling S.U.V.'s., but it has made some improvements in them. It now voluntarily makes all of its S.U.V.'s, minivans and pickups far cleaner in standard tailpipe emissions than required by federal law. Last December, the company pulled out of the Global Climate Coalition, a group of heavy-industry companies that lobbies against restrictions on emissions of gases connected to global warming. It recently announced that it will introduce a smaller, more efficient S.U.V. with a hybrid gasoline-electric engine in 2003.</p>
+        <p>Many observers say that Ford's actions are driven by its chairman, William C. Ford Jr., who has been involved in environmental causes. But Mr. Ford is also a businessman. He says in an interview in the report: ''Not so long ago, cars and trucks were things to aspire to. But very recently there's been a change. Now the whole notion of social liability has crept in. So people still love their car, but hate everybody else's. That's a dangerous trend.''</p>
+        <p>As a result, Mr. Ford appears eager to make cars that are more socially acceptable. Consumers are beginning to consider the environmental reputation of S.U.V.'s, and automakers will have to compete on that basis.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

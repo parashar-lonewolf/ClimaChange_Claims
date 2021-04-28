@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Congress Stalls On Global Warming</title>
+    <meta content="LTR232404" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1130095"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Herbert, Bob</person>
+        <person class="indexing_service">Ballentine, Roger S</person>
+        <person class="indexing_service">Gore, Al (Vice Pres)</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990812T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE3DF1439F931A2575BC0A96F958260" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Congress Stalls On Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Roger S Ballentine, deputy assistant to President and White House climate change director, commenting on Bob Herbert's August 5 and 8 Op-Ed columns on dangers of global warming, blames Congress for failure to act on 'commonsense programs' proposed by Pres Clinton and Vice Pres Al Gore to help reduce likelihood of catastrophic global climate changes (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re Bob Herbert's Aug. 5 and 8 columns on the dangers of global warming:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re Bob Herbert's Aug. 5 and 8 columns on the dangers of global warming:</p>
+        <p>Since 1993, President Clinton and Vice President Al Gore have proposed and put in place a series of common-sense programs -- like research on clean and efficient energy technologies and partnerships with industry -- to help reduce the likelihood of catastrophic global climate changes.</p>
+        <p>Unfortunately, Congress has not shown the same leadership. For example, this year Congress has failed to enact important tax credits, like those for consumers who buy energy-efficient houses and cars, or for energy produced from renewable resources. Most disturbing, Congressional Republicans have attached riders to pending appropriations bills with the intent of forestalling almost any progress in fighting the threats that global warming presents.</p>
+        <p>ROGER S. BALLENTINE  Washington, Aug. 11, 1999</p>
+        <p>The writer is deputy assistant to the President and White House climate change director.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

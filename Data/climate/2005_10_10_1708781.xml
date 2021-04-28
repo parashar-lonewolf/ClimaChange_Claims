@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TV From The Times</title>
+    <meta content="10tvbox" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/10/10/arts/television/10tvbox.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1708781"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <object.title class="indexing_service">New York Times Reporting: Arctic Rush (Tv Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <org class="online_producer">New York Times</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE6D61F30F933A25753C1A9639C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TV From The Times</hl1>
+        <hl2 class="online_headline">TV From The Times</hl2>
+      </hedline>
+      <abstract>
+        <p>Discovery Times Channel will air documentary New York Times Reporting: Arctic Rush (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEW YORK TIMES REPORTING: ARCTIC RUSH  Discovery Times Channel, tonight at 10</p>
+        <p>As scientists predict an iceless Arctic Ocean, at least in summer, within this century, countries and companies are girding for the advent of potential new shipping routes, oil and gas exploration and even disputes over national borders. And the people who live in the Arctic fear their livelihoods and traditions will disappear with the ice. Four reporters from The New York Times and a television team from The Times produced this one-hour documentary exploring the boons and perils of climate change in some of the world's coldest places.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Four reporters and a television team from The Times produced this documentary exploring the perils of climate change in some of the world's coldest places.</p>
+      </block>
+      <block class="full_text">
+        <p>NEW YORK TIMES REPORTING: ARCTIC RUSH  Discovery Times Channel, tonight at 10</p>
+        <p>As scientists predict an iceless Arctic Ocean, at least in summer, within this century, countries and companies are girding for the advent of potential new shipping routes, oil and gas exploration and even disputes over national borders. And the people who live in the Arctic fear their livelihoods and traditions will disappear with the ice. Four reporters from The New York Times and a television team from The Times produced this one-hour documentary exploring the boons and perils of climate change in some of the world's coldest places.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

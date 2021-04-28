@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Change Debate</title>
+    <meta content="L17CLI$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1657671"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">Pacific Institute for Studies in Development (Etc)</org>
+        <person class="indexing_service">Gleick, Peter H</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050317T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE6D7133CF934A25750C0A9639C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Change Debate</hl1>
+      </hedline>
+      <abstract>
+        <p>Pacific Institute President Peter H Gleick letter, in response to Mar 16 article on climate change, says most climate scientists are no longer studying causation of climate changem, and are now studying ways to understand and reduce consequences</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>James L. Connaughton, head of the United States Council on Environmental Quality, was quoted in ''Climate Change Is Called Economic Threat at Talks'' (news article, March 16) as saying, ''We are still working on the issue of causation, the extent to which humans are a factor'' in global climate change. This misrepresents the strong scientific consensus that humans are already causing climate change.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>James L. Connaughton, head of the United States Council on Environmental Quality, was quoted in ''Climate Change Is Called Economic Threat at Talks'' (news article, March 16) as saying, ''We are still working on the issue of causation, the extent to which humans are a factor'' in global climate change. This misrepresents the strong scientific consensus that humans are already causing climate change.</p>
+        <p>Most of us in the climate field are no longer working on causation, but on understanding and reducing the worst economic, social and environmental consequences of what now appears to be unavoidable and severe climatic change.</p>
+        <p>Peter H. Gleick  President, Pacific Institute  Oakland, Calif., March 16, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

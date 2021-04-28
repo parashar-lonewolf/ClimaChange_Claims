@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Styro-Wars'</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="78486"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="WASHINGTON TALK: BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTAINERS AND PACKAGING</classifier>
+        <org class="indexing_service">FRIENDS OF THE EARTH</org>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Containers and Packaging</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D9123DF93AA1575AC0A961948260" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Styro-Wars'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The environmental group Friends of the Earth is trying to spread the word on the chlorofluorocarbon, the chemical compound that appears to be damaging the world's ozone layer.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The environmental group Friends of the Earth is trying to spread the word on the chlorofluorocarbon, the chemical compound that appears to be damaging the world's ozone layer.</p>
+        <p>The environmental group Friends of the Earth is trying to spread the word on the chlorofluorocarbon, the chemical compound that appears to be damaging the world's ozone layer.</p>
+        <p>The group has named its campaign against the use of these substances in consumer products ''Styro-Wars,'' or ''Stratospheric Defense Initiative.''</p>
+        <p>Much has been written and said about the effects of these substances, so much, in fact, that the United States has not allowed the use of them in aerosol sprays since the late 1970's.</p>
+        <p>What is less well known is that chlorofluorocarbons are also used extensively as the coolant in refrigerators and air-conditioners and in the manufacture of such ubiquitous foam products as mattresses, cushions, Styrofoam ice chests, coffee cups and those little foam containers they put hamburgers in at the fast food places.</p>
+        <p>Friends of the Earth reports that, after negotiations, most of the big chains, Wendy's, Burger King, Kentucky Fried Chicken and McDonald's, have agreed to phase out the use of foam products to serve food and drink.</p>
+        <p>WASHINGTON TALK: BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

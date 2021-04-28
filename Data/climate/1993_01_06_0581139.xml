@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Maybe a Cheaper Way to Scrub Smoke</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="581139"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION CONTROL DEVICES</classifier>
+        <org class="indexing_service">TENNESSEE VALLEY AUTHORITY AND PROJECT (TVA)</org>
+        <org class="indexing_service">AIRPOL INC</org>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D7103EF935A35752C0A965958260" item-length="355" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Maybe a Cheaper Way to Scrub Smoke</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Acid scrubbers on coal plants are effective but expensive. They typically need big vessels made of special expensive steel, because ordinary steel would be eaten away by the captured acid. And it costs money to dispose of the resulting liquid wastes, too.</p>
+        <p>But the Tennessee Valley Authority believes that a system it is testing at its Shawnee plant, near Paducah, Ky., will cut the cost of acid scrubbers by at least 25 percent. The technique, called gas suspension absorption, was developed by Airpol Inc. of Teterboro, N.J., and subsidized by the Energy Department's Clean Coal Technology program.</p>
+      </block>
+      <block class="full_text">
+        <p>Acid scrubbers on coal plants are effective but expensive. They typically need big vessels made of special expensive steel, because ordinary steel would be eaten away by the captured acid. And it costs money to dispose of the resulting liquid wastes, too.</p>
+        <p>But the Tennessee Valley Authority believes that a system it is testing at its Shawnee plant, near Paducah, Ky., will cut the cost of acid scrubbers by at least 25 percent. The technique, called gas suspension absorption, was developed by Airpol Inc. of Teterboro, N.J., and subsidized by the Energy Department's Clean Coal Technology program.</p>
+        <p>The technology is intended for use by personnel with no background in scrubbers or chemistry; the main variables -- temperature and pressure-- are already familiar to them.</p>
+        <p>In the system, lime is sprayed into the bottom of a reactor vessel, through which the exhaust from a power plant's boiler is routed. Lime is commonly used in other types of scrubbers, but in this system it is ground into fine particles and suspended in the exhaust gases, to create a huge surface to which the sulfur, the source of acid rain, binds. That neutralizes the acid, which in turn allows the use of a small vessel made of ordinary steel.</p>
+        <p>From the vessel, the exhaust goes to a cyclone, which spins the gases so that solids are thrown to the edges, where they are collected. The gas next goes to an electrostatic precipitator, which removes more solids.</p>
+        <p>Both the cyclone and the precipitator are common pollution-control devices. But in this system, some of the particles captured by the cyclone are sent through the reactor vessel a second time, where they pick up another layer of lime, creating a surface for further reactions in which more sulfur is absorbed.</p>
+        <p>One point of the $7.7 million test is to determine the level of lime consumption, a key factor in operating costs. Engineers think it will be lower than in other systems because the lime spreads in a very thin coating.</p>
+        <p>Another question is how well the system absorbs toxic materials from the smoke; the designers think it will do better than conventional scrubbers.</p>
+        <p>BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

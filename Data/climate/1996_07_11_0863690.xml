@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Oil Dependency</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="863690"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <classifier class="indexing_service" type="descriptor">POLITICS AND GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">CONSERVATION OF RESOURCES</classifier>
+        <classifier class="indexing_service" type="descriptor">BOMBS AND BOMB PLOTS</classifier>
+        <classifier class="indexing_service" type="descriptor">TERRORISM</classifier>
+        <location class="indexing_service">MIDDLE EAST</location>
+        <location class="indexing_service">SAUDI ARABIA</location>
+        <person class="indexing_service">FRIEDMAN, THOMAS L</person>
+        <person class="indexing_service">ERVIN, CHRISTINE (ASST SEC)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Saudi Arabia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960711T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E3D91139F932A25754C0A960958260" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Oil Dependency</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Thomas L. Friedman says (column, July 3) that the United States should be "slowly intensifying oil conservation measures" in response to events in Saudi Arabia. But Congress has been doing the reverse by cutting the Department of Energy's conservation investments.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Thomas L. Friedman says (column, July 3) that the United States should be "slowly intensifying oil conservation measures" in response to events in Saudi Arabia. But Congress has been doing the reverse by cutting the Department of Energy's conservation investments.</p>
+        <p>Since 1991, a bipartisan effort has led to increased Federal funds for developing fuel-efficient vehicles as well as ones that run on fuels other than petroleum, like natural gas, electricity and renewable biofuels.</p>
+        <p>Last year Congress slashed funds for these programs by one-third, and last month the House voted to cut the President's request for energy efficiency and advanced transportation technologies by 30 percent.</p>
+        <p>As Mr. Friedman notes, we can "make ourselves less vulnerable to changes in that desert kingdom." Congress thus far seems to be missing the opportunity to do just that.</p>
+        <p>CHRISTINE ERVIN Asst. Secy. for Energy Efficiency and Renewable Energy Department of Energy Washington, July 8, 1996</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

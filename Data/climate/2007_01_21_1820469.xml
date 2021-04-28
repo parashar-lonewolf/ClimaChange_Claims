@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sniffing Out the Truth</title>
+    <meta content="21omullan" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/21/opinion/21omullan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1820469"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Odors</classifier>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Sulfur and Sulfur Compounds</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">O'Mullan, Greg</person>
+        <person class="indexing_service">McGillis, Wade</person>
+        <person class="indexing_service">Sambrotto, Ray</person>
+        <person class="indexing_service">Orton, Philip</person>
+        <person class="indexing_service">Mailloux, Brian</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Odors</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Odors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Lamont-Doherty Earth Observatory</org>
+        <org class="online_producer">Columbia University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E1D81E30F932A15752C0A9619C8B63" item-length="660" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sniffing Out the Truth</hl1>
+        <hl2 class="online_headline">Sniffing Out the Truth</hl2>
+      </hedline>
+      <byline class="print_byline">By GREG O'MULLAN, WADE MCGILLIS, RAY SAMBROTTO and PHILIP ORTON, scientists at Columbia's Lamont-Doherty Earth Observatory and department of earth and environmental engineering, and BRIAN MAILLOUX, assistant professor of environmental sciences at Barnard.</byline>
+      <byline class="normalized_byline">Mailloux, Brian; McGillis, Wade; Sambrotto, Ray; O'Mullan, Greg; Orton, Philip</byline>
+      <abstract>
+        <p>Op-Ed article by Greg O'Mullan, Wade McGillis, Ray Sambrotto, Philip Orton and Brian Mailloux posits that mysterious odor that blanketed New York City Jan 8 was caused by gases released from saltwater marshes in city area; says combination of low tide and southern winds caused release of sulfur gases produced in intertidal sediments; contends that excessive nutrient loading in local coastal waters can damage wider marine habitat (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE mysterious odor that blanketed Manhattan on Jan. 8 remains, well, a mysterious odor. Last week, officials in New York and New Jersey gave up on finding the source of the smell.</p>
+        <p>But we haven't, and we think we can support one of the theories of the odor's source that has been suggested. Based on our familiarity with the local aquatic environment and regional meteorology, we believe that the odor was caused by gases released from saltwater marshes in the metropolitan area.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A group of environmental scientists believe that the mysterious odor that blanketed Manhattan on Jan. 8 was caused by gases released from saltwater marshes in the metropolitan area.</p>
+      </block>
+      <block class="full_text">
+        <p>THE mysterious odor that blanketed Manhattan on Jan. 8 remains, well, a mysterious odor. Last week, officials in New York and New Jersey gave up on finding the source of the smell.</p>
+        <p>But we haven't, and we think we can support one of the theories of the odor's source that has been suggested. Based on our familiarity with the local aquatic environment and regional meteorology, we believe that the odor was caused by gases released from saltwater marshes in the metropolitan area.</p>
+        <p>Let us explain. The intertidal sediments in this region are home to micro-organisms that produce sulfur compounds. When these sediments interact with saltwater that contains low levels of oxygen, gases are released. These gases include hydrogen sulfide and a variety of thiols (like the gas additives thiophane and mercaptan) -- all of which have an odor similar to rotten eggs.</p>
+        <p>While the release of these gases from marsh sediments occurs more or less continually, we suggest that something out of the ordinary occurred on Jan. 8.</p>
+        <p>First, there was a low tide in the coastal marshes from roughly 4 a.m. to 6 a.m. Second, we experienced winds from the south and an atmospheric inversion, which created something like a low-lying bubble of air.</p>
+        <p>The result of the two factors? The low tide exposed the marsh sediments and hastened the release of sulfur gases into the atmosphere. The inversion trapped the odor close to the ground and the southerly winds then carried it to Lower Manhattan, where it remained until atmospheric conditions changed.</p>
+        <p>On what do we base our assumptions?</p>
+        <p>For starters, independent data and Columbia University instruments on rooftops in Manhattan show a consistent trend in wind speed and direction surrounding New York City. On Jan. 7, the night before the odor was noticed, the dominant winds were moderate and from the south. Such winds would travel over large marshlands like Jamaica Bay and Kill Van Kull before hitting Manhattan.</p>
+        <p>Early the next day, the atmospheric inversion developed, and remained stable, encapsulating the odor, until wind speed rapidly increased in late morning. At that point, the capping inversion was disrupted and the air mass was dispersed.</p>
+        <p>And what about the smell? To test this possibility, we calculated the amount of hydrogen sulfide that would need to be released into air volumes of various dimensions, given an odor threshold for the human nose of one part in a million for hydrogen sulfide.</p>
+        <p>Together with additional estimates of the area of intertidal sediments to the south of the city and the rate of sediment-air gas exchange, we concluded that marsh sediments could indeed supply enough hydrogen sulfide gas to cause the widespread odor New Yorkers experienced.</p>
+        <p>Our explanation highlights the consequences of excessive nutrient loading and the resulting low oxygen levels in local coastal waters. (By nutrient loading, we mean exposing water to sewage, fertilizer, chemicals or other pollutants.) Of course, these consequences go beyond odor -- they kill marsh vegetation, degrade the wider marine habitat and make it unsafe to swim or fish.</p>
+        <p>Yes, water quality in the New York area has become better in recent decades. But there is still much room for improvement, and conditions like those that took place earlier this month may become more common if local population growth results in more pollutants ending up in coastal waters -- and if the frequency of unusually warm air temperatures increases with climate change.</p>
+        <p>While these odors do not cause a health threat at low concentrations, they are undesirable. What's more, they are troubling for what they may signal: an environment in need of our attention.</p>
+        <p>GREG O'MULLAN, WADE MCGILLIS, RAY SAMBROTTO and PHILIP ORTON, scientists at Columbia's Lamont-Doherty Earth Observatory and department of earth and environmental engineering, and BRIAN MAILLOUX, assistant professor of environmental sciences at Barnard.</p>
+        <p>Op-Ed Contributor</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

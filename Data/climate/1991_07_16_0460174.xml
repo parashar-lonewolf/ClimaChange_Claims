@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robert B. Egbert, 74,A Chemical Engineer</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="460174"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">EGBERT, ROBERT BALDWIN</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DF133AF935A25754C0A967958260" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robert B. Egbert, 74,A Chemical Engineer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Robert Baldwin Egbert, whose pioneering doctoral study on global warming won the 1942 William H. Walker Award of the American Institute of Chemical Engineers, died on Wednesday at Northside Presbyterian Hospital in Albuquerque, N.M. He was 74 years old and lived in Albuquerque.</p>
+        <p>He died of a heart attack, his wife of 50 years, the former Emmabelle Cook, said.</p>
+      </block>
+      <block class="full_text">
+        <p>Robert Baldwin Egbert, whose pioneering doctoral study on global warming won the 1942 William H. Walker Award of the American Institute of Chemical Engineers, died on Wednesday at Northside Presbyterian Hospital in Albuquerque, N.M. He was 74 years old and lived in Albuquerque.</p>
+        <p>He died of a heart attack, his wife of 50 years, the former Emmabelle Cook, said.</p>
+        <p>Dr. Egbert, who held 14 chemical engineering patents, was a founding partner of the Scientific Design Company of Manhattan. He later founded and became president of the Chemical Process Corporation in Stamford, Conn., where he lived for many years. His research in polyesters helped make the manufacture of Dacron and Mylar infinitely less expensive.</p>
+        <p>Dr. Egbert, an early ecologist, earned a bachelor's degree at Cooper Union and a doctorate at the Massachusetts Institute of Technology. He was a founding member of 1001 -- a Nature Trust, a conservation program of the World Wildlife Fund.</p>
+        <p>Besides his wife, he is survived by four daughters, Elizabeth Michaelson of Staten Island, Louise Johnson of Manhattan, Diane Anderson of Tucson, Ariz., and Margaret Egbert of Kaneohe, Hawaii; a son, Dr. Robert Egbert of Springfield, Mo.; a brother, John, of Denver, and seven grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

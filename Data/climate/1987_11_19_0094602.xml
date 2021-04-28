@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE YOUNG ALSO BURDEN A WORKING POPULATION</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="94602"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POPULATION</classifier>
+        <classifier class="indexing_service" type="descriptor">BIRTH CONTROL AND FAMILY PLANNING</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <person class="indexing_service">KUTSCHER, EUGENE B</person>
+        <person class="indexing_service">ROBERTSON, MARION G (PAT) (REV)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Control and Family Planning</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFDC1130F93AA25752C1A961948260" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE YOUNG ALSO BURDEN A WORKING POPULATION</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Your comments concerning Pat Robertson's desire to increase the birth rate did not address the critical issue of the impact of more people on the global ecology. We know little about the long-term effects of population density on such areas as the ozone layer and the greenhouse effect. What we are learning does not indicate that ever-increasing demand on the earth's soil, forests and water should be accelerated.</p>
+        <p>If Pat Robertson wants more taxpayers, he should use tax incentives to retrain the underemployed and the unemployed to produce higher quality work before using this method to encourage a new baby boom. EUGENE B. KUTSCHER  Jamaica, Queens, Oct. 28, 1987</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

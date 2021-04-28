@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study of Electric Cars Ignores Recycling Gains</title>
+    <meta content="LTEMPC" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="875315"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Vehicles</classifier>
+        <person class="indexing_service">Tempchin, Rick</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DD1E38F936A3575AC0A960958260" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study of Electric Cars Ignores Recycling Gains</hl1>
+      </hedline>
+      <abstract>
+        <p>Rick Tempchin letter disputes Aug 29 Economic Scene column on electric cars and cleaner air (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor;</p>
+        <p>Re the Aug. 29 Economic Scene column on electric cars and cleaner air: Carnegie-Mellon researchers ignore a success story in lead recycling and emissions controls. Ninety-eight percent of auto batteries were recycled in 1995, eliminating the need for large increases in lead mining. And emissions at recyclers and mines are monitored by the Government.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor;</p>
+        <p>Re the Aug. 29 Economic Scene column on electric cars and cleaner air: Carnegie-Mellon researchers ignore a success story in lead recycling and emissions controls. Ninety-eight percent of auto batteries were recycled in 1995, eliminating the need for large increases in lead mining. And emissions at recyclers and mines are monitored by the Government.</p>
+        <p>Worse, this study assumes a huge number of new internal combustion cars that never wear out. It fails to recognize that cars become dirtier with each passing mile, and it ignores that some people are holding on to their cars longer and others are buying less-efficient sport-utility vehicles.</p>
+        <p>Pollution from tailpipes grows by an average of 25 percent every 10,000 miles. Conventional cars spew out 60 times more carbon monoxide, 30 times more volatile organic compounds and twice the carbon dioxide emissions as electric power plants.</p>
+        <p>When you quote a Carnegie-Mellon researcher saying, ''We'd not get any benefit from electric cars,'' you can bet he is speaking for auto makers and oil companies, not for the health of consumers.</p>
+        <p>RICK TEMPCHIN</p>
+        <p>Washington, Sept. 1, 1996</p>
+        <p>The writer is manager of electric transportation at the Edison Electric Institute, an industry group.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

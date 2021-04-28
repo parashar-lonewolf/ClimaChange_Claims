@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>End of a Nuclear Generation</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="731400"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <org class="indexing_service">TENNESSEE VALLEY AUTHORITY AND PROJECT (TVA)</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE7D81738F936A25751C1A962958260" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>End of a Nuclear Generation</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Tennessee Valley Authority's decision to halt construction of three nuclear plants is the symbolic death notice for the current generation of reactors in the United States. By the T.V.A.'s reckoning, these were the last nuclear units still under construction in the nation. The T.V.A. once had the most ambitious nuclear program in the country, with 17 reactors on order. But as it turned out, the agency built only five nuclear units, of which only three are currently operating.</p>
+        <p>The reasons for the latest abandonment are the same that curtailed other nuclear construction around the country -- ballooning costs and uncertainty about when plants could finally be brought on line. Although the T.V.A. had already spent $6.3 billion on the units and they were from 57 percent to 88 percent completed, the authority estimated it could cost up to $8.8 billion more to finish the job. That was simply too much when it already felt overburdened with debt, some 44 percent of which had been spent on its nuclear program.</p>
+      </block>
+      <block class="full_text">
+        <p>The Tennessee Valley Authority's decision to halt construction of three nuclear plants is the symbolic death notice for the current generation of reactors in the United States. By the T.V.A.'s reckoning, these were the last nuclear units still under construction in the nation. The T.V.A. once had the most ambitious nuclear program in the country, with 17 reactors on order. But as it turned out, the agency built only five nuclear units, of which only three are currently operating.</p>
+        <p>The reasons for the latest abandonment are the same that curtailed other nuclear construction around the country -- ballooning costs and uncertainty about when plants could finally be brought on line. Although the T.V.A. had already spent $6.3 billion on the units and they were from 57 percent to 88 percent completed, the authority estimated it could cost up to $8.8 billion more to finish the job. That was simply too much when it already felt overburdened with debt, some 44 percent of which had been spent on its nuclear program.</p>
+        <p>That leaves a substantial but aging base of nuclear plants in operation around the country. Today 109 such plants produce 21 percent of the nation's electricity, providing a significant supplement to coal-fired units. But the old dream that nuclear power might become a centerpiece of the nation's energy structure evaporated years ago. Not a single new nuclear plant has been ordered since 1978, and some nuclear units already in operation or ready to start have been shut down.</p>
+        <p>The demise of the American nuclear industry can be traced to several factors -- a slowdown in demand for electricity, public apprehension over nuclear risks, recurrent increases in the cost and time to build new plants, and a failure to operate as reliably and efficiently as expected.</p>
+        <p>Those factors could always change. Indeed, if global warming truly becomes the world-threatening issue that some environmentalists fear, countries everywhere will be looking for alternatives to the fossil fuels -- coal, oil and natural gas -- that now form the backbone of energy supplies. The world might then turn toward such alternatives as solar or wind power -- or to a new generation of nuclear plants.</p>
+        <p>The nuclear industry is already seeking Federal certification for the next generation of plants, pushing research on even more advanced reactors, and counting on other nations to demonstrate the effectiveness of next-generation nuclear plants -- just in case they are needed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

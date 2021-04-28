@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="06obse" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/06/06/science/06observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1767133"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Insects</classifier>
+        <classifier class="indexing_service" type="descriptor">Corn Borer</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <classifier class="indexing_service" type="descriptor">Grain</classifier>
+        <classifier class="indexing_service" type="descriptor">Animals</classifier>
+        <classifier class="indexing_service" type="descriptor">Eggs</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="indexing_service" type="descriptor">Maple Trees</classifier>
+        <classifier class="indexing_service" type="descriptor">Snails</classifier>
+        <classifier class="indexing_service" type="descriptor">Enzymes</classifier>
+        <classifier class="indexing_service" type="descriptor">Sperm</classifier>
+        <org class="indexing_service">French National Institute for Agronomic Research</org>
+        <org class="indexing_service">Public Library of Science, Biology (Journal)</org>
+        <org class="indexing_service">University of Sydney</org>
+        <org class="indexing_service">Biology Letters (Journal)</org>
+        <org class="indexing_service">Cornell University</org>
+        <org class="indexing_service">Hubbard Brook Experimental Forest</org>
+        <org class="indexing_service">Ecology (Journal)</org>
+        <org class="indexing_service">Mcgill University</org>
+        <org class="indexing_service">Proceedings of the Royal Society B (Journal)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">Dalecky, Ambroise</person>
+        <person class="indexing_service">Radder, Rajkumar</person>
+        <person class="indexing_service">Shine, Richard (Dr)</person>
+        <person class="indexing_service">Juice, Stephanie M</person>
+        <person class="indexing_service">Chase, Ronald (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="descriptor">Corn</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corn</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vegetables</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E4DA1431F935A35755C0A9609C8B63" item-length="1076" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Shot Through the Head, for a Reason</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Ambroise Dalecky of French National Institute for Agronomic Research leads study on strategies used to keep corn borers from developing resistance to toxins in genetically modified corn; research, which is published in Public Library of Science Biology, finds that planting technique known as high-dose refuge does not encourage mating between resistent and non-resistent partners as hoped; Rajkumar Radder and Richard Shine of University of Sydney lead study on animals that hatch underground; research, which is published in journal Biology Letters, finds that heart rate and overall metabolism in eggs shift to allow animal to delay hatching and wait for perfect weather conditions above shallow nest; Stephanie M Juice of Cornell University presents senior thesis linking sugar maple tree decline and presence of acid rain; study was conducted at Hubbard Brook Experimental Forest and is published in journal Ecology; Dr Ronald Chase, McGill University professor and snail expert, conducts study on brown garden snails that shows courtship ritual of sticking dart into mate's head increases likelihood of procreation; finds that darts are covered in mucus that prevents snail from releasing enzyme that would destroy sperm; research is published in Proceedings of the Royal Society B; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gene-Modified, but to What End?</p>
+        <p>Regardless of the debate over the use of genetically modified crops, if they are going to be used, they should be effective. There's little point, say, in planting Bt corn -- which has been modified with genetic material from bacteria to produce a toxin that kills corn borers, a major pest -- if the corn borers evolve resistance to the toxin.</p>
+        <p>One strategy to prevent that from happening is called high-dose refuge. Now mandatory in the United States, it involves scattering ''refuges,'' plots of conventional corn, among the acreage planted with Bt seed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Snails in love, how lizards know when to hatch, genetically-modified crops and acid rain's effects on sugar maples.</p>
+      </block>
+      <block class="full_text">
+        <p>Gene-Modified, but to What End?</p>
+        <p>Regardless of the debate over the use of genetically modified crops, if they are going to be used, they should be effective. There's little point, say, in planting Bt corn -- which has been modified with genetic material from bacteria to produce a toxin that kills corn borers, a major pest -- if the corn borers evolve resistance to the toxin.</p>
+        <p>One strategy to prevent that from happening is called high-dose refuge. Now mandatory in the United States, it involves scattering ''refuges,'' plots of conventional corn, among the acreage planted with Bt seed.</p>
+        <p>That way if a corn borer in a Bt plot undergoes a mutation that allows it to survive, the odds are it will mate with a Bt-susceptible borer from a conventional plot, reducing the risk that the mutation will be passed along.</p>
+        <p>But that strategy works only if corn borers disperse before they mate. And a new study led by Ambroise Dalecky of the French National Institute for Agronomic Research shows that they may not. The study was published in the June issue of The Public Library of Science Biology (and, proving that scientists can have a sense of humor, included among its references the 1982 hit by the Clash, ''Should I Stay or Should I Go?'').</p>
+        <p>The researchers released marked male and female corn borer moths in cornfields south of Toulouse, France. The moths were later recaptured and the females dissected to see whether they had mated, and, through an analysis of the carbon content of sperm, whether the mates were from the same plot or elsewhere.</p>
+        <p>They found that a high percentage of females -- close to 60 percent in some cases -- mated before they dispersed. While some of the mates came from elsewhere, some came from the same plot as the female. Females did not discriminate between the two, so the researchers suggest that the high-dose refuge strategy may not be as effective as thought in ensuring that mutations don't get passed on.</p>
+        <p>Warming Up to Being Hatched</p>
+        <p>For animals that hatch underground, there are certain perils in hitting the surface at the wrong time. If they come out when it is extremely cold, they may be unable to disperse effectively and avoid predators.</p>
+        <p>But how does an animal know enough to avoid hatching until above-ground conditions are just right? Rajkumar Radder and Richard Shine of the University of Sydney investigated how Bassiana duperreyi, an Australian lizard also known as the three-lined skink, does it.</p>
+        <p>The lizards' nests are shallow, and heat travels through soil fairly well, so temperatures in the nest accurately reflect conditions above. The researchers measured heart rate in the developing eggs, and found that it increased at a consistent pace as temperature increased -- except in one instance, with embryos measured just before hatching. In this case, heart rate decreased, but only when the nest temperature dropped below 68 degrees. The findings were published online last month by the journal Biology Letters.</p>
+        <p>The researchers suggest that by slowing their metabolism, the developing lizards are able to delay hatching until conditions warm up. Once the thermometer climbs again, heart rate increases and they finally hatch.</p>
+        <p>Acid Rain and Sugar Maples</p>
+        <p>Acid rain may be less of a problem than it used to be, thanks to burning of lower-sulfur coal and other antipollution measures, but don't tell that to the sugar maples. A study from a New Hampshire forest confirms a link between acid rain and sugar maple decline.</p>
+        <p>The study, led by Stephanie M. Juice, a recent Cornell graduate who conducted the research as part of her senior thesis, showed that the health of mature sugar maples increased, and more seedlings survived, when soil conditions were restored to those of 50 years ago, before acid rain became a problem.</p>
+        <p>Ms. Juice and her colleagues treated a plot with a fertilizer that restored calcium, a mineral that is depleted by acid rain. The study was conducted at the Hubbard Brook Experimental Forest and published in the May issue of Ecology.</p>
+        <p>Shot Through the Head, for a Reason</p>
+        <p>Some garden snails have an unusual notion of the niceties of courtship. When one of these snails is wooing another, before mating it shoots a small, sharp dart into the other's head.</p>
+        <p>These ''love darts,'' which are made of calcium carbonate and are less than half an inch long, were once thought to be a gift of calcium from one snail to another. But in recent years, researchers have determined that dart-shooting has a different purpose: to increase the amount of sperm that survives after mating.</p>
+        <p>''Really what the dart does is, it enables more of the sperm to be stored,'' said Ronald Chase, a professor at McGill University, who in years of snail research has helped unlock the secrets of this odd behavior. Snails can have many partners and can store the donors' sperm, mixed together, up to four years before fertilizing eggs. By increasing the amount of its sperm that survives, a snail can outcompete other donors and improve its chances at paternity.</p>
+        <p>Now Dr. Chase has gone a step further, showing that it's not the dart itself, but mucus coating it, that causes the changes in the receiving snail. By shooting the dart, the snail is injecting its partner with a compound that ensures that more sperm survives, Dr. Chase and Katrina C. Blanchard report in The Proceedings of the Royal Society B.</p>
+        <p>Dr. Chase studies brown garden snails, Cantareus aspersus, one of a number of land snails that are dart shooters. (Like other snails, these are hermaphroditic, so at the same time they are shooting darts and depositing sperm, they are getting shot and receiving sperm. Talk about a complicated lifestyle.)</p>
+        <p>The researchers surgically removed darts from some snails, and using a hypodermic needle instead, injected some with mucus and others with saline solution. After the snails mated, they found that those with the mucus had many more sperm.</p>
+        <p>Dr. Chase said a snail's female reproductive tract has openings to a gland that produces digestive enzymes that, under normal conditions, destroy most of the sperm. He suspects that a compound in the mucus, probably a peptide, results in contractions in the reproductive tract that close off the openings.</p>
+        <p>He is currently conducting more research to determine which of the many peptides in the mucus is the active one. ''That will be the magic stuff,'' he said. ''The love potion.''</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

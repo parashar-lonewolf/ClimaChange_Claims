@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Portuguese Wines Uncorked</title>
+    <meta content="16TAST$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222883"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TASTINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <location class="indexing_service">Portugal</location>
+        <person class="indexing_service">Asimov, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Portugal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000816T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EEDC1E3FF935A2575BC0A9669C8B63" item-length="499" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Portuguese Wines Uncorked</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Asimov</byline>
+      <byline class="normalized_byline">Asimov, Eric</byline>
+      <abstract>
+        <p>Eric Asimov Tastings column on Portuguese wines; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PORTUGAL is renowned for port and Madeira, and for fizzy roses like Lancers and Mateus. It is also known for supplying many of the world's wine corks. But this country also has a thriving table wine industry, which is so little known it is a paradise for bargain hunters.</p>
+        <p>Portugal has long been a wine-loving nation, but only in the last 15 years, since joining the European Union, has it begun to join the rest of the winemaking world in modernizing its agricultural and vinification techniques. Still, Portugal seems to retain a stubborn sense of wanting to do things its own way, which for wine lovers has its benefits.</p>
+      </block>
+      <block class="full_text">
+        <p>PORTUGAL is renowned for port and Madeira, and for fizzy roses like Lancers and Mateus. It is also known for supplying many of the world's wine corks. But this country also has a thriving table wine industry, which is so little known it is a paradise for bargain hunters.</p>
+        <p>Portugal has long been a wine-loving nation, but only in the last 15 years, since joining the European Union, has it begun to join the rest of the winemaking world in modernizing its agricultural and vinification techniques. Still, Portugal seems to retain a stubborn sense of wanting to do things its own way, which for wine lovers has its benefits.</p>
+        <p>Unlike so many wine producers hoping for international success, Portugal has not gravitated to grapes like merlot, cabernet sauvignon and chardonnay, although you can find small amounts of these wines. Its red wines are made from grapes like periquita, trincadeira and even some port grapes like tinta roriz. (No, there will not be a quiz at the end.)</p>
+        <p>The best Portuguese reds combine a rich fruitiness with flavors like coffee and chocolate. They are typically aged in oak barrels, with mixed results. The better wines become well knit, with the oak augmenting the natural flavors as the deft use of salt aids in cooking. In poorer versions, fruit and oak battle in the mouth.</p>
+        <p>While most of the excitement is in Portuguese red wines, it is summer, so I can't ignore vinho verdes, or green wines, which earn their name because of their youth, not their color.</p>
+        <p>Vinho verdes can be white or red, but it is the whites that are imported here and that are so delightful in hot weather. These wines are cheap, low in alcohol and nothing fancy -- simply a blend of grapes shot with carbon dioxide for a mild fizziness.</p>
+        <p>Vinho verdes are not even vintage dated, since they're intended to be drunk immediately. But on a sweaty day, a good vinho verde is remarkably refreshing, like a great lemonade spritzer.</p>
+        <p>REDS  QUINTA DO CARMO, ALENTEJO 1995: $20  Aromas of sweet fruit laced with chocolate and licorice; sturdy and mouth filling.</p>
+        <p>QUINTA DO CRASTO, DOURO 1998: $14  Like biting into a handful of raspberries; mellow and fruity with a tingle of acid.</p>
+        <p>JOSE MARIA DA FONSECA, PERIQUITA, TERRAS DO SADO 1996: $9  Ripe and fruity with aromas of cola and licorice.</p>
+        <p>SOGRAPE, VINHA DO MONTE, ALENTEJO 1997: $9  Grapey with simple fruit flavors harmoniously cushioned by oak.</p>
+        <p>VINHO VERDES CASAL GARCIA: $7  Light, fizzy, peachy and cheerful.</p>
+        <p>AVELEDA: $7  Fizzy and lemony, instantly satisfying.</p>
+        <p>Listed in order of preference. Prices are those paid in various Manhattan wine shops.</p>
+        <p>TASTINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

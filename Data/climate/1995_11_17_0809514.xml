@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Insider Trading on CBI Charged by S.E.C.</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="809514"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INSIDER TRADING</classifier>
+        <classifier class="indexing_service" type="descriptor">SECURITIES AND COMMODITIES VIOLATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS,ACQUISITIONS AND DIVESTITURES</classifier>
+        <location class="indexing_service">GERMANY</location>
+        <location class="indexing_service">SWITZERLAND</location>
+        <org class="indexing_service">CBI INDUSTRIES INC</org>
+        <org class="indexing_service">SECURITIES AND EXCHANGE COMMISSION (SEC)</org>
+        <org class="indexing_service">PRAXAIR INC SECURITIES &amp; EXCHANGE COMMISSION</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Switzerland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Switzerland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insider Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E3DD1239F934A25752C1A963958260" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Insider Trading on CBI Charged by S.E.C.</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>WASHINGTON, Nov. 16</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Securities and Exchange Commission said today that it had filed insider trading charges against unknown investors who bought CBI Industries stock just days before Praxair Inc. announced a takeover bid for the company.</p>
+        <p>The S.E.C. announced the lawsuit just hours after CBI, a carbon dioxide and industrial gas producer, rejected the $2.1 billion takeover bid as "inadequate."</p>
+      </block>
+      <block class="full_text">
+        <p>The Securities and Exchange Commission said today that it had filed insider trading charges against unknown investors who bought CBI Industries stock just days before Praxair Inc. announced a takeover bid for the company.</p>
+        <p>The S.E.C. announced the lawsuit just hours after CBI, a carbon dioxide and industrial gas producer, rejected the $2.1 billion takeover bid as "inadequate."</p>
+        <p>CBI said it was "exploring alternatives to maximize stockholder value" and as a result had agreed to share financial data with certain parties.</p>
+        <p>In the unusual insider trading case, the S.E.C. said, identity of the investors is protected by secrecy laws in Switzerland and Germany, where they placed the stock purchase orders through Swiss and German banks that maintained  accounts with United States broker-dealers.</p>
+        <p>The S.E.C. asked the banks through which the orders were placed whether their customers would consent to being identified, but the agency has received no response, said Tom Newkirk, an S.E.C. enforcement official.</p>
+        <p>The brokers were Gruntal &amp; Company, the Donaldson, Lufkin &amp; Jenrette Securities Corporation and Commonwealth Associates, court papers show.</p>
+        <p>The S.E.C. contended that unknown persons bought 84,000 CBI shares two trading days before the Oct. 29 announcement by Praxair of its $32-a-share tender offer.</p>
+        <p>The defendants stand to realize about $1.3 million from the illegal trades, the S.E.C. contended.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

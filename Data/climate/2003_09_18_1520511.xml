@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Sugar Cube, Please: I Need to Charge My Cellphone</title>
+    <meta content="18NEXT" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/09/18/technology/circuits/18next.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1520511"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Sugar</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Cells</classifier>
+        <org class="indexing_service">University of Massachusetts</org>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <person class="indexing_service">Lovley, Derek R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">University of Massachusetts</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6D6153AF93BA2575AC0A9659C8B63" item-length="1041" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Sugar Cube, Please: I Need to Charge My Cellphone</hl1>
+        <hl2 class="online_headline">A Sugar Cube, Please: I Need to Charge My Cellphone</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>University of Massachusetts scientist Derek R Lovley discovers sugar-loving microorganism that may one day serve as stable source of low power; when microbe is used in conjunction with simple fuel cell, electrons freed in process of metabolizing sugar are converted into electric current; biofuel cells may one day have many applications in common devices; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LOTS of people shun sugar these days. It's out of favor in popular low-carbohydrate diets.</p>
+        <p>But sugar may yet be redeemed. A small organism that feeds on it can convert its calories not to flab on the midriff but to a far more respectable product: a modest but steady stream of electricity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A micro-organism that throws off electricity as it eats could serve as a "bacterial battery."</p>
+      </block>
+      <block class="full_text">
+        <p>LOTS of people shun sugar these days. It's out of favor in popular low-carbohydrate diets.</p>
+        <p>But sugar may yet be redeemed. A small organism that feeds on it can convert its calories not to flab on the midriff but to a far more respectable product: a modest but steady stream of electricity.</p>
+        <p>Two scientists at the University of Massachusetts have discovered a novel sugar-loving microorganism, Rhodoferax ferrireducens, that may one day serve as a stable source of low power.</p>
+        <p>''It's a sort of bacterial battery,'' said Derek R. Lovley, an environmental microbiologist who led the research. The results are reported in the current online issue of Nature Biotechnology.</p>
+        <p>Dr. Lovley cultured the bug in an Amherst laboratory, far from the aquifer in Oyster Bay, Va., where he found it. Then he housed it in a simple two-compartment fuel cell. As it fed on and metabolized sugar, the electrons freed in the process accumulated on an electrode in the fuel cell, producing a current. ''It can transfer more than 80 percent of the electrons available in the sugar,'' Dr. Lovley said, ''contrary to most previous microbial fuel cells that use sugar and deliver in the range of 10 percent.''</p>
+        <p>The bacterial battery might one day have many applications, for example, in sensors in remote locations, or in household devices that would draw on agricultural or other sugar-based waste for power. Dr. Lovley's organism did its job not only with sucrose, fructose and glucose -- the simple sugars found, for instance, in fruits, beets and sugar cane -- but also with xylose, a part of wood and straw.</p>
+        <p>Many research groups in the United States and abroad are working on biofuel cells that use microbes to convert organic matter like sugar into electricity, said G. Tayhas R. Palmore, an associate professor of engineering at Brown University who does research on biofuel cells.</p>
+        <p>''People have been trying to make microbial fuel cells for decades,'' she said, but have been vexed by low returns.</p>
+        <p>''Typically the bug uses all of the energy from the sugar to grow and live,'' Dr. Palmore said, instead of giving up electrons from the oxidative process. But Dr. Lovley's bug is highly efficient. ''He's found an organisms happy to give its electrons to the electrode,'' she said.</p>
+        <p>Many microbial fuel cells increase their efficiency by using a special compound to enter the organism, collecting the electrons that accumulate and carting them off to an electrode. Such mediators must typically be replenished. ''But Dr. Lovley's bug does the work all by itself,'' Dr. Palmore said, ''without the intermediate components we all put in to facilitate electron transfer.''</p>
+        <p>Dr. Lovley's fuel cell has an electrode at either end. As it dines, the microorganism converts the glucose solution into carbon dioxide, simultaneously generating electrons that are deposited on the electrode and travel through an external circuit to the other electrode.</p>
+        <p>''We need only a small number of organisms because they gain energy and rapidly increase in number,'' Dr. Lovley said. In his laboratory the organism flourished, colonizing the surface of the electrode and producing stable long-term power for up to 25 days. The current, about 200 microamps per square meter, was modest, about enough to run a calculator.</p>
+        <p>Minor technical improvements increased its output. ''When we used graphite felt rather than rods for the electrodes, we had an approximate threefold increase in current,'' he said.</p>
+        <p>R. ferrireducens belongs to a group of microorganisms Dr. Lovley and colleagues have discovered only in the past few years. Often described as iron-breathing, they use iron for metabolic energy just as humans use oxygen to burn food.</p>
+        <p>''They live in an environment with no oxygen, but lots of iron,'' Dr. Lovley said. ''So they evolved the strategy of iron respiration,'' grabbing carbon from sediment on the seafloor and releasing carbon dioxide, then transferring the electrons that accumulated to nearby iron oxides or rust. ''To the organism,'' he said, ''the electrode in the fuel cell probably looks like iron oxide, its usual repository.''</p>
+        <p>Leonard Tender, a scientist at the United States Naval Research Laboratory in Washington, has worked in the past with Dr. Lovley to identify an iron-breathing organism that feeds on ocean sediment, releasing electrons from the mud.</p>
+        <p>''Our application was on the sea floor,'' he said. ''Now he's made it relevant to land-based applications,'' showing that the new organism has the ability to generate electricity efficiently from a widely available fuel. ''Microorganisms sitting on the electrode can proliferate, so they could in theory operate indefinitely as long as there's fuel,'' Dr. Tender said.</p>
+        <p>Adam Heller, an emeritus professor of chemical engineering at the University of Texas, is currently working on miniature biofuel cells for low-power application in the body. He said that Dr. Lovley's work continues a series of experiments that began in the 1980's, when there was a hope that cheap biomass could be used to generate electrical power in fuel cells. ''But these cells fell flat because the cost was so high, and because of low power densities,'' he said.</p>
+        <p>Microbial fuel cells like Dr. Lovley's might find application in some specialty applications in military research, he said. But microbial fuel cells intrinsically have lower power densities than large-scale power generation systems. ''They have no application in systems that generate power for the grid,'' he said.</p>
+        <p>Dr. Lovley agreed that his organism was not up to large power applications but suggested that it might become one of many localized power sources that people could use, like solar panels on homes. ''The power per person is not a lot, but if you add it up,'' he said, ''you might save some of the requirements for power from other sources.''</p>
+        <p>Dr. Palmore said that Dr. Lovley's discovery was a breakthrough in coupling biological reactions with electronics, highly suitable for applications like sensors. ''It's a big advancement,'' she said. ''It's a phenomenal thing to identify an organism that's evolved to function with rust as an acceptor -- it's an easy leap to go from a rusty surface to an electrode.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

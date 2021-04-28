@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Touch the Water</title>
+    <meta content="13WErooney" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/13/opinion/nyregionopinions/13CIrooney.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1847026"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Pipelines</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <location class="indexing_service">Yonkers (NY)</location>
+        <location class="indexing_service">Hudson River</location>
+        <org class="indexing_service">Centers for Disease Control and Prevention</org>
+        <person class="indexing_service">Rooney, Thomas</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pipelines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Hudson River</location>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EEDB1431F930A25756C0A9619C8B63" item-length="703" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Touch the Water</hl1>
+        <hl2 class="online_headline">Don’t Touch the Water</hl2>
+      </hedline>
+      <byline class="print_byline">By Thomas Rooney</byline>
+      <byline class="normalized_byline">Rooney, Thomas</byline>
+      <dateline>ST. LOUIS</dateline>
+      <abstract>
+        <p>Op-Ed article by sewer, oil and water pipe repair company president and chief executive Thomas Rooney on recent eight million gallon spill from broken sewer pipe into Hudson River; holds sewer systems need to be regularly inspected and maintained and Centers for Disease Control needs to start treating renegade sewage flows as public health crises (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANOTHER day, another record-breaking sewage spill. This time in Yonkers, where eight million gallons from a broken pipe spewed into the Hudson River last weekend in what officials called the worst such incident in the history of Westchester County.</p>
+        <p>For swimmers, kayakers and fishermen in the New York City area, including Westchester and Rockland Counties, it was especially bad because many of them were exposed before they heard the news.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why we can expect more sewage spills into the Hudson.</p>
+      </block>
+      <block class="full_text">
+        <p>ANOTHER day, another record-breaking sewage spill. This time in Yonkers, where eight million gallons from a broken pipe spewed into the Hudson River last weekend in what officials called the worst such incident in the history of Westchester County.</p>
+        <p>For swimmers, kayakers and fishermen in the New York City area, including Westchester and Rockland Counties, it was especially bad because many of them were exposed before they heard the news.</p>
+        <p>As the head of a sewer, oil and water pipe repair company, I see more sewage spills than most people. And this much I know: the Yonkers spill may have been unprecedented, but the unprecedented is now the norm across the country.</p>
+        <p>Health officials in Yonkers were quick to try to minimize the damage. Indeed, initial estimates said two million gallons of raw sewage had escaped and that the Hudson wasn't in danger. But soon that estimate quadrupled and boaters, water skiers and skin divers were advised to stay out of the river because of potential health problems. County officials issued advisories to marina owners on the Hudson as well as to county and local police departments. The Hudson River Fishermen's Association canceled its annual fishing contest near the George Washington Bridge.</p>
+        <p>And while Westchester officials said that the volume of water in the Hudson would dissipate the sewage, in this day of toxic spills, few people are naïve enough to believe the old adage that the solution to pollution is dilution.</p>
+        <p>County officials blamed a fallen tree caused by a landslide induced by heavy rain, but the likely culprit -- the neglect of pipes that should have been updated long ago -- went largely unnoticed.</p>
+        <p>Most sewage pipes were built 60 years ago, but they were meant to last for only 50. All over the country, neglected sewer pipes are breaking. And it doesn't have to be that way: Maintaining and fixing a sewage pipe is not that hard. Most cities do the job from the inside by lining the pipe with plastic resins and curing it with steam to create a stronger pipe. No digging. No disruption.</p>
+        <p>To say that a tree caused a sewage spill is to ignore the fact that tree roots get into sewers all the time through cracks that should have been discovered through routine inspections.</p>
+        <p>The United States Environmental Protection Agency estimates that there are as many as 73,000 sewer spills in America every year. Most are from forgotten, crumbling pipes spewing out stuff like antibiotics, antidepressants and blood from local hospitals -- toxic material that no one would have imagined going through the sewage system when the pipes were installed.</p>
+        <p>Researchers at Stanford and the University of California at Los Angeles estimate that 1.5 million swimmers and surfers at many Southern California beaches are sickened by bacterial pollution every year. And much of contact with bad water comes from bad pipes.</p>
+        <p>Bad sewage pipes aren't just a problem in the United States. According to the United Nations, two million people will die this year from bad water, mostly contaminated with sewage from ruined pipes. Half the hospital beds in the developing world are filled with people sick from bad water.</p>
+        <p>A bad sewage system with faulty pipes is arguably the worst ecological calamity on this planet today. There may not have been any movies on the subject, but sewage spills are as serious a problem as global warming -- and like global warming, they aren't going to go away anytime soon. If we care about our environment and are concerned about our health, we have to do a few simple things right away: We must mandate video inspections of our sewer pipes every five years. And we must make those tapes public.</p>
+        <p>We also need the Centers for Disease Control to start treating renegade sewage flows for what they are: a public health crisis that makes millions of people sick every year. And most important, we need better notification when pipes break.</p>
+        <p>Officials in Yonkers and in cities across the country have to realize that we are in this crisis because repairs were delayed and maintenance was deferred. The least they can do in an emergency like this is get the word out quickly to everyone.</p>
+        <p>Op-Ed Contributor Thomas Rooney is the president and chief executive of a sewer, oil and water pipe repair company.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Thomas Rooney is the president and chief executive of a sewer, oil and water pipe repair company.</tagline>
+    </body.end>
+  </body>
+</nitf>

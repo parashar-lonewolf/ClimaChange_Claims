@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gas Pump Woes?</title>
+    <meta content="L08GAS$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1587760"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Life Styles</classifier>
+        <person class="indexing_service">Komanoff, Charles</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life Styles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E0DA1E31F93BA35755C0A9629C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gas Pump Woes?</hl1>
+      </hedline>
+      <abstract>
+        <p>Charles Komanoff letter points out that gas price increase will cost Denver couple, mentioned in June 1 article, only 75 cents more per week to deliver meals to homebound elderly people; says higher energy levies are essential to end US overconsumption of fossil fuels</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Many Feeling Pinch After Newest Surge in U.S. Fuel Prices'' (front page, June 1):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Many Feeling Pinch After Newest Surge in U.S. Fuel Prices'' (front page, June 1):</p>
+        <p>You report that a Denver-area couple may be forced by rising gasoline prices to give up their weekly 30-mile trip delivering meals to housebound older people.</p>
+        <p>A typical car averaging 20 miles per gallon requires a gallon and a half for the trip. With the price of gas up by about 50 cents a gallon from a year ago, the drive now costs the couple an additional 75 cents.</p>
+        <p>Higher energy taxes are indispensable for ending America's overconsumption of fossil fuels. Overplaying the damage from higher fuel costs makes it harder to enact them.</p>
+        <p>CHARLES KOMANOFF  New York, June 2, 2004</p>
+        <p>The writer is an economic consultant to environmental groups.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

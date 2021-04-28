@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | West: California: Groups Sue Over Climate Report</title>
+    <meta content="15brfs-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1805002"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Friends of the Earth</org>
+        <org class="indexing_service">Greenpeace (Orgn)</org>
+        <org class="indexing_service">Center for Biological Diversity</org>
+        <person class="indexing_service">Marshall, Carolyn</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E1D9173EF936A25752C1A9609C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | West: California: Groups Sue Over Climate Report</hl1>
+      </hedline>
+      <byline class="print_byline">By CAROLYN MARSHALL (NYT)</byline>
+      <byline class="normalized_byline">Marshall, Carolyn</byline>
+      <abstract>
+        <p>Three environmental groups, Friends of the Earth, Greenpeace and Center for Biological Diversity, file federal lawsuit in San Francisco, accusing Bush administration of failing to submit national report on climate change to Congress, as required by law (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three environmental groups -- Friends of the Earth, Greenpeace and the Center for Biological Diversity -- filed a lawsuit in Federal District Court in San Francisco, saying the Bush administration failed to submit a national report on climate change to Congress, as required by federal law. Ben Fallon, a spokesman for the White House Office of Science and Technology, said the administration had ''constantly issued reports to Congress'' that have advanced the nation's understanding on climate change.</p>
+        <p>CAROLYN MARSHALL (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Three environmental groups -- Friends of the Earth, Greenpeace and the Center for Biological Diversity -- filed a lawsuit in Federal District Court in San Francisco, saying the Bush administration failed to submit a national report on climate change to Congress, as required by federal law. Ben Fallon, a spokesman for the White House Office of Science and Technology, said the administration had ''constantly issued reports to Congress'' that have advanced the nation's understanding on climate change.</p>
+        <p>CAROLYN MARSHALL (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

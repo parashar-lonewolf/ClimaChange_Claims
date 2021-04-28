@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Apocalypse When?</title>
+    <meta content="02SINGERL" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/01/02/books/review/02SINGERL.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20050109T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1639158"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Singer, Peter</person>
+        <person class="indexing_service">Posner, Richard A</person>
+        <object.title class="indexing_service">Catastrophe: Risks and Response (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Disasters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Disasters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Posner, Richard A</person>
+        <object.title class="online_producer">Catastrophe: Risk and Response (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EFDA1F30F931A35752C0A9639C8B63" item-length="1404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Apocalypse When?</hl1>
+        <hl2 class="online_headline">'Catastrophe': Apocalypse When?</hl2>
+      </hedline>
+      <byline class="print_byline">By Peter Singer</byline>
+      <byline class="normalized_byline">Singer, Peter</byline>
+      <abstract>
+        <p>Peter Singer reviews book Catastrophe: Risk and Response by Richard A Posner; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CATASTROPHE</p>
+        <p>Risk and Response.</p>
+        <p>By Richard A. Posner.</p>
+        <p>322 pp. Oxford University Press. $28.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Richard Posner calculates the expected costs of cataclysmic events, and what we should spend to avoid them.</p>
+      </block>
+      <block class="full_text">
+        <p>CATASTROPHE</p>
+        <p>Risk and Response.</p>
+        <p>By Richard A. Posner.</p>
+        <p>322 pp. Oxford University Press. $28.</p>
+        <p>AN asteroid colliding with the earth could cause the extinction of our species. Is this a risk worth worrying about? More important, is it a risk worth doing something about? Richard A. Posner, a judge on the United States Court of Appeals for the Seventh Circuit, who produces more books in his leisure hours than most authors do working full time, thinks it is.</p>
+        <p>We should also, he argues, be doing more about other improbable catastrophes. Global warming could cause the melting of icecaps, releasing huge amounts of methane that accelerate further warming, forming a cloud layer so dense as to block out heat from the sun and cause us to go into a deep freeze. High-energy particle accelerators, used by physicists to investigate the fundamental laws of nature, could produce particles that create hyperdense ''strange matter'' that in turn might attract nearby nuclei, thus growing larger and attracting ever more nuclei, until the entire planet is compressed into a sphere no more than 100 meters in diameter.</p>
+        <p>Not worried about these possibilities? Then what about the prospect of bioterrorists genetically modifying an incurable strain of smallpox that wipes out the human species? That might seem a more realistic scenario.</p>
+        <p>''Catastrophe'' lives up to its title. But it is no sci-fi potboiler, and there will be no movie. Posner made his name defending an economically rational approach to the law, and his new book is dense with complex calculations of the expected costs of catastrophic events, and the amount worth spending in attempts to avert them. The expected costs of a future event are the costs of that event, if it should happen, divided by the probability that it will happen. Thus, if I offer you $1,000 if a tossed coin turns up heads, the expected cost of my offer is $500. (Suppose I offer you $100,000 if a card drawn at random from a full pack is the ace of spades. Would you prefer that offer to $1,000 tied to the toss of the coin? Anyone interested in maximizing his assets would: the expected cost of that offer to me -- and hence the expected value to you -- is $1,923.)</p>
+        <p>When a catastrophe is really catastrophic -- and Posner, it should be emphasized, isn't writing about ''minor'' disasters like the terrorist attacks of 9/11 -- it can have a significant expected cost, even if the event is extremely improbable. Consider, for example, the risk that a high-energy particle accelerator will produce a ''strange matter'' disaster. The official risk-assessment team for one of these accelerators, at the Brookhaven National Laboratory, offered a series of estimates, one of which puts the annual risk of a disaster at one in five million. That seems a very small risk. But since the disaster would kill six billion people, that estimate gives it an expected cost of 1,200 lives per year. Even if the risk is estimated more conservatively at one in a billion, it has an expected annual cost of six lives. Would we build such an accelerator if we knew that six people would die every year in which it operates?</p>
+        <p>In the third and most difficult chapter of ''Catastrophe,'' Posner explores ways of calculating the costs of catastrophic risks and of possible responses to them. He rebuts the claim that it is not cost-effective to do anything about global warming, an argument that invariably relies on heavily discounting disasters that will not occur for 50 or 100 years. We may wish to invest money to generate wealth rather than spending it to avert gradual global warming, but, as Posner suggests, the victims of the warming are likely to be concentrated in poor countries and will not necessarily benefit from the increased wealth generated by the richer nations. (On the other hand, abrupt, spiraling global warming that flips over into a deep freeze could kill us all, and then increased wealth will not do us any good anyway.)</p>
+        <p>Any economic discussion of the expected cost of catastrophe must put a dollar value on human life. Some will object to this in principle, but unless we can agree on a figure, it will be impossible to decide what expenditure is worth incurring, to build safer roads, say, or to keep minute quantities of toxic chemicals out of our drinking water. Economists working in this area usually investigate how much people are willing to pay to reduce the risk of death -- for example, by buying safety devices for their homes, or preferring to work in a safer occupation for a lower wage than they could get in a high-risk occupation. The reduction in risk is then multiplied by the sum the average person is willing to pay for it to arrive at the value people implicitly place on their lives. Currently, most government departments use a figure of around $5 million, give or take a million or two.</p>
+        <p>One problem with this approach is that most of us assess large risks differently from small ones. We may pay a steep price to reduce a risk of one in a thousand to one in ten thousand, but we are not much concerned about reducing a risk of one in a million to one in a billion. Yet a rational person who is interested in continuing to live should be willing to pay something for this reduction in risk. Clearly, these data show that while people appear to be moderately competent at assessing large risks, they are not very good at thinking about small risks. Posner, however, mostly takes the data on their face, and suggests that the value of a human life actually varies in accordance with the degree of risk we are considering -- so that the loss of each human life in a highly improbable catastrophe should be valued only at $50,000 instead of the $5 million that it would be valued at if we were considering a more likely disaster. This is bizarre. The real worth of our lives has nothing to do with the probability of a particular cause of death.</p>
+        <p>IN short, Posner really has a much stronger case for saying we should spend more to avert small risks of catastrophe than his own calculations indicate. And the case gets stronger still if we take into account some of the larger ethical issues he rapidly brushes aside, especially the question of how we should view the fact that the extinction of our species would prevent the existence of all future generations of human beings. Barring catastrophe, our species may continue to exist for millions of years, gradually overcoming our problems and achieving a level of happiness, fulfillment and moral virtue -- including concern for the well-being of other species -- that far exceeds anything we have yet known. Arguably, this makes a catastrophe that causes our extinction a much greater tragedy than the ''mere'' death of six billion people.</p>
+        <p>Posner's practical recommendations seem calculated to parcel out irritation to everyone. Physicists will not like the doubts he casts on particle accelerators. Liberals will be alarmed by his support for greater police powers to counteract bioterrorism, including censorship of scientific publications that could help terrorists devise new biological weapons. Conservatives will dislike his support for taxes on carbon dioxide emissions, and will be apoplectic at his proposal that we hand over some of the nation's sovereign powers to an international environmental protection agency to enforce an improved version of the Kyoto Protocol on global warming.</p>
+        <p>As for ordinary readers, they will most likely be annoyed by the book's frequent repetitiveness, particularly in the concluding chapter, and may wonder what the two pages urging severe punishment for computer hackers are doing in a book about catastrophes. (Did Posner lose part of his manuscript to a computer virus?) Still, we would be well advised to set aside such minor discontents and take the message of this book seriously. We ignore it at (a small risk of) our (very great) peril.</p>
+        <p>Peter Singer is a professor of bioethics at Princeton University. His recent books include ''One World'' and ''The President of Good and Evil: The Ethics of George W. Bush.''</p>
+        <p>Correction:  January 9, 2005, Sunday  A book review last Sunday about ''Catastrophe: Risk and Response,'' by Richard A. Posner, referred imprecisely to an arithmetical procedure to derive a figure that cost benefit analysts call the ''expected cost'' of a future event. The expected cost is equal to the cost of the event multiplied by the probability that it will happen not divided by that probability. Thus, as the review correctly calculated, if A offers B a dollar</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 9, 2005, Sunday</p>
+        <p>A book review last Sunday about ''Catastrophe: Risk and Response,'' by Richard A. Posner, referred imprecisely to an arithmetical procedure to derive a figure that cost benefit analysts call the ''expected cost'' of a future event. The expected cost is equal to the cost of the event multiplied by the probability that it will happen not divided by that probability. Thus, as the review correctly calculated, if A offers B a dollar</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Peter Singer is a professor of bioethics at Princeton University. His recent books include ''One World'' and ''The President of Good and Evil: The Ethics of George W. Bush.''</tagline>
+    </body.end>
+  </body>
+</nitf>

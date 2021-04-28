@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gas Prices: Do Something Real</title>
+    <meta content="l01gas-7" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1758572"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <person class="indexing_service">Lowenstein, Henry A</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E5DC113FF932A35756C0A9609C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gas Prices: Do Something Real</hl1>
+      </hedline>
+      <abstract>
+        <p>Henry A Lowenstein letter, commenting on April 28 article on Congress's proposals to offset rising gas prices, says Congress and Pres Bush should seize opportunity to impose gasoline tax increase, thereby forcing consumers to demand alternative fuels; drawings</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Congress and the president have it exactly backward. Now is not the time for tax rebates or suspension of the federal gasoline tax.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Congress and the president have it exactly backward. Now is not the time for tax rebates or suspension of the federal gasoline tax.</p>
+        <p>If we had courageous leaders, they would seize the opportunity to impose a $1-to-$3 increase in the tax on gasoline.</p>
+        <p>This would force consumers to demand an energy policy that had its base in alternative fuels and hybrid automobiles, which in turn would speed up Detroit's lethargic response to the need for more efficient vehicles.</p>
+        <p>Yes, the short-term effect of a higher tax would be a burden to people who had to use their cars for work, but if we are ever to cut our dependence on foreign oil, it will be necessary to decrease the carbon emissions that are contributing to global warming and develop sustainable alternative sources of energy.</p>
+        <p>Now is the time for courageous leaders to stand and deliver. Unfortunately, President Bush and Congress do not have the stomach to make the hard choices.</p>
+        <p>Henry A. Lowenstein  New York, April 28, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Speech by Exxon Chairman</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="428218"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">COAL</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <org class="indexing_service">EXXON CORP</org>
+        <person class="indexing_service">RAWL, LAWRENCE G</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910306T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D61231F935A35750C0A967958260" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Speech by Exxon Chairman</hl1>
+      </hedline>
+      <byline class="print_byline">Special to The New York Times</byline>
+      <dateline>DALLAS, March 5</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a blunt speech to energy executives in Houston today, Lawrence G. Rawl, chairman of the Exxon Corporation, dismissed concerns that acid rain from coal-fired utility plants damaged forests and lakes. He also expressed doubt that theories on global warming would eventually prove accurate.</p>
+        <p>The idea that geothermal, solar and wind energy were cheap new sources of power is a myth, he said, adding that these three sources together provided less than 1 percent of domestic consumption last year.</p>
+      </block>
+      <block class="full_text">
+        <p>In a blunt speech to energy executives in Houston today, Lawrence G. Rawl, chairman of the Exxon Corporation, dismissed concerns that acid rain from coal-fired utility plants damaged forests and lakes. He also expressed doubt that theories on global warming would eventually prove accurate.</p>
+        <p>The idea that geothermal, solar and wind energy were cheap new sources of power is a myth, he said, adding that these three sources together provided less than 1 percent of domestic consumption last year.</p>
+        <p>"Short-term political considerations often take precedence over any reasonable analysis of our country's real needs," Mr. Rawl said. He criticized the Federal bureaucracy for slowing the formulation of a national energy policy.</p>
+        <p>Mr. Rawl described officials of some environmental groups as "cavalier and arrogant" in their campaign to keep drillers out of the Arctic National Wildlife Refuge, even though most Alaskans favored production. President Bush has asked Congress to permit drilling in the refuge as well as in several coastal areas.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

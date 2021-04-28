@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drive in House on Acid Rain</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="232537"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">SULFUR DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">NITROGEN OXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEED61E3EF93BA25750C0A96F948260" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drive in House on Acid Rain</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, March 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: More than 100 House members have introduced legislation to reduce sulfur dioxide emissions by more than 40 percent and nitrogen oxide emissions by about half that.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: More than 100 House members have introduced legislation to reduce sulfur dioxide emissions by more than 40 percent and nitrogen oxide emissions by about half that.</p>
+        <p>More than 100 House members have introduced legislation to reduce sulfur dioxide emissions by more than 40 percent and nitrogen oxide emissions by about half that.</p>
+        <p>The gases are the two major components of acid rain produced in the burning of coal and other industrial processes, that are carried aloft by air currents and then returned to earth.</p>
+        <p>The bill, introduced Thursday, drew strong support from environmental groups but was quickly opposed by the coal, automobile and electric utilities industries, which have fought environmentalists to a draw since the Reagan Administration began in 1981.</p>
+        <p>''This is the year for clean air,'' said Representative Gerry Sikorski, Democrat of Minnesota, a sponsor of the legislation. As evidence of this, he cited a ''new attitude'' by President Bush as opposed to that of former Ronald Reagan as President, and ''increased public awareness and concern about our environment.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Electricity Prices May Rise Up to 20%</title>
+    <meta content="27ctbriefs-3" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1720754"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E6D61731F934A15752C1A9639C8B63" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Electricity Prices May Rise Up to 20%</hl1>
+      </hedline>
+      <byline class="print_byline">By JANE GORDON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As oil and gas prices increase, customers of Connecticut Light and Power, the largest electricity distribution company in New England, will also see their bills go up this January.</p>
+        <p>The generation service charge, which is what the company pays to buy power, may rise by as much as 20 percent, Beryl Lyons, a spokeswoman for the State Department of Public Utility Control, said on Tuesday.</p>
+      </block>
+      <block class="full_text">
+        <p>As oil and gas prices increase, customers of Connecticut Light and Power, the largest electricity distribution company in New England, will also see their bills go up this January.</p>
+        <p>The generation service charge, which is what the company pays to buy power, may rise by as much as 20 percent, Beryl Lyons, a spokeswoman for the State Department of Public Utility Control, said on Tuesday.</p>
+        <p>The department is expected to rule on the increase by the end of December.</p>
+        <p>The utility collects the line item on the bill and passes it on to the suppliers, Ms. Lyons said on Tuesday. ''If your bill has been $100, it will go up to about $120,'' she said.</p>
+        <p>The wholesale price for natural gas, which is used to generate electricity, has risen more than 120 percent in the past year, Ms. Lyons said. ''Gas and oil have gone up so much it is just unbelievable. The price for fossil fuels has gone sky-high.''</p>
+        <p>The federal Department of Energy reported on its Web site that prices for crude oil, petroleum products and natural gas are expected to remain high for the rest of this year and all of 2006 because of diminished supplies and losses from Hurricanes Katrina and Rita.</p>
+        <p>JANE GORDON</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

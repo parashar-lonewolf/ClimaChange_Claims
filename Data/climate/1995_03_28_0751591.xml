@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="751591"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOFT DRINKS</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soft Drinks</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950328T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3D8103EF93BA15750C0A963958260" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Foaming Cola</p>
+        <p>Q.  What makes a cola foam up when you put a pretzel in it?</p>
+      </block>
+      <block class="full_text">
+        <p>Foaming Cola</p>
+        <p>Q.  What makes a cola foam up when you put a pretzel in it?</p>
+        <p>A.  It is a physical interaction, not a chemical reaction, said Dr. Joseph H. Hotchkiss, a professor in the department of food science at Cornell University in Ithaca, N.Y.</p>
+        <p>It works with other carbonated beverages, too, he said. In seedy bars, the kind the novelist William Kennedy writes about, he said, it was the custom to pour salt in beer to make it foam up.</p>
+        <p>The reason, he said, involves the fact that carbonated beverages, when opened and released from pressure, are supersaturated solutions of gas, with more carbon dioxide dissolved in the beverage than would be possible at normal pressures.</p>
+        <p>Left alone for two hours, the drink would slowly lose the gas and go flat, he said, but sodium chloride particles seem to provide an especially good surface for gas to collect on, form bubbles and quickly rise to the surface and escape. C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

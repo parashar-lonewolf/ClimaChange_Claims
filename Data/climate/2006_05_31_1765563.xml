@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Studies Link Global Warming to Greater Power of Hurricanes</title>
+    <meta content="31climate" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/31/science/31climate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1765563"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+        <org class="online_producer">Purdue University</org>
+        <org class="online_producer">Massachusetts Institute of Technology</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFD81F3EF932A05756C0A9609C8B63" item-length="559" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Studies Link Global Warming to Greater Power of Hurricanes</hl1>
+        <hl2 class="online_headline">2 Studies Link Global Warming to Greater Power of Hurricanes</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Climate researchers at Purdue University and the Massachusetts Institute of Technology separately reported new evidence yesterday supporting the idea that global warming is causing stronger hurricanes.</p>
+        <p>That claim is the subject of a long-running scientific dispute. And while the new research supports one side, neither the authors nor other climate experts say it is conclusive.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Neither the authors nor other climate experts say the new evidence is conclusive in a long-running scientific dispute.</p>
+      </block>
+      <block class="full_text">
+        <p>Climate researchers at Purdue University and the Massachusetts Institute of Technology separately reported new evidence yesterday supporting the idea that global warming is causing stronger hurricanes.</p>
+        <p>That claim is the subject of a long-running scientific dispute. And while the new research supports one side, neither the authors nor other climate experts say it is conclusive.</p>
+        <p>In one new paper, to appear in a coming issue of Geophysical Research Letters, Matthew Huber of the Purdue department of earth and atmospheric sciences and Ryan L. Sriver, a graduate student there, calculate the total damage that could be caused by storms worldwide, using data normally applied to reconciling weather forecast models with observed weather events.</p>
+        <p>The Purdue scientists found that their results matched earlier work by Kerry A. Emanuel, a hurricane expert at M.I.T. Dr. Emanuel has argued that global warming, specifically the warming of the tropical oceans, is already increasing the power expended by hurricanes.</p>
+        <p>The approach used by the Purdue researchers, concentrating on what is called reanalysis data, has never been tried for this purpose before, Dr. Huber said in an interview, adding, ''We were surprised that it did as well as it did.''</p>
+        <p>In a statement accompanying the release of the study, Dr. Huber said the results were important because the overall measure of cyclone activity, whether through more intense storms or more frequent storms, had doubled with a one-quarter-degree increase in average global temperature.</p>
+        <p>In the other new study, Dr. Emanuel and Michael E. Mann, a meteorologist at Pennsylvania State University, compared records of global sea surface temperatures with those of the tropical Atlantic and said the recent strengthening of hurricanes was attributable largely to the rise in ocean surface temperature.</p>
+        <p>Some researchers say long-term cycles unrelated to global warming are the major cause of hurricane strengthening in recent decades. But Dr. Emanuel and Dr. Mann, whose work is to be published in Eos, a publication of the American Geophysical Union, maintained that the cycles, the Atlantic Multidecadal Oscillation, had little if any effect.</p>
+        <p>In fact, they reported that the most recent cooling cycle could just as well be attributed to the presence of particle pollutants in the atmosphere that block sunlight and, they said, could have temporarily counteracted some of the influence of warming from accumulating greenhouse gases. Dr. Mann said the new findings also suggested that as efforts to cut pollution by particles and aerosols continued to intensify, their cooling effects would diminish while the heating effects of greenhouse gases would remain unconstrained.</p>
+        <p>As a result, he said, ''we could be in for much larger increases in Atlantic sea surface temperatures, and tropical cyclone activities, in the decades ahead.'' He joked that some might urge an increase in pollution, but called it ''a Faustian bargain.''</p>
+        <p>Stanley B. Goldenberg, a meteorologist with the Hurricane Research Division of the National Oceanic and Atmospheric Administration who has expressed skepticism about any connection between global warming and hurricane intensity, said he had not seen the new papers but had read nothing in other recent research to change his view.</p>
+        <p>''There's going to be an endless series of articles from this circle that is embracing this new theology built on very flimsy interpretation'' of hurricane data, Mr. Goldenberg said. ''If global warming is having an effect on hurricanes, I certainly wouldn't base it on the articles I've seen.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

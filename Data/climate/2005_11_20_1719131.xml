@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="20laugh" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/11/20/weekinreview/20laugh.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1719131"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Laugh Lines"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <person class="online_producer">Leno, Jay</person>
+        <person class="online_producer">Letterman, David</person>
+        <person class="online_producer">O'Brien, Conan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE4D81E3EF933A15752C1A9639C8B63" item-length="382" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+        <hl2 class="online_headline">Jay Leno, David Letterman and Conan O'Brien</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>They said on the news today that Al Qaeda is recruiting more women. Which makes you wonder, what does Al Qaeda promise women to get them to become terrorists? The guys get 72 virgins. What do they promise the women? One guy that will be monogamous?</p>
+        <p>Bill and Hillary Clinton are in Israel tonight. That's what the Mideast needs, two more people over there who are fighting.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>JAY LENO.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>They said on the news today that Al Qaeda is recruiting more women. Which makes you wonder, what does Al Qaeda promise women to get them to become terrorists? The guys get 72 virgins. What do they promise the women? One guy that will be monogamous?</p>
+        <p>Bill and Hillary Clinton are in Israel tonight. That's what the Mideast needs, two more people over there who are fighting.</p>
+        <p>Al Gore said over the weekend that global warming is more serious than terrorism. Unless there's a terrorist on your plane. Then that extra half of degree doesn't bother you anymore.</p>
+        <p>David Letterman</p>
+        <p>President Bush is on an eight-day tour of Asia. He's visiting American jobs.</p>
+        <p>You know what, ladies and gentlemen? This week, the bear hunting season opened up in New Jersey. How many of you folks out there hunting bears? As you know, the bear hunting season in New Jersey is a little bit different. First, they shoot the bear and then they bury it in a construction site. Here's what I think is great: George Bush's brother, Jeb, who is the governor of Florida, says he wants to run for the presidency. And you can't blame him because right now, the Bush name is magic.</p>
+        <p>Conan O'Brien</p>
+        <p>President Bush is traveling right now. Today, he was in Japan and took a tour of the temple with the prime minister. There was an awkward moment when President Bush said, ''Funny, you don't look Jewish.''</p>
+        <p>French President Jacques Chirac is asking his government to extend a national state of emergency until February. Under the rules, young men cannot go out after sundown unless they can prove they're going just going to cheat on their wives.</p>
+        <p>In order to curb illegal immigration, the United States is considering building a giant fence along the U.S.-Mexico border. In a related story, the Mexican government is building a giant catapult.</p>
+        <p>Laugh Lines</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

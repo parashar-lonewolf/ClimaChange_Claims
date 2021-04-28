@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy to Count On; Fuel Cells Tapped as Power Source for Computer Systems</title>
+    <meta content="Y17FUEL" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1131219"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Cells</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E2D61139F934A2575BC0A96F958260" item-length="2300" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy to Count On; Fuel Cells Tapped as Power Source for Computer Systems</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>OMAHA, July 28</dateline>
+      <abstract>
+        <p>Companies that need power source that is close to 100 percent reliable are considering fuel cell systems to replace electricity supplied by utilities; fuel cell technology has failed to catch on because of high cost, but in era of increasing dependence on voltage-sensitive computer equipment, people will pay a lot for power that will not quit; fuel cells may now have found niche after seven years of failing to attract widespread commercial use; advantages and disadvantage of fuel cell systems discussed; diagrams (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The lights may go out in the research labs at Columbia Presbyterian Medical Center in New York and may dim all over the East as voltage droops on hot summer days, but here, the juice never falters. Not since a cold day in early 1997, when power flickered briefly at the headquarters of the First National Bank of Omaha, causing a computer crash that executives vowed would never happen again.</p>
+        <p>The blackout in upper Manhattan on July 6 has brought new attention to so-called uninterruptible power systems. Columbia Presbyterian, like the bank here, had an emergency supply that proved to be unreliable and several medical experiments were ruined.</p>
+      </block>
+      <block class="full_text">
+        <p>The lights may go out in the research labs at Columbia Presbyterian Medical Center in New York and may dim all over the East as voltage droops on hot summer days, but here, the juice never falters. Not since a cold day in early 1997, when power flickered briefly at the headquarters of the First National Bank of Omaha, causing a computer crash that executives vowed would never happen again.</p>
+        <p>The blackout in upper Manhattan on July 6 has brought new attention to so-called uninterruptible power systems. Columbia Presbyterian, like the bank here, had an emergency supply that proved to be unreliable and several medical experiments were ruined.</p>
+        <p>But the bank's solution is attracting attention for another reason: it uses fuel cells, a technology that shows promise for reliability, flexibility and cleanliness.</p>
+        <p>So far, fuel cell technology has failed to catch on because of high cost, but in an era of increasing dependence on voltage-sensitive computer equipment, people will pay a lot for power that will not quit. So after seven years of failing to attract widespread commercial use, fuel cells may now have found a niche.</p>
+        <p>First National bought them when it decided that the 99.9 percent reliability of its old system was not good enough. That system had batteries powering the computers until emergency generators could kick in. But when the Omaha Public Power District faltered one cold day in 1997, the bank hit that 0.1 percent moment: the batteries quit, too. Engineers found later that two in a string of several dozen batteries had quietly failed, probably months before.</p>
+        <p>Computers are not like light bulbs, which simply dim when there is a drop in current and return to normal when the power is restored. A computer deprived of power for even a fraction of a second will generally crash -- often destroying data.</p>
+        <p>So on that unlucky one-in-a-thousand-chance day, the bank's check clearing, credit card processing, automatic teller machine support system, debit card system and other vital functions stopped dead.</p>
+        <p>The solution was fuel cells, devices that make electricity through chemistry rather than combustion. Batteries have long used chemistry to make electricity, but they eventually exhaust their chemicals; a fuel cell is supplied continuously with the chemicals it needs -- generally a hydrocarbon fuel like natural gas.</p>
+        <p>Understood for 100 years but still rare in the marketplace, fuel cells combine oxygen from the air with hydrogen from natural gas or other fuels to make three products: H2 O, heat and a flow of electrons -- or electric current.</p>
+        <p>The reaction converts natural gas to electricity far more efficiently than does burning the gas to turn a turbine generator -- the typical energy conversion at an electric power plant. For businesses that can also find a use for the heat in the water, which the bank is doing, efficiency is about 80 percent, versus 50 percent or less for most utility power plants.</p>
+        <p>The catch is that natural gas is cheap and fuel cells are expensive. Typically a cell's capital cost comes to about $3,000 to $5,000 a kilowatt, enough power to light 10 100-watt bulbs. Mass production could lower capital costs, though.</p>
+        <p>Fuel cells could have a variety of uses. The Ford Motor Company, under contract with the Energy Department, has just completed a car that runs on a low-temperature fuel cell and goes from 0 to 60 miles an hour in 12 seconds. Its tailpipe, made of plastic, emits nothing but a few drops of pure water.</p>
+        <p>Others are working on tiny cells that would power laptop computers or cellular telephones.</p>
+        <p>The portable cells use the same chemical reaction as the ones at the bank, which are built by ONSI (a name based on ''on site''), a subsidiary of the United Technologies Corporation of Hartford, but they rely on a different system that can increase and decrease output rapidly and that runs at a lower temperature. But both the portable cells, called proton exchange membrane cells, and the ONSI cells, called phosphoric acid cells, have yet to achieve large-scale commercial acceptance.</p>
+        <p>But bank officials seem satisfied.  Their data center, in a building designed to withstand 200-m.p.h. tornados and protected from the hazards of downtown Omaha by a moat, could be the last place in America where the lights go out. Bank officials say their power system is good 99.99997 percent of the time.</p>
+        <p>And when it fails, on average less than one second a year, computers do not go down; the bank simply switches to the local utility, the Omaha Public Power District. If the city's grid also happens to be down, said Dennis C. Hughes, the bank's head of property management, it might as well be the apocalypse.</p>
+        <p>''You're talking about a real monumental catastrophic problem here,'' he said. ''You're talking about Mother Nature, or the man upstairs, saying, 'This is it for First National Bank. Boom!' ''</p>
+        <p>Mr. Hughes has probably thought a lot about apocalypse. As an Air Force lieutenant colonel, he was in charge of electricity supplies at the Strategic Command. He and others at the bank expect their system to work the rest of their careers without failure. Installed in May in a 200,000-square-foot data processing center now nearing completion here, the system uses four fuel cells, each about the size of a truck trailer.</p>
+        <p>Unlike conventional power plants, in which huge metal armatures produce current by spinning rapidly within magnetic poles, fuel cells have few moving parts. ''Fat, dumb and happy,'' in the words of Richard A. Neal, a technician who services the system, they are expected to run around the clock, except for a 36-hour annual maintenance shutdown. Technicians plan to shut down the cells one a time, and even if one of the remaining three should fail while the fourth is being serviced, they will still have enough power to keep computers humming.</p>
+        <p>Though fuel cells of one sort or another have been in commercial use since 1992, this installation has become one of the hot sites in Omaha, attracting technopilgrims from as far away as South Africa who are seeking the promise of eternal life for their computers.</p>
+        <p>The Sure Power Corporation, of Danbury, Conn., which oversaw the installation here, believes that the technology could have saved months of research data that were lost by Columbia.</p>
+        <p>And fuel cells have always been held out by advocates as a quick way to supply electricity in small, environmentally friendly packages in places where transmission lines are overloaded or would be hard to install. A similar fuel cell now supplies power for a police substation in Central Park in New York, in a spot that already had natural gas but did not have good electrical connections.</p>
+        <p>Another cell, running at a sewage treatment plant in Yonkers, makes electricity from methane gas, which is produced as a byproduct in such plants and would otherwise pollute the atmosphere. The electricity it generates helps offset the plant's power consumption.</p>
+        <p>More than 200 ONSI fuel cells are in service worldwide, and more are about to be installed. One will go into the basement of 4 Times Square, a new building with a variety of clean-energy technologies. Donald S. Stein, ONSI's manager of customer support, said that because fuel cells did not produce the vibrations or emissions of turbines or other combustion generators they could be installed in many sites unobtrusively.</p>
+        <p>Phosphoric acid-based cells have had their ups and downs. ONSI laid off some employees earlier this year and raised prices because its market was not growing as anticipated,</p>
+        <p>But some experts think a large market for phosphoric acid could be found with companies that like First National, have a strong need for reliability.</p>
+        <p>''This is the first market segment,'' said Art Mannion, executive vice president of Sure Power. With more experience and volume, he said, the price of the cells will drop.</p>
+        <p>Finding a use for the waste heat helps make the price bearable. The bank, for example, will use the hot water produced by the cells to melt snow in the moat, but there are many potential uses for such heat.</p>
+        <p>Even so, a utility company or a company that needs electricity still has to find another reason to justify the expense of fuel cells. That is not likely to change soon, unless a consensus on global warming and the need for greater efficiency takes hold. Increasing demand, coupled with anticipated savings from mass production, could finally generate a market for the devices.</p>
+        <p>The bank's motivation is the assurance that it will never leave a customer standing at an A.T.M. with a card that does not work because computers are down. Mr. Hughes estimates that such a failure costs the bank $6 million an hour, including good will.</p>
+        <p>The bank's problem is that the electricity from utilities is totally inadequate to the needs of a computer. In the old days, power glitches never mattered, because they never registered on lights, motors, toasters and the other relatively insensitive devices that consumed power. Mainframe computers are more finicky; experts say they will not tolerate a disruption much longer than eight milliseconds, or eight-thousandths of a second. That kind of a glitch is too short for electric utilities to even log as a failure.</p>
+        <p>Apart from what engineers describe as the inherent stability of fuel cells, the system here is redundant in all the ways engineers could dream up. Each of the four fuel cells produces 200 kilowatts. The bank has 350 kilowatts of critical load, meaning any two cells would be adequate. Electricity from the utility company is not essential unless the fuel cells fail, but engineers like to have it there to keep the alternating current from the fuel cells in perfect step with the grid. The bank's electric feeds come from two substations.</p>
+        <p>Natural gas comes from two mains. Recently, construction workers sliced one of the mains, forcing the gas company to turn it off. But the bank's power system automatically switched to the other gas main.</p>
+        <p>Backing up the fuel cells are two mechanical batteries, each a 5-ton steel flywheel, spinning at 3,100 revolutions a minute in a sealed container of helium, which creates less friction than air. They take 45 minutes to spin up to operating speed. If the fuel cells falter, a generator taps the momentum of the flywheels and uses it to make current for 45 seconds. That is long enough for two diesel generators, each rated at 1,250 kilowatts, to start up. As long as one works, the system is fine. Six thousand gallons of fuel oil, enough for 10 days, are stored nearby.</p>
+        <p>If a pump seal fails, a belt breaks or something else goes wrong, the system beeps Mr. Neal or another technician. ONSI, from its headquarters in Connecticut, can view a schematic diagram of the system over the Web, complete with detailed operating data. Soon Mr. Neal and another technician will be able to do the same from home.</p>
+        <p>The system has paged technicians twice since May. In each case, it sensed instability in the power grid and automatically cut itself loose.</p>
+        <p>Four blocks away at the headquarters of the Omaha Public Power District, executives are cooperating and learning what they can about how the cells operate and interface with their system, but they remain skeptical. Everyone agrees that the main sources of shutdown risk in the Sure Power system are human error, but that is hard to quantify, said Timothy J. Burke, vice president of the power district. A comparison of the reliability of the fuel cells and a traditional battery-and-diesel-generator backup system, he said, would take about 10 years and probably would detect no difference.</p>
+        <p>At the moment the bank is using all the fuel cells' output internally and guaranteeing to continue to buy a certain amount of power from the power district; otherwise, it would have to pay a fee for the right to tap into the grid without notice.</p>
+        <p>In the future, utilities might install fuel cells on their own land or perhaps in customers' basements. The Omaha power district plans to buy a fuel cell of its own soon.</p>
+        <p>But for now, utility officials are extremely touchy about the quality of their product. Speaking of the two occasions when the bank's system cut itself loose from the grid, Mr. Burke said, ''We did not identify any voltage fluctuation on our side.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

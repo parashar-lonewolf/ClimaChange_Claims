@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Magnetic Flip</title>
+    <meta content="LTR001004" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1598108"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Magnetism and Magnets</classifier>
+        <classifier class="indexing_service" type="descriptor">Earth</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <person class="indexing_service">Grimm, Steven</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EEDC103AF933A15754C0A9629C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Magnetic Flip</hl1>
+      </hedline>
+      <abstract>
+        <p>Steven Grimm letter on July 13 article about reversal of earth's magnetic field contends that signs of global warming on earth could be attributable to changes in magnetic field (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Will Compasses Point South?'' points out several consequences of a weakened magnetic field: damage to the ozone layer, especially in the polar regions; more solar radiation reaching Earth; and the disorientation of sea turtles and other animals that use magnetism to navigate.</p>
+        <p>Overfishing is probably behind recent declines in turtle populations, but can the collapsing magnetic field be the reason we see a diminished ozone layer with large holes over the poles, elevated skin cancer rates in Australia, and a rise in surface temperatures?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Will Compasses Point South?'' points out several consequences of a weakened magnetic field: damage to the ozone layer, especially in the polar regions; more solar radiation reaching Earth; and the disorientation of sea turtles and other animals that use magnetism to navigate.</p>
+        <p>Overfishing is probably behind recent declines in turtle populations, but can the collapsing magnetic field be the reason we see a diminished ozone layer with large holes over the poles, elevated skin cancer rates in Australia, and a rise in surface temperatures?</p>
+        <p>The effects seem to fit the predictions, even if conventional wisdom points the finger solely at manmade pollution.</p>
+        <p>STEVEN GRIMM  Sunnyvale, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

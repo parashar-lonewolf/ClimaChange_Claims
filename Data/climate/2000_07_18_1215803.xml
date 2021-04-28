@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mercury Rising</title>
+    <meta content="L18MER$03" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215803"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Mercury (Metal)</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <org class="indexing_service">Adirondack Council</org>
+        <person class="indexing_service">Burke, Timothy J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000718T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E3DB133BF93BA25754C0A9669C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mercury Rising</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Adirondack Council executive director, Timothy J Burke, on July 12 article agrees on need to cut mercury emissions from electric power plants; says curbs on acid rain are also needed to control mercury contamination in freshwater fish</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your July 12 news article about the recent report on mercury emissions correctly identified the need to reduce mercury emissions from electric power plants to protect human health. However, mercury contamination in freshwater fish cannot be controlled solely by reducing mercury emissions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your July 12 news article about the recent report on mercury emissions correctly identified the need to reduce mercury emissions from electric power plants to protect human health. However, mercury contamination in freshwater fish cannot be controlled solely by reducing mercury emissions.</p>
+        <p>In the Adirondacks and Catskills, the lakes and rivers with contaminated fish are either acidic or have acidic water entering them from feeder streams. Acidic water leaches mercury from otherwise harmless rocks and soil. To prevent mercury contamination in fish, we must prevent acid rain as well. That means stricter, national controls on sulfur dioxide and nitrogen oxides from the same power plants emitting mercury.</p>
+        <p>Congress must act soon. As you reported in a June 15 news article, six more upstate water bodies, including two that provide drinking water to New York City, have been contaminated with mercury.</p>
+        <p>TIMOTHY J. BURKE  Elizabethtown, N.Y., July 12, 2000</p>
+        <p>The writer is executive director of the Adirondack Council.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

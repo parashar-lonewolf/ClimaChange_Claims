@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spacecraft Gains a Venus Shove Toward Jupiter</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="325603"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">PHOTOGRAPHY</classifier>
+        <classifier class="indexing_service" type="descriptor">VENUS (PLANET)</classifier>
+        <classifier class="indexing_service" type="descriptor">JUPITER (PLANET)</classifier>
+        <classifier class="indexing_service" type="descriptor">GALILEO PROJECT</classifier>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Venus (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jupiter (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD6143AF932A25751C0A966958260" item-length="410" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spacecraft Gains a Venus Shove Toward Jupiter</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PASADENA, Calif., Feb. 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Galileo spacecraft developed camera trouble today after flying around Venus in a maneuver that speeded the craft toward its 1995 encounter with Jupiter.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Galileo spacecraft developed camera trouble today after flying around Venus in a maneuver that speeded the craft toward its 1995 encounter with Jupiter.</p>
+        <p>The Galileo spacecraft developed camera trouble today after flying around Venus in a maneuver that speeded the craft toward its 1995 encounter with Jupiter.</p>
+        <p>Although the malfunction threatened to prevent Galileo from snapping five dozen more pictures of the cloud-covered planet, space agency officials said the primary objective of the encounter with Venus had been achieved: the planet's gravity increased the spacecraft's velocity and changed its trajectory to enable it to reach Jupiter.</p>
+        <p>Torrence Johnson, a project scientist at the National Aeronautics and Space Administration's Jet Propulsion Laboratory here, said the camera problem should cause no permanent troubles for the mission.</p>
+        <p>The mission director, Neal Ausman, said the television camera's shutter, after taking 16 pictures of Venus early today, clicked open and closed 452 times, twice a minute, apparently because of faulty commands from the probe's main computer.</p>
+        <p>Working on the Problem</p>
+        <p>Mr. Ausman, at a news conference, said the unwanted computer commands then stopped. He said scientists were working on the problem. The 2.8-ton spacecraft made its closest approach to Venus on Friday night. It was supposed to pass 10,028 miles above the furnace-like surface of the planet but actually came three or four miles closer, said Bill O'Neil, a mission scientist and design manager.</p>
+        <p>Mr. Johnson said scientists would not be disappointed if the camera malfunction prevented Galileo from snapping an additional five dozen planned pictures of Venus, which has been photographed by many other spacecraft.</p>
+        <p>''We have gained enough energy out of this celestial billiard shot to get the energy we need to make it all the way to Jupiter,'' Mr. Johnson said. Mr. Ausman said using the planet as a ''gravity slingshot'' had increased the spacecraft's speed to 88,740 miles per hour from 83,750 m.p.h.</p>
+        <p>Galileo will use the Earth as a gravity slingshot next December and again in Dec. 8, 1992, so that it will be properly aimed toward Jupiter, Mr. Ausman said.</p>
+        <p>The 16 pictures taken will be used to study wind and cloud patterns and search for lightning that might indicate the presence of volcanoes erupting beneath the clouds.</p>
+        <p>The spacecraft's ultraviolet, visible and infrared light sensors studied the makeup of Venus's carbon dioxide atmosphere, mapped cloud-top temperatures and looked for the glow of the hot lower atmosphere backlighting cooler clouds overhead, Mr. Johnson said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

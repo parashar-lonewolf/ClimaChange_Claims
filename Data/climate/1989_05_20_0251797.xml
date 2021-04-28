@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rise in Sea Levels May Indicate Earth Is Warming</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="251797"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <org class="indexing_service">SCIENCE (MAGAZINE)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DB1F3EF933A15756C0A96F948260" item-length="520" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rise in Sea Levels May Indicate Earth Is Warming</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, May 19</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The water in the world's oceans appears to have risen a tenth of an inch per year in the last century, a change that could indicate that the planet is indeed warming up, Canadian researchers reported Thursday.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The water in the world's oceans appears to have risen a tenth of an inch per year in the last century, a change that could indicate that the planet is indeed warming up, Canadian researchers reported Thursday.</p>
+        <p>The water in the world's oceans appears to have risen a tenth of an inch per year in the last century, a change that could indicate that the planet is indeed warming up, Canadian researchers reported Thursday.</p>
+        <p>Scientists concerned about possible climate warming caused by pollutants' trapping heat in the atmosphere have said such a warming would probably cause rising sea levels as the polar ice caps melt. But detailed evidence of a warming has been lacking, with sea levels apparently rising in some areas and falling in others.</p>
+        <p>Now W. R. Peltier and A. M. Tushingham of the University of Toronto report in the journal Science that they have calculated an average sea level rise of 2.4 millimeters a year over the last century, or about a tenth of an inch a year. Effects of Carbon Dioxide</p>
+        <p>''Our analyses should not be construed as proof that global climate warming due to the enhanced greenhouse effect (or some other unknown cause) is occurring,'' they cautioned. ''It would not be surprising, however, if the direct action of the expected enhancement of the greenhouse effect were first observed through an indirect response such as an increase in global sea level.''</p>
+        <p>The term greenhouse effect is used because increasing levels of carbon dioxide and other gases in the atmosphere allow sunlight to warm the planet but reduce the amount of warmth radiated back into space, somewhat in the way a greenhouse traps warmth.</p>
+        <p>Scientists are concerned that if the planet does warm, droughts will occur, major farming areas will be damaged and coastal areas will be flooded as the oceans expand.</p>
+        <p>Overall warming of the waters could account for about 25 percent of the rising seas, since warmer water expands and takes up more space than colder water, Dr. Tushingham and Dr. Peltier noted.</p>
+        <p>But most of the change seems to be a result of melting of the ice caps on Antarctica and Greenland, they reported. Difficulty in Detecting Trends</p>
+        <p>Measuring changes in global climate is a complex task, and researchers tend to disagree about the results. Weather varies considerably from day to day and year to year, making it hard to detect trends over time.</p>
+        <p>For example, while some researchers contend temperature records show a global warming over the last century, others say the apparent rise was caused by other special circumstances, like the growth of cities around weather stations. Cities tend to be warmer than surrounding areas because pavement traps heat, and shade-producing trees are fewer, among other factors.</p>
+        <p>In trying to sort out the sea levels, Dr. Peltier and Dr. Tushingham noted that a problem was caused by the fact that the massive sheets of the last ice age pressed down on land areas in the Northern Hemisphere. Even today, thousands of years later, some land areas continue to ''rebound'' gradually from that pressure, with the rising land making coastal tide gauges appear to show falling water.</p>
+        <p>The researchers averaged reports from tide gauges around the world to filter out local effects. They then calculated that sea levels were rising an average of 2.4 millimeters a year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

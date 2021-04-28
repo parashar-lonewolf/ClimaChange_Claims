@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="441304"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DE133FF934A15757C0A967958260" item-length="306" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* American Petrofina Inc., Dallas, an oil company, said that it had changed its name to Fina, to establish a firmer relationship with its subsidiary Fina Oil and Chemical Co. * Armco Inc., Parsippany, N.J., a steel and field equipment company, said it had signed a letter of intent to purchase Douglas Dynamics, Inc., Milwaukee, a manufacturer of snowplows, from its stockholders for an undisclosed sum. Armco said it hopes to complete the purchase by June.</p>
+      </block>
+      <block class="full_text">
+        <p>* American Petrofina Inc., Dallas, an oil company, said that it had changed its name to Fina, to establish a firmer relationship with its subsidiary Fina Oil and Chemical Co. * Armco Inc., Parsippany, N.J., a steel and field equipment company, said it had signed a letter of intent to purchase Douglas Dynamics, Inc., Milwaukee, a manufacturer of snowplows, from its stockholders for an undisclosed sum. Armco said it hopes to complete the purchase by June.</p>
+        <p>* Collins Foods Inc., Los Angeles, a restaurant operator and franchiser, announced that its stockholders had approved a merger with Sizzler Restaurants International Inc., Los Angeles, a restaurant franchise. Before the merger, Collins Foods owned about 94 percent of outstanding Sizzler stock. * Diamond Shamrock Inc., San Antonio, a petroleum refiner, said it planned to purchase 64 Payless convenience stores in Texas from Strasburger Enterprises, Temple, Tex., a convenience store operator, for an undisclosed sum. * First Wachovia Corp., Winston-Salem, N.C., a holding company, said that it had changed its name to Wachovia Corp. * Guardsman Products Inc., Grand Rapids, Mich., a maker of industrial coatings and packagings, said it had entered into a verbal agreement with an undisclosed company to sell its contract packaging plant in Holland, Mich.  * Loral Infared and Imaging Systems, Lexington, Mass., an electro-optical components and systems company, has been awarded a $145 million contract from the Jet Propulsion Laboratory, Pasadena, Calif., to design and build instruments for a program that studies global warming trends. * Wackenhut Corp., Coral Gables, Fla., a security service company, said it had formed a new unit, Waskenhut Monitoring Services Inc., and had plans to enter the electronic monitoring market.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

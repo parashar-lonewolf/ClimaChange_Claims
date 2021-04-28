@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SUNDAY, July 31, 1994;evere Weather Watch</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="702912"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">ULTRAVIOLET LIGHT</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUN</classifier>
+        <org class="indexing_service">NATIONAL WEATHER SERVICE</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sun</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940731T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7DF1439F932A05754C0A962958260" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SUNDAY, July 31, 1994;evere Weather Watch</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Weather gets more worrisome all the time. Once, it was hot or cold. Then came El Nino, global warming, comets hitting Jupiter (where the weather is really going haywire). Now, in addition to rain forecasts, jet stream charting and pollution alerts, the National Weather Service offers the ultraviolet exposure index.</p>
+        <p>Each day, in a yearlong trial that started in June, the weather service is forecasting the danger from the sun on a scale of 1 to 10 for 58 cities. (The Times publishes the New York information as a Solar Risk Index.) As you might expect, Seattle is a good place to escape the sun (it often rates a 4) and Phoenix is not (9 is common).</p>
+      </block>
+      <block class="full_text">
+        <p>Weather gets more worrisome all the time. Once, it was hot or cold. Then came El Nino, global warming, comets hitting Jupiter (where the weather is really going haywire). Now, in addition to rain forecasts, jet stream charting and pollution alerts, the National Weather Service offers the ultraviolet exposure index.</p>
+        <p>Each day, in a yearlong trial that started in June, the weather service is forecasting the danger from the sun on a scale of 1 to 10 for 58 cities. (The Times publishes the New York information as a Solar Risk Index.) As you might expect, Seattle is a good place to escape the sun (it often rates a 4) and Phoenix is not (9 is common).</p>
+        <p>The idea is that by using the data, people can do a risk/benefit analysis before they go outside. The risks are skin cancer, cataracts and lowered immune-system functioning. The benefits: a tan and vitamin D.</p>
+        <p>The weather used to be a good subject for idle chat, like what to have for lunch. No longer. Now both the weather and lunch are potentially deadly. Pastrami or tuna? In the dark or in the park? Death by fat or ultraviolet rays?  As the song might go if Dylan wrote it today: You don't need a weatherman to tell which way the wind blows. You need an epidemiologist.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="356613"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD6143FF935A15756C0A966958260" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>Lie Detector for Thornburgh</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>Lie Detector for Thornburgh</p>
+        <p>Lie Detector for Thornburgh</p>
+        <p>The Attorney General took, and passed, a polygraph test during an internal criminal inquiry that led to reassignment of two aides. Page 8.</p>
+        <p>Split on Global Warming</p>
+        <p>As experts warned that carbon dioxide should be curtailed sharply, Britain broke with the United States by favoring rapid action. Page 6.</p>
+        <p>Winnie Mandela Aide Guilty</p>
+        <p>A bodyguard of Winnie Mandela, Nelson Mandela's wife, was found guilty of killing a youth who was held at Mrs. Mandela's home. Page 3.</p>
+        <p>The Lagging Census</p>
+        <p>The second phase of the census, the door-to-door count, is going as badly as the mail-in phase, and it may be extended in New York City. Page 25.</p>
+        <p>New York's Right Divided</p>
+        <p>New York's Conservative Party has threatened to oppose the Republican choice for governor. Page 25.</p>
+        <p>Not Gracie Mansion, but . . .</p>
+        <p>Ed Koch, the former Spartan, has decorated his apartment in - surprise! - style. Page 25.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

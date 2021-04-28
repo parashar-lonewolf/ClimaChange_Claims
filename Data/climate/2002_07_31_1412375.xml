@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Pallid Clean Air Plan</title>
+    <meta content="31WED3" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/07/31/opinion/31WED3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1412375"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Jeffords, James M (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">Jeffords, James</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020731T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E1DE1E38F932A05754C0A9649C8B63" item-length="358" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Pallid Clean Air Plan</hl1>
+        <hl2 class="online_headline">A Pallid Clean Air Plan</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial compares Pres Bush's 'Clear Skies' proposal unfavorably with bill sponsored by Sen James Jeffords</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush has now unveiled his long-awaited ''Clear Skies'' proposal, which he promises will simplify and strengthen the Clean Air Act without crippling American industry. A debate on how to make the 32-year-old Clean Air Act a stronger and more efficient instrument is surely long overdue. But the Bush plan falls well short of the only other credible proposal on the table, a bill sponsored by Senator James Jeffords of Vermont.</p>
+        <p>Like Mr. Jeffords, the president calls for substantial reductions in three major pollutants -- the nitrogen oxides that produce smog, sulfur dioxide, which causes acid rain, and mercury. But he ignores emissions of carbon dioxide, the main global warming gas. That is a huge omission. Even for the pollutants he addresses, Mr. Bush's timetable is too leisurely. He aims to reduce all three by 70 percent by 2018. The Jeffords proposal would make the same sizable reductions by 2008. Finally, the Bush proposal would roll back key provisions of the existing Clean Air Act that Mr. Jeffords would keep.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The 1970 Clean Air Act is deserving of thoughtful improvement, but President Bush's "Clear Skies" proposal, as written, is not the way to get there.</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush has now unveiled his long-awaited ''Clear Skies'' proposal, which he promises will simplify and strengthen the Clean Air Act without crippling American industry. A debate on how to make the 32-year-old Clean Air Act a stronger and more efficient instrument is surely long overdue. But the Bush plan falls well short of the only other credible proposal on the table, a bill sponsored by Senator James Jeffords of Vermont.</p>
+        <p>Like Mr. Jeffords, the president calls for substantial reductions in three major pollutants -- the nitrogen oxides that produce smog, sulfur dioxide, which causes acid rain, and mercury. But he ignores emissions of carbon dioxide, the main global warming gas. That is a huge omission. Even for the pollutants he addresses, Mr. Bush's timetable is too leisurely. He aims to reduce all three by 70 percent by 2018. The Jeffords proposal would make the same sizable reductions by 2008. Finally, the Bush proposal would roll back key provisions of the existing Clean Air Act that Mr. Jeffords would keep.</p>
+        <p>Mr. Bush argues that the regulatory mechanisms he has in mind for reaching Clear Skies' goals, chiefly a market-based emissions trading scheme, will be so effective that the need for many existing rules will disappear. This page has long embraced emissions trading as an essential tool for reducing pollution at manageable cost. We also agree that the law needs streamlining. But some regulations, aimed at specific regional problems that nationwide trading alone is unable to address, cannot lightly be abandoned.</p>
+        <p>Among these are rules governing emissions that limit visibility in the national parks, and rules governing pollution that drifts eastward from Midwestern power plants. Indeed, Mr. Bush has already made clear his intention to roll back one of the most important of these regulations, a provision known as new source review that compels utilities to install modern pollution controls whenever they significantly upgrade older plants.</p>
+        <p>The 1970 Clean Air Act is a landmark statute, deserving of thoughtful improvement. The Bush bill, as written, is not the way to get there.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

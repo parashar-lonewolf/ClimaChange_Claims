@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Same Tragic Mistake</title>
+    <meta content="L14ENVI" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1543009"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Fisher, Mary C</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE7DD153CF937A25751C1A9659C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Same Tragic Mistake</hl1>
+      </hedline>
+      <abstract>
+        <p>Mary C Fisher letter says Bush administration ought to be preparing for worst-case, not best-case, scenario on global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''White House Attacked for Letting States Lead on Climate'' (news article, Dec. 11), you refer to what many see as ''inaction'' on the president's part with regard to global climate change.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''White House Attacked for Letting States Lead on Climate'' (news article, Dec. 11), you refer to what many see as ''inaction'' on the president's part with regard to global climate change.</p>
+        <p>The Bush administration, in forming its environmental policy, is making the same tragic mistake it made in Iraq. It is planning for the best-case scenario. A wise leader prepares for the worst-case scenario.</p>
+        <p>MARY C. FISHER  Westerville, Ohio, Dec. 11, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

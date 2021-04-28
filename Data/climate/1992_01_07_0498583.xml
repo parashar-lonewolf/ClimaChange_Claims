@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming Threat Found in Aircraft Fumes</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="498583"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">JET ENGINES AND JET PROPULSION</classifier>
+        <classifier class="indexing_service" type="descriptor">NITROGEN OXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jet Engines and Jet Propulsion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jet Engines and Jet Propulsion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Engines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5DA1339F934A35752C0A964958260" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming Threat Found in Aircraft Fumes</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NITROGEN oxide fumes emitted by aircraft exert 30 times as great an effect on climate as the same fumes emitted at ground level by industrial processes and the burning of fossil fuels like coal and oil, British scientists have calculated.</p>
+        <p>The nitrogen oxides react with other chemicals in the air to create ozone in the troposphere, or lower atmosphere. At higher altitudes, in the stratosphere, ozone blocks ultraviolet rays from the sun that can cause cancer in humans. In the troposphere, ozone is toxic to plants and animals, and it is one of a number of tropospheric gases -- carbon dioxide is the chief one -- that trap heat.  Many scientists believe that increases in the gases as a result of human activity will cause the earth's climate to warm substantially in coming decades.</p>
+      </block>
+      <block class="full_text">
+        <p>NITROGEN oxide fumes emitted by aircraft exert 30 times as great an effect on climate as the same fumes emitted at ground level by industrial processes and the burning of fossil fuels like coal and oil, British scientists have calculated.</p>
+        <p>The nitrogen oxides react with other chemicals in the air to create ozone in the troposphere, or lower atmosphere. At higher altitudes, in the stratosphere, ozone blocks ultraviolet rays from the sun that can cause cancer in humans. In the troposphere, ozone is toxic to plants and animals, and it is one of a number of tropospheric gases -- carbon dioxide is the chief one -- that trap heat.  Many scientists believe that increases in the gases as a result of human activity will cause the earth's climate to warm substantially in coming decades.</p>
+        <p>If the growth in aircraft traffic in the 1990's continues at current rates, nitrogen oxides would result in the trapping of enough solar energy to raise the earth's temperature by about two-hundredths of a degree Fahrenheit, according to calculations by Dr. Colin Johnson of the United Kingdom Atomic Energy Authority's Harwell Laboratory and colleagues. By way of comparison, they calculated, this is about one-seventh the heating effect exerted by increased carbon dioxide emissions from 1970 to 1980.</p>
+        <p>Working with a computerized model of the atmosphere, they found that nitrogen oxide emissions from aircraft contributed about as much to global warming as emissions from ground-based sources like automobiles, even though aircraft account for only 3 percent of all nitrogen oxides produced by human activity.  One reason, they said in a paper in the current issue of the journal Nature, is that nitrogen oxides last longer when they are higher in the atmosphere.</p>
+        <p>The heating effect of ozone, carbon dioxide and all the other heat-trapping gases may be diminished or enhanced by a number of competing factors, scientists say. Similarly, Dr. Johnson said, the effect of nitrogen oxides is only one of a number of factors that must be considered in coming to a total understanding of the climatic effects of ozone. He pointed out, for example, that chlorofluorocarbons, industrial chemicals that also trap heat, destroy ozone, canceling out part of the total effect from all sources. Still, Dr. Johnson said, it is necessary to understand the effect of nitrogen oxide emissions aloft, since aircraft traffic is increasing.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

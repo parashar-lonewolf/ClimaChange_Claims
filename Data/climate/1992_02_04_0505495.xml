@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="505495"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2D8153DF937A35751C0A964958260" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Noriega Trial Resumes</p>
+        <p>The drug trafficking trial of Gen. Manuel Antonio Noriega resumed, with the defense beginning its case with a shift in strategy. Page A10. Finland's New Fortifications</p>
+        <p>Finland is using an unorthodox defense policy to protect its borders with a changing Russia. Page A7. Obstacle for Atomic Waste</p>
+        <p>A Federal judge ruled the Energy Department could not open a nuclear waste dump without the approval of New Mexico and Congress. Page A10.  New Fears on Ozone Hole</p>
+        <p>NASA data suggest a hole in the ozone layer could develop this winter over the United States, Canada and Europe. Science Times, page C4. For Schools, Funds Batted In</p>
+        <p>Bobby Bonilla, the Mets' new star, is to donate $500 to a Bronx school fund for each run he drives in. Page B1.</p>
+      </block>
+      <block class="full_text">
+        <p>Noriega Trial Resumes</p>
+        <p>The drug trafficking trial of Gen. Manuel Antonio Noriega resumed, with the defense beginning its case with a shift in strategy. Page A10. Finland's New Fortifications</p>
+        <p>Finland is using an unorthodox defense policy to protect its borders with a changing Russia. Page A7. Obstacle for Atomic Waste</p>
+        <p>A Federal judge ruled the Energy Department could not open a nuclear waste dump without the approval of New Mexico and Congress. Page A10.  New Fears on Ozone Hole</p>
+        <p>NASA data suggest a hole in the ozone layer could develop this winter over the United States, Canada and Europe. Science Times, page C4. For Schools, Funds Batted In</p>
+        <p>Bobby Bonilla, the Mets' new star, is to donate $500 to a Bronx school fund for each run he drives in. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

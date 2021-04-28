@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Extinct' Fish Found</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="424632"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FISH AND OTHER MARINE LIFE</classifier>
+        <classifier class="indexing_service" type="descriptor">ENDANGERED AND EXTINCT SPECIES</classifier>
+        <person class="indexing_service">SMITH, MICHAEL L (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1D71F3CF93AA25751C0A967958260" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Extinct' Fish Found</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A RARE fish species that was believed to be extinct for 20 years has been rediscovered in a pond near the dried lake bed in Mexico where it once flourished.</p>
+        <p>The species, known as opal allotoca, dates back before the last ice age and was believed to have existed only in Lake Magdalena, a landlocked lake in an arid region 100 miles west of Guadalajara, Mexico. The lake dried up in 1970 because nearby residents drained the water for drinking and irrigation faster than it was replaced. Several species of fish unique to the lake were believed to be lost.</p>
+      </block>
+      <block class="full_text">
+        <p>A RARE fish species that was believed to be extinct for 20 years has been rediscovered in a pond near the dried lake bed in Mexico where it once flourished.</p>
+        <p>The species, known as opal allotoca, dates back before the last ice age and was believed to have existed only in Lake Magdalena, a landlocked lake in an arid region 100 miles west of Guadalajara, Mexico. The lake dried up in 1970 because nearby residents drained the water for drinking and irrigation faster than it was replaced. Several species of fish unique to the lake were believed to be lost.</p>
+        <p>Dr. Michael L. Smith, a research scientist at the American Museum of Natural History, and two graduate students exploring the area for fish last April found a three-acre artificial pond near the lake bed. After three hours of wading through chest-high muck and floating plants, they found 15 of the fish, the museum said last week. They collected 10 and brought them back to the United States to breed.</p>
+        <p>A plan to reintroduce the fish into the wild has been approved by the United States-Mexican Committee for Wildlife Preservation, Dr. Smith said.</p>
+        <p>The two-inch-long fish is named after an opal because the fish's back shimmers with a rainbow of colors when it catches the sunlight. Dr. Smith said he believed that other species of fish unique to the lake were indeed extinct.</p>
+        <p>He said desert fish were particularly interesting because they have adapted to climatic changes similar to global warming. The fish have been exposed to high temperatures and high levels of salinity, and most could not move to escape change.</p>
+        <p>Almost all fish listed as endangered are desert fish, said Dr. John Williams, a research biologist with the United States Fish and Wildlife Service. The fish must compete with humans for limited water in arid regions.</p>
+        <p>"Desert fish were doing quite well until man came along," Dr. Williams said.  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

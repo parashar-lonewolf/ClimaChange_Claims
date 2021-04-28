@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pollutants That Don't Stay Home</title>
+    <meta content="LTR224724" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1139464"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="indexing_service" type="descriptor">Medical Wastes</classifier>
+        <classifier class="indexing_service" type="descriptor">Incinerators</classifier>
+        <classifier class="indexing_service" type="descriptor">Mercury (Metal)</classifier>
+        <person class="indexing_service">Lockwood, Alan H (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E0DA1F3CF932A1575AC0A96F958260" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pollutants That Don't Stay Home</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Alan H Lockwood letter scores medical waste incinerators for amount of mercury they discharge</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Robert F. Kennedy Jr. (Op-Ed, Sept. 18) points out that Midwestern power plants discharge mercury, as well as the gases that are precursors of acid rain. While the behavior of the utilities might be expected in a free-market economy, there is no excuse for another purveyor of mercury: the health care industry.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Robert F. Kennedy Jr. (Op-Ed, Sept. 18) points out that Midwestern power plants discharge mercury, as well as the gases that are precursors of acid rain. While the behavior of the utilities might be expected in a free-market economy, there is no excuse for another purveyor of mercury: the health care industry.</p>
+        <p>According to the Environmental Protection Agency, medical waste incinerators discharge almost one-third as much mercury as power plants and, perhaps worse, are the third-ranked source of dioxins.</p>
+        <p>Yet attempts to tighten regulation of these incinerators were opposed successfully by the powerful Hospital Association of America. ''First do no harm,'' the fundamental tenet of the Hippocratic oath, should reach beyond the doctor's office.</p>
+        <p>ALAN H. LOCKWOOD, M.D.  Buffalo, Sept. 20, 1999</p>
+        <p>The writer is a professor of neurology and nuclear medicine, State University of New York at Buffalo.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

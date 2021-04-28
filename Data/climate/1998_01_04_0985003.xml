@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Lives They Lived: Karl F. Koopman; Batman</title>
+    <meta content="04KOOPMAN" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="44" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="985003"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bats</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Ackerman, Diane</person>
+        <person class="indexing_service">Koopman, Karl F (1920-97)</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E6D91231F937A35752C0A96E958260" item-length="539" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Lives They Lived: Karl F. Koopman; Batman</hl1>
+      </hedline>
+      <byline class="print_byline">By Diane Ackerman</byline>
+      <byline class="normalized_byline">Ackerman, Diane</byline>
+      <abstract>
+        <p>Diane Ackerman tribute to Karl F Koopman, bat expert; photo (M)�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>b. 1920 Curator emeritus at the American Museum of Natural History, Koopman was the most knowledgeable bat expert of his time.</p>
+        <p>Like Aristotle, he knew everything. When he died, a vast knowledge of biology died with him. Blessed with a photographic and encyclopedic memory beyond the ken of computers, he was a dynamic resource on whom colleagues came to depend. How esoteric was his knowledge? Merlin Tuttle, executive director of Bat Conservation International, recalls an occasion when Karl Koopman steered him to a paper unknown to other bat experts, published in Spanish, in an Ecuadorean journal that had folded after the first issue. Out of respect and disbelief, colleagues sometimes amused themselves by trying to stump him with esoterica, but they always lost.</p>
+      </block>
+      <block class="full_text">
+        <p>b. 1920 Curator emeritus at the American Museum of Natural History, Koopman was the most knowledgeable bat expert of his time.</p>
+        <p>Like Aristotle, he knew everything. When he died, a vast knowledge of biology died with him. Blessed with a photographic and encyclopedic memory beyond the ken of computers, he was a dynamic resource on whom colleagues came to depend. How esoteric was his knowledge? Merlin Tuttle, executive director of Bat Conservation International, recalls an occasion when Karl Koopman steered him to a paper unknown to other bat experts, published in Spanish, in an Ecuadorean journal that had folded after the first issue. Out of respect and disbelief, colleagues sometimes amused themselves by trying to stump him with esoterica, but they always lost.</p>
+        <p>Although his knowledge was based mainly on research in museums, Koopman traveled widely, identifying bats in caves and collecting specimens. Among his many discoveries, he figured out how Caribbean, South American and African bats evolved and were distributed as they are (reasoning that certain bat-rich islands were once connected to the mainland, where related bats thrive).</p>
+        <p>Fieldwork, however, posed special problems for Koopman. He was unusually short and may have suffered from a disability, though friends and colleagues weren't entirely sure. Like some of the exotic bats he studied, he had a private life that was mostly rumor. A mutual friend tells me that Koopman was possessed of a high feminine voice, fragile skin and a somewhat waddling gait that made running difficult. On a trip to Uruguay in 1963, he faced a parade of trials -- of which brier patches, swarms of stinging bees and piranhas were only the beginning. ''Through it all,'' Tuttle says, ''Karl never lost his sense of humor.''</p>
+        <p>As a child, Koopman must have been taunted mercilessly. That would have derailed most people. Yet he was triumphant. No doubt his life was complex and frustrating in some ways, but it also brimmed with genius, respect, discovery and high-octane wonder. That he could be solemn one moment and playfully prankish the next contributed to his charisma. He had a habit of arguing tongue in cheek in favor of global warming ''because it extends the ranges of all those tropical bats! They'll be up in North America where I can study them more easily!''</p>
+        <p>An ace historian with a special interest in battles of the Revolutionary War, he was an enthusiast and scholar of the highest order. Somehow he could be both dispassionate and melodramatic; the plight of the vanishing rain forest brought him to tears. A lively mind glowed in all his endeavors, but the object of his lifelong passion was bats. What led him to those often maligned creatures that live by night could fill an evening's imaginings.  Diane Ackerman is a poet and essayist whose most recent books are ''A Slender Thread'' and, for children, ''Bats: Shadows in the Night.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Diane Ackerman is a poet and essayist whose most recent books are ''A Slender Thread'' and, for children, ''Bats: Shadows in the Night.''</tagline>
+    </body.end>
+  </body>
+</nitf>

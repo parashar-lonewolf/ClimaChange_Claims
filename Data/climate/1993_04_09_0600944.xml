@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DISCOVERY'S CREW ATTEMPTS REPAIRS</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="600944"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">DISCOVERY (SPACE SHUTTLE)</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE SHUTTLE</classifier>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTS</classifier>
+        <person class="indexing_service">LEARY, WARREN E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4D71239F93AA35757C0A965958260" item-length="595" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DISCOVERY'S CREW ATTEMPTS REPAIRS</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY,</byline>
+      <byline class="normalized_byline">LEARY, WARREN E</byline>
+      <dateline>CAPE CANAVERAL, Fla., April 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a night launching, the astronauts aboard the shuttle Discovery were busy today trying to repair minor equipment problems as the spacecraft began a mission to study the Earth's atmosphere, especially its ozone layer.</p>
+        <p>The shuttle and its crew of four men and one woman were launched from the Kennedy Space Center at 1:29 A.M. Within hours, the astronauts had activated instruments to study the atmosphere and the Sun. They then began trying to rectify problems, including a balky message printer and the failure of a key instrument to transmit data to ground stations.</p>
+      </block>
+      <block class="full_text">
+        <p>After a night launching, the astronauts aboard the shuttle Discovery were busy today trying to repair minor equipment problems as the spacecraft began a mission to study the Earth's atmosphere, especially its ozone layer.</p>
+        <p>The shuttle and its crew of four men and one woman were launched from the Kennedy Space Center at 1:29 A.M. Within hours, the astronauts had activated instruments to study the atmosphere and the Sun. They then began trying to rectify problems, including a balky message printer and the failure of a key instrument to transmit data to ground stations.</p>
+        <p>Teresa Vanhooser, the National Aeronautics and Space Administration's mission manager for the science payload, told reporters that ground stations were receiving virtually none of the data being gathered by an instrument designed to measure 30 to 40 types of gases in the atmosphere. She said that until engineers could find a solution, data about ozone depletion would be stored on a tape recorder aboard the spacecraft. Carries Free-Flying Satellite</p>
+        <p>Dr. Tim Miller, the mission scientist, acknowledged that scientists might not get all the information they wanted from the instrument, but he said an effort would be made to record and save all the gas data taken over the Northern Hemisphere, where there is growing concern about ozone depletion.</p>
+        <p>The flight, the 16th for Discovery and the 54th of the shuttle program, carries instruments for studying the composition of the atmosphere and solar activity that can influence its chemistry.</p>
+        <p>Discovery's cargo bay carried a 2,800-pound free-flying satellite called Spartan that was designed to study the Sun's corona and the velocity and acceleration of the solar wind, charged particles that bathe the Earth.</p>
+        <p>On the mission's third day, Dr. Ellen Ochoa, an electrical engineer, is to use the shuttle's robot arm to place Spartan in orbit. Two days later, Discovery is to rendezvous with Spartan, and Dr. Ochoa will retrieve it with the arm. Focusing on Ozone</p>
+        <p>The mission's main payload, a $55 million collection of instruments called Atlas, for Atmospheric Laboratory for Science and Applications, will remain on a pallet in the open cargo bay for the entire mission. A similar instrument package flew for the first time last year, and NASA hopes to fly the package once a year for an entire 11-year solar cycle, said William Townsend, an administrator for the agency's Mission to Planet Earth program.</p>
+        <p>Among other things, scientists want Atlas to track variations in solar activity and their affects on the atmosphere.</p>
+        <p>A principal focus of the research is ozone, a form of oxygen that blocks harmful ultraviolet solar radiation from reaching the Earth's surface. Many scientists believe ozone is being destroyed by chemical pollutants, especially the chlorofluorocarbons used in refrigeration and to make plastics. In addition, they believe that natural processes, like gases from volcanic eruptions, may also be factors.</p>
+        <p>Some scientists believe that an increase in ultraviolet radiation could result in more skin cancer, cataracts and other problems.</p>
+        <p>Since the 1980's, scientists have been aware of decreased levels of ozone over Antarctica during its winter season. Each year, they have monitored an increasingly larger "ozone hole" over the South Pole. More recently, researchers discovered concentrations of ozone-depleting chemicals, like chlorine monoxide, over the Northern Hemisphere and have also detected early indications of decreased ozone levels over Europe, Canada and the northern United States.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

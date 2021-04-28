@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming And the Election</title>
+    <meta content="L01WAR$02" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/11/01/opinion/L01WAR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1243602"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <person class="indexing_service">Bush, George W (Gov)</person>
+        <person class="indexing_service">Zaber, David J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E0DE1330F932A35752C1A9669C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming And the Election</hl1>
+      </hedline>
+      <abstract>
+        <p>David J Zaber letter deplores Gov George W Bush's indifference to global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Sharper Warning on Warming'' (editorial, Oct. 28):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Sharper Warning on Warming'' (editorial, Oct. 28):</p>
+        <p>George W. Bush's indifference to global warming is all the more disturbing given the new report by the Intergovernmental Panel on Climate Change. You are correct to say that the current inaction is Congress's  fault, however.</p>
+        <p>The Bush camp has already indicated that it would work against taking actions that will buffer the inevitable climate change. Mr. Bush's positions include logging more forests, drilling for more oil in sensitive ecosystems and instituting voluntary pollution-control measures. This will hardly help push Congress to craft meaningful legislation to address the problem.</p>
+        <p>Congress and the Bush camp should think of fighting global warming as another form of social security. Only this time, it's not  just another entitlement.</p>
+        <p>DAVID J. ZABER  Madison, Wis., Oct. 28, 2000</p>
+        <p>The writer is a resource ecologist for Wisconsin's Environmental Decade.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

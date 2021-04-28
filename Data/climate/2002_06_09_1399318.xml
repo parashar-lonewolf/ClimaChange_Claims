@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Becoming Green Without Suffering</title>
+    <meta content="LTR235141" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1399318"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Conditioning</classifier>
+        <location class="indexing_service">Long Island (NY)</location>
+        <person class="indexing_service">Sloane, Steve</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Conditioning</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E2D6133DF93AA35755C0A9649C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Becoming Green Without Suffering</hl1>
+      </hedline>
+      <abstract>
+        <p>Steve Sloane adds further information to his May 26 letter about need for air conditioners on Long Island</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As published on May 26, my letter to the editor described the higher humidity and pollen counts that make air-conditioners more important to comfortable living on Long Island than in many other locales. But when my letter was cut off I was just warming up to my main point, which was that you do not have to suffer to be ecological.</p>
+        <p>Photovoltaic electricity neither burns fuel nor pollutes. It spares our imperiled ozone layer and does not contribute to the greenhouse effect.</p>
+      </block>
+      <block class="full_text">
+        <p>As published on May 26, my letter to the editor described the higher humidity and pollen counts that make air-conditioners more important to comfortable living on Long Island than in many other locales. But when my letter was cut off I was just warming up to my main point, which was that you do not have to suffer to be ecological.</p>
+        <p>Photovoltaic electricity neither burns fuel nor pollutes. It spares our imperiled ozone layer and does not contribute to the greenhouse effect.</p>
+        <p>While I enjoy my air-conditioned comfort, six solar panels heat my pool. Additionally, 3,800 watts of photovoltaic electric panels are contracted and approved by the Long Island Power Authority to be installed on my home this summer so that my energy consumption is fuel-efficient and guilt-free during peak-load hours.</p>
+        <p>STEVE SLOANE  Glen Cove</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

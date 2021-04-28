@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crystal Mysteries</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="207078"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="TOPICS OF THE TIMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">SNOW AND SNOWSTORMS</classifier>
+        <object.title class="indexing_service">TOPICS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE5DE123AF935A25751C1A96E948260" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crystal Mysteries</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Whether there is or is not a Santa Claus is a matter of personal predilection, but there has been no choice about another seasonal proposition: no two snowflakes are alike. How many parents have been pleased to astonish their children with that assertion of crystalline infinity?</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Whether there is or is not a Santa Claus is a matter of personal predilection, but there has been no choice about another seasonal proposition: no two snowflakes are alike. How many parents have been pleased to astonish their children with that assertion of crystalline infinity?</p>
+        <p>Whether there is or is not a Santa Claus is a matter of personal predilection, but there has been no choice about another seasonal proposition: no two snowflakes are alike. How many parents have been pleased to astonish their children with that assertion of crystalline infinity?</p>
+        <p>Now it's the parents' turn to be astonished. A letter in the Bulletin of the American Meteorological Society describes the belief in no-two-alike as ''a bit of folk wisdom generally accepted even among those few regarded as experts in the subject.'' But it is no more. The author, Dr. Nancy Knight, a scientist at the National Center for Atmospheric Research, reports finding a matching pair in a snowstorm over Wisconsin. She was collecting flakes on a research flight, exposing a glass slide to pick up crystals. A photo revealed the similarity of two of them.  What's the significance of her discovery? ''Nothing cosmic,'' Dr. Knight says. ''It's not going to solve the greenhouse effect.'' The real challenge that she sees is explaining how two crystals grew the same.</p>
+        <p>A myth demolished, but nature's mystery survives.</p>
+        <p>TOPICS OF THE TIMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

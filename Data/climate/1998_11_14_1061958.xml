@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming: Costly Solutions?</title>
+    <meta content="LTR011455" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1061958"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04EFDB1331F937A25752C1A96E958260" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming: Costly Solutions?</hl1>
+      </hedline>
+      <abstract>
+        <p>Paul D Boyd letter supports 'clean development mechanism' proposed at post-Kyoto conference in Buenos Aires (Nov 11 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Nov. 11 editorial ''Remember Global Warming'' says more companies would start reducing their emissions sooner if ''some way could be found to reward companies for taking action now,'' such as credits to meet obligations that will come into effect later.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Nov. 11 editorial ''Remember Global Warming'' says more companies would start reducing their emissions sooner if ''some way could be found to reward companies for taking action now,'' such as credits to meet obligations that will come into effect later.</p>
+        <p>Such a method -- the proposed clean development mechanism -- is on the table at the post-Kyoto conference in Buenos Aires. Under the mechanism, companies could assist development projects wanted by developing countries, using advanced cleaner technologies, and obtain credits for the avoided emissions.</p>
+        <p>It remains for the Buenos Aires negotiators to realize that the clean development mechanism offers a win-win method.</p>
+        <p>PAUL D. BOYD  Atlantic Highlands, N.J., Nov. 11, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

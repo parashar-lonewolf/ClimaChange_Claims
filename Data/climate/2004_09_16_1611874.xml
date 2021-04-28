@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR011835" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1611874"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <object.title class="indexing_service">R-Rated: Republicans in Hollywood (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E1DA1F30F935A2575AC0A9629C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Sept 14 review of AMC documentary program R-Rated: Republicans in Hollywood, regarding spelling of one actor's name</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A television review on Tuesday about ''R-Rated: Republicans in Hollywood,'' an AMC documentary about politics and the movie industry, referred incorrectly to the box office performance of ''The Day After Tomorrow,'' a feature film with a global warming theme. Its domestic receipts totaled $186.4 million, and its worldwide sales $540.4 million, according to Variety.com; it was not a flop.</p>
+        <p>The review also misspelled the given name of the actor who was a lone gun spokesman in the pre-Reagan days. He is Charlton Heston, not Charleton.</p>
+      </block>
+      <block class="full_text">
+        <p>A television review on Tuesday about ''R-Rated: Republicans in Hollywood,'' an AMC documentary about politics and the movie industry, referred incorrectly to the box office performance of ''The Day After Tomorrow,'' a feature film with a global warming theme. Its domestic receipts totaled $186.4 million, and its worldwide sales $540.4 million, according to Variety.com; it was not a flop.</p>
+        <p>The review also misspelled the given name of the actor who was a lone gun spokesman in the pre-Reagan days. He is Charlton Heston, not Charleton.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

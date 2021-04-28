@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Censoring Truth</title>
+    <meta content="09thu2" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/02/09/opinion/09thu2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1738321"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+        <person class="online_producer">Deutsch, George</person>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEEDA143EF93AA35751C0A9609C8B63" item-length="436" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Censoring Truth</hl1>
+        <hl2 class="online_headline">Censoring Truth</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bush administration long ago secured a special place in history for the audacity with which it manipulates science to suit its political ends. But it set a new standard of cynicism when it allowed NASA's leading authority on global warming to be mugged by a 24-year-old presidential appointee who, quite apart from having no training on that issue, had inflated his résumé.</p>
+        <p>In early December, James Hansen, the space agency's top climate specialist, called for accelerated efforts to reduce industrial emissions of carbon dioxide and other gases linked to global warming. After his speech, he told Andrew C. Revkin of The Times, he was threatened with ''dire consequences'' if he continued to call for aggressive action.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Bush administration set a new standard of cynicism when it allowed NASA's leading authority on global warming to be mugged by a 24-year-old who had inflated his résumé.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bush administration long ago secured a special place in history for the audacity with which it manipulates science to suit its political ends. But it set a new standard of cynicism when it allowed NASA's leading authority on global warming to be mugged by a 24-year-old presidential appointee who, quite apart from having no training on that issue, had inflated his résumé.</p>
+        <p>In early December, James Hansen, the space agency's top climate specialist, called for accelerated efforts to reduce industrial emissions of carbon dioxide and other gases linked to global warming. After his speech, he told Andrew C. Revkin of The Times, he was threatened with ''dire consequences'' if he continued to call for aggressive action.</p>
+        <p>This was not the first time Dr. Hansen had been rebuked by the Bush team, which has spent the better part of five years avoiding the issue of global warming. It was merely one piece of a larger pattern of deception and denial.</p>
+        <p>The administration has sought to influence the policy debate by muzzling the people who disagree with it or -- as was the case with two major reports from the Environmental Protection Agency in 2002 and 2003 -- editing out inconvenient truths or censoring them entirely.</p>
+        <p>In this case, the censor was George Deutsch, a functionary in NASA's public affairs office whose chief credential appears to have been his service with President Bush's re-election campaign and inaugural committee. On his résumé, Mr. Deutsch claimed a 2003 bachelor's degree in journalism from Texas A&amp;M, but the university, alerted by a blogger, said that was not true. Mr. Deutsch has now resigned.</p>
+        <p>The shocker was not NASA's failure to vet Mr. Deutsch's credentials, but that this young politico with no qualifications was able to impose his ideology on other agency employees. At one point, he told a Web designer to add the word ''theory'' after every mention of the Big Bang.</p>
+        <p>As Dr. Hansen observed, Mr. Deutsch was only a ''bit player'' in the administration's dishonest game of politicizing science on issues like warming, birth control, forest policy and clean air. This from a president who promised in his State of the Union address to improve American competitiveness by spending more on science.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

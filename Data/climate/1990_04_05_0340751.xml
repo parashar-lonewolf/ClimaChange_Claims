@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEWS SUMMARY</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="340751"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D61338F936A35757C0A966958260" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEWS SUMMARY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>A King Sits It Out</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>A King Sits It Out</p>
+        <p>A King Sits It Out</p>
+        <p>Belgium temporarily suspended King Baudouin I from power after he declared that he could not sign a new law permitting abortion. Page A14.</p>
+        <p>Israeli Party Is Hopeful</p>
+        <p>The Israeli Labor Party announced that it had acquired sufficient commitments for a majority to form a new Government. Page A10.</p>
+        <p>New Threat to Climate</p>
+        <p>Chemical substitutes for ozone-damaging chlorofluorcarbons may carry their own threat: a potential contribution to global warming. Page A18.</p>
+        <p>Prodding Cut Heart Attacks</p>
+        <p>Men who were coached to help them quit smoking, change diet and lose weight cut their heart attack risk substantially, a study found. Page B11.</p>
+        <p>Bonwit Teller to Shrink</p>
+        <p>The chain will lose all but 4 of its 16 stores, including its flagship location in Trump Tower, under bankruptcy court arrangements. Page D1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

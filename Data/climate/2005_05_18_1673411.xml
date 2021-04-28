@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mayors Rebel on Kyoto</title>
+    <meta content="L18KYO$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1673411"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E1DA1639F93BA25756C0A9639C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mayors Rebel on Kyoto</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Rebuffing Bush, 132 Mayors Embrace Kyoto Rules'' (news article, May 14):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Rebuffing Bush, 132 Mayors Embrace Kyoto Rules'' (news article, May 14):</p>
+        <p>My thanks and admiration go out to the 132 American mayors who have bravely rebuffed the Bush administration by pledging their cities' efforts to meet requirements of the Kyoto Protocol on global warming.</p>
+        <p>Their effort, representing a diverse population of American citizens, sends a strong grass-roots message to President Bush and company that the head-in-the-sand energy policy will not be supported.</p>
+        <p>Perhaps the lesson learned here is that if you cannot beat them where they stand, you must go around them.</p>
+        <p>Christine Etem Litsey  Shorewood, Minn., May 14, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

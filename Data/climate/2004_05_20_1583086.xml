@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reality Hits At the Pump</title>
+    <meta content="LTR231853" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1583086"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <person class="indexing_service">Lowenstein, Henry A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E0DC103FF933A15756C0A9629C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reality Hits At the Pump</hl1>
+      </hedline>
+      <abstract>
+        <p>Henry A Lowenstein letter says problem with US gas prices is that they are not high enough to get Americans to stop buying gas-guzzling vehicles and get away from fossil fuels</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Gasoline Hysteria'' (editorial, May 19):</p>
+        <p>The problem of high gasoline prices in the United States is that they are not high enough! We must start finding alternate means of energy before we run out of oil, domestic or foreign.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Gasoline Hysteria'' (editorial, May 19):</p>
+        <p>The problem of high gasoline prices in the United States is that they are not high enough! We must start finding alternate means of energy before we run out of oil, domestic or foreign.</p>
+        <p>In the meantime, we need to stop buying big gas-guzzling cars and start increasing our demand for hybrids.</p>
+        <p>The only way to accomplish energy independence is to stop caving in to the major oil and energy companies (Dick Cheney's friends) and develop an energy plan that is bold, forward-thinking and that moves us away from fossil fuels.</p>
+        <p>Our children deserve nothing less.</p>
+        <p>HENRY A. LOWENSTEIN  New York, May 19, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Price of Climate Change</title>
+    <meta content="19letters.t-5" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1805804"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <person class="indexing_service">maltz, michael d</person>
+        <person class="indexing_service">Dubner, Stephen J</person>
+        <person class="indexing_service">Levitt, Steven D (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E1DD173EF93AA25752C1A9609C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Price of Climate Change</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael D Maltz letter comments on Nov 5 article on correlation between weather and human behavior</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In finding a correlation between the price of rye and property crime in the 1800s, current economists are rediscovering relationships well known at the time (Freakonomics, Stephen J. Dubner and Steven D. Levitt, Nov. 5). In his book, ''Laboring Classes and Dangerous Classes,'' a social history of Paris in the same epoch, Louis Chevalier noted that ''the price of bread was of utmost importance; its curve followed the curve of all ills that Paris was heir to,'' and the Paris prefect of police wrote in 1827 that ''it is imperative that the price of bread does not go higher than 3 sous to the pound.'' Of course, he did this analysis without the benefit of a single regression equation.</p>
+        <p>Michael D. Maltz</p>
+        <p>Department of Sociology</p>
+        <p>Ohio State University</p>
+        <p>Columbus, Ohio</p>
+      </block>
+      <block class="full_text">
+        <p>In finding a correlation between the price of rye and property crime in the 1800s, current economists are rediscovering relationships well known at the time (Freakonomics, Stephen J. Dubner and Steven D. Levitt, Nov. 5). In his book, ''Laboring Classes and Dangerous Classes,'' a social history of Paris in the same epoch, Louis Chevalier noted that ''the price of bread was of utmost importance; its curve followed the curve of all ills that Paris was heir to,'' and the Paris prefect of police wrote in 1827 that ''it is imperative that the price of bread does not go higher than 3 sous to the pound.'' Of course, he did this analysis without the benefit of a single regression equation.</p>
+        <p>Michael D. Maltz</p>
+        <p>Department of Sociology</p>
+        <p>Ohio State University</p>
+        <p>Columbus, Ohio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

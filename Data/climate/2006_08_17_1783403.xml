@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Supply and Innovation</title>
+    <meta content="l17scarcity" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1783403"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Conservation of Resources</classifier>
+        <classifier class="indexing_service" type="descriptor">Shortages</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">American Enterprise Institute</org>
+        <person class="indexing_service">Kung, Harold (Prof)</person>
+        <person class="indexing_service">Schwartz, Joel</person>
+        <person class="indexing_service">Sass, Stephen L (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shortages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3DC143EF934A2575BC0A9609C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Supply and Innovation</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters comment on Aug 10 Stephen L Sass Op-Ed article on how shortages of resources have driven innovation throughout history; Prof Harold Kung says solution to energy problem should address not only short-term problems, but also long-term issues like climate change and conservation; American Enterprise Institute visiting fellow Joel Schwartz contends governments have dismal record in driving innovation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Scarcity, Mother of Invention,'' by Stephen L. Sass (Op-ed, Aug. 10):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Scarcity, Mother of Invention,'' by Stephen L. Sass (Op-ed, Aug. 10):</p>
+        <p>The ultimate drivers for technology inventions in the past have been economic benefits, convenience and security. But today's energy problem is different.</p>
+        <p>Its solution should address not only short-term problems like a higher cost of living, economic depression and inconvenience, but also long-term problems like global climate change, preservation of natural resources and global equity.</p>
+        <p>Unlike the technology-focused Manhattan Project or the invention of machinery to replace labor, the solution lies within the people -- with the aid of technology. Everyone must understand his or her responsibility and contribute to the solution of the energy problem.</p>
+        <p>Harold Kung  Evanston, Ill., Aug. 14, 2006</p>
+        <p>The writer is a professor of chemical and biological engineering at Northwestern University.</p>
+        <p>To the Editor:</p>
+        <p>Stephen L. Sass shows how resource scarcity has promoted innovation and advancements in technology and people's welfare. He says the lesson to learn from history is that we need ''something like a Manhattan Project'' to address the ''harsh reality of fossil fuel scarcity.''</p>
+        <p>But governments have a dismal record in picking technology winners. Billions in federal subsidies haven't produced any viable alternative energy technologies. Fossil fuels aren't even particularly scarce -- known reserves could last hundreds of years and continue to grow exactly because of the scarcity-driven innovation Mr. Sass identifies.</p>
+        <p>Recent supply problems result mainly from governments' market interference, rather than underlying scarcity of the actual fossil fuels.</p>
+        <p>Innovation results when inventors and entrepreneurs apply their expertise and take financial risks to seek economically viable solutions to real problems. Having central planners spend other people's money on politically driven pet projects is a recipe for waste.</p>
+        <p>Joel Schwartz  Sacramento, Aug. 11, 2006</p>
+        <p>The writer is a visiting fellow at the American Enterprise Institute.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

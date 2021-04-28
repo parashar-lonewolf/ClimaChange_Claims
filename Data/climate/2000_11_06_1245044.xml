@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let's Use the Sun to Keep the Earth Cool</title>
+    <meta content="L06WAR$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/11/06/opinion/L06WAR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1245044"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <person class="indexing_service">Burtis, Linda Anne</person>
+        <person class="indexing_service">Herbert, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E3D81739F935A35752C1A9669C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let's Use the Sun to Keep the Earth Cool</hl1>
+      </hedline>
+      <abstract>
+        <p>Linda Anne Burtis letter on Bob Herbert's Oct 30 column holds scientific evidence about global warming is leading to search for solutions; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bob Herbert's question regarding the dire consequences of climate change -- ''Is anyone paying attention?'' -- has justifiably desperate overtones (column, Oct. 30). After all, we seemed to learn little from the energy crisis of the 70's; once oil prices dropped, so did our push toward renewable energy sources like solar and wind.</p>
+        <p>Now we're getting a second chance; energy seems to be on everyone's mind. Presidential candidates talk about clean energy. Rising oil and electricity prices, coupled with deregulation, are front-burner concerns for policy makers and consumers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bob Herbert's question regarding the dire consequences of climate change -- ''Is anyone paying attention?'' -- has justifiably desperate overtones (column, Oct. 30). After all, we seemed to learn little from the energy crisis of the 70's; once oil prices dropped, so did our push toward renewable energy sources like solar and wind.</p>
+        <p>Now we're getting a second chance; energy seems to be on everyone's mind. Presidential candidates talk about clean energy. Rising oil and electricity prices, coupled with deregulation, are front-burner concerns for policy makers and consumers.</p>
+        <p>Scientific evidence about global warming has pushed the debate beyond the argument of whether it is for real and on to a hard look at solutions. The renewable energy industry is poised to go big time. Solar electricity, for example, could be shining on a million roofs by 2010.</p>
+        <p>LINDA ANNE BURTIS  Delmar, N.Y, Oct. 31, 2000</p>
+        <p>The writer is director of N.Y. Shines, a solar-energy education campaign.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

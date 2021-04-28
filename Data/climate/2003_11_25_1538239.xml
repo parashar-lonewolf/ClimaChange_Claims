@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Should Be a Leader</title>
+    <meta content="LTR000118" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1538239"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Joslin, Audrey</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E3D61E3BF936A15752C1A9659C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Should Be a Leader</hl1>
+      </hedline>
+      <abstract>
+        <p>Audrey Joslin letter on November 18 article about global warming urges Americans to take responsibility for reducing emissions (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''New View of Data Supports Human Link to Global Warming'' (Nov. 18): With so many scientific alarms shouting that human activity is the reason for global warming, it is becoming more apparent that people need to take responsibility for minimizing it before the environmental damage is irreversible.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''New View of Data Supports Human Link to Global Warming'' (Nov. 18): With so many scientific alarms shouting that human activity is the reason for global warming, it is becoming more apparent that people need to take responsibility for minimizing it before the environmental damage is irreversible.</p>
+        <p>As a leader in the production of green-house gas emissions, America should be leading the battle. Instead, our refusal to ratify the Kyoto treaty, the Bush administration's undermining of clean-air laws and the American love of inefficient vehicles reinforce the mentality that it's ''not my problem.''</p>
+        <p>AUDREY JOSLIN  St. Peter, Minn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19910712T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="458529"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DB163CF93AA35754C0A967958260" item-length="391" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ozone, Good and Bad</p>
+        <p>Q. Why do I hear about ozone pollution in the cities when dwindling ozone is considered a threat?</p>
+      </block>
+      <block class="full_text">
+        <p>Ozone, Good and Bad</p>
+        <p>Q. Why do I hear about ozone pollution in the cities when dwindling ozone is considered a threat?</p>
+        <p>A.  "These are two very different and basically unrelated problems," said Dr. Alan Friedman, director of the New York Hall of Science in Queens. "Down here, it is dangerous to health, but in the upper atmosphere it is essential to health."</p>
+        <p>Ozone, or O3 , is a gaseous isotope of oxygen with a distinctive odor. It is a powerful oxidizer and is used commercially as a bleaching agent.</p>
+        <p>"In the upper atmosphere, ozone plays a vital role in absorbing dangerous radiation from the sun, primarily ultraviolet radiation," Dr. Friedman said.</p>
+        <p>If that ozone layer is thinned too much, Dr. Friedman explained, it allows more of the dangerous rays to reach the ground, where they can cause not just sunburn but skin cancer. In the upper atmosphere, some of the chemicals that have been used in refrigeration are destroying ozone by reacting with it, and there may be other causes for the variable depletion that has appeared in the polar ozone layer.</p>
+        <p>Unrelated to that problem, ozone is also produced at ground level by various chemical and electrical process, Dr. Friedman said. Even computer laser printers have ozone filters to protect people from the ozone they produce, Dr. Friedman said, and ozone causes the funny smell after a short circuit makes sparks.</p>
+        <p>Breathing ozone is dangerous to health, Dr. Friedman said, because it is a strongly reactive chemical and can damage sensitive tissues in the lungs, for example. Cracking the Whip</p>
+        <p>Q.</p>
+        <p>What makes the noise when a whip cracks?</p>
+        <p>A.  When a whip is cracked, the tip momentarily compresses a tiny pocket of air, taking air from behind it, where it creates an area of reduced pressure, explained W. W. Havens, executive secretary emeritus of the American Physical Society and professor emeritus of applied physics at Columbia University.</p>
+        <p>Since a sound wave is a series of compressions and rarefactions of air, this process can create a loud noise, Dr. Havens said.</p>
+        <p>Some scientists describe the noise as a miniature sonic boom. The whip itself probably moves at about 20 miles an hour, but the tip is accelerated to much higher speeds. For a very short distance and for a very short period, it may break the sound barrier of 700 miles an hour.</p>
+        <p>Correction:  July 12, 1991, Friday</p>
+        <p>A report in the Q&amp;A column of Science Times on Tuesday about ozone described it incorrectly. It is an allotrope of oxygen, a form of the element having different chemical properties from those of ordinary oxygen gas, not an isotope.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: July 12, 1991, Friday</p>
+        <p>A report in the Q&amp;A column of Science Times on Tuesday about ozone described it incorrectly. It is an allotrope of oxygen, a form of the element having different chemical properties from those of ordinary oxygen gas, not an isotope.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

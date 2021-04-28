@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Other Climate Changes</title>
+    <meta content="LMALA2$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="978800"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <person class="indexing_service">Malanson, George P (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E4D9113DF93BA35751C1A961958260" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Other Climate Changes</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof George P Malanson letter disputes headline accompanying December 1 article on global warming (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I was dismayed to see the headline ''Global Warming'' on your Dec. 1  special section. This focus masks serious aspects of climate change not directly driven by temperature increases.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I was dismayed to see the headline ''Global Warming'' on your Dec. 1  special section. This focus masks serious aspects of climate change not directly driven by temperature increases.</p>
+        <p>In ''Skeptic Asks, Is It Really Warmer?'', you report that a major uncertainty in projections is due to a lack of understanding of water vapor's role. This can be summarized -- or oversimplified -- as a question of thicker or wider clouds. If clouds thicken, their reflectivity remains constant while their greenhouse effect increases. If they become widespread, reflectivity would balance the increased radiation that is trapped, so warming and climate change would be insignificant.</p>
+        <p>An increase in cloudiness, however, is in itself a climate change, with potentially serious impacts like lower crop production. Policy makers need to recognize that some of the causes of uncertainty on global warming have their own consequences.</p>
+        <p>GEORGE P. MALANSON  Iowa City, Dec. 2, 1997</p>
+        <p>The writer is a professor of geography at the University of Iowa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

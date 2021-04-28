@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fuzzy Math on Greenhouse Gas</title>
+    <meta content="LTR231558" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1369092"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Weinstein, Michael I</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E7D61F3FF93AA25751C0A9649C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fuzzy Math on Greenhouse Gas</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael I Weinstein letter on Paul Krugman's analysis (Feb 15) of Pres Bush's policy on carbon dioxide emissions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Ersatz Climate Policy,'' by Paul Krugman (column, Feb. 15):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Ersatz Climate Policy,'' by Paul Krugman (column, Feb. 15):</p>
+        <p>President Bush, while asserting in his speech his desire to consult the ''best scientific research'' to decide policy on carbon dioxide emissions, has a much lower standard for the economic reasoning he readily employs.</p>
+        <p>The president's criteria of decreasing greenhouse gas ''intensity'' (defined as the ratio of greenhouse gas emissions to gross domestic product), which can conveniently decrease even if carbon dioxide emissions increase considerably, while having a nice technical ring, are a curious brew of two quantities that measure something yielding a quantity of no proven relevance to anything.</p>
+        <p>MICHAEL I. WEINSTEIN  Short Hills, N.J., Feb. 15, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

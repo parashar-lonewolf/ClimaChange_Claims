@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Time to Talk About Global Warming</title>
+    <meta content="l01warm-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1706323"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Joffe, Richard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6DE1030F932A35753C1A9639C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Time to Talk About Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard Joffe letter contends that those who need more evidence of global warming might wait until it is too late to avert catastrophe (Sept 28 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The debate about global warming seems to be between those who believe that there is evidence of such a trend and those who believe that it is too early to tell.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The debate about global warming seems to be between those who believe that there is evidence of such a trend and those who believe that it is too early to tell.</p>
+        <p>Those who think that it is too early to tell should consider this: By the time we can expect to be able to tell -- or, rather, by the time we can expect our descendants to be able to tell -- it will be too late to avert catastrophe if indeed the globe is warming because of human activities.</p>
+        <p>Other than selfishness, what justification could there be for ignoring the possible danger?</p>
+        <p>Richard Joffe  New York, Sept. 28, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

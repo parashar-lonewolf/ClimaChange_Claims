@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Malthus and the Whales</title>
+    <meta content="L27WHA$03" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1418957"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Whales and Whaling</classifier>
+        <classifier class="indexing_service" type="descriptor">Fishing, Commercial</classifier>
+        <person class="indexing_service">Sydeman, William J</person>
+        <person class="indexing_service">Kristof, Nicholas D</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Whales and Whaling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E3DB113CF934A1575BC0A9649C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Malthus and the Whales</hl1>
+      </hedline>
+      <abstract>
+        <p>William J Sydeman letter on Nicholas D Kristof'�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Harvest the Whales,'' by Nicholas D. Kristof (column, Aug. 20):</p>
+        <p>Malthus inferred the concept of ''carrying capacity'' of the environment -- for example, the long-term average number of animals that an ecosystem can sustain -- but most whale species remain far from their current, let alone historic, carrying capacity.</p>
+        <p>Yes, gray whales have washed ashore dead along the West Coast in recent years, but many scientists feel that pollutants, not competition for food resources, are the cause. Worldwide, commercial fishing for the prey of many whales, like krill, coupled with climate change, continues to reduce carrying capacity of marine ecosystems.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Harvest the Whales,'' by Nicholas D. Kristof (column, Aug. 20):</p>
+        <p>Malthus inferred the concept of ''carrying capacity'' of the environment -- for example, the long-term average number of animals that an ecosystem can sustain -- but most whale species remain far from their current, let alone historic, carrying capacity.</p>
+        <p>Yes, gray whales have washed ashore dead along the West Coast in recent years, but many scientists feel that pollutants, not competition for food resources, are the cause. Worldwide, commercial fishing for the prey of many whales, like krill, coupled with climate change, continues to reduce carrying capacity of marine ecosystems.</p>
+        <p>Every time we allow ourselves to ratchet down expectations of what the environment can support, we move further and further away from conservation and sustainable fisheries.</p>
+        <p>WILLIAM J. SYDEMAN  Amagansett, N.Y., Aug. 22, 2002</p>
+        <p>The writer is director of marine science, Point Reyes Bird Observatory.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

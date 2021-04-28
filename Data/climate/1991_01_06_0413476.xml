@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Cuning Ways of Trout</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="413476"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">CLYMER, ADAM</person>
+        <person class="indexing_service">CAMUTO, CHRISTOPHER</person>
+        <object.title class="indexing_service">A FLY FISHERMAN'S BLUE RIDGE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2D81F3CF935A35752C0A967958260" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Cuning Ways of Trout</hl1>
+      </hedline>
+      <byline class="print_byline">By Adam Clymer; Adam Clymer is an assistant Washington editor of The New York Times.</byline>
+      <byline class="normalized_byline">CLYMER, ADAM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A FLY FISHERMAN'S BLUE RIDGE  By Christopher Camuto. 238 pp. New York: Henry Holt &amp; Company. $19.95.</p>
+      </block>
+      <block class="full_text">
+        <p>A FLY FISHERMAN'S BLUE RIDGE  By Christopher Camuto. 238 pp. New York: Henry Holt &amp; Company. $19.95.</p>
+        <p>This work of homage to wild native brook trout, a seasonal journal of a year-round fisherman, is a fishing book that never dwells on how the hero played the big fish. In his accounts of his expeditions in the Blue Ridge, especially in Virginia, Christopher Camuto makes knowing the woods and the rivers at least as important as the fish.</p>
+        <p>But he does fish, north to Pennsylvania and south through the Carolinas, scorning pallid, stupid hatchery trout and searching out mountain streams, uneasily. "When I find the clear, cold, unpolluted water trout love, I fish with the pleasant if uneasy sensation that I have slipped behind enemy lines," he writes.</p>
+        <p>What many urban anglers can envy in "A Fly Fisherman's Blue Ridge" is the sense of home waters and the sense of connection to the land and the fish. Many of us fish a lot on famous streams, such as the Beaverkill or the Missouri, and get to know them well, but not the way Mr. Camuto knows his own north fork of the Moormans River.</p>
+        <p>This book, Mr. Camuto's first, is a very personal one, and the style sometimes floats up to florid. But it will serve us through the off-season, when we read hungrily of the fishing the weather forbids.</p>
+        <p>Throughout there is a strand of hope, or satisfaction at any rate, that "wild trout are a sign that the land is doing well." But ultimately there seems a stronger cord of unease. Mr. Camuto fears that acid rain and other forms of pollution and progress threaten the last descendants of the trout left behind when the ice age glaciers retreated. "The trout in the mountains," he writes, "have nowhere to go."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

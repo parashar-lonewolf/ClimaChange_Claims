@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Nobel Prize With Political Punch</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="797444"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NOBEL PRIZES</classifier>
+        <classifier class="indexing_service" type="descriptor">CHEMISTRY</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <person class="indexing_service">ROWLAND, F SHERWOOD (DR)</person>
+        <person class="indexing_service">MOLINA, MARIO (DR)</person>
+        <person class="indexing_service">CRUTZEN, PAUL (DR)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nobel Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DD173DF930A25753C1A963958260" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Nobel Prize With Political Punch</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As the anti-environmental tide courses through Congress and talk radio, even the most commonly accepted scientific wisdom is often debunked as scaremongering. Some conservative critics complain, for example, that the threat posed to the Earth's protective ozone layer by man-made chemicals has been grotesquely exaggerated and that the worldwide push to phase out ozone-eating chlorofluorocarbons should therefore be slowed. Just last month a House subcommittee held hearings on the "myths and realities" of the stratospheric ozone crisis, with a heavy emphasis on the supposed myths.</p>
+        <p>But anyone tempted to get too excited by the debunkers should take note of this week's award of a Nobel Prize, the world's top scientific honor, to three scientists who pioneered in explaining how ozone is formed and destroyed in the stratosphere. The award went to two Americans, Dr. F. Sherwood Rowland and Dr. Mario Molina, and to a Dutch citizen based in Germany, Dr. Paul Crutzen. Their work is of vital importance to all citizens of the globe because the ozone layer absorbs dangerous ultraviolet radiation before it can reach the surface of the Earth.</p>
+      </block>
+      <block class="full_text">
+        <p>As the anti-environmental tide courses through Congress and talk radio, even the most commonly accepted scientific wisdom is often debunked as scaremongering. Some conservative critics complain, for example, that the threat posed to the Earth's protective ozone layer by man-made chemicals has been grotesquely exaggerated and that the worldwide push to phase out ozone-eating chlorofluorocarbons should therefore be slowed. Just last month a House subcommittee held hearings on the "myths and realities" of the stratospheric ozone crisis, with a heavy emphasis on the supposed myths.</p>
+        <p>But anyone tempted to get too excited by the debunkers should take note of this week's award of a Nobel Prize, the world's top scientific honor, to three scientists who pioneered in explaining how ozone is formed and destroyed in the stratosphere. The award went to two Americans, Dr. F. Sherwood Rowland and Dr. Mario Molina, and to a Dutch citizen based in Germany, Dr. Paul Crutzen. Their work is of vital importance to all citizens of the globe because the ozone layer absorbs dangerous ultraviolet radiation before it can reach the surface of the Earth.</p>
+        <p>In awarding the prize, the Royal Swedish Academy of Sciences said the winners "have contributed to our salvation from a global environmental problem that could have catastrophic consequences." That judgment was not made lightly. The traditionally cautious academy, fearful of making errors that might bring scorn upon the revered Nobels, waits until it feels certain of the validity of the science it is honoring. Keep that in mind the next time some glib talk-show host or dissident scientist says the ozone crisis is just a scare story.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

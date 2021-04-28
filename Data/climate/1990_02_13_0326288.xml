@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pilotless Flights to Explore the Ozone Hole</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="326288"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">DRONES (PILOTLESS PLANES)</classifier>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <org class="indexing_service">HARVARD UNIVERSITY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Military Aircraft</classifier>
+        <classifier class="online_producer" type="general_descriptor">Military Aircraft</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDC1731F930A25751C0A966958260" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pilotless Flights to Explore the Ozone Hole</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: SCIENTISTS at Harvard University are building a pilotless airplane for research flights through the ozone hole in the upper atmosphere over Antarctica. The first flights are expected to begin in the fall of 1991.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: SCIENTISTS at Harvard University are building a pilotless airplane for research flights through the ozone hole in the upper atmosphere over Antarctica. The first flights are expected to begin in the fall of 1991.</p>
+        <p>SCIENTISTS at Harvard University are building a pilotless airplane for research flights through the ozone hole in the upper atmosphere over Antarctica. The first flights are expected to begin in the fall of 1991.</p>
+        <p>At present, piloted aircraft used in Antarctica cannot reach altitudes greater than 68,000 feet. Weather balloons attain heights of 85,000 feet, but they cannot remain long enough to gather data recording many of the chemical reactions that occur over time and that could be responsible for depletion of the ozone layer. The high-altitude ozone screens out most of the sun's dangerous ultraviolet rays. About 60 percent of the ozone over the polar region has been depleted, primarily because of chlorofluorocarbons from air-conditioners, refrigerators and some aerosol sprays.</p>
+        <p>Dr. James Anderson, a professor of atmospheric chemistry at Harvard, said the prototype airplane under construction would have a wingspan of 60 feet and be capable of flying as high as 85,000 feet. The fuselage and wings will be made from strong, lightweight composite materials like graphite. The craft will be battery-powered and guided by remote control from the ground at McMurdo Station, Antarctica.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

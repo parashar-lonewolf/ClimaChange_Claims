@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Watching the White House Shuffle</title>
+    <meta content="l21bush-7" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1755986"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <person class="indexing_service">Geni, Larry</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E1DE153FF932A15757C0A9609C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Watching the White House Shuffle</hl1>
+      </hedline>
+      <abstract>
+        <p>Larry Geni letter replying to April 20 editorial on Pres Bush's legacy says his opposition to any significant change in US energy consumption and its environmental impact is most shortsighted and disastrous policy decision in modern history</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>You list three policy disasters that this administration will be remembered for -- Iraq, the erosion of civil liberties and human rights, and a reckless fiscal policy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>You list three policy disasters that this administration will be remembered for -- Iraq, the erosion of civil liberties and human rights, and a reckless fiscal policy.</p>
+        <p>In the short term, you are probably right.</p>
+        <p>In the long run, however, the world will look at this critical decade and the intransigence with which President Bush opposed any significant change in our energy consumption and its environmental impact as the most shortsighted and disastrous policy decision in modern history.</p>
+        <p>Compared with the potential global cataclysm of true climate change, even the war in Iraq and the national debt pale.</p>
+        <p>Larry Geni  Evanston, Ill., April 20, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

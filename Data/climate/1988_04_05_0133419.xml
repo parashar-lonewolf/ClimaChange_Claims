@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Imports Tested for CFC's</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="133419"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">COSMETICS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <org class="indexing_service">CUSTOMS SERVICE</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7DB143CF936A35757C0A96E948260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Imports Tested for CFC's</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>WASHINGTON, April 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Federal tests of imported aerosol cosmetics have found 43 percent of them to contain chlorofluorocarbons, in violation of United States law, the Customs Service said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Federal tests of imported aerosol cosmetics have found 43 percent of them to contain chlorofluorocarbons, in violation of United States law, the Customs Service said today.</p>
+        <p>Federal tests of imported aerosol cosmetics have found 43 percent of them to contain chlorofluorocarbons, in violation of United States law, the Customs Service said today.</p>
+        <p>The United States has banned most uses in aerosols of chlorofluorocarbons, which have been linked to destruction of the Earth's protective ozone layer.</p>
+        <p>The samples represent at least 50 different brands of aerosol cosmetics, mostly perfumes made in France.</p>
+        <p>The Government said it believed that many of the products were originally intended for sale on cruise ships or in countries that allow them.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

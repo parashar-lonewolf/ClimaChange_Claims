@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Faith in Global Warming</title>
+    <meta content="l14tierney-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1739652"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Gardner, Curt</person>
+        <person class="indexing_service">Tierney, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE0D8123EF937A25751C0A9609C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Faith in Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Curt Gardner letter comments on Feb 11 John Tierney Op-Ed column about global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I can't argue with John Tierney on the religious aspect of environmentalism. But let's agree that there's another ''faith-based'' movement in America: belief in technology.</p>
+        <p>Conceptual projects like ''geo-engineering schemes to cool the planet by blocking sunlight'' suggest an immense faith in the ability of humankind to engineer its way out of any problem that arises.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I can't argue with John Tierney on the religious aspect of environmentalism. But let's agree that there's another ''faith-based'' movement in America: belief in technology.</p>
+        <p>Conceptual projects like ''geo-engineering schemes to cool the planet by blocking sunlight'' suggest an immense faith in the ability of humankind to engineer its way out of any problem that arises.</p>
+        <p>To entertain the thought of altering the planet's relationship with the sun, provider of the energy that creates and sustains life itself, is the thinking of a true believer.</p>
+        <p>Curt Gardner  Portland, Ore., Feb. 11, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

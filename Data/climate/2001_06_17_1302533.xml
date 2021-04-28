@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="17INSI" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1302533"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5D81231F934A25755C0A9679C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Plan for Greenhouse Gas  In a new strategy for coping with emissions of carbon dioxide, the gas is snared from smokestacks before it reaches the air and stored underground or underwater.</p>
+        <p>PAGE 21</p>
+      </block>
+      <block class="full_text">
+        <p>Plan for Greenhouse Gas  In a new strategy for coping with emissions of carbon dioxide, the gas is snared from smokestacks before it reaches the air and stored underground or underwater.</p>
+        <p>PAGE 21</p>
+        <p>G.E. Merger All but Dead  Jeffrey R. Immelt, president of General Electric, said his company's $45 billion offer for Honeywell International was all but dead, after antitrust objections from European regulators.</p>
+        <p>PAGE 31</p>
+        <p>Employment Advertising/Section 10  In New York City and the metropolitan region.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

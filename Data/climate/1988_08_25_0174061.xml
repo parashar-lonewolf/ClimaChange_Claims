@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="174061"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <location class="indexing_service">MASSACHUSETTS</location>
+        <org class="indexing_service">PI INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DD123EF936A1575BC0A96E948260" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline/>
+      <byline class="print_byline">AP</byline>
+      <dateline>BOSTON, Aug. 24</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A foam producer has agreed to pay a record $700,000 in civil penalties to settle what is believed to be the first lawsuit in the nation filed by a state to stop emissions suspected of depleting the ozone layer.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A foam producer has agreed to pay a record $700,000 in civil penalties to settle what is believed to be the first lawsuit in the nation filed by a state to stop emissions suspected of depleting the ozone layer.</p>
+        <p>A foam producer has agreed to pay a record $700,000 in civil penalties to settle what is believed to be the first lawsuit in the nation filed by a state to stop emissions suspected of depleting the ozone layer.</p>
+        <p>Attorney General James Shannon of Massachusetts announced terms of the settlement Tuesday and said that the company, PI Inc. of Hyannis, had also agreed to end its emissions by year's end.</p>
+        <p>The settlement must be approved by the United States Bankruptcy Court handling PI's reorganization and by Superior Court, where the suit was filed.</p>
+        <p>Massachusetts accused the company of emitting 1,300 tons of chlorofluorocarbons a year in violation of state regulations. CFC's are a class of chemicals implicated in the decline of the ozone layer that protects the earth from solar radiation.</p>
+        <p>The compounds are manmade chemicals used to create plastic foams, for cleaning electronic parts and for refrigeration. The chemicals were also used as propellants in aerosol cans until banned by the Federal Government in 1978.</p>
+        <p>A spokeswoman for Mr. Shannon said that the Attorney General's office had found no record of any other state's filing such a suit.</p>
+        <p>Telephone calls to the company's president and attorney were not returned.</p>
+        <p>Shortly before the Attorney General filed suit in June, the company filed for protection from creditors under Chapter 11 of the Federal bankruptcy code.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

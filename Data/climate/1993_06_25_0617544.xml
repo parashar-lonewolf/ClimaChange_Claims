@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inquiry Will Check Air Quality on Airplanes</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="617544"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIRLINES AND AIRPLANES</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR CONDITIONING</classifier>
+        <classifier class="indexing_service" type="descriptor">FLIGHT ATTENDANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">HEALTH, PERSONAL</classifier>
+        <person class="indexing_service">TOLCHIN, MARTIN</person>
+        <person class="indexing_service">PENA, FEDERICO F (SEC)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Conditioning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flight Attendants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D8163DF936A15755C0A965958260" item-length="658" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inquiry Will Check Air Quality on Airplanes</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTIN TOLCHIN,</byline>
+      <byline class="normalized_byline">TOLCHIN, MARTIN</byline>
+      <dateline>WASHINGTON, June 24</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Transportation Secretary Federico F. Pena today ordered a preliminary inquiry into the air quality of airplane cabins.</p>
+        <p>Airlines in the United States have been circulating less fresh air into the cabins of many newer airplanes to cut costs. As a result, flight attendants and passengers have complained of headaches, nausea and other health problems, especially after long flights.</p>
+      </block>
+      <block class="full_text">
+        <p>Transportation Secretary Federico F. Pena today ordered a preliminary inquiry into the air quality of airplane cabins.</p>
+        <p>Airlines in the United States have been circulating less fresh air into the cabins of many newer airplanes to cut costs. As a result, flight attendants and passengers have complained of headaches, nausea and other health problems, especially after long flights.</p>
+        <p>"We want to reassure the public that generally air quality is acceptable and that recent studies have generally shown that there is no unreasonable risk," said Richard Mintz, a spokesman for Secretary Pena.</p>
+        <p>"But new aircraft designs and operations and some other recent concerns warrant a fresh look," Mr. Mintz said. "'We'd like to see what new information there is. We want to talk to some airline employees and people in the industry and see what the concerns are out there."</p>
+        <p>Mr. Mintz said Transportation officials would be working with the Centers for Disease Control and Prevention and other government health agencies to assess the levels and potential dangers of airborne toxins, viruses and bacteria.</p>
+        <p>Studies have found that the less frequent circulation of fresh air exposes passengers not only to the respiratory problems of other passengers but also to higher levels of carbon dioxide, as well as to fumes from the materials used to build or maintain the cabins. These include cleaning agents, pesticides and gases like ethanol and benzene.</p>
+        <p>Concerned that ventilation systems for airline cabins may contribute to the spread of contagious diseases, the C.D.C. is investigating whether some passengers with tuberculosis have infected fellow passengers on long flights. In one case, the agency found that two crew members tested positive for tuberculosis after a third was diagnosed with the disease. The C.D.C. linked the two cases to exposure to the infected flight attendant.</p>
+        <p>Federal officials said today that no Government agency had the responsibility to set and enforce standards that would limit the levels of airborne toxins, viruses and bacteria on airline cabins. Jurisdiction Unclear</p>
+        <p>The Federal Aviation Administration's mission is to insure flight safety and to promote the financial well-being of the airline industry. The Occupational Safety and Health Administration takes responsibility only for activities on the ground. The Environmental Protection Agency sets no standards for indoor air.</p>
+        <p>Chris Witkowski, director of aviation safety for the Association of Flight Attendants, said, "Flight attendants feel that it's deplorable that there are no effective government standards mandating the quality of air."</p>
+        <p>Senator Edward M. Kennedy, Democrat of Massachusetts, has introduced a bill that would require OSHA to set standards for air contaminants in cases where those standards are not set by other agencies. Under current law, OSHA lacks jurisdiction when another agency, like the F.A.A., has the authority to set air standards but fails to act.</p>
+        <p>But some industry executives say the absence of airline cabin standards is a result of disagreement on what constitutes safe air.</p>
+        <p>Although the F.A.A. has not set standards for airborne toxins, viruses or bacteria, it has set standards for carbon monoxide and carbon dioxide, standards far less rigorous than those recommended by the American Society of Heating, Refrigerating and Air-Conditioning Engineers. The F.A.A. has also set a regulation for airplane cabin ozone.</p>
+        <p>A companion bill to Senator Kennedy's measure is pending in the House.</p>
+        <p>Airlines in the United States are circulating less fresh air into the cabins of newer planes to save money cooling the air, which comes into the ventilation systems through the engines. Older aircraft, built before the mid-1980's, provided cabins with a complete change of fresh air every three minutes, a rate far greater than that required in the hospital isolation wards where tuberculosis patients are treated.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Germany: Phasing Out Nuclear Power</title>
+    <meta content="MB021913" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1301063"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <location class="indexing_service">Germany</location>
+        <person class="indexing_service">Andrews, Edmund L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EFDD103EF931A25755C0A9679C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Germany: Phasing Out Nuclear Power</hl1>
+      </hedline>
+      <byline class="print_byline">By Edmund L. Andrews (NYT)</byline>
+      <byline class="normalized_byline">Andrews, Edmund L</byline>
+      <abstract>
+        <p>German government signs agreement with power companies that calls for shutting down nuclear power plants during next 20 years (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The government signed an agreement with power companies that calls for shutting down nuclear power plants during the next 20 years. Anti-nuclear critics say the plan will take too long to carry out; supporters of nuclear power warn that it could deprive the country of an important way to reduce greenhouse gases from coal-burning generators.</p>
+        <p>Edmund L. Andrews (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The government signed an agreement with power companies that calls for shutting down nuclear power plants during the next 20 years. Anti-nuclear critics say the plan will take too long to carry out; supporters of nuclear power warn that it could deprive the country of an important way to reduce greenhouse gases from coal-burning generators.</p>
+        <p>Edmund L. Andrews (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

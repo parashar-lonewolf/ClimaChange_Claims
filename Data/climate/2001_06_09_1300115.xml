@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Next Step On Global Warming</title>
+    <meta content="LTR232151" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1300115"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Perloff, Robert</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E6DB143EF93AA35755C0A9679C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Next Step On Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert Perloff letter on June 7 article urges Pres Bush to accept Kyoto Protocol on fighting global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Panel Tells Bush Global Warming Is Getting Worse'' (front page, June 7):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Panel Tells Bush Global Warming Is Getting Worse'' (front page, June 7):</p>
+        <p>The overwhelming affirmation of the existence of global warming and its harmful consequences to people everywhere leave the Bush administration no recourse but to accept the Kyoto Protocol, the international treaty negotiated in 1997 that committed countries to fight warming.</p>
+        <p>Because of the blizzard of scientific evidence at the highest levels that global warming is a reality, the United States is morally and humanistically, not to mention politically at home and abroad, obliged to join with the other signers of the protocol and move ahead toward ameliorating the problem.</p>
+        <p>ROBERT PERLOFF  Pittsburgh, June 7, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

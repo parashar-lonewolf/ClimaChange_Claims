@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The More Things Change, The More They're the Same</title>
+    <meta content="MB015636" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1401219"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="UP FRONT: WORTH NOTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Whitman, Christie (Admr)</person>
+        <person class="indexing_service">Fitzgerald, Barbara</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0DD113CF935A25755C0A9649C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The More Things Change, The More They're the Same</hl1>
+      </hedline>
+      <byline class="print_byline">By Barbara Fitzgerald</byline>
+      <byline class="normalized_byline">Fitzgerald, Barbara</byline>
+      <abstract>
+        <p>Environmental Protection Admr Christie Whitman, who faced similar criticism as New Jersey governor, admits she was unaware, until report was posted on agency Web site and forwarded to UN, of agency's controversial report linking global warming to greenhouse gas emissions caused by humans; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the lingering criticisms of former Gov. Christie Whitman was that she was not aware of certain details in her administration that led to some vexing problems like racial profiling and a bungled auto emissions inspection contract.</p>
+        <p>Well, those criticisms seem to be following her. They surfaced again last week when Mrs. Whitman, who is now the administrator of the federal Environmental Protection Agency, admitted she was in the dark, until news articles appeared, about the agency's controversial report linking global warming to greenhouse gas emissions caused by humans.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the lingering criticisms of former Gov. Christie Whitman was that she was not aware of certain details in her administration that led to some vexing problems like racial profiling and a bungled auto emissions inspection contract.</p>
+        <p>Well, those criticisms seem to be following her. They surfaced again last week when Mrs. Whitman, who is now the administrator of the federal Environmental Protection Agency, admitted she was in the dark, until news articles appeared, about the agency's controversial report linking global warming to greenhouse gas emissions caused by humans.</p>
+        <p>The report led some environmentalists -- happy in their disbelief -- to think that the Bush administration was now changing its position and backing scientists who have insisted that pollution from cars and factories is largely causing temperatures to rise.</p>
+        <p>Not so fast. Mrs. Whitman said she was not briefed on the report and had not read it until after it was posted on the agency's Web site and was forwarded to the United Nations, prompting some environmentalists to question -- and not for the first time -- how much of a role she was actually playing within the agency. One group, the Clean Air Trust, said it gave the appearance that Mrs. Whitman was ''an absentee landlord'' or merely serving in a ''ceremonial capacity.''</p>
+        <p>But Mrs. Whitman said her staff did not believe the report included anything ''earth-shattering'' and that it did not change any existing policies.</p>
+        <p>Barbara Fitzgerald</p>
+        <p>UP FRONT: WORTH NOTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

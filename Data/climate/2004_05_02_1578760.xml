@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Week Ahead; BIG, BIG SCREEN</title>
+    <meta content="MB012756" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1578760"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EED8123DF931A35756C0A9629C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Week Ahead; BIG, BIG SCREEN</hl1>
+      </hedline>
+      <byline class="print_byline">By Laura M. Holson</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This year's summer movie season may be remembered not for whether Spider-Man slays Doc Ock, but whether a host of films costing from $125 million to $200 million each succeed or fail. On May 7, Universal Pictures kicks things off with ''Van Helsing,'' the monster-mash movie starring Hugh Jackman. Its budget is conservatively estimated at $150 million.</p>
+      </block>
+      <block class="full_text">
+        <p>This year's summer movie season may be remembered not for whether Spider-Man slays Doc Ock, but whether a host of films costing from $125 million to $200 million each succeed or fail. On May 7, Universal Pictures kicks things off with ''Van Helsing,'' the monster-mash movie starring Hugh Jackman. Its budget is conservatively estimated at $150 million.</p>
+        <p>Not far behind, 20th Century Fox is releasing ''The Day After Tomorrow,'' a movie about the effects of global warming that has attracted the interest of environmentalists, while Warner Brothers Pictures offers the Iliad-inspired ''Troy,'' with Brad Pitt and Orlando Bloom. One movie already has producers counting coins: ''Shrek 2,'' which opens May 21. Even pessimists say it is bound to be a hit.</p>
+        <p>Laura M. Holson</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

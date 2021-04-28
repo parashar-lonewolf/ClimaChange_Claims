@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Time to Invest in Nuclear Power?</title>
+    <meta content="l16nuclear-1" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1762135"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Wind</classifier>
+        <classifier class="indexing_service" type="descriptor">Solar Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <person class="indexing_service">Quigley, H James Jr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E3DA153EF935A25756C0A9609C8B63" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Time to Invest in Nuclear Power?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from H James Quigley Jr of Center for Sustainable Energy, City University of New York, scores May 13 editorial calling for fresh look at nuclear power; contends sustainable solar and wind technologies are far cheaper and more secure; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Greening of Nuclear Power'' (editorial, May 13):</p>
+        <p>You say nuclear power could serve as ''a useful bridge to even greener sources of energy'' without a hint of how that can happen.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Greening of Nuclear Power'' (editorial, May 13):</p>
+        <p>You say nuclear power could serve as ''a useful bridge to even greener sources of energy'' without a hint of how that can happen.</p>
+        <p>You claim that spent nuclear fuel could ''be stored safely at surface sites for the next 50 to 100 years'' without admitting that it will remain dangerously radioactive for millenniums as subsequent wastes are piled upon existing wastes.</p>
+        <p>You contend that higher fossil fuel prices make nuclear power costs look more ''reasonable'' without acknowledging that decommissioning nuclear power plants will be more expensive than constructing them in the first place, as obsolete nuclear plants are entombed in perpetuity.</p>
+        <p>Nuclear power should not serve as a model for how to meet global demand for energy while addressing climate change. The same investment in distributed-generation capacity through existing sustainable solar and wind technologies would give us far more electricity for the money and infinitely greater security.</p>
+        <p>H. James Quigley Jr.  Bronx, May 13, 2006</p>
+        <p>The writer is operations director, Center for Sustainable Energy, Bronx Community College, CUNY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

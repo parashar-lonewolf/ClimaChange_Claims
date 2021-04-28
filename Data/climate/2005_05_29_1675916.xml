@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'The World Is Flat'</title>
+    <meta content="LTR105413" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1675916"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050529T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDA1439F93AA15756C0A9639C8B63" item-length="349" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'The World Is Flat'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I found Fareed Zakaria's review of Thomas L. Friedman's book ''The World Is Flat: A Brief History of the Twenty-First Century'' (May 1) to be somewhat puzzling. Only toward the end of his review does Zakaria demonstrate that the ''flattening'' of the international system might pose strategic challenges to the United States, yet this is the real lesson of Friedman's work. The central paradox of globalization is that as nice as it is to see wealth and democratization spread around the globe, the United States was strategically better off when there was significant global inequality. Better off, because we could command the lion's share of the world's resources, which helped make us both rich and powerful.</p>
+        <p>As successive generations of Brazilians, Chinese and Indians become wealthier, they will want to consume the fruits of their labors. They will prefer the Lexus to the olive tree. This means that the United States will have to chase increasingly scarce resources in an increasingly competitive global marketplace, which will have the effect of both raising the demand prices of those resources (particularly oil) and cutting the supply available to American consumers.</p>
+        <p>Our dependence upon fossil fuels and our energy-driven lifestyle will prove to be our strategic undoing. Despite Zakaria's vaguely ''realist'' premonition of military challenges from Asia and the Southern Cone, future competitors need not worry about matching us on the battlefield. +If they're smart -- and they are -- they'll simply wait for us to consume ourselves into second-rate status.</p>
+        <p>As the globe flattens, we'll find we need to worry less about clashes of civilizations or religious terror and more about the traditional concerns of old-fashioned international relations -- power and resources.</p>
+        <p>Russell Burgos  Thousand Oaks, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I found Fareed Zakaria's review of Thomas L. Friedman's book ''The World Is Flat: A Brief History of the Twenty-First Century'' (May 1) to be somewhat puzzling. Only toward the end of his review does Zakaria demonstrate that the ''flattening'' of the international system might pose strategic challenges to the United States, yet this is the real lesson of Friedman's work. The central paradox of globalization is that as nice as it is to see wealth and democratization spread around the globe, the United States was strategically better off when there was significant global inequality. Better off, because we could command the lion's share of the world's resources, which helped make us both rich and powerful.</p>
+        <p>As successive generations of Brazilians, Chinese and Indians become wealthier, they will want to consume the fruits of their labors. They will prefer the Lexus to the olive tree. This means that the United States will have to chase increasingly scarce resources in an increasingly competitive global marketplace, which will have the effect of both raising the demand prices of those resources (particularly oil) and cutting the supply available to American consumers.</p>
+        <p>Our dependence upon fossil fuels and our energy-driven lifestyle will prove to be our strategic undoing. Despite Zakaria's vaguely ''realist'' premonition of military challenges from Asia and the Southern Cone, future competitors need not worry about matching us on the battlefield. +If they're smart -- and they are -- they'll simply wait for us to consume ourselves into second-rate status.</p>
+        <p>As the globe flattens, we'll find we need to worry less about clashes of civilizations or religious terror and more about the traditional concerns of old-fashioned international relations -- power and resources.</p>
+        <p>Russell Burgos  Thousand Oaks, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

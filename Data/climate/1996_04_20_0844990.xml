@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="844990"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE0D71E39F933A15757C0A960958260" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NUCO2 INC., Stuart, Fla., which supplies carbon dioxide systems for use in fountian beverages, agreed to buy the carbon dioxide supply operation of Coca-Cola Bottling Co. of New York Inc. Terms were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>NUCO2 INC., Stuart, Fla., which supplies carbon dioxide systems for use in fountian beverages, agreed to buy the carbon dioxide supply operation of Coca-Cola Bottling Co. of New York Inc. Terms were not disclosed.</p>
+        <p>PHOENIX SHANNON P.L.C., Shannon, Ireland, a maker of dental products, plans to acquire Excelco International Inc. of Deerfield Beach, Fla., a maker of dental ceramic, for an undisclosed amount.</p>
+        <p>GTE CORP., Stamford, Conn., a telecommunication holding company, said it would invest $28 million in a joint venture with Guangzhou Guangtong Resources Co., to support the development of wireless telecomunications in China.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

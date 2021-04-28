@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="14corrections-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1804795"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">Congress (US)</org>
+        <person class="indexing_service">Inhofe, James (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE5DD173EF937A25752C1A9609C8B63" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Nov 10 article about leadership changes in Congress; Sen James Inhofe, who will be losing chairmanship of environment committee, has said it is hoax to suggest that human activity is cause of global warming; he does not dispute that earth is getting warmer</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Friday about expected leadership changes in Congress misstated the position on global warming taken by Senator James M. Inhofe, the Oklahoma Republican who will be losing the chairmanship of the Environment and Public Works Committee. Senator Inhofe has said that it is a hoax to suggest that human activity is the cause of global warming; he does not dispute the idea that the earth is getting warmer.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Friday about expected leadership changes in Congress misstated the position on global warming taken by Senator James M. Inhofe, the Oklahoma Republican who will be losing the chairmanship of the Environment and Public Works Committee. Senator Inhofe has said that it is a hoax to suggest that human activity is the cause of global warming; he does not dispute the idea that the earth is getting warmer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

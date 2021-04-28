@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reckonings; Pursuing Happiness</title>
+    <meta content="29KRUG$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1187693"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Economics</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Krugman, Paul</person>
+        <person class="indexing_service">Easterlin, Richard</person>
+        <object.title class="indexing_service">American Beauty (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economics</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000329T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EFD6163CF93AA15750C0A9669C8B63" item-length="806" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reckonings; Pursuing Happiness</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column on economic research supporting the view that money does not buy happiness, the theme of the Oscar-winning film American Beauty; cites Richard Easterlin's 1974 study, which found that above a very low level, economic growth does not seem to improve human welfare, and later studies showing that happiness is much more dependent on having a job than on how much the job pays; says the American system for balancing wealth, employment and other factors in happiness may not beautiful, but it still takes the prize (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The big winner at the Oscars was ''American Beauty,'' a film based on the daring and original premise that material possessions don't bring happiness. Oh, well. Anyway, not all trite ideas are wrong. In fact, there is quite a lot of evidence indicating that, sure enough, money doesn't buy happiness -- or at least not so you'd notice.</p>
+        <p>At this point I could cite the accumulated wisdom of the ages -- but hey, it's the modern world, so let's talk about the polls. Since World War II, random samples of people in the United States and elsewhere have repeatedly been asked how happy they are. When the economic historian Richard Easterlin surveyed these surveys in a classic 1974 paper, he formulated what has come to be known as the ''Easterlin paradox'': Basically, above a very low level economic growth does not seem to improve human welfare. Later evidence  confirms his observation. Americans were no more likely to describe themselves as happy in the 1990's than they had been in the 1940's. Even the Japanese, who went from near-third-world conditions to widespread affluence  between the 1950's and the 1980's, did not become happier.</p>
+      </block>
+      <block class="full_text">
+        <p>The big winner at the Oscars was ''American Beauty,'' a film based on the daring and original premise that material possessions don't bring happiness. Oh, well. Anyway, not all trite ideas are wrong. In fact, there is quite a lot of evidence indicating that, sure enough, money doesn't buy happiness -- or at least not so you'd notice.</p>
+        <p>At this point I could cite the accumulated wisdom of the ages -- but hey, it's the modern world, so let's talk about the polls. Since World War II, random samples of people in the United States and elsewhere have repeatedly been asked how happy they are. When the economic historian Richard Easterlin surveyed these surveys in a classic 1974 paper, he formulated what has come to be known as the ''Easterlin paradox'': Basically, above a very low level economic growth does not seem to improve human welfare. Later evidence  confirms his observation. Americans were no more likely to describe themselves as happy in the 1990's than they had been in the 1940's. Even the Japanese, who went from near-third-world conditions to widespread affluence  between the 1950's and the 1980's, did not become happier.</p>
+        <p>Mr. Easterlin argued that the reason economic growth doesn't make us happier is that people judge themselves largely by their position relative to other people. Someone with an income of $32,000 in a society where the median is $40,000 feels as socially disadvantaged as someone with an income of $8,000 in a society where the median is $10,000; so even quadrupling people's real income may not make much difference in how they feel. Other evidence suggests that even relative income makes less difference than most of us imagine: the rich are happier than you and I, but not very much so.</p>
+        <p>In a recent paper David Blanchflower and Andrew Oswald estimated ''happiness equations'' from American and British survey data. They found that when you carefully control for other things, more money actually does make people a bit happier -- but its influence is swamped by non-pecuniary factors. Being married is far more important than being rich; having a job is much more important than how much the job pays.</p>
+        <p>So what are the implications? Anti-growth types tend to like the Easterlin paradox; they see it as yet another reason to favor the simple, ecologically sound life. Milder sorts like Robert Frank, author of the book ''Luxury Fever,'' argue that if people care about their relative position -- as they clearly do -- then conspicuous consumption is not just in bad taste but a sort of psychological pollution, as real in its adverse impact as acid rain. The  answer? A highly progressive tax system, which Mr. Frank supports for the same reason The Wall Street Journal opposes it -- that it reduces the incentive to make more money.</p>
+        <p>But before you denounce (or applaud) happiness research as leftist  propaganda, be aware that it also cuts the other way. For example, how do  you feel about the ''living wage'' movement, which in effect wants a large increase in the minimum wage? That would certainly increase the incomes of the lowest-paid workers; but it would also surely have at least some adverse effect on the number of jobs available. You may think that a price worth paying -- but the equations say that the extra unemployment would be a very bad thing for those who lose their jobs, while a higher wage would make only a small difference to the happiness of those who remain employed.</p>
+        <p>Or think of it this way. If you don't want a society in which everyone is  desperately trying to get ahead in a zero-sum status game, you might  advocate government policies that slow down the rat race: high tax rates, generous health and unemployment benefits, long mandatory paid vacations, maybe even a limit on individual working hours. In other words, you might want to turn America into France. But France has an unemployment rate more than twice as high as America's, largely because of those same government policies. And unemployment -- even comfortable European-style unemployment -- makes people very unhappy, because it is demoralizing.</p>
+        <p>Is there any way out of the dilemma? Well, East Germany had full employment without a rat race -- but it fell a bit short in the life and liberty departments. I'd say that given the alternatives, the American system, though not beautiful, still takes the prize.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

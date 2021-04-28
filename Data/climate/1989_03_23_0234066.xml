@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Industry Is Doing Better, But Prospects Are Grim</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="234066"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFDA1238F930A15750C0A96F948260" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Industry Is Doing Better, But Prospects Are Grim</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The scorecard for the nuclear power industry since Three Mile Island shows strong growth and the seeds of extinction.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The scorecard for the nuclear power industry since Three Mile Island shows strong growth and the seeds of extinction.</p>
+        <p>The scorecard for the nuclear power industry since Three Mile Island shows strong growth and the seeds of extinction.</p>
+        <p>There were 72 operating plants at the time of the accident, providing 11.4 percent of the nation's electricity. Today there are 111, meeting almost 20 percent of electricity needs.</p>
+        <p>But all plants now running or approaching completion were ordered in 1973 or earlier; more than 100 plants that were ordered later were canceled, and there have been no orders since 1978.</p>
+        <p>The cancellations were mostly because of rising costs, with some overruns attributable to regulations put into effect after the accident. More often, however, costs ran higher than anticipated because the utilities had little idea what they were building when they broke ground.</p>
+        <p>Reduced forecasts of future demand also played a role in the cancellations. But the 1979 accident in Pennsylvania has played an important role in sidelining two plants: Seabrook, in New Hampshire, and Shoreham, on Long Island. The operating licenses for both were blocked by local opposition based on problems with emergency planning. The emergency rules were a result of Three Mile Island.</p>
+        <p>Only a handful of reactors are still under construction, and the last is likely to be finished next year or the year after. Several older plants are likely to be retired in the next few years, meaning that the number of reactors will peak soon, at 115 or fewer.</p>
+        <p>No one expects utilities to order new reactors soon. Costs are still uncertain, alternative fuels are inexpensive and regulatory pitfalls that tripped up earlier plants have not been removed. In the longer run, nuclear plants will face competition from small, independent power producers making highly efficient use of fossil fuels, from improvements in the efficiency of electric lights and motors, and possibly from other technologies like solar power.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

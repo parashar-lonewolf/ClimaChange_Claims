@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Try a Global Warming Compromise</title>
+    <meta content="LTR014232" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="968729"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <location class="indexing_service">Sweden</location>
+        <location class="indexing_service">Norway</location>
+        <location class="indexing_service">Germany</location>
+        <person class="indexing_service">Meidav, Tsvi</person>
+        <person class="indexing_service">Blinder, Alan S</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Norway</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Sweden</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E7D91531F93BA15753C1A961958260" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Try a Global Warming Compromise</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Tsvi Meidav says contrary to Alan S Blinder's opinion in Oct 22 Op-Ed, carbon dioxide emissions have been reduced successfully through taxation of polluters in countries like Norway, Sweden and Germany (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Alan S. Blinder (Op-Ed, Oct. 22) recommends tradable credits as a mechanism to efficiently reduce carbon dioxide emissions in the atmosphere, a cause of global warming. He believes that command-and-control techniques would be clumsy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Alan S. Blinder (Op-Ed, Oct. 22) recommends tradable credits as a mechanism to efficiently reduce carbon dioxide emissions in the atmosphere, a cause of global warming. He believes that command-and-control techniques would be clumsy.</p>
+        <p>However, some European countries, like Norway, Sweden and Germany, have reduced carbon dioxide emissions significantly by taxing polluters and providing incentives for clean energy sources and conservation. A bill before the Minnesota Legislature would impose a tax of $50 per ton of carbon and redistribute much of the revenue in reduced payroll and property taxes.</p>
+        <p>Tax revenue and the tradable-credits approach combined could act to reduce pollution while protecting economic stability. And the remaining portion of these monies could be used for research and development of clean energy technologies.</p>
+        <p>The Energy Department's support for such research and development has resulted in a continuing drop in the cost of renewable energy production. As a result, renewable energy is nearly competitive with fossil-based electricity.</p>
+        <p>TSVI MEIDAV  Oakland, Calif., Oct. 24, 1997</p>
+        <p>The writer is president of a company that develops electricity from geothermal sources.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

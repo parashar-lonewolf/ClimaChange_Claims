@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hybrid Effort by Honda to Curb Exhaust Pollution</title>
+    <meta content="02HOND$03" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="969895"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E2D91F31F931A35752C1A961958260" item-length="809" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hybrid Effort by Honda to Curb Exhaust Pollution</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <abstract>
+        <p>Honda reports development of zero-level emissions vehicle, which it claims will be as clean as an electric car; VTEC system mixing fuel and air better in cylinders for cleaner burning explained; diagram (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AUTOMOBILE companies and laboratories around the world have announced promising developments recently in the quest for an electric vehicle that will eliminate automotive pollution while still being practical and cost competitive. But Honda has taken a startlingly different approach to the same goal, using gasoline.</p>
+        <p>At the opening of the Tokyo Auto Show last month, Honda said it had developed a zero-level emissions vehicle, a term derived from the California program of low-emission vehicles and ultra-low emission vehicles, known as LEV's and ULEV's, and zero-emission vehicles, known as ZEV's, which engineers had supposed would be electric.</p>
+      </block>
+      <block class="full_text">
+        <p>AUTOMOBILE companies and laboratories around the world have announced promising developments recently in the quest for an electric vehicle that will eliminate automotive pollution while still being practical and cost competitive. But Honda has taken a startlingly different approach to the same goal, using gasoline.</p>
+        <p>At the opening of the Tokyo Auto Show last month, Honda said it had developed a zero-level emissions vehicle, a term derived from the California program of low-emission vehicles and ultra-low emission vehicles, known as LEV's and ULEV's, and zero-emission vehicles, known as ZEV's, which engineers had supposed would be electric.</p>
+        <p>Honda's ZLEV is supposed to be as clean as an electric vehicle, if regulators take into account pollution from the electric generating station that must run to supply the batteries.</p>
+        <p>John Dunlap, chairman of the California Air Resources Board, called the system ''a remarkable breakthrough,'' with pollution one-tenth that of the ULEV. But it is still several steps, and several years at least, from practical use.</p>
+        <p>''It'll be interesting to see how this pans out for them,'' said Steven D. Burch, a senior engineer at the Energy Department's National Renewable Energy Laboratory in Golden, Colo.</p>
+        <p>If California does not give Honda credit for an engine that is cleaner than ULEV, he added, then the company would have trouble justifying the extra cost.</p>
+        <p>Honda hopes to bring the cost down to very little, said Art Garner, a spokesman, because ''if a customer doesn't want to buy it because of the cost, then it doesn't do any good.''</p>
+        <p>The system relies on catalytic converters, which since the mid-70's have been used to burn hydrocarbons, nitrogen oxides and carbon monoxide into harmless substances. But it overcomes a big weakness of existing converters: that they do not begin working until they have reached operating temperatures of about 700 degrees, usually a minute or more after the car is started.</p>
+        <p>Other companies have tried to heat the converter with a jolt of electricity, or to store the pollutants until the converter is hot or reduce the pollution output in the first place. Honda's system does all three.</p>
+        <p>Honda is using its VTEC system, which mixes fuel and air better in cylinders for cleaner burning. And it has a catalytic converter with a large surface area that hydrocarbon particles tend to stick to when the surface is relatively cold. When the system warms up, they unstick and are drawn into another part of the converter for burning.</p>
+        <p>''Zero'' is an absolute term, and this engine does not meet it, but the company says that its exhaust is often cleaner than what goes into the air intake, something the company calls a ''negative emission.''</p>
+        <p>For nitrogen oxides, which many experts say are the hardest and most important emissions to control, the system holds emissions to less than two-hundredths gram a mile. California's ULEV standard is 10 times that, or two-tenths gram a mile, and new cars in most states are allowed to emit four-tenths gram a mile, or 20 times the Honda system's level.</p>
+        <p>For hydrocarbons, which join with nitrogen oxides in sunlight to make smog, the Honda emits less than four-thousandths gram a mile, or a tenth the California ULEV standard of four-hundredths gram. The Federal passenger car standard for new vehicles is one-quarter gram, about 60 times the Honda level.</p>
+        <p>For carbon monoxide, which is itself toxic, the Honda holds emissions to less than 17-hundredths gram a mile, one-tenth the ULEV standard of 1.7 grams, and one-twentieth of a Federal standard of 3.4 grams a mile.</p>
+        <p>The system works on Honda's most popular engine, a 2.3-liter, four-cylinder used in the 1998 Accord EX. That was the first gasoline-powered vehicle to be certified by California as meeting the ULEV standard. It is  somewhat smaller than the engine in the average light-duty vehicle.</p>
+        <p>The announcement comes amid a flurry of promising developments in efforts to curb transportation pollution. The Energy Department and Arthur D. Little said they had a device that would fit easily into a car and would turn gasoline into electricity cleanly and efficiently; Solectria, the nation's highest-volume electric car company, drove a four-seat sedan down the interstates from its home in Boston to New York on a single charge, and Toyota showed off a clean, efficient hybrid vehicle, with an electric drive and a small gasoline engine, that it will be selling in Japan next year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

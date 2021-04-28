@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="19OBSE" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/04/19/science/19obse.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1666095"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Moon</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Plastics</classifier>
+        <classifier class="online_producer" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plastics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E6D91F3EF93AA25757C0A9639C8B63" item-length="952" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Eternal Sunshine of the Lunar Kind</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Mind of Plastic</p>
+        <p>Plastics have been called a lot of things by a lot of people, but ''smart'' isn't one that usually comes to mind.</p>
+        <p>Yet researchers in Germany have developed a new kind of plastic that can be shaped by ultraviolet light and returned to its original shape the same way. The material, described in the journal Nature, may eventually find use in medicine or other fields.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>NASA finds a spot for a lunar outpost, researchers develop a "smart" plastic and a study on whether we should use more natural gas.</p>
+      </block>
+      <block class="full_text">
+        <p>The Mind of Plastic</p>
+        <p>Plastics have been called a lot of things by a lot of people, but ''smart'' isn't one that usually comes to mind.</p>
+        <p>Yet researchers in Germany have developed a new kind of plastic that can be shaped by ultraviolet light and returned to its original shape the same way. The material, described in the journal Nature, may eventually find use in medicine or other fields.</p>
+        <p>Such shape-memory polymers are not unknown, but the usual way of inducing the changes is through heating. The new material, developed at GKSS Research Center in Teltow, Germany, can be shaped at temperatures of about 80 degrees Fahrenheit, and the changes are stable to at least 125 degrees.</p>
+        <p>The secret behind the polymer's ability is the addition of cinnamic acid or similar molecules, which can form or break bonds under light of certain wavelengths. The researchers took a thin sheet of this doped polymer, lengthened it by stretching and exposed it to UV light of a wavelength greater than 260 nanometers. This caused cross-links to form, so that when the film was released, it remained stretched.</p>
+        <p>Exposing the altered material to UV light of a wavelength shorter than 260 nanometers broke the cross-links, returning it to its original length.</p>
+        <p>By exposing only portions of the material to light, various shapes can be formed. For example, the researchers exposed only one side of the sheet while it was being stretched. Since this side stiffened but the other side didn't, the material curled into a spiral when it was released. Exposing it to lower-wavelength light caused it to flatten again.</p>
+        <p>Cleaning the Greenhouse</p>
+        <p>If much of the industrialized world switched from coal and oil to natural gas, it might have a mitigating effect on climate change. That's because burning natural gas produces far less of the greenhouse gas carbon dioxide than burning coal or oil.</p>
+        <p>But natural gas is largely methane, which is a powerful greenhouse gas as well. And natural gas production centers and pipelines leak. So the question is, Would so much methane leak into the atmosphere that switching to natural gas would actually be worse for the climate?</p>
+        <p>A study in Nature suggests it wouldn't. Researchers from the Max Planck Institute for Chemistry in Germany measured methane leaks along Russia's extensive gas distribution system, which some experts suggest has losses as high as 10 percent.</p>
+        <p>But the researchers calculated the actual leakage in the system at about 1.5 percent, which is similar to the percentage lost in gas pipelines in the United States. And the loss is below the percentage that would worsen the climate situation compared with oil and coal.</p>
+        <p>Eternal Sunshine Of the Lunar Kind</p>
+        <p>Say you are NASA and you want to set up a lunar outpost, and you want lots of sunlight to power it. Well then, Houston, you've got a problem. Since the same side of the Moon always faces Earth, and it goes from fully illuminated to dark each month, finding a place with permanent sunlight would seem to be difficult at best.</p>
+        <p>But scientists think they may have found such a place. Poring over images from a 10-year-old lunar mission, they have located an area near the Moon's north pole that is fully illuminated, at least in summer. As Van Morrison might say, it's a marvelous site for a moon ranch.</p>
+        <p>Dr. Ben J. Bussey of the Johns Hopkins Applied Physics Laboratory and colleagues compiled an illumination map of the polar region using images from the Clementine spacecraft, which orbited the Moon in 1994. Several fully sunlit spots were found along the north rim of Peary crater, an impact crater near the pole that is about 45 miles in diameter. The findings were published in the journal Nature.</p>
+        <p>Scientists have long thought there may be areas of permanent sunlight near the poles because, unlike Earth, the Moon is tilted only slightly -- about 1.5 degrees -- from its rotational axis. So an area near the poles that is at high enough elevation may even catch sunlight during the winter, when it is tilted away from the Sun.</p>
+        <p>The rim of Peary crater is such a highland area, Dr. Bussey said, roughly a mile higher than the crater floor.</p>
+        <p>Because the images were obtained only during what is the lunar summer, it's not known whether they are illuminated in winter as well. ''But they are probably the most illuminated areas on the Moon,'' Dr. Bussey said.</p>
+        <p>That bodes well as a location for a base. ''You'd have a permanent source of solar energy, and in an outpost, energy is at a premium,'' Dr. Bussey said. ''If you can do it with solar rather than taking a nuke with you, that's good.''</p>
+        <p>The area would also have a relatively constant temperature, about minus 60 degrees Fahrenheit. By contrast, areas near the equator fluctuate from about 200 degrees above zero to 240 below. A constant temperature would be much less of a problem for dwellings and equipment.</p>
+        <p>Lastly, just over the crater rim from the illuminated spots are areas of permanent shadow. Many scientists think there may be ice trapped near the surface in these areas. So any base would have a nearby source of water.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

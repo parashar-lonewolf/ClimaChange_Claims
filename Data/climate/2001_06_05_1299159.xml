@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Americas: Mexico: Curbing Greenhouse Gases</title>
+    <meta content="MB235325" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1299159"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <org class="indexing_service">Petroleos Mexicanos (Pemex)</org>
+        <person class="indexing_service">Weiner, Tim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E5DE133FF936A35755C0A9679C8B63" item-length="57" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Americas: Mexico: Curbing Greenhouse Gases</hl1>
+      </hedline>
+      <byline class="print_byline">By Tim Weiner (NYT)</byline>
+      <byline class="normalized_byline">Weiner, Tim</byline>
+      <abstract>
+        <p>Pemex, Mexico's state-run energy syndicate and world's fifth-largest oil company, will begin voluntary program to limit its carbon dioxide emissions; it is first Latin American company to pledge to reduce greenhouse gases (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pemex, the state-run energy syndicate and the world's fifth-largest oil company, announced that it would begin a voluntary program to limit its carbon dioxide emissions. It is the first Latin American company to pledge to reduce greenhouse gases. Pemex officials said they would reduce emissions to 1 percent below 1999 levels.</p>
+        <p>Tim Weiner (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Pemex, the state-run energy syndicate and the world's fifth-largest oil company, announced that it would begin a voluntary program to limit its carbon dioxide emissions. It is the first Latin American company to pledge to reduce greenhouse gases. Pemex officials said they would reduce emissions to 1 percent below 1999 levels.</p>
+        <p>Tim Weiner (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

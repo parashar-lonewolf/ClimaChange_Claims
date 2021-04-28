@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Sweat Factor</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="694622"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="SUN SIGNS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">SEASONS AND MONTHS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Seasons and Months</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E6D8133DF93AA25755C0A962958260" item-length="249" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Sweat Factor</hl1>
+      </hedline>
+      <byline class="print_byline">By JACQUELINE CHARLES</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last week, the weather sizzled. Now, as summer begins its official run, should New Yorkers expect a sustained, hot-air flip side to this winter's cold misery?</p>
+        <p>Not really,s ay weather experts. Their predictions: It will be warm and dry, but not as hot as last year.</p>
+      </block>
+      <block class="full_text">
+        <p>Last week, the weather sizzled. Now, as summer begins its official run, should New Yorkers expect a sustained, hot-air flip side to this winter's cold misery?</p>
+        <p>Not really,s ay weather experts. Their predictions: It will be warm and dry, but not as hot as last year.</p>
+        <p>"I would tend to think we would be looking for temperatures to be bouncing around this summer," said Paul Knight, a meteorologist at Pennsylvania State University. "I would look for ups and downs and maybe some pretty big ups and downs." Current weather patterns, he said, favor temperatures that reach far above normal. Global warming is not much of a factor. Mr. Knight said. "There is no real indication that we are in a string of hot times."</p>
+        <p>Meanwhile, the folks behind The Old Farmer's Almanac, too, predict "a slightly warmer than normal summer with some days of extreme heat and cool spells" for the New York City region. Susan Peery, managing editor of The Old Farmer's Almanac, said that while they do their best to be accurate in their forecasts, based on studies of solar cycles and radiation from the sun, "I'd be the first to say we aren't always accurate."</p>
+        <p>Actually, last year's almanac called for a cool sumjmer. Last summer's heat shattered records, with 17 days of 90-plus temperatures in July alone. The National Weather Service played it safe, predicting "exactly a 50-to-50 chance for temperatures to be above or below normal," Mr. Knight said. "They didn't know." JACQUELINE CHARLES  SUN SIGNS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

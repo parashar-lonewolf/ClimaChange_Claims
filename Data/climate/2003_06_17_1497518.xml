@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="17OBSE$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/06/17/science/17OBSE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1497518"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Thrushes</classifier>
+        <classifier class="indexing_service" type="descriptor">Migration</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Hydrogen</classifier>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Telescopes and Observatories</classifier>
+        <classifier class="indexing_service" type="descriptor">Moon</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <location class="indexing_service">Saint-Remy (France)</location>
+        <org class="indexing_service">Princeton University</org>
+        <org class="indexing_service">Nature (Journal)</org>
+        <org class="indexing_service">California Institute of Technology</org>
+        <org class="indexing_service">Science (Journal)</org>
+        <org class="indexing_service">Sky and Telescope (Magazine)</org>
+        <org class="indexing_service">Southwest Texas State University</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">Wikelski, Martin</person>
+        <person class="indexing_service">Van Gogh</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="descriptor">Birds</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migration</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E2DF1238F934A25755C0A9659C8B63" item-length="667" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Those Taxing Layovers</hl2>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Princeton researcher Martin Wikelski leads scientific study published in journal Nature that measures and qualifies energy used by thrushes migrating north in springtime; study finds birds resting between flights continue to use energy and burn calories at rate as high as two times flight requirements; California Institute of Technology researchers publish study in journal Science exploring possible environmental effects of hydrogen as dominant energy source; contend that producing, storing and distributing hydrogen could create environmental hazards by releasing estimated 10 to 20% more hydrogen in atmosphere than current levels; Sky and Telescope magazine reports that Southwest Texas State University researchers have assigned date and time Vincent Van Gogh witnessed moonrise depicted in famouse painting of moon over Saint-Remy cliffs; they believe painting, entitled Moonrise, was conceptualized July 13, 1889, at 9:08 local time; cartoon (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Those Taxing Layovers</p>
+        <p>If you've ever made a long summer car trip, you know that the actual driving is often relatively painless. It's fighting the crowds at the highway rest areas that can really drain the energy out of you.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This week's column includes items on migrating birds, fuel cells and their future possible cost to the environment, and Van Gogh's painting of Moonrise.</p>
+      </block>
+      <block class="full_text">
+        <p>Those Taxing Layovers</p>
+        <p>If you've ever made a long summer car trip, you know that the actual driving is often relatively painless. It's fighting the crowds at the highway rest areas that can really drain the energy out of you.</p>
+        <p>For migrating birds, too, the biggest energy cost is not the flying itself, but the stopovers en route. That's the conclusion of a team of researchers led by Martin Wikelski of Princeton, who measured how much energy thrushes use during their northward migration in spring.</p>
+        <p>Unlike earlier studies, which used birds in wind tunnels, this one measured free-flying birds (of two species) during their actual migration, with the researchers capturing them daily over part of the route in the Midwest.</p>
+        <p>To measure energy consumption they used the doubly-labeled water technique, in which a small amount of water containing different isotopes of hydrogen and oxygen is injected into the bird each morning. By taking blood samples and determining the proportion of the isotopes in the blood, the researchers could determine how much oxygen, and energy, was consumed.</p>
+        <p>The team reported in the journal Nature that in flights of up to 350 miles the birds used about 15.5 kilojoules (or slightly less than 4 calories) per hour. But at rest, birds also consume energy to stay warm in the cool spring weather. The researchers found that on a cool day, a nonflying bird could consume as much additional energy as if it were flying for two and a half hours.</p>
+        <p>The researchers also estimated total energy consumption for a typical six-week migration from Central America to Canada, with 18 flying days and 24 stopover days. Energy used during actual flight accounts for only 29 percent of the total. More than twice as much energy was used when the birds weren't on the move.</p>
+        <p>Fuel Cells' Flip Side</p>
+        <p>Proponents of a hydrogen economy talk of a day when fuel cells are the dominant energy source and the nitrogen oxides and sulfur pollution of fossil fuels are a thing of the past.</p>
+        <p>Fuel cells are a clean energy source, oxidizing hydrogen in a controlled way and creating only water as a waste product. But if fuel cells proliferate, a system for producing, storing and distributing hydrogen will need to be developed as well. And that could affect the environment, according to a study in the journal Science by researchers from the California Institute of Technology.</p>
+        <p>The scientists worked under the assumption that any hydrogen distribution system would involve some losses to the atmosphere, which has been the experience with other gases. The researchers estimated these losses -- from leaks or during transfer, for example -- at 10 to 20 percent, which in a completely hydrogen economy could mean up to an eightfold increase in the amount of the gas entering the atmosphere.</p>
+        <p>To gauge the effect of all that hydrogen, the scientists modeled the atmosphere. For one thing, when it reached the stratosphere, some of the hydrogen would be oxidized, producing water. That would make the stratosphere cooler and cloudier. And that, according to the model, would indirectly affect the ozone layer, making it larger and more persistent.</p>
+        <p>The researchers acknowledge that there are a lot of unknowns in their study, particularly the amount of hydrogen that might be taken up by soils.</p>
+        <p>Which Starry Night?</p>
+        <p>Van Gogh was a man of many mysteries, but one of them has now been solved: the date he painted ''Moonrise,'' which depicts the moon emerging from behind cliffs in Saint-Rémy.</p>
+        <p>Researchers from Southwest Texas State University dated the painting by traveling to Saint-Rémy and taking elevation readings and other measurements of the landscape. Writing in the July issue of Sky &amp; Telescope magazine, they describe their calculations that determined that the moonrise Van Gogh witnessed and painted could only have been the one that occurred on July 13, 1889, at 9:08 p.m. local time.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

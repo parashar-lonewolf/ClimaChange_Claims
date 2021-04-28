@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE PROMISE THAT FAILED</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="184488"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="types_of_material">LETTER</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881002T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3DD143AF931A35753C1A96E948260" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE PROMISE THAT FAILED</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The failure of the artificial heart was inevitable the moment the first patient developed a post-operative complication that should have been anticipated prior to the operation (''The Promise That Failed,'' by Ralph Brauer, Aug. 28). The problem was not infection. The heart is only a portion of the vascular tree and functions by pumping blood to supply oxygen to the cells and to remove carbon dioxide and other metabolic wastes.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The failure of the artificial heart was inevitable the moment the first patient developed a post-operative complication that should have been anticipated prior to the operation (''The Promise That Failed,'' by Ralph Brauer, Aug. 28). The problem was not infection. The heart is only a portion of the vascular tree and functions by pumping blood to supply oxygen to the cells and to remove carbon dioxide and other metabolic wastes.</p>
+        <p>The failure of the artificial heart was inevitable the moment the first patient developed a post-operative complication that should have been anticipated prior to the operation (''The Promise That Failed,'' by Ralph Brauer, Aug. 28). The problem was not infection. The heart is only a portion of the vascular tree and functions by pumping blood to supply oxygen to the cells and to remove carbon dioxide and other metabolic wastes. It is rare for the heart solely to be affected by a disease process. This may occur in rheumatic heart disease and inflammation of heart muscle in the young, but heart disease in the elderly is invariably a manifestation of a widespread circulatory problem that affects the heart vessels as well as the heart muscle. This was the situation with the first patient treated with a permanently implanted artificial heart.</p>
+        <p>Although implantation of an artificial heart improved blood output, it could in no way improve the ability of diseased blood vessels to carry blood to affected organs - the brain, kidneys, liver, lungs etc. One cannot expect an inadequate circulatory system to cope with a normal cardiac output. Considering this, it should have been predicted that such vital organs as the brain and kidneys would fail.  KENNETH J. STRULLY, M.D.  Newport, N.H.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Warming's Likely Victims</title>
+    <meta content="Y19WAR$03" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/02/19/science/19WARM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1272087"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Agriculture</classifier>
+        <classifier class="indexing_service" type="descriptor">Glaciers</classifier>
+        <org class="indexing_service">Intergovernmental Panel on Climate Change</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Glaciers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7DB1E30F93AA25751C0A9679C8B63" item-length="349" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Warming's Likely Victims</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Intergovernmental Panel on Climate Change working group says global warming will likely increase crop yields in temperate northern regions while harming agriculture in tropics, further widening gap between industrialized and poor nations; finds rise in global temperatures in recent decades has already had impact on wildlife, glaciers, sea ice and other earth features; warns of damage and disruption from further temperature rise (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Global warming is expected to increase crop yields in temperate northern regions while harming agriculture in the tropics, further widening the gap between rich, industrialized countries and poor developing nations, according to a new analysis by an influential network of scientists.</p>
+        <p>The analysis also concludes with ''high confidence'' that the rise in global temperatures in recent decades has already had a significant impact on wildlife, glaciers, sea ice and other features of the earth.</p>
+      </block>
+      <block class="full_text">
+        <p>Global warming is expected to increase crop yields in temperate northern regions while harming agriculture in the tropics, further widening the gap between rich, industrialized countries and poor developing nations, according to a new analysis by an influential network of scientists.</p>
+        <p>The analysis also concludes with ''high confidence'' that the rise in global temperatures in recent decades has already had a significant impact on wildlife, glaciers, sea ice and other features of the earth.</p>
+        <p>A further rise of 2.7 degrees to 10 degrees Fahrenheit, the range of possibilities over the next 100 years, could disrupt water supplies, flood coasts, destroy coral reefs and push vulnerable species like the Bengal tiger to extinction, according to the report.</p>
+        <p>The report, ''Climate Change 2001: Impacts, Adaptation, and Vulnerability,'' is being released today at a meeting in Geneva and on the Internet -- at www.ipcc.ch -- by a working group of the Intergovernmental Panel on Climate Change, which advises the world's governments under the auspices of the United Nations. An American official who had access to the report provided a final draft to The New York Times.</p>
+        <p>This is the second in a series of three voluminous documents that provide the first thorough assessment of climate data in five years. In the first, issued last month, the panel -- for first time -- concluded that carbon dioxide and other greenhouse gases from human activities are likely to have caused most of the 1 degree rise in global temperature since 1950.</p>
+        <p>Besides concluding that the damage from further warming could be somewhat offset by higher crop yields in some countries, the new report contained one other hint of optimism.</p>
+        <p>It said that humans -- at some significant cost -- will be able ''to reduce many of the adverse impacts of climate change and to enhance beneficial impacts.''</p>
+        <p>But ecosystems will not be nearly as adaptable, it said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

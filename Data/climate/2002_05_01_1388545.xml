@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gore on Climate Change</title>
+    <meta content="L01GORE" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1388545"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">United Nations</org>
+        <org class="indexing_service">Intergovernmental Panel on Climate Change</org>
+        <person class="indexing_service">Gore, Al</person>
+        <person class="indexing_service">Pachauri, Rajendra K (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E3DE1731F932A35756C0A9649C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gore on Climate Change</hl1>
+      </hedline>
+      <abstract>
+        <p>R K Pachauri letter says Al Gore's derogatory statements about him (April 21 Op-Ed article) reflect deep disappointment with his election as chairman of Intergovernmental Panel on Climate Change; quotes Gore's praise of him in earlier years (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Selling of an Energy Policy,'' by Al Gore (Op-Ed, April 21):</p>
+        <p>Mr. Gore's derogatory statements about me reflect deep disappointment at my election as chairman of the Intergovernmental Panel on Climate Change, with 76 votes for me against 49 for his protégé, Dr. Robert T. Watson.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Selling of an Energy Policy,'' by Al Gore (Op-Ed, April 21):</p>
+        <p>Mr. Gore's derogatory statements about me reflect deep disappointment at my election as chairman of the Intergovernmental Panel on Climate Change, with 76 votes for me against 49 for his protégé, Dr. Robert T. Watson.</p>
+        <p>In a 1991 speech, Mr. Gore, referring to my ''commitment,'' ''vision'' and ''dedication,'' said: ''Pachy is the one person in the world who could bring us all here. . . . He is known all over the community of concerned men and women as someone with the intellect and the heart.''</p>
+        <p>In ''Earth in the Balance,'' Mr. Gore acknowledged me ''among the other scientists who have been helpful in giving me advice during the writing of this book.''</p>
+        <p>Would the real Al Gore stand up? Does what he says today hold no value tomorrow?</p>
+        <p>R. K. PACHAURI  New Delhi, April 27, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

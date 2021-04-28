@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MILITARY IS SEEN STALLING ON OZONE</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="515636"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">BUREAUCRATIC RED TAPE</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <person class="indexing_service">SCHNEIDER, KEITH</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bureaucratic Red Tape</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDF143BF932A15750C0A964958260" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MILITARY IS SEEN STALLING ON OZONE</hl1>
+      </hedline>
+      <byline class="print_byline">By KEITH SCHNEIDER,</byline>
+      <byline class="normalized_byline">SCHNEIDER, KEITH</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new policy aimed at eliminating the use of ozone-depleting chemicals by the military is being blocked at the top levels of the Pentagon, military officers said today.</p>
+        <p>Environmental officials in the Defense Department attributed the delay in issuing the policy to the usual slow bureaucratic process in the military.</p>
+      </block>
+      <block class="full_text">
+        <p>A new policy aimed at eliminating the use of ozone-depleting chemicals by the military is being blocked at the top levels of the Pentagon, military officers said today.</p>
+        <p>Environmental officials in the Defense Department attributed the delay in issuing the policy to the usual slow bureaucratic process in the military.</p>
+        <p>"There is nothing final yet," said Jan Walker, a spokeswoman for the Pentagon. "We are still in the process."</p>
+        <p>But other environmental specialists in the military said the policy was being held up by top officers who were concerned about its cost and the difficulty of carrying out the changes.</p>
+        <p>The American military is one of the largest users of chemicals that scientists say are destroying the upper-atmosphere ozone layer that protects the earth from harmful ultraviolet radiation from the sun.</p>
+        <p>Last summer, a joint study by the military and Congressional investigators put the cost of changing more than 9,600 military design specifications and eliminating the use of ozone-depleting chemicals at $1.3 billion.</p>
+        <p>Development of the new policy began on Feb. 15 at the request of Deputy Defense Secretary Donald J. Atwood. It details how the military must meet President Bush's deadline for eliminating virtually all uses of ozone-destroying chlorine and bromine-based compounds by Dec. 31, 1995.</p>
+        <p>The chemicals, which include chlorofluorocarbons, halons, methyl chloroform and carbon tetrachloride, are used to clean electronic equipment, for cooling and for suppressing fires.</p>
+        <p>Rising levels of ultraviolet radiation have been documented in the South Pole, Australia and New Zealand, and there is evidence that chemical conditions exist for the ozone shield to begin weakening over parts of the United States and Europe. Scientists say the conditions could disrupt food production and increase skin cancer deaths.</p>
+        <p>The new policy, developed by Col. Ken Cornelius, director of policy development in the Office of the Deputy Assistant Secretary of Defense for Environment, has already been approved by the Pentagon's comptroller.</p>
+        <p>It directs the services to immediately insure that all new and existing contracts eliminate the use of ozone depleting substances where substititutes and alternative processes are available, according to one version read to a reporter by a military electronics contractor and confirmed by the Pentagon environment office.</p>
+        <p>In cases where new equipment still contains ozone-depleting chemicals, the project's senior acquisition officer would have to approve the purchase.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

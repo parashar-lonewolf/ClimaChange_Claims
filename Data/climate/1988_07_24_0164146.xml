@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Oil: Putting the Pieces Together</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="164146"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">PRICES</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880724T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE0D91F38F937A15754C0A96E948260" item-length="598" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Oil: Putting the Pieces Together</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: WILL the price of oil rise in the next few months or fall? Probably both, sharply, and several times, if the recent past is any guide.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: WILL the price of oil rise in the next few months or fall? Probably both, sharply, and several times, if the recent past is any guide.</p>
+        <p>WILL the price of oil rise in the next few months or fall? Probably both, sharply, and several times, if the recent past is any guide.</p>
+        <p>Oil markets were shaken last week by the apparent readiness of Iran and Iraq to cease hostilities. That could sharply decrease the divisiveness within the Organization of Petroleum Exporting Countries, which would permit production cuts and thus, price rises.</p>
+        <p>As measured by prices in the futures markets, that school of thought is now dominant. But some traders and other experts think that the result will be the opposite - that an end to hostilities would unleash a flood of oil on world markets as the military threat to oil tankers is removed and as Iran and Iraq raise production to finance postwar reconstruction. Any increase in supplies would depress prices.</p>
+        <p>Whether prices rise or fall, the energy situation poses challenges for the industry and for whoever moves into the White House in January.</p>
+        <p>The United States has a big oil deficit; it consumes lots of oil but produces only a little more than half of it, and production is likely to shrink further in years to come, according to the Department of Energy and the oil industry. A decline in domestic drilling, experts say, leads to higher spending for imports.</p>
+        <p>OPEC, meanwhile, has lost - at least temporarily - the clout it wielded in the 1970's, when it engineered short-term interruptions that sharply increased oil prices.</p>
+        <p>Currently, the Persian Gulf countries supply 18.2 percent of imports to the United States. Another 40 percent, however, comes from closer, friendlier sources: Mexico, Venezuela and Canada. And Canada's reserves now appear to be even more accessible to the United States because of the Free Trade Agreement that is before legislators in Washington and Ottawa.</p>
+        <p>But if demand increases, spare capacity would have to be put into service, and most of that is in the Persian Gulf, giving that region the ''swing vote'' in the market place. Because the Middle East still has most of the world's oil, it will be the key factor in the energy markets for as long as oil dominates the United States' energy needs.</p>
+        <p>In the long term, the level of imports depends largely on price. If world oil prices stay low, the decline of production in this country will accelerate, according to experts. Drilling companies believe that in the current soft market most locations where oil can be profitably drilled lie abroad.</p>
+        <p>A corollary is that lower prices make American wells uncompetitive. They also encourage consumption. That combination can produce higher imports - and, with them, a higher import bill.</p>
+        <p>But if prices get too high, demand will fall. In that case, America can do more with less oil, and more with other forms of energy, like natural gas, coal and nuclear power. For example, cars could run on natural gas, on liquids made from coal or on electricity made from coal or uranium. There is also substitution: fiberglass in attics and caulk around windows saved gallons of oil or therms of gas. Indeed, substitutes for oil may become more prevalent, regardless of price, if the greenhouse effect induces conservation on environmental grounds.</p>
+        <p>Substitution is reassuring for the economy as a whole, but not for the oil sector, which is now in the midst of a contraction.</p>
+        <p>And that poses new questions for policy makers. As Gov. John H. Sununu of New Hampshire told energy company executives in Washington recently, ''This country does not know today whether it wants high oil prices and a strong domestic industry, or low prices and no domestic industry.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

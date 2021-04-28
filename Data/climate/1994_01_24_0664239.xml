@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics of The Times; Ice Follies</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="664239"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E5DC1130F937A15752C0A962958260" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics of The Times; Ice Follies</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>We're havin' a heat wave, a tropical heat wave. The temperature has finally climbed out of the single digits.  The news programs have scrubbed their spots on the return of the Ice Age.</p>
+        <p>For this we should heave a warm sigh. Instead, we find ourselves with a head full of Andy Rooneyesque whiny questions. To wit:</p>
+      </block>
+      <block class="full_text">
+        <p>We're havin' a heat wave, a tropical heat wave. The temperature has finally climbed out of the single digits.  The news programs have scrubbed their spots on the return of the Ice Age.</p>
+        <p>For this we should heave a warm sigh. Instead, we find ourselves with a head full of Andy Rooneyesque whiny questions. To wit:</p>
+        <p>1. How does The Old Farmer's Almanac account for the fact that it predicted a "warmer than normal" January in New York? Software glitch? Is a special prosecutor of fearsome probity -- with subpoena powers -- in order here?</p>
+        <p>2. Why do local television reporters insist on delivering live, outdoor reports from Fort Lee, N.J., in subzero temperatures? Do they get paid extra for shivering on-camera?</p>
+        <p>3. Just what did happen to global warming? And where is the greenhouse effect when you need it?</p>
+        <p>4. Who was the guy with the hockey stick the other night -- when the temperature was exactly zero -- skating on an ice-slicked handball court at 35th Street and Second Avenue, shooting hockey pucks against the backboard?</p>
+        <p>5. If he had been alive in New York City last week, could Robert Frost have written: "Some say the world will end in fire/ Some say the world will end in ice"? Who could have voted for fire?</p>
+        <p>6. Is it possible that the people who deliver pizza and Chinese food in snow, ice and other aggressive forms of weather could be persuaded to take over the U.S. Postal Service?</p>
+        <p>7. From a purely psychological standpoint, does knowing that the wind-chill factor is minus 26, or minus 37, make any difference at all?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

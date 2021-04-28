@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spacecraft Spots A Martian Storm, Plus Dust Devils</title>
+    <meta content="17MARS$04" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1131192"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars (Planet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars Global Surveyor</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E2D81139F934A2575BC0A96F958260" item-length="395" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spacecraft Spots A Martian Storm, Plus Dust Devils</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Recent series of photographs from Mars Global Surveyor spacecraft show huge storm system near north pole at end of Martian summer; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The canals that the 19th-century astronomer Percival Lowell believed he saw on Mars were thought to be evidence of an active civilization. Their existence was long ago disproved, of course, but Mars has been shown to be an active place nonetheless. It's just nature, not little green men, that is raising a ruckus.</p>
+        <p>A recent series of photographs, pictured here from the Mars Global Surveyor spacecraft, shows a huge storm system near the north pole at the end of the Martian summer. The reddish cloud swirling down from the pole consists mostly of dust; it is shown evolving over six hours on June 30. It is hundreds of miles long.</p>
+      </block>
+      <block class="full_text">
+        <p>The canals that the 19th-century astronomer Percival Lowell believed he saw on Mars were thought to be evidence of an active civilization. Their existence was long ago disproved, of course, but Mars has been shown to be an active place nonetheless. It's just nature, not little green men, that is raising a ruckus.</p>
+        <p>A recent series of photographs, pictured here from the Mars Global Surveyor spacecraft, shows a huge storm system near the north pole at the end of the Martian summer. The reddish cloud swirling down from the pole consists mostly of dust; it is shown evolving over six hours on June 30. It is hundreds of miles long.</p>
+        <p>The spacecraft, which finally reached its mapping orbit in April, a year behind schedule, has spotted shifting sand dunes and dust devils, vertical plumes of dust that arise from spinning winds and occur over several hours in the late afternoons, when the air is hottest. The dust devils are similar to their counterparts in desert and farm areas on Earth, only the Martian ones are monstrous: up to five miles high.</p>
+        <p>The mission has also given scientists some understanding of how the polar caps retreat. The caps consist mostly of frozen carbon dioxide, which goes from solid to gas directly (a process known as sublimation) as winter ends in each hemisphere.</p>
+        <p>Photographs of dunes in the polar regions show that thawing occurs simultaneously in spots, which steadily enlarge until all the frost is gone and only the permanent ice cap is left.</p>
+        <p>Global Surveyor will remain in its circular polar orbit, 250 miles high, photographing the surface over a Martian year, 687 Earth days.</p>
+        <p>Already, the trove of images it has sent back has been remarkable, said Michael Ravine, advanced projects director for Malin Space Science Systems in San Diego, the builder and operator of the craft's camera. ''It's providing the kind of data we never really had access to before,'' he said.</p>
+        <p>HENRY FOUNTAIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

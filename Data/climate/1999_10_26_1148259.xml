@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="26OBSE$01" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1148259"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars (Planet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars Global Surveyor</classifier>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <classifier class="indexing_service" type="descriptor">Sponges</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="indexing_service" type="descriptor">Forecasts</classifier>
+        <org class="indexing_service">National Oceanic and Atmospheric Administration (Noaa)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE4DD1738F935A15753C1A96F958260" item-length="701" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Researchers studying images from current Mars Global Surveyor mission say new photographs show no unambiguous signs of ancient seas; team of Spanish scientists studies spike production of one species of sponge; hurricane researchers from National Oceanic and Atmospheric Adm are using altimeters to help determine how intense a hurricane will be (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Martian Theory Dries Up</p>
+        <p>One of the more intriguing ideas to come out of the Viking missions to Mars in the late 1970's was the suggestion that oceans of water might once have existed on the planet. Some scientists thought they saw evidence of old coastlines in photographs taken by the spacecraft.</p>
+      </block>
+      <block class="full_text">
+        <p>A Martian Theory Dries Up</p>
+        <p>One of the more intriguing ideas to come out of the Viking missions to Mars in the late 1970's was the suggestion that oceans of water might once have existed on the planet. Some scientists thought they saw evidence of old coastlines in photographs taken by the spacecraft.</p>
+        <p>Now researchers studying images from the current Mars Global Surveyor mission have challenged the ocean hypothesis. They say that the new photographs, taken in 1998 and with a resolution 5 to 10 times as great as those of the Viking missions, show no unambiguous signs of ancient seas.</p>
+        <p>The researchers, from Malin Space Science Systems, the company that built and operates the camera aboard the Global Surveyor orbiter, trained the instrument on four locations that scientists had earlier suspected might be coastal sites.</p>
+        <p>One spot was near Olympus Mons, the largest Martian volcano, where a smooth plain meets more rugged uplands. Viking photographs had shown what appeared to be a cliff of the kind that would be formed by the surf's crashing against a shoreline, the suggestion being that the plain was once covered by an ocean.</p>
+        <p>But the Malin scientists, whose analysis was published in Geophysical Research Letters, say the new photographs show that the border between the two land forms is clearly not a wave-cut cliff, or a cliff of any kind. And there is not a beach or dune in sight either.</p>
+        <p>Deeply Seeking Silicon</p>
+        <p>Siliceous sponges used to be contenders. With their rocklike skeletons made of microscopic spikes of silica, the sponges built large reefs in shallow seas millions of years ago.</p>
+        <p>But over the eons, the fortunes of these marine creatures have sunk, literally. Sponges with elaborate spikes now exist in deeper waters only, and those in shallow water are a mere shell of their former selves, with simpler spikes and a much less formidable skeleton.</p>
+        <p>A team of Spanish scientists has figured out why this has happened. Plankton have gobbled up most of the silicon in the sea, putting shallow-water sponges on a low-silicon diet.</p>
+        <p>The researchers, writing in the current issue of the journal Nature, show that the production of spikes by one species of sponge is greatly affected by the concentration of a silicon-containing acid in the water. At low concentrations, the sponge produces one kind of simple spike. At high concentrations, it produces four or five kinds, and they have tiny branches and nodes that create a more massive skeleton.</p>
+        <p>Concentrations of the acid are low in shallow ocean waters, where plankton use it for their own structural needs. So shallow-water sponge species produce only the simpler spikes, and only species that have shifted to lower depths, out of the range of plankton where silicon concentrations are higher, still produce the elaborate skeletons of long ago.</p>
+        <p>Sizing Up a Hurricane</p>
+        <p>Hurricane researchers have become adept at forecasting the path a storm will take. Less well developed is the ability to predict how intense a hurricane will be.</p>
+        <p>For help, researchers from the National Oceanic and Atmospheric Administration and the University of Colorado are turning to what seems an unlikely instrument: the altimeter. They are using microwave altimeters on two satellites to help determine the location and size of eddies and currents of warmer water that can strengthen a storm.</p>
+        <p>The instruments help researchers determine the height of the sea surface. Since higher sea levels are associated with warm-water conditions, the researchers can use the data to extrapolate sea surface temperatures and to determine the depth of warm water zones. Combined with more direct readings of surface temperatures, the information gives scientists a good idea of the heat potential of specific parts of the ocean, and of how much energy the warm water will impart to a storm as it sweeps over it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

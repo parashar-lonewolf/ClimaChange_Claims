@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Budget With a Surplus: Late, but No Shutdown</title>
+    <meta content="MB015912" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1055088"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="BUSINESS: DIARY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EED71E3AF93BA25753C1A96E958260" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Budget With a Surplus: Late, but No Shutdown</hl1>
+      </hedline>
+      <abstract>
+        <p>Pres Bill Clinton and Congress avert government shutdown by reaching agreement on $1.7 trillion fiscal 1999 budget, first since late 1960's that excludes deficit spending (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Clinton and Congress reached agreement, only 16 days late and without a Government shutdown, on a $1.7 trillion budget for fiscal 1999 that is the first since the late 1960's not to include deficit spending. The deal included an industry-backed increase in visa quotas for foreign workers with technology skills, a sharp increase in military spending, aid for farmers and new money for the International Monetary Fund, but no general tax cuts. Projects to combat global warming and farm runoff won financing; so did plans to step up logging on public lands in the West and Alaska. A bankruptcy overhaul passed by Congress but disliked by the White House was omitted from the deal.</p>
+      </block>
+      <block class="full_text">
+        <p>President Clinton and Congress reached agreement, only 16 days late and without a Government shutdown, on a $1.7 trillion budget for fiscal 1999 that is the first since the late 1960's not to include deficit spending. The deal included an industry-backed increase in visa quotas for foreign workers with technology skills, a sharp increase in military spending, aid for farmers and new money for the International Monetary Fund, but no general tax cuts. Projects to combat global warming and farm runoff won financing; so did plans to step up logging on public lands in the West and Alaska. A bankruptcy overhaul passed by Congress but disliked by the White House was omitted from the deal.</p>
+        <p>BUSINESS: DIARY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

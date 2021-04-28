@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="15obse" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/11/15/science/15obox.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1717815"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Parasites</classifier>
+        <classifier class="online_producer" type="descriptor">Parasites</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parasites</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EFDB103EF936A25752C1A9639C8B63" item-length="1091" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">A Troubled Outlook for Parasites</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Better Biodiesel</p>
+        <p>Biodiesel fuel -- soybean or other oil that has been converted for use in diesel engines -- is slowly catching on in the United States. The National Biodiesel Board, an industry group, estimates that some 75 million gallons will be produced this year, triple the production in 2004.</p>
+        <p>The fuel is most commonly mixed with petroleum-based diesel to make a cleaner-burning blend. Musicians like Bonnie Raitt and Neil Young use it in their tour buses, and the National Park Service and other organizations have fleets of vehicles that run on it. (A few people also have converted their cars to run on straight vegetable oil.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Parasites not helped by global warming, better biodiesel and sausage's secrets uncovered.</p>
+      </block>
+      <block class="full_text">
+        <p>Better Biodiesel</p>
+        <p>Biodiesel fuel -- soybean or other oil that has been converted for use in diesel engines -- is slowly catching on in the United States. The National Biodiesel Board, an industry group, estimates that some 75 million gallons will be produced this year, triple the production in 2004.</p>
+        <p>The fuel is most commonly mixed with petroleum-based diesel to make a cleaner-burning blend. Musicians like Bonnie Raitt and Neil Young use it in their tour buses, and the National Park Service and other organizations have fleets of vehicles that run on it. (A few people also have converted their cars to run on straight vegetable oil.)</p>
+        <p>Although biodiesel is more environmentally friendly than fossil fuels, its production -- a process called transesterification -- has some drawbacks. Either a strong base or acid is used as a catalyst, and if that acid or base is liquid, it must be separated from the biodiesel at the end, which can be a wasteful process. So chemical engineers have searched for solid, insoluble catalysts that will be far simpler to separate.</p>
+        <p>Scientists from the Tokyo Institute of Technology and other Japanese institutions have come up with one that is easy and relatively inexpensive to make. It is essentially a solid acid, made by charring sugars, starches or other organic material and treating them with sulfuric acid.</p>
+        <p>The result, the researchers report in the journal Nature, is a matrix of ringed carbon molecules dotted with active sites where the transesterification reactions take place. The material, a black powder that can be molded into films or pellets, is not as efficient a catalyst as liquid sulfuric acid, but it is more effective than other solid biodiesel catalysts.</p>
+        <p>The Worm's Nose</p>
+        <p>Food that has gone bad usually smells bad. It's nature's way of telling you something's wrong, and humans learn early on to avoid bad-smelling food if they want to avoid getting sick.</p>
+        <p>What works for people works for the nematode worm C. elegans as well, apparently. Researchers at Rockefeller University have determined that the worm avoids odors associated with pathogenic bacteria that can infect its intestinal tract.</p>
+        <p>The researchers, Yun Zhang, Hang Lu and Cornelia I. Bargmann, found that after being exposed to a pathogenic bacteria, the worms altered their olfactory preferences. Not only did they rapidly learn to avoid bad bacteria, but they became increasingly attracted to familiar harmless bacteria. The findings were reported in Nature.</p>
+        <p>C. elegans is a laboratory favorite because its nervous system is so simple, containing only 302 neurons. The researchers found that certain neurons increase the production of serotonin after the worm is exposed to the pathogenic bacteria. The serotonin, a neurotransmitter, is picked up by receptor, signaling the brain that bad bacteria are around.</p>
+        <p>Sausage Secrets</p>
+        <p>Dry sausage doesn't smell bad, but it does smell a little different. That's because it is fermented and cured rather than cooked. Often a beneficial bacteria, a kind that produces lactic acid, is used as a fermenting agent. These bacteria add to the flavor, but they also have preservative properties: the acid and other compounds help kill off other bacteria that cause the meat to spoil.</p>
+        <p>Food scientists are interested in greater use of beneficial bacteria in processing of meat and fish, as opposed to chemical preservation or relatively expensive methods like chilling or vacuum packing. They just got some help, as the genome of one common lactic acid bacteria, Lactobacillus sakei, has been sequenced by French scientists.</p>
+        <p>The sequence, reported in Nature Biotechnology, was obtained using bacteria originally isolated from a French sausage. The genome, which includes 1.9 million base pairs, encodes more than 1,800 proteins.</p>
+        <p>Some of these apparently enable it to be very robust, withstanding high salt concentrations or low-oxygen conditions. Since these are the kinds of conditions that occur during much food processing, understanding how the organism works on a genetic level should help in adapting it to use in food preservation.</p>
+        <p>A Troubled Outlook for Parasites</p>
+        <p>You'd think that if anything could capitalize on global warming, a parasite would be it. After all, parasites are nature's ultimate opportunists.</p>
+        <p>But no, at least not the ones that affect caterpillars -- mainly tiny wasps that lay eggs inside them, leading to their deaths. According to a study by Lee A. Dyer of Tulane University in New Orleans and colleagues, global warming -- specifically, the kinds of extreme weather like droughts and storms that are spawned by higher average temperatures -- will lead to decreased parasitism in caterpillars.</p>
+        <p>That may be good news for the caterpillars, but in other ways it is bad news, Dr. Dyer said. Without parasites, populations of some caterpillars -- those that like to eat crops, say -- could soar.</p>
+        <p>''We should see more of these damaging outbreaks of herbivores,'' Dr. Dyer said.</p>
+        <p>The researchers studied data on parasitism at 15 caterpillar-rearing sites from Canada to Brazil. The sites have differing levels of climatic variability. Some swing widely between dry and wet periods, while others are more consistent from year to year.</p>
+        <p>Climatologists say global warming will increase weather variability, with more and longer droughts and more severe storms. ''So we used geographic variation as a proxy,'' Dr. Dyer said. ''It's a glance into the future.''</p>
+        <p>The researchers found that as variability increased among the sites, parasitism declined. The findings were published in The Proceedings of the National Academy of Sciences.</p>
+        <p>The reasons for the decline vary, Dr. Dyer said. ''If you increase the variance, it means you are more likely to get a drought year,'' he said, and the wasps may die of dehydration. In wet periods, wasps may not be able to fly and find caterpillars.</p>
+        <p>Either way, a major control on caterpillars will be lost. Parasites, he said, ''are the most important source of mortality for caterpillars.''</p>
+        <p>There's another way that parasites may decline, one that Dr. Dyer may soon see firsthand, as New Orleans recently experienced its own extreme weather. ''It could be that certain caterpillars won't come out this year,'' he said. ''So the parasites that infect them could become extinct. And then the next year the caterpillars could be out of control.''</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="248516"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5D8153FF93AA35756C0A96F948260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  New Look at Agent Orange  A Federal judge ordered the Veterans Administration to reconsider its policy of denying most Vietnam veterans' claims of harm from Agent Orange. Page A24.  Censorship Confirmed  The White House said it had censored a Government scientist's testimony on global warming, as Britain called for international action on the problem.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  New Look at Agent Orange  A Federal judge ordered the Veterans Administration to reconsider its policy of denying most Vietnam veterans' claims of harm from Agent Orange. Page A24.  Censorship Confirmed  The White House said it had censored a Government scientist's testimony on global warming, as Britain called for international action on the problem.</p>
+        <p>New Look at Agent Orange  A Federal judge ordered the Veterans Administration to reconsider its policy of denying most Vietnam veterans' claims of harm from Agent Orange. Page A24.  Censorship Confirmed  The White House said it had censored a Government scientist's testimony on global warming, as Britain called for international action on the problem. Science Times, page C1.  Japan and Lost U.S. H-Bomb  A hydrogen bomb, lost off an aircraft carrier in 1965, is on the ocean floor 80 miles from a Japanese island, and Japanese are angry. Page A3.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Life's Ups and Downs: Charting Extinctions</title>
+    <meta content="02TIPT0AA" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Natural World" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1021511"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEED9173BF931A35755C0A96E958260" item-length="2186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Life's Ups and Downs: Charting Extinctions</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOM W. BROWNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Extinction is a steady process, exacting a continuous toll of species even in the best of times. Biologists believe this is a device that continually opens niches for new species, thereby fueling the engine of natural selection and the growth of biological diversity, which has grown, if unsteadily, ever since the first explosion of large animal life in the Cambrian era 540 million years ago.</p>
+        <p>The line that begins below traces the changing levels of diversity, as measured by fossils of marine organisms classified by families. The fossil record shows five major devastating pulses of extinction, not counting the present mass extinction caused by human activity (which some scientists believe will be the most severe of all). During these extinctions entire families and even orders of organisms were exterminated, radically redirecting the course of evolution. The human race evolved within the order of mammals, for example, but if the dinosaurs had not been wiped out, humanoid creatures might have evolved from dinosaurs instead. Dr. Dale Russell, a paleontologist at Ottawa's National Museum of Natural Sciences, has speculated that one dinosaur in particular, Stenonychosaurus, which had a large brain, walked on two legs, had thumbs and possessed binocular vision, might have become an evolutionary ancester of human-like creatures, but for the extinction of dinosaurs.</p>
+      </block>
+      <block class="full_text">
+        <p>Extinction is a steady process, exacting a continuous toll of species even in the best of times. Biologists believe this is a device that continually opens niches for new species, thereby fueling the engine of natural selection and the growth of biological diversity, which has grown, if unsteadily, ever since the first explosion of large animal life in the Cambrian era 540 million years ago.</p>
+        <p>The line that begins below traces the changing levels of diversity, as measured by fossils of marine organisms classified by families. The fossil record shows five major devastating pulses of extinction, not counting the present mass extinction caused by human activity (which some scientists believe will be the most severe of all). During these extinctions entire families and even orders of organisms were exterminated, radically redirecting the course of evolution. The human race evolved within the order of mammals, for example, but if the dinosaurs had not been wiped out, humanoid creatures might have evolved from dinosaurs instead. Dr. Dale Russell, a paleontologist at Ottawa's National Museum of Natural Sciences, has speculated that one dinosaur in particular, Stenonychosaurus, which had a large brain, walked on two legs, had thumbs and possessed binocular vision, might have become an evolutionary ancester of human-like creatures, but for the extinction of dinosaurs.</p>
+        <p>Explanations for these mass dyings are almost as numerous (and conflicting) as the scientists who speculate on them.</p>
+        <p>The most famous of the mass extinctions is the most recent: the one at the end of the Cretaceous period, when the dinosaurs died out (unless, as some scientists believe, some dinosaurs evolved into birds). The Cretaceous extinction, more than any other, has prompted bitter controversy.</p>
+        <p>Many scientists assert that it was caused by the atmospheric effects of an asteroid impact -- possibly the one believed to have created a huge underwater crater on the Yucatan coast of Mexico. But other proposed explanations for the dinosaurs' demise include loss of habitat, climate change, the spread of diseases, a massive volcanic event in India, periodic fallout of cosmic dust, and many other possibilities.</p>
+        <p>The Permian extinction of 250 million years ago is especially puzzling, partly because it was by far the worst in earth's history; estimates suggest that up to 95 percent of all the species alive before the extinction event (including all the trilobites and many other flourishing animal groups) were killed off. A change in the composition of the earth's atmosphere, volcanoes in Siberia and other causes have been suggested, but no one knows for sure.</p>
+        <p>MALCOM W. BROWNE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

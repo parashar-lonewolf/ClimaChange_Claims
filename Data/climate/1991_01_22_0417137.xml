@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seeding With Iron</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="417137"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">STEEL AND IRON</classifier>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <person class="indexing_service">MARTIN, JOHN C (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Steel and Iron</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DA1430F931A15752C0A967958260" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seeding With Iron</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A proposal to fight global warming by seeding Antarctic waters with iron would not do much good, a new study suggests.</p>
+        <p>Dr. John Martin of the Moss Landing Marine Laboratories in California has proposed that iron could stimulate the growth of algae that would consume excess carbon dioxide.</p>
+      </block>
+      <block class="full_text">
+        <p>A proposal to fight global warming by seeding Antarctic waters with iron would not do much good, a new study suggests.</p>
+        <p>Dr. John Martin of the Moss Landing Marine Laboratories in California has proposed that iron could stimulate the growth of algae that would consume excess carbon dioxide.</p>
+        <p>Many scientists are concerned about the tremendous increase in carbon dioxide in the atmosphere, largely the result of burning fossil fuels and deforestation, because the gas traps heat and could raise temperatures on Earth.</p>
+        <p>But a new study in the current issue of the journal Nature indicates that even if iron fertilization worked perfectly for 100 years, carbon dioxide in the atmosphere would decline by only 10 percent, give or take 5 percent.</p>
+        <p>"Biologically it is an intriguing idea," said Dr. Wallace Broecker, a geochemist at Columbia University's Lamont-Doherty Geological Observatory who did the study with Dr. Tsung-Hung Peng of Oak Ridge National Laboratory. "But when you look at ocean dynamics, you see that the water has a limited capacity to store carbon dioxide."</p>
+        <p>Plants in the ocean take up carbon dioxide from surface water, which can absorb more gas from the atmosphere. As deep water rises to the surface, additional carbon dioxide can be stored. Computer simulations indicated the water would reach a saturation point too quickly to do much good, Dr. Broecker said.</p>
+        <p>Dr. Jorge Sarmiento, a professor in the atmospheric and oceanic sciences program at Princeton, said his calculations suggested that carbon dioxide reductions might be somewhat larger, but warned that all simulations were based on assumptions about ocean behavior that may not be correct.</p>
+        <p>There is conflicting evidence as to whether iron, which would need to be added continuously, would indeed stimulate plant growth and whether the light supply would be sufficient, Dr. Sarmiento said. If iron seeding did work, infiltrating the ocean with huge amounts of carbon dioxide could have serious consequences, he added.</p>
+        <p>"We can't dismiss the whole idea on the basis of a model," Dr. Sarmiento said. "But we cannot think of it as a quick fix to the carbon dioxide problem, either."  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="21laugh" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820479"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7D71E30F932A15752C0A9619C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>David Letterman</p>
+        <p>Bush admitted to making mistakes in Iraq and says that he has learned from these mistakes and will do better in Iran.</p>
+        <p>Well, we're getting ready for the State of the Union address. President Bush is going to be talking about global warming in his State of the Union address. He's unveiling his new plan. I believe it's called, ''No Ice Cap Left Behind.''</p>
+        <p>Jay Leno</p>
+        <p>World famous soccer player David Beckham is coming to the United States. Beckham is expected to have a huge impact. They say he could change the way Americans ignore soccer.</p>
+      </block>
+      <block class="full_text">
+        <p>David Letterman</p>
+        <p>Bush admitted to making mistakes in Iraq and says that he has learned from these mistakes and will do better in Iran.</p>
+        <p>Well, we're getting ready for the State of the Union address. President Bush is going to be talking about global warming in his State of the Union address. He's unveiling his new plan. I believe it's called, ''No Ice Cap Left Behind.''</p>
+        <p>Jay Leno</p>
+        <p>World famous soccer player David Beckham is coming to the United States. Beckham is expected to have a huge impact. They say he could change the way Americans ignore soccer.</p>
+        <p>Spanish newspapers are reporting that Fidel Castro is in very grave condition, very ill health. In fact, his priest told him, ''You will soon be in a better place.'' And Castro said, ''I'm going to Miami?''</p>
+        <p>Saddam Hussein's lawyer is speaking out again. He says he has never seen judges so cruel, cold and unsympathetic. And he was talking about ''American Idol.''</p>
+        <p>Senator Hillary Clinton is back from her fact-finding tour of Iraq. She cut the trip short to address a growing threat here at home Barack Obama.</p>
+        <p>Barack Obama said today that politics has become too gummed up by money and influence. And then he had to leave to attend a fund-raiser.</p>
+        <p>Conan O'Brien</p>
+        <p>Yesterday, in a speech, the prime minister of Iraq said that he wants U.S. troops to withdraw from Iraq -- but he wants them to leave their guns. Then he added, ''Oh, and we could also use some light bulbs and $400 billion.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

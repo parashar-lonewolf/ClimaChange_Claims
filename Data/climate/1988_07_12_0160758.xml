@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Solar Energy Will Prove Itself Cheaper</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="160758"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">ENERGY AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">SOLAR ENERGY</classifier>
+        <person class="indexing_service">CAMMER, MOSES</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880712T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE2D61630F931A25754C0A96E948260" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Solar Energy Will Prove Itself Cheaper</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Your editorial on the greenhouse effect (June 23) might well have urged the increased use of solar energy. Every spacecraft, starting with the Soviet Sputnik, converts sunshine into electricity, without which it would quickly become unable to receive or send messages to earth.</p>
+        <p>Solar energy is not widely used because the price of coal, oil and nuclear power is less than that of solar.</p>
+        <p>But the price of fossil and nuclear fuel is only a small fraction of their total cost. Society pays the other cost for damaged health and property, oil spills in the oceans, polluted or poisoned rivers, lakes and beaches, acid rain, killed or poisoned fish and oyster beds, and human misery. We do not know what to do with nuclear power's waste products and have no way to insure against future Three Mile Islands or Chernobyls. Solar energy is nonpolluting.</p>
+        <p>The Government subsidizes agriculture and built a Tennessee Valley Authority to bring electricity to rural areas. We have lent billions to rescue giant corporations, and we subsidize housing, education, health and welfare. All are in the national interest.</p>
+        <p>Solar energy is a major industry in Japan and in Israel.</p>
+        <p>Massive Government subsidies for solar house heating and cooling and for retrofitting of buildings will at once effect a great reduction in air pollution, acid rain and carbon dioxide, and will be cheaper for all in the long run. MOSES CAMMER  Larchmont, N.Y., June 27, 1988</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

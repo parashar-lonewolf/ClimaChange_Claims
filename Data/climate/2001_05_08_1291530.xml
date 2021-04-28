@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Toxic Waste Of Nuclear Power</title>
+    <meta content="L08NUK$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/05/08/opinion/L08NUKE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1291530"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Nuclear Wastes</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Rabin, Kyle</person>
+        <person class="indexing_service">Rhodes, Richard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nuclear Wastes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Albany</location>
+        <org class="online_producer">Institute for Energy and Environmental Research</org>
+        <org class="online_producer">Environmental Advocates</org>
+        <person class="online_producer">Rhodes, Richard</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1DA163BF93BA35756C0A9679C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Toxic Waste Of Nuclear Power</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Kyle Rabin, director of Nuclear Energy Policy Project Environmental Advocates, holds Richard Rhodes (May 7 Op-Ed) appears to 'buy into a myth' about nuclear power: that it is clean energy and that it can help fight global warming and air pollution</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Richard Rhodes (''Nuclear Power's New Day,'' Op-Ed, May 7) appears to buy into a myth about nuclear power: that it is clean energy and that it can help fight global warming and air pollution.</p>
+        <p>According to the Institute for Energy and Environmental Research, for nuclear power to make a substantial reduction in carbon dioxide emissions, commercial reactors would have to not only supply much of the world's electricity growth but also replace many coal-fired plants as they are retired. This would require the construction of approximately 2,000 nuclear power plants around the world over the next several decades.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Richard Rhodes (''Nuclear Power's New Day,'' Op-Ed, May 7) appears to buy into a myth about nuclear power: that it is clean energy and that it can help fight global warming and air pollution.</p>
+        <p>According to the Institute for Energy and Environmental Research, for nuclear power to make a substantial reduction in carbon dioxide emissions, commercial reactors would have to not only supply much of the world's electricity growth but also replace many coal-fired plants as they are retired. This would require the construction of approximately 2,000 nuclear power plants around the world over the next several decades.</p>
+        <p>The main global warming gas, carbon dioxide, is emitted at each step of the nuclear fuel chain, from uranium mining, milling, enrichment, fuel fabrication, construction of the reactor, transportation and storage of radioactive waste, and decommissioning of old reactors. Each of these stages is also a source of radioactive pollution and long-lasting, highly toxic waste.</p>
+        <p>KYLE RABIN  Dir., Nuclear Energy Policy Project  Environmental Advocates  Albany, May 7, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

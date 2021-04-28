@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Feeling of Helplessness, Choreographed</title>
+    <meta content="30cata" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/06/30/arts/dance/30cata.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1772691"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Dance Theater Workshop</org>
+        <person class="indexing_service">Dunning, Jennifer</person>
+        <person class="indexing_service">Johnson, Emily</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Dance Theater Workshop</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DA1430F933A05755C0A9609C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Feeling of Helplessness, Choreographed</hl1>
+        <hl2 class="online_headline">A Feeling of Helplessness, Choreographed</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+      <abstract>
+        <p>Jennifer Dunning reviews Emily Johnson dance production Heat and Life at Dance Theater Workshop; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stay calm, a performer frantically squeaked on Wednesday night as a bemused audience obediently lumbered up the aisles at Dance Theater Workshop and out into the lobby and street for the milling-about that brought ''Heat and Life'' to a merciful close.</p>
+        <p>Global warming, the subject of this much-praised 80-minute piece by Emily Johnson, might be a difficult theme to address theatrically. One way would have been indirection, an approach taken by Patrick Scully in his quietly harrowing ''Too Soon Lost,'' a performance-art piece about the scourge of AIDS that chronicled the tearing down of old buildings, one by one, in a block in downtown Minneapolis. Catalyst, a dance company also from Minneapolis making its New York debut here, tried to simulate the sense of helplessness and fear in an ecological disaster.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The program "Heat and Life" addressed issues such as global warming, AIDS and ecological disaster at Dance Theater Workshop on Wednesday.</p>
+      </block>
+      <block class="full_text">
+        <p>Stay calm, a performer frantically squeaked on Wednesday night as a bemused audience obediently lumbered up the aisles at Dance Theater Workshop and out into the lobby and street for the milling-about that brought ''Heat and Life'' to a merciful close.</p>
+        <p>Global warming, the subject of this much-praised 80-minute piece by Emily Johnson, might be a difficult theme to address theatrically. One way would have been indirection, an approach taken by Patrick Scully in his quietly harrowing ''Too Soon Lost,'' a performance-art piece about the scourge of AIDS that chronicled the tearing down of old buildings, one by one, in a block in downtown Minneapolis. Catalyst, a dance company also from Minneapolis making its New York debut here, tried to simulate the sense of helplessness and fear in an ecological disaster.</p>
+        <p>Seven women with walkie-talkies, flashlights, a video camera, orange plastic jumpsuits, goggles and dust masks tore about the murky, smoky stage across what looked like a dirt floor. (The workshop drew the line at blocks of melting ice.) Early on, in its most endurable moments, ''Heat and Life'' recalled the simple, task-driven pieces of 1970's postmodernism. The piece was otherwise a sprawling mess of purposeful-looking sorties that repeatedly went nowhere, often to cries like: ''Get out of here! Where are we, Jessica?''</p>
+        <p>The piece, set to music by JG Everest with blurry video by Randy Kramer, probably looked and sounded terrific in the planning stages. But any company that instructs its audiences to consult a Web site for program credits to avoid wasting paper -- a request printed on an otherwise blank sheet of paper -- would seem to need a little more actual life experience to tackle themes like this.</p>
+        <p>''Heat and Life'' will be performed through tomorrow at Dance Theater Workshop, 219 West 19th Street, Chelsea; (212) 924-0077.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

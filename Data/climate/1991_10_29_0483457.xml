@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="483457"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ICE</classifier>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D6173AF93AA15753C1A967958260" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIRBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dry Ice</p>
+        <p>Q.</p>
+        <p>How is dry ice made?</p>
+      </block>
+      <block class="full_text">
+        <p>Dry Ice</p>
+        <p>Q.</p>
+        <p>How is dry ice made?</p>
+        <p>A.  At room temperature and pressure, carbon dioxide, or CO2 , is a common gas, about 0.05 percent of the air at sea level by weight. It is also a product of combustion and the respiration of all animals. When chilled below 109 degrees Fahrenheit, it becomes a solid, called dry ice.</p>
+        <p>In the commercial production of dry ice, liquid carbon dioxide is chilled below minus 109 degrees Fahrenheit and compressed, explained Dewey Erzinger, director of public relations and advertising for Liquid Carbonic Industries of Chicago, a division of CBI Industries.</p>
+        <p>The material is sprayed into a square chamber with a nozzle, Mr. Erzinger said. It forms "snow," he said, and powerful hydraulic rams form it into a very dense solid block of dry ice, weighing 240 pounds. It is then cut into four 60-pound blocks for shipment.</p>
+        <p>Dry ice is also formed into nuggets, by forcing the snow through stainless steel dies with round holes that are one-eighth to three-quarters of an inch in diameter. The nuggets break off in random lengths of an inch to two inches, Mr. Erzinger said.</p>
+        <p>Dry ice does not melt, but vaporizes, passing from a solid state to a vapor without going through a liquid state. This is called sublimation. The time this takes depends on temperature, air movement and whether the dry ice is in an enclosed area, said Mr. Erzinger.</p>
+        <p>Dry ice is what is called an expendable refrigerant, which leaves nothing behind when it evaporates, so it is desirable for shipping and storing a variety of foods, Mr. Erzinger said. It is also used for manufacturing processes, like shrink fitting, in which a plastic part is chilled with dry ice so it shrinks, inserted into another part and then allowed to warm up and expand for a tight fit.</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Singapore's Example</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="295188"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BIRTH CONTROL AND FAMILY PLANNING</classifier>
+        <classifier class="indexing_service" type="descriptor">POPULATION</classifier>
+        <classifier class="indexing_service" type="descriptor">RETIREMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">THIRD WORLD AND DEVELOPING COUNTRIES</classifier>
+        <person class="indexing_service">PRINTZ, PEGGY J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Third World and Developing Countries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retirement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4D61730F934A15753C1A96F948260" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Singapore's Example</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Unchecked population growth threatens the earth's environment, as Prof. Richard N. Gardner states in his eloquent plea for United States and United Nations support of family planning programs (Op-Ed, Sept. 22). Unprecedented demands on the world's resources can lead to hunger, violence and catastrophic climate change.</p>
+        <p>But in much of the world, couples yearn for large families to provide financial support and old-age care, and because religion and tradition encourage them to bear sons.</p>
+        <p>Developing countries should emulate Singapore, with a secure national retirement fund and a family planning program that brought population growth dramatically down. Otherwise, our advice will go unheeded, and our contraceptives will stay on the shelves. PEGGY J. PRINTZ  Seattle, Oct. 2, 1989</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

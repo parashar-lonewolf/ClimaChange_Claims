@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When Politics Trumps Science</title>
+    <meta content="LTR233423" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1498559"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Morris, David</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E4D6163BF932A15755C0A9659C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When Politics Trumps Science</hl1>
+      </hedline>
+      <abstract>
+        <p>David Morris letter on June 19 article holds White House editing of Environmental Protection Agency report on global warming is example of how Bush administration first decides on conclusions and then works to provide evidence for them, no matter how flimsy or inaccurate</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Bush administration's politically motivated ''editing'' of the Environmental Protection Agency report on global warming (front page, June 19) ought to worry all Americans, whether liberal or conservative. This is another example of the top-down methodology used by members of the administration, in which they first decide on the conclusions they want and then set down to work on providing evidence for them, no matter how flimsy or inaccurate.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Bush administration's politically motivated ''editing'' of the Environmental Protection Agency report on global warming (front page, June 19) ought to worry all Americans, whether liberal or conservative. This is another example of the top-down methodology used by members of the administration, in which they first decide on the conclusions they want and then set down to work on providing evidence for them, no matter how flimsy or inaccurate.</p>
+        <p>When political forces influence scientific inquiry, the result is a misinformed public and a government that fails in its obligation to uphold the public interest.</p>
+        <p>DAVID MORRIS  Berkeley, Calif., June 19, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

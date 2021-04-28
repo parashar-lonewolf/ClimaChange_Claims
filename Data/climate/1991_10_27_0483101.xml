@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adding on the Costs of Emissions</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="483101"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <person class="indexing_service">MITNICK, STEVEN A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D9123FF934A15753C1A967958260" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adding on the Costs of Emissions</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>"Using Compressed Air to Store Up Electricity" (Sept. 29) presented an optimistic view of the economics of compressed air energy storage, given the Clean Air Act amendments of 1990 and other legislative and regulatory trends. In general, utilities and independent power producers will find that the quantity and cost of additional air pollution emissions associated with energy storage will often be decisive in negating the benefits of new storage projects.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>"Using Compressed Air to Store Up Electricity" (Sept. 29) presented an optimistic view of the economics of compressed air energy storage, given the Clean Air Act amendments of 1990 and other legislative and regulatory trends. In general, utilities and independent power producers will find that the quantity and cost of additional air pollution emissions associated with energy storage will often be decisive in negating the benefits of new storage projects.</p>
+        <p>A new cost component arises from the Clean Air amendments. Their acid rain provisions will create a value (or opportunity cost) for every ton of sulfur dioxide emissions. For every kilowatt-hour of generation that results in some emission of sulfur dioxide, there is a new cost: the cost of emissions.</p>
+        <p>Every electric system is different, with different marginal costs and sulfur dioxide emission rates for on- and off-peak periods. Nevertheless, many systems would use medium- or high-emission coal generation during off-peak periods to "pump up" compressed air units. During on-peak periods, when the compressed air would generate electricity, lower-emission generation would be displaced. The new economics of the Clean Air Act must then be applied.</p>
+        <p>Furthermore, the cost of coal generation -- and energy storage -- may be forced up further. Government may compel utilities to internalize the cost of environmental externalities in all planning and decision-making. There may be a Federal carbon tax, for example, or utilities could be required to internalize the cost of carbon dioxide emissions in their operations. STEVEN A. MITNICK  McLean, Va., Oct. 3</p>
+        <p>The author is chief economist of the Science Applications International Corporation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

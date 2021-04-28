@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Your Ad Here</title>
+    <meta content="16behave" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Small Business" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/16/business/smallbusiness/16behave.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1847759"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="INTERNET MARKETING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Small Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <org class="online_producer">Google Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E3D81331F935A25756C0A9619C8B63" item-length="1602" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Your Ad Here</hl1>
+        <hl2 class="online_headline">Your Ad Goes Here</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE Internet search engine is an indispensable tool of modern life and an advertising gold mine for Google, the favorite first stop on the Web.</p>
+        <p>But searching accounts for only about 5 percent of the time people spend online; the other 95 percent is spent on the wider Web, where a different advertising landscape looms. Instead of the short text ads that appear on a Google results page after a search, visitors often find display ads that are the Internet's equivalents of glossy magazine ads or television commercials. These are typically the province of brand advertisers like Cadillac and Coke.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Internet search engine is an indispensable tool of modern life and an advertising gold mine for Web portals.</p>
+      </block>
+      <block class="full_text">
+        <p>THE Internet search engine is an indispensable tool of modern life and an advertising gold mine for Google, the favorite first stop on the Web.</p>
+        <p>But searching accounts for only about 5 percent of the time people spend online; the other 95 percent is spent on the wider Web, where a different advertising landscape looms. Instead of the short text ads that appear on a Google results page after a search, visitors often find display ads that are the Internet's equivalents of glossy magazine ads or television commercials. These are typically the province of brand advertisers like Cadillac and Coke.</p>
+        <p>Until recently, however, it was impossible to tell whether these ads were in fact reaching their target audiences because no one had applied the computing tools and powerful mathematical analytics that were needed to link online display ads to specific markets. But that is changing, and a number of small companies are standing at the forefront of this transformation.</p>
+        <p>Indeed, many in the industry regard display advertising that can reach specific audiences as the next big online opportunity -- the postsearch wave, the Internet ad market 2.0.</p>
+        <p>''The promise is to be able to measure the reach and effectiveness of brand advertising as never before,'' said Rich LeFurgy, a principal at Archer Advisors, a digital-advertising consultant. ''If that happens, it will really accelerate the migration of brand advertisers online.''</p>
+        <p>The big Web portals like Yahoo, AOL and Microsoft are working on it, trying to tease out which display ads should be shown and to whom. Last month, when Google paid $3.1 billion for DoubleClick, which specializes in software for display ads and has close relationships with Web publishers and advertisers, it declared that display ads would be crucial to its future strategy.</p>
+        <p>But besides the giant portals, there are scores of small, innovative companies -- typically venture-backed start-ups -- that are behind the revolution on Madison Avenue.</p>
+        <p>Industry analysts estimate that there are about 200 such companies. Many call themselves ad networks, while others are referred to as ad exchanges or optimization services. The roster includes Revenue Science, Tacoda, Tribal Fusion, Rapt, AdECN and x+1. In one way or another, they are all trying to bring more effectiveness to the online display ad market.</p>
+        <p>''There is so much money pouring into online advertising that there is a lot of opportunity for newer players,'' said Emily Riley, an analyst at Jupiter Research.</p>
+        <p>These players are actually hybrids, possessing varying degrees of media smarts. They often operate thousands of miles apart, with the ad experts in New York and the quantitative analysts, or quants, as they are called, on the West Coast. Together, they are changing the nature of display advertising on the Web.</p>
+        <p>In the old days of the dot-com era, online ads were simple billboards plastered onto a Web site in the hope that visitors would notice them if not exactly read them. But faster and cheaper computing and sophisticated software algorithms are making advertising more intelligent and measurable. The quants have become a force in the advertising industry, much as they became a force on Wall Street starting in the 1970s and 80s.</p>
+        <p>The process of delivering relevant search-based ads is comparatively easy -- a typed search term sets off related text ads, which appear next to the results, exposing consumers to sundry, generally relevant, advertisers.</p>
+        <p>Brand advertising, however, starts higher up on the marketing food chain; it is meant to foster brand and product awareness as well as purchases. The goal is to deliver select audiences -- of thousands, even millions -- to mass marketers.</p>
+        <p>The new science of online display advertising involves a potent mix of behavioral targeting, social networking algorithms, predictive economics, pricing optimization and other mathematical strategies.</p>
+        <p>These geeky tools are used to address the marketer's quandary, well articulated by John Wanamaker, the 19th-century Philadelphia merchant who said that half the money he spent on advertising was wasted, but he didn't know which half.</p>
+        <p>''We're trying to not only tell which half of ads don't work, but we're not going to buy that half,'' said Toby Gabriner, chief executive of x + 1, an ad optimization service in New York.</p>
+        <p>The ideal, Mr. Gabriner said, is to advertise only to prime customers. ''Imagine an environment where the company that makes dentures and denture products only advertises to people who don't have teeth,'' he said.</p>
+        <p>The most common technique for identifying an audience is called behavioral targeting, which tracks, analyzes and predicts online behavior based on where you (actually your browser software) have gone before on the Internet. The ad targeters cull vast quantities of Web-viewing behavior and other data, like the speed of your Internet connection, the time of day you visited a site, whether it was done from work or home and even associated ZIP codes.</p>
+        <p>These defined audience clusters consist of people who share characteristics based on their behavior on the Internet, not personal information like names, ages, home addresses or telephone numbers. So, for example, a person who recently visited sports and auto Web sites and read global warming articles on news sites would most likely turn out to be an 18- to 45-year-old male. An algorithm would then determine that he would be a good candidate for an ad about Toyota's hybrid-electric Prius. Advertisers are willing to pay much higher rates to reach such screened audiences.</p>
+        <p>''The technology finds the best virtual person for an advertiser and that person's behavioral friends -- in the thousands or millions,'' said Bill Gossman, chief executive of Revenue Science, a behavioral targeting company in New York whose payroll has doubled to 70 employees in the last year.</p>
+        <p>The ads are not personalized electronic marketing, however, a prospect that was popularized in the movie ''Minority Report,'' in which virtual advertisements on the street addressed potential customers by name. But targeting companies do place small software programs, called cookies, on people's personal computers to monitor their movements on the Web, making privacy advocates uneasy.</p>
+        <p>Tacoda is an ad network that specializes in behavioral targeting. Its network has 125 million individuals (PCs with the Tacoda cookie). Its software tags are also on 4,000 Web sites; and it collects nine billion data items a day. For every dollar it collects from an advertiser, Tacoda keeps 40 cents, gives 40 cents, as a broker, to the Web publisher displaying the ad and distributes 20 cents to the sites providing targeted data.</p>
+        <p>Tacoda, which is based in New York, works closely with Web sites at several large media companies, including ABC, NBC, The Wall Street Journal and The New York Times, as well as consumer-product companies and ad agencies. Computing and esoteric mathematics play a role in advertising on the Internet, but so do brand managers, publishing salespeople and ad strategists, said Curt Viebranz, chief executive of Tacoda and a former Time Warner executive. ''There's a lot here that transcends algorithms,'' he said.</p>
+        <p>But automated efficiency is the online advantage. Right Media, for example, wanted to bring the supereffectiveness of the stock market to online display advertising.</p>
+        <p>The company was founded in 2003 by Mike Walrath, a former fitness manager at a New York Sports Club in Stamford, Conn., who went to work for DoubleClick in 1999. He experienced the dot-com boom and bust of the Internet ad business at DoubleClick, which he called his business school. He started Right Media with many contacts, as well as the belief that the online ad business was riddled with inefficiency.</p>
+        <p>The company's first office was a reconverted supply closet at x+1, the optimization service. Right Media provided services for Web advertisers, like AOL, by poring through their data to determine where their ads were most effective. Working on Excel spreadsheets, Mr. Walrath and a few employees performed endless calculations, manual labor by today's standards.</p>
+        <p>''It was me and a couple of quants in a windowless room and a willingness to stay up all night,'' he said.</p>
+        <p>In 2005, Mr. Walrath opened the Right Media Exchange, in which advertisers and publishers buy and sell online ad placements in real time through auctions, with Right Media's optimization technology predicting where the ads will work best. The exchange built gradually but really took off in the last year, handling tens of thousands of auctions in fractions of a second.</p>
+        <p>Its employment has more than doubled in the last year to 220, to include computer scientists and ad veterans. Last year, its customers transacted $150 million in deals on the exchange, and the company collected an average fee of 7.5 percent, or about $11 million for the year. Mr. Walrath predicted that the volume would more than triple this year.</p>
+        <p>Right Media's rapid growth attracted Yahoo, which paid $40 million for a 20 percent stake last fall. Two weeks ago, Yahoo agreed to pay $680 million for the other 80 percent. An industry consultant put Mr. Walrath's share at about $200 million. (Mr. Walrath, 32, would not confirm this.)</p>
+        <p>In an interview recently, he said: ''Are we pleased? Absolutely. But we haven't accomplished what we set out to do, which is to bring more efficiency and rationality to these markets. I'll be here for a long time.''</p>
+        <p>Joe Zawadzki was the person who let Mr. Walrath set up shop in the spare closet. At the time, Mr. Zawadzki was president of Poindexter Systems, which evolved into x+1.</p>
+        <p>In the early days, he said, he almost joined Mr. Walrath at Right Media, but decided against it. Mr. Zawadzki, 32, left x+1 last year.</p>
+        <p>He is planning another online-ad venture. While he is tight-lipped about it, he adds, ''There's still plenty of opportunity out there.''</p>
+        <p>INTERNET MARKETING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Burden of Breathing</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="376021"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="Q&amp;A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900814T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DA1639F937A2575BC0A966958260" item-length="402" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Burden of Breathing</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Q How much carbon dioxide does the average person exhale into the atmosphere each year? Could this make a significant contribution to the burden of greenhouse gases?</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Q How much carbon dioxide does the average person exhale into the atmosphere each year? Could this make a significant contribution to the burden of greenhouse gases?</p>
+        <p>Q How much carbon dioxide does the average person exhale into the atmosphere each year? Could this make a significant contribution to the burden of greenhouse gases?</p>
+        <p>A A healthy adult man who weighs about 154 pounds, or 70 kilograms, exhales 250 milliliters (thousandths of a liter) or a quarter of a liter of carbon dioxide every minute when he is at rest, according to Dr. John G. Mohler, medical director of the pulmonary physiology laboratory at the University of Southern California School of Medicine. As a liter is slightly larger than a quart, that means he puts out more than a quart of carbon dioxide every four minutes.</p>
+        <p>If the person is walking and moving around, what scientists call ''engaged in the activities of daily living,'' the load increases to 350 to 400 milliliters a minute, he said, and a jogger or someone doing other vigorous physical exercise might put out one and a half or two liters a minute.</p>
+        <p>A conservative estimate based on a person who spends eight hours a day sleeping and 16 hours in normal activities, but one who does not add to the atmospheric burden by exercise, would thus come to about 456 liters of carbon dioxide a day, or 166,440 liters every 365 days.</p>
+        <p>Alex Sherman, a geographer with the Population Reference Bureau in Washington, a private, nonprofit educational and research organization, suggested that the carbon dioxide exhaled by the 5.3 billion people on earth might have a considerable effect on the total amount of the greenhouse gases in the atmosphere.</p>
+        <p>However, Joel S. Levine, an atmospheric scientist with the National Aeronautics and Space Administration, said the carbon dioxide produced by the respiration and decay of animal life is almost balanced by the uptake of carbon dioxide by vegetation in the process of photosynthesis.</p>
+        <p>What makes for an imbalance in the carbon dioxide budget is the burning of fossil fuel and biomass like tropical forests, he said.</p>
+        <p>Other, heavier, greenhouse gases, like methane and chlorofluorocarbons, have a bigger greenhouse effect per molecule, though carbon dioxide totals are higher.</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+        <p>Q&amp;A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some White House Effect</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="345789"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <person class="indexing_service">BUSH, GEORGE (PRES)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D61E3CF932A15757C0A966958260" item-length="431" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some White House Effect</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: ''Not beneficial to discuss whether there is or is not warming. . . . In the eyes of the public we will lose this debate.'' So warned the White House in a briefing paper for Cabinet officials attending the international conference on the greenhouse effect that President Bush convened this week.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: ''Not beneficial to discuss whether there is or is not warming. . . . In the eyes of the public we will lose this debate.'' So warned the White House in a briefing paper for Cabinet officials attending the international conference on the greenhouse effect that President Bush convened this week.</p>
+        <p>''Not beneficial to discuss whether there is or is not warming. . . . In the eyes of the public we will lose this debate.'' So warned the White House in a briefing paper for Cabinet officials attending the international conference on the greenhouse effect that President Bush convened this week.</p>
+        <p>Mr. Bush, for one, took the warning to heart. He didn't even mention the words ''greenhouse effect'' or ''global warming.'' His foreign guests, under the impression they had been invited to discuss these subjects, were disappointed at the White House's decision to focus on uncertainties and not action to avert the feared greenhouse warming.</p>
+        <p>''Don't get into an advocacy position of the merits of various policy proposals,'' advised the briefing paper. ''Don't use specific numbers i.e., degrees, dollars, rates, etc. ''</p>
+        <p>Specific numbers, of course, are the coin of serious discussion. So why hold a conference at all if serious discussion is to be avoided? Because in a campaign speech on Aug. 31, 1988, Mr. Bush promised to hold one. ''Those who think we are powerless to do anything about the 'greenhouse effect' are forgetting about the 'White House effect,' '' he said. ''In my first year in office, I will convene a global conference on the environment at the White House. It will include the Soviets, the Chinese. . . . The agenda will be clear. We will talk about global warming.''</p>
+        <p>Such were candidate Bush's stirring promises. But President Bush disinvited the Chinese - a major producer of greenhouse gases - and manipulated the agenda to sidestep issues the White House wanted to avoid, declining even to utter the phrase ''global warming.''</p>
+        <p>That's a shameful surrender of substance to image, especially at a time when scientists in a major but so far unpublished United Nations study conclude that a rise of 3 to 8 degrees Fahrenheit can be expected within the next 60 years. What makes the surrender even stranger is that the White House's policy is not indefensible. Its skepticism of computer models of the climate, for example, is justified. So far the computers only show what might be, not what will be.</p>
+        <p>The Administration's stated policy is to pursue those actions against greenhouse warming that are worthwhile on their own merits. That policy, too, could be defended, even though the Administration's present list of actions is too short and omits the urgent remedy of an increased gasoline tax.</p>
+        <p>Had Mr. Bush's advisers got their act together, they would not have been trapped in the absurdity of holding a conference whose true purpose was to avoid debate.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

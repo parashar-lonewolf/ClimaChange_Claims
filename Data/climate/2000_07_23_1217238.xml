@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lowering the Global Thermostat</title>
+    <meta content="LTR231536" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217238"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Solar Energy</classifier>
+        <person class="indexing_service">Bernstein, James S</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFDF123AF930A15754C0A9669C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lowering the Global Thermostat</hl1>
+      </hedline>
+      <abstract>
+        <p>James S Bernstein letter responds to Bob Herbert's July 17 column on global warming; contends use of solar energy can play role in reducing global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Global Cooling,'' by Bob Herbert (column, July 17):</p>
+        <p>Solar energy deserves emphasis in any strategy for reducing global warming. In 1977, with the help of a federal tax credit, I installed a solar hot-water system and cut my fuel oil consumption by 20 to 25 percent. It's a shame that the federal tax credit for home solar systems was allowed to expire during the Reagan administration.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Global Cooling,'' by Bob Herbert (column, July 17):</p>
+        <p>Solar energy deserves emphasis in any strategy for reducing global warming. In 1977, with the help of a federal tax credit, I installed a solar hot-water system and cut my fuel oil consumption by 20 to 25 percent. It's a shame that the federal tax credit for home solar systems was allowed to expire during the Reagan administration.</p>
+        <p>If we restore that tax credit, the saving in oil might rival the ecological benefits achieved by fuel-efficient cars.</p>
+        <p>JAMES S. BERNSTEIN  Rockville Centre, N.Y., July 17, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

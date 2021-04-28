@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Private Sector; From Fossil Fuels to Solar Panels</title>
+    <meta content="MB003650" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1402960"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Solar Energy</classifier>
+        <location class="indexing_service">Auburn Hills (Mich)</location>
+        <org class="indexing_service">Energy Conversion Devices</org>
+        <org class="indexing_service">Bekaert (Belgian Co)</org>
+        <person class="indexing_service">Maynard, Micheline</person>
+        <person class="indexing_service">Stempel, Robert C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Michigan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EED7103FF930A15755C0A9649C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Private Sector; From Fossil Fuels to Solar Panels</hl1>
+      </hedline>
+      <byline class="print_byline">By Micheline Maynard (COMPILED BY HUBERT B. HERRING)</byline>
+      <byline class="normalized_byline">Maynard, Micheline</byline>
+      <abstract>
+        <p>Energy Conversion Devices and Belgian company Bekaert join in venture to produce ultra-thin solar panels in Auburn Hills, Michigan; ECD chairman, Robert C Stempel, was chief executive of General Motors; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Robert C. Stempel spent the bulk of his career selling a very traditional power source: the internal combustion engine. But since his resignation as General Motors' chief executive nearly 10 years ago, his energy has gone into more environmentally friendly alternatives. Tomorrow, he dives even deeper into that realm by inaugurating the world's largest solar panel factory.</p>
+        <p>Energy Conversion Devices -- Robert Stempel, chairman -- is a joint-venture partner in a $55 million plant in Auburn Hills, Mich., that will produce ultra-thin solar panels that can be used to power buildings, boats and lanterns, among other things. This plant alone, established with the Belgian company Bekaert, will increase the nation's solar panel capacity by 20 percent. It features a unique machine, the length of a football field, that can crank out solar panels one and a half miles long. Unlike conventional solar panels, which are hard plastic, the factory's solar panels are made of thin stainless steel onto which coatings are applied.</p>
+      </block>
+      <block class="full_text">
+        <p>Robert C. Stempel spent the bulk of his career selling a very traditional power source: the internal combustion engine. But since his resignation as General Motors' chief executive nearly 10 years ago, his energy has gone into more environmentally friendly alternatives. Tomorrow, he dives even deeper into that realm by inaugurating the world's largest solar panel factory.</p>
+        <p>Energy Conversion Devices -- Robert Stempel, chairman -- is a joint-venture partner in a $55 million plant in Auburn Hills, Mich., that will produce ultra-thin solar panels that can be used to power buildings, boats and lanterns, among other things. This plant alone, established with the Belgian company Bekaert, will increase the nation's solar panel capacity by 20 percent. It features a unique machine, the length of a football field, that can crank out solar panels one and a half miles long. Unlike conventional solar panels, which are hard plastic, the factory's solar panels are made of thin stainless steel onto which coatings are applied.</p>
+        <p>Customers already include ChevronTexaco, which will use the panels to generate energy for its Texas oil fields, and San Francisco's airport, said a spokesman for Energy Conversion Devices, Richard Thompson.</p>
+        <p>Micheline Maynard</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

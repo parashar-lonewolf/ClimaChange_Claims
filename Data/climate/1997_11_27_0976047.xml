@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hotter Times Coming</title>
+    <meta content="LCROWL$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="976047"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Forecasts</classifier>
+        <person class="indexing_service">Crowley, Thomas J</person>
+        <person class="indexing_service">Singer, S Fred</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E5D6143AF934A15752C1A961958260" item-length="226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hotter Times Coming</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Thomas J Crowley letter rebuts S Fred Singer's Nov 24 letter as to interpretations of historical temperatures on earth, and predictions about global warming (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>S. Fred Singer (letter, Nov. 24) makes two misleading comments with respect to comparing past climate change with future projections based on greenhouse studies.</p>
+        <p>First, Mr. Singer cites ocean core analyses from the Sargasso Sea that show larger temperature fluctuations in the last 3,000 years than are predicted for the middle of the next century. Yet it is well known that local temperature records fluctuate more than hemispheric or global temperatures, which are the focus of future predictions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>S. Fred Singer (letter, Nov. 24) makes two misleading comments with respect to comparing past climate change with future projections based on greenhouse studies.</p>
+        <p>First, Mr. Singer cites ocean core analyses from the Sargasso Sea that show larger temperature fluctuations in the last 3,000 years than are predicted for the middle of the next century. Yet it is well known that local temperature records fluctuate more than hemispheric or global temperatures, which are the focus of future predictions.</p>
+        <p>Furthermore, studies indicate that during the so-called Medieval Climate Optimum of about 1,000 years ago, different regions warmed at different times. Thus it is difficult to make a credible case that the average hemispheric temperature may have been greater than now. Projections of large-scale temperature change because of greenhouse gases significantly exceed estimates for the last 3,000 years.</p>
+        <p>THOMAS  J. CROWLEY</p>
+        <p>College Station, Tex., Nov. 24, 1997</p>
+        <p>The writer is a professor of oceanography at Texas A &amp; M.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

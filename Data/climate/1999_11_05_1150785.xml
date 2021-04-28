@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nuclear Power's Benefits</title>
+    <meta content="L05CAR$02" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1150785"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <person class="indexing_service">Grossman, Lawrence N (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E4D81E3BF936A35752C1A96F958260" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nuclear Power's Benefits</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Lawrence N Grossman, professor emeritus of nuclear engineering, University of California at Berkeley, notes contribution of nuclear power to mitigation of global atmospheric carbon emission (Oct 31 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Oct. 31 front-page article ''Global Economy Slowly Cuts Use of Fuels Rich in Carbon'' did not mention the contribution of nuclear power to the slowing of carbon emissions worldwide. Between 1973 and the present, United States nuclear power plants prevented the emission of about two billion metric tons of carbon.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Oct. 31 front-page article ''Global Economy Slowly Cuts Use of Fuels Rich in Carbon'' did not mention the contribution of nuclear power to the slowing of carbon emissions worldwide. Between 1973 and the present, United States nuclear power plants prevented the emission of about two billion metric tons of carbon.</p>
+        <p>Clearly, nuclear power's ability to generate electricity without carbon dioxide (and other greenhouse gases) emissions will not lead to its increased use unless problems of public acceptance, disposal of high-level radioactive waste and weapons proliferation are resolved.</p>
+        <p>But we should not discount the contribution of nuclear power to the mitigation of global atmospheric carbon emissions.</p>
+        <p>LAWRENCE N. GROSSMAN  Berkeley, Calif., Nov. 2, 1999</p>
+        <p>The writer is professor emeritus of nuclear engineering at the University of California at Berkeley.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When the Leaves Leave</title>
+    <meta content="31q&amp;a" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1801207"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Seasons and Months</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oxygen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E6D9123FF932A05753C1A9609C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When the Leaves Leave</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. As fall turns to winter and tree leaves begin to fall, what happens to the levels of oxygen in the air?</p>
+        <p>A. Scientists suggest that seasonal variation in the worldwide supply of oxygen because of leaf loss by deciduous trees is insignificant, for several reasons.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. As fall turns to winter and tree leaves begin to fall, what happens to the levels of oxygen in the air?</p>
+        <p>A. Scientists suggest that seasonal variation in the worldwide supply of oxygen because of leaf loss by deciduous trees is insignificant, for several reasons.</p>
+        <p>The main reason, said Tim Fahey, a professor in the department of natural resources at Cornell, is that oxygen levels in the atmosphere are very high -- 20 percent of the total -- and so in the short term are not sensitive to biological activity. By contrast, he said, carbon dioxide levels are roughly only one-thousandth as high, and they do respond measurably to the seasonal change, increasing during the Northern Hemisphere's winter.</p>
+        <p>It is true that as northern broadleaf trees end photosynthesis and shed their leaves, their emission of oxygen stops, but evergreens continue some activity, and so of course do the trees of the Southern Hemisphere, including the prolific vegetation of the rain forests. Some of the deciduous trees in that hemisphere come into leaf with the southern spring.</p>
+        <p>A huge share of photosynthetic activity also takes place well below tree level, including the very considerable contribution of the oceanic biomass.</p>
+        <p>Meanwhile, as trees are absorbing carbon dioxide through their leaves and using it to make food and oxygen as a byproduct, they are also burning oxygen in their cells, reaching a variable balance of photosynthesis and respiration even during the leafy season.</p>
+        <p>And finally, in the long term, trees die and decay, using up oxygen as their carbon-rich vegetable matter oxidizes, releasing carbon dioxide and water.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

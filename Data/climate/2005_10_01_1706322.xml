@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Time to Talk About Global Warming</title>
+    <meta content="l01warm-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1706322"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <person class="indexing_service">Siegel, James</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E6DE1030F932A35753C1A9639C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Time to Talk About Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>James Siegel letter says Americans will not understand climate change until religion and science are accepted as separate and distinct systems of examination; drawing (Sept 28 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Time to Connect the Dots'' (editorial, Sept. 28) does not mention a simple fact about a dynamic climate change: there are too many Americans willing to throw a religious shroud over science.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Time to Connect the Dots'' (editorial, Sept. 28) does not mention a simple fact about a dynamic climate change: there are too many Americans willing to throw a religious shroud over science.</p>
+        <p>Until we as a country accept science for what it is (a data-driven system for exploring what can be measured) and religion for what it is (a faith-based system for exploring what cannot be measured), we are more likely to color than connect the dots.</p>
+        <p>James Siegel  Portland, Me., Sept. 28, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

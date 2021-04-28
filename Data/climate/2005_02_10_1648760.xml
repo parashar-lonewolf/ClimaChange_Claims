@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Test Set on Transmission That Could Save Fuel</title>
+    <meta content="10AUTO$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/02/10/business/10auto.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1648760"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <org class="online_producer">Environmental Protection Agency</org>
+        <org class="online_producer">United Parcel Service Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E5DA163AF933A25751C0A9639C8B63" item-length="756" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Test Set on Transmission That Could Save Fuel</hl1>
+        <hl2 class="online_headline">Test Set on Transmission That Could Save Fuel</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Environmental Protection Agency and the United Parcel Service plan to announce a test project today demonstrating a new type of transmission that could save energy and reduce pollution.</p>
+        <p>Conceptually akin to gas-electric hybrid vehicles like the Toyota Prius, the approach uses a hydraulic transmission rather than a mechanical transmission with an internal combustion engine.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Environmental Protection Agency and the United Parcel Service are planning to demonstrate a new type of transmission that could save energy and reduce pollution.</p>
+      </block>
+      <block class="full_text">
+        <p>The Environmental Protection Agency and the United Parcel Service plan to announce a test project today demonstrating a new type of transmission that could save energy and reduce pollution.</p>
+        <p>Conceptually akin to gas-electric hybrid vehicles like the Toyota Prius, the approach uses a hydraulic transmission rather than a mechanical transmission with an internal combustion engine.</p>
+        <p>Using technology developed by the E.P.A., the Eaton Corporation will take a familiar brown U.P.S. delivery vehicle and replace its mechanical transmission with one that stores and transmits energy using a pressurized fluid. The United States Army is among the project sponsors.</p>
+        <p>The vehicle's diesel engine will be used to create pressure of 5,000 pounds per square inch in a hydraulic tank and that pressure will drive a turbine that will in turn drive the wheels. Early lab tests show a gain in fuel efficiency of 60 to 70 percent, according to the E.P.A., and the sponsors are eager to try a real-world demonstration.</p>
+        <p>''We're pretty sure we have something here,'' said Margo Oge, the head of the Environmental Protection Agency's air program. The agency owns several of the patents to be used in the vehicle.</p>
+        <p>In mass production, the system would raise the cost of a standard truck by about $5,000 but would save about $2,500 a year in the cost of diesel fuel, she said.</p>
+        <p>''What U.P.S. is seeing is a business case,'' she said. ''What we are seeing is a huge environmental case that can be made for all of this, because of the potential reductions in fuel consumption and carbon dioxide.'' Sharp reductions in smog-forming emissions are also likely, she said.</p>
+        <p>In the hydraulic system, a diesel engine running at nearly constant speed continuously builds and maintains pressure in a series of tanks. When the driver wants to accelerate, pressure is released to spin the turbine. The first vehicle will use a standard 6-liter, 175-horsepower engine. But a much smaller engine would work, the developers said, because the transmission uses stored power, much like a bagpipe uses stored air. A smaller engine would mean a lighter truck, and even less fuel consumption, they said.</p>
+        <p>Diesel engines belch smoke when operating at low revolutions per minute and high torque, as when a truck begins to accelerate. But if the engine runs at a constant speed, as with the hydraulic hybrid system, pollution-control devices could be tuned to operate best at that continuous R.P.M.</p>
+        <p>Another way the system saves fuel is by reversing the energy flow so that when the car needs to stop, the wheels drive the turbine and raise the pressure in the tanks. This ''regenerative braking'' is also common on gasoline-electric hybrids like the Prius, but in an electric system much of the energy cannot be recaptured because the batteries cannot absorb current fast enough. There is no such problem with the hydraulic system, which captures about three-quarters of the braking energy, compared with 35 or 40 percent for an electric hybrid.</p>
+        <p>Although the system might be well suited to stop-and-go package delivery, experts say, it would be far less useful in vehicles that tend to operate more often at cruising speeds.</p>
+        <p>The hydraulic hybrid has other advantages over the gas-electric hybrid, including cost and simplicity. The gas-electric hybrid has two entirely separate drive trains, and the second, the electric one, raises the cost by thousands of dollars. Because the hydraulic system replaces the conventional transmission, the projected additional cost is smaller than for a gas-electric hybrid.</p>
+        <p>The U.P.S. hydraulic truck, still being built, would not be the first to use a hydraulic transmission. In Memphis, an independent tinkerer named John M. Hewitt is using a hydraulic system on what used to be a Chevy S-10 pickup. The truck, which he says accelerates adequately with an engine of less than 100 horsepower, achieves more than 100 miles per gallon. He uses a diesel engine designed for marine use, because it is meant to run long hours at constant speed.</p>
+        <p>Ford Motor announced in 2001 that it was working with the E.P.A. on such a system for S.U.V.'s and hoped to have a fleet on the road by 2010. The company said it was now concentrating on gas-electric hybrids, instead.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

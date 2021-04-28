@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unhealthy Smog Levels Reported on 28 Days</title>
+    <meta content="MN021417" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1040661"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="METRO NEWS BRIEFS: NEW JERSEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Smog</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <org class="indexing_service">New Jersey Public Interest Research Group</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smog</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980821T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E4D7103DF932A1575BC0A96E958260" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unhealthy Smog Levels Reported on 28 Days</hl1>
+      </hedline>
+      <dateline>TRENTON</dateline>
+      <abstract>
+        <p>New Jersey Public Interest Research Group report finds that smog in state rose to unhealthy level on 28 days between May 16 and July 31, two more days than during same testing period last year (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Smog in New Jersey rose to an unhealthy level on 28 days between May 16 and July 31, two more days than during the same testing period last year, according to a report released yesterday by the New Jersey Public Interest Research Group.</p>
+        <p>Smog, or ground-level ozone, exceeded the Federal standard 163 separate times, sometimes at the same measuring station and many on the same day, the report found. Last year, according to the report, smog levels exceeded healthy levels 177 times on 26 days in the same period.</p>
+      </block>
+      <block class="full_text">
+        <p>Smog in New Jersey rose to an unhealthy level on 28 days between May 16 and July 31, two more days than during the same testing period last year, according to a report released yesterday by the New Jersey Public Interest Research Group.</p>
+        <p>Smog, or ground-level ozone, exceeded the Federal standard 163 separate times, sometimes at the same measuring station and many on the same day, the report found. Last year, according to the report, smog levels exceeded healthy levels 177 times on 26 days in the same period.</p>
+        <p>On Independence Day, 13 of the 15 ozone monitoring stations in the state registered ozone levels above the Federal standard, making July 4 one of the unhealthiest days this summer, according to the report.</p>
+        <p>Ozone is formed when nitrogen oxides created by burning fossil fuels mix with volatile organic compounds contained in paints, varnishes and other chemicals in the presence of sunlight. It can cause lung damage when inhaled.</p>
+        <p>METRO NEWS BRIEFS: NEW JERSEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

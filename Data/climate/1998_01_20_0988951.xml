@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Azure Waters</title>
+    <meta content="20QNA" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="988951"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E6DE1338F933A15752C0A96E958260" item-length="347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Azure Waters</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Gazing upon the clear, aqua-colored water ringing Bermuda, I wondered why southern waters look that way while shallow waters off New Jersey, for example, are murky. What accounts for the difference?</p>
+        <p>A. Questions of pollution aside, the answer, oceanographers say, is that cold northern waters tend to teem with great concentrations of tiny plants and animals (phytoplankton and zooplankton), while southern waters are (in terms of numbers of individual organisms) empty deserts, with a few species-rich oases, like coral reefs and waters that are fed nutrients by river runoff.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Gazing upon the clear, aqua-colored water ringing Bermuda, I wondered why southern waters look that way while shallow waters off New Jersey, for example, are murky. What accounts for the difference?</p>
+        <p>A. Questions of pollution aside, the answer, oceanographers say, is that cold northern waters tend to teem with great concentrations of tiny plants and animals (phytoplankton and zooplankton), while southern waters are (in terms of numbers of individual organisms) empty deserts, with a few species-rich oases, like coral reefs and waters that are fed nutrients by river runoff.</p>
+        <p>Phytoplankton need sunlight, nutrients and carbon dioxide to thrive. Cold waters are richer in nutrients like oxygen and in carbon dioxide because the water molecules move more slowly than they do in warmer waters, allowing more dissolved gases to stay dissolved. The result is seasonal crops of the phytoplankton, which in turn feed the zooplankton.</p>
+        <p>''This rich soup of microscopic plants and animals and decaying plants, the base of the ocean food chain, makes cold northern waters appear murky,'' according to a spokesman for the Gulf of Maine Aquarium, an organization working to build a public aquarium in Portland.</p>
+        <p>''In contrast, a tropical sea is crystal clear, with almost nothing suspended in the water to refract light or block our view,'' the spokesman said.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

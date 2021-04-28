@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="184925"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <object.title class="indexing_service">Q&amp;A (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3DB133DF937A35753C1A96E948260" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Q.How do nuclear submarines get their oxygen supply when they stay submerged for weeks and months at a time?  A.The crew of a submerged submarine can get oxygen from three sources: the air the submarine carries with it, air it takes in through a snorkel when it is just below the surface, and seawater, according to Lieut.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Q.How do nuclear submarines get their oxygen supply when they stay submerged for weeks and months at a time?  A.The crew of a submerged submarine can get oxygen from three sources: the air the submarine carries with it, air it takes in through a snorkel when it is just below the surface, and seawater, according to Lieut.</p>
+        <p>Q.How do nuclear submarines get their oxygen supply when they stay submerged for weeks and months at a time?  A.The crew of a submerged submarine can get oxygen from three sources: the air the submarine carries with it, air it takes in through a snorkel when it is just below the surface, and seawater, according to Lieut. Brian Cullin, a public relations officer.</p>
+        <p>''The air on a sub is both recirculated and regenerated,'' he said. ''Air passes through scrubbers that filter and break it down, removing as much carbon dioxide as possible, and air is also generated from sea water.''</p>
+        <p>Oxygen generators pass electric currents through seawater in a process called electrolysis. This process ''isolates oxygen, which is extracted, concentrated and used on board the submarine, and hydrogen, which is discarded,'' he said. Recirculation and regeneration produce ''a supply of air that can let a sub stay down for long periods, without having to snorkel,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

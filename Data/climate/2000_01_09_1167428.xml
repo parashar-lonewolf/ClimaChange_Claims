@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York City Weather: A Century-Long Warming Trend</title>
+    <meta content="9WEAT" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000130T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1167428"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Stevens, William K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DEFDA113BF93AA35752C0A9669C8B63" item-length="300" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York City Weather: A Century-Long Warming Trend</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">Stevens, William K</byline>
+      <abstract>
+        <p>Graph New York City temperature and precipitation in 1999 and for all of 20th century, during which the average global surface temperature rose about one degree Fahrenheit</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Over the century just departed, the earth became warmer, with the average global surface temperature rising by about one degree Fahrenheit. The world is five to nine degrees warmer now than during the depth of the last ice age 18,000 to 20,000 years ago.</p>
+        <p>Over the century just entered, the warming is expected to continue. If emissions of heat-trapping gases like carbon dioxide - products of the burning of fossil fuels like coal and oil - are not reduced, many experts believe, the surface temperature of the earth will rise at a pace equal to its rise in the last quarter century. And that rate was more than triple the century-long average, government scientists say.</p>
+      </block>
+      <block class="full_text">
+        <p>Over the century just departed, the earth became warmer, with the average global surface temperature rising by about one degree Fahrenheit. The world is five to nine degrees warmer now than during the depth of the last ice age 18,000 to 20,000 years ago.</p>
+        <p>Over the century just entered, the warming is expected to continue. If emissions of heat-trapping gases like carbon dioxide - products of the burning of fossil fuels like coal and oil - are not reduced, many experts believe, the surface temperature of the earth will rise at a pace equal to its rise in the last quarter century. And that rate was more than triple the century-long average, government scientists say.</p>
+        <p>Global warming is believed to affect extremes of weather, making both heavy rainfall and drought more prevalent. But global warming expresses itself differently in different parts of the world. For instance, in the northern hemisphere, the warming has been greater the farther north one goes. And these large forces combine with natural climatic influences to produce different patterns at the local and regional levels.</p>
+        <p>Here is the way these factors played out for New York City.</p>
+        <p>WILLIAM K. STEVENS</p>
+        <p>Correction:  January 30, 2000, Sunday  A full-page chart on Jan. 9 tracing New York City's weather over the last 100 years misstated several statistics. The coldest years of the century were 1917 and 1903, not 1904. The longest consecutive run of days with temperatures of 100 or above were July 8-10, 1993, not 1990, and Aug. 26-28, 1948. The month with the greatest total precipitation was April 1983, with 14.01 inches, not September 1982. And the month with the most snow was December 1947, not November 1947.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 30, 2000, Sunday</p>
+        <p>A full-page chart on Jan. 9 tracing New York City's weather over the last 100 years misstated several statistics. The coldest years of the century were 1917 and 1903, not 1904. The longest consecutive run of days with temperatures of 100 or above were July 8-10, 1993, not 1990, and Aug. 26-28, 1948. The month with the greatest total precipitation was April 1983, with 14.01 inches, not September 1982. And the month with the most snow was December 1947, not November 1947.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

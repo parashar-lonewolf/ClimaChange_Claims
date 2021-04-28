@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Ups and Downs Of a Climate Debate</title>
+    <meta content="LTR030546" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1274637"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Singer, S Fred</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EED71F38F932A35750C0A9679C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Ups and Downs Of a Climate Debate</hl1>
+      </hedline>
+      <abstract>
+        <p>S Fred Singer letter on Feb 26 editorial questions whether global warming is really occurring</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Global Warning to Mr. Bush'' (editorial, Feb. 26):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Global Warning to Mr. Bush'' (editorial, Feb. 26):</p>
+        <p>Before putting pressure on the White House to act, shouldn't we be asking whether global warming is really happening?</p>
+        <p>The Kilimanjaro ice cap is not a thermometer. It may well be melting, but this is simply a delayed consequence of a natural climate warming during the early part of the 20th century. Moreover, it will continue to melt as long as the climate doesn't return to the temperatures of the Little Ice Age of past centuries.</p>
+        <p>The National Academy of Sciences published a report last year that defines the geographic regions of warming and cooling during the last 20 years. Surface measurements of East Africa show no warming trend.  Weather satellites show a pronounced cooling trend of the atmosphere there.</p>
+        <p>S. FRED SINGER  President, Science and Environmental Policy Project  Arlington, Va., Feb. 26, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

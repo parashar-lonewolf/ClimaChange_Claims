@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bullet Prints, And Other Ideas</title>
+    <meta content="LTR233650" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1432879"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Firearms</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Erwin, Lois</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E2DE133DF93BA25753C1A9649C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bullet Prints, And Other Ideas</hl1>
+      </hedline>
+      <abstract>
+        <p>Lois Erwin letter says ballistic fingerprinting works, but will not be accepted by Bush administration that prefers to call for studies and re-studies (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''A Way to Trace Bullets'' (editorial, Oct. 17), you point out that President Bush ''needs to lead'' on the issue of creating a ''computerized national system for tracing bullets and cartridge casings to the guns that fired them.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''A Way to Trace Bullets'' (editorial, Oct. 17), you point out that President Bush ''needs to lead'' on the issue of creating a ''computerized national system for tracing bullets and cartridge casings to the guns that fired them.''</p>
+        <p>You're right, but he won't do it.</p>
+        <p>Mr. Bush says there needs to be a study first, even though the Bureau of Alcohol, Tobacco and Firearms stated that ''numerous violent crimes involving firearms have been solved through use of the system.''</p>
+        <p>How many re-studies are already in the Bush pipeline? Mainstream scientists concluded long ago that global warming was a reality, but that was not good enough for the Bush team; they must study it again.</p>
+        <p>And so it will go with ballistic fingerprinting. It works, but that is not proof enough for Mr. Bush.</p>
+        <p>LOIS ERWIN  Waldwick, N.J., Oct. 17, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

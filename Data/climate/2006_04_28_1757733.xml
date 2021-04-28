@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Nuclear Plant in the Neighborhood</title>
+    <meta content="l28nuclear-4" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1757733"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Radiation</classifier>
+        <person class="indexing_service">Slater, Alice</person>
+        <person class="indexing_service">Sweet, William</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0DE103FF93BA15757C0A9609C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Nuclear Plant in the Neighborhood</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Alice Slater, president of Grace Policy Institute, says Americans are at greater risk today from accidents at aging nuclear power plants; cites examples (April 26 William Sweet Op-Ed article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Nuclear Regulatory Commission reports 200 incidents since 1986 where reactors have come close to a meltdown, making the risk greater than 1 in 1,000. Nor is Excelon the only company that is mismanaging nuclear power plants.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Nuclear Regulatory Commission reports 200 incidents since 1986 where reactors have come close to a meltdown, making the risk greater than 1 in 1,000. Nor is Excelon the only company that is mismanaging nuclear power plants.</p>
+        <p>Only 35 miles from New York City, Entergy manages the Indian Point reactors, where leaks of strontium, plutonium and tritium from an irradiated fuel tank are seeping into the groundwater and drinking wells and inching toward the Hudson River.</p>
+        <p>In fact, we are at greater risk today. Aging plants are emitting radioactivity into communities. Irradiated fuel accumulates at reactors with no rational storage solution, increasing the potential for theft by those seeking to produce nuclear weapons.</p>
+        <p>Further, Indian Point was mentioned as a target in the documents of Al Qaeda.</p>
+        <p>Most important, financing nuclear power would divert scarce resources from investments in renewable energy and energy efficiency.</p>
+        <p>The enormous costs for nuclear power per unit of carbon emissions avoided, compared with sun and wind, would worsen climate change by buying less solution per dollar.</p>
+        <p>Alice Slater  New York, April 26, 2006</p>
+        <p>The writer is president of the Grace Policy Institute, a division of the Global Resource Action Center for the Environment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

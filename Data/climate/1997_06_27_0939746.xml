@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Op-Art</title>
+    <meta content="27SUBI0AA" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="Op-Art" name="column_name"/>
+    <docdata>
+      <doc-id id-string="939746"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Op-Art"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E4DE1231F934A15755C0A961958260" item-length="38" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Op-Art</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE FIRST SIGNS OF GLOBAL WARMING IN NEW YORK.</p>
+      </block>
+      <block class="full_text">
+        <p>THE FIRST SIGNS OF GLOBAL WARMING IN NEW YORK.  Op-Art</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

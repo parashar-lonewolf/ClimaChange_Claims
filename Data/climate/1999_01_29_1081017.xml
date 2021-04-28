@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientists Warn Against Ignoring Climate Change</title>
+    <meta content="Y29CLI$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1081017"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <org class="indexing_service">American Geophysical Union</org>
+        <person class="indexing_service">Stevens, William K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DF1F39F93AA15752C0A96F958260" item-length="569" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientists Warn Against Ignoring Climate Change</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">Stevens, William K</byline>
+      <abstract>
+        <p>American Geophysical Union, nation's most broadly based professional organization in earth and space science, says there is compelling basis for legitimate public concern about human-induced climatic change; statement is latest in long list of statements on global warming over last two decades by prestigious scientific groups that have reached similar conclusions; latest statement does not propose any specific solutions for dealing with global warming, but encourages development of strategies aimed at that goal rather than inaction (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The American Geophysical Union, the nation's most broadly based professional organization in earth and space science, said in an official policy statement yesterday that there was a ''compelling basis for legitimate public concern'' about human-induced climatic change.</p>
+        <p>Scientific uncertainty about the problem, the statement said, ''does not justify inaction'' in coping with it.</p>
+      </block>
+      <block class="full_text">
+        <p>The American Geophysical Union, the nation's most broadly based professional organization in earth and space science, said in an official policy statement yesterday that there was a ''compelling basis for legitimate public concern'' about human-induced climatic change.</p>
+        <p>Scientific uncertainty about the problem, the statement said, ''does not justify inaction'' in coping with it.</p>
+        <p>The statement dealt with the burning of fossil fuels like coal, oil and natural gas. The burning produces carbon dioxide, a gas that traps heat in Earth's atmosphere like in a greenhouse.</p>
+        <p>The geophysical union said ''there is no known geologic precedent'' for the conversion of carbon from Earth's crust into atmospheric carbon dioxide, in the amounts being burned as fossil fuels, without changing the climate.</p>
+        <p>The statement is the eighth the union has issued on some aspect of science-related public policy, and the latest in a long list of statements on global warming over the last two decades by prestigious scientific groups that have reached similar conclusions.</p>
+        <p>''The answer always comes back:  'Global warming is a serious problem, and policy makers have got to figure out what to do about it,' '' said Dr. Michael Oppenheimer, a senior scientist at the Environmental Defense Fund, an environmental research and advocacy group.</p>
+        <p>But the Competitive Enterprise Institute, a public policy group that promotes free enterprise and limited government, said the geophysical union, by making a judgment favorable to the Clinton Administration's policy of action on global warming, had ''crossed the line separating science from advocacy.''</p>
+        <p>The average surface temperature of Earth has risen by about 1 degree over the last century, compared with a difference of 5 to 9 degrees from the present to the depths of the last ice age, some 20,000 years ago.</p>
+        <p>An international panel of scientists convened by the United Nations has projected that if emissions of the heat-trapping gases are not reduced, the surface temperature will rise by an additional 2 to 6 degrees by the end of the 21st century, producing widespread climatic disruptions. The world's industrialized countries in late 1997 bound themselves to reduce their emissions of these gases by about 5 percent over the next decade.</p>
+        <p>Opponents of mandatory action to reduce such emissions have cited the uncertainties surrounding predictions about climate change, and yesterday's statement dealt prominently with those uncertainties. It noted, for instance, that while the observed global temperature rise ''appears to be unusual in the context of the last few centuries,'' it is ''not clearly outside the range of climate variability of the last few thousand years.''</p>
+        <p>Moreover, it said, the complexity of the climate system insures that uncertainty ''will never be completely eliminated.''</p>
+        <p>Still, it said, present understanding of the system ''provides a compelling basis for legitimate public concern over future global- and regional-scale changes resulting from increased concentrations of greenhouse gases.''</p>
+        <p>While the statement recommended the development of strategies for dealing with global warming, it did not propose any specific solutions.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

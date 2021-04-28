@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Greenhouse Gases</title>
+    <meta content="L31ENER" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1554977"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">Washington Post</org>
+        <person class="indexing_service">Abraham, Spencer (Sec)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1D71138F932A05752C0A9629C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Greenhouse Gases</hl1>
+      </hedline>
+      <abstract>
+        <p>Energy Sec Spencer Abraham letter responds to Jan 25 editorial; disputes Washington Post survey finding that only tiny number of US companies agreed to participate in voluntary programs to curb greenhouse gas emissions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Warming Up'' (editorial, Jan. 25), you say that ''a Washington Post survey found that only a tiny number of American companies'' have agreed to participate in voluntary programs to curb greenhouse gas emissions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Warming Up'' (editorial, Jan. 25), you say that ''a Washington Post survey found that only a tiny number of American companies'' have agreed to participate in voluntary programs to curb greenhouse gas emissions.</p>
+        <p>In fact, trade associations representing thousands of companies from 12 energy-intensive industry sectors -- accounting for about 40 to 45 percent of United States greenhouse gas emissions -- now participate in the administration's Climate Vision program. Nearly all these organizations have made specific commitments on behalf of their members to reduce greenhouse gas emissions intensity.</p>
+        <p>The administration has made significant efforts to reduce greenhouse emissions over the longer term. To meet the energy demand of a growing world population, lift people out of poverty and stabilize atmospheric greenhouse gas concentrations, new low-  or zero-emission technologies must be created and adopted by the market. The United States is leading the way in developing transformational technologies in carbon sequestration, hydrogen, renewable energy, nuclear fission and fusion.</p>
+        <p>SPENCER ABRAHAM  Secretary of Energy  Washington, Jan. 27, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adirondack Acid Harm Revised</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="351628"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <location class="indexing_service">ADIRONDACK MOUNTAINS</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Adirondacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D81430F93BA35756C0A966958260" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adirondack Acid Harm Revised</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A TEAM of researchers has reported that damage from acid rain in Adirondack lakes is not as great as was once thought.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A TEAM of researchers has reported that damage from acid rain in Adirondack lakes is not as great as was once thought.</p>
+        <p>A TEAM of researchers has reported that damage from acid rain in Adirondack lakes is not as great as was once thought.</p>
+        <p>The researchers found that many lakes in the Adirondack Mountains of New York have organic acids that occur naturally but had been mistakenly attributed to acid rain. Many other lakes can neutralize at least some of the sulfates and nitrogen oxides that acid rain dumps in them, they said.</p>
+        <p>''The general consensus has been that acidification in Adirondack lakes has been substantial, but our report suggests it has been somewhat less than many people feared,'' said Timothy J. Sullivan, a chemist with E &amp; S Environmental Chemistry Inc., the private consulting company in Corvallis, Ore., that conducted the study.</p>
+        <p>The researchers compared the current level of acidity in 48 Adirondack lakes and the acidity found in diatom fossils in lake sediments. Appreciable acidification was found in 14 percent of those larger than four hectares. The results, which appear in the current issue of Nature, showed that 7 of the 48 lakes contained enough organic acids to acidify their water before the Industrial Revolution swept America in the 19th century.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

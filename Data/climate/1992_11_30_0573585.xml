@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patents; A Computer That Could Hear Poodles</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="573585"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">INVENTIONS AND INVENTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">VOICE RECOGNITION SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">SECURITY AND WARNING SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">CATALYTIC CONVERTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <org class="indexing_service">TEXACO INC</org>
+        <org class="indexing_service">TEXACO INC</org>
+        <person class="indexing_service">ANDREWS, EDMUND L</person>
+        <person class="indexing_service">VAN DER SPIEGEL, JAN (DR)</person>
+        <person class="indexing_service">MUELLER, PAUL H</person>
+        <person class="indexing_service">KINNEAR, JAMES W</person>
+        <person class="indexing_service">RUDDLES, IAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sound</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDC1339F933A05752C1A964958260" item-length="1001" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patents; A Computer That Could Hear Poodles</hl1>
+      </hedline>
+      <byline class="print_byline">By EDMUND L. ANDREWS</byline>
+      <byline class="normalized_byline">ANDREWS, EDMUND L</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TWO scientists at the University of Pennsylvania have adopted an unusual strategy for inventing a computer that processes information more in the manner of the human brain.</p>
+        <p>Many computer companies are now working toward the same goal, which is crucial to developing machines that can recognize complex images and sounds as easily as a person can instantly distinguish a cat, a squirrel or a poodle. For all the remarkable speed that traditional computers have when it comes to crunching numbers, they remain almost hopelessly obtuse at tasks like recognizing a familiar face.</p>
+      </block>
+      <block class="full_text">
+        <p>TWO scientists at the University of Pennsylvania have adopted an unusual strategy for inventing a computer that processes information more in the manner of the human brain.</p>
+        <p>Many computer companies are now working toward the same goal, which is crucial to developing machines that can recognize complex images and sounds as easily as a person can instantly distinguish a cat, a squirrel or a poodle. For all the remarkable speed that traditional computers have when it comes to crunching numbers, they remain almost hopelessly obtuse at tasks like recognizing a familiar face.</p>
+        <p>To address that, many companies are now working on "neural network" computers that process information through a complex web of small circuits that is patterned after the pathways of the human brain.  Such computers are almost literally trained to recognize patterns of incoming signals.</p>
+        <p>The new system does that, too, but it does so without first translating every incoming signal of light or sound into the ones and zeroes of computer code to create a "digital" signal. Instead, it responds more like a living animal, translating light or sound signals into "analog" patterns of electrical pulses -- wave patterns that are analogous to the original light or sound wave. Rather than analyzing digits, the computer learns to process information through something like flashes of recognition. Less Reaction Time</p>
+        <p>The inventors contend that this approach speeds the process of pattern recognition by as much as a thousand times. That makes it possible, they say, to build systems that can recognize spoken words even more quickly than a human being can. At the moment, electronic "voice recognition" systems are generally limited to understanding a handful of words.</p>
+        <p>"This is very important for real-time applications," said Dr. Jan Van Der Spiegel, an associate professor of electrical engineering who is one of the inventors. "If you want to deal with the real world, the amount of information is so immense that if you process it all digitally, you have so many calculations that you can't do it quickly."</p>
+        <p>Dr. Van Der Spiegel invented the new system with Paul H. Mueller, a research professor of biophysics at the University of Pennsylvania. The two have started Corticon Inc. in Philadelphia, which is building an experimental computer for the Navy.</p>
+        <p>The new system features hundreds and even thousands of computer chips that are each programmed to fire a pulse of electricity in response to certain types of signals. In a voice-recognition system, for example, individual chips might fire in response to particular phonetic elements -- the sound of a flat vowel "A," for example. The pattern of such firings would then form a collective pattern that would cause another level of chips to fire, like one programmed to respond to the word "Albany."</p>
+        <p>Dr. Mueller noted that a few researchers have already built analog neural network systems, but these have all been designed for very specific purposes. By contrast, his invention is intended as a general-purpose computer.</p>
+        <p>Dr. Van Der Spiegel and Dr. Mueller received patent 5,155,802. A Way to Preheat Catalytic Converters</p>
+        <p>Top executives at big corporations do not usually get involved with the grit and grime of developing new products. But at Texaco Inc., the chief executive, James W. Kinnear, recently patented a device to improve the performance of catalytic converters on automobiles.</p>
+        <p>Mr. Kinnear conceived the idea after learning that most of the unburned fuel that escapes from a car's exhaust pipe does so in the first few minutes after the engine is started. He then sought a way to preheat the catalytic converter through a means that did not draw too much power from the battery or inconvenience the driver with a lengthy warm-up period.</p>
+        <p>Isidoro N. Baccarini, an electrical engineer for Texaco, actually built the system and is co-holder of the patent with Mr. Kinnear.  A Key-Chain Transmitter</p>
+        <p>Catalytic converters break down unburned fuel in car exhaust pipes into water and carbon dioxide, so that the fuel does not escape into the atmosphere. The problem is that catalytic converters are not effective when a car first starts up, because they must first heat up to about 600 degrees Fahrenheit.</p>
+        <p>Mr. Kinnear's invention is a system that allows a driver to preheat the catalytic converter before getting into the car.</p>
+        <p>The driver would carry a small radio transmitter on a key chain, and upon approaching the car would use it to activate a heater powered by the car battery. By the time the driver had climbed behind the wheel, Mr. Kinnear said, the catalytic converter would be fully efficient.</p>
+        <p>Mr. Kinnear received patent 5,155,995.  Repeat the Phrase: 'Do You Know Me?'</p>
+        <p>Ian Ruddles, a recently retired vice president for the American Express Company, has patented a security system for computer networks that uses voice recognition to verify the identity of authorized users.</p>
+        <p>Mr. Ruddles, who lives in Manhattan, said the invention was designed to overcome the weaknesses of relying on passwords that can be lost or stolen, or on automatic call-back systems that can often be manipulated by clever hackers. The key innovation of the new system, he said, is that it requires no special security equipment for the person who wants to use the network.  Seeking a Familiar Voice</p>
+        <p>As outlined in the patent, authorized users would identify themselves as they do now. The computer would then instruct them to call a particular phone number, and the customer would then be instructed to repeat one or two words over the telephone -- words that the user had previously spoken for storage in the system's electronic files.</p>
+        <p>The computer would then compare these spoken words to those stored in its memory, and authorize the person if the voice matched correctly.</p>
+        <p>Mr. Ruddles received patent 5,142,565.</p>
+        <p>Patents are available by number for $3 from the Patent and Trademark Office, Washington, D.C. 20231.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

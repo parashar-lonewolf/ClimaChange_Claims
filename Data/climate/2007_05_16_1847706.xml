@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.N. Emissions Program</title>
+    <meta content="l16emissions" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1847706"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E6D91331F935A25756C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.N. Emissions Program</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Clean Power That Reaps a Whirlwind'' (''The Energy Challenge'' series, Business Day, May 9):</p>
+        <p>There are problems with the Clean Development Mechanism, to be sure. The most troubling aspect of it is not that China has used it effectively, but that it has so far failed the countries, like those in Africa, that will be hardest hit by climate change.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Clean Power That Reaps a Whirlwind'' (''The Energy Challenge'' series, Business Day, May 9):</p>
+        <p>There are problems with the Clean Development Mechanism, to be sure. The most troubling aspect of it is not that China has used it effectively, but that it has so far failed the countries, like those in Africa, that will be hardest hit by climate change.</p>
+        <p>Given that any tenable solution to reducing carbon emissions will be market-based, it is past time to propose solutions to make the C.D.M. work for the countries that have been cut out of it to date. That is just what we at the Center for American Progress, in a commitment to the Clinton Global Initiative, have been doing for the last year.</p>
+        <p>By putting interested investors into direct contact with African governments with attractive project possibilities, we are determined not just to lament the shortcomings of the current system but also to overcome them.</p>
+        <p>John Podesta  Tom Daschle  Washington, May 9, 2007</p>
+        <p>The writers are, respectively, president and chief executive; and distinguished senior fellow at the Center for American Progress.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

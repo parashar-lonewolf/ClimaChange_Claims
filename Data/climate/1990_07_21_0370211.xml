@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meanwhile in New York</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="370211"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TREES AND SHRUBS</classifier>
+        <classifier class="indexing_service" type="descriptor">VOLUNTEERS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">NEW YORK CITY TREE CONSORTIUM</org>
+        <person class="indexing_service">EBER-SCHMID, BARBARA J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Volunteers</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900721T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDA173BF932A15754C0A966958260" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meanwhile in New York</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>I applaud ''Plant Trees. Then Protect Them'' (editorial, July 2). Andy Lipkis and his L.A. TreePeople have a well-deserved reputation, but New York has its own tree activist group. The Street Tree Consortium has served as the guardian of New York City's trees for nearly 15 years.</p>
+        <p>We have trained 2,000 citizen pruners through the region to care for our precious trees. Graduates of our tree pruning and maintenance courses receive certification from New York City's Department of Parks and Recreation to care (within prescribed limitations and no climbing) for city trees. Most of our graduates volunteer help to their communities individually or as part of our citizen pruner outings. This fall, high school students will join our citizen pruner ranks.</p>
+        <p>Our work has become more crucial in a time of budget crisis, when the Parks Department cannot prune and care for most trees more frequently than every 26 years.</p>
+        <p>Trees in New York City, where growing conditions are harsher than in Los Angeles, die at an alarming rate. A newly planted tree on a New York street can expect to live 7 to 10 years, left unattended. Watering, fertilizing (but not with untreated animal feces) and keeping the tree pit clean are things anybody can do. Yet doing them makes the difference between a healthy living tree that processes large amounts of carbon dioxide into oxygen and a dead tree that benefits no one.</p>
+        <p>Seedlings and saplings can only be planted on private property or in the parks. Planting trees on the street requires a permit, and not all varieties of trees can be planted on the streets. People can request that the city plant trees (free) through their community planning boards, but the waiting list can be daunting. The Street Tree Consortium has been involved in tree planting in Queens, the Lower East Side and Harlem.</p>
+        <p>However, we believe that maintenance is the key to a viable urban forest.</p>
+        <p>BARBARA J. EBER-SCHMID</p>
+        <p>Executive Director</p>
+        <p>New York City Tree Consortium</p>
+        <p>New York, July 6, 1990</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

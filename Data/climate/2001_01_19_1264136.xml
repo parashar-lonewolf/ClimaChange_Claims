@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="19NEW" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1264136"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE1DA173CF93AA25752C0A9679C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MINNESOTA LIFE INSURANCE, St. Paul, a mutual life insurer, said it had acquired the 401(k) business of Allmerica Financial. Terms were not disclosed.</p>
+        <p>AIRGAS INC., Radnor, Pa., an industrial gas distributor, will sell its carbon dioxide production operations in Mississippi to Denbury Resources, Dallas, for $42 million so it can pay debt and focus on its distribution business.</p>
+      </block>
+      <block class="full_text">
+        <p>MINNESOTA LIFE INSURANCE, St. Paul, a mutual life insurer, said it had acquired the 401(k) business of Allmerica Financial. Terms were not disclosed.</p>
+        <p>AIRGAS INC., Radnor, Pa., an industrial gas distributor, will sell its carbon dioxide production operations in Mississippi to Denbury Resources, Dallas, for $42 million so it can pay debt and focus on its distribution business.</p>
+        <p>DEL MONTE FOODS, San Francisco, the largest American producer of canned fruits and vegetables, said the bankruptcy court supervising Tri Valley Growers, San Ramon, Calif., had approved Del Monte's plan to buy Tri Valley's S&amp;W Foods business for $41 million in cash.</p>
+        <p>DISCOUNT AUTO PARTS, Lakeland, Fla., a seller of automotive replacement parts and accessories, said that its president and chief operating officer, William C. Perkins, had resigned. The company said it was searching for a president and chief executive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

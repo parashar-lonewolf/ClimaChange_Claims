@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Back to Bite Us</title>
+    <meta content="27LIfish" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/27/opinion/nyregionopinions/27WEfish.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1850154"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">West Nile Virus</classifier>
+        <classifier class="indexing_service" type="descriptor">Mosquitoes</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <org class="indexing_service">Centers for Disease Control and Prevention</org>
+        <person class="indexing_service">Fish, Durland</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/West Nile Virus</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">West Nile Virus</classifier>
+        <classifier class="online_producer" type="descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">West Nile Virus</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">New York State</location>
+        <org class="online_producer">Health and Human Services Department</org>
+        <org class="online_producer">Centers for Disease Control and Prevention</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070527T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07EEDF1630F934A15756C0A9619C8B63" item-length="746" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Back to Bite Us</hl1>
+        <hl2 class="online_headline">Back to Bite Us</hl2>
+      </hedline>
+      <byline class="print_byline">By Durland Fish</byline>
+      <byline class="normalized_byline">Fish, Durland</byline>
+      <dateline>NEW HAVEN</dateline>
+      <abstract>
+        <p>Op-Ed article by Yale School of Public Health epidemiology Prof Durland Fish holds drastic budget cuts at Centers for Disease Control and Prevention will force big reductions in federal support for surveillance and control of West Nile virus in New York metropolitan area; holds programs are important because they provide information on other diseases carried by mosquitoes (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE federal government seems to have forgotten about West Nile virus, which terrorized New York City and the metropolitan region in 1999, resulting in more than 60 confirmed cases and seven deaths that year and more than 237,000 cases and 900 deaths nationwide since then.</p>
+        <p>Indeed, the Department of Health and Human Services has cut $9.9 million from the Centers for Disease Control and Prevention's $35 million annual budget to deal with this deadly virus. Next year, an additional $7 million will be cut, leaving the entire program with only $18.1 million, a reduction of almost 50 percent. These cuts will force big reductions in federal support for the surveillance and control of West Nile virus in 57 state and local jurisdictions, including Connecticut, New Jersey and New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Health officials beware: the West Nile threat is not over.</p>
+      </block>
+      <block class="full_text">
+        <p>THE federal government seems to have forgotten about West Nile virus, which terrorized New York City and the metropolitan region in 1999, resulting in more than 60 confirmed cases and seven deaths that year and more than 237,000 cases and 900 deaths nationwide since then.</p>
+        <p>Indeed, the Department of Health and Human Services has cut $9.9 million from the Centers for Disease Control and Prevention's $35 million annual budget to deal with this deadly virus. Next year, an additional $7 million will be cut, leaving the entire program with only $18.1 million, a reduction of almost 50 percent. These cuts will force big reductions in federal support for the surveillance and control of West Nile virus in 57 state and local jurisdictions, including Connecticut, New Jersey and New York.</p>
+        <p>Sure, some will argue that the threat from West Nile virus, which was most likely introduced to the country by an infected mosquito arriving in an airplane, has stabilized. But there are still plenty of people contracting and dying from the disease. Connecticut even experienced an increase in human cases last year. These programs are important to maintain because they provide information on other diseases carried by mosquitoes and are vital to public health preparedness in these times of emerging diseases and bioterrorism threats. Moreover, the budget cuts mean that there will be nobody trained to deal with West Nile virus in the future.</p>
+        <p>In 1999, as the West Nile virus epidemic spread from New York City into the suburbs, state and local health agencies were desperate to find medical entomologists and virologists who could conduct surveillance on the virus in mosquitoes and other wildlife. Controlling mosquitoes was essential in preventing human contact with the virus.</p>
+        <p>Recognizing the shortage of skilled manpower, the C.D.C. financed training programs at academic institutions to recruit and train students in medical entomology and in how to treat mosquito-borne viruses -- skills that had been neglected since the 1960s and '70s, when such diseases were last a public health threat. Severe cuts in the C.D.C.'s West Nile virus program will end these training programs at the four academic institutions receiving grants, including the only one in the Northeast, here at Yale.</p>
+        <p>These cuts will also mean that state and local health departments in this region will be forced to sharply curb or in some cases eliminate West Nile virus surveillance and control. Entomologists and virologists now with several years of experience working with the disease and tracking it may soon find themselves without jobs.</p>
+        <p>The Council of State and Territorial Epidemiologists, a professional association of more than 1,000 public health epidemiologists, and the American Mosquito Control Association have voiced concerns about what these cuts mean for the public. States have complained to the C.D.C., but to no avail. Officials at the agency seem to think that West Nile virus is no longer a priority -- a view that is shared by neither the scientific community nor state epidemiologists.</p>
+        <p>Attendance at the annual meeting of the American Mosquito Control Association has steadily increased since 1999, largely because of increased federal financing for West Nile virus. This year's meeting, in April, was almost as well attended as the group's meetings of 25 years ago, before state and federal budget cuts in the 1980s gutted mosquito-borne disease surveillance and control programs nationwide. (In the aftermath of cuts in the '80s, New York State's mosquito-borne disease program did not hire anyone for 20 years and its surveillance laboratory was scheduled to close until West Nile virus appeared.)</p>
+        <p>No one knew what would happen with the introduction of an exotic mosquito-borne virus back in 1999, and one would think that those scary days would not be forgotten so quickly. While federal financing for biosecurity and public health preparedness has since become a priority, in fact little has been learned from the West Nile virus experience. But these diseases aren't going away. The catalog of mosquito-borne (and tick-borne) viruses lists more than 500 viruses occurring worldwide.</p>
+        <p>West Nile is certainly not the last such virus that will invade the United States given increased globalization, transportation, climate change and bioterrorism. As a major commercial hub, the New York City region is particularly susceptible to introductions of exotic organisms, including human pathogens. Without sustained federal support for surveillance and control of mosquito-borne diseases in the United States, we will again be vulnerable to introduced threats, accidental or not, and incapable of prompt action that could curb or prevent epidemics.</p>
+        <p>Op-Ed Contributor Durland Fish is a professor of epidemiology at Yale School of Public Health.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Durland Fish is a professor of epidemiology at Yale School of Public Health.</tagline>
+    </body.end>
+  </body>
+</nitf>

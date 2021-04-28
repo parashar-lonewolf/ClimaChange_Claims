@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Solar Cell Takes Cue From Plants' Use of Energy</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="482382"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOLAR ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">PHOTOSYNTHESIS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROPHYLL</classifier>
+        <org class="indexing_service">SWISS FEDERAL INSTITUTE OF TECHNOLOGY</org>
+        <person class="indexing_service">GRATZEL, MICHAEL (DR)</person>
+        <person class="indexing_service">O'REGAN, BRIAN</person>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1D8123AF937A15753C1A967958260" item-length="971" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Solar Cell Takes Cue From Plants' Use of Energy</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM W. BROWNE</byline>
+      <byline class="normalized_byline">BROWNE, MALCOLM W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Swiss scientist and his American colleague have borrowed chemical principles from living plants to create a new kind of photovoltaic cell that they hope will help reinvigorate the dream of harvesting vast amounts of electrical energy from the sun.</p>
+        <p>The new solar cell, devised by Dr. Michael Gratzel and his American colleague, Brian O'Regan, working at the Swiss Federal Institute of Technology in Lausanne, is described in a paper being published today by the British journal Nature.</p>
+      </block>
+      <block class="full_text">
+        <p>A Swiss scientist and his American colleague have borrowed chemical principles from living plants to create a new kind of photovoltaic cell that they hope will help reinvigorate the dream of harvesting vast amounts of electrical energy from the sun.</p>
+        <p>The new solar cell, devised by Dr. Michael Gratzel and his American colleague, Brian O'Regan, working at the Swiss Federal Institute of Technology in Lausanne, is described in a paper being published today by the British journal Nature.</p>
+        <p>In an accompanying comment in Nature, Dr. Thomas E. Mallouk of the University of Texas at Austin notes that the new cell uses some of the principles exploited by the chlorophyll in green plants to convert solar energy to chemical energy. The Gratzel-O'Regan cell converts solar energy to electricity more efficiently than its natural vegetable counterpart. In this sense, Dr. Mallouk said, the new cell "is better than the product of a billion years of evolution."</p>
+        <p>Dr. Arthur Nozik of the National Renewable Energy Laboratory at Golden, Colo., an expert in photovoltaic devices, cautions that promising laboratory achievements do not always lead to commercial success. 'Longevity Is a Key Issue'</p>
+        <p>"It remains to be seen how much Gratzel's new cell would cost to make and how long it would last," he said. "Longevity is a key issue for photovoltaic cells. In some earlier experimental cells that, like the Gratzel cell, also contained liquid electrolyte corrosion was a problem. But it's very interesting that Gratzel and O'Regan have achieved such high efficiency. They have made a significant advance in photovoltaics that should certainly be explored."</p>
+        <p>The authors say their new cell would cost much less to manufacture than the cheapest of the current amorphous, or non-crystalline, silicon photovoltaic cells, used in solar-powered calculators. They say the cell can convert diffused sunlight into electric current at an efficiency of 12 percent, about equal to that of the best of the commonly used amorphous silicon cells.</p>
+        <p>Efficiencies up to about 34 percent have been achieved by a much more complex and expensive double-cell technique developed by Sandia National Laboratories and several other institutions. The high cost of these cells makes them suitable only for such special applications as supplying power to space vehicles. 'Fabrication Is No Trouble'</p>
+        <p>The new cell, which encloses a thin layer of liquid electrolyte, can be assembled by applying one layer to the next and gluing the resulting sandwich together at the edges. "Fabrication is no trouble at all," Mr. O'Regan said in an interview. "We've made large sheets of the stuff very easily and cheaply."</p>
+        <p>Like other photovoltaic cells, the Gratzel-O'Regan invention converts the energy from sunlight into electrons. Molecules within the cell hand off the resulting electrons to each other like partners in a square dance, and the electrons ultimately reach a negative electrode, which sends the electric current on to do useful work.</p>
+        <p>A key innovation in the new device is a special dye that uses microscopic molecular antennas to collect sunlight. The dye is a complicated three-cornered molecule made mostly of rings of carbon atoms joined together by atoms of ruthenium. Dr. Gratzel has been developing this type of molecule for more than two decades, although the version incorporated in the new cell was created by a group at the University of Ferrara, Italy, led by Dr. Franco Scandola.</p>
+        <p>The three-cornered geometry of the ruthenium-based dye molecule allows one of its corners to remain in contact with a supporting semiconductor, while the other two corners act as "antennas," which scoop up photons of sunlight. "Excited" by this solar energy, the molecule then emits electrons into the supporting semiconductor.</p>
+        <p>Dr. Mallouk said in an interview that green plants use an analogous chemical antenna system to harvest solar energy and pass it on to chlorophyll molecules, which use it to build carbohydrates from carbon dioxide and water. Transmitting Current</p>
+        <p>To make their cell, Dr. Gratzel and Mr. O'Regan coated microscopic particles of the transparent semiconductor titanium dioxide with molecules of ruthenium-based dye. When a dye molecule is forced by sunlight to emit an electron, the electron passes into the semiconductor, which transmits the resulting current to the negative electrode of the cell.</p>
+        <p>Having lost an electron, the dye must acquire a new one if it is to maintain a current. It does so through contact with a liquid electrolyte containing negatively charged iodide atoms, each of which carries an extra electron. When an iodide atom gives up its electron to the dye, it is transformed into neutral, elemental iodine, which diffuses back through the liquid part of the cell to the positive electrode.</p>
+        <p>Once in contact with that electrode, it acquires an incoming electron from the circuit to which the cell is connected, thereby becoming a negatively charged iodide atom. The latter then drifts to the negative electron, which then renews the cycle.</p>
+        <p>Mr. O'Regan said that a critical part of the design was in picking the right size for the titanium dioxide particles. "We wanted them as small as possible to present the biggest possible surface area to support the dye molecules exposed to sunlight," he said. "At the same time, the particles could not be so small as to block channels between them through which the liquid electrolyte must diffuse."</p>
+        <p>Dr. Mallouk said: "Since the 1980's the low cost of fossil fuels has removed much of the incentive for developing commercial solar cells. Countries where fossil fuels are particularly expensive, Israel and Japan, for example, may be the first to renew the effort. They might be the first to see whether this new cell is commercially realistic."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

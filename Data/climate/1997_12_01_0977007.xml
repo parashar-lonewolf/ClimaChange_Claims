@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Climate Change Glossary</title>
+    <meta content="01GLOS$02" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="977007"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="GLOBAL WARMING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="online_producer" type="types_of_material">Glossary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E1DC163AF932A35751C1A961958260" item-length="438" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Climate Change Glossary</hl1>
+      </hedline>
+      <abstract>
+        <p>Glossary of terms that play important role in climate change debate (M)2</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Here is a brief list of terms that play an important role in the climate change debate:</p>
+      </block>
+      <block class="full_text">
+        <p>Here is a brief list of terms that play an important role in the climate change debate:</p>
+        <p>AEROSOLS -- Particles in the atmosphere. They cool the earth by reflecting sunlight back into space, but disappear far faster than greenhouse gases.</p>
+        <p>ANTHROPOGENIC CLIMATE CHANGE -- Changes in the world's climate system that are a result of human actions.</p>
+        <p>BERLIN MANDATE -- The decision by a 1995 United Nations climate conference in Berlin to seek commitments beyond the 1992 Rio agreement, under which developed nations volunteered to limit greenhouse emissions. Precursor to the Kyoto talks.</p>
+        <p>BOTTOM-UP -- An economic analysis that calculates the costs and benefits of change by identifying specific measures and adding up their consequences.</p>
+        <p>CAP AND TRADE -- The heart of the Clinton Administration plan. In 2008, a limit would be placed on carbon emissions for the next five years, and businesses would be issued permits for their share. The permits would be tradable, and companies that make reductions before then would earn credits.</p>
+        <p>CARBON BUDGET -- The amount of carbon released into the atmosphere by net sources, whether natural factors, like dying plants, or human activities, like burning fossil fuel, minus the amount of carbon absorbed by the ocean, growing green plants and other carbon ''sinks.''</p>
+        <p>FRAMEWORK CONVENTION ON CLIMATE CHANGE -- The pact signed by 166 nations in Rio de Janeiro in 1992 to work to limit harmful human interference with the climate.</p>
+        <p>GREENHOUSE GAS -- The tiny fraction of the atmosphere that traps heat. The main greenhouse gases given off by human activity are carbon dioxide, methane and nitrous oxide. Others are hydrofluorocarbons, perfluorocarbons and sulfur hexachloride. Water vapor also acts as a greenhouse gas.</p>
+        <p>HUMAN SIGNAL -- Evidence of anthropogenic change, as opposed to natural variability. In 1995, the Intergovernmental Panel on Climate Change concluded that ''the balance of evidence suggests that there is a discernible human influence on global climate.''</p>
+        <p>INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE -- The assemblage of scientists, economists and other experts created by the United Nations to advise member nations in climate negotiations.</p>
+        <p>MODELING -- The use of complex computer calculations to simulate the even more complicated interworkings of the earth's climate system.</p>
+        <p>NATURAL VARIABILITY -- The range of events normally found within a climate system. Refers to natural swings and extremes as well as to day-to-day and year-to-year differences.</p>
+        <p>TOP-DOWN -- An economic analysis that measures the costs and benefits of change by establishing a model of an overall economy and then calculating the system-wide consequences of a change in circumstances.</p>
+        <p>GLOBAL WARMING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

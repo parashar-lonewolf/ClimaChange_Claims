@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="22obse" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/08/22/science/22observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1784620"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Kazakhstan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Kazakhstan</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="descriptor">Acoustics</classifier>
+        <classifier class="online_producer" type="descriptor">Plague</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Noise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acoustics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plague</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ships and Shipping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DA123EF931A1575BC0A9609C8B63" item-length="1071" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Starting Slow and Growing Fast</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emulsional Rescue</p>
+        <p>Cooks who have suffered through the heartbreak of a broken hollandaise know that the key to a successful sauce lies in controlling the emulsion.</p>
+        <p>A hollandaise, after all, is simply a mix of oil (melted butter) and water-based ingredients (lemon juice) stabilized by a surfactant (the lecithin in egg yolks). But if you add the butter too quickly or heat the sauce too much, the emulsion can separate.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The cost of surviving difficult times for zebra fish, good weather for plague, ocean noise on the rise and more.</p>
+      </block>
+      <block class="full_text">
+        <p>Emulsional Rescue</p>
+        <p>Cooks who have suffered through the heartbreak of a broken hollandaise know that the key to a successful sauce lies in controlling the emulsion.</p>
+        <p>A hollandaise, after all, is simply a mix of oil (melted butter) and water-based ingredients (lemon juice) stabilized by a surfactant (the lecithin in egg yolks). But if you add the butter too quickly or heat the sauce too much, the emulsion can separate.</p>
+        <p>Controlling emulsions is important in many industrial processes as well, particularly in the oil business. Emulsions are useful, for example, in so-called enhanced oil recovery, getting the last bit of oil from an old field. One method uses a surfactant to emulsify the oil with water, which makes it flow more easily so that it can be pumped out.</p>
+        <p>Unlike a hollandaise, though, in industry an emulsion is often meant to be only temporary. Recovered oil is useless if it cannot be separated from the water, for example.</p>
+        <p>But breaking such emulsions is not always easy. One solution would be using a surfactant whose emulsifying abilities could be turned on or off at will.</p>
+        <p>Yingxin Liu of Queen's University in Kingston, Ontario, and colleagues report such a switchable surfactant in this week's issue of Science.</p>
+        <p>The researchers prepared nitrogen-containing amidine compounds with long carbon-hydrogen chains attached. They reasoned that these compounds would not be good surfactants, but that bubbling carbon dioxide through them would create bicarbonate salts that would be good at holding oil and water together.</p>
+        <p>That turned out to be the case. After exposure to carbon dioxide, the amidines were able to bind a mixture of water and hexadecane, a diesel-type fuel. But the researchers found that the emulsification could be reversed by bubbling argon or nitrogen gas, or even air, through the mixture at 150 degrees Fahrenheit.</p>
+        <p>The on-off switching could be repeated, apparently indefinitely.</p>
+        <p>Good Weather for Plague</p>
+        <p>It's not the great killer it was in medieval times, but bubonic plague is still a threat in certain areas where people come in close contact with rodents or other animals that can carry the bacteria that cause the disease. The bacteria can be spread to people by fleas -- as happens regularly in parts of the southwestern United States, South America, Africa and Asia.</p>
+        <p>The more infected animals around, the greater the risk of an outbreak in people. But what increases the number of animal infections? Some scientists have suggested that climate variability plays a role, and new research out of Central Asia shows this is the case.</p>
+        <p>The research, by Nils C. Stenseth of the University of Oslo and colleagues, looked at the situation in parts of Kazakhstan, where a rodent, the great gerbil, is the primary host of the plague bacteria. The researchers analyzed field data on infected gerbils, flea counts and weather patterns from 1949 to 1995.</p>
+        <p>The researchers found that plague infection in gerbils increased with warmer springs and wetter summers. Their modeling predicts, for example, that a temperature increase of fewer than 2 degrees Fahrenheit in the spring would lead to an increase greater than 50 percent in the prevalence of plague in the rodent population. The findings were reported in The Proceedings of the National Academy of Sciences.</p>
+        <p>The researchers suggest that warmer and wetter conditions in Central Asia in the late 13th century may have contributed to the spread of the Black Death. They note that increasing climate variability in the future may increase the risk of human infections in the region.</p>
+        <p>Ocean Noise Increasing</p>
+        <p>The oceans are far noisier than they used to be, researchers with Whale Acoustics, a private research firm, and the Scripps Institution of Oceanography report in The Journal of the Acoustical Society of America. The researchers compared acoustic data gathered by the Navy off San Diego in the mid-1960's (available now in declassified documents) with data from 2003-4, and found that noise levels were 10 to 12 decibels higher now. The researchers say increased shipping is responsible.</p>
+        <p>Starting Slow and Growing Fast</p>
+        <p>The human body can take a lot of abuse. If it doesn't get proper nutrients when growing, for example, it can eventually recover. Studies have shown that children whose growth is stunted by malnourishment can compensate by accelerating their growth once their diet improves. They eventually catch up.</p>
+        <p>For Pat Monaghan and colleagues at the University of Glasgow, the question is, If humans (and other animals) can grow faster under such conditions, why don't they grow faster all the time? ''There must be some costs to doing that,'' Dr. Monaghan said.</p>
+        <p>So she, Michael O. Fisher and Ruedi G. Nager set out to determine what those costs might be. They studied zebra finches, not people, and found that catch-up growth affected the birds' mental skills. The findings were published in the journal Public Library of Science Biology.</p>
+        <p>The birds were given diets of differing quality during their first 20 days; then all were fed normally into adulthood. The birds that got a poor diet were smaller, but accelerated their growth rates afterward and reached normal size. As adults, all the birds were made to learn a task in which they associated food with a certain color.</p>
+        <p>Dr. Monaghan said one might expect that those birds whose growth was stunted the most in the first 20 days on would show the worst performance. But the researchers found no correlation between degree of stunted growth and cognitive ability.</p>
+        <p>Instead, the birds that grew the fastest to catch up had the most difficulty learning. ''If you look within the group that all accelerated,'' she said, ''those that accelerated the most are the ones who showed the worst performance.''</p>
+        <p>Why would faster growth affect brainpower? There could be a physiological effect as more resources are devoted to other parts of the body, a case of ''throwing together a poorer-built body in order to get there on time,'' she said. Or there could be some kind of personality change, an attention-deficit problem caused by the stress of faster growth.</p>
+        <p>Regardless, it is clear there are costs to growing faster. So why bother to catch up? For reasons of Darwinian fitness, Dr. Monaghan said.</p>
+        <p>''It's better to be big and have a chance of getting a mate and all that than to be small and not get a mate,'' she said. ''If you're big and maybe not so bright, you're still better off.''</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

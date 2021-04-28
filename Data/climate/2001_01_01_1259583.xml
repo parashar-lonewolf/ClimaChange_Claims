@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Clean, White Slate</title>
+    <meta content="01MON2$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/01/opinion/01MON2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1259583"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <classifier class="indexing_service" type="descriptor">Two Thousand (Year)</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E2D7153BF932A35752C0A9679C8B63" item-length="562" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Clean, White Slate</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial says it seems appropriate that 2000 should end with walloping northeaster drawing snow down in heaps from solid ceiling of clouds0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Somehow, it seems appropriate that 2000 should have ended with a winter storm worth remembering, a walloping northeaster drawing snow down in heaps from a solid ceiling of clouds. This was the kind of storm that is preceded most richly by anticipation, by the heraldry of radar and rumor, bringing in advance a seasonal glibness to almost everyone in its potential path, everyone, that is, who was not required to travel. On Saturday morning, the weather drew people to their windows again and again to see how fast the snow was falling, then to see if the fire hydrant had disappeared, then to worry whether the plows were coming. And as always when a storm of this dimension crosses New York City, what it brings in greatest abundance is a muffled hush, the sound of nothing doing.</p>
+        <p>A winter storm is episodic by nature, whether it marches on an arctic track out of the west or rides upward along the coast from the south, as this one did, congealing as it comes. But it has been a long time -- almost five years -- since the last episode of this magnitude. And though this storm was the lesser of the two -- closing airports but not highways, dropping only about half the snow the storm did that shut down the region in January 1996 -- it was still strangely reassuring, if only as a plausible reminder of what true winter really means. Many seeds require a period of cold, called stratification, before they will germinate. Thanks to this storm, residents of the Northeast can consider themselves properly stratified.</p>
+      </block>
+      <block class="full_text">
+        <p>Somehow, it seems appropriate that 2000 should have ended with a winter storm worth remembering, a walloping northeaster drawing snow down in heaps from a solid ceiling of clouds. This was the kind of storm that is preceded most richly by anticipation, by the heraldry of radar and rumor, bringing in advance a seasonal glibness to almost everyone in its potential path, everyone, that is, who was not required to travel. On Saturday morning, the weather drew people to their windows again and again to see how fast the snow was falling, then to see if the fire hydrant had disappeared, then to worry whether the plows were coming. And as always when a storm of this dimension crosses New York City, what it brings in greatest abundance is a muffled hush, the sound of nothing doing.</p>
+        <p>A winter storm is episodic by nature, whether it marches on an arctic track out of the west or rides upward along the coast from the south, as this one did, congealing as it comes. But it has been a long time -- almost five years -- since the last episode of this magnitude. And though this storm was the lesser of the two -- closing airports but not highways, dropping only about half the snow the storm did that shut down the region in January 1996 -- it was still strangely reassuring, if only as a plausible reminder of what true winter really means. Many seeds require a period of cold, called stratification, before they will germinate. Thanks to this storm, residents of the Northeast can consider themselves properly stratified.</p>
+        <p>In the country, the storm meant a chance, when the gusts were strongest, to pretend that one had been shifted northward in latitude to the shores of Baffin Bay, or backward in time to the middle of the last glaciation, when ice sheets rumbled southward across Canada. The snow skidded around the compass with the wind, and though the storm never reached the blizzard conditions forecasters predicted, it was strong enough at times to blot out the dark edge of the forest, to erase stone walls, to weigh down the hemlocks, giving them a more pendulous motion than they usually have. The falling and blowing snow stole color right out of the air, turning a cardinal in a mock-orange bush into an indistinct rose-gray blob. By Saturday night the snow in the fields was fox-deep.</p>
+        <p>It will stay cold enough this coming week to keep the snow on the move, blowing, drifting,  redrawing the landscape again and again. But  because there is an extra day of grace in this weekend, a day to dig out or dig in, getting to work tomorrow will not be half as bad as it might have been. Deep as the snow lies, it is virtually a diversion to us and winter only a pale, warm shadow of its ancestral self.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

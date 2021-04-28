@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Votes in Congress</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="333878"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CLEAN AIR ACT</classifier>
+        <classifier class="online_producer" type="types_of_material">LIST</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDE1F3FF932A25750C0A966958260" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Votes in Congress</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Tally Last Week in Connecticut, New Jersey and New York</p>
+        <p>Senate</p>
+        <p>1. Clean Air Act: Vote to amend the Clean Air Act to strike a provision that removes the existing authority of the Environmental Protection Agency and the states from regulating radioactive emissions at Nuclear Regulatory Commission centers, by making the commission the sole regulator.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Tally Last Week in Connecticut, New Jersey and New York</p>
+        <p>Senate</p>
+        <p>1. Clean Air Act: Vote to amend the Clean Air Act to strike a provision that removes the existing authority of the Environmental Protection Agency and the states from regulating radioactive emissions at Nuclear Regulatory Commission centers, by making the commission the sole regulator.</p>
+        <p>Tally Last Week in Connecticut, New Jersey and New York</p>
+        <p>Senate</p>
+        <p>1. Clean Air Act: Vote to amend the Clean Air Act to strike a provision that removes the existing authority of the Environmental Protection Agency and the states from regulating radioactive emissions at Nuclear Regulatory Commission centers, by making the commission the sole regulator.</p>
+        <p>Defeated 61 to 36, March 7.</p>
+        <p>2. Clean Air Act: Vote to amend the Clean Air Act to modify Federal procurement practices to insure that chemicals known to harm human health or the environment are not used as substitutes for chemicals that destroy the ozone layer. Approved 80 to 16, March 8.</p>
+        <p>$</p>
+        <p>1</p>
+        <p>2</p>
+        <p>Connecticut</p>
+        <p>Dodd (D)</p>
+        <p>N</p>
+        <p>Y</p>
+        <p>Lieberman (D)</p>
+        <p>N</p>
+        <p>Y</p>
+        <p>New Jersey</p>
+        <p>Bradley (D)</p>
+        <p>N</p>
+        <p>Y</p>
+        <p>Lautenberg (D)</p>
+        <p>N</p>
+        <p>Y</p>
+        <p>New York</p>
+        <p>D'Amato (R)</p>
+        <p>N</p>
+        <p>Y</p>
+        <p>Moynihan (D)</p>
+        <p>N</p>
+        <p>Y</p>
+        <p>There were no votes in the House of Representatives.</p>
+        <p>KEY Y Yea; N Nay; (A) Absent or did not vote; (P) Present.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Texas Coal Plants</title>
+    <meta content="l11coal" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20061213T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1811184"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E6DA1431F932A25751C1A9609C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Texas Coal Plants</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Taming King Coal'' (editorial, Nov. 25) did not mention several important facts about TXU's proposal to provide additional reliable, affordable and cleaner energy to Texas.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Taming King Coal'' (editorial, Nov. 25) did not mention several important facts about TXU's proposal to provide additional reliable, affordable and cleaner energy to Texas.</p>
+        <p>First, you do not note Texas's looming shortfall of reliable electric supply. Without additional electricity generation, Texas is expected to fall below reliable levels by 2008.</p>
+        <p>TXU's comprehensive plan includes doubling our wind power, greater conservation and energy efficiency, and energy from a diverse fuel portfolio.</p>
+        <p>Regarding the new, advanced coal technology we intend to use, these plants will be 80 percent cleaner than today's average United States coal plant. We will offset 100 percent of key emissions from the new plants and further reduce emissions from current levels by an additional 20 percent.</p>
+        <p>You cite I.G.C.C. technology (integrated gasification combined cycle) for coal. We are investing in I.G.C.C. development, but the technology is not yet ready for large-scale commercial operation. Ironically, the Times article you cite in the editorial includes an expert who believes that coal is more attractive at this point.</p>
+        <p>On carbon dioxide, displacing older, less efficient plants with newer, more efficient ones like those in our proposal makes sense today. We are also developing new technologies for the future.</p>
+        <p>We are building our new plants carbon capture-ready so that new technologies can be added when viable.</p>
+        <p>Mike McCall  Chairman and Chief Executive  TXU Wholesale  Dallas, Dec. 1, 2006</p>
+        <p>Correction:  December 13, 2006, Wednesday  Because of an editing error, a letter on Monday from Mike McCall, chairman and chief executive of TXU Wholesale in Dallas, responding to a Nov. 25 editorial, ''Taming King Coal,'' included an imprecise sentence. It should have read:</p>
+        <p>''Ironically, the Times article you cite in the editorial includes an expert who believes that our technology is more attractive at this point.''</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: December 13, 2006, Wednesday</p>
+        <p>Because of an editing error, a letter on Monday from Mike McCall, chairman and chief executive of TXU Wholesale in Dallas, responding to a Nov. 25 editorial, ''Taming King Coal,'' included an imprecise sentence. It should have read:</p>
+        <p>''Ironically, the Times article you cite in the editorial includes an expert who believes that our technology is more attractive at this point.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

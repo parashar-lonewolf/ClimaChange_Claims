@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nuclear Power: Solution or Problem?</title>
+    <meta content="LTR232805" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1673921"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E7DB1439F933A15756C0A9639C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nuclear Power: Solution or Problem?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>There is no solution to the twin problems of the world's energy needs and carbon dioxide emissions that does not include a nuclear component. But that does not necessarily mean that we must accept the waste and dangers of proliferation inherent in current reactor technologies, which would require more and more Yucca Mountains for waste storage.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>There is no solution to the twin problems of the world's energy needs and carbon dioxide emissions that does not include a nuclear component. But that does not necessarily mean that we must accept the waste and dangers of proliferation inherent in current reactor technologies, which would require more and more Yucca Mountains for waste storage.</p>
+        <p>The nation must invest in research in technologies that can turn existing waste, as well as weapons-grade materials, into energy and ensure that the reactors of the future will leave behind much smaller quantities of much less dangerous waste.</p>
+        <p>These technologies are within reach, and the Department of Energy's national laboratories are poised to demonstrate them, given the necessary resources.</p>
+        <p>Don M. Randel  Chicago, May 16, 2005</p>
+        <p>The writer is president of the University of Chicago.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

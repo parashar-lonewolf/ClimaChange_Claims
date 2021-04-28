@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>July 3-9; Across America, a Week When Extreme Weather Was the Norm</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week In Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="698619"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">FLOODS</classifier>
+        <classifier class="indexing_service" type="descriptor">RAIN</classifier>
+        <location class="indexing_service">GEORGIA</location>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5D7143FF933A25754C0A962958260" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>July 3-9; Across America, a Week When Extreme Weather Was the Norm</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Photo: Record rainfall and vicious floods in Georgia. A heat wave in New York. Lethal wildfires in the dry Rockies. One way or another, last week's extreme weather events and their consequences were linked in ways climatologists can describe but not fully understand.</p>
+        <p>Georgia's pain came from the remnants of tropical storm Alberto, a near-hurricane of relatively little fury but much moisture that dawdled inland from the Gulf of Mexico, moving so slowly that it could drop 21.1 inches of rain on Americus in 24 hours, an state record.</p>
+      </block>
+      <block class="full_text">
+        <p>Photo: Record rainfall and vicious floods in Georgia. A heat wave in New York. Lethal wildfires in the dry Rockies. One way or another, last week's extreme weather events and their consequences were linked in ways climatologists can describe but not fully understand.</p>
+        <p>Georgia's pain came from the remnants of tropical storm Alberto, a near-hurricane of relatively little fury but much moisture that dawdled inland from the Gulf of Mexico, moving so slowly that it could drop 21.1 inches of rain on Americus in 24 hours, an state record.</p>
+        <p>The storm was kept in place largely by a big Bermuda high-pressure system over the Atlantic that also breathed damp heat on New York. The Bermuda high, in turn, was part of a sub-tropical band of high-pressure systems girdling the globe. Other parts of the band caused northern India, and then the American Southwest, to broil in temperatures of 120 degrees and more last month. The southwestern high also helped create the conditions for last week's wildfires by delaying the annual arrival in the Rockies of moisture-giving monsoon winds off the Pacific. Twelve elite wildfire fighters burned to death in the tinderbox of Colorado.</p>
+        <p>Extremes of weather have become more common around the world in the last decade, but scientists are at a loss to explain why. A slight global warming, either natural or man-made, is one suspect, but climatologists have no way of knowing for sure. Changes in ocean temperature and circulation that touch off chain reactions within the atmosphere are a prime suspect, but scientists are only beginning to understand how the dauntingly complex ocean-atmosphere system functions.</p>
+        <p>So while the world suffers, it will have to wait a while longer for explanations. WILLIAM K. STEVENS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

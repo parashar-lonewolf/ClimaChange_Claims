@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Catherine O'Hara, Jonathan Edwards</title>
+    <meta content="13OHAR$01" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/07/13/fashion/weddings/13OHAR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1504086"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">O'HARA, CATHERINE MAXWELL (CATHERINE MAXWELL EDWARDS)</person>
+        <person class="indexing_service">EDWARDS, JONATHAN SCOTT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EFDA113DF930A25754C0A9659C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Catherine O'Hara, Jonathan Edwards</hl1>
+        <hl2 class="online_headline">Catherine O'Hara, Jonathan Edwards</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Catherine Maxwell O'Hara and Jonathan Scott Edwards were married yesterday by the Rev. Roger L. Prokop, a Roman Catholic priest, at Our Lady of the Snows Church in Woodstock, Vt.</p>
+        <p>Mrs. Edwards, 37, is a fund-raising director at Amherst College in Amherst, Mass., from which she graduated. She received an M.B.A. from Insead, the business school in Fontainebleau, France.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Catherine O'Hara, Jonathan Edwards Catherine Maxwell O'Hara and Jonathan Scott Edwards were married yesterday by the Rev. Roger L. Prokop, a Roman Catholic priest, at Our Lady of the Snows Church in Woodstock, Vt.</p>
+      </block>
+      <block class="full_text">
+        <p>Catherine Maxwell O'Hara and Jonathan Scott Edwards were married yesterday by the Rev. Roger L. Prokop, a Roman Catholic priest, at Our Lady of the Snows Church in Woodstock, Vt.</p>
+        <p>Mrs. Edwards, 37, is a fund-raising director at Amherst College in Amherst, Mass., from which she graduated. She received an M.B.A. from Insead, the business school in Fontainebleau, France.</p>
+        <p>She is a daughter of Mr. and Mrs. F. Peter O'Hara of Rye, N.Y. Her father, who retired as a senior partner in Cullen &amp; Dykman, a Brooklyn law firm, is a deputy town attorney for Greenburgh, N.Y. Her mother, Robbie O'Hara, was a founder and president of the New York State chapter of the Alexander Graham Bell Association for the Deaf and Hard of Hearing.</p>
+        <p>Mr. Edwards, 40, is the director of external affairs at SmartPower, a Hartford marketing organization, which promotes renewable energy use in the Northeast. He graduated from Skidmore College, and received a master's degree in public administration from the University of Massachusetts at Amherst.</p>
+        <p>He is a stepson of Suzanne De Pree of Whately, Mass., and a son of the late Raymond Edwards and of the late Constance Kambour Edwards. His stepmother retired as a family psychologist in Whately. His father was a superintendent of public schools in Hanover, N.H.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

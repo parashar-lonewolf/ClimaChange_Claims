@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Duke Case, Reconsidered</title>
+    <meta content="l01brooks-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1765870"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lacrosse</classifier>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <location class="indexing_service">Durham (Nc)</location>
+        <org class="indexing_service">Duke University</org>
+        <person class="indexing_service">Kelter, Paul (Prof)</person>
+        <person class="indexing_service">Brooks, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina/Durham</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lacrosse</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E5DB1631F932A35755C0A9609C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Duke Case, Reconsidered</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Paul Kelter letter, prompted by David Brooks May 28 column on rape allegations against several members of Duke University lacrosse team, says Brooks took cheap shot by calling some of those who rushed to judgment 'tenured left'</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>David Brooks (''The Duke Witch Hunt'') took an irrelevant and cheap shot by writing, ''For many on the tenured left, bashing people like that is all that's left of their once-great activism.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>David Brooks (''The Duke Witch Hunt'') took an irrelevant and cheap shot by writing, ''For many on the tenured left, bashing people like that is all that's left of their once-great activism.''</p>
+        <p>He presented no evidence that any bashing was being done by anyone on the ''tenured left.''</p>
+        <p>If I understand what he means by the ''tenured left,'' then I stand proudly among its members.</p>
+        <p>Our opposition to the Iraq war, the concern about global warming and the consumption of nonrenewable natural resources, the importance of government financing to prevent hunger and ill health and general support for the common good are not indications of outdated activism but rational positions worth having and fighting for.</p>
+        <p>Paul Kelter  Urbana, Ill., May 28, 2006</p>
+        <p>The writer is a chemistry professor at the University of Illinois at Urbana-Champaign.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

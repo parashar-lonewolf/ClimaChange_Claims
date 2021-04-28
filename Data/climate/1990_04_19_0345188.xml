@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEWS SUMMARY</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="345188"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D91030F93AA25757C0A966958260" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEWS SUMMARY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>Bush on Global Warming</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>Bush on Global Warming</p>
+        <p>Bush on Global Warming</p>
+        <p>Responding to criticism by European delegates at a White House conference on global warming, the President denied that the American position was one of inaction. Page B4.</p>
+        <p>New Barriers for Takeovers</p>
+        <p>Pennsylvania is expected to enact the nation's most far-reaching anti-takeover law, which raises issues that will affect how companies are managed in the 1990's. Page D1.</p>
+        <p>3d Area Code for New York</p>
+        <p>A third area code is planned for New York City because the 212 area, covering Manhattan and the Bronx, is running out of numbers. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

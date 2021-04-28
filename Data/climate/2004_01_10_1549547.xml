@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Final Frontier, And Earthly Needs</title>
+    <meta content="LTR230957" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1549547"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Moon</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars (Planet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Alexander, Charles</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E4D61630F933A25752C0A9629C8B63" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Final Frontier, And Earthly Needs</hl1>
+      </hedline>
+      <abstract>
+        <p>Charles Alexander letter opposes Pres Bush's plan to establish base on moon as prelude to sending humans to Mars; holds that if Congress approves big-ticket technology program, top priority should be crash effort to achieve energy independence</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Bush Will Offer Major Initiative to Explore Space'' (front page, Jan. 9):</p>
+        <p>Why does the president want to establish a base on the moon as a prelude to sending humans to Mars when we are destroying our own base of life on earth?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Bush Will Offer Major Initiative to Explore Space'' (front page, Jan. 9):</p>
+        <p>Why does the president want to establish a base on the moon as a prelude to sending humans to Mars when we are destroying our own base of life on earth?</p>
+        <p>I don't know where he expects to get the money for his initiative, given his insistence on huge federal tax cuts and deficits, but if Congress approves a big-ticket technology program, the top priority should be a crash effort to achieve energy independence. And by that I don't mean drilling for a few more barrels of oil in the Alaska wilderness.</p>
+        <p>America's scientific and engineering talent should be redirected toward the mass deployment of alternative energies like wind and solar power. Ending our dependence on fossil fuels will keep us from financing terrorism in the Middle East and help us slow down climate change.</p>
+        <p>We have a leader who doesn't comprehend the most serious challenge we face. Exploring other planets is an exciting idea, but it is a wasteful luxury when our own planet is in danger.</p>
+        <p>CHARLES ALEXANDER  Brooklyn, Jan. 9, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

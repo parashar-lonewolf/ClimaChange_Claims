@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Can America Quench Its Thirst?</title>
+    <meta content="LTR001946" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1374414"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Rain</classifier>
+        <classifier class="indexing_service" type="descriptor">Shortages</classifier>
+        <classifier class="indexing_service" type="descriptor">Drought</classifier>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <person class="indexing_service">Gleick, Peter H</person>
+        <person class="indexing_service">Supkis, Elaine</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drought</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shortages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020310T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E6DD1639F933A25750C0A9649C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Can America Quench Its Thirst?</hl1>
+      </hedline>
+      <abstract>
+        <p>Elaine Supkis letter on Peter H Gleick's Mar 4 article holds wild swings in rainfall are becoming more pronounced; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a farmer in upstate New York, I can see that the wild swings in rainfall are becoming more and more pronounced (''Preparing for a Drought,'' by Peter H. Gleick, Op-Ed, March 4). We go from nonstop rain to drought.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a farmer in upstate New York, I can see that the wild swings in rainfall are becoming more and more pronounced (''Preparing for a Drought,'' by Peter H. Gleick, Op-Ed, March 4). We go from nonstop rain to drought.</p>
+        <p>I remember one summer when farmers outside Rochester had no rain at all, and the farms looked like the Texas Panhandle. My farm has suffered from four-  to six-inch rainfalls that punctuate the general dryness.</p>
+        <p>Also, my old trees are dying rapidly thanks to acid rain, a problem that stems from the burning of fossil fuels. And under the Bush administration's policies, this is likely to get much worse. Moreover, American troops are trying to ''secure'' oil-producing countries so we can consume even more fossil fuels.</p>
+        <p>ELAINE SUPKIS  Petersburgh, N.Y., March 4, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

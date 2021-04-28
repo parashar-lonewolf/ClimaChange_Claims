@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clean Energy Projects</title>
+    <meta content="L16LIP$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1456851"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Wind</classifier>
+        <classifier class="indexing_service" type="descriptor">Solar Energy</classifier>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Long Island Power Authority</org>
+        <person class="indexing_service">Kessel, Richard M</person>
+        <person class="indexing_service">Pataki, George E (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E7D61031F935A25752C0A9659C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clean Energy Projects</hl1>
+      </hedline>
+      <abstract>
+        <p>Long Island Power Authority chairman Richard M Kessel le</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Gov. George E. Pataki's announcement in his State of the State address (''Pataki Backs Wind and Solar Power,'' news article, Jan. 9) is a major step forward in protecting New York's environment and establishing a national standard for clean energy resources that will reduce our country's dependence on foreign oil and other fossil fuels.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Gov. George E. Pataki's announcement in his State of the State address (''Pataki Backs Wind and Solar Power,'' news article, Jan. 9) is a major step forward in protecting New York's environment and establishing a national standard for clean energy resources that will reduce our country's dependence on foreign oil and other fossil fuels.</p>
+        <p>The Long Island Power Authority is committed to leading New York State in achieving the governor's goal of reaching a 25 percent standard for New York's electricity supply coming from renewable resources and technologies.</p>
+        <p>Governor Pataki's proposal is beginning to take place on Long Island, where, at his direction, LIPA has built one of the largest commercial solar roofs in the world and is in the process of developing North America's first offshore wind project.</p>
+        <p>Future generations will benefit from the governor's vision in recognizing the wisdom of renewable technologies as a major source of energy.</p>
+        <p>RICHARD M. KESSEL  Chmn., Long Island Power Authority  Uniondale, N.Y., Jan. 10, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

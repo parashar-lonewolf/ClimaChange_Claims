@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Turning On the Lights Where Electricity Is Rare</title>
+    <meta content="15BATT$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/02/15/science/15batt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1650056"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Rural Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Batteries</classifier>
+        <classifier class="indexing_service" type="descriptor">Fluorescent Bulbs</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Kerosene</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Columbia University</org>
+        <person class="indexing_service">Revkin, Andrew</person>
+        <person class="indexing_service">Modi, Vijay (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Batteries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rural Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E1D8153AF936A25751C0A9639C8B63" item-length="454" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Turning On the Lights Where Electricity Is Rare</hl1>
+        <hl2 class="online_headline">Turning On the Lights Where Electricity Is Rare</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew</byline>
+      <abstract>
+        <p>Dr Vijay Modi, Columbia University mechanical engineering department chairman, leads team of researchers working to provide electricity to rural areas worldwide that are not part of electrical grid; team has built lunchbox-size battery pack and fluorescent lighting fixture that supplies four hours of light per night to households while consuming only one kilowatt-hour per month; device is around same cost as buying kerosene for lamps and provides much greater illumination (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It will be years before many of the 1.6 billion people still cooking, studying and working by the flickering light of kerosene lamps get on the grid, so engineers are trying in the meantime to improve on an existing improvised transmission system for electricity in poor rural areas -- battery brigades.</p>
+        <p>In many parts of Africa, for example, the first source of electricity has been car batteries, which are lugged every few days to towns to be recharged from diesel generators in ways that often shorten battery life and at rates that are 20 to 30 times as high as those paid by Americans.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Engineers are trying to improve on an existing improvised transmission system for electricity in poor rural areas  battery brigades.</p>
+      </block>
+      <block class="full_text">
+        <p>It will be years before many of the 1.6 billion people still cooking, studying and working by the flickering light of kerosene lamps get on the grid, so engineers are trying in the meantime to improve on an existing improvised transmission system for electricity in poor rural areas -- battery brigades.</p>
+        <p>In many parts of Africa, for example, the first source of electricity has been car batteries, which are lugged every few days to towns to be recharged from diesel generators in ways that often shorten battery life and at rates that are 20 to 30 times as high as those paid by Americans.</p>
+        <p>In Uganda, where more than 80 percent of the population lives on $1 a day, more than $100 million is being spent each year on small dry-cell batteries for radios and lighting.</p>
+        <p>Now researchers at Columbia University have proposed a way to exploit the best attribute of batteries, their portability, while sharply cutting the costs of bringing power to far-flung settlements.</p>
+        <p>A team led by Dr. Vijay Modi, the chairman of Columbia's mechanical engineering department, has built a lunchbox-size battery pack and plug-in fluorescent fixture that can supply four hours of light to a household each night while consuming just one kilowatt-hour per month.</p>
+        <p>''In the U.S., an average home consumes this much electricity in a little less than one hour,'' Dr. Modi said.</p>
+        <p>Special circuitry protects the battery from faulty, damaging charging. Such devices could be made for $30, cheap enough to lease at a rate of about $2 a month, the typical cost of buying kerosene for lamps, while providing nearly 20 times as much illumination, he said.</p>
+        <p>In the ideal system, the batteries would be brought to school each day by children, where they could be efficiently charged from a generator or the power grid.</p>
+        <p>Dr. Modi said diesel generators would be fine for now, given that rural regions constitute a tiny portion of the global emissions of greenhouse gases and other pollution -- and because newer technologies like solar cells remain costly.</p>
+        <p>So far, Dr. Modi said, international aid for energy projects has been focused mainly on hydroelectric dams and other centralized components of modern power supplies.</p>
+        <p>''In these early transitional stages of development,'' he said, ''perhaps the first step is simply to help people with what they are already trying to do.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

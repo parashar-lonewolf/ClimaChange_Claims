@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Uses and Abuses of Science</title>
+    <meta content="23MON3" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/23/opinion/23MON3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1561184"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <org class="indexing_service">Union of Concerned Scientists</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <org class="online_producer">Union of Concerned Scientists</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040223T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E3D8163CF930A15751C0A9629C8B63" item-length="446" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Uses and Abuses of Science</hl1>
+        <hl2 class="online_headline">Uses and Abuses of Science</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial on Union of Concerned Scientists report scores Bush administration for shamelessly distorting scientific findings for policy reasons and suppressing them when they conflict with policy goals; cites failure of Bush and his supporters to deny any of incidents listed in report had occured</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Although the Bush administration is hardly the first to politicize science, no administration in recent memory has so shamelessly distorted scientific findings for policy reasons or suppressed them when they conflict with political goals. This is the nub of an indictment delivered last week by more than 60 prominent scientists, including 20 Nobel laureates. Their statement was accompanied by a report published by the Union of Concerned Scientists, listing cases where the administration has manipulated science on environmental and other issues.</p>
+        <p>President Bush's supporters promptly denounced the statement and the report as an overdrawn and politically motivated work issued in an election year by an advocacy group known for its liberal disposition. Tellingly, however, neither Mr. Bush's friends nor the White House denied that any of the incidents listed in the report -- all had been reported before in newspapers, trade magazines and scientific journals -- had occurred. The best they could muster was a lame rejoinder from Dr. John Marburger III, Mr. Bush's science adviser, who said that these were disconnected episodes reflecting normal bureaucratic disagreements, none of them adding up to a ''a pattern'' of distortion or disrespect for science.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new report from the Union of Concerned Scientists details how the administration has distorted scientific findings for policy reasons.</p>
+      </block>
+      <block class="full_text">
+        <p>Although the Bush administration is hardly the first to politicize science, no administration in recent memory has so shamelessly distorted scientific findings for policy reasons or suppressed them when they conflict with political goals. This is the nub of an indictment delivered last week by more than 60 prominent scientists, including 20 Nobel laureates. Their statement was accompanied by a report published by the Union of Concerned Scientists, listing cases where the administration has manipulated science on environmental and other issues.</p>
+        <p>President Bush's supporters promptly denounced the statement and the report as an overdrawn and politically motivated work issued in an election year by an advocacy group known for its liberal disposition. Tellingly, however, neither Mr. Bush's friends nor the White House denied that any of the incidents listed in the report -- all had been reported before in newspapers, trade magazines and scientific journals -- had occurred. The best they could muster was a lame rejoinder from Dr. John Marburger III, Mr. Bush's science adviser, who said that these were disconnected episodes reflecting normal bureaucratic disagreements, none of them adding up to a ''a pattern'' of distortion or disrespect for science.</p>
+        <p>We respectfully urge Dr. Marburger to look again. On global warming alone, the administration belittled, misrepresented, altered or quashed multiple reports suggesting a clear link between greenhouse gas emissions and the burning of fossil fuels like coal and oil. A study detailing the impact of mercury emissions from power plants was sanitized to industry specifications. Another study suggesting that a Congressional clean-air bill would achieve greater pollution reductions than Mr. Bush's own plan, at approximately the same cost, was withheld. It does not take much effort to find a pattern of suppressing inconvenient facts that might force Mr. Bush's friends in the oil, gas and coal industries to spend more on pollution control.</p>
+        <p>The report details similar shenanigans involving other agencies, including Agriculture, Interior and even, on reproductive health issues, the Centers for Disease Control. It also criticizes the administration for stacking advisory committees with industry representatives and disbanding panels that provided unwanted advice. Collected in one place, this material gives a portrait of governmentwide insensitivity to scientific standards that, unless corrected, will further undermine the administration's credibility and the morale of its scientists.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

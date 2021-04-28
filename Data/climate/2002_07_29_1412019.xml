@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A National Snapshot</title>
+    <meta content="29MON3" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/07/29/opinion/29MON3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1412019"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Census</classifier>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <org class="indexing_service">Census Bureau</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Census</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <location class="online_producer">United States</location>
+        <org class="online_producer">Census Bureau</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EFD91338F93AA15754C0A9649C8B63" item-length="393" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A National Snapshot</hl1>
+        <hl2 class="online_headline">A National Snapshot</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial on findings of 2000 national census showing nation that has grown to almost four times size it was century ago; notes that one out of every nine residents is foreign born; comments on economic, social and political ramifications of changes in populace</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Every decade, by order of the United States Constitution, America counts its inhabitants and, in the process, takes a valuable snapshot of itself. The 2000 national census instantly told us that the country had grown to almost four times the size it was a century ago. Now, as the Census Bureau reveals the richer details from that counting, we can find clues about exactly how the populace has changed.</p>
+        <p>One out of every nine residents is now foreign-born, and we have already seen some of the responses. On the one hand, politicians from coast to coast are signing up for Spanish lessons. On the other, radio ads in still-homogeneous states somberly warn that if the borders aren't closed, Des Moines will soon look like Los Angeles or New York. While that sort of improbable paranoia is hard to worry about, the extent of the xenophobia now infecting parts of Europe is a reminder of how important it is to stand behind the concept of the United States as a nation of immigrants.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As the United States Census Bureau reveals the richer details from the counting in 2000, we can find clues about exactly how the populace has changed over the last decade.</p>
+      </block>
+      <block class="full_text">
+        <p>Every decade, by order of the United States Constitution, America counts its inhabitants and, in the process, takes a valuable snapshot of itself. The 2000 national census instantly told us that the country had grown to almost four times the size it was a century ago. Now, as the Census Bureau reveals the richer details from that counting, we can find clues about exactly how the populace has changed.</p>
+        <p>One out of every nine residents is now foreign-born, and we have already seen some of the responses. On the one hand, politicians from coast to coast are signing up for Spanish lessons. On the other, radio ads in still-homogeneous states somberly warn that if the borders aren't closed, Des Moines will soon look like Los Angeles or New York. While that sort of improbable paranoia is hard to worry about, the extent of the xenophobia now infecting parts of Europe is a reminder of how important it is to stand behind the concept of the United States as a nation of immigrants.</p>
+        <p>The census also sent warnings about a more mundane problem -- traffic. More than three-quarters of Americans drive to work, with the average commute up from 22.4 minutes in 1990 to 25.5 minutes now. Monster traffic jams have spread to monster suburbs around cities like Atlanta. At some point, as the globe warms and the icecaps melt from burning fossil fuels, this nation of commuters will be steaming too long in their cars and will begin transferring their anger where it belongs -- to Congress and the White House.</p>
+        <p>The census also shows why health care has started to rank high on every poll of voters' concerns -- the nation is growing older as the steadily wrinkling baby boomer group adjusts the nation's median age upward to 35.3 years compared with 32.9 years a decade ago. Some areas of Florida have already begun outfitting ramps and slowing down stoplights for the elderly. The rest of the nation will soon have to follow.</p>
+        <p>Many Americans reported a dramatic improvement in their income by 2000, although their sense of good fortune may have taken a beating lately. But even at the height of the economic boom, the level of poverty showed little improvement -- a sign that the rising tide had left plenty of boats on shore.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

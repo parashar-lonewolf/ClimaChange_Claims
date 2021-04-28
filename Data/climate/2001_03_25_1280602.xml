@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Park That Will Last as Long as a Summer Romance</title>
+    <meta content="25PARK$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1280602"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="NEIGHBORHOOD REPORT: BATTERY PARK CITY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Recycling of Waste Materials</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Princeton University</org>
+        <org class="indexing_service">Battery Park City Authority</org>
+        <person class="indexing_service">Goldman, Sindy</person>
+        <person class="indexing_service">Shillingburg, Donald</person>
+        <person class="indexing_service">Carlock, Greg</person>
+        <person class="indexing_service">Linzee, Jeremy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010325T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EFDA153CF936A15750C0A9679C8B63" item-length="573" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Park That Will Last as Long as a Summer Romance</hl1>
+      </hedline>
+      <byline class="print_byline">By SINDY GOLDMAN</byline>
+      <byline class="normalized_byline">Goldman, Sindy</byline>
+      <abstract>
+        <p>Princeton Architecture School students Donald Shillingburg, Greg Carlock and Jeremy Linzee, under commission from Battery Park City Authority, have designed and are building one-acre temporary park, using both farming techniques and resources indigenous to urban setting, that can be recycled by October; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When is a park not a park? When it's designed by Princeton Architecture School students, destroys itself in six months and can be completely recycled.</p>
+        <p>In January, the Battery Park City Authority commissioned Donald Shillingburg, a 29-year-old Princeton architecture student, along with two classmates, Greg Carlock and Jeremy Linzee, to design a temporary park on one acre behind a new luxury apartment building, 22 River Terrace.</p>
+      </block>
+      <block class="full_text">
+        <p>When is a park not a park? When it's designed by Princeton Architecture School students, destroys itself in six months and can be completely recycled.</p>
+        <p>In January, the Battery Park City Authority commissioned Donald Shillingburg, a 29-year-old Princeton architecture student, along with two classmates, Greg Carlock and Jeremy Linzee, to design a temporary park on one acre behind a new luxury apartment building, 22 River Terrace.</p>
+        <p>The circumstances of the commission were unusual. The permanent park, a $12 million depiction of an upstate New York forest complete with mossy rocks and an ice wall, was six months behind schedule, and Battery Park City learned it was responsible for providing a temporary park for the site.</p>
+        <p>After deciding that laying topsoil and sod was too costly, the Authority turned to Mr. Shillingburg for a more modest proposal. To him, the budgetary and logistical constraints represented an unusual opportunity to comment on the state of urban design and architecture, and to have a little fun in the process.</p>
+        <p>''We took over a classroom and started a massive three-day brainstorming session,'' Mr. Shillingburg said. ''The first day we came up with 30 ideas. One scheme, the Survivor Scheme, addressed the idea that in New York City space is property. We thought we could hire a guy to sit in the middle of the park with a bullhorn and keep people off.''</p>
+        <p>The winning project, titled ''The Park to Be Destroyed,'' is a work of natural performance art that will resemble a field of flowers. But its design is inspired by aerial photography, and it uses both farming techniques and resources indigenous to an urban setting, like paths made of recycled asphalt, benches borrowed from the Parks Department, chain-link fences, industrial lights and landfill. The ground breaking will be next month, when the site is planted with winter rye alternating with rows of crimson clover and sunflowers. The dirt will be a combination of topsoil and the landfill that provides Battery Park City's base.</p>
+        <p>Over the next five months, the park's complexion will change from strips of soil to a bed of grass to a field of brilliantly colored flowers. The fence around the park will hold texts explaining that everything seen is intended to be a renewable energy source: the clover could be used to feed livestock, for example, and the sunflowers' seeds could be used to produce oil. In October, after the crops are harvested, the park will disappear; the irrigation system will be dismantled, the benches returned to the Parks Department and the asphalt path sent back to the factory. There will be nothing left apart from the memory.</p>
+        <p>With its mix of urban materials and rural aesthetics, the park is designed to encourage Battery Park City residents to think about the ground they live on. To the three young architects, the city has its own ecology, and Battery Park City is part of that.</p>
+        <p>''We love Battery Park City,'' Mr. Shillingburg said. ''Like a good friend, we want to show it what it is by showing it what it's not.''</p>
+        <p>SINDY GOLDMAN</p>
+        <p>NEIGHBORHOOD REPORT: BATTERY PARK CITY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

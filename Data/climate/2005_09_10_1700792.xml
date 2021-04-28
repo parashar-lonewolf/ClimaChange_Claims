@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Call Us to Sacrifice</title>
+    <meta content="l10infrastructure" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1700792"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D91331F933A2575AC0A9639C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Call Us to Sacrifice</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Katrina's Assault on Washington'' (editorial, Sept. 3):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Katrina's Assault on Washington'' (editorial, Sept. 3):</p>
+        <p>The overwhelming scale of the humanitarian, environmental and economic crisis precipitated by Hurricane Katrina throws into sharp relief the challenges that our government and society have preferred to ignore or address piecemeal at best.</p>
+        <p>Inadequate infrastructure maintenance, especially in the cities; wetland destruction and coastline retrenchment; inconsistent and haphazard emergency planning; wrenching correlations among poverty, race and access to disaster relief; unsustainable dependence on fossil fuels: remediation of each of these issues will require national political leadership and long-term financial commitment.</p>
+        <p>Such investments cannot depend on the vagaries of private and local initiative, however welcome. They will demand participation, contribution and yes, sacrifice, from all of us.</p>
+        <p>George W. Bush has the second momentous opportunity of his presidency to lead us in such historic efforts. The first was squandered, but re-election brings new imperatives of statesmanship.</p>
+        <p>President Bush, the time is now for all of us to ask what we can do for our country.</p>
+        <p>Mariet Westermann  New York, Sept. 4, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

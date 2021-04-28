@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Change and Coal</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="387881"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COAL</classifier>
+        <person class="indexing_service">GRAY, THOMAS O</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DC1E31F933A0575AC0A966958260" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Change and Coal</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Astonishingly, the recent story on improved prospects for the coal industry (''Will Coal, the Plentiful Old Standby, Pick Up Speed?'' Aug. 26) fails to mention global climate change, arguably the single most important roadblock in coal's future.</p>
+        <p>Many scientists now believe that changes in the Earth's atmosphere caused by increased emissions of heat-trapping ''greenhouse gases'' from human activities will alter the climate over the next century, with potentially serious environmental and economic consequences. The most important greenhouse gas is carbon dioxide emitted from the burning of fossil fuels, particularly coal, which contains more carbon than either oil or natural gas.</p>
+        <p>Utilities in the United States already depend on coal for more than half of all the electric power they produce. Thanks to that dependence, the United States leads the world in emissions of carbon dioxide, and the utility sector leads the United States economy, producing nearly 1.9 billion tons yearly, which is more than seven tons for every American.</p>
+        <p>We have failed to take action to protect our energy security by finding alternatives to oil over the past decade. As a result, we find ourselves today contemplating war over oil in the Middle East.</p>
+        <p>If we ignore global climate change and increase our dependence on coal as an energy source, we may soon arrive at a similar policy dead end, in which we are forced to undergo severe economic disruption in order to reduce greenhouse gas emissions.</p>
+        <p>THOMAS O. GRAY</p>
+        <p>Washington, Aug. 2</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

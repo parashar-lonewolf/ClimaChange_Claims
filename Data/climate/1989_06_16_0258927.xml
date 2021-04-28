@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Predicts Oil Price Rise</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="258927"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">PRICES</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <org class="indexing_service">CONOCO INC</org>
+        <org class="indexing_service">ORGANIZATION OF PETROLEUM EXPORTING COUNTRIES (OPEC) (OPEC)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DE173CF935A25755C0A96F948260" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Predicts Oil Price Rise</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Oil prices are likely to remain below $20 a barrel for a few years, but growing worldwide energy consumption will push them to about $24 a barrel by the mid-1990's, according to a report issued yesterday by Conoco Inc.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Oil prices are likely to remain below $20 a barrel for a few years, but growing worldwide energy consumption will push them to about $24 a barrel by the mid-1990's, according to a report issued yesterday by Conoco Inc.</p>
+        <p>Oil prices are likely to remain below $20 a barrel for a few years, but growing worldwide energy consumption will push them to about $24 a barrel by the mid-1990's, according to a report issued yesterday by Conoco Inc.</p>
+        <p>Officials of the oil company, a subsidiary of the Du Pont Company, said they expected the Organization of Petroleum Exporting Countries to pursue moderate pricing policies despite oil importers' growing reliance on supplies from the Middle East.</p>
+        <p>''I think OPEC learned some lessons by setting the price too high in the past,'' said John Sauer, manager of Conoco's planning and analysis department.</p>
+        <p>Oil prices continued to increase in trading yesterday on the New York Mercantile Exchange. The benchmark United States grade, West Texas Intermediate, closed at $20.57 a barrel for July delivery, up 34 cents.</p>
+        <p>Worldwide energy demand is expected to grow about 2 percent a year from 1989 to 2000, the study said, with oil demand rising about 1.5 percent a year. Conoco officials said the projections took into account concerns about global warming, which is linked to the consumption of fossil fuels.</p>
+        <p>The rate of growth in energy demand in the United States will trail the world average, at about 1.5 percent a year, the study estimated. But even so, demand for oil in this country is expected to climb from 16.7 million barrels a day in 1987 to about 19.5 million barrels a day in 2000. Declining domestic production will increase oil imports from 6 million barrels a day in 1987 to an estimated 11 million barrels a day by the end of the century. At that point, imported oil would account for 55 percent of demand, compared with 37 percent in 1988.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

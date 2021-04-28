@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Environmental Vote</title>
+    <meta content="L03WAR$03" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/11/03/opinion/L03WAR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1244222"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E0DC1F30F930A35752C1A9669C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Environmental Vote</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your alert that global warming is likely to be even more severe than originally believed (editorial, Oct. 28) should wake up voters.</p>
+        <p>For president, we could elect a man whose entire adult life has been in service to the industry that dismisses the scientific evidence of warming, who would let Congressional naysayers continue to kill programs that search for solutions. Or we could elect a man who has a profound understanding of the threat of climate change, a man at the center of the international commitment to address the buildup of heat-trapping gases.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your alert that global warming is likely to be even more severe than originally believed (editorial, Oct. 28) should wake up voters.</p>
+        <p>For president, we could elect a man whose entire adult life has been in service to the industry that dismisses the scientific evidence of warming, who would let Congressional naysayers continue to kill programs that search for solutions. Or we could elect a man who has a profound understanding of the threat of climate change, a man at the center of the international commitment to address the buildup of heat-trapping gases.</p>
+        <p>The next headlines about record-breaking drought, tornadoes and floods -- early symptoms of our overheated atmosphere -- should remind voters of the significance of their choice on Election Day.</p>
+        <p>CAROLYN S. KONHEIM  Brooklyn, Oct. 29, 2000</p>
+        <p>The writer is an environmental consultant.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

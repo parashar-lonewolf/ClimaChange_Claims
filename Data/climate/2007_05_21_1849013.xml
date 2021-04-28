@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making Industry Efficient</title>
+    <meta content="l21package" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1849013"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E7D61E31F932A15756C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making Industry Efficient</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Incredible Shrinking Packages'' (''The Energy Challenge'' series, Business Day, May 12):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Incredible Shrinking Packages'' (''The Energy Challenge'' series, Business Day, May 12):</p>
+        <p>While a step in the right direction, reducing package weight is among the easiest initiatives needed to slow climate change.</p>
+        <p>Just as good things come in smaller packages, they also come in older ones as well. To rediscover the advantages of refillable glass bottles or stainless steel canisters without wasting a lot of energy to transport them for reuse, we should roll back the clock several decades to a time when milk, soda, seltzer and beer were delivered energy-efficiently, because returnable bottlers were located near the markets they served.</p>
+        <p>To motivate industry cooperation in this and other changes necessary to slow climate change requires a paradigm shift away from lamenting foreseeable resistance from affected interests to adopting ambitious transition rules that manage the pain of restructuring. We can facilitate needed changes through wise incentives for early adopters, along with gradually increasing fees for laggards.</p>
+        <p>Alan S. Fintz  Brooklyn, May 13, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

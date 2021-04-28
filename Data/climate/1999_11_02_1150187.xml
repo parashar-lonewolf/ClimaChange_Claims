@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Saving the Planet</title>
+    <meta content="LTR002341" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1150187"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE3DF123BF931A35752C1A96F958260" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Saving the Planet</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A particularly striking note in ''Celebrating an Ecologist's Eloquence and Vision'' (Oct. 19) was the author's acknowledgment that ''it is now clear that nature is usually in a constant state of flux, not static balance, even in the absence of human disturbance.'' That is a pithy yet precise assertion of the look-before-we-leap crowd's argument as regards the theory of man-made global warming. The ''global cooling'' of the late 1970's is now ''global warming.'' In truth, nature generally and climate specifically are dynamic phenomena. Man's impact is hardly known, but more appropriately determined before putting zero-growth policies into effect.</p>
+        <p>CHRISTOPHER C. HORNER  Washington</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A particularly striking note in ''Celebrating an Ecologist's Eloquence and Vision'' (Oct. 19) was the author's acknowledgment that ''it is now clear that nature is usually in a constant state of flux, not static balance, even in the absence of human disturbance.'' That is a pithy yet precise assertion of the look-before-we-leap crowd's argument as regards the theory of man-made global warming. The ''global cooling'' of the late 1970's is now ''global warming.'' In truth, nature generally and climate specifically are dynamic phenomena. Man's impact is hardly known, but more appropriately determined before putting zero-growth policies into effect.</p>
+        <p>CHRISTOPHER C. HORNER  Washington</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

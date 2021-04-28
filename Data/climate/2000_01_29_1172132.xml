@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Oil's Dual Threat</title>
+    <meta content="L29OIL$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1172132"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <location class="indexing_service">France</location>
+        <org class="indexing_service">Center for Health and Global Environment)</org>
+        <person class="indexing_service">Epstein, Paul R (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEED7103CF93AA15752C0A9669C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Oil's Dual Threat</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Paul R Epstein (Center for Health and Global Environment) says ferocious winds and oil spill that devastated France in December are both due to global reliance on fossil fuels</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Jan. 22 Le Croisic Journal captures the dual tragedies afflicting France. Ferocious winds in December compounded the damage from an oil spill, and fossil fuels underlie both assaults.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Jan. 22 Le Croisic Journal captures the dual tragedies afflicting France. Ferocious winds in December compounded the damage from an oil spill, and fossil fuels underlie both assaults.</p>
+        <p>North Atlantic warming has melted Arctic Sea ice, sending a cold tongue and frigid winds across North America and Europe. Meanwhile, cold Pacific upwelling from La Nina is part of a multi-decade correction.</p>
+        <p>Our climate shows signs of instability, and wide swings are projected if we keep polluting the air. But it is the full cycle of fossil fuels -- extraction, mining, refining, transport and combustion of oil and coal -- that harms our health, ecosystems and economies.</p>
+        <p>PAUL R. EPSTEIN, M.D.  Boston, Jan. 24, 2000</p>
+        <p>The writer is associate director, the Center for Health and the Global Environment, Harvard Medical School.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="211271"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7DF143AF930A35752C0A96F948260" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Explaining Last Summer's Drought  The 1988 drought was caused by cyclical changes in the tropical Pacific and had little to do with the greenhouse effect, new evidence indicates. With an improving understanding of the global climate system, scientists have linked cold waters off South America to storms and atmospheric disturbances that drove the jet stream northward, causing drought in North America.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Explaining Last Summer's Drought  The 1988 drought was caused by cyclical changes in the tropical Pacific and had little to do with the greenhouse effect, new evidence indicates. With an improving understanding of the global climate system, scientists have linked cold waters off South America to storms and atmospheric disturbances that drove the jet stream northward, causing drought in North America.</p>
+        <p>Explaining Last Summer's Drought  The 1988 drought was caused by cyclical changes in the tropical Pacific and had little to do with the greenhouse effect, new evidence indicates. With an improving understanding of the global climate system, scientists have linked cold waters off South America to storms and atmospheric disturbances that drove the jet stream northward, causing drought in North America. Science Times, page C1.  Capital Mayor Supported  Federal investigations of Mayor Marion S. Barry Jr. have failed to diminish his popularity among many in the city's black majority. Page A12.  2 Doctors Slain at Home  A quiet, affluent Westchester County village is shocked by the stabbing and bludgeoning death of two of its residents. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

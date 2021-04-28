@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Correction</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="768378"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CORRECTION STORIES</classifier>
+        <org class="indexing_service">MEMORIAL SLOAN-KETTERING CANCER CENTER (NYC)</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DC1E31F932A25755C0A963958260" item-length="43" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Correction</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in the Neighborhood Report last Sunday about Memorial Sloan-Kettering Cancer Center's decision to move its administrative offices from 410 East 62d Street misidentified a gas found in the building. It was carbon monoxide, not carbon dioxide.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in the Neighborhood Report last Sunday about Memorial Sloan-Kettering Cancer Center's decision to move its administrative offices from 410 East 62d Street misidentified a gas found in the building. It was carbon monoxide, not carbon dioxide.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Economy According to Bush</title>
+    <meta content="LTR231326" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1586758"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <person class="indexing_service">Berman, David</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E4D61231F937A35755C0A9629C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Economy According to Bush</hl1>
+      </hedline>
+      <abstract>
+        <p>David Berman letter on David Brooks's June 1 column contends Bush administration consistently favors short-term profit of wealthy few and administration's own political advantage over long-term welfare of rest of us</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>David Brooks (''Grading the President,'' column, June 1) wonders why the Bush administration, having refused to offer tax cuts ''distributed down the income scale,'' and having ''left us with a long-term fiscal mess,'' doesn't now ''address the long-term problems.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>David Brooks (''Grading the President,'' column, June 1) wonders why the Bush administration, having refused to offer tax cuts ''distributed down the income scale,'' and having ''left us with a long-term fiscal mess,'' doesn't now ''address the long-term problems.''</p>
+        <p>What I wonder is why intelligent people like Mr. Brooks are unable to divine the administration's motivations from its record: tax cuts for the rich despite the deficit; a windfall for the drug companies despite the aging population; a free ride for polluters despite the global warming; and unilateralism despite the need for a global alliance against terrorism.</p>
+        <p>This administration has consistently favored the short-term profit of the wealthy few and the administration's own political advantage over the long-term welfare of the rest of us.</p>
+        <p>What about that is hard to understand?</p>
+        <p>DAVID BERMAN  New York, June 2, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

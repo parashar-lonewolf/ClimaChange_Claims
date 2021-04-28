@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fujitsu Drops Offer On Computer</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="484900"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">SUPERCOMPUTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">GIFTS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">FUJITSU LTD</org>
+        <org class="indexing_service">CORPORATION FOR ATMOSPHERIC RESEARCH</org>
+        <person class="indexing_service">MARKHOFF, JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gifts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DD1239F936A35752C1A967958260" item-length="541" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fujitsu Drops Offer On Computer</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Responding to opposition from Washington, Fujitsu Ltd. has withdrawn an offer to donate a supercomputer to a Colorado-based international consortium of electric utility organizations.</p>
+        <p>Japanese entry into the United States supercomputer market has caused friction between the two countries in recent years. Until recently American companies, notably the Cray Research Corporation, have dominated the world's supercomputer market.</p>
+      </block>
+      <block class="full_text">
+        <p>Responding to opposition from Washington, Fujitsu Ltd. has withdrawn an offer to donate a supercomputer to a Colorado-based international consortium of electric utility organizations.</p>
+        <p>Japanese entry into the United States supercomputer market has caused friction between the two countries in recent years. Until recently American companies, notably the Cray Research Corporation, have dominated the world's supercomputer market.</p>
+        <p>In the last four years, however, the NEC Corporation, Fujitsu and Hitachi Ltd., all Japanese companies, have begun making inroads in the supercomputer market, particularly in Europe.</p>
+        <p>United States Government officials and computer makers have accused the Japanese of donating machines or selling them at steep discounts to gain access to markets where they are not competitive. 'Political Heat'</p>
+        <p>Representative Richard Gephardt, Democrat of Missouri, wrote both the Japanese Embassy and President Bush's science adviser, Alan Bromley, opposing the proposed gift.</p>
+        <p>Yesterday, Richard Anthes, president of the Boulder-based University Corporation for Atmospheric Research, said, "Fujitsu began to feel the political heat, so they withdrew the offer."</p>
+        <p>He said the consortium had hoped to work out an arrangement with Cray under which the computer maker would be able to obtain information about how the Fujitsu machine worked. "I was looking for a win-win situation," he said.</p>
+        <p>In a statement issued in Tokyo, Michio Naruto, a managing director of Fujitsu, said, "There was some opposition from the United States Congress for the contribution of a Japanese supercomputer, so Fujitsu dropped the offer." In the past, executives of Fujitsu and other Japanese companies have complained that the United States Government has virtually barred the sale or gift of supercomputers to institutions in the United States.</p>
+        <p>The machine was to have been donated to a consortium of four electric utility groups including the Electric Power Research Institute in Palo Alto, Calif., and similar organizations in France, Italy and Japan, known as the Model Evaluation Consortium for Climate Evaluation. The researchers are at the National Center for Atmospheric Research.</p>
+        <p>Last year $7.1 million of Model Evaluation's $12.5 million budget was supplied by the National Science Foundation.</p>
+        <p>Climate researchers use supercomputers to run large simulations of a variety of phenomena like global warming and atmospheric pollution. Cray Research has traditionally been the largest supplier of supercomputers used for these experiments. Charge by Cray's Chairman</p>
+        <p>In September, John A. Rollwagen, Cray's chairman and chief executive, wrote Dr. Anthes and said that he suspected that Fujitsu was trying to use the donation to engage in an illegal trade practice under the guise of a humanitarian contribution.</p>
+        <p>In a telephone interview yesterday, Mr. Rollwagen said: "We are not saying that Japan should not have access to the United States market. They should, but it should be on the same terms that we have access to the Japanese market."</p>
+        <p>He said that Cray had not donated its machines, but that it did give grants for software development and sometimes offers used equipment at aggressively low prices.  COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

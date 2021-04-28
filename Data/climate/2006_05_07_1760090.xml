@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seeking Energy in All the Odd Places</title>
+    <meta content="l07ethanol-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1760090"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethanol</classifier>
+        <person class="indexing_service">Walker, Larry P (Prof)</person>
+        <person class="indexing_service">Wilson, David B (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethanol</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E5D61F3FF934A35756C0A9609C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seeking Energy in All the Odd Places</hl1>
+      </hedline>
+      <abstract>
+        <p>Larry P Walker and David B Wilson letter seconds May 1 editorial urging development of cellulosic ethanol as alternative fuel; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Ethanol's Promise'' (editorial, May 1):</p>
+        <p>We commend you for your objective and timely support of cellulosic ethanol. The challenge is to continue to develop this renewable energy source in an environmentally and economically sustainable manner.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Ethanol's Promise'' (editorial, May 1):</p>
+        <p>We commend you for your objective and timely support of cellulosic ethanol. The challenge is to continue to develop this renewable energy source in an environmentally and economically sustainable manner.</p>
+        <p>Through science and engineering, there will be continued improvement in the energy efficiency and environmental sustainability of this important renewable energy source.</p>
+        <p>In the coming years, petroleum will continue to be an important part of our energy future. But a combination of aggressive energy conservation and thoughtful and aggressive development of renewable energy technology will help this country face the political and economic challenges associated with our addiction to oil.</p>
+        <p>Cellulosic ethanol has the added advantages of increasing economic opportunities for rural communities and strengthening our global competitive edge by leveraging our science and technology capacity.</p>
+        <p>Larry P. Walker  David B. Wilson  Ithaca, N.Y., May 2, 2006</p>
+        <p>The writers are professors of, respectively, biological engineering and molecular biology at Cornell University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let's Not Count on Electricity to Reduce the Greenhouse Effect</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="379168"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <person class="indexing_service">KUHN, THOMAS R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DB163DF936A1575BC0A966958260" item-length="401" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let's Not Count on Electricity to Reduce the Greenhouse Effect</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Thomas R. Kuhn, president of the Edison Electric Institute, claims that ''electricity is moving our country toward greater energy efficiency and consequently is reducing energy-related emissions'' (letter, July 25). The fact is, in most cases electrical energy use is less efficient and causes the creation of more greenhouse gases than do reasonable alternatives like conservation or the direct use of fossil fuels.</p>
+        <p>After all, fossil fuels must still be burned to create the electrical energy (unless it is generated hydroelectrically or through nuclear reactions). The fossil fuels thus burned still create greenhouse gases, and in most cases more fuel must be burned to generate electricity for a particular end use than if the fossil fuel were burned directly where needed. For example, the most basic laws of thermodynamics show that a large fraction of the original energy is wasted when a high-quality energy source such as electricity is used in a low-grade application like space heating. Mr. Kuhn cites numerous misleading statistics and quotes an Edison Electric Institute study to buttress his case. For example, he states that from 1983 to 1989 overall energy demand grew 9 percent while electricity use grew by more than 50 percent. These figures are correct, but they do not mean, as Mr. Kuhn implies, that electricity is a particularly efficient form of energy. The small increase in overall demand results mainly from greater efficiency in all forms of energy use, not from the 50 percent increase in electricity use that Mr. Kuhn cites. Further, the $1 billion that he reports is spent annually by electric utilities on energy-efficiency programs is spent in finding means to reduce, not increase, electrical use.</p>
+        <p>He quotes an Edison Institute study that claims additional electrification can reduce carbon dioxide emissions significantly, without providing enough details to determine the assumptions involved. Based on the simple physical principles I mentioned, it seems likely this study assumed that the electricity would be generated in nuclear power plants, which have their own enormous environmental problems. Publishing a letter from an industry lobbying group's president amounts to a free advertisement.</p>
+        <p>JOEL WEISBERG</p>
+        <p>Northfield, Minn., Aug. 10, 1990</p>
+        <p>The writer is an associate professor of physics and astronomy at Carleton College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

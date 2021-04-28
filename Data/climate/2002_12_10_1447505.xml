@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Debating Global Warming</title>
+    <meta content="LTR000538" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1447505"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Colbert, John E</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4DD173AF933A25751C1A9649C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Debating Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>John E Colbert letter on December 3 article holds Bush administration is using different standards of proof for possible war with Iraq and global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Bush administration is prepared to go to war with Iraq with little evidence that Iraq has dangerous weapons that threaten the United States (''Can Global Warming Be Studied Too Much?'' Dec. 3), yet when it comes to warming and the environment, this administration will wait indefinitely before acting. Certainly, different standards of proof are being applied.</p>
+        <p>JOHN E. COLBERT  Chicago</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Bush administration is prepared to go to war with Iraq with little evidence that Iraq has dangerous weapons that threaten the United States (''Can Global Warming Be Studied Too Much?'' Dec. 3), yet when it comes to warming and the environment, this administration will wait indefinitely before acting. Certainly, different standards of proof are being applied.</p>
+        <p>JOHN E. COLBERT  Chicago</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

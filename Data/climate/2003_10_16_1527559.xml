@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ozone May Offset Capacity Of Trees to Sop Up Carbon</title>
+    <meta content="Y16SMO$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/10/16/science/16SMOG.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1527559"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Photosynthesis</classifier>
+        <classifier class="indexing_service" type="descriptor">Ozone</classifier>
+        <org class="indexing_service">Michigan Technological University</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031016T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E6DA163EF935A25753C1A9659C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ozone May Offset Capacity Of Trees to Sop Up Carbon</hl1>
+        <hl2 class="online_headline">Ozone May Offset Capacity of Trees to Sop Up Carbon</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Michigan Technological University study finds common air pollutant ozone impedes ability of forests to sop up heat-trapping greenhouse gas carbon dioxide through photosynthesis and store it soil (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scientists have long identified forests as a potential buffer against rising concentrations of carbon dioxide, the main smokestack and tailpipe emission linked by most scientists to global warming.</p>
+        <p>Trees sop up the heat-trapping greenhouse gas through photosynthesis and stash it in soil. The more carbon dioxide there is in air, the more that forests, in theory, can lock up in the earth.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new experiment has shown that fairly common concentrations of ozone impedes trees from soaking up heat-trapping carbon dioxide, linked by many scientists to global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>Scientists have long identified forests as a potential buffer against rising concentrations of carbon dioxide, the main smokestack and tailpipe emission linked by most scientists to global warming.</p>
+        <p>Trees sop up the heat-trapping greenhouse gas through photosynthesis and stash it in soil. The more carbon dioxide there is in air, the more that forests, in theory, can lock up in the earth.</p>
+        <p>But a new experiment has shown that fairly common concentrations of ozone, the eye-stinging ingredient in smog, can sharply impede this process. Thus, one kind of air pollution common in the Northern Hemisphere appears to hamper natural absorption of another, said the researchers, who report their findings in today's issue of the journal Nature.</p>
+        <p>''If we're increasing carbon in the atmosphere and we expect forests to be able to keep up, ozone could make it difficult for trees to compensate,'' said Dr. Wendy M. Loya, the lead author of the study and a research scientist at Michigan Technological University.</p>
+        <p>In the study, some experimental plots of trees were exposed to elevated levels of carbon dioxide and ozone, while others were exposed to higher levels of carbon dioxide alone. The trees exposed to ozone stored only half as much carbon in soil as the other trees.</p>
+        <p>High in the atmosphere, ozone forms a protective shield against ultraviolet radiation. But pollution from industry and vehicles has sharply raised concentrations near the surface over the last century, with ozone created in urban areas often flowing across forests and farmland, stunting plant growth.</p>
+        <p>The gas forms when sunlight reacts with pollutants as varied as power plant plumes and evaporated gasoline. Despite reductions because of regulations, large parts of all the northern continents are bathed each summer in levels of the gas that can harm plants and health.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

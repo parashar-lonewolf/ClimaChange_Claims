@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fighting Acid Rain</title>
+    <meta content="L02EMIS" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/06/02/opinion/L02EMIS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1298174"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Nitrogen</classifier>
+        <classifier class="indexing_service" type="descriptor">Sulfur and Sulfur Compounds</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Pataki, George E (Gov)</person>
+        <person class="indexing_service">Fullmer, Jeffrey D</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Coal</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York (USA)</location>
+        <location class="online_producer">Farmingdale</location>
+        <org class="online_producer">Citizens Campaign for the Environment</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E3D71F3CF931A35755C0A9679C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fighting Acid Rain</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Jeffrey D Fullmer of New York's Citizens Campaign for the Environment gives credit to Gov Pataki for staying course in fight against acid rain (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Tentative Emissions Plan Is Expected to Be Released'' (news article, May 28):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Tentative Emissions Plan Is Expected to Be Released'' (news article, May 28):</p>
+        <p>Gov. George E. Pataki's administration should be given credit for staying the course in the fight against acid rain in New York. Few question the devastation that nitrogen and sulfur emissions from coal-burning power plants have caused, and the proposed new regulations will further set the stage for the kinds of emission cuts that are needed now on the national level to finally solve the growing acid rain crisis.</p>
+        <p>Let's hope the Bush administration has the sense to pay attention to what is going on in New York and throughout the Northeast.</p>
+        <p>JEFFREY D. FULLMER  State Program Director, Citizens  Campaign for the Environment  Farmingdale, N.Y., May 29, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

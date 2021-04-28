@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Performing as if on a Dare In a Raw Endurance Test</title>
+    <meta content="08ROLL$03" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220951"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JAZZ REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Lincoln Center Out of Doors Festival</classifier>
+        <person class="indexing_service">Ratliff, Ben</person>
+        <person class="indexing_service">Rollins, Sonny</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000808T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E7DB103CF93BA3575BC0A9669C8B63" item-length="477" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Performing as if on a Dare In a Raw Endurance Test</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+      <byline class="normalized_byline">Ratliff, Ben</byline>
+      <abstract>
+        <p>Ben Ratliff reviews tenor saxophonist Sonny Rollins and his band performing at Damrosch Park as part of Lincoln Center Out of Doors summer festival; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Concerts by the tenor saxophonist Sonny Rollins are to be experienced the way surfers experience the beach: they wait around for the tide to gather force, and at a certain moment the watery muscle hurtles them along. But this sort of momentum can't be willed; you can't expect the big one every time out.</p>
+        <p>On Saturday night at Damrosch Park, as part of the Lincoln Center Out of Doors summer festival, he played a packed concert with perfect weather and a grateful crowd; nevertheless, it wasn't a great day at the beach.</p>
+      </block>
+      <block class="full_text">
+        <p>Concerts by the tenor saxophonist Sonny Rollins are to be experienced the way surfers experience the beach: they wait around for the tide to gather force, and at a certain moment the watery muscle hurtles them along. But this sort of momentum can't be willed; you can't expect the big one every time out.</p>
+        <p>On Saturday night at Damrosch Park, as part of the Lincoln Center Out of Doors summer festival, he played a packed concert with perfect weather and a grateful crowd; nevertheless, it wasn't a great day at the beach.</p>
+        <p>For the first hour, the most notable aspect of the show was sledgehammer stamina -- Mr. Rollins's stock-in-trade, the long lines within his epic improvisations. But the performance sounded undernuanced. Though he is often sharply funny and brilliantly articulate, his rhythms lacked crispness, hurtling without breathing. Dynamics weren't his strong point on Saturday either; he rarely strayed from his one powerful level of projection, and it made the performance seem like an endurance contest.</p>
+        <p>He played a set that seemed similar to others he has played in the last five years, including ''They Say It's Wonderful,'' ''What a Difference a  Day Makes,'' ''Tenor Madness'' and his recent tunes ''Biji'' and ''Global Warming.'' (Mr. Rollins still has a knack for the imaginative cover version, though, and in that vein he played a sweet, simple old Hawaiian song, ''Sweet Leilani,'' which seemed to relax him, and held some of the best stretches of the night; it put joy into his exertions.)</p>
+        <p>For most of the 12-song set, Mr. Rollins was the main soloist, if not the only one. There were only a few tunes in which other band members, like the pianist Stephen Scott, the trombonist Clifton Anderson and the bassist Bob Cranshaw, had space to solo. Of the band members, Mr. Scott was the one most often playing above par, returning time and time again to Thelonious Monk's abrupt rhythmic language.</p>
+        <p>Even a second-tier Sonny Rollins concert is remarkable in some ways. On Saturday, he played as if on a dare, sustaining raw power for longer than you'd expect him to, and then longer still; it's no accident that one of his truest disciples is the filibustering out-jazz player David S. Ware.  There isn't much interplay within the band, and consequently the songs didn't veer off course or benefit from rearrangement. Most of jazz, with its chord-stuffed compositions, its emotional subtleties, its polite habit of letting everyone in the band have a solo, isn't like Mr. Rollins. Nor is the rest of life like the ocean at high tide.</p>
+        <p>JAZZ REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

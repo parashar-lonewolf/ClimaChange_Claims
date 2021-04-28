@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Camera Is Left Behind to Zoom In on North Pole's Weather</title>
+    <meta content="869023SGM" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1390169"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Arctic Regions</location>
+        <location class="indexing_service">Arctic Regions</location>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03EEDA1031F934A35756C0A9649C8B63" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Camera Is Left Behind to Zoom In on North Pole's Weather</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Scientists, after retrieving array of instruments tethered to sea bottom a year ago, leave behind automated digital camera linked by satellite to Web that will be used to track changing weather conditions at North Pole; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After melting holes through the floating ice at the North Pole last month to retrieve an array of instruments tethered to the sea bottom a year ago, a team of scientists left an observer behind.</p>
+        <p>It is an automated digital camera linked by satellite to the Web, allowing the researchers -- and anyone else -- to keep track of conditions at the top of the world. The Internet address is www.arctic.noaa .gov.</p>
+      </block>
+      <block class="full_text">
+        <p>After melting holes through the floating ice at the North Pole last month to retrieve an array of instruments tethered to the sea bottom a year ago, a team of scientists left an observer behind.</p>
+        <p>It is an automated digital camera linked by satellite to the Web, allowing the researchers -- and anyone else -- to keep track of conditions at the top of the world. The Internet address is www.arctic.noaa .gov.</p>
+        <p>For the moment, the camera is taking four pictures a day, but it can be adjusted by remote control to zoom in if something unusual is spotted or to take pictures more frequently. The camera sits near several batches of instruments measuring conditions in the air, ice and ocean beneath. Called the North Pole Environmental Observatory, the instruments, atop a floe, will slowly drift with the current in coming months.</p>
+        <p>The project is aimed at deciphering the substantial changes in arctic weather, ocean currents and ice in recent decades. The milling cap of polar sea ice has thinned and shrunk, air temperatures high in the stratosphere have dropped sharply, and air and water at the sea surface have warmed.</p>
+        <p>An important question is whether the changes are related to a 50-year global warming trend that scientists say is mostly caused by emissions of heat-trapping greenhouse gases from smokestacks and tailpipes.</p>
+        <p>There is enough natural variability in the region -- and such a paucity of data -- that the question cannot be answered so far, said Dr. James H. Morison, the University of Washington oceanographer directing the project.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

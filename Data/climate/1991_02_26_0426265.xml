@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nylon Effect</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19910302T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="426265"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">NYLON</classifier>
+        <classifier class="indexing_service" type="descriptor">NITROUS OXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <org class="indexing_service">UNIVERSITY OF SAN DIEGO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Polymers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEED9163FF935A15751C0A967958260" item-length="364" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nylon Effect</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCIENTISTS have identified a significant source of the increasing amount of nitrous oxide in the atmosphere. The gas contributes to ozone destruction and the warming of the atmosphere.</p>
+        <p>Nitrous oxide, commonly known as laughing gas because it is used as a mild anesthetic, is increasing in the earth's atmosphere at a rate of about 0.2 percent a year. This increase is most likely the result of human activity, and even though the rise is relatively small, there is cause for concern because the gas can remain in the atmosphere for about 150 years.</p>
+      </block>
+      <block class="full_text">
+        <p>SCIENTISTS have identified a significant source of the increasing amount of nitrous oxide in the atmosphere. The gas contributes to ozone destruction and the warming of the atmosphere.</p>
+        <p>Nitrous oxide, commonly known as laughing gas because it is used as a mild anesthetic, is increasing in the earth's atmosphere at a rate of about 0.2 percent a year. This increase is most likely the result of human activity, and even though the rise is relatively small, there is cause for concern because the gas can remain in the atmosphere for about 150 years.</p>
+        <p>Scientists believe that most of the nitrous oxide in the atmosphere comes from bacteria, but the precise sources of nearly a third of the gas have not been identified.</p>
+        <p>Now, in the current issue of the journal Science, two chemists report that nitrous oxide is generated and emitted during the manufacture of nylon. They say this source may account for up to 10 percent of the increase in atmospheric nitrous oxide.</p>
+        <p>The scientists, Dr. Mark H. Thiemens and Dr. William C. Trogler of the University of San Diego, simulated the industrial process in laboratory experiments. They found that nitrous oxide was a byproduct of the preparation of adipic acid, a widely used monomer that is synthesized to produce nylon.</p>
+        <p>The scientists estimate that 4.5 billion pounds of adipic acid is produced annually worldwide in the manufacture of nylon and that it yields nitrous oxide on a nearly one-to-one ratio. Roughly, then, the same amount of nitrous oxide is generated and pumped into the atmosphere.</p>
+        <p>Since nitrous oxide is not toxic, its emissions have not been regulated. But because of the volume of the gas produced, its long residence time and its possible contribution to global warming, the scientists argue that "the assumption that such emissions are harmless may be invalid."</p>
+        <p>Compared with carbon dioxide, nitrous oxide is a relatively small component of the atmosphere, but it can do significant damage.</p>
+        <p>"As a greenhouse gas, on a per molecule basis, nitrous oxide is 200 times worse than carbon dioxide," Dr. Thiemens said. "In destroying the ozone, it is only slightly less destructive than chlorofluorocarbons."  SCIENCE WATCH  Correction:  March 2, 1991, Saturday</p>
+        <p>A report in the Science Watch column of Science Times on Tuesday about nitrous oxide in the atmosphere misstated the faculty affiliation of Dr. William C. Trogler and Dr. Mark H. Thiemens. They are at the University of California at San Diego.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 2, 1991, Saturday</p>
+        <p>A report in the Science Watch column of Science Times on Tuesday about nitrous oxide in the atmosphere misstated the faculty affiliation of Dr. William C. Trogler and Dr. Mark H. Thiemens. They are at the University of California at San Diego.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

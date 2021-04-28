@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What About Us?</title>
+    <meta content="28fri2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/07/28/opinion/28fri2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1778963"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060728T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DB123FF93BA15754C0A9609C8B63" item-length="425" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What About Us?</hl1>
+        <hl2 class="online_headline">What About Us?</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At a time when global warming has become an overriding issue, NASA has been delaying or canceling programs that could shed light on how the climate changes. The shortsighted cutbacks appear to result from sharply limiting NASA's budget while giving it hugely expensive tasks like repairing the stricken shuttle fleet, finishing construction of the space station, and preparing to explore the Moon and Mars. Something had to give, and NASA's choices included research into how the planet's climate is responding to greenhouse gas emissions.</p>
+        <p>The agency's shifting priorities may have been signaled by subtle changes in its mission statement this year, as described by Andrew Revkin in The Times. Although the agency had previously led off its goals with ''to understand and protect our home planet,'' a new mission statement reads simply, ''To pioneer the future in space exploration, scientific discovery and aeronautics research.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At a time when global warming has become an overriding issue, NASA has been delaying or canceling programs that could shed light on how the climate changes.</p>
+      </block>
+      <block class="full_text">
+        <p>At a time when global warming has become an overriding issue, NASA has been delaying or canceling programs that could shed light on how the climate changes. The shortsighted cutbacks appear to result from sharply limiting NASA's budget while giving it hugely expensive tasks like repairing the stricken shuttle fleet, finishing construction of the space station, and preparing to explore the Moon and Mars. Something had to give, and NASA's choices included research into how the planet's climate is responding to greenhouse gas emissions.</p>
+        <p>The agency's shifting priorities may have been signaled by subtle changes in its mission statement this year, as described by Andrew Revkin in The Times. Although the agency had previously led off its goals with ''to understand and protect our home planet,'' a new mission statement reads simply, ''To pioneer the future in space exploration, scientific discovery and aeronautics research.''</p>
+        <p>Agency officials note that sub-goal 3A still proposes to ''study earth from space to advance scientific understanding and meet societal needs.'' But earth studies seem to be in trouble.</p>
+        <p>The agency has canceled a deep space observatory to monitor solar radiation, water vapor, clouds, aerosols and other things important to climate change. It has delayed a mission with Japan to measure global precipitation, decided not to pay for a mission to measure soil moisture around the world, and reduced the money available to analyze data. Under Congressional pressure, the agency has reinstated a mission to study aerosols and solar radiation from orbit. But it has little money to do much else in coming years. A National Academy of Sciences panel warned that the nation's system of environmental satellites was ''at risk of collapse.''</p>
+        <p>The problems in earth sciences are part of a broader slowdown in science missions as NASA tries to do too much with too little. NASA officials sometimes say that they are slowing the rate of growth in science budgets. But Congressional analysts say the agency cut its science spending in 2006 to cover unexpectedly expensive shuttle repairs. It now plans small increases that won't keep up with inflation or bring spending back to previous levels for many years. One analyst likened NASA to a mugger who takes $100 from a victim and then returns $20 a year, telling the recipient to be thankful.</p>
+        <p>A Senate committee has approved $1 billion in emergency funds to reimburse programs that were cut to pay for the shuttle repairs. If that doesn't fly, count home-planet studies and other science programs as a casualty of the administration's insistence on completing the space station.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Knock Yourself Out (on Dry Ice)</title>
+    <meta content="28HAZA$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/12/28/health/28haza.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1638029"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="VITAL SIGNS: HAZARDS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041228T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EFD91F30F93BA15751C1A9629C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Knock Yourself Out (on Dry Ice)</hl1>
+        <hl2 class="online_headline">Hazards: Knock Yourself Out (on Dry Ice)</hl2>
+      </hedline>
+      <byline class="print_byline">By John O'Neil</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All he wanted to do was keep his food chilled, but he ended up out cold himself.</p>
+        <p>A case report last week in Morbidity and Mortality Weekly Report, published by the Centers for Disease Control and Prevention, described how an Alabama man discovered the hazards dry ice could pose.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>All he wanted to do was keep his food chilled, but he ended up out cold himself.</p>
+      </block>
+      <block class="full_text">
+        <p>All he wanted to do was keep his food chilled, but he ended up out cold himself.</p>
+        <p>A case report last week in Morbidity and Mortality Weekly Report, published by the Centers for Disease Control and Prevention, described how an Alabama man discovered the hazards dry ice could pose.</p>
+        <p>In September, the man, a 34-year-old resident of Mobile, bought 100 pounds of dry ice from a local icehouse in anticipation of power failures as Hurricane Ivan approached. With a temperature of minus 109.3 degrees Fahrenheit, dry ice can keep perishable items fresh longer than regular ice.</p>
+        <p>The man put the ice beside him in his pickup truck, turned on the air-conditioner and headed home. Before he had driven a quarter of a mile, the article said, he became so short of breath that he called his wife and asked her to call 911. He then pulled his truck into a parking lot and lost consciousness.</p>
+        <p>She drove to the lot and found his truck, and he began to recover as soon as she opened the door. Although he had a headache for the next 24 hours he reported no lasting effects, the article said.</p>
+        <p>Dry ice is frozen carbon dioxide, and when it melts it releases carbon dioxide as a gas, said Dr. Martin Belson, a toxicologist with the National Center for Environmental Health, a branch of the disease control centers.</p>
+        <p>By setting the air-conditioning to recirculate, the man had left himself with dangerously little ventilation, Dr. Belson said.</p>
+        <p>He said that more serious cases had been seen in workplace settings and in submarines. Dry ice should be treated with respect, Dr. Belson added.</p>
+        <p>VITAL SIGNS: HAZARDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

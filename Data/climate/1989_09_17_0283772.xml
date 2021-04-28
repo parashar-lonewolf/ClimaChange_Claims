@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="283772"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4DA153BF934A2575AC0A96F948260" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Poland on Soviet Invasion</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Poland on Soviet Invasion</p>
+        <p>Poland on Soviet Invasion</p>
+        <p>Breaking a long official silence, the Polish Communist Party newspaper said the Soviet Union perpetrated ''massive crimes'' when it invaded Poland in concert with Hitler's army at the start of World War II. Page 22.  Amazon Fires Reduced</p>
+        <p>The destruction of the Amazonian rain forest by manmade fires, a major factor in global warming, is being slowed by rain, fines and reversals in Brazilian policy, preliminary figures for this year show. Page 22.  The Clean-Air Fight</p>
+        <p>Congress discovers anew that few issues pit region against region the way cleaning the air does. Page 48.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Saturday News Quiz</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="249393"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <person class="indexing_service">AMSTER, LINDA</person>
+        <object.title class="indexing_service">SATURDAY NEWS QUIZ (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4DA103EF930A25756C0A96F948260" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Saturday News Quiz</hl1>
+      </hedline>
+      <byline class="print_byline">By Linda Amster</byline>
+      <byline class="normalized_byline">AMSTER, LINDA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Questions are based on news reports in The Times this week. Answers appear on page 48.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Questions are based on news reports in The Times this week. Answers appear on page 48.</p>
+        <p>Questions are based on news reports in The Times this week. Answers appear on page 48.</p>
+        <p>1. Who is this man and what led to this situation?</p>
+        <p>2. The White House confirmed that it had changed a top Government scientist's Congressional testimony on the effects of global warming. What was the original testimony and how was it altered?</p>
+        <p>3. The New York City Transit Authority celebrated a disappearance. Explain.</p>
+        <p>4. Mikhail S. Gorbachev, the Soviet leader, is said to have turned a marginal military resource into a significant political weapon. What announcement did he make and what is at issue?</p>
+        <p>5. The buyer paid $3.5 million for a town house on East 52d Street, Manhattan. Why was that noteworthy?</p>
+        <p>6. It wasn't what four officials said to a Congressional panel that caused the ruckus; it was who they were and why they had been invited to Capitol Hill. Explain.</p>
+        <p>7. Harvey W. Schultz, a New York City official, said he felt like Gene Kelly. Why?</p>
+        <p>8. Aleksandr Mogilny began an unprecedented route to the National Hockey League. Explain.</p>
+        <p>9. Norma McCorvey has become an emotional symbol in a national debate. What is the reason?</p>
+        <p>10. Every day hundreds of students disguise their textbooks and sneak off to secret classes. Where is this happening and what is happening?</p>
+        <p>11. ''Jerome Robbins's Broadway'' and ''Black and Blue'' received 10 Tony Award nominations each but not for the categories of best book or score of a musical. Why not?</p>
+        <p>12. Some of Mayor Edward I. Koch's rivals took issue with his proposed timetable for the selection of a Schools Chancellor to succeed Dr. Richard R. Green, who died suddenly. What schedule does Mr. Koch advocate and why might it be opposed?</p>
+        <p>13. A soup kitchen has opened in a foreign city. Why was that noteworthy?</p>
+        <p>14. For Easy Goer, the trip in Louisville was more difficult than expected. Explain.</p>
+        <p>15. A proposal by Gov. Mario M. Cuomo for a major expansion of the state and city criminal justice systems left a crucial issue open. What is it?</p>
+        <p>16. At a high school that opened in Sweetwater, Tenn., the first of its kind in the nation, the academic year begins in April. What kind of school is it?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

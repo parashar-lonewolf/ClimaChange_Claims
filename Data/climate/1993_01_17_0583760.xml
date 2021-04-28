@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SILENCE OF THE FROGS</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="583760"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FROGS</classifier>
+        <person class="indexing_service">IRVING, JEAN R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amphibians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2D61730F934A25752C0A965958260" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SILENCE OF THE FROGS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Acid rain, ozone-layer disintegration and earth warming aside, could the frogs also be endangered merely from the invasion of their habitat by the many humans studying them ("Silence of the Frogs," by Emily Yoffe, Dec. 13)? Could contamination from our environment or stress caused by our being there be enough to change the delicate balance of the frog's immune system and ecosystem?</p>
+      </block>
+      <block class="full_text">
+        <p>Acid rain, ozone-layer disintegration and earth warming aside, could the frogs also be endangered merely from the invasion of their habitat by the many humans studying them ("Silence of the Frogs," by Emily Yoffe, Dec. 13)? Could contamination from our environment or stress caused by our being there be enough to change the delicate balance of the frog's immune system and ecosystem?</p>
+        <p>I have witnessed the changes in the coral beds and marine life in the Caribbean over the past 20 years and would guess they might be caused, at least in part, by the invasion of hundreds of swimming, boating, snorkeling and scuba-diving tourists and what they bring and leave behind -- both knowingly and inadvertently. JEAN R. IRVING, R.N.</p>
+        <p>Kent, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

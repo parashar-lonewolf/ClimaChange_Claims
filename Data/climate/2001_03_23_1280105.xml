@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robert Kalka -- 'Certain Circumstances'</title>
+    <meta content="RV011226" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1280105"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Glueck, Grace</person>
+        <person class="indexing_service">Kalka, Robert</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EFD6143CF930A15750C0A9679C8B63" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robert Kalka -- 'Certain Circumstances'</hl1>
+      </hedline>
+      <byline class="print_byline">By GRACE GLUECK</byline>
+      <byline class="normalized_byline">Glueck, Grace</byline>
+      <abstract>
+        <p>Grace Glueck reviews Robert Kalka show at Joseph Helman Gallery (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joseph Helman Gallery  20 West 57th Street, Manhattan  Through March 31</p>
+        <p>Small phenomena in Plexiglass enclosures make up Robert Kalka's first solo show, and although repetitious the show provokes a frisson or two. The most effective piece is ''Temporal Gulf,'' in which a house, or the bony frame of one, is attended on one side by the bony hulk of a collapsed Triassic creature.</p>
+      </block>
+      <block class="full_text">
+        <p>Joseph Helman Gallery  20 West 57th Street, Manhattan  Through March 31</p>
+        <p>Small phenomena in Plexiglass enclosures make up Robert Kalka's first solo show, and although repetitious the show provokes a frisson or two. The most effective piece is ''Temporal Gulf,'' in which a house, or the bony frame of one, is attended on one side by the bony hulk of a collapsed Triassic creature.</p>
+        <p>Both house and creature are covered with an evolving mold encouraged by condensation inside the sealed box and a dusting of flour on its two inhabitants. The condensation, however, fortunately makes these repellent objects hard to view.</p>
+        <p>There are more appealing variants of the house-tree, house-lizard theme, like ''Certain Circumstances,'' a drier work in which the house itself and an accompanying tree are made of see-through plastic to look like ice and their Plexiglas viewing box is roughed up to imitate the effect of condensation. Come to think of it, these works could have to do with oil spills and global warming.</p>
+        <p>Off the subject, or maybe not, ''The Nature of Circumstances'' is composed of two puffy white tugboats, looking like bathtub toys; one is turned over on its side and spilling from its smokestack is a frozen puddle of white glop. It adds a lilt to this low-key show.</p>
+        <p>GRACE GLUECK</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

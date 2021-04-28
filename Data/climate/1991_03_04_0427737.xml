@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Utilities Given a Warning</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="427737"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">RATES</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910304T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DE1E3AF937A35750C0A967958260" item-length="405" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Utilities Given a Warning</hl1>
+      </hedline>
+      <dateline>MATTHEW L. WALD</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A coalition of state energy officials and environmentalists has warned electric companies around the country that if they do not immediately start to plan to reduce greenhouse gas emissions, the coalition will oppose some future rate increases.</p>
+        <p>In a letter to utility executives, the coalition warned that if the Federal Government imposes a "carbon tax" or other measures to limit the emission of carbon dioxide, which is believed to cause global warming, the coalition will try to keep the companies from passing the tax on to consumers for plants built in 1991 and after.</p>
+      </block>
+      <block class="full_text">
+        <p>A coalition of state energy officials and environmentalists has warned electric companies around the country that if they do not immediately start to plan to reduce greenhouse gas emissions, the coalition will oppose some future rate increases.</p>
+        <p>In a letter to utility executives, the coalition warned that if the Federal Government imposes a "carbon tax" or other measures to limit the emission of carbon dioxide, which is believed to cause global warming, the coalition will try to keep the companies from passing the tax on to consumers for plants built in 1991 and after.</p>
+        <p>The state officials and environmentalists said in the letter that they would argue that by 1991 the companies should have forseen the tax and that building the plants was "imprudent."</p>
+        <p>"We're giving fair warning," said David G. Hawkins, an energy expert at the Natural Resources Defense Council. "Two years from now, or 5 years from now, or 10, it's likely a cost will be imposed on the utilities. Everybody ought to bear that in mind right now."</p>
+        <p>One recipient of the letter, John W. Rowe, the chairman of the New England Electric System, said, "We all have it in mind, but the real question is the trade-off between cost and environmental impact."</p>
+        <p>At the Edison Electric Institute, a trade association representing investor-owned utilities, Mary Kenkel, a spokeswoman, said environmental issues were already finding their way into utility decisions, with 17 states considering how to incorporate environmental costs into decisions on what plants to build and what efficiency improvements to finance. Most of those systems, she said, incorporate some consideration of greenhouse gases, in addition to conventional pollution problems like ozone and acid rain.</p>
+        <p>She said a focus on greenhouse gases would "push you toward natural gas and renewable energy." But coal, the biggest emitter of carbon dioxide per kilowatt-hour produced, and nuclear power, which the environmentalists explicitly warned they did not favor, make up 80 percent of power generation now. "You can't eliminate 80 percent of your fuel mix," she said.</p>
+        <p>The letter, dated Jan. 31, was sent by the National Association of State Utility Consumer Advocates, an organization representing state-appointed consumer advocates in 38 states, and 17 environmental organizations, including the National Audubon Society, the Sierra Club and the Natural Resources Defense Council.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

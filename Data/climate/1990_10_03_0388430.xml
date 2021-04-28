@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Protecting Balloons at 120,000 Feet</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="388430"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BALLOONS</classifier>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Balloons</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D9123FF930A35753C1A966958260" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Protecting Balloons at 120,000 Feet</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: rrHigh-altitude scientific balloons, viewed as low-tech cousins of rockets, are undergoing major technical changes as they are called upon to perform more difficult tasks in a hostile environment.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: rrHigh-altitude scientific balloons, viewed as low-tech cousins of rockets, are undergoing major technical changes as they are called upon to perform more difficult tasks in a hostile environment.</p>
+        <p>rrHigh-altitude scientific balloons, viewed as low-tech cousins of rockets, are undergoing major technical changes as they are called upon to perform more difficult tasks in a hostile environment.</p>
+        <p>NASA annually launches up to 50 balloons that rise to 120,000 feet, three times as high as commercial aircraft and above 99.9 percent of the atmosphere, for studies of everything from the ozone layer to black holes. They are cheaper and more flexible than rockets and can be launched with much less lead time. The largest are 380 feet high and 480 feet in diameter, displacing 40 million cubic feet.</p>
+        <p>But the balloons do not last long. The bottom of the balloon must be left unsealed or the sun will heat the helium inside to the bursting point. As a result, after hours or days, the balloon has lost so much helium that the instruments must be cut loose and dropped by parachute back to earth. Another challenge, for the 20 miles of seams on the balloons, is temperatures of 90 below zero.</p>
+        <p>Recently, a researcher at Pennsylvania State University, Dr. Ian R. Harrison, has developed a stronger material, combining two polyethylenes, one high density, of the kind used for industrial containers, and the other linear low density, a recent innovation in which the molecules are arranged in chains with occasional branches.</p>
+        <p>The mixture is stronger than either alone and about 30 percent stronger than what is used now. Dr. Harrison is trying to perfect extruding the polyethylene into sheets. The goal is a balloon that can be sealed and withstand the pressure that results when the sun heats the helium. Such a balloon could stay aloft for weeks.</p>
+        <p>BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

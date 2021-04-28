@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Members of Study Panel</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="436512"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <org class="indexing_service">NATIONAL ACADEMY OF SCIENCES</org>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DB1539F932A25757C0A967958260" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Members of Study Panel</hl1>
+      </hedline>
+      <dateline>WASHINGTON, April 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Following are the members of the National of Academy of Science's panel on global warming: Daniel J. Evans, chairman of Daniel J. Evans &amp; Associates, Seattle, and a former Governor and Senator from Washington.</p>
+        <p>Robert McCormick Adams, Secretary, Smithsonian Institution, Washington.</p>
+        <p>George F. Carrier, T. Jefferson Coolidge Professor of Applied Mathematics, emeritus, Harvard University.</p>
+        <p>Richard N. Cooper, professor of economics, Harvard.</p>
+        <p>Robert A. Frosch, vice president, General Motors Research Laboratories, Warren, Mich.</p>
+        <p>Thomas H. Lee, professor emeritus, department of electrical engineering and computer science, Massachusetts Institute of Technology.</p>
+        <p>Jessica Tuchman Mathews, vice president, World Resources Institute, Washington.William D. Nordhaus, professor of economics, Yale University.</p>
+        <p>Gordon H. Orians, professor of zoology and director of the Institute for Environmental Studies, University of Washington, Seattle.</p>
+        <p>Stephen H. Schneider, head of interdisciplinary climate studies, National Center for Atmospheric Research, Boulder, Colo.</p>
+        <p>Maurice F. Strong, chairman, director general of the External Aid Office of the Canadian Government (resigned from panel February 1990).</p>
+        <p>Sir Crispin Tickell, warden, Green College, Oxford, England.</p>
+        <p>Victoria J. Tschinkel, senior consultant, Landers &amp; Parsons, Tallahassee, Fla.</p>
+        <p>Paul E. Waggoner, distinguished scientist, Connecticut Agricultural Experiment Station, New Haven.</p>
+      </block>
+      <block class="full_text">
+        <p>Following are the members of the National of Academy of Science's panel on global warming: Daniel J. Evans, chairman of Daniel J. Evans &amp; Associates, Seattle, and a former Governor and Senator from Washington.</p>
+        <p>Robert McCormick Adams, Secretary, Smithsonian Institution, Washington.</p>
+        <p>George F. Carrier, T. Jefferson Coolidge Professor of Applied Mathematics, emeritus, Harvard University.</p>
+        <p>Richard N. Cooper, professor of economics, Harvard.</p>
+        <p>Robert A. Frosch, vice president, General Motors Research Laboratories, Warren, Mich.</p>
+        <p>Thomas H. Lee, professor emeritus, department of electrical engineering and computer science, Massachusetts Institute of Technology.</p>
+        <p>Jessica Tuchman Mathews, vice president, World Resources Institute, Washington.William D. Nordhaus, professor of economics, Yale University.</p>
+        <p>Gordon H. Orians, professor of zoology and director of the Institute for Environmental Studies, University of Washington, Seattle.</p>
+        <p>Stephen H. Schneider, head of interdisciplinary climate studies, National Center for Atmospheric Research, Boulder, Colo.</p>
+        <p>Maurice F. Strong, chairman, director general of the External Aid Office of the Canadian Government (resigned from panel February 1990).</p>
+        <p>Sir Crispin Tickell, warden, Green College, Oxford, England.</p>
+        <p>Victoria J. Tschinkel, senior consultant, Landers &amp; Parsons, Tallahassee, Fla.</p>
+        <p>Paul E. Waggoner, distinguished scientist, Connecticut Agricultural Experiment Station, New Haven.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

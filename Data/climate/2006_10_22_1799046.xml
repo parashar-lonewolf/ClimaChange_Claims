@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Remix; Block Party</title>
+    <meta content="1908--remix--foundation---1" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Beauty" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1799046"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E6DC1F30F931A15753C1A9609C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Remix; Block Party</hl1>
+      </hedline>
+      <byline class="print_byline">By Holly Siegel</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jet-setters have one fewer reason to bemoan the airline toiletry ban: superpotent sunscreen is now available stateside. The F.D.A. has approved Mexoryl SX, the UVA-blocking ingredient that is a major component of L'Oréal's Anthelios SC, a beauty-junkie favorite previously available only in Europe, Canada and Mexico. While the competition was waiting, Johnson &amp; Johnson developed Helioplex technology, combining already-approved ingredients to the same end. What's the big deal? Till now, even the best sunscreens protected against cancer-causing rays for only about two hours; the new products last up to four. So go ahead: take a quick nap on the beach. Dr. Darrell Rigel, the president-elect of the American Society for Dermatologic Surgery, calls the ingredients ''the greatest breakthroughs in preventing skin cancer in a decade.'' Now, if scientists could only solve that other threat to beachgoers: global warming.</p>
+        <p>HOLLY SIEGEL</p>
+      </block>
+      <block class="full_text">
+        <p>Jet-setters have one fewer reason to bemoan the airline toiletry ban: superpotent sunscreen is now available stateside. The F.D.A. has approved Mexoryl SX, the UVA-blocking ingredient that is a major component of L'Oréal's Anthelios SC, a beauty-junkie favorite previously available only in Europe, Canada and Mexico. While the competition was waiting, Johnson &amp; Johnson developed Helioplex technology, combining already-approved ingredients to the same end. What's the big deal? Till now, even the best sunscreens protected against cancer-causing rays for only about two hours; the new products last up to four. So go ahead: take a quick nap on the beach. Dr. Darrell Rigel, the president-elect of the American Society for Dermatologic Surgery, calls the ingredients ''the greatest breakthroughs in preventing skin cancer in a decade.'' Now, if scientists could only solve that other threat to beachgoers: global warming.</p>
+        <p>HOLLY SIEGEL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

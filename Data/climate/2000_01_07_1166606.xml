@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DaimlerChrysler Leaving Climate Coalition</title>
+    <meta content="Y07WARM" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1166606"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E4D6153BF934A35752C0A9669C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DaimlerChrysler Leaving Climate Coalition</hl1>
+      </hedline>
+      <dateline>DETROIT, Jan. 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The DaimlerChrysler Corporation, the American unit of DaimlerChrysler A.G., said tonight that it was leaving the Global Climate Coalition, a group of heavy- industry companies that lobbies against regulations restricting emissions of gases linked to global warming.</p>
+        <p>James P. Holden, the DaimlerChrysler Corporation president, said in a letter to the coalition that the company continued to believe that voluntary improvements in technology were the best way to reduce emissions. But the company wants to speak for itself, he said.</p>
+      </block>
+      <block class="full_text">
+        <p>The DaimlerChrysler Corporation, the American unit of DaimlerChrysler A.G., said tonight that it was leaving the Global Climate Coalition, a group of heavy- industry companies that lobbies against regulations restricting emissions of gases linked to global warming.</p>
+        <p>James P. Holden, the DaimlerChrysler Corporation president, said in a letter to the coalition that the company continued to believe that voluntary improvements in technology were the best way to reduce emissions. But the company wants to speak for itself, he said.</p>
+        <p>Environmentalists have portrayed the coalition as a club for polluters and have urged companies to quit it.</p>
+        <p>A succession of companies have left, including Ford Motor last month.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

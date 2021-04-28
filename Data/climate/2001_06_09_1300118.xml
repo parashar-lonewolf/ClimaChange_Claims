@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Next Step On Global Warming</title>
+    <meta content="LTR232238" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1300118"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <person class="indexing_service">Liptak, Bela</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DB143EF93AA35755C0A9679C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Next Step On Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Bela Liptak letter on June 8 editorial on global warming calls for orderly conversion to inexhaustible energy sources</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>You are correct in stating that more conservation and improved efficiency will extend the life of our planet's exhaustible energy supplies (''A Stern Warning on Warming,'' editorial, June 8). Yet the only permanent solution is the orderly conversion to inexhaustible energy sources. The sooner we recognize that fact, the more time we will have to achieve a smooth transition.</p>
+        <p>BELA LIPTAK  Stamford, Conn., June 8, 2001</p>
+        <p>The writer is editor of Environmental Engineers' Handbook.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>You are correct in stating that more conservation and improved efficiency will extend the life of our planet's exhaustible energy supplies (''A Stern Warning on Warming,'' editorial, June 8). Yet the only permanent solution is the orderly conversion to inexhaustible energy sources. The sooner we recognize that fact, the more time we will have to achieve a smooth transition.</p>
+        <p>BELA LIPTAK  Stamford, Conn., June 8, 2001</p>
+        <p>The writer is editor of Environmental Engineers' Handbook.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

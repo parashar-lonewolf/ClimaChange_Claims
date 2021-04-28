@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'A Moment on the Earth'</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="765277"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <person class="indexing_service">EASTERBROOK, GREGG</person>
+        <person class="indexing_service">SPECTER, MICHAEL</person>
+        <person class="indexing_service">OPPENHEIMER, MICHAEL</person>
+        <object.title class="indexing_service">MOMENT ON THE EARTH, A (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DD133BF93BA15756C0A963958260" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'A Moment on the Earth'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Michael Specter is right to be wary of the paucity of citations of primary sources in Gregg Easterbrook's book "A Moment on the Earth" (April 23). Many of the assertions used to support Mr. Easterbrook's broad arguments are wrong. Here are three examples among many we at the Environmental Defense Fund have found in the book's section on global warming:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Michael Specter is right to be wary of the paucity of citations of primary sources in Gregg Easterbrook's book "A Moment on the Earth" (April 23). Many of the assertions used to support Mr. Easterbrook's broad arguments are wrong. Here are three examples among many we at the Environmental Defense Fund have found in the book's section on global warming:</p>
+        <p>* Mr. Easterbrook claims that the National Academy of Sciences "has backed away from the high end" of its forecast of future global warming due to doubling of carbon dioxide in the atmosphere. A review of the academy's reports on global warming shows that this claim is false.</p>
+        <p>* Mr. Easterbrook claims that "the highest observed actual sea-level rise in this century is a mere one inch" to support his assertion that global warming is not affecting sea level as anticipated. According to studies by the United Nations' Intergovernmental Panel on Climate Change, average global sea level has, in fact, risen between four and eight inches over the past century, an amount that is consistent with global warming projections. According to a 1987 report published by the National Academy of Sciences, such a rise is sufficient to erode 40 feet of sand on a typical barrier beach on the east coast of the United States.</p>
+        <p>* Mr. Easterbrook claims that "global temperatures should have risen about five degrees Fahrenheit by now" if computer models that project global warming are correct. This claim is false, since a warming of that magnitude is not projected to occur until the middle of the next century.</p>
+        <p>Other chapters are also rife with errors, generally made in support of spurious arguments that diminish the significance of key environmental problems like global warming, ozone depletion and biodiversity. If such errors had been avoided, a more balanced book could have resulted.  MICHAEL OPPENHEIMER  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

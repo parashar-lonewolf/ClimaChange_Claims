@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Theater in Review</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="483713"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">THEATER</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">HOLDEN, STEPHEN</person>
+        <person class="indexing_service">LEARY, DENIS</person>
+        <object.title class="indexing_service">NO CURE FOR CANCER (SHOW)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews/By Stephen Holden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911030T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D8103EF933A05753C1A967958260" item-length="401" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Theater in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+      <byline class="normalized_byline">HOLDEN, STEPHEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>No Cure for Cancer  Actors' Playhouse 100 Seventh Avenue South, near Bleecker Street Manhattan Through Nov. 17 Written and performed by Denis Leary; directed by Chris Phillips; scenic lighting by Larry Lieberman; music by Mr. Leary, Mr. Phillips and Adam Roth; sound by Peter Klusman; executive producer, Full Circle Management. Presented by Jason M. Solomon, Pamela Ross and Comedy Central.</p>
+      </block>
+      <block class="full_text">
+        <p>No Cure for Cancer  Actors' Playhouse 100 Seventh Avenue South, near Bleecker Street Manhattan Through Nov. 17 Written and performed by Denis Leary; directed by Chris Phillips; scenic lighting by Larry Lieberman; music by Mr. Leary, Mr. Phillips and Adam Roth; sound by Peter Klusman; executive producer, Full Circle Management. Presented by Jason M. Solomon, Pamela Ross and Comedy Central.</p>
+        <p>"If Jesus had lived to be 40, he would have ended up just like Elvis," suggests Denis Leary midway in his one-man show, "No Cure for Cancer." The 33-year-old comedian from Boston goes on to imagine Christ's final days with his "12-man entourage" so vividly that he frightens himself with the possibility of going to hell for his fantasies.</p>
+        <p>Christians are not the only people likely to be offended by Mr. Leary's risky, high-octane comedy. His show takes merciless aim at vegetarians, environmentalists, Barry Manilow fans and Kitty Dukakis, and reserves special venom for John Denver, Sting, Dan Fogelberg and other musicians who have earnest goody-goody images.</p>
+        <p>Mr. Leary is all for everyone's going outside and raising their aerosol cans defiantly to the heavens and spraying them into the ozone layer. Why, he wonders, do we want to try to save the dolphins caught in tuna fishermen's nets while not also trying to save the tuna? It's because we "eat" the tuna fish, he answers with a vengeful, lip-smacking glee. An orgiastic paean to red meat segues into a meditation on cannibalism and the recommendation that when traveling by air one find a corpulent seat mate in case the plane goes down in a wilderness with no food supply.</p>
+        <p>The comedian, who looks like an impish cross between Willem Dafoe and Christian Slater, is of course being largely ironic. But the lusty rock-and-roll energy with which he plays the devil's advocate makes his irony anything but smug. He becomes downright likable when recalling his Irish-Catholic upbringing in Boston and the mixed psychological legacy of an ultra-macho father.</p>
+        <p>Such personal recollections help to humanize a show that deals, above all, with the fear of mortality. Symbolized by the cigarettes he chain-smokes, whose poisons he acknowledges with suicidal glee, Mr. Leary returns like an undaunted prizefighter to the specter of death, not only Elvis's but his own, ours and the planet's, and makes it seem terribly, angrily funny.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

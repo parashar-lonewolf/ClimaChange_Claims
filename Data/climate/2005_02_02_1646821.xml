@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fed Up With Spam, and Fighting Back</title>
+    <meta content="LTR234344" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1646821"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <person class="indexing_service">Nordberg, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E2DD133BF931A35751C0A9639C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fed Up With Spam, and Fighting Back</hl1>
+      </hedline>
+      <abstract>
+        <p>Paul Nordberg letter says junk e-mail should be taxed (Feb 1 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>There is a simple and effective way of dealing with junk e-mail: tax it. The revenues would easily finance the war on terrorism, ensure the future of Social Security and cover the expenses of reversing global warming.</p>
+        <p>Paul Nordberg  Ipswich, Mass., Feb. 1, 2005</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>There is a simple and effective way of dealing with junk e-mail: tax it. The revenues would easily finance the war on terrorism, ensure the future of Social Security and cover the expenses of reversing global warming.</p>
+        <p>Paul Nordberg  Ipswich, Mass., Feb. 1, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

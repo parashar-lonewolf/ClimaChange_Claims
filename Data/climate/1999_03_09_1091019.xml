@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Song of the Millennium: Cool Prelude and a Fiery Coda</title>
+    <meta content="09WEAT$04" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1091019"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <org class="indexing_service">University of Massachusetts</org>
+        <org class="indexing_service">University of Arizona</org>
+        <person class="indexing_service">Stevens, William K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990309T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E1DB103FF93AA35750C0A96F958260" item-length="378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Song of the Millennium: Cool Prelude and a Fiery Coda</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">Stevens, William K</byline>
+      <abstract>
+        <p>Reconstruction of hemispheric temperature record by scientists at University of Massachusetts and University of Arizona shows Northern Hemisphere has been warmer in 20th century than in any other century of last thousand years; report says dominant influence in this century has been emissions of heat-trapping greenhouse gases like carbon dioxide; reproduction of thousand-year weather chart (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Northern Hemisphere has been warmer in the 20th century than in any other century of the last thousand years, according to this reconstruction of the hemispheric temperature record by scientists at the University of Massachusetts and the University of Arizona.</p>
+        <p>The sharp upward jump of the last 100 years, shown in maroon, was recorded by thermometers at and near the earth's surface. Earlier fluctuations, shown in orange and black, were reconstructed from ''proxy'' evidence of climatic change contained in tree rings, lake and ocean sediments, ancient ice and coral reefs.</p>
+      </block>
+      <block class="full_text">
+        <p>The Northern Hemisphere has been warmer in the 20th century than in any other century of the last thousand years, according to this reconstruction of the hemispheric temperature record by scientists at the University of Massachusetts and the University of Arizona.</p>
+        <p>The sharp upward jump of the last 100 years, shown in maroon, was recorded by thermometers at and near the earth's surface. Earlier fluctuations, shown in orange and black, were reconstructed from ''proxy'' evidence of climatic change contained in tree rings, lake and ocean sediments, ancient ice and coral reefs.</p>
+        <p>The farther back in time the reconstruction is carried, the larger the range of possible error (light green area). Where the proxy and instrumental evidence overlap, they are in close accord.</p>
+        <p>Taken together, the evidence indicates that the abrupt 20th-century warming ended a 900-year natural cooling trend. Scientists who did the reconstruction cautioned that large uncertainties in the earlier centuries ''preclude, as yet, any definitive conclusions'' regarding the climate before about A.D. 1400.</p>
+        <p>The scientists were Dr. Michael E. Mann and Dr. Raymond S. Bradley at the University of Massachusetts and Dr. Malcolm K. Hughes of the University of Arizona. Their report is to appear in the March 15 issue of Geophysical Research Letters.</p>
+        <p>The researchers determined in an earlier study that until the 20th century, a variety of mostly natural climatic factors combined to produce the fluctuations in temperature. But in this century, they found, the dominant influence has been emissions of heat-trapping greenhouse gases like carbon dioxide, which is emitted by the burning of fossil fuels like coal and oil.</p>
+        <p>Over the last century, the average surface temperature of the globe has risen by about 1 degree Fahrenheit or a little more. By comparison, the earth is 5 to 9 degrees warmer now than in the depths of the last ice age some 20,000 years ago.</p>
+        <p>If greenhouse emissions are not reduced, scientists predict, the temperature will rise by another 2 to 6 degrees in the 21st century. The best estimate is about 3.5 degrees, which would make the earth warmer than it has been in millions of years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

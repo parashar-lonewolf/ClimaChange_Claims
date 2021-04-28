@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Greenhouse Effect: 'Hardly Apocalypse'</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="277714"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="WASHINGTON TALK: EXACT WORDS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <person class="indexing_service">RAY, DIXY LEE</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890823T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4DC1231F930A1575BC0A96F948260" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Greenhouse Effect: 'Hardly Apocalypse'</hl1>
+      </hedline>
+      <byline class="print_byline">Special to The New York Times</byline>
+      <dateline>WASHINGTON, Aug. 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Dixy Lee Ray, former Democratic Governor of Washington and onetime chairwoman of the Atomic Energy Commission, believes that the effects of global warming have been exaggerated and that its causes are misunderstood. Her remarks appeared in an article titled ''The Greenhouse Blues'' in the summer issue of Policy Review.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Dixy Lee Ray, former Democratic Governor of Washington and onetime chairwoman of the Atomic Energy Commission, believes that the effects of global warming have been exaggerated and that its causes are misunderstood. Her remarks appeared in an article titled ''The Greenhouse Blues'' in the summer issue of Policy Review.</p>
+        <p>Dixy Lee Ray, former Democratic Governor of Washington and onetime chairwoman of the Atomic Energy Commission, believes that the effects of global warming have been exaggerated and that its causes are misunderstood. Her remarks appeared in an article titled ''The Greenhouse Blues'' in the summer issue of Policy Review. The article was excerpted from her forthcoming book on the excesses of environmentalism.</p>
+        <p>''A final note on the supposedly dire consequences of a global temperature rise of 1.5 to 4.5 degrees centigrade over the next 50 years: Such a climate change, should it occur, is not nearly so drastic for humans as a move by an Alaskan to Palm Springs. . . . That hardly constitutes global environmental doom.</p>
+        <p>''Nor do the predictions of melting ice caps and possible inundation of low-lying areas. . . . A number of cities would be vulnerable to flooding of the sort that Venice and Holland have coped with for centuries. . . . It is hardly apocalypse.</p>
+        <p>''. . . Why do so many people believe in the dire forecasts? Perhaps the historian Hans Morgenthau was right when he wrote in 1946: 'The intellectual and moral history of mankind is the story of insecurity, of the anticipation of impending doom, of metaphysical anxieties.' John Maddox, editor of the British journal Nature, says, 'But these days there also seems to be an underlying cataclysmic sense among people. Scientists don't seem to be immune to this.'</p>
+        <p>''Well, they ought to be. What the greenhouse debate needs most is a dose of healthy skepticism.''  WASHINGTON TALK: EXACT WORDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

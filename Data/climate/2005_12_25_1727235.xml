@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Writers and Politics</title>
+    <meta content="25letterspage-4" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1727235"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Kellman, Steven G</person>
+        <person class="indexing_service">Wilentz, Sean</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0DD1630F936A15751C1A9639C8B63" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Writers and Politics</hl1>
+      </hedline>
+      <abstract>
+        <p>Steven G Kellman letter comments on Sean Wilentz Dec 11 essay</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Only a historian would want to read Nathaniel Hawthorne's campaign biography of Franklin Pierce or William Dean Howells's of Abraham Lincoln. Sean Wilentz's lament (''The Rise of Illiterate Democracy,'' Dec. 11) over ''the collapse of the old alliance between politics and literature'' is puzzling, but not because it defies the common canard that American literary culture, including The New York Times Book Review, is the creature of a liberal elite. Numerous writers have been active in party (including Communist) politics, and some -- Upton Sinclair, James Michener, Norman Mailer, Gore Vidal, Jimmy Breslin, William F. Buckley -- have even run for office. Many campaign against war, global warming, capital punishment, censorship and torture. But writers qua writers deserve to be judged by their literary work; and the best work of many of our best writers, including Don DeLillo, William Kennedy, Maxine Hong Kingston, David Mamet, Toni Morrison, Adrienne Rich, Philip Roth and August Wilson, aligns politics with literature the way the best work of Hawthorne, Melville and Whitman did, by exposing the fault lines of power, powerfully.</p>
+        <p>Steven G. Kellman</p>
+        <p>San Antonio</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Only a historian would want to read Nathaniel Hawthorne's campaign biography of Franklin Pierce or William Dean Howells's of Abraham Lincoln. Sean Wilentz's lament (''The Rise of Illiterate Democracy,'' Dec. 11) over ''the collapse of the old alliance between politics and literature'' is puzzling, but not because it defies the common canard that American literary culture, including The New York Times Book Review, is the creature of a liberal elite. Numerous writers have been active in party (including Communist) politics, and some -- Upton Sinclair, James Michener, Norman Mailer, Gore Vidal, Jimmy Breslin, William F. Buckley -- have even run for office. Many campaign against war, global warming, capital punishment, censorship and torture. But writers qua writers deserve to be judged by their literary work; and the best work of many of our best writers, including Don DeLillo, William Kennedy, Maxine Hong Kingston, David Mamet, Toni Morrison, Adrienne Rich, Philip Roth and August Wilson, aligns politics with literature the way the best work of Hawthorne, Melville and Whitman did, by exposing the fault lines of power, powerfully.</p>
+        <p>Steven G. Kellman</p>
+        <p>San Antonio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

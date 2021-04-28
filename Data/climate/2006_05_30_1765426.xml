@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Science and Politics, Heat and Light</title>
+    <meta content="l30warm-2" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1765426"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Green, Kenneth</person>
+        <person class="indexing_service">Easterbrook, Gregg</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E7DA1F3EF933A05756C0A9609C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Science and Politics, Heat and Light</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from American Enterprise Institute visiting fellow Kenneth Green says controls on greenhouse gases favored by Gregg Easterbrook have been expensive failures in practice (May 24 Op-Ed article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Gregg Easterbrook's sudden climate-science conversion and call for greenhouse-gas rationing represents a small step forward and a huge step back.</p>
+        <p>Accepting the science of climate change has never been the real debate: there are, and always have been, reputable scientists, economists and policy analysts who accept mainstream climate science while arguing for affordable adaptive policies and additional research as the most rational policy response to the threat of climate change.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Gregg Easterbrook's sudden climate-science conversion and call for greenhouse-gas rationing represents a small step forward and a huge step back.</p>
+        <p>Accepting the science of climate change has never been the real debate: there are, and always have been, reputable scientists, economists and policy analysts who accept mainstream climate science while arguing for affordable adaptive policies and additional research as the most rational policy response to the threat of climate change.</p>
+        <p>Kyoto boosters have tried to hide this ''inconvenient truth'' by labeling anyone who disagrees with them a shill or a crackpot, and insisting that science ''demands'' that we control greenhouse gas emissions. But science only tells us how things are, not what to do.</p>
+        <p>Greenhouse gas controls of the sort Mr. Easterbrook favors have been expensive failures wherever tried. It would be a giant step backward for the United States to enact such failed, expensive approaches to climate change.</p>
+        <p>Kenneth Green  Washington, May 24, 2006</p>
+        <p>The writer is a visiting fellow, American Enterprise Institute.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

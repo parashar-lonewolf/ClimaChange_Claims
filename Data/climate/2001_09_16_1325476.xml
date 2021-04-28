@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Economics of Diesel Meets the Politics Fuel</title>
+    <meta content="16FUEL$02" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/09/16/automobiles/16FUEL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1325476"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Diesel Power</classifier>
+        <location class="indexing_service">Europe</location>
+        <person class="indexing_service">Patton, Phil</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Volkswagen AG</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E0DA1E38F935A2575AC0A9679C8B63" item-length="403" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Economics of Diesel Meets the Politics Fuel</hl1>
+        <hl2 class="online_headline">The Economics of Diesel Meets the Politics Fuel</hl2>
+      </hedline>
+      <byline class="print_byline">By PHIL PATTON</byline>
+      <byline class="normalized_byline">Patton, Phil</byline>
+      <abstract>
+        <p>Article discusses strict diesel fuel standards in Europe (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR years, the appeal of diesel-powered cars, primarily their efficiency and durability, was offset by emissions that were generally above those of gasoline autos.</p>
+        <p>While low in carbon dioxide and carbon monoxide, diesels produce more nitrous oxide and particulates -- the sooty stuff -- than similar-size gasoline engines. The soot is largely caused by sulfur in the fuel.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new set of stricter diesel standards, known as Euro 4, goes into effect in Europe in 2005, but Volkswagen's TDI already meets them.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR years, the appeal of diesel-powered cars, primarily their efficiency and durability, was offset by emissions that were generally above those of gasoline autos.</p>
+        <p>While low in carbon dioxide and carbon monoxide, diesels produce more nitrous oxide and particulates -- the sooty stuff -- than similar-size gasoline engines. The soot is largely caused by sulfur in the fuel.</p>
+        <p>European law limits the amount of sulfur in diesel. Engines like the Lupo's TDI are built to take advantage of that. Indeed, a modern engine like the Lupo's requires low-sulfur fuel to prevent the fuel injectors from becoming clogged.</p>
+        <p>A new set of stricter diesel standards, known as Euro 4, goes into effect in Europe in 2005, but Volkswagen's TDI already meets them. VW is working on an even cleaner and more efficient diesel, as well as a particle filter that, unlike current ones, does not have to be regularly changed. Mercedes, BMW and other European manufacturers are also improving diesels, and some industry experts predict diesel cars may account for half Europe's sales by 2010.</p>
+        <p>In February, the administrator of the Environmental Protection Agency, Christine Todd Whitman, endorsed a regulation put in place in the waning days of the Clinton administration that would limit sulfur to 10 parts per million, a tenfold reduction, in most diesel fuel by 2006. Under the existing timetable, 80 percent of all fuel sold will be required to meet the standard by 2006, and the rest by 2010.</p>
+        <p>The petroleum industry is not happy with the rules, and car makers are split. Some welcome cleaner fuel that would enable them to sell more diesel engines, while others resist installing the new equipment necessary to meet the higher standards.</p>
+        <p>This includes filters for particulates and catalytic converters to remove nitrous oxide. The National Petrochemical and Refiners Association challenged the rule in court, arguing that it would burden consumers with large price increases and create shortages.</p>
+        <p>The American Petroleum Institute and the American Trucking Association have both sought delays or revisions. On Aug. 9, the E.P.A. decided to create a panel of industry experts to consider delaying the planned changes.</p>
+        <p>PHIL PATTON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

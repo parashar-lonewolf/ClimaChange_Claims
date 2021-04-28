@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Our Environment Deserves Better</title>
+    <meta content="LTR003448" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1128740"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Allen, Matthew</person>
+        <person class="indexing_service">Herbert, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE5D71530F935A3575BC0A96F958260" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Our Environment Deserves Better</hl1>
+      </hedline>
+      <abstract>
+        <p>Matthew Allen letter scores politicians and their benefactors who write off concerns about global warming as 'alarmist' (Aug 5 Bob Herbert Op-Ed)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re Bob Herbert's warning on global warming (column, Aug. 5): The Americans in the best position to do something about this problem choose not to believe the findings of some of the most renowned scientists working today. Allowing the validity of such claims would be an indictment of their way of life, saying that they and other well-off citizens of the world are destroying the earth through rampant consumerism.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re Bob Herbert's warning on global warming (column, Aug. 5): The Americans in the best position to do something about this problem choose not to believe the findings of some of the most renowned scientists working today. Allowing the validity of such claims would be an indictment of their way of life, saying that they and other well-off citizens of the world are destroying the earth through rampant consumerism.</p>
+        <p>Any sign that the powers that be are ready to take global warming seriously would be cause for optimism. However, those who are vocal about global warming are marginalized as radical Chicken Littles. Politicians and their benefactors turn the debate away from earth's survival to one about ''jobs.'' By convincing middle America that the ''alarmists'' are after their jobs, they stop the debate before it starts.</p>
+        <p>MATTHEW ALLEN  Austin, Tex., Aug. 5, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

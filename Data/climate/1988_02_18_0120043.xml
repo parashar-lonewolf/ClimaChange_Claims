@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>E.P.A. Reports Dip in Lead Emissions</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="120043"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">LEAD</classifier>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lead</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDA1031F93BA25751C0A96E948260" item-length="538" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>E.P.A. Reports Dip in Lead Emissions</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, Feb. 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Emissions of lead into the atmosphere declined 59 percent in 1986, the second straight record drop, the Environmental Protection Agency said today in its annual report on air pollution.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Emissions of lead into the atmosphere declined 59 percent in 1986, the second straight record drop, the Environmental Protection Agency said today in its annual report on air pollution.</p>
+        <p>Emissions of lead into the atmosphere declined 59 percent in 1986, the second straight record drop, the Environmental Protection Agency said today in its annual report on air pollution.</p>
+        <p>The report said the decline was a result of the agency's decision in 1985 to lower the permissible lead concentration of gasoline by more than 90 percent in two steps. The agency allowed a tenth of a gram of lead to a gallon in 1986.</p>
+        <p>In high concentrations lead can cause kidney and brain damage. Young children are particularly vulnerable since the brain is still forming.</p>
+        <p>The E.P.A.'s ''National Air Quality and Emissions Trends Report'' estimated emissions of lead into the air at 9,500 tons in 1986, as against 23,300 tons in 1985 and 44,200 tons in 1984. Nonvehicle Sources Steady</p>
+        <p>Lead emissions from nonvehicle sources, such as smelters, showed little change, making the decline in vehicle emissions even more dramatic, from 38,300 tons in 1984 to 17,100 tons in 1985 and 3,900 tons in 1986.</p>
+        <p>Over all, airborne lead emissions have declined 94 percent since they peaked in 1976, and vehicle emissions have fallen 97 percent.</p>
+        <p>Although lead can enhance octane in gasoline and thus the performance of a vehicle's engine, it also disables the pollution control equipment installed on most cars sold in this country from 1975 to 1980 and all cars after that.</p>
+        <p>As older cars have been taken off the roads, leaded gasoline has represented a dwindling share of the market, from 31 percent in 1986 to 24 percent in 1987, and lead emissions should continue to fall, officials say. Other Pollutants</p>
+        <p>The report showed these more modest declines in emissions of five other major pollutants from 1985 to 1986:</p>
+        <p>* Carbon monoxide, from 70.9 million tons to 67.1 million tons. Carbon monoxide can worsen heart problems since it displaces oxygen in the blood.</p>
+        <p>* Sulfur dioxide, from 23.8 million tons to 23.4 million tons. Sulfur dioxide causes breathing difficulties and can turn into acid rain.</p>
+        <p>* Volatile organic compounds, like unburned gasoline, that form ozone, from 22.4 million tons to 21.5 million tons.</p>
+        <p>* Nitrogen dioxide, from 21.7 million tons to 21.3 million tons. Nitrogen dioxide causes breathing problems, helps form ozone and can be transformed into acid rain.</p>
+        <p>* Smoke, dust and soot, what the E.P.A. calls ''total suspended particulates,'' from 7.7 million tons to 7.5 million tons. Change in Measuring</p>
+        <p>This is the last year total suspended particulates will be listed as a pollutant. The E.P.A. will count as a pollutant only fine particles that penetrate the lung.</p>
+        <p>The agency said 4.5 million people lived in counties that violated the national airborne lead concentration standard of 1.5 microgram per cubic meter, averaged over three months. The violations were due largely to smelters or other industrial sources. The figure was unchanged from last year's report.</p>
+        <p>The agency said these eight metropolitan areas had maximum quarterly lead concentrations that exceeded the standard for an industrial area: Philadelphia, 1.72 micrograms per cubic meter; St. Louis, 5.70; Minneapolis, 2.09; Seattle 1.82; Indianapolis 2.49; Birmingham, Ala., 2.30; Gary, Ind., 1.81, and El Paso, Tex., 1.57.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

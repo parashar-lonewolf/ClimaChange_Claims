@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE WORLD: Small Wonders; Dr. Frankenstein, Please Call Your Office</title>
+    <meta content="19MARK$04" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1185178"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <classifier class="indexing_service" type="descriptor">Nanotechnology</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Artificial Intelligence</classifier>
+        <org class="indexing_service">Wired (Magazine)</org>
+        <person class="indexing_service">Markoff, John</person>
+        <person class="indexing_service">Joy, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5DF123AF93AA25750C0A9669C8B63" item-length="1191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE WORLD: Small Wonders; Dr. Frankenstein, Please Call Your Office</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Sun Microsystems chief scientist Bill Joy, in Wired magazine essay, warns that 21st-century technologies--genetics, nanotechnology and robotics--are so powerful that they could spawn whole new classes of accidents and abuses; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN the space of three short decades the computer chip industry has come to resemble the Sorcerer's Apprentice.</p>
+        <p>The exponential growth in computing power has produced stunning advances in a range of sciences and engineering fields ranging from decoding the human genome to the design of machines that can outplay the best human chess player.</p>
+      </block>
+      <block class="full_text">
+        <p>IN the space of three short decades the computer chip industry has come to resemble the Sorcerer's Apprentice.</p>
+        <p>The exponential growth in computing power has produced stunning advances in a range of sciences and engineering fields ranging from decoding the human genome to the design of machines that can outplay the best human chess player.</p>
+        <p>And that in turn has led to exuberant predictions of a dawning of vast new information age utopias. Sentient intelligent machines are as close as three decades away, many industry leaders believe; smart materials that can repair themselves and genetically coded immortality may also be just around the corner.</p>
+        <p>Given the hype and relentless optimism, perhaps it's not surprising that serious scientists and researchers have begun to explore darker, less inviting visions of the future. This month an unlikely new doomsday prophet has emerged. In an essay in Wired magazine, a popular forum for high-technology boosterism, Bill Joy, the chief scientist at Sun Microsystems, warns that the human species may be on the verge of collective suicide. ''The 21st-century technologies -- genetics, nanotechnology and robotics -- are so powerful that they can spawn whole new classes of accidents and abuses,'' he writes.</p>
+        <p>Mr. Joy is hardly a Luddite, but his gloomy pronouncements fit squarely into a long tradition of apocalyptic warnings about technology run amok, dating back to ancient Greeks, and voiced more recently in a millennial laundry list of threats, including nuclear winters, global warming, ozone depletion, marauding comets, the dispersion of deadly biological toxins by the Japanese Aum Shinrikyo cult in Tokyo subways, as well as the specter of Y2K calamities sending civilization back to smoky caves.</p>
+        <p>As harrowing as all those threats may have appeared, for Mr. Joy and others the worst is yet to come.  The new danger, they argue, is self-replication, the technique at the heart of both modern biotechnology and the relatively new field of ''material sciences'' (the creation of advanced materials such as new ceramics or liquid crystal displays), which has the capacity for both tremendous good as well as destruction. The fears fall in three broad areas.</p>
+        <p>Robotics</p>
+        <p>The science fiction writer Isaac Asimov once described a world in which advanced machines, even if their intelligence vastly exceeded that of humans, could be programmed so they would never intentionally take any action that would harm people.</p>
+        <p>Now a number of writers and scientists are suggesting a more ominous, Darwinian scenario in which super-intelligent machines might evolve along with, and ultimately compete with, human society.</p>
+        <p>Consider a future world in which robots operate with microprocessors a million times more powerful than today's. Hans Moravec, a robotics scientist at Carnegie Mellon University, , conjures images in his writings of totally automated factories and networks that will emerge as soon as 2020. These robotic systems will be able to program themselves and compete vigorously with humans for resources, perhaps creating self-sufficient artificially intelligent economies that could squeeze humans out of existence. (Think about a factory that decides to create an army of Robocops.)</p>
+        <p>Another computer scientist, Vernor Vinge, says machine intelligence will awaken sometime between 2005 and 2030, a date he calls ''the singularity.'' Dr. Vinge argues that this evolutionary watershed might accelerate progress well beyond human control.</p>
+        <p>Others suggest that the Internet may someday reach a critical mass of interconnections that at the least might exhibit some kind of chaotic behavior, perhaps even some kind of sentience. The problem, of course, is that such a system might be intelligent but not rational, thrashing around like a newborn baby -- turning off power systems or launching missiles at random.</p>
+        <p>Nanotechnology</p>
+        <p>Nanotechnology refers to mechanical engineering on a molecular scale. The holy grail for nanotechnologists are sub-microscopic chemical or mechanical machines called assemblers that can reproduce and repair themselves.</p>
+        <p>There are already many industrial examples of micro-assemblers. For example, Polymerase Chain Reaction, the exponential amplification of DNA fragments, has become a standard tool of biotechnologists.</p>
+        <p>And last week I.B.M. researchers described a process that permits chemical assemblers to self-assemble tiny magnetic particles into a perfectly aligned array of dots, each composed of several thousand atoms, for future disk drives.</p>
+        <p>Mr. Joy believes that within several decades similar advances will lead to incredibly low-cost solar  power, vastly more powerful computers and cures for everything from cancer to the common cold.</p>
+        <p>But here's the catch: in the wrong hands, or perhaps accidentally, nanotechnology could open a Pandora's Box. This nightmare has long been the stuff of science fiction. Readers of Kurt Vonnegut's 1963 novel ''Cat's Cradle'' may remember "ice-nine," the final creation of the story's scientist, Felix Hoenikker. Ice-nine was was solid at room temperature. In other words, the molecules of H2 Oin ice-nine had ''discovered'' a way to stack up to form a crystalline solid at temperatures where other molecules of H2 O were still in a liquid phase. This contagious modification ultimately freezes the world's oceans. For several decades now, however, nonfictional scientists have been toying with the different ways that H2 O molecules can stack together.</p>
+        <p>And in real life, it might be possible to create tough omnivorous bacteria that could out-compete real bacteria. Spread by the wind, like blowing pollen, they could be designed to replicate swiftly and reduce life on earth to dust in a matter of days, according to Eric Drexler, one of the nation's principal advocates for nanotechnology. (Mr. Drexler advocates the construction of a series of high technology ''shields'' to ward off these kinds of threats.)</p>
+        <p>Genetic Engineering</p>
+        <p>While both robots and nanotechnological weapons are at least a generation away, genetic weapons are not. Mr. Joy and other scientists have begun to warn of near-term terrorist threats based on genetically engineered biological weapons.</p>
+        <p>''Much of the talk about information-based weapons is baloney,'' said  Edward Feigenbaum, the former chief scientist of the United States Air Force. ''But biological terrorism is real and the government is beginning to take steps to defend against it.''</p>
+        <p>Some scientists are worried both about the specter of genetic experiments accidentally escaping into the population and also what Mr. Joy calls a ''white plague'' (a reference to another science fiction novel, by Frank Herbert) -- genetically engineered bioweapons that could be targeted on a specific region or race.</p>
+        <p>It doesn't end there -- there are even more exotic technological threats. Last year a brief media frenzy broke out over speculation that the Brookhaven National Laboratory's Relativistic Heavy Ion Collider could create an artificial black hole that would devour the earth in a matter of minutes. Scientists insisted that such fears were unfounded, yet as Armageddon scenarios go, it was a doozy. Earlier this month several physicists filed suit in federal court to stop the experiment.</p>
+        <p>Of course it could be that Mr. Joy is wrong. After all, it is possible to take comfort in the thought that despite several thousand years of predictions of impending doom, the human species is, by and large, thriving. Still, it is a bit unsettling.</p>
+        <p>Perhaps Mark Twain put it best: ''I'm all for progress. It's change I can't stand.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

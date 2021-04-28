@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A World of Wee Devices Seeks Some Batteries to Match</title>
+    <meta content="10NEXT$02" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/01/10/technology/10NEXT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1358010"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Batteries</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Microelectromechanical Systems (MEMS)</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Nanotechnology</classifier>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <person class="indexing_service">Blanchard, James P (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Anthrax</classifier>
+        <classifier class="online_producer" type="descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anthrax</classifier>
+        <classifier class="online_producer" type="general_descriptor">Batteries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E0DC1339F933A25752C0A9649C8B63" item-length="1189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A World of Wee Devices Seeks Some Batteries to Match</hl1>
+        <hl2 class="online_headline">A World of Wee Devices Seeks Some Batteries to Match</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Batteries needed by microelectromechanical systems (MEMS) to sense, calculate and transmit data they collect have not duplicated amazing shrinking act of these miniature silicon machines; scaling down size while maintaining power has proven to be tremendous challenge; handful of researchers have turned to nuclear power to create micro and nano-sized batteries; Dr James P Blanchard comments on his research, involving high-energy particles emitted by radioactive materials as they decay; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ENGINEERS have yet to create a tiny submarine like the one in the 1966 movie ''Fantastic Voyage,'' which traveled through a patient's bloodstream to battle a deadly blood clot.</p>
+        <p>But researchers are steadily shrinking once-massive machines, fabricating blades, hinges and other parts out of silicon at an ever tinier scale to create systems the size of a grain of sand or a red blood cell.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Researchers are steadily shrinking once-massive machines, fabricating blades, hinges and other parts out of silicon at an ever tinier scale to create systems the size of a grain of sand or a red blood cell.</p>
+      </block>
+      <block class="full_text">
+        <p>ENGINEERS have yet to create a tiny submarine like the one in the 1966 movie ''Fantastic Voyage,'' which traveled through a patient's bloodstream to battle a deadly blood clot.</p>
+        <p>But researchers are steadily shrinking once-massive machines, fabricating blades, hinges and other parts out of silicon at an ever tinier scale to create systems the size of a grain of sand or a red blood cell.</p>
+        <p>Millions of these miniature machines, known as microelectromechanical systems, or MEMS, may surround us one day, embedded in the concrete foundations of roads and bridges to monitor their conditions, aloft to check for biological warfare agents in the atmosphere, or attached to automobile tires to gauge pressure.</p>
+        <p>To do their job far from a wall outlet, MEMS devices need power to sense, calculate and transmit the data they collect. But so far the batteries needed to accomplish that have not duplicated the amazing shrinking act of the silicon machines. The power of a battery depends on its volume, and scaling down the size while maintaining the power has proved to be a tremendous challenge.</p>
+        <p>To address the problem, a handful of researchers have turned from traditional fossil fuels or electrochemical cells to a new source to create micro and nano-size batteries: nuclear power. The hope is that the high-energy particles emitted by radioactive materials as they decay will one day drive a generation of MEMS devices.</p>
+        <p>Dr. James P. Blanchard, an associate professor of nuclear engineering at the University of Wisconsin in Madison, has spent the last three years and about $450,000 awarded by the Department of Energy to develop prototypes of nuclear microbatteries for MEMS use.</p>
+        <p>Dr. Blanchard is not splitting atoms to get his nanonukes, which is the first thing he has learned to explain patiently when describing his work. ''People hear 'nuclear' and 'power' and they think 'fission' '' and explosions, he said. ''That's not what we are doing -- we are not splitting uranium.''</p>
+        <p>Instead, Dr. Blanchard and an assistant professor and MEMS expert, Dr. Amit Lal, are using minute amounts of a radioactive version of nickel, Nickel-63, in one of the prototypes they have developed. As this substance decays, it produces beta particles, high-energy electrons that now yield nanowatts (one nanowatt is one-billionth of a watt) and may soon, the inventors hope,  yield microwatts.</p>
+        <p>This kind of technology -- harnessing radioactive isotopes to create a power source -- was used to create the far larger nuclear batteries of NASA's Cassini probe, launched in 1997, to help it travel through the far reaches of space. Shrinking such technology became Dr. Blanchard's goal. ''We wanted to show it could be done,'' he said.</p>
+        <p>Resigned to alarmed reactions at the mention of the word ''nuclear,'' Dr. Blanchard is quick to explain how little nuclear material is involved. ''Batteries headed for another planet make a few hundred watts using an isotope of plutonium and are the size of a dishwasher,'' he said. ''Ours is about as dangerous as a smoke detector'' that falls off the wall and breaks. Smoke detectors contain small amounts of radioactive materials.</p>
+        <p>In one of Dr. Blanchard's prototypes,  Nickel-63 dissolved in a solution is poured into micromachined channels; in another, it travels in pyramid-shape indentations in the silicon. The relatively low energy emitted by beta particles does not damage the semiconductor device where the particles collect. The half-life of the isotope -- 102 years, meaning that in that time half of the substance will have decayed -- makes it attractive for long-term applications.</p>
+        <p>Dr. Blanchard's group has also worked with alpha-emitting radioisotopes and plans to use them for future experiments. His work on microbatteries was reported last April at the ninth International Conference on Nuclear Engineering in Nice, France.</p>
+        <p>Dr. Jean-Pierre Fleurial, a physicist at the Jet Propulsion Laboratory in Pasadena, Calif., oversees several projects that tap the power of alpha particles, including an effort at the University of Illinois. Alpha particles give off far more energy than beta particles and are therefore a promising source, he said, but in some prototypes they eventually damage the semiconductor diode where they are collected and converted to electricity.</p>
+        <p>''The work ahead is to find innovative designs that last a long time and are reasonably efficient,'' Dr. Fleurial said. Because the research has already yielded several prototypes, he said, he is confident that alpha particles will eventually yield powerful batteries. ''Most of the power source technologies don't scale down easily,'' he explained. ''These do.'' The work of Dr. Fleurial and his colleagues was reported last June at the 20th International Conference on Thermoelectrics in Beijing.</p>
+        <p>Dr. Kris Pister, a professor at the University of California at Berkeley, is among the scientists who aim to give microbatteries a trial run with a wireless network based on MEMS technology. Dr. Pister is the inventor of smart dust, or networked airborne motes of silicon that are designed to sense, measure and transmit data like temperature, humidity and light intensity.</p>
+        <p>''Everything is getting smaller in MEMS but the batteries,'' he said. ''The batteries remain the single heaviest and most expensive part.''</p>
+        <p>Dr. Pister said he was considering making smart dust that draws its power from  the radioactive isotope tritium and that he had been approached by Trace Photonics, a company in Charleston, Ill., that is interested in shrinking nuclear batteries to smart-dust size.</p>
+        <p>''Nuclear batteries can potentially give off a staggering amount of energy,'' he said.</p>
+        <p>Their longevity also makes them attractive. ''Many applications of wireless networks are for places you never want to go back to,'' Dr. Pister said, like the foundations of tall buildings or the walls of houses.  ''You don't want to have to dig beneath the sheetrock to change the batteries.''</p>
+        <p>What risks might the batteries pose if, for instance, they were scattered through the walls of a large building to monitor air quality or temperature? ''They aren't likely to be very dangerous,'' said Stephen I. Schwartz, publisher of the Bulletin of the Atomic Scientists, ''unless you ate them, or threw them in the fire and inhaled the smoke.''</p>
+        <p>Most people are still unaware that their smoke detectors contain radioactive materials, Mr. Schwartz said. Still, he added, if people did become aware that MEMS devices might be powered by nuclear batteries, some of them might be alarmed. ''The odds of getting hurt by these devices would be very small,'' but research on them should not be kept secret, he said.</p>
+        <p>''Let people know about the work,'' he said. ''Let all the facts be put on the table and then let people decide.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

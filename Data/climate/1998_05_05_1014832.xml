@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clinton Unveils Plan to Help Households in U.S. Use Less Fuel</title>
+    <meta content="T05CLIN" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1014832"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Broder, John M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E3DC1631F936A35756C0A96E958260" item-length="583" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clinton Unveils Plan to Help Households in U.S. Use Less Fuel</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN M. BRODER</byline>
+      <byline class="normalized_byline">Broder, John M</byline>
+      <dateline>LOS ANGELES, May 4</dateline>
+      <abstract>
+        <p>Pres Clinton today announces Government-industry initiative to reduce greenhouse gases that contribute to global warming by making homes more fuel-efficient; goal of program is to cut household energy use in new homes by 50 percent by 2010 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Clinton today announced a Government-industry initiative to reduce the gases that contribute to global warming by making homes in the United States more fuel-efficient.</p>
+        <p>The goal of the program is to cut household energy use in new homes by 50 percent by 2010 through better windows and insulation, energy-saving appliances and more efficient heating and cooling systems.</p>
+      </block>
+      <block class="full_text">
+        <p>President Clinton today announced a Government-industry initiative to reduce the gases that contribute to global warming by making homes in the United States more fuel-efficient.</p>
+        <p>The goal of the program is to cut household energy use in new homes by 50 percent by 2010 through better windows and insulation, energy-saving appliances and more efficient heating and cooling systems.</p>
+        <p>The plan would also help owners of 15 million existing homes cut their energy use by 30 percent by 2010.</p>
+        <p>The program needs little new money, relying instead on existing tax credits and Federal research money to help spur the development and use of more efficient building technology. The plan is part of the Administration's five-year, $6.3 billion proposal to help the United States reach greenhouse gas emission targets set at the environmental conference in December in Kyoto, Japan.</p>
+        <p>That plan faces stiff opposition from business groups and Republicans in Congress, many of whom believe the alarms over global warming are overblown and think the proposed solutions will cost businesses billions of dollars and will slow economic growth.</p>
+        <p>Speaking at a San Fernando Valley site where 186 energy-efficient homes are to be built, the President said that there was ''virtual unanimity'' among scientists that greenhouse gas emissions were rising at a dangerous rate. He said that while vehicles and industry account for two-thirds of global warming, residential housing contributes 20 percent of the total emissions.</p>
+        <p>The President said the new program, the Partnership for Advancing Technology in Housing, or PATH, would save consumers as much as $11 billion a year in home energy costs and reduce annual carbon emissions by 24 million tons. That represents about 5 percent of annual carbon emissions in the United States, officials said.</p>
+        <p>''It will be the most ambitious effort ever to help private home builders and homeowners make cost-effective, energy-saving decisions that will pay big dividends throughout the 21st century,'' Mr. Clinton said.</p>
+        <p>Earlier today, Mr. Clinton spoke against a California ballot initiative that would limit unions' ability to use dues from members for contributions to candidates or other political activities. The proposal would require unions, as well as corporations, to get employees' consent in writing each year to use payroll deductions or union dues for political action.</p>
+        <p>Republicans in Congress argue that such a requirement should be part of any Federal campaign finance legislation. But since little appears to be happening in Washington, opponents of unions' political spending are pushing the issue in several states.</p>
+        <p>The California measure, Proposition 226, is backed by business groups and Republican politicians, including Gov. Pete Wilson. It also has support from union members, according to California polls.</p>
+        <p>The Clinton Administration and labor leaders oppose the measure, saying it would limit the ability of unions to match business groups' political spending.</p>
+        <p>''This is just an attempt to put unions at a disadvantage to other organized groups in the political marketplace and thereby to diminish the voice of working men and women,'' Mr. Clinton said at a breakfast to raise money to fight the measure.</p>
+        <p>Mr. Clinton returns to Washington tonight, after a stop in Chicago to raise money for the re-election campaign of Senator Carol Moseley-Braun, Democrat of Illinois.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Tiny 'Green' PC That Doesn't Need the Desktop</title>
+    <meta content="31computer" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/31/technology/31computer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851024"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Enano (Co)</org>
+        <org class="indexing_service">RCS Computer Experience</org>
+        <org class="indexing_service">NewEgg.com</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E0D71430F932A05756C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Tiny 'Green' PC That Doesn't Need the Desktop</hl1>
+        <hl2 class="online_headline">A Tiny ‘Green’ PC That Doesn’t Need the Desktop</hl2>
+      </hedline>
+      <abstract>
+        <p>A Tiny 'Green' PC That Doesn't Need the Desktop*</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Enano E2 is a tiny, silent PC with a footprint, and a carbon footprint, that makes most standard-size PCs look like S.U.V.'s.</p>
+        <p>Enano says that thanks to their small size and low-power processors, its 6.8-by-8.8-inch computers offer power savings of up to 70 percent when compared with full-size PCs. Enano also promotes the E2's small size as offering improved efficiency over larger, bulkier PCs and cases. An optional mounting bracket allows the E2 to hang from a flat-screen monitor, removing it from the desktop entirely.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Enano E2 is a tiny, silent PC with a footprint, and a carbon footprint, that makes most standard-size PCs look like S.U.V.’s.</p>
+      </block>
+      <block class="full_text">
+        <p>The Enano E2 is a tiny, silent PC with a footprint, and a carbon footprint, that makes most standard-size PCs look like S.U.V.'s.</p>
+        <p>Enano says that thanks to their small size and low-power processors, its 6.8-by-8.8-inch computers offer power savings of up to 70 percent when compared with full-size PCs. Enano also promotes the E2's small size as offering improved efficiency over larger, bulkier PCs and cases. An optional mounting bracket allows the E2 to hang from a flat-screen monitor, removing it from the desktop entirely.</p>
+        <p>The E2 has an Intel Core 2 Duo processor and up to three gigabytes of memory. There are four U.S.B. ports, an Ethernet port, an optional TV tuner and a video-out port for connecting the device to a television. In most configurations the computer includes a DVD reader and burner and up to 300 gigabytes of hard drive space.</p>
+        <p>Prices for the E2 line, available now at RCS Computer Experience and NewEgg.com, range from $1,825 for the EX7400U with a 2.16-gigahertz processor to $1,245 for the 1.67-gigahertz EX5500.</p>
+        <p>What to do with your bulky old PC? Perhaps recycle the innards and make the case into a nice planter. JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

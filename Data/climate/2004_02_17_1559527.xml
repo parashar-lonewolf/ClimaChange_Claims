@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Better Energy Future</title>
+    <meta content="L17ENE$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1559527"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Wurster, Charles F</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4D91E3AF934A25751C0A9629C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Better Energy Future</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Charles F Wurster letter argues that rational energy future must involve greater energy efficiency and renewable energy sources; scores bill pushed by Republicans that includes incentives for non-renewable industries (Feb 11 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Senators Try to Squeeze Slimmer Energy Bill Through Congress After Defeat Last Year'' (news article, Feb. 11): A rational energy future must involve greater energy efficiency and use of renewable energy sources, so it is bizarre that Senate Republicans are proposing a bill that still includes large ''incentives'' and tax breaks for the oil, coal, gas and nuclear industries.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Senators Try to Squeeze Slimmer Energy Bill Through Congress After Defeat Last Year'' (news article, Feb. 11): A rational energy future must involve greater energy efficiency and use of renewable energy sources, so it is bizarre that Senate Republicans are proposing a bill that still includes large ''incentives'' and tax breaks for the oil, coal, gas and nuclear industries.</p>
+        <p>When industries' true costs are covered by tax dollars, the real costs are hidden behind artificially lowered prices for consumers. New and innovative industries are forced to swim upstream against these subsidies, blocking progress toward a sensible, cleaner energy future and driving us to ever greater dependency on Middle East oil.</p>
+        <p>When we fill up at the pump, part of the cost of that gasoline will be paid by future generations. It's a strange policy for an administration that claims to favor free markets.</p>
+        <p>CHARLES F. WURSTER  Setauket, N.Y., Feb. 11, 2004</p>
+        <p>The writer is emeritus professor of environmental sciences, Stony Brook University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Break Our Oil Dependence</title>
+    <meta content="l10oil-5" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1708729"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EEDE163FF933A25753C1A9639C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Break Our Oil Dependence</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Brian Schweitzer did not discuss the environmental impacts of turning half of the beautiful state of Montana into an open-pit coal mine and then converting the mined coal into atmospheric carbon dioxide.</p>
+        <p>The solutions to our energy crisis are conservation and renewable energy.</p>
+        <p>Michael J. Ellenbecker  Lowell, Mass., Oct. 3, 2005</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Brian Schweitzer did not discuss the environmental impacts of turning half of the beautiful state of Montana into an open-pit coal mine and then converting the mined coal into atmospheric carbon dioxide.</p>
+        <p>The solutions to our energy crisis are conservation and renewable energy.</p>
+        <p>Michael J. Ellenbecker  Lowell, Mass., Oct. 3, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming Heats Up</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="789421"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <org class="indexing_service">INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE</org>
+        <org class="indexing_service">UNITED NATIONS (UN)</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1DC123DF93BA2575AC0A963958260" item-length="561" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming Heats Up</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The evidence mounted last week that man-made gases are causing deterioration of the earth's atmosphere. First came news that a United Nations scientific panel believes it has found, for the first time, evidence that human activities are indeed causing a much-debated warming of the globe. The report, though preliminary, appeared to strengthen the case that governments throughout the world may need to take stronger action to head off potential damage.</p>
+        <p>Then came an announcement from the World Meteorological Organization that a worrisome hole in the earth's protective ozone shield appears to be getting even larger over Antarctica. Such enlargement had been expected because it will take a while for corrective actions already taken by many governments to exert their effect. But the report underscored that the battle to save the ozone layer is not yet safely won.</p>
+      </block>
+      <block class="full_text">
+        <p>The evidence mounted last week that man-made gases are causing deterioration of the earth's atmosphere. First came news that a United Nations scientific panel believes it has found, for the first time, evidence that human activities are indeed causing a much-debated warming of the globe. The report, though preliminary, appeared to strengthen the case that governments throughout the world may need to take stronger action to head off potential damage.</p>
+        <p>Then came an announcement from the World Meteorological Organization that a worrisome hole in the earth's protective ozone shield appears to be getting even larger over Antarctica. Such enlargement had been expected because it will take a while for corrective actions already taken by many governments to exert their effect. But the report underscored that the battle to save the ozone layer is not yet safely won.</p>
+        <p>The U.N.'s global warming report, described by William K. Stevens in the Sept. 10 Times, indicates that man-made global warming is a real phenomenon. It cannot be dismissed as unproved "liberal claptrap," as Representative Dana Rohrabacher, Republican of California, who heads a House environmental subcommittee, has derisively suggested.</p>
+        <p>For years now scientists have been arguing over whether the emission of "greenhouse gases," such as carbon dioxide generated by the burning of fossil fuels, has contributed to a small rise in global temperatures over the past century -- and whether such emissions will drive temperatures even higher in coming decades.</p>
+        <p>Such a change in temperature might, if drastic enough, have serious consequences, as is made clear today in a second article by Mr. Stevens. Global warming could cause a rise in sea level that would flood coastal lowlands, an increase in weather extremes and damage to forests and croplands in some regions. Forestalling truly severe damage might well warrant action to slow the emission of greenhouse gases by reducing the world's reliance on fossil fuels. But that would be a wrenching, costly process that few political leaders are eager to undertake absent compelling evidence that human activities really are driving world temperatures toward dangerous levels.</p>
+        <p>Now the U.N.'s Intergovernmental Panel on Climate Change, the scientific panel charged with analyzing the problem, has concluded in a draft report that it is seeing signals that man-made global warming is under way. The signals are not in the form of a "smoking gun." Instead, they are found in computer patterns. The computer models that predict rising temperatures seem to be matching up more closely with some of the patterns of climate change actually observed. There are great uncertainties in how much the temperature will rise and how great any damage might be. But the case for being concerned about global warming is getting stronger.</p>
+        <p>That makes it especially distressing that committees in the House and Senate are slashing funds for programs aimed at protecting the global environment. Steep cuts have been imposed on research to study global climate change, on programs to help reduce carbon emissions and on funds to help developing countries phase out their ozone-destroying chemicals. It is perverse that, as the evidence of global atmospheric harm gets somewhat stronger, the political response to mitigating it gets progressively weaker.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

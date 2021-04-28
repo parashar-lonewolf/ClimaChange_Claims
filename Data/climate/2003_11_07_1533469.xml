@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Suit On Global Warming Report Is Dismissed</title>
+    <meta content="MB020823" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1533469"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Competitive Enterprise Institute</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E6D81539F934A35752C1A9659C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Suit On Global Warming Report Is Dismissed</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew C. Revkin (NYT)</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Competitive Enterprise Institute's lawsuit seeking to prevent Bush administration from releasing analysis projecting many harmful repercussion of global warming is dismissed for technical reasons (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A lawsuit seeking to stop the Bush administration from disseminating an assessment of the impacts of global warming has been dismissed for technical reasons. The suit had been filed by the Competitive Enterprise Institute, a group with industry backing, contending that the analysis, which was done in the Clinton administration and projects many harmful repercussions if temperatures rise, did not meet federal standards for the quality of data.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A lawsuit seeking to stop the Bush administration from disseminating an assessment of the impacts of global warming has been dismissed for technical reasons. The suit had been filed by the Competitive Enterprise Institute, a group with industry backing, contending that the analysis, which was done in the Clinton administration and projects many harmful repercussions if temperatures rise, did not meet federal standards for the quality of data.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Powering Up</title>
+    <meta content="10LIPOWER" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/10/10/opinion/opinionspecial/10lipower.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1617945"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Long Island"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Shoreham Nuclear Power Plant</classifier>
+        <classifier class="indexing_service" type="descriptor">Windmills</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <location class="indexing_service">Long Island (NY)</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Windmills</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Long Island (NY)</location>
+        <org class="online_producer">Long Island Power Authority</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0DF173BF933A25753C1A9629C8B63" item-length="645" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Powering Up</hl1>
+        <hl2 class="online_headline">Powering Up</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial supports plan to build pair of windmills on site of abandoned Shoreham nuclear plant but holds Long Island's move toward renewable, alternative energy is long in coming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Long Island Power Authority wants to put a pair of windmills on the site of the abandoned Shoreham nuclear plant.</p>
+        <p>Oh, boy: Two little windmills, each able to light up about two dozen homes, spinning in the breeze off Long Island Sound, near what was supposed to have been a mighty 800-megawatt nuclear plant powering Nassau and Suffolk into a blazing, electrified future. (If you didn't live on Long Island back then, an explanation: Shoreham was built but never used, largely because of safety concerns. What's left is a $6 billion sinkhole that Long Islanders are still slowly filling, one jacked-up utility bill at a time.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Windmills - even little ones - are a promising start to fixing Long Island electricity problems.</p>
+      </block>
+      <block class="full_text">
+        <p>The Long Island Power Authority wants to put a pair of windmills on the site of the abandoned Shoreham nuclear plant.</p>
+        <p>Oh, boy: Two little windmills, each able to light up about two dozen homes, spinning in the breeze off Long Island Sound, near what was supposed to have been a mighty 800-megawatt nuclear plant powering Nassau and Suffolk into a blazing, electrified future. (If you didn't live on Long Island back then, an explanation: Shoreham was built but never used, largely because of safety concerns. What's left is a $6 billion sinkhole that Long Islanders are still slowly filling, one jacked-up utility bill at a time.)</p>
+        <p>Windmills rising in the Shoreham ruins sounds like a fable, a scene from one of those end-of-the-world Kevin Costner movies, but we did not make it up. We like it, though, because it tells you all you need to know about the perverse state of affairs afflicting Long Island and its power supply.</p>
+        <p>Because there is no Shoreham, we on Long Island don't have to worry the way Westchester does about meltdowns and terrorism at the Indian Point nuclear plant on the Hudson. But we don't have reliable, abundant power, either, and we live in continual fear of brownouts whenever the weather gets hot. Our utility rates are among the highest in the country, and the cost of electricity keeps rising -- three rate increases in 2004 alone. And yet we remain insatiable consumers of energy, and our efforts at developing renewable energy sources remain drawing-board abstractions or inconsequential curiosities -- like the Shoreham windmills.</p>
+        <p>LIPA recently unveiled ambitious plans to attack the problem on the supply side. It announced that it would replace a defunct power cable between Connecticut and Northport, which could nearly double the flow of power. It has contracted to bring in a 660-megawatt undersea cable from New Jersey -- an ''extension cord'' plugging the island into the mid-Atlantic power grid, whose energy will most likely be cheaper. The authority is also planning to erect a wind farm -- enormous turbines off the South Shore that might be a headache for fishermen and birds, but a blessing to the rest of us.</p>
+        <p>Increasing the area's power supply and making it more reliable are essential, for obvious economic reasons. Our frayed, aging grid is a burden on everybody. But amid all the talk of powering up, a few things have been conspicuously missing from the discussion: serious efforts to support clean, renewable energy, and government leadership to promote the simplest, cheapest and most effective tactic of all, conservation.</p>
+        <p>We are heartened by New York State's recent announcement of an ambitious clean-energy plan, which would require that 24 percent of the state's electricity come from renewable resources by 2013. This goal, which puts New York in the same league as farsighted (that is, smog-choked) states like California, is not as far off as you might think, thanks to existing hydroelectric turbines at Niagara Falls.</p>
+        <p>But Long Island has no hydroelectric options, nor any other significant supply of renewable energy. And like everywhere else, the dominant cultural imperative here is to consume, not conserve; thermostat-watching and sweater-wearing went out with Jimmy Carter and never came back. Now we hop in the S.U.V. to Best Buy to get a home theater system for the McMansion, guiltless in our gluttony.</p>
+        <p>What we do have, though, is lots of sunshine, the wind and sea, and 2.8 million residents who might be more open to reining in their energy appetites, if only the people in charge would make it an urgent priority. Windmills -- even little ones -- are a promising start. It's too bad the start has been so long in coming.</p>
+        <p>Long Island</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

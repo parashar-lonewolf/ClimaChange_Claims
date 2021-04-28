@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Supports Global Warming Prediction</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="309112"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <org class="indexing_service">NATURE (JOURNAL)</org>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DD1E3EF937A25751C1A96F948260" item-length="578" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Supports Global Warming Prediction</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Direct measurements of atmospheric heat and water vapor have confirmed for the first time a fundamental feature of the theory that is central to predictions of future global warming, scientists at the University of Chicago report in today's issue of the British journal Nature.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Direct measurements of atmospheric heat and water vapor have confirmed for the first time a fundamental feature of the theory that is central to predictions of future global warming, scientists at the University of Chicago report in today's issue of the British journal Nature.</p>
+        <p>Direct measurements of atmospheric heat and water vapor have confirmed for the first time a fundamental feature of the theory that is central to predictions of future global warming, scientists at the University of Chicago report in today's issue of the British journal Nature.</p>
+        <p>Veerabhadran Ramanathan, a foremost climatologist who headed the study, said measurements by infrared sensors aboard satellites and instruments at the Earth's surface indicate that airborne water vapor plays a crucial role in amplifying the warming effect of carbon dioxide and other gases that trap heat in the atmosphere in a process similar to what happens in a greenhouse. These gases are increasing as the result of such human activity as the burning of fossil fuels. Study Said to Meet Predictions</p>
+        <p>Without the amplification provided by water vapor, future global warming would be negligible, Dr. Ramanathan said in an interview. This amplification effect is crucial to the greenhouse theory.</p>
+        <p>If the study had found no such amplification, Dr. Ramanathan said, ''that would have been sufficient to dismiss the whole greenhouse theory,'' making future global warming ''a figment of the imagination.''</p>
+        <p>The study by Dr. Ramanathan and a colleague, Ameet Raval, concluded that the amplification does indeed take place, and that it is of about the same magnitude as predicted by the mathematical models on which forecasts of global warming are largely based.</p>
+        <p>The new findings, he said, mean that the theory and the models had passed an important observational test. But he cautioned that they must pass several more tests. Among the most important of these is the unresolved question of how clouds affect global warming.</p>
+        <p>Some critics of global warming predictions, which call for an average warming of the air at the earth's surface of three to eight degrees Fahrenheit some time in the next century, have said that the mathematical models greatly overstate the amplifying effect of water vapor. Critic Scoffs at Evidence</p>
+        <p>One of these, Richard S. Lindzen, a meteorologist at the Massachusetts Institute of Technology, said yesterday that he had not yet digested the report. But on the basis of a preliminary reading, he said, ''I don't see anything in this that reflects on whether the greenhouse warming will or will not be amplified by water vapor.''</p>
+        <p>Dr. Ramanathan said that his group's study was based largely on readings taken by infrared sensors aboard a satellite placed in orbit by the space shuttle in 1985 and on ocean-surface temperatures measured aboard ships and buoys. The measurements showed that twice as much heat was trapped in warm oceans, where more moisture evaporates and is held in the air, than in colder oceans.</p>
+        <p>Similar satellite-based measurements of atmospheric water vapor found a similar variation that is ''strongly correlated'' with the amount of trapped heat, said the report in Nature.</p>
+        <p>To their surprise, the investigators study found that in the western tropical Pacific Ocean, the warmest part of the world, the warming exceeded levels predicted by the models. This ''super-greenhouse effect,'' Dr. Ramanathan said, could mean that greenhouse warming ''will become exponentially greater after we reach a certain threshold of temperature.''</p>
+        <p>The threshold, he said, appears to be about 82 degrees. More of the earth's oceans could reach that threshold if the globe warms as much over the next few decades as the models predict.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

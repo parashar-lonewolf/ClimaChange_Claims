@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Theory Of Clouds And Earth Ice Cover</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="The Environment Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="572565"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GEOLOGY</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">ICE</classifier>
+        <classifier class="indexing_service" type="descriptor">ICE AGE</classifier>
+        <person class="indexing_service">CALDEIRA, KEN (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice Age</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7D7123CF937A15752C1A964958260" item-length="376" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Theory Of Clouds And Earth Ice Cover</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE belief that the Earth of almost a billion years ago was extensively covered with ice is being revised. A new study shows that if the early ice age had been as severe as thought, the Earth could never have thawed out and would still be a frozen planet.</p>
+        <p>The study, published in a recent of the journal Nature, is the first to account for the existence of carbon dioxide clouds and their impact on the climate of those times.</p>
+      </block>
+      <block class="full_text">
+        <p>THE belief that the Earth of almost a billion years ago was extensively covered with ice is being revised. A new study shows that if the early ice age had been as severe as thought, the Earth could never have thawed out and would still be a frozen planet.</p>
+        <p>The study, published in a recent of the journal Nature, is the first to account for the existence of carbon dioxide clouds and their impact on the climate of those times.</p>
+        <p>During the late Proterozoic Era when the most extensive early ice age occurred, the Sun's heat was 25 percent less than it is today. If, as geologic history recounts, the ice had extended from the poles to the equator, the Earth's surface would have been so cold that carbon dioxide ice clouds would have formed, said Dr. Ken Caldeira the lead author of the study, published Sept. 17, and a researcher at the Earth Systems Center and Department of Geosciences at the Pennsylvania State University.</p>
+        <p>Dr. Caldeira and his co-author Dr. James F. Kasting, an associate professor of geosciences at the university, calculated that before the fainter Sun could have melted the surface ice, the carbon dioxide in the air would itself have condensed, forming clouds that would have caused the Earth to remain in an endless frozen state.</p>
+        <p>These carbon dioxide clouds, although they look like white, billowing, water clouds, do not handle sunlight in the same way. While water clouds transmit the Sun's heat to the Earth's surface, carbon dioxide clouds reflect the Sun's radiation back into the atmosphere away from the Earth's surface.</p>
+        <p>In the past, scientists had speculated that the Earth had recovered from its early ice age because carbon dioxide gas had acted as a greenhouse gas, heating and thawing the surface. There being no life on the early Earth, the carbon dioxide came from volcanoes.</p>
+        <p>Dr. William R. Kuhn, a paleoclimatologist and professor of atmospheric sciences at the University of Michigan in Ann Arbor, said that not only is it difficult to estimate what the climate conditions were like in the past, but that given the many variables and complexities of the Earth, scientists cannot be certain whether understanding the present climate will lead to an understanding of past and future climates.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

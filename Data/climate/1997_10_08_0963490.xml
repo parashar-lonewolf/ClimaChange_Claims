@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How Hot Is Hot?</title>
+    <meta content="08MCKI$04" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="963490"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E0D61F3DF93BA35753C1A961958260" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How Hot Is Hot?</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill McKibben</byline>
+      <dateline>JOHNSBURG, N.Y.</dateline>
+      <abstract>
+        <p>Bill McKibben Op-Ed column on White House conference on global warming; fears Pres Clinton is modifying goals on cutting carbon dioxide in atmosphere, heeding economists over environmentalists (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>History can be made in subtle ways, almost without anyone noticing. This happened on Monday at President Clinton's conference on global warming. The meeting was intended to build national support for some effort to reduce carbon dioxide output in the United States, a pep rally before our team heads off in December to Kyoto, Japan, for the negotiations on a treaty regulating global emissions of greenhouse gases.</p>
+        <p>But behind that cheerleading, Mr. Clinton seemed to move the goalposts of the climate game in dangerous ways. Here's how the scoreboard changed:</p>
+      </block>
+      <block class="full_text">
+        <p>History can be made in subtle ways, almost without anyone noticing. This happened on Monday at President Clinton's conference on global warming. The meeting was intended to build national support for some effort to reduce carbon dioxide output in the United States, a pep rally before our team heads off in December to Kyoto, Japan, for the negotiations on a treaty regulating global emissions of greenhouse gases.</p>
+        <p>But behind that cheerleading, Mr. Clinton seemed to move the goalposts of the climate game in dangerous ways. Here's how the scoreboard changed:</p>
+        <p>Before the Industrial Revolution, the world's air contained about 275 parts per million of carbon dioxide, the main heat-trapping gas. By now we've burned enough fossil fuel to reach 365 parts per million. We can already see the effects: higher temperatures, increased rainfall and glacial melting.</p>
+        <p>But when scientists warned about the really scary probabilities -- coastal flooding, widespread drought and so on -- they always said these would happen if we didn't keep carbon dioxide from doubling, to 550 parts per million. That level was what all the greenhouse fuss was about.</p>
+        <p>By Monday's gathering, however, holding carbon dioxide to a ''mere'' doubling seemed to have become our unofficial national goal. On one chart that the President's advisers kept returning to, the path of doubled carbon dioxide showed up as ''the green line'' in the graph's center -- implying that holding emissions to this level had become the new target. The line of greatest danger had shifted to 700 parts per million. In other words, the President seems to be resigned to the fate scientists once feared.</p>
+        <p>It's not that the scientists have decided that a world with doubled carbon dioxide will be more benign than they thought. In fact, their predictions have grown more frightening.</p>
+        <p>But holding atmospheric concentrations below a doubling would require swifter action than the President seems to back. It could still be done. Computer models show that strong global action by 2005 could stabilize the carbon dioxide level below 450 parts per million, which is still quite high but not as dangerous. But Administration economists predict such action might harm the economy as much as the oil shocks of the 1970's.</p>
+        <p>Forced to choose between the chance of a recession in the next few years and the near certainty of drastic environmental change 50 years away, Mr. Clinton seems ready to side with the economists. Politics may leave him no choice. But it's a tragic change. He will no doubt claim to be choosing the middle path, but until the last few weeks that was the very route we were pledged to avoid.</p>
+        <p>Bill McKibben is the author of the forthcoming ''Maybe One: A Personal and Environmental Argument for Single-Child Families.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Bill McKibben is the author of the forthcoming ''Maybe One: A Personal and Environmental Argument for Single-Child Families.''</tagline>
+    </body.end>
+  </body>
+</nitf>

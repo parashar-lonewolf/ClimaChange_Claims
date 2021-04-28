@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Progress on Acid Rain</title>
+    <meta content="L15ACI" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199674"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <org class="indexing_service">Edison Electric Institute</org>
+        <person class="indexing_service">Breier, M William</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000515T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EEDB153BF936A25756C0A9669C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Progress on Acid Rain</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from M William Breier, Edison Electric Institute, says assertion in May 9 editorial that federal acid rain program is not doing job it was intended to do ignores industry efforts to reduce emissions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your assertion that ''the federal acid rain program is not doing the job it was intended to do'' (editorial, May 9) is premature and ignores industry efforts to reduce emissions.</p>
+        <p>Under the acid rain program -- the second phase of which began just this year -- sulfur dioxide emissions will be cut an additional 50 percent relative to current levels by 2010. And under the federal summertime ozone program, utility nitrogen oxide emissions will be cut by roughly one-third this year, followed by an additional reduction of one million tons, beginning in three years.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your assertion that ''the federal acid rain program is not doing the job it was intended to do'' (editorial, May 9) is premature and ignores industry efforts to reduce emissions.</p>
+        <p>Under the acid rain program -- the second phase of which began just this year -- sulfur dioxide emissions will be cut an additional 50 percent relative to current levels by 2010. And under the federal summertime ozone program, utility nitrogen oxide emissions will be cut by roughly one-third this year, followed by an additional reduction of one million tons, beginning in three years.</p>
+        <p>You also raise concerns about emissions trading under the program, asserting that it allows Midwestern utilities to avoid reducing emissions, which they instead send to the Northeast. However, Resources for the Future, an environmental research group, recently reported that the emissions trading actually results in lower levels of sulfur in the Northeast.</p>
+        <p>M. WILLIAM  BRIER  Vice President, Communication  Edison Electric Institute  Washington, May 9, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

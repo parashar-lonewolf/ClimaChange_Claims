@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Political Money and the Oscar Aisle</title>
+    <meta content="04Basics" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/04/weekinreview/04Basics.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1830533"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Basics"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Awards/Academy Awards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Awards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Whitaker, Forest</person>
+        <person class="online_producer">Arkin, Alan</person>
+        <person class="online_producer">Scorsese, Martin</person>
+        <person class="online_producer">Don, Frank</person>
+        <person class="online_producer">Gore, Al</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070304T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EEDC1731F937A35750C0A9619C8B63" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Political Money and the Oscar Aisle</hl1>
+        <hl2 class="online_headline">Political Money and the Oscar Aisle</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRIS CONWAY</byline>
+      <byline class="normalized_byline">Conway, Christopher J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hollywood has long been a cash register for politicians, particularly Democrats.</p>
+        <p>Since 1990, the movie, television and music industries have contributed more than $200 million to federal candidates and parties, according to an analysis of federal election data by the Center for Responsive Politics, a nonpartisan campaign finance research group. Democrats received 68 percent, some $136 million.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hollywood has long been a campaign cash cow, but you’d never guess that Tinseltown was so political by looking at the contributions of this year’s Oscar winners.</p>
+      </block>
+      <block class="full_text">
+        <p>Hollywood has long been a cash register for politicians, particularly Democrats.</p>
+        <p>Since 1990, the movie, television and music industries have contributed more than $200 million to federal candidates and parties, according to an analysis of federal election data by the Center for Responsive Politics, a nonpartisan campaign finance research group. Democrats received 68 percent, some $136 million.</p>
+        <p>But you'd never guess the denizens of Hollywood were so political by looking at the contributions by this year's crop of Oscar winners -- at least those in front of the camera.</p>
+        <p>The biggest contributor through Dec. 31 of last year (the figures for the first three months 2007 will be released next month) was Forest Whitaker, who won best actor for his performance as Idi Amin in ''The Last King of Scotland.'' He gave $2,000 in 2003 to Richard Gephardt, a former congressman from Missouri and Democratic presidential primary candidate.</p>
+        <p>The only other actor among the Oscar winners to contribute money since 1990 was Alan Arkin, best supporting actor in ''Little Miss Sunshine.'' He gave $250 in 2000 to Frank Don, a professional astrologer who ran (and lost, with five-tenths of 1 percent of the vote) as an independent in Connecticut's Fourth Congressional District, which includes Greenwich and Bridgeport.</p>
+        <p>On the other end of the camera, Martin Scorsese, who won the Oscar for directing ''The Departed,'' has contributed $10,400 to Democratic candidates and various political committees since 1994. He gave $3,500 to Senator Hillary Rodham Clinton and $2,000 to Senator Charles E. Schumer.</p>
+        <p>The big money came from the executives. Lawrence Bender and Laurie David, the producers of ''An Inconvenient Truth,'' the film on global warming centered around Al Gore, contributed about $280,000 combined since 1998, almost all to Democrats.</p>
+        <p>The Center for Responsive Politics took a look at the top Hollywood donors for the 2006 elections. Following is what the group found.</p>
+        <p>CHRIS CONWAY</p>
+        <p>The Basics</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

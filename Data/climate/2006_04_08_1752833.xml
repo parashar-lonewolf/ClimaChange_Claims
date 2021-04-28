@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming's Effect</title>
+    <meta content="l08nature" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1752833"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Shore, William B</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1D91130F93BA35757C0A9609C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming's Effect</hl1>
+      </hedline>
+      <abstract>
+        <p>William B Shore letter holds that US should prepare for severe weather events caused by climate change and initiate steps necessary to reduce it</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Preparing for Nature's Attack'' (Op-Ed, April 1):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Preparing for Nature's Attack'' (Op-Ed, April 1):</p>
+        <p>The United States should not only prepare for severe weather events caused by climate change; more urgently we should also initiate the many steps necessary to slow and eventually reduce climate change.</p>
+        <p>A wide range of knowledge is required: a focus on scientific and technological research, a change in manufacturing and business practices, national land-use guidelines, an educational campaign for the public.</p>
+        <p>We will need a road map to guide the myriad steps, and a clearer sense of priorities and mobilization of the resources required.</p>
+        <p>Many universities, nonprofit organizations and businesses are taking steps -- but nowhere fast enough or comprehensively.</p>
+        <p>William B. Shore  Sleepy Hollow, N.Y., April 1, 2006</p>
+        <p>The writer is executive secretary of Nature Network and senior fellow of City University of New York's Institute for Urban Systems.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

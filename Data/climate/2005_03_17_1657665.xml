@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seeking Energy Solutions</title>
+    <meta content="L17ENE$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1657665"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <person class="indexing_service">Bodman, Samuel W (Sec)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050317T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D7133CF934A25750C0A9639C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seeking Energy Solutions</hl1>
+      </hedline>
+      <abstract>
+        <p>Energy Sec Samuel W Bodman letter disputes Mar 10 editorial assessment of Bush administration's energy policy; Bodman says Pres Bush is committed to reducing America's dependence on foreign sources of energy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Putting Last Things First'' (editorial, March 10), you assert that President Bush and this administration don't ''make a big deal'' about reducing America's dependence on foreign sources of oil.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Putting Last Things First'' (editorial, March 10), you assert that President Bush and this administration don't ''make a big deal'' about reducing America's dependence on foreign sources of oil.</p>
+        <p>In fact, from his first weeks in office, President Bush has demonstrated his commitment to reducing America's dependence on foreign sources of energy without imperiling American jobs or economic growth.</p>
+        <p>He formed a panel that developed the first energy plan in more than a decade that focused on an array of solutions including improvements in energy conservation, expansion of renewable energy sources like wind and biomass, and the development of clean energy sources like hydrogen.</p>
+        <p>While environmentally responsible domestic production of oil and gas is, indeed, part of the overall strategy, it is only a piece of the puzzle. Today, with the exception of items that require Congressional action, 95 percent of that plan has been put into effect.</p>
+        <p>The energy challenges we face today have been decades in the making, and now is the time to act. While finding an answer may require innovation and exploration, the only ''fixation'' President Bush and this administration have is on finding a solution.</p>
+        <p>Samuel W. Bodman  Secretary of Energy  Washington, March 15, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

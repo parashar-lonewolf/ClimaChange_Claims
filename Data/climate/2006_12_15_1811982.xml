@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Op-Chart; Pacts Americana?</title>
+    <meta content="15kaye" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/15/opinion/15kaye.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1811982"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Contributors"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <person class="indexing_service">Kaye, David</person>
+        <person class="indexing_service">Lamotte, K Russell</person>
+        <person class="indexing_service">Hoey, Peter</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Senate</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EEDD1231F936A25751C1A9609C8B63" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Op-Chart; Pacts Americana?</hl1>
+        <hl2 class="online_headline">Pacts Americana?</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID KAYE, K. RUSSELL LAMOTTE, PETER HOEY</byline>
+      <byline class="normalized_byline">Lamotte, K Russell; Hoey, Peter; Kaye, David</byline>
+      <abstract>
+        <p>Op-Chart by David Kaye, K Russell Lamotte and Peter Hoey calls on incoming Democratic Congress to approve list of widely supported treaties on areas of international concern; says this would help repair America's reputation abroad; chart (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHAT can the incoming Democratic Congress do to help reverse the steep erosion of America's standing abroad, particularly the impression that the United States has disengaged from global problem-solving? Though the President dominates foreign policy, the Senate can make an impact in one significant area: by giving the required two-thirds majority vote to approve a raft of treaties awaiting action.</p>
+        <p>The Senate has before it more than two dozen treaties submitted for approval by President Bush and his predecessors -- some, in fact, were negotiated as long ago as the Eisenhower administration. These agreements are not like the Kyoto Protocol on climate change or the statute that established the International Criminal Court, which are too controversial even to be transmitted to the Senate.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Senate can help reverse the steep erosion of America’s standing abroad by approving a raft of treaties awaiting action.</p>
+      </block>
+      <block class="full_text">
+        <p>WHAT can the incoming Democratic Congress do to help reverse the steep erosion of America's standing abroad, particularly the impression that the United States has disengaged from global problem-solving? Though the President dominates foreign policy, the Senate can make an impact in one significant area: by giving the required two-thirds majority vote to approve a raft of treaties awaiting action.</p>
+        <p>The Senate has before it more than two dozen treaties submitted for approval by President Bush and his predecessors -- some, in fact, were negotiated as long ago as the Eisenhower administration. These agreements are not like the Kyoto Protocol on climate change or the statute that established the International Criminal Court, which are too controversial even to be transmitted to the Senate.</p>
+        <p>Indeed, these are widely supported pacts, making it difficult to discern why many stalled in the first place: perhaps it's as simple as a senator's vague concerns about ''sovereignty,'' a lack of domestic constituency or the press of other legislative business.</p>
+        <p>Early approval of key agreements in areas of great international concern, like the environment and the laws of war, would show the world that the United States is committed to solving global problems. To hit the point home, the Senate should act within the first six months of the next Congress. Quick approval for most is eminently doable.</p>
+        <p>There is a pressing need to repair America's image now, even while the Democratic Congress and the White House battle over the future of Iraq policy. Approving treaties from the list below would make a good start.</p>
+        <p>Op-Ed Contributors David Kaye and K. Russell LaMotte were treaty negotiators for the State Department in the Clinton and George W. Bush administrations. Peter Hoey is an illustrator in Arcata, Calif.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">David Kaye and K. Russell LaMotte were treaty negotiators for the State Department in the Clinton and George W. Bush administrations. Peter Hoey is an illustrator in Arcata, Calif.</tagline>
+    </body.end>
+  </body>
+</nitf>

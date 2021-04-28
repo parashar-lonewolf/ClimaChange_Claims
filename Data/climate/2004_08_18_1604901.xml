@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Albany: Acid Rain Rules Go Into Effect</title>
+    <meta content="MB013202" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1604901"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Semple, Kirk</person>
+        <person class="indexing_service">Crotty, Erin M (Comr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040818T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E2DB113FF93BA2575BC0A9629C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Albany: Acid Rain Rules Go Into Effect</hl1>
+      </hedline>
+      <byline class="print_byline">By Kirk Semple (NYT); Compiled by George James</byline>
+      <byline class="normalized_byline">Semple, Kirk</byline>
+      <abstract>
+        <p>New York State enacts acid rain rules that judge threw out in May on technicality; argues that further delay will endanger public health and natural resources; photo of Erin M Crotty, commissioner of environmental conservation (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The state has decided to enact the acid rain rules that a New York judge threw out in May, arguing that further delay would endanger public health and the state's natural resources, Erin M. Crotty, left, commissioner of the state's Department of Environmental Conservation, announced yesterday. The rules, which seek to reduce emissions of nitrogen and sulfur, had been opposed by several energy companies. A State Supreme Court judge invalidated the rules on a technicality but upheld the department's authority to adopt such stringent regulations. The department has appealed the judge's decision. Ms. Crotty said in an interview that she was hopeful that the energy companies that brought the suit would not challenge the emergency regulations. A spokeswoman for NRG Energy, one of the companies, said officials were still reviewing the announcement and had not decided how they would respond.</p>
+        <p>Kirk Semple (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The state has decided to enact the acid rain rules that a New York judge threw out in May, arguing that further delay would endanger public health and the state's natural resources, Erin M. Crotty, left, commissioner of the state's Department of Environmental Conservation, announced yesterday. The rules, which seek to reduce emissions of nitrogen and sulfur, had been opposed by several energy companies. A State Supreme Court judge invalidated the rules on a technicality but upheld the department's authority to adopt such stringent regulations. The department has appealed the judge's decision. Ms. Crotty said in an interview that she was hopeful that the energy companies that brought the suit would not challenge the emergency regulations. A spokeswoman for NRG Energy, one of the companies, said officials were still reviewing the announcement and had not decided how they would respond.</p>
+        <p>Kirk Semple (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

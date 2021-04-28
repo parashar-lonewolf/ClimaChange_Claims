@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SHUTTLE READIED FOR OZONE STUDY</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="600261"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">DISCOVERY (SPACE SHUTTLE)</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE SHUTTLE</classifier>
+        <org class="indexing_service">NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)</org>
+        <person class="indexing_service">LEARY, WARREN E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DB173AF936A35757C0A965958260" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SHUTTLE READIED FOR OZONE STUDY</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY,</byline>
+      <byline class="normalized_byline">LEARY, WARREN E</byline>
+      <dateline>CAPE CANAVERAL, Fla., April 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Preparations moved ahead smoothly today as technicians readied the space shuttle Discovery for a mission to study the changing nature of Earth's atmosphere.</p>
+        <p>A spokesman for the National Aeronautics and Space Administration said there were no major barriers in sight for a launching of the spacecraft and its five-member crew scheduled for 1:32 A.M. Tuesday.</p>
+      </block>
+      <block class="full_text">
+        <p>Preparations moved ahead smoothly today as technicians readied the space shuttle Discovery for a mission to study the changing nature of Earth's atmosphere.</p>
+        <p>A spokesman for the National Aeronautics and Space Administration said there were no major barriers in sight for a launching of the spacecraft and its five-member crew scheduled for 1:32 A.M. Tuesday.</p>
+        <p>Forecasters are becoming gradually more optimistic about the weather prospects, putting the chance of favorable conditions at 80 percent. George Diller, the NASA spokesman, said there were still concerns about the possibility of low clouds at liftoff time and gusting winds across the runway at the Kennedy Space Center. If a major problem develops shortly after launching, Discovery may have to return to the 15,000-foot runway at the center, making conditions at the landing strip a factor in the decision to launch a shuttle.</p>
+        <p>The planned eight-day mission was to have been the third of eight shuttle flights this year, but it was moved up in line when the shuttle Columbia had to abort its takeoff on March 22. Columbia was within seconds of flight when a valve failed to close on one of its three main engines and computerized safety devices halted the engines. Question of Timing</p>
+        <p>NASA engineers decided to replace all three engines and delay until the end of April its mission to place a German space laboratory into orbit.</p>
+        <p>The space agency decided against delaying the Discovery flight because some of its studies were timed to gather data on atmospheric ozone before the end of April, during the Northern Hemisphere's transition from winter to summer when ozone levels undergo seasonal changes.</p>
+        <p>In the shuttle's cargo bay are more than a half-dozen instruments to investigate how the protective ozone layer is damaged by the sun's energy and chemicals, both natural and manmade, in Earth's middle atmosphere.</p>
+        <p>The package of instruments aboard Discovery, the Atmospheric Laboratory for Science and Applications, flew last year for the first time, and the space agency plans to fly it each year through a full 11-year solar cycle. Scientists want the instruments to track the subtle, year-to-year variations in solar activity and how those affect the atmospheric composition.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

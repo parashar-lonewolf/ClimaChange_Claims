@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Life After Acid Rain</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="359019"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FISH AND OTHER MARINE LIFE</classifier>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">SULFUR DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">TROUT</classifier>
+        <person class="indexing_service">GUNN, JOHN M</person>
+        <person class="indexing_service">KELLER, WENDEL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DC1638F936A35755C0A966958260" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Life After Acid Rain</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Two Canadian scientists have found that populations of lake trout ecimated by acid rain will rebound once nearby emissions of sulfur dioxide are reduced.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Two Canadian scientists have found that populations of lake trout ecimated by acid rain will rebound once nearby emissions of sulfur dioxide are reduced.</p>
+        <p>Two Canadian scientists have found that populations of lake trout ecimated by acid rain will rebound once nearby emissions of sulfur dioxide are reduced.</p>
+        <p>In a study that underlines the resiliency of freshwater ecosystems, the scientists have also found that zooplankton, insects, benthic invertebrates and other creatures driven away by rising acidity levels return quickly and abundantly as water quality improves.</p>
+        <p>''Controlling emissions at the source not only protects freshwater ecosystems, but also allows fairly rapid recovery'' of lakes' indigent species, said John M. Gunn, a biologist with the Ontario Ministry of Natural Resources who was a co-author of the report.</p>
+        <p>Dr. Gunn and Wendel Keller of the Ontario Ministry of the Environment monitored pH levels and wildlife populations in Whitepine Lake, about 65 miles north of Sudbury, Ontario, from 1978 to 1988. Sudbury, an industrialized center of smelting, is Canada's largest source of sulfur dioxide emissions, they said.</p>
+        <p>Because of government regulations and advances in technology, however, the region's sulfur emissions have fallen from 2.2 million tons a year in the 1960's to 718,000 tons in 1988.</p>
+        <p>The pH level in Whitepine Lake was 5.4 in 1980, making it highly toxic and harmful to wildlife. Distilled water has a pH of 7 and is neutral. Lake trout can survive, but cannot reproduce, once pH levels rise above 5.5, Dr. Gunn said.</p>
+        <p>Like many lakes, Whitepine naturally neutralizes the acidity caused by acid rain, so as sulfur dioxide emissions declined, so did Whitepine's pH levels. Now, the lake's pH is 5.9, still acidic, but a level more tolerable to the lake trout, and the species has rebounded.</p>
+        <p>In addition, the number of types of benthic invertebrates increased to 72 from 39 between 1982 and 1988. Populations of crayfish, leeches and Iowa darter fish also increased.</p>
+        <p>''All we have to do is stop the inputs, and lake systems will come back,'' Dr. Gunn said.</p>
+        <p>Reducing emissions and allowing lakes to flush themselves naturally is more efficient and less costly than other treatment efforts, particularly liming, according to the report, which appears in the current issue of Nature.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

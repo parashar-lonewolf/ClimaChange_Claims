@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Promises, Promises on Acid Rain</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="140436"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">CANADA</location>
+        <person class="indexing_service">MULRONEY, BRIAN (PRIME MIN)</person>
+        <person class="indexing_service">REAGAN, RONALD WILSON (PRES)</person>
+        <classifier class="online_producer" type="types_of_material">EDITORIAL</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEED61739F933A05757C0A96E948260" item-length="419" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Promises, Promises on Acid Rain</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: On the issue of acid rain - the term commonly given to rain or snow that carries destructive chemical compounds - Canadian Prime Minister Brian Mulroney deserves an award for saintly patience.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: On the issue of acid rain - the term commonly given to rain or snow that carries destructive chemical compounds - Canadian Prime Minister Brian Mulroney deserves an award for saintly patience.</p>
+        <p>On the issue of acid rain - the term commonly given to rain or snow that carries destructive chemical compounds - Canadian Prime Minister Brian Mulroney deserves an award for saintly patience.</p>
+        <p>For the fourth time in as many years, he has implored Washington to take meaningful action to limit the deadly flow of airborne pollutants the United States sends north to Canada. And for the fourth time, President Reagan has answered him with disgraceful evasions.</p>
+        <p>The President's latest rebuff coincided with a new study suggesting that acid rain's corrosive potential is much greater than originally feared. According to scientists at the Environmental Defense Fund, acid rain - already recognized as a serious threat to fresh-water organisms - also contributes in a major way to the degradation of marine life in Atlantic coastal waters.</p>
+        <p>One scientific commission after another has found a causal link between waste gases produced by coal-burning power plants in the Middle West and the poisoning of thousands of lakes and streams in the northeastern United States and Canada. Now, it appears, the damage to the environment's delicate fabric extends to the ocean's nursuries, including the waters of Long Island Sound, the New York Bight, and the Chesapeake Bay. The President appears not to care. When Mr. Mulroney visited the White House last week, he renewed his request for a treaty limiting emissions of acid rain across the border. Mr. Reagan had promised to ''consider'' such a pact when he visited Ottawa last year. This time, having plainly given the treaty no thought at all in the intervening 12 months, Mr. Reagan agreed to ''reflect'' on the matter.</p>
+        <p>''Reflect.'' ''Consider.'' Those are hardly fighting words. But such is the palaver dished out annually to Mr. Mulroney, for whom getting some agreement on acid rain is a major political imperative. Meanwhile, in Eastern Canada and Nova Scotia, lakes and rivers die, buildings corrode, forests dwindle.</p>
+        <p>Meanwhile, too, it becomes increasingly clear that Canada's best hope may now lie not with an indifferent Administration but with Congress. It is considering amendments to the Clean Air Act requiring sharp reductions in the waste gases that cause acid rain.</p>
+        <p>Some might argue that an election year is a poor time to enact laws that will inevitably cost industry, and probably consumers, a lot of money. But the cost will not be any less a year or two years from now - and the toll exacted by these airborne poisons will certainly be greater.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

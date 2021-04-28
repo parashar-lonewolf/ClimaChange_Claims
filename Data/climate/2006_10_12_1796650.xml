@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly</title>
+    <meta content="12arts-6" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1796650"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E5DA1030F931A25753C1A9609C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Quill Winners Announced</p>
+        <p>Former Vice President Al Gore's best-selling warning on global warming, ''An Inconvenient Truth,'' has taken top honors in the history, current events and politics category of the second Quill Book Awards, Reuters reported. At the ceremony on Tuesday night, the book of the year award went to Tyler Perry for ''Don't Make a Black Woman Take Off Her Earrings: Madea's Uninhibited Commentaries on Love and Life.'' The award winners are selected by the public in online voting.</p>
+        <p>Minister Affirms Madonna Adoption</p>
+        <p>Madonna, below, has selected a 13-month-old Malawian boy for adoption, according to a minister who supervises the orphanage where the child lives, Agence France-Presse reported yesterday, and he is likely to be entrusted to her this week. The minister, the Rev. Thomson John Chipeta of the Protestant Church of Central Africa. who runs the Home of Hope orphanage, identified the boy as David Banda and said he had been placed in the home when his mother died a week after his birth. He added that the father, Yohane Banda, described as an illiterate 32-year-old farmer, ''could not afford to raise him, since he is poor.''</p>
+        <p>Footnote</p>
+        <p>Brian d'Arcy James and Marc Kudisch will be joining Kristin Chenoweth for the Roundabout Theater Company's revival of ''The Apple Tree,'' which begins performances at Studio 54 on Nov. 28.</p>
+      </block>
+      <block class="full_text">
+        <p>Quill Winners Announced</p>
+        <p>Former Vice President Al Gore's best-selling warning on global warming, ''An Inconvenient Truth,'' has taken top honors in the history, current events and politics category of the second Quill Book Awards, Reuters reported. At the ceremony on Tuesday night, the book of the year award went to Tyler Perry for ''Don't Make a Black Woman Take Off Her Earrings: Madea's Uninhibited Commentaries on Love and Life.'' The award winners are selected by the public in online voting.</p>
+        <p>Minister Affirms Madonna Adoption</p>
+        <p>Madonna, below, has selected a 13-month-old Malawian boy for adoption, according to a minister who supervises the orphanage where the child lives, Agence France-Presse reported yesterday, and he is likely to be entrusted to her this week. The minister, the Rev. Thomson John Chipeta of the Protestant Church of Central Africa. who runs the Home of Hope orphanage, identified the boy as David Banda and said he had been placed in the home when his mother died a week after his birth. He added that the father, Yohane Banda, described as an illiterate 32-year-old farmer, ''could not afford to raise him, since he is poor.''</p>
+        <p>Footnote</p>
+        <p>Brian d'Arcy James and Marc Kudisch will be joining Kristin Chenoweth for the Roundabout Theater Company's revival of ''The Apple Tree,'' which begins performances at Studio 54 on Nov. 28.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

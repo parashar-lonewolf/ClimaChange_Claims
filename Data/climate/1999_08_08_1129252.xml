@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Albany's Last-Minute Labors</title>
+    <meta content="08SUN3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1129252"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Pataki, George E (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990808T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0D71230F93BA3575BC0A96F958260" item-length="459" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Albany's Last-Minute Labors</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial welcomes $73.3 billion budget package agreed to by Gov George Pataki and New York Legislature and assesses other action taken or not taken by the Legislature before adjourning</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Although Gov. George Pataki and the New York Legislature tied the record for the latest budget in Albany's history, the $73.3 billion package negotiated last week is cause for at least modest celebration. The Legislature resisted the urge to spend last year's $1.8 billion surplus, saving it instead to cover the cost of previously enacted tax cuts. It wisely restored cuts the Governor had proposed in Medicaid, tuition aid for low-income students and prekindergarten classes. At Mr. Pataki's request, legislators approved $839 million for child care for working mothers. With increases for school construction and remedial programs, it becomes clear that children and mothers did well this year.</p>
+        <p>The Legislature was nearly as judicious in dealing with crime and dangerous behavior. It unfortunately left the counterproductive Rockefeller drug laws on the books, but it agreed on an important bill to insure safe access to abortion clinics. Another useful measure would make stalking a crime, while yet another, known as Kendra's Law, would allow a doctor or family member to get a court order to compel a mentally ill person to get treatment. The law was named for Kendra Webdale, who was killed when a former mental patient shoved her onto New York City's subway tracks.</p>
+      </block>
+      <block class="full_text">
+        <p>Although Gov. George Pataki and the New York Legislature tied the record for the latest budget in Albany's history, the $73.3 billion package negotiated last week is cause for at least modest celebration. The Legislature resisted the urge to spend last year's $1.8 billion surplus, saving it instead to cover the cost of previously enacted tax cuts. It wisely restored cuts the Governor had proposed in Medicaid, tuition aid for low-income students and prekindergarten classes. At Mr. Pataki's request, legislators approved $839 million for child care for working mothers. With increases for school construction and remedial programs, it becomes clear that children and mothers did well this year.</p>
+        <p>The Legislature was nearly as judicious in dealing with crime and dangerous behavior. It unfortunately left the counterproductive Rockefeller drug laws on the books, but it agreed on an important bill to insure safe access to abortion clinics. Another useful measure would make stalking a crime, while yet another, known as Kendra's Law, would allow a doctor or family member to get a court order to compel a mentally ill person to get treatment. The law was named for Kendra Webdale, who was killed when a former mental patient shoved her onto New York City's subway tracks.</p>
+        <p>But the usual last-minute frenzy to agree on numbers left a lot of other important business on the sidelines. There was no action, for example, on campaign finance reform and no effort to improve the state's ridiculously porous lobbying laws. Once again, the Senate failed to address the issue of hate crimes. All these issues need addressing in the special session scheduled for this fall.</p>
+        <p>Nor did the Legislature distinguish itself on environmental matters, a signature issue for the Governor. It finally unraveled a jurisdictional mess that has blocked the construction of new power plants in the state, but it brushed off pleas from environmentalists to impose new pollution controls on older, dirtier plants and to revive the state's once-robust energy conservation program. Both the Assembly and the Senate passed laws preventing New York power plants from selling their excess pollution credits to coal-fired Midwestern power plants whose wind-borne pollutants are a major cause of acid rain in the Adirondacks. But a ridiculous turf war prevented the two chambers from reconciling their modest differences.</p>
+        <p>The lawmakers did, however, grant themselves an increase in their per diem pay.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

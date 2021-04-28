@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BRIEFS</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="189907"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY BRIEFS (NYT COLUMN)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DF1F3BF932A15753C1A96E948260" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: * Burmah Oil P.L.C., Swindon, England, will spend $46 million to purchase Chem-Trend Inc., a supplier of metalworking fluids and lubricants based near Detroit.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: * Burmah Oil P.L.C., Swindon, England, will spend $46 million to purchase Chem-Trend Inc., a supplier of metalworking fluids and lubricants based near Detroit.</p>
+        <p>* Burmah Oil P.L.C., Swindon, England, will spend $46 million to purchase Chem-Trend Inc., a supplier of metalworking fluids and lubricants based near Detroit.</p>
+        <p>* Computer Associates International Inc., Garden City, L.I., is combining various operations to create a division for new software products and services.</p>
+        <p>* Continental Health Affiliates Inc., Englewood Cliffs, N.J., has increased its offer for Healthdyne Inc. by $1 a share, to $7. If successful, the deal will be worth $105 million.</p>
+        <p>* W. R. Grace &amp; Co. said it would record a pretax gain of $55 million from the sale of its Bermans Specialty Stores to Melville Corp.</p>
+        <p>* MGM/UA Communications Co., Beverly Hills, Calif., signed a licensing agreement valued at more than $100 million that will give British Broadcasting Corp. and British Satellite Broadcasting the right to run certain MGM/UA feature films, television series and movies of the week.</p>
+        <p>* Maxicare Health Plans Inc., Los Angeles, has hired Goldman, Sachs &amp; Co. to act as financial advisers for a capital restructuring that it expects to announce in December.</p>
+        <p>* Neoax Inc., Cleveland, announced a leveraged recapitalization under which it would sell five truckload carriers that it recently acquired in a merger with IU International Corp. Landstar System Inc. will buy the carriers for $94 million in cash plus common stock and $16 million of 7.5 percent preferred stock.</p>
+        <p>* Pennwalt Corp., Philadelphia, announced that it would open a plant in Thorofare, N.J., in early 1989 to produce the gas HCFC 142b, an alternative to chlorofluorocarbons, which destroy the earth's ozone layer.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

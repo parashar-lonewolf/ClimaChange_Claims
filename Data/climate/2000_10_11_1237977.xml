@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN004021" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237977"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6D71F3CF932A25753C1A9669C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TEXACO INC.,  White Plains, agreed to buy a stake in GM Ovonic, which makes batteries for electric cars, from General Motors.</p>
+        <p>SILICON ENERGY CORP.,  Alameda, Calif., will seek to raise as much as $80.5 million through an initial public offering.</p>
+      </block>
+      <block class="full_text">
+        <p>TEXACO INC.,  White Plains, agreed to buy a stake in GM Ovonic, which makes batteries for electric cars, from General Motors.</p>
+        <p>SILICON ENERGY CORP.,  Alameda, Calif., will seek to raise as much as $80.5 million through an initial public offering.</p>
+        <p>ARTHUR TREACHER'S INC.,  Jacksonville, Fla., a seafood restaurant chain owned by the Digital Creative Development Corp., New York, agreed to buy Pudgie's Famous Chicken, Lake Success, N.Y., for an undisclosed amount of stock, to gain 32 New York-area restaurants.</p>
+        <p>POLAROID CORP.,  Cambridge, Mass., has agreed to cut carbon dioxide emissions by 25 percent in the next 10 years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

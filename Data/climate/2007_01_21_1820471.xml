@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Business, Same Old Ted</title>
+    <meta content="21suits-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1820471"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">DT Solar (Co)</org>
+        <org class="indexing_service">Tribune Co</org>
+        <person class="indexing_service">Turner, Ted</person>
+        <person class="indexing_service">Siklos, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0D81E30F932A15752C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Business, Same Old Ted</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD SIKLOS</byline>
+      <byline class="normalized_byline">Siklos, Richard</byline>
+      <abstract>
+        <p>Ted Turner plans to buy one-third stake in alternative energy company DT Solar; is not interested in offering bid for Tribune Company, saying he is not sure of future of newspapers (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a flotilla of billionaires circled the Tribune Company last week, Ted Turner had a decidedly different take on changing the world.</p>
+        <p>He was on the line to talk about his decision to buy a one-third stake in a renewable energy company, DT Solar, for an undisclosed sum.</p>
+      </block>
+      <block class="full_text">
+        <p>As a flotilla of billionaires circled the Tribune Company last week, Ted Turner had a decidedly different take on changing the world.</p>
+        <p>He was on the line to talk about his decision to buy a one-third stake in a renewable energy company, DT Solar, for an undisclosed sum.</p>
+        <p>The company is a joint venture with Dome-Tech Solar. Its recent projects include installing solar energy arrays at Merck and Novartis facilities in New Jersey.</p>
+        <p>Mr. Turner, who spent four decades shaking up the media world with CNN and the Turner Broadcasting System, was clearly excited about his new venture.</p>
+        <p>While he fits the profile of a restless graying billionaire who might like to own a newspaper -- see Ron Burkle and Eli Broad's interest in the Tribune Company -- Mr. Turner said he loved papers but was not sure of their future. ''It's an outmoded technology,'' he said.</p>
+        <p>So he is placing his newest bets on alternative energy, which he thinks can not only influence the world but maybe also save the planet.</p>
+        <p>''I feel like it's going to be the great business opportunity of the 21st century,'' he said with his usual understated reserve, ''and perhaps the biggest business opportunity there has ever been.''</p>
+        <p>RICHARD SIKLOS</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

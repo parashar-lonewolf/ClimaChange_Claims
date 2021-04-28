@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York Leads on Clean Air</title>
+    <meta content="MB220849" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1145456"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Smog</classifier>
+        <classifier class="indexing_service" type="descriptor">Sulfur Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Nitrogen Oxide</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Pataki, George E (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smog</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFDE1130F936A25753C1A96F958260" item-length="564" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York Leads on Clean Air</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial lauds Gov George Pataki for deciding to force power plants in New York State to make dramatic cuts in smokestack emissions that cause smog and acid rain, beyond reductions mandated by Federal law; holds this is a salutary move that will not only help New Yorkers but may well have important repercussions nationally</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. George Pataki has decided to force power plants in New York State to make dramatic cuts in the smokestack emissions that cause smog and acid rain, beyond the reductions mandated by federal law. This is a salutary move that will not only help New Yorkers but may well have important repercussions nationally.</p>
+        <p>Mr. Pataki's plan, which needs no legislative approval, would cut two kinds of pollution -- sulfur dioxide, the main cause of acid rain, and nitrogen oxide, which causes smog and also contributes to acid rain. The sulfur dioxide cuts, to be achieved by 2007, would exceed federal requirements for that year by 50 percent. The nitrogen oxide cuts would exceed federal targets by about 25 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. George Pataki has decided to force power plants in New York State to make dramatic cuts in the smokestack emissions that cause smog and acid rain, beyond the reductions mandated by federal law. This is a salutary move that will not only help New Yorkers but may well have important repercussions nationally.</p>
+        <p>Mr. Pataki's plan, which needs no legislative approval, would cut two kinds of pollution -- sulfur dioxide, the main cause of acid rain, and nitrogen oxide, which causes smog and also contributes to acid rain. The sulfur dioxide cuts, to be achieved by 2007, would exceed federal requirements for that year by 50 percent. The nitrogen oxide cuts would exceed federal targets by about 25 percent.</p>
+        <p>The move sends two pointed messages -- one to the Midwest, the other to Washington. For years, New York and other Northeastern states have suffered from windblown pollution originating in aging, coal-fired power plants in a half-dozen or so Midwestern and border states. Recent calculations by clean-air officials in Albany suggest that no more than 20 percent of the acid rain problem in the Adirondacks and other upstate areas arises from the state's own power plants. However, the Midwestern and border states have argued that New York has long inflated these figures and, further, should take action against its own dirty plants before asking them to do the same. Mr. Pataki has now called their bluff.</p>
+        <p>In addition, Mr. Pataki's plan provides a model for fair competition in the power industry that Congress, which has not yet figured out how to deal with the uncertain new world of utility deregulation, would do well to emulate. Under deregulation, consumers will be able to buy their power from almost anywhere, and inevitably they will gravitate to the cheapest producers. Unfortunately, the cheapest power tends to be produced by the dirtiest plants, those using plentiful, inexpensive coal. That puts the newer, cleaner but more expensive gas-fired plants at a competitive disadvantage. The Pataki plan would level the playing field, at least inside the state, because New York's coal-fired plants will now have to invest in expensive systems to filter pollution.</p>
+        <p>But because consumers will someday be able to buy power from anywhere in the country -- including coal-fired plants in the Midwest -- New York's action will count for little unless Congress levels the field nationally, requiring dirty power plants elsewhere to make similar investments in pollution controls. There are several bills before Congress that would require such investments, end the special ''grandfather' clauses that have long exempted Midwestern plants from federal rules, require significant investments in clean-air technologies and encourage energy efficiency and renewable energy sources. But these will go nowhere without significant White House leadership.</p>
+        <p>Unfortunately, most of the leadership on clean air these days seems to be found in the Northeast, particularly New York. There, a political odd couple -- Mr. Pataki and Eliot Spitzer, the Democratic Attorney General -- have between them devised a creative legal and regulatory strategy to compensate for Washington's indifference.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

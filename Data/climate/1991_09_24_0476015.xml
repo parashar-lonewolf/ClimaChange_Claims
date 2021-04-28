@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="476015"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DC143FF937A1575AC0A967958260" item-length="566" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIRBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Volcano Dating</p>
+        <p>Q.</p>
+        <p>How do we know when ancient volcanic eruptions occurred?</p>
+      </block>
+      <block class="full_text">
+        <p>Volcano Dating</p>
+        <p>Q.</p>
+        <p>How do we know when ancient volcanic eruptions occurred?</p>
+        <p>A.  Eruptions can be approximately dated by various means, said Susan Russell-Robinson, a geologist who is an information scientist with the United States Geological Survey.</p>
+        <p>Historical excavations can reveal when a known settlement was covered by lava. For prehistorical eruptions, she said, some large ones near polar regions left a layer of ash trapped in the polar ice, and oxygen isotopes can be used to tell when the ice solidified around it.</p>
+        <p>However, dating charred wood or any kind of vegetation from close to the eruption site is the most common method, Ms. Russell-Robinson said.</p>
+        <p>Carbon dating relies on the rate of radioactive decay of one carbon isotope, carbon 14. It is used for eruptions that took place in the last 40,000 years, but more than 200 years ago.</p>
+        <p>Living things take on carbon from the carbon dioxide in the atmosphere, she explained, and when they die, they cannot take on any more. It is assumed that the percentage of carbon in the atmosphere has remained constant and that the radioactivity of carbon 14 has decayed at a constant rate, approximately by half in 5,700 years.</p>
+        <p>Charcoal from trees burned in an eruption is nearly pure carbon and so is ideal for tracing the minuscule amounts of carbon 14 present, she said. Tree rings are not useful because it is hard to find a tree close to the site that did not burn, while ash and trees from farther out tend to wash away.</p>
+        <p>The dates are given in a range of plus or minus 100 years, Ms. Russell-Robinson said, but it is sometimes possible to determine a more exact date. For example, the eruption at Sunset Crater, Ariz., has been placed at 1066 A.D.</p>
+        <p>Carbon dating put the year around 1065, she explained, and Indians' oral historical records helped count back to 1066. Pottery that showed an eclipse of the Sun in conjuction with an eruption helped confirm that date.</p>
+        <p>Six weeks before the eruption of Mount Pinatubo in the Philippines, Ms. Russell-Robinson said, the Geological Survey obtained charcoal samples from the site and used carbon 14 dating to confirm the size and scale of past eruptions and to determine that major eruptions took place about 600 to 800 years apart.</p>
+        <p>Dogs' Noses</p>
+        <p>Q.</p>
+        <p>If a healthy dog has a cold, wet nose, does a warm, dry nose mean the dog is sick?</p>
+        <p>A.  "The dog's wet nose is relatively misunderstood," said Dr. Michael S. Garvey, a veterinarian, who is chairman of the department of medicine at the Animal Medical Center in Manhattan. It is not an invariable indicator of health, good or bad.</p>
+        <p>It is normal for a dog to drain some fluid out of the nose, and the nose may be wet and cold because of evaporation, Dr. Garvey said. And it is true that a dog with a high fever may have a dry, warm nose, he said.</p>
+        <p>However, many factors, especially the environmental temperature, may also cause a healthy dog to have a warm and/or dry nose, Dr. Garvey said. "It is no substitute for taking the temperature and a medical examination," he said.</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

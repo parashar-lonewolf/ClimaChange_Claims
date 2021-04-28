@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>G.E. TO BUILD LAB IN GERMANY FOR $52 MILLION</title>
+    <meta content="CN005135" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1434624"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Hiring and Promotion</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <location class="indexing_service">Europe</location>
+        <location class="indexing_service">Garching (Ger)</location>
+        <org class="indexing_service">General Electric Co</org>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE0D7123CF937A15753C1A9649C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>G.E. TO BUILD LAB IN GERMANY FOR $52 MILLION</hl1>
+      </hedline>
+      <byline class="print_byline">By Barnaby J. Feder (NYT)</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>General Electric Co will invest $52 million over next five years to build its first European research laboratory in Garching, Germany; laboratory is expected to employ 150 scientists by 2005; will focus on technology development in areas like renewable energy, medical imaging and materials science rather than on fundamental research (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>General Electric said yesterday that it would invest $52 million over the next five years to build its first European research laboratory in Garching, on the outskirts of Munich. The laboratory is expected to employ 150 scientists by 2005. G.E. said the lab would focus on technology development in areas like renewable energy, medical imaging and materials science rather than on fundamental research. G.E. opened its first overseas lab in 2000, in Bangalore, India, and is building another, in Shanghai.</p>
+        <p>Barnaby J. Feder (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>General Electric said yesterday that it would invest $52 million over the next five years to build its first European research laboratory in Garching, on the outskirts of Munich. The laboratory is expected to employ 150 scientists by 2005. G.E. said the lab would focus on technology development in areas like renewable energy, medical imaging and materials science rather than on fundamental research. G.E. opened its first overseas lab in 2000, in Bangalore, India, and is building another, in Shanghai.</p>
+        <p>Barnaby J. Feder (NYT)</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

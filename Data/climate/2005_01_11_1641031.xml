@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="11OBSER" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/01/11/science/11obse.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1641031"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Salt</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Microbiology</classifier>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Bacteria</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Chandra X-Ray Observatory</classifier>
+        <classifier class="indexing_service" type="descriptor">Telescopes and Observatories</classifier>
+        <classifier class="indexing_service" type="descriptor">Black Holes (Space)</classifier>
+        <classifier class="indexing_service" type="descriptor">Explosions</classifier>
+        <classifier class="indexing_service" type="descriptor">Spiders</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="indexing_service" type="descriptor">Beetles</classifier>
+        <location class="indexing_service">Europe</location>
+        <location class="indexing_service">Mediterranean Sea</location>
+        <location class="indexing_service">Greece</location>
+        <location class="indexing_service">Libya</location>
+        <org class="indexing_service">Science (Journal)</org>
+        <org class="indexing_service">Genomic Research (Co)</org>
+        <org class="indexing_service">Ohio University</org>
+        <org class="indexing_service">Nature (Journal)</org>
+        <org class="indexing_service">Oxford University</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <person class="indexing_service">McNamara, Brian (Dr)</person>
+        <person class="indexing_service">Mayntz, David (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Greece</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Libya</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Libya</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Greece</classifier>
+        <classifier class="online_producer" type="general_descriptor">Salt</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Microbiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Explosions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Spiders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Black Holes (Space)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5DB1239F932A25752C0A9639C8B63" item-length="1111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Eat or Be Eaten (but Eat Right)</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>European team of scientists exploring deep-sea basins in Mediterranean Sea between Greece and Libya finds active microbial community despite extremely harsh conditions; basins, which are at least 10,000 feet below surface, are thought to have highest concentrations of salt found in any ocean on earth; research is published in journal Science; Genomic Research completes decoding of bacteria Dehalococcoides ethenogenes, which was found in sewage treatment sludge; D ethenogenes is able to naturally clean up some polluting compounds; research, which scientists hope will lead to better environmental cleanup, is published in journal Science; Dr Brian McNamara of Ohio University leads study of Chandra X-Ray Observatory data that identify largest explosive outburst ever recorded from black hole; findings are published in journal Nature; Dr David Mayntz of University of Oxford leads research on diet of carnivorous predators; study, published in journal Science, finds that three carnivorous species studied all tried to consume balanced diet; researchers observed and tested ground beetle and two spiders; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Life in the Salt, Salt Sea</p>
+        <p>The environment around deep-ocean hydrothermal vents is among the most inhospitable anywhere, yet it is home to single-cell microbes, tube worms and other organisms that like their habitat hot and sulfurous.</p>
+        <p>But vent zones aren't the only extreme neighborhood under the sea. In the eastern Mediterranean, for example, at depths of 10,000 feet or more, are basins that in addition to lacking light and oxygen are among the saltiest places on earth. And there, too, a European team of scientists report in Science, life exists.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If it is hard for many people to eat balanced diets, given the array of foods available, imagine what it must be like for carnivorous predators.</p>
+      </block>
+      <block class="full_text">
+        <p>Life in the Salt, Salt Sea</p>
+        <p>The environment around deep-ocean hydrothermal vents is among the most inhospitable anywhere, yet it is home to single-cell microbes, tube worms and other organisms that like their habitat hot and sulfurous.</p>
+        <p>But vent zones aren't the only extreme neighborhood under the sea. In the eastern Mediterranean, for example, at depths of 10,000 feet or more, are basins that in addition to lacking light and oxygen are among the saltiest places on earth. And there, too, a European team of scientists report in Science, life exists.</p>
+        <p>The scientists were part of Biodeep, a project sponsored by the European Community to explore these deep-sea basins in the Mediterranean between Greece and Libya. This is a region where the sea dried up more than 5.5 million years ago, leaving vast salt deposits that were since covered in sediment.</p>
+        <p>When the sea returned, tectonic activity exposed the deposits in certain areas, creating a hyper-salty brine. In one of the basins, for example, the concentration of the salt magnesium chloride is the highest found in a marine environment.</p>
+        <p>Yet the researchers found an active microbial community in the four basins they sampled with a robotic submersible. Previously unknown species of bacteria as well as archaea were discovered.</p>
+        <p>The researchers say their work shows that some microbes are even more adaptable to salt than previously thought. And they suggest that the findings lend more support to the idea that life might exist elsewhere in the solar system. Jupiter's moon Europa, for instance, may have pockets of brine in its icy shell.</p>
+        <p>Sludge-Eater's Genome</p>
+        <p>It was discovered in lowly sludge from a sewage-treatment plant, but now it's at the top of the heap, genomically speaking. The genome of the bacteria Dehalococcoides ethenogenes has been decoded by scientists at the Institute for Genomic Research in Rockville, Md.</p>
+        <p>D. ethenogenes has the ability to naturally clean up polluting compounds like the dry-cleaning solvent tetrachloroethene (which is what it was doing when it was discovered at the treatment plant, in Ithaca, N.Y.). The genome for the bacteria (a variety called Strain 195) contains about 1.5 million base pairs, about one-third to one-fourth of the number of base pairs in strains of E. coli that have been sequenced.</p>
+        <p>The sequence for D. ethenogenes, which was described in Science, includes genes for fixing nitrogen and parts of genes that fix carbon dioxide. This suggests the bug had an ancestor that was a bit more conventional.</p>
+        <p>The work should help scientists learn how to better grow the bacteria (which are difficult to culture in the lab) and use them for environmental cleanup.</p>
+        <p>Supermassive Outburst</p>
+        <p>These are boom times for black holes. In recent years, astronomers have detected large outbursts of X-rays and high-energy particles from black holes, caused by the acceleration and extreme heating of gas clouds drawn to them by their enormous gravitational fields.</p>
+        <p>Now, scientists using data from the Chandra X-ray Observatory have measured the most powerful explosion yet, from a supermassive black hole at the center of a distant cluster of galaxies. The outburst has produced two enormous cavities, measuring hundreds of thousands of light-years across, as the emissions displace and compress the gas in the cluster.</p>
+        <p>The researchers, led by Dr. Brian McNamara of Ohio University, suggest that the energy required to create these cavities - 6 times 10 to the 61st ergs, for those keeping score - is nearly an order of magnitude greater than the next-largest outburst ever detected. The work was published in the journal Nature.</p>
+        <p>All that energy would tend to keep the gas in the cluster from cooling down for several billion years, the researchers estimate. And since gas has to cool and coalesce to form new stars, the black hole would seem to be preventing this from happening. The finding adds to a growing body of evidence that may help explain why clusters like this do not make new stars.</p>
+        <p>Eat or Be Eaten (but Eat Right)</p>
+        <p>If it is hard for many people to eat balanced diets, given the array of foods available, imagine what it must be like for carnivorous predators. They eat only what they catch, and what they catch is limited. The wild is no Las Vegas all-you-can-eat buffet.</p>
+        <p>That is why scientists have theorized that for most carnivores to stay healthy the composition of their prey has to be nutritionally balanced. These carnivores do not select prey for nutritional content, but rather optimize the amount of prey they eat. Herbivores, by contrast, can pick a fatty nut over a starchy root.</p>
+        <p>A researcher at the University of Oxford in Britain has found some carnivorous predators that can pick and choose nutrients. In experiments with three invertebrate species, a ground beetle and two spiders, the researcher, Dr. David Mayntz, and colleagues found that the predators actively balanced their diets.</p>
+        <p>''All of them are trying to get the right nutrients, but in different ways,'' said Dr. Mayntz, whose study is published in the current issue of Science.</p>
+        <p>The three species have quite different feeding behaviors, he said. The beetle is an active forager, hunting its food. One spider is semiactive. It sits and waits for prey, ambushing it as it ambles by, but can also move to another foraging spot as needed. The other spider builds a web and is totally dependent on whatever prey is caught in it.</p>
+        <p>Specimens of all three species were fed an unbalanced diet, too rich in either fat or protein. Then they were watched as other foods were made available. In all three cases, the invertebrates opted for food that would make up what they were lacking. That is, if they had first been fed protein-rich food, they then consumed fat-rich food. ''We've shown that they have priorities and try to get what they need,'' Dr. Mayntz said.</p>
+        <p>The effect could be seen, he added, even if the specimens had been kept on an unbalanced diet only for a day. ''When you're balancing macronutrients, these things are often short term,'' he said.</p>
+        <p>Dr. Mayntz said he would not be surprised if other carnivorous predators, even large mammals, were someday shown to have the same ability to balance diets. Leopards might be selective about what parts of the prey, lean or fatty, they eat right after the kill. ''I would guess that they would go for what they need first,'' he said.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

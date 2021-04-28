@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming: Not a Fantasy</title>
+    <meta content="LTR001911" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1077572"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Treaties</classifier>
+        <classifier class="indexing_service" type="descriptor">Kyoto Protocol</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Third World and Developing Countries</classifier>
+        <person class="indexing_service">Symons, Dominic</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Third World and Developing Countries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EED91F31F935A25752C0A96F958260" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming: Not a Fantasy</hl1>
+      </hedline>
+      <abstract>
+        <p>Dominic Symons letter on Kyoto Protocol says developed world has no moral authority to ask developing countries to tackle environmental problems if it has not already put its own house in order</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>One of the biggest problems discussed at Kyoto was the rapid industrialization currently under way across Asia, especially in China and India. As the living standards rise in these countries, pollution will rapidly escalate, with global consequences (Op-Ed, Jan. 13).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>One of the biggest problems discussed at Kyoto was the rapid industrialization currently under way across Asia, especially in China and India. As the living standards rise in these countries, pollution will rapidly escalate, with global consequences (Op-Ed, Jan. 13).</p>
+        <p>The developed world has no moral authority to ask developing countries to tackle these environmental problems if it has not already put its own house in order. Without a lead from the United States, this simply will not happen.</p>
+        <p>DOMINIC SYMONS  London, Jan. 13, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="02INSI$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="977320"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EED8163DF931A35751C1A961958260" item-length="296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Estimate Rises on Gold Taken From Nazis' Victims  A Swiss study said the amount of gold stolen from the Nazis' victims was much higher than had been assumed, which is likely to strengthen claims for restitution. Page A6.</p>
+      </block>
+      <block class="full_text">
+        <p>Estimate Rises on Gold Taken From Nazis' Victims  A Swiss study said the amount of gold stolen from the Nazis' victims was much higher than had been assumed, which is likely to strengthen claims for restitution. Page A6.</p>
+        <p>Dow Rises Above 8,000  Stock markets around the world rallied, bolstered in part by a sense that Japanese and Southeast Asian officials were moving to address their financial problems. Page D1.</p>
+        <p>Tough Task on Climate  As the conference on global warming opened in Japan with many hard issues unresolved, the United States decided to send Vice President Al Gore to argue its position. Page A10.</p>
+        <p>World AIDS Day Observed  With memories of those killed by AIDS and hopes that the young can avoid it, the day was observed in ways big and small. Page A26.</p>
+        <p>Stephane Grappelli Dies  The witty and urbane jazz violinist, best known for his role in founding the Quintet of the Hot Club of France, was 89. Page B7.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="20INSI" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="966641"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E2DE163EF933A15753C1A961958260" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Failure on Climate Goals  The U.S. is facing a new round of international talks on greenhouse gases after failing to meet ambitious goals set four years ago. Page A15.</p>
+      </block>
+      <block class="full_text">
+        <p>Failure on Climate Goals  The U.S. is facing a new round of international talks on greenhouse gases after failing to meet ambitious goals set four years ago. Page A15.</p>
+        <p>Delay Averts Amtrak Strike  Amtrak management and track workers agreed on a cooling-off period, averting a strike. Page A10.</p>
+        <p>An Unwelcome in Havana  Havana authorities are enforcing tough rules that give them the power to evict, fine and expel thousands of ''internal migrants.'' Page A8.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

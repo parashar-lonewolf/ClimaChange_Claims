@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sexy It's Not, but Big Science Thrives on Earth</title>
+    <meta content="09JOHN$06" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/02/09/weekinreview/09JOHN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1463601"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Shuttle</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <location class="indexing_service">Japan</location>
+        <person class="indexing_service">Johnson, George</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E7DD133BF93AA35751C0A9659C8B63" item-length="929" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sexy It's Not, but Big Science Thrives on Earth</hl1>
+        <hl2 class="online_headline">Sexy It's Not, but Big Science Thrives on Earth</hl2>
+      </hedline>
+      <byline class="print_byline">By GEORGE JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, George</byline>
+      <abstract>
+        <p>George Johnson comment on merits of research conducted in space; notes that for about cost of one space shuttle flight, Japan recently completed Earth Simulator, gargantuan computing complex almost five times more powerful than fastest supercomputer in US, and capable of most advanced scientific work; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AMONG the science projects pursued by the crew of the space shuttle Columbia -- the dynamics of sand and soil under pressure or the effect of dust storms on global warming -- was one that in retrospect seems terribly poignant: an inquiry into the nature of fire and the best way to suppress it in space.</p>
+        <p>Unlike many recent shuttle flights, this one was promoted as a research mission, its primary purpose not routine servicing of the International Space Station but the expansion of human knowledge.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Unlike many recent shuttle flights, this one was promoted as a research mission, its primary purpose being the expansion of human knowledge.</p>
+      </block>
+      <block class="full_text">
+        <p>AMONG the science projects pursued by the crew of the space shuttle Columbia -- the dynamics of sand and soil under pressure or the effect of dust storms on global warming -- was one that in retrospect seems terribly poignant: an inquiry into the nature of fire and the best way to suppress it in space.</p>
+        <p>Unlike many recent shuttle flights, this one was promoted as a research mission, its primary purpose not routine servicing of the International Space Station but the expansion of human knowledge.</p>
+        <p>''We are that part of creation which seeks to understand all creation,'' President Bush said at the astronauts' funeral last week. But if the words were true symbolically, they seemed less so in substance. Whatever these explorers died for, it didn't have much to do with science.</p>
+        <p>Basic research, without obviously profitable applications, has always been a hard sell. Several decades ago when the physicist Robert R. Wilson was soliciting money for a high-energy particle accelerator at Fermilab, he was asked at a Senate hearing how the project would contribute to national defense. ''It has nothing to do with defending our country,'' Wilson famously conceded, ''except to make it worth defending.''</p>
+        <p>What he promised has turned out to be true a millionfold, as Fermilab and other accelerators explore the tiniest pieces of matter and even probe the possibilities of extra dimensions and creating miniature black holes.</p>
+        <p>Don't ask about practical spinoffs (though you can be sure that laboratory lobbyists could come up with a few). Like the Hubble Space Telescope and the automated space probes sent beyond the solar system, the real value comes not from any new consumer products or military technologies. The projects are priceless because they are opening up deeper layers of human understanding.</p>
+        <p>But the space shuttle? Most Americans, even scientists, were barely aware Columbia was up there until it fell. The space program had long ago become boring.</p>
+        <p>Since the end of the moon landings, the agency has been saddled with a problem that the visionaries of the 1960's -- Robert A. Heinlein, Arthur C. Clarke, Isaac Asimov -- would never have imagined: the need to make manned space flight seem interesting.</p>
+        <p>It is a curious turn of the tables. The modus operandi for most big science projects is to play down the sheer fascination of intellectual investigation and emphasize supposed economic benefits. Supporters of the ill-fated Superconducting Supercollider, a would-be successor to Fermilab, tried to convince budget-minded lawmakers that the program offered all kinds of commercial byproducts -- bigger, more powerful magnets, advances in tunnel digging. But what the physicists were really after were things that can only be described mathematically, phenomena like supersymmetric particles and Higgs bosons.</p>
+        <p>With the space shuttle, the economic benefits are clear enough, at least to the aerospace industry. Just the day before the explosion, NASA put the finishing touches on a two-year, $2.9 billion contract with United Space Alliance of Houston, jointly owned by Boeing and Lockheed Martin. (Last week company employees turned their attention to a new project, gathering and analyzing shuttle debris.) Even the pressurized scientific laboratory carried in Columbia's payload bay was leased to NASA by a private contractor, Spacehab Inc. (Its motto: ''We mean business in space.'')</p>
+        <p>When it comes to manned space flight, the scientific claims have long had the ring of phoniness. With recent shuttle missions devoted to building and supplying the space station (and the space station to giving the shuttle something to do), the doomed Columbia mission seemed like a half-hearted gesture to the scientific community, more NASA public relations. After knocking off a couple of weeks of minor experiments, including shepherding high school science projects (more good P.R.), the program was to revert to business as usual.</p>
+        <p>It's not that the research done on board was unimportant. But most of it, except maybe the effects of space travel on humans, could have been carried out on unmanned craft or here on earth. Sadly, the most significant science to come out of Columbia's last mission may be a final theory of why it crashed.</p>
+        <p>Every time the shuttle goes up and safely returns it costs a few hundred million dollars. For about the same price, the Japanese recently completed their Earth Simulator, a gargantuan computing complex almost five times more powerful than the fastest supercomputer in the United States. The unprecedented fineness of its simulations could result in a better understanding of meteorological phenomena, and of global warming and other climatic change. What could be more exciting than that?</p>
+        <p>IMAGINE the possibilities of five of these machines, each working away at different problems -- solving mathematical mysteries that have languished for centuries, scouring cosmic signals for signs of messages from other worlds, simulating living tissues or even the human brain. Or we could have five more round trips to the space station.</p>
+        <p>The United States is already rushing to catch up with the Japanese race into cyberspace. A new supercomputing complex planned for Lawrence Livermore National Laboratory in California will have two machines each faster than the Earth Simulator. But the center will be only partly devoted to science's most profound problems. Its primary purpose will be as practical as can be: simulating nuclear explosions.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

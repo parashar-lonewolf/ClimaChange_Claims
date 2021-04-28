@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smaller Solar</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="293409"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">SOLAR ENERGY</classifier>
+        <org class="indexing_service">NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)</org>
+        <person class="indexing_service">SCHIPPER, LEE (DR)</person>
+        <classifier class="online_producer" type="types_of_material">LETTER</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEEDF1F3BF931A15753C1A96F948260" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smaller Solar</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>If solar-power generating schemes can be made to work in space, then they can certainly be established on earth at a fraction of the cost.</p>
+        <p>We need large solar power plants to generate electricity for urban areas, but equally important is the development of affordable, low-maintenance solar units for single families and small communities in rural areas. Two-thirds of the people in the developing world depend on wood for cooking and heating, and much of this wood is collected by overcutting, a non-sustainable practice.</p>
+        <p>At least three variables - reduced forest cover, increased burning of wood and a growing population - combine synergistically to fuel the global warming crisis. The development of small, inexpensive solar power units would be one of the single most important factors in stemming deforestation and in reducing the release of greenhouse gases.</p>
+        <p>NASA does have an important role in this, which was outlined by Congressman Bill Green, Republican of New York and member of the House appropriations subcommittee that funds NASA (Op-Ed page, Aug. 27). NASA's Mission to Planet Earth program will provide needed data on global weather and climate systems. Satellite monitoring schemes, coordinated with ground-based studies, are also needed to guide our development and conservation of natural resources.  BRIAN M. BOOM  Assistant Curator  The New York Botanical Garden  New York, Oct. 2</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Natural Gas Refueling Station Opens</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="330911"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GAS (FUEL)</classifier>
+        <location class="indexing_service">CONCORD (CALIF)</location>
+        <org class="indexing_service">PACIFIC GAS &amp; ELECTRIC CO</org>
+        <person class="indexing_service">FISHER, LAWRENCE M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D91530F932A35750C0A966958260" item-length="496" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Natural Gas Refueling Station Opens</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER, Special to The New York Times</byline>
+      <byline class="normalized_byline">FISHER, LAWRENCE M</byline>
+      <dateline>SAN FRANCISCO, Feb. 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Pacific Gas and Electric Company will open the first compressed natural gas refueling station available to the public on Thursday in Concord, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Pacific Gas and Electric Company will open the first compressed natural gas refueling station available to the public on Thursday in Concord, Calif.</p>
+        <p>The Pacific Gas and Electric Company will open the first compressed natural gas refueling station available to the public on Thursday in Concord, Calif.</p>
+        <p>The utility company said it would make natural gas, which most California homes use for heating, available as a fleet vehicle fuel at up to 30 percent less than the cost of gasoline.</p>
+        <p>''I don't see us becoming a major gas retailer,'' said Norman L. Bryan, a Pacific Gas vice president in charge of alternative fuel vehicles. ''But we felt it was necessary for us to make the initial investment in refueling stations to get people to try it.''</p>
+        <p>Advantages Over Gasoline</p>
+        <p>Compressed natural gas offers significant advantages over gasoline in terms of reduced emissions. According to tests conducted by the California Air Resources Board in May 1989, use of compressed natural gas in place of gasoline reduces emissions of reactive hydrocarbons by up to 48 percent, of oxides of nitrogen by up to 33 percent and of carbon dioxide by up to 47 percent.</p>
+        <p>California has tougher emission standards for automobiles than other states, but officials in smog-choked Los Angeles have proposed far stricter limits. On March 17, 1989, the South Coast Air Quality Management District approved a three-phase plan requiring all cars in the area to be converted to electric power or other ''clean'' fuels by 2007.</p>
+        <p>Nearly all gasoline-powered autos, trucks or buses can be converted to operate on compressed natural gas or gasoline; after conversion a driver can choose between fuel sources with a switch, even when the engine is running.</p>
+        <p>Conversion costs about $2,500, however, and requires a large pressurized tank, which limits the practicality of compressed natural gas for use in most cars. Pacific Gas officials said that because of these limitations, most conversions wwould be to larger vehicles.</p>
+        <p>''We see the market as light- to heavy-duty truck and bus fleets, larger vehicles with space to carry the tanks,'' Mr. Bryan said. Fleet vehicles also have a driving profile that lends itself to returning to refuel, which is essential because of the lack of refueling stations in the field.</p>
+        <p>''We do not in the next few years expect to see a lot of cars converted,'' he said.</p>
+        <p>The Concord station is the first of nine that the utility, based in San Francisco, will build this year, with seven open to the public. Mr. Bryan said additional stations could be added easily because the utility already had natural gas pipelines to most sites.</p>
+        <p>The American Gas Association, a trade group based in Arlington, Va., said there were 20 public stations for compressed natural gas in other states and about 200 private stations.</p>
+        <p>Julie Stewart, a spokeswoman for the group, said 30,000 vehicles had been converted to use the fuel in the United States. She said natural gas had been more popular in some foreign countries, with 300,000 vehicles converted in Italy; 200,000 in the Soviet Union, and more than 100,000 in New Zealand.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

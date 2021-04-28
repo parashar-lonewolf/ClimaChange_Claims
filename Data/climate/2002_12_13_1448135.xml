@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carter and Bush</title>
+    <meta content="L13CART" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1448135"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nobel Prizes</classifier>
+        <person class="indexing_service">Drumlevitch, Fred</person>
+        <person class="indexing_service">Carter, Jimmy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nobel Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E0D7133AF930A25751C1A9649C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carter and Bush</hl1>
+      </hedline>
+      <abstract>
+        <p>Fred Drumlevitch letter comments on former Pres Jimmy Carter's speech accepting Nobel Prize (Dec 11 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Carter Accepts Nobel and Gives Message on Iraq'' (front page, Dec. 11) and ''New Tools for Domestic Spying, and Qualms'' (front page, Dec. 10), taken together, spotlight the contradictory philosophical underpinnings of Bush administration policies.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Carter Accepts Nobel and Gives Message on Iraq'' (front page, Dec. 11) and ''New Tools for Domestic Spying, and Qualms'' (front page, Dec. 10), taken together, spotlight the contradictory philosophical underpinnings of Bush administration policies.</p>
+        <p>On the one hand, as former President Jimmy Carter suggests, current American foreign policy seems dominated by a belief in extreme pre-emption, the forceful neutralization of even remotely possible future threats. On the other hand, in so many other areas -- including domestic civil liberties, poverty and resource allocation and global warming -- the Bush administration vigorously pursues a course that vastly increases the threats, both today and tomorrow.</p>
+        <p>The Bush administration has the dubious distinction of being dangerously wrong on all counts.</p>
+        <p>FRED DRUMLEVITCH  Tucson, Dec. 11, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

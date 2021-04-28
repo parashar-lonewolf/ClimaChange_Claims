@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Atom by Atom, Scientists Build 'Invisible' Machines of the Future</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="489739"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NANOTECHNOLOGY</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">CHEMISTRY</classifier>
+        <classifier class="indexing_service" type="descriptor">PHYSICS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOLOGY AND BIOCHEMISTRY</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRONICS</classifier>
+        <person class="indexing_service">POLLACK, ANDREW</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D6113CF935A15752C1A967958260" item-length="1930" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Atom by Atom, Scientists Build 'Invisible' Machines of the Future</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">POLLACK, ANDREW</byline>
+      <dateline>PALO ALTO, Calif.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCIENTISTS are beginning to gain the ability to manipulate matter by its most basic components -- molecule by molecule and even atom by atom.</p>
+        <p>That ability, while now very crude, might one day allow people to build almost unimaginably small electronic circuits and machines, producing, for example, a supercomputer invisible to the naked eye. Some futurists even imagine building tiny robots that could travel through the body performing surgery on damaged cells.</p>
+      </block>
+      <block class="full_text">
+        <p>SCIENTISTS are beginning to gain the ability to manipulate matter by its most basic components -- molecule by molecule and even atom by atom.</p>
+        <p>That ability, while now very crude, might one day allow people to build almost unimaginably small electronic circuits and machines, producing, for example, a supercomputer invisible to the naked eye. Some futurists even imagine building tiny robots that could travel through the body performing surgery on damaged cells.</p>
+        <p>Such molecular-level computers and robots are decades away and might never be practical. Even so, molecular manufacturing promises to lead to great advances in electronic devices, new materials of all sorts and the understanding of nature.</p>
+        <p>"The ability to manipulate and to observe and measure things on that scale is tremendously exciting," said Dr. John Armstrong, the chief scientist at the International Business Machines Corporation. "We will have the ability to make electronic and mechanical devices atom by atom," he said, emphasizing his belief that only critical parts of circuits, not entire computers, could be built this way because of the complexity involved.</p>
+        <p>I.B.M., in fact, became one of the first company's to demonstrate precise control over atoms last year when it positioned 35 atoms of the element xenon to spell out its corporate logo.</p>
+        <p>The emerging field, which draws on advances in physics, chemistry, biology and computer science, is called nanotechnology because the structures being built would be measured in nanometers, or billionths of a meter. A nanometer is about the size of three atoms.</p>
+        <p>Today's finest microelectronic circuits have features about one micron wide, or a millionth of a meter. That is about 1 percent of the diameter of a human hair. Researchers in a field known as micromechanics have built gears, motors and other mechanical devices that are measured in the tens or hundreds of microns and are so small they can be accidentally inhaled.</p>
+        <p>But nanometer-scale devices would be smaller still, one-thousandth their size. Today's microelectronic circuits rely on billions of electrons flowing from place to place. A nanotechnology circuit, by contrast, might differentiate between a zero and a one by a single molecule changing its position or its shape.</p>
+        <p>Dr. J. Fraser Stoddart, a chemist at the University of Birmingham in Britain, and colleagues have synthesized a molecule in which a ring of atoms moves back and forth between two positions on a molecular string. Such a "molecular shuttle" could become the basis for a molecular switch. Professor Stoddart has also synthesized a more complex "molecular train set" in which the atomic ring moves around a circular track, stopping at four stations.</p>
+        <p>Some nanometer-scale devices will be fashioned by conventional means, such as etching pieces of silicon or by chemical synthesis. But some scientists say there is a limit to how far these techniques can go.</p>
+        <p>Today's chemistry is done, essentially, by putting the ingredients in a test tube or vat, heating and shaking, and relying on the random motion of atoms to form the desired compounds. "It's like trying to assemble a radio by putting the components in a bag and shaking," said Dr. Ralph Merkle, a scientist at the Xerox Palo Alto Research Center who is working on nanotechnology. It works well for simple compounds, he said, but it would be hard to imagine ever building a molecular-sized robot this way.</p>
+        <p>So some scientists believe the true revolution will come by precisely snapping atoms and molecules into place, sort of a miniature version of the way radios and other products are built. This idea is called molecular nanotechnology or molecular manufacturing.</p>
+        <p>There is some precedent in nature. Cells have structures called ribosomes that read the instructions in the genetic code and assemble proteins by linking together amino acids.  One Man's Vision</p>
+        <p>"Nanotechnology is a very fancy buzzword for the chemistry of the next century," said Dr. Nadrian Seeman, a professor of chemistry at New York University. "To a certain extent, we're going to emulate the way things are done in cells."</p>
+        <p>Until now, nanotechnology, particularly molecular nanotechnology, has been less a science than the vision of one man, Dr. K. Eric Drexler, a 36-year-old visiting scholar at Stanford University.</p>
+        <p>Dr. Drexler, who fashioned his own Ph.D. program in nanotechnology at M.I.T., has outlined his ideas in two books, "Engines of Creation" (Anchor Press/Doubleday) in 1986 and this year's "Unbounding the Future" (William Morrow &amp; Company), written with Chris Peterson and Gayle Pergamit.</p>
+        <p>Dr. Drexler and Ms. Peterson, his wife, formed the Foresight Institute, a nonprofit organization in Palo Alto, Calif., which sponsored a nanotechnology conference here this month that drew about 150 researchers. Dr. Drexler, joined by some Silicon Valley executives, also recently established the Institute of Molecular Manufacturing, another nonprofit organization that plans to provide small grants for nanotechnology research.</p>
+        <p>Dr. Drexler predicts that tiny machines controlled by nanocomputers and powered by nanomotors will one day swim through the blood vessels fighting viruses, or grab chlorine atoms out of the sky to protect the ozone layer.</p>
+        <p>How will these nanomachines be made? By other nanomachines known as molecular assemblers, which will be like tiny robot arms that will grab molecules floating by in solution and slap them into place. The molecular assemblers would also be able to make copies of themselves, so they could multiply into the billions. In that way molecular manufacturing could be used to make large structures as well as microscopic ones, just as a tree can grow from an acorn.  Some See Science Fiction</p>
+        <p>"Advanced molecular manufacturing will be able to make almost everything," Dr. Drexler and his co-authors write in "Unbounding the Future." "Strip mines, clear-cutting, refineries, paper mills and oil wells are some of the crude 20th century technologies that will be replaced." For example, they say, such manufacturing could produce extremely efficient solar energy systems. Of course, they note, molecular technology could pose great risks if it is used to build weapons or if self-replicating creatures run amok.</p>
+        <p>Needless to say, all this strikes many people as science fiction. Dr. Drexler's ideas have attracted almost a cult-like following, but many scientists dismiss them.</p>
+        <p>"I don't think he should be taken seriously," said Dr. Calvin F. Quate, a professor of applied physics and electrical engineering at Stanford. "He's too far out." Some critics, for instance, say the idea will never work because thermal vibrations, quantum mechanical effects and radiation will prevent the accurate positioning of atoms, although Dr. Drexler disputes this.</p>
+        <p>Still, the idea of nanotechnology is winning some converts. The Ministry of International Trade and Industry in Japan recently announced a $200 million 10-year program of research on nanometer-scale devices, looking at approaches including molecular manufacturing.</p>
+        <p>But what is truly spurring interest is recent work in chemistry, physics and biology that lays the groundwork for molecular manufacturing. "Some of the work is breathtaking and it gives confidence to people who are on the leading edge," said Dr. Bruce P.  Gaber, deputy director of the center for biomolecular science and engineering at the Naval Research Laboratory in Washington.</p>
+        <p>Many of the scientists doing this work do not share Dr. Drexler's vision and some are not even familiar with it. They say nanotechnology, by whatever technique, is exciting enough without having to worry about whether Dr. Drexler's predictions come true.</p>
+        <p>Perhaps the most exciting developments relate to scanning probe microscopes, the best known of which are the scanning tunneling microscope invented by I.B.M. researchers in Zurich a decade ago and the related atomic force microscope. In these microscopes, an ultra-fine stylus is dragged over the surface being studied, mapping out its shape. A New Art Form</p>
+        <p>This has allowed scientists to see individual atoms, a prerequisite if they are going to attempt to build molecular structures. But researchers have also found that they can sometimes get atoms to stick to the microscope tip, allowing them to move the atoms around.</p>
+        <p>That is how I.B.M. researchers in San Jose formed the I.B.M. logo out of atoms. That work in turn has spurred a mini-boom in nanoart.</p>
+        <p>At the Hitachi Central Research Laboratory in Japan, scientistsspelled out "Peace '91" by removing sulfur atoms from molybdenum disulfide. The "1" in the message was only one atom wide. Robert C. Barrett, a student working in Dr. Quate's laboratory at Stanford, inscribed the entire Gettysburg Address on a surface a little bigger than a cross section of a human hair.</p>
+        <p>At the Naval Research Laboratory, scientists hope to attach different chemicals to the tip of the scanning microscope to induce chemical reactions at precise spots. By changing the chemicals, different reactions could be carried out, much as drill bits are changed to accomplish different tasks. This would turn the scanning microscope into a "molecular machine tool."</p>
+        <p>Such a tool, however, would take so long to build structures atom by atom that it could not be used for mass manufacturing.</p>
+        <p>Other attempts at molecular manufacturing are being made in genetic engineering. By changing genetic instructions, scientists are beginning to harness a cell's own contruction machinery to try to create novel substances that do not exist in nature. The problem here is that cells make only proteins, which are not all that useful for certain types of machinery that Dr. Drexler envisions.  Progress in Simulation</p>
+        <p>Other progress is being made in chemical synthesis. Dr. Julius Rebek Jr., a chemist at M.I.T., designed and synthesized a molecule that can self-replicate. It serves as template to which two other molecules stick. Those two molecules then combine to form a copy of the original molecule.</p>
+        <p>Professor Seeman at N.Y.U. has made molecular "stick figures" from DNA, the molecule that stores genetic information. Recently Dr. Seeman made a shape resembling a cube out of six DNA strands.</p>
+        <p>He took advantage of the tendency of certain DNA components, known as bases, to stick to each other to have the DNA actually assemble itself into the proper shape. Such molecular self-assembly, in which the pieces fit together in only one way, is also used by nature to assemble complex structures after the component proteins have been built. Some scientists believe that self-assembly would be a more feasible approach for making molecular devices than trying to stack atoms together with a robot arm.</p>
+        <p>Progress has also been made on computer programs that can simulate molecules. Drug companies are already using such programs to try to design drugs. Dr. Drexler and Dr. Merkle of Xerox have used computers to design mechanical molecular structures, such as a bearing made of 2,808 atoms. There is as yet no way to build such a bearing, but the simulation indicates the structure should be stable if it can be built.</p>
+        <p>All of these developments are a long way from Dr. Drexler's vision of molecular factories. But, he argues, it was also difficult to imagine getting from the first transistor to modern computers.</p>
+        <p>"We've built up this vast storehouse of basic capabilities," Dr. Drexler said. "We are on the threshold of molecular manipulation. This is close enough that I can taste it."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

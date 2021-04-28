@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Global Warming Report Predicts Doom for Many Species</title>
+    <meta content="Y01CLI$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/01/world/01CLIM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1226817"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Animals</classifier>
+        <classifier class="indexing_service" type="descriptor">Endangered and Extinct Species</classifier>
+        <org class="indexing_service">World Wildlife Fund</org>
+        <org class="indexing_service">World Wide Fund for Nature</org>
+        <person class="indexing_service">Lyall, Sarah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E7D71530F932A3575AC0A9669C8B63" item-length="469" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Global Warming Report Predicts Doom for Many Species</hl1>
+      </hedline>
+      <byline class="print_byline">By SARAH LYALL</byline>
+      <byline class="normalized_byline">Lyall, Sarah</byline>
+      <dateline>LONDON, Aug. 31</dateline>
+      <abstract>
+        <p>World Wide Fund for Nature (World Wildlife Fund) reports that global warming could wipe out many species of plants and animals by end of 21st century; predicts devastation for species from Arctic polar bears to New England sugar maples (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Global warming could wipe out many species of plants and animals by the end of the 21st century, the World Wide Fund for Nature said in a report issued here today.</p>
+        <p>The fund, known in the United States as the World Wildlife Fund, paints a devastating picture of the ability of species from Arctic polar bears and walruses to New England sugar maple trees to survive unless they can migrate quickly or adapt to their new environments.</p>
+      </block>
+      <block class="full_text">
+        <p>Global warming could wipe out many species of plants and animals by the end of the 21st century, the World Wide Fund for Nature said in a report issued here today.</p>
+        <p>The fund, known in the United States as the World Wildlife Fund, paints a devastating picture of the ability of species from Arctic polar bears and walruses to New England sugar maple trees to survive unless they can migrate quickly or adapt to their new environments.</p>
+        <p>The predictions are based on the standard assumption -- which some experts say should be revised -- that by 2100, carbon dioxide emissions into the atmosphere will be double what they were at the start of the Industrial Revolution.</p>
+        <p>They also rely on climate models that lose precision when assessing regional impacts of a warming global climate.</p>
+        <p>Particularly at risk in addition to rare species, the report indicates, are those living in mountainous or isolated places. Among those singled out as vulnerable are the Gelada baboon in Ethiopia; the monarch butterfly, which spends winters in Mexico; the Australian mountain pygmy possum; the northern spruce in New York State; and the spoonbilled sandpiper, which breeds in the far northeastern reaches of Russia.</p>
+        <p>According to the report, as much as 70 percent of the natural habitat could be lost, and 20 percent of the species rendered extinct, in the Arctic and northernmost areas of places like Canada, Russia and Scandinavia, where warming is predicted to be most rapid.</p>
+        <p>Places farther south, including parts of Sweden, Finland, Estonia, Latvia, Iceland and Kyrgyzstan, could lose more than half of their natural habitat.</p>
+        <p>In the United States, the report predicts, more than a third of the existing habitat in Maine, New Hampshire, Oregon, Colorado, Wyoming, Idaho, Utah, Arizona, Kansas, Oklahoma and Texas could be irrevocably altered by global warming.</p>
+        <p>''Rapid rates of global warming are likely to increase rates of habitat loss and species extinction, most markedly in the higher latitudes of the Northern Hemisphere,'' the report reads.</p>
+        <p>Jennifer L. Morgan, director of the World Wildlife Fund Climate Change Campaign in Washington, says that to survive into the following century, some species would have to migrate 10 times faster than after the last ice age.</p>
+        <p>''Climate change is coming at us much faster than many habitats are going to be able handle,'' Ms. Morgan said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

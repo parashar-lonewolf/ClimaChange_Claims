@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming: A Real Thriller</title>
+    <meta content="LTR012038" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1636465"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E3D91330F932A15751C1A9629C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming: A Real Thriller</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''New Climate Thriller: Scary, but Is It Science?'' (Dec. 14): According to Michael Crichton's latest novel, warnings about the growing dangers posed by global warming are false alarms sounded by environmental extremists.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''New Climate Thriller: Scary, but Is It Science?'' (Dec. 14): According to Michael Crichton's latest novel, warnings about the growing dangers posed by global warming are false alarms sounded by environmental extremists.</p>
+        <p>On the contrary, it is actually the mainstream view of climatologists and scientists in relevant disciplines that global warming is real and, if unchecked, could result in ecological disasters.</p>
+        <p>Personally, I don't believe it is very difficult to decide whose views are more credible.</p>
+        <p>RUSS WEISS  Princeton, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology; Fuel Cells: Finally Coming of Age or Too Good to Be True?</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="456274"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FUEL CELLS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <location class="indexing_service">CALIFORNIA</location>
+        <org class="indexing_service">PACIFIC GAS &amp; ELECTRIC CO</org>
+        <org class="indexing_service">ENERGY DEPARTMENT</org>
+        <person class="indexing_service">FISHER, LAWRENCE M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFD81439F933A05755C0A967958260" item-length="1090" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology; Fuel Cells: Finally Coming of Age or Too Good to Be True?</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <byline class="normalized_byline">FISHER, LAWRENCE M</byline>
+      <dateline>SAN RAMON, Calif.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>First developed in the 1960's for use in space, fuel cells have come down to earth. This month, the Pacific Gas and Electric Company, the northern California utility, started up the first complete power plant based on a molten carbonate fuel cell.</p>
+        <p>A fuel cell is a device that converts the energy of a fuel directly to electricity and heat, without combustion. Because there is no combustion, fuel cells give off few emissions; and because there are no moving parts, fuel cells are quiet. Although a fuel -- in this case natural gas -- is consumed, P.G.&amp; E.'s fuel cell plant is about 50 percent more efficient than conventional gas-powered turbine power generators.</p>
+      </block>
+      <block class="full_text">
+        <p>First developed in the 1960's for use in space, fuel cells have come down to earth. This month, the Pacific Gas and Electric Company, the northern California utility, started up the first complete power plant based on a molten carbonate fuel cell.</p>
+        <p>A fuel cell is a device that converts the energy of a fuel directly to electricity and heat, without combustion. Because there is no combustion, fuel cells give off few emissions; and because there are no moving parts, fuel cells are quiet. Although a fuel -- in this case natural gas -- is consumed, P.G.&amp; E.'s fuel cell plant is about 50 percent more efficient than conventional gas-powered turbine power generators.</p>
+        <p>"We don't know of anything that can be as efficient or generate so little emissions" as the molten carbonate fuel cell, said Edward A. Gillis, manager of the fuel cell program at the Electrical Power Research Institute in Menlo Park, Calif. The institute, together with P.G.&amp; E., the Department of Energy and the California Energy Commission, financed the pilot plant in San Ramon, a suburban town about 40 miles east of San Francisco.</p>
+        <p>Several types of fuel cells are under development. Each uses a different type of electrolyte, an electrically conductive chemical, to react with the fuel.</p>
+        <p>Phosphoric acid fuel cells are the most advanced and have been operating in power plants in Japan for about five years. But P.G.&amp; E. chose to focus on molten carbonate because of the simpler design, higher efficiency and lower material costs of such systems. In its normal state the carbonate is a solid salt. When heated to 1,200 degrees, it enters a liquid state.</p>
+        <p>"The Japanese have decided that their fuel costs are so high that they would rather go quickly with what is available," said James A. Kimball, P.G.&amp; E.'s program manager for fuel cell research and development. "We expect molten carbonate to be cost-competitive with other post-2000 technologies; we don't think phosphoric acid could be."</p>
+        <p>In the P.G.&amp; E. fuel cell, natural gas -- mostly methane -- is first combined with 1,200-degree steam and then passed through a reformer, which converts the mixture to hydrogen and carbon dioxide. The hydrogen is pumped into the anode, or negative side of the cell, where it reacts with the molten carbonate, also at 1,200 degrees, producing water, carbon dioxide and electrons. Each hydrogen atom gives up two electrons.</p>
+        <p>The cathode, or positive side of the cell, grabs the two electrons, replenishing the electrolyte with carbonate ions. The movement of the electrons from the anode to the cathode generates the power.</p>
+        <p>"In effect, the carbonate ions migrate across the electrolyte and carry the charge with them, just as in a battery," said Mr. Kimball. Like a battery, the fuel cell produces direct current, which must be processed by an inverter to become the alternating current supplied by utilities.</p>
+        <p>Because the electrolyte is continually replenished, it does not need to be replaced. The process produces more water than it consumes, so the waste water can be fed back to become steam. The remaining waste product is carbon dioxide. But the plant's carbon dioxide emissions are 22 to 36 percent lower than any other fossil-fuel alternative, P.G.&amp; E says.  "The environmental performance of fuel cells is excellent," said Manville J. Mayfield, chief of the fuel cell branch of the Energy Department.</p>
+        <p>The environmental friendliness of fuel cell plants and their relative quietness should make them easier to place in neighborhoods than huge plants. The San Ramon plant, which P.G.&amp; E. co-developed with the Energy Research Corporation of Danbury, Conn., produces 100 kilowatts, enough for about 20 homes. The next step toward commercialization will be a two-megawatt demonstration plant -- enough for 2,000 homes -- to be built in Santa Clara, Calif., for operation in 1994.</p>
+        <p>So far, 24 utility companies across the country have contracted to purchase the two-megawatt plants, which are about the size of a tennis court. Among them is the Power Authority of the State of New York, which is considering them to power the New York City subway system.</p>
+        <p>Mr. Kimball said these plants will lend themselves ideally to the kind of distributed power generation many utilities plan in the next century: a number of small power plants scattered around in sites where the power is needed. Unlike gas-powered turbines, fuel cells can be efficient in small sizes. The cells can also be grouped together to produce large central plants.</p>
+        <p>"As our existing fleet reaches the age of retirement in 2010, we expect molten carbonate to be a good replacement technology," Mr. Kimball said. The utility is also working on photovoltaic cells, wind power and other renewable energy sources, he said.</p>
+        <p>While the San Ramon pilot plant has proved that molten carbonate fuel cells can produce energy, it must still prove they can do so for the long term at a reasonable cost.</p>
+        <p>The Fuel Cell Engineering Corporation, a subsidiary of Energy Research that will manufacture the cells for utility use, aims for its cells to last 40,000 hours, or roughly five years, before needing refurbishing. It is also shooting for a cost of about $1,000 per kilowatt, or $2 million for a two-megawatt plant, which is competitive with existing technologies. The tiny San Ramon pilot plant, however, cost more than $5 million.</p>
+        <p>"The issues we have with it are durability, reliability and cost," said Mr. Gillis of the Electrical Power Research Institute. "We have a long way to go proving that." One big concern is with corrosion inside the cell.</p>
+        <p>Indeed, it is recent advances in corrosion-resistant metals and ceramic materials, some of them outgrowths of the space program, that have made the new fuel cells possible.</p>
+        <p>Commercial fuel cells "didn't happen in the 60's because the materials weren't available to make it happen," said Andrew J. Skok, Energy Research's manager of facilities development and engineering.</p>
+        <p>The National Aeronautics and Space Administration's cost-is-no-object fuel cells worked at low temperatures and used bottled hydrogen for fuel, not a practical alternative for commercial power generation. Still, they were the first demonstration of a concept formulated in 1839.</p>
+        <p>"The concept is fairly obvious as soon as you realize that chemistry is an electrical process, that chemical bonds are electrical bonds," Mr. Kimball said. "It's a fairly small step to the concept of a fuel cell, but to get from that concept to a working device took 100 years."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

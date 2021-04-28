@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Policy on Climate Change</title>
+    <meta content="L11KYO$05" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1542115"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Marburger, John H III</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E0DC163CF932A25751C1A9659C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Policy on Climate Change</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from White House science adviser John H Marburger III defends US role in multilaterial efforts to address climate change</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Kyoto Protocol in Peril'' (editorial, Dec. 4):</p>
+        <p>Although we believe that the Kyoto Protocol on climate change is flawed because its targets are arbitrary and expensive, the United States is demonstrating leadership and commitment on multilateral efforts. We are investing billions of dollars in collaboration with developed and developing countries and mobilizing tens of billions of private-sector dollars to foster environmentally sound energy technologies and make them available around the world.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Kyoto Protocol in Peril'' (editorial, Dec. 4):</p>
+        <p>Although we believe that the Kyoto Protocol on climate change is flawed because its targets are arbitrary and expensive, the United States is demonstrating leadership and commitment on multilateral efforts. We are investing billions of dollars in collaboration with developed and developing countries and mobilizing tens of billions of private-sector dollars to foster environmentally sound energy technologies and make them available around the world.</p>
+        <p>Investment in carbon sequestration, hydrogen fuel cycle technology, next-generation nuclear fission, fusion energy and energy-related biotechnology is an absolutely indispensable precondition for an economy with dramatically reduced greenhouse gas emissions. Optimizing the introduction of new technologies based on this work requires significantly more knowledge of the machinery of climate change, for which we have developed a robust science strategic plan and vigorously pursued international commitments for a global Earth Observation System.</p>
+        <p>America's action on climate change is sensible, substantive and exemplary.</p>
+        <p>JOHN H. MARBURGER III  Washington, Dec. 9, 2003</p>
+        <p>The writer is science adviser to the president and director, Office of Science and Technology Policy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Technology From Du Pont</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="219057"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIATION</classifier>
+        <org class="indexing_service">DU PONT DE NEMOURS, E I, &amp; CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1D81E3DF932A05752C0A96F948260" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Technology From Du Pont</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>WILMINGTON, Del., Jan. 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: E. I. du Pont de Nemours &amp; Company said it had developed proprietary technology for compounds that in some cases can replace fully halogenated chlorofluorocarbons, which are used to service refrigeration and air-conditioning equipment. Du Pont said the three-component blends have an ozone-depletion potential about 97 percent less than that of chlorofluorocarbon-12, one of the products suspected of depleting the earth's ozone layer.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: E. I. du Pont de Nemours &amp; Company said it had developed proprietary technology for compounds that in some cases can replace fully halogenated chlorofluorocarbons, which are used to service refrigeration and air-conditioning equipment. Du Pont said the three-component blends have an ozone-depletion potential about 97 percent less than that of chlorofluorocarbon-12, one of the products suspected of depleting the earth's ozone layer.</p>
+        <p>E. I. du Pont de Nemours &amp; Company said it had developed proprietary technology for compounds that in some cases can replace fully halogenated chlorofluorocarbons, which are used to service refrigeration and air-conditioning equipment. Du Pont said the three-component blends have an ozone-depletion potential about 97 percent less than that of chlorofluorocarbon-12, one of the products suspected of depleting the earth's ozone layer.</p>
+        <p>Du Pont said it had been granted a patent on the blends.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

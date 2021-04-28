@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Westerly Winds Bring a Brown Fall</title>
+    <meta content="LNEWMA$03" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1132427"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <location class="indexing_service">New England States (US)</location>
+        <person class="indexing_service">Newmark, Harold L</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0DC1238F931A1575BC0A96F958260" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Westerly Winds Bring a Brown Fall</hl1>
+      </hedline>
+      <abstract>
+        <p>Harold L Newmark letter questions whether toxic effects of 'acid rain' pollutants could be major contributor to early browning of leaves in New England states</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Leaf-Proud New England Braces for a Brownish Fall'' (front page, Aug. 17):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Leaf-Proud New England Braces for a Brownish Fall'' (front page, Aug. 17):</p>
+        <p>In addition to the drought and the unusually hot summer, the prevailing west wind over the Middle Atlantic states and New England brings increased levels of nitrogen oxides and sulfur oxides.</p>
+        <p>These air pollutants largely come from older coal-burning power plants in the Ohio Valley, which are not equipped with scrubbers to remove toxic components in their exhaust.</p>
+        <p>The toxic effects of these ''acid rain'' pollutants in New England and Canadian forests have long been recognized. Could they also be a major contributor to the early ''browning'' of leaves and to the increase  in asthma in children and the elderly?</p>
+        <p>HAROLD L. NEWMARK  Piscataway, N.J., Aug. 19, 1999</p>
+        <p>The writer is a researcher in cancer prevention at Rutgers University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

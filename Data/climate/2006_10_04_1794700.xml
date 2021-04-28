@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Software Being Developed To Monitor Opinions of U.S.</title>
+    <meta content="04monitor" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Education; U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/10/04/us/04monitor.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1794700"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <person class="indexing_service">Lipton, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Homeland Security Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFD61430F937A35753C1A9609C8B63" item-length="917" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Software Being Developed To Monitor Opinions of U.S.</hl1>
+        <hl2 class="online_headline">Software Being Developed to Monitor Opinions of U.S.</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC LIPTON</byline>
+      <byline class="normalized_byline">Lipton, Eric</byline>
+      <dateline>WASHINGTON, Oct. 3</dateline>
+      <abstract>
+        <p>Consortium of major universities is using Homeland Security Dept money to develop software that would let government monitor negative opinions of United States or its leaders in newspapers and other publications overseas; security officials say that such as 'sentiment analysis' is intended to identify potential threats to nation (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A consortium of major universities, using Homeland Security Department money, is developing software that would let the government monitor negative opinions of the United States or its leaders in newspapers and other publications overseas.</p>
+        <p>Such a ''sentiment analysis'' is intended to identify potential threats to the nation, security officials said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A consortium of major universities, using Homeland Security Department money, is developing software that would let the government monitor negative opinions of the United States overseas.</p>
+      </block>
+      <block class="full_text">
+        <p>A consortium of major universities, using Homeland Security Department money, is developing software that would let the government monitor negative opinions of the United States or its leaders in newspapers and other publications overseas.</p>
+        <p>Such a ''sentiment analysis'' is intended to identify potential threats to the nation, security officials said.</p>
+        <p>Researchers at institutions including Cornell, the University of Pittsburgh and the University of Utah intend to test the system on hundreds of articles published in 2001 and 2002 on topics like President Bush's use of the term ''axis of evil,'' the handling of detainees at Guantánamo Bay, the debate over global warming and the coup attempt against President Hugo Chávez of Venezuela.</p>
+        <p>A $2.4 million grant will finance the research over three years.</p>
+        <p>American officials have long relied on newspapers and other news sources to track events and opinions here and abroad, a goal that has included the routine translation of articles from many foreign publications and news services.</p>
+        <p>The new software would allow much more rapid and comprehensive monitoring of the global news media, as the Homeland Security Department and, perhaps, intelligence agencies look ''to identify common patterns from numerous sources of information which might be indicative of potential threats to the nation,'' a statement by the department said.</p>
+        <p>It could take several years for such a monitoring system to be in place, said Joe Kielman, coordinator of the research effort. The monitoring would not extend to United States news, Mr. Kielman said.</p>
+        <p>''We want to understand the rhetoric that is being published and how intense it is, such as the difference between dislike and excoriate,'' he said.</p>
+        <p>Even the basic research has raised concern among journalism advocates and privacy groups, as well as representatives of the foreign news media.</p>
+        <p>''It is just creepy and Orwellian,'' said Lucy Dalglish, a lawyer and former editor who is executive director of the Reporters Committee for Freedom of the Press.</p>
+        <p>Andrei Sitov, Washington bureau chief of the Itar-Tass news agency of Russia, said he hoped that the objective did not go beyond simply identifying threats to efforts to stifle criticism about an American president or administration.</p>
+        <p>''This is what makes your country great, the open society where people can criticize their own government,'' Mr. Sitov said.</p>
+        <p>The researchers, using an grant provided by a research group once affiliated with the Central Intelligence Agency, have complied a database of hundreds of articles that it is being used to train a computer to recognize, rank and interpret statements.</p>
+        <p>The software would need to be able to distinguish between statements like ''this spaghetti is good'' and ''this spaghetti is not very good -- it's excellent,'' said Claire T. Cardie, a professor of computer science at Cornell.</p>
+        <p>Professor Cardie ranked the second statement as a more intense positive opinion than the first.</p>
+        <p>The articles in the database include work from many American newspapers and news wire services, including The Miami Herald and The New York Times, as well as foreign sources like Agence France-Presse and The Dawn, a newspaper in Pakistan.</p>
+        <p>One article discusses how a rabid fox bit a grazing cow in Romania, hardly a threat to the United States. Another item, an editorial in response to Mr. Bush's use in 2002 of ''axis of evil'' to describe Iraq, Iran and North Korea, said: ''The U.S. is the first nation to have developed nuclear weapons. Moreover, the U.S. is the first and only nation ever to deploy such weapons.''</p>
+        <p>The approach, called natural language processing, has been under development for decades. It is widely used to summarize basic facts in a text or to create abridged versions of articles.</p>
+        <p>But interpreting and rating expressions of opinion, without making too many errors, has been much more challenging, said Professor Cardie and Janyce M. Wiebe, an associate professor of computer science at the University of Pittsburgh. Their system would include a confidence rating for each ''opinion'' that it evaluates and would allow an official to refer quickly to the actual text that the computer indicates contains an intense anti-American statement.</p>
+        <p>Ultimately, the government could in a semiautomated way track a statement by specific individuals abroad or track reports by particular foreign news outlets or journalists, rating comments about American policies or officials.</p>
+        <p>Marc Rotenberg, executive director of the Electronic Privacy Information Center in Washington, said the effort recalled the aborted 2002 push by a Defense Department agency to develop a tracking system called Total Information Awareness that was intended to detect terrorists by analyzing troves of information.</p>
+        <p>''That is really chilling,'' Mr. Rotenberg said. ''And it seems far afield from the mission of homeland security.''</p>
+        <p>Federal law prohibits the Homeland Security Department or other intelligence agencies from building such a database on American citizens, and no effort would be made to do that, a spokesman for the department, Christopher Kelly, said. But there would be no such restrictions on using foreign news media, Mr. Kelly said.</p>
+        <p>Mr. Kielman, the project coordinator, said questions on using the software were premature because the department was just now financing the basic research necessary to set up an operating system.</p>
+        <p>Professors Cardie and Wiebe said they understood that there were legitimate questions about the ultimate use of their software.</p>
+        <p>''There has to be guidelines and restrictions on the use of this kind of technology by the government,'' Professor Wiebe said. ''But it doesn't mean it is not useful. It can just as easily help the government understand what is going on in places around the world.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

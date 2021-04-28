@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hugh M. Raup, 94, Botanist at Harvard</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="783119"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">RAUP, HUGH MILLER (DR)</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950818T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD71F39F93BA2575BC0A963958260" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hugh M. Raup, 94, Botanist at Harvard</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hugh Miller Raup, a botanist and plant ecologist who was director of the Harvard Forest for 21 years, died on Aug. 10 at a nursing home in Sister Bay, Wis. He was 94 and formerly lived in Petersham, Mass.</p>
+        <p>From 1946 until he retired in 1967 as a professor of forestry at Harvard University, Dr. Raup was the director of the 3,000-acre forest preserve in Petersham, 70 miles west of Cambridge. Harvard has managed the forest since 1907.</p>
+      </block>
+      <block class="full_text">
+        <p>Hugh Miller Raup, a botanist and plant ecologist who was director of the Harvard Forest for 21 years, died on Aug. 10 at a nursing home in Sister Bay, Wis. He was 94 and formerly lived in Petersham, Mass.</p>
+        <p>From 1946 until he retired in 1967 as a professor of forestry at Harvard University, Dr. Raup was the director of the 3,000-acre forest preserve in Petersham, 70 miles west of Cambridge. Harvard has managed the forest since 1907.</p>
+        <p>He studied the diversity of New England's woodlands and the web of ecological relationships involved in them. Those influences included hurricanes, like the one that struck New England in September 1938, and more recent phenomena like acid rain and global warming.</p>
+        <p>He was born near Springfield, Ohio, graduated from Wittenberg College in 1923 and received a master's degree in 1925 and a Ph.D. in 1928, both from the University of Pittsburgh.</p>
+        <p>A 1925 trip to Glacier National Park started 17 summers of studying Arctic and boreal vegetation in Canada, Alaska and Greenland. His excursions also led him to Cuba and Central America.</p>
+        <p>Dr. Raup taught at Wittenberg until 1932, when he received an appointment to the Arnold Arboretum at Harvard. He was promoted to full professor in 1949.</p>
+        <p>He is survived by his wife of 70 years, Lucy Gibson Raup of Sister Bay; a son, David M., of Washington Island, Wis., and a grandson.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

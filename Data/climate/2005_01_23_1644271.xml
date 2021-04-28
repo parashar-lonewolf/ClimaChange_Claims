@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some Like It Hot</title>
+    <meta content="23COOL$04" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Job Market" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="10" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Job Market" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/01/23/jobs/23COOL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1644271"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Heating</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Conditioning</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Productivity</classifier>
+        <org class="indexing_service">Energy Department</org>
+        <org class="indexing_service">International Facilities Management Assn</org>
+        <org class="indexing_service">Cornell University</org>
+        <person class="indexing_service">Hedge, Alan</person>
+        <person class="indexing_service">Zipkin, Amy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Productivity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Conditioning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Heating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Energy Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E0DA1138F930A15752C0A9639C8B63" item-length="1320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some Like It Hot</hl1>
+        <hl2 class="online_headline">Some Like It Hot</hl2>
+      </hedline>
+      <byline class="print_byline">By AMY ZIPKIN</byline>
+      <byline class="normalized_byline">Zipkin, Amy</byline>
+      <abstract>
+        <p>Article on widely fluctuating temperatures in Manhattan office buildings; May 2003 survey by International Facilities Management Assn in Houston says being too cold is top office complaint, followed by being too hot; Department of Energy's Office of Energy Efficiency and Renewable Energy suggests that heating be set at 68 degrees in winter and cooling at 78 degrees in summer; however, study by Cornell University Human Factors and Ergonomics Lab director Alan Hedge shows that warmer office temperatures yield more productivity; drawing; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KERRY McCLOSKEY, director of research at a media company in Manhattan, describes her office as having ''very strange temperature pockets.'' During the winter months, Ms. McCloskey keeps a red sweater handy and leaves a suit jacket in the office. Occasionally she wears a scarf.</p>
+        <p>''It's hard to keep your thoughts from wandering with goose bumps on your arm,'' she said. She particularly dislikes the seventh-floor conference room, which she calls so cold that ''when you open the door, you can almost see your breath.'' Her only recourse when she is cold is to call a maintenance person to adjust the thermostat down the hall.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the office, the No.1 complaint is being too cold, and a new study suggests that warmer offices are more productive.</p>
+      </block>
+      <block class="full_text">
+        <p>KERRY McCLOSKEY, director of research at a media company in Manhattan, describes her office as having ''very strange temperature pockets.'' During the winter months, Ms. McCloskey keeps a red sweater handy and leaves a suit jacket in the office. Occasionally she wears a scarf.</p>
+        <p>''It's hard to keep your thoughts from wandering with goose bumps on your arm,'' she said. She particularly dislikes the seventh-floor conference room, which she calls so cold that ''when you open the door, you can almost see your breath.'' Her only recourse when she is cold is to call a maintenance person to adjust the thermostat down the hall.</p>
+        <p>Ms. McCloskey is not alone. A May 2003 survey by the International Facilities Management Association in Houston says being too cold was the No. 1 office complaint, followed by being too hot, poor janitorial service, not enough conference rooms and not enough storage and filing space in a workstation. The association conducted similar surveys in 1991 and 1997, and a spokesman, Donald Young, says the same complaints led both times, although once hot edged out cold.</p>
+        <p>Winter took its time arriving this year in New York. Temperatures in the 50's during the second week in January were unusual. With oil prices at or near record highs in the Northeast, and colder temperatures returning, companies are again keeping a watchful eye on the thermostat to minimize fuel costs.</p>
+        <p>They take their cue from the federal government. While there are no national standards for energy conservation, the Department of Energy's Office of Energy Efficiency and Renewable Energy suggests that heating be set at 68 degrees in winter and cooling at 78 degrees in summer. That has been the rule of thumb since the 1973 oil embargo by the Organization of Petroleum Exporting Countries. And for every degree the heat is set lower than 68, utility bills are reduced by 1.5 percent, said Paul Hess, an energy information specialist for the Energy Information Administration.</p>
+        <p>Now, though, Alan Hedge, director of the Cornell University Human Factors and Ergonomics Laboratory, says he believes corporate America has had it wrong for 30 years. Last winter, he conducted a study that he says shows that warmer office temperatures yield more productivity. And while some say his sample is too small to be statistically significant, it is drawing the attention of some businesses.</p>
+        <p>Many commercial buildings adhere to guidelines set by the American Society of Heating, Refrigerating and Air-Conditioning Engineers, a trade group in Atlanta. In 2004, the group suggested that thermostats be set between 68 to 76 degrees during the winter, when the humidity is low, and 72.5 to 80 degrees in the summer. ''It's a comfort range,'' Mr. Hess said. ''They are not promoting energy conservation.''</p>
+        <p>The guidelines, which are subjective, call for 80 percent of occupants to be comfortable. They assume ''10 percent dissatisfaction for whole body comfort and an additional 10 percent for what they characterize as local discomfort,'' like the neck, hands or feet. ''It's very difficult to get people to agree,'' said Glenn Friedman, an engineer and an owner of Taylor Engineering in Alameda, Calif. He says companies generally select temperatures that will minimize complaints.</p>
+        <p>Andrew Keown, coordinator of corporate communications at Hilton Hotels in Beverly Hills, Calif., found what subjective meant when he began sharing an office with Adam Korn, manager of internal communications, to whom he does not report. The two also share a thermostat, which they control.</p>
+        <p>When he started working for the company in August, his predecessor in the cubicle took him aside and, referring to Mr. Korn, said, ''He likes to keep it really cold.'' The woman before Mr. Keown always wore a sweater at work. He thought she was kidding but soon realized his office was colder than the hallway.</p>
+        <p>He devised strategies for staying warm, like spending an extra few minutes in the bathroom and driving around after work with no air-conditioning in 80-degree heat. He began bringing his own sweater.</p>
+        <p>After about a month, he turned up the thermostat outside the cubicle from 69 to 72 or 73 degrees, hoping Mr. Korn wouldn't notice. He did. Mr. Keown says things improved considerably once the office air-conditioning was turned off in early October.</p>
+        <p>The two officemates have since compromised. Recently, Mr. Keown said the thermostat was set a little cooler than he liked, but warmer than Mr. Korn preferred. The reading was 77 degrees. Mr. Korn said that to cope with the warmer air, he has kept an eight-inch fan on his desk, but hasn't used it much except during the summer.</p>
+        <p>Still, Mr. Keown says, he did not resort to the tactics of a secretary at his former employer, Nissan, who kept a space heater under her desk. Occasionally, he says, the heater tripped circuits and power would go out in cubicles.</p>
+        <p>While power failures did not happen to John Ritenour, space heaters were a common sight at the Insurance Company of America, an insurance brokerage firm he runs in Longwood, Fla., with 12 offices mostly in the Southeast. He estimated that about 30 of his headquarters staff of 300 had space heaters under their desks. He says he became interested in the connection between office temperatures and productivity as his company added employees in the last four years and he kept receiving complaints about office temperatures, which he says were about 71 degrees in winter and 68 in summer.</p>
+        <p>In early 2003, he received a call from a company called Magnitude Information Systems, which develops software to help alleviate carpal tunnel syndrome, among other things. He wasn't interested in the sales pitch. But nine months later, Magnitude called back. It had received a call from Dr. Hedge of Cornell, who was scouting for an office to study how the quantitative output of computer work varies with environmental conditions. Dr. Hedge spent January and February 2004 in the Insurance Company of America office, which was then based in Altamonte Springs, Fla., testing data.</p>
+        <p>Magnitude installed sensing devices on 30 workstations on all building exposures, evaluating inside air temperatures every 15 minutes. Researchers then recorded the amount of time data-entry employees keyboarded and the time they spent making corrections.</p>
+        <p>Almost immediately, snags appeared in data collection. Some personnel went on vacation, others were out sick. Some workers inadvertently covered their sensors with papers, making them useless. At the end of the study, Dr. Hedge had data from only nine participants.</p>
+        <p>''At 77 degrees Fahrenheit, the workers were keyboarding 100 percent of the time with a 10 percent error rate, but at 68 degrees, their keying rate went down to 54 percent of the time with a 25 percent error rate,'' Dr. Hedge said. He adds that raising the temperature saves employers about $2 a worker an hour.</p>
+        <p>The study has garnered its share of critics saying the results are not statistically significant. ''A longer-term, more comprehensive study that quantifies variables is necessary,'' said Jack Kester, a senior vice president at the Risk Consulting Group, which is part of Marsh, the insurance company.</p>
+        <p>Based on Dr. Hedge's findings, Mr. Ritenour raised the office temperature to 72. And Magnitude followed up with a study showing an increase in productivity of 3.5 percent a month from June to last December, with a bump of 12 percent the first month. Even so, the results of the study are inconclusive because the Insurance Company of America moved from Altamonte Springs to Longwood in June, and the increase could be attributed to new surroundings or new thermostats calibrated differently.</p>
+        <p>Still, Mr. Ritenour says he has heard fewer complaints about the temperatures since raising the thermostat. He says the space heaters are gone from the office, too.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

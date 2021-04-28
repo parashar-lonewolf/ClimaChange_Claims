@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Better Energy Sources</title>
+    <meta content="L28ENE$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1337839"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <org class="indexing_service">Union of Concerned Scientists</org>
+        <person class="indexing_service">Nogee, Alan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE3DA1131F93BA15753C1A9679C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Better Energy Sources</hl1>
+      </hedline>
+      <abstract>
+        <p>Alan Nogee (Union of Conc</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Enlightenment on Energy'' (editorial, Oct. 22):</p>
+        <p>A Union of Concerned Scientists study released last week found that establishing a national standard of 20 percent of American electricity coming from non-hydropower renewable energy by 2020, if combined with energy efficiency programs, would save consumers at least $70 billion, stimulate the economy, reduce the vulnerability of our energy infrastructure to terrorist attack, and greatly reduce air pollution and greenhouse gas emissions. A bill to achieve this has been introduced by Senator James M. Jeffords, and should be adopted as part of the Senate's overall energy package.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Enlightenment on Energy'' (editorial, Oct. 22):</p>
+        <p>A Union of Concerned Scientists study released last week found that establishing a national standard of 20 percent of American electricity coming from non-hydropower renewable energy by 2020, if combined with energy efficiency programs, would save consumers at least $70 billion, stimulate the economy, reduce the vulnerability of our energy infrastructure to terrorist attack, and greatly reduce air pollution and greenhouse gas emissions. A bill to achieve this has been introduced by Senator James M. Jeffords, and should be adopted as part of the Senate's overall energy package.</p>
+        <p>Developing wind, solar, biomass, geothermal and other home-grown energy sources, along with increasing energy efficiency, is the best way to diversify America's energy supply.</p>
+        <p>ALAN NOGEE  Director, Clean Energy Program  Union of Concerned Scientists  Boston, Oct. 25, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

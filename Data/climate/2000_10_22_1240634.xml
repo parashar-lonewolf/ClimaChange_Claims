@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cruise Lines Sail Ocean Green</title>
+    <meta content="22SHEL$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/22/travel/22SHELF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1240634"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Ships and Shipping</classifier>
+        <classifier class="indexing_service" type="descriptor">Cruises</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <person class="indexing_service">Johnston, David Cay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Cruises</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cruises</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ships and Shipping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D61E3FF931A15753C1A9669C8B63" item-length="511" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cruise Lines Sail Ocean Green</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID CAY JOHNSTON</byline>
+      <byline class="normalized_byline">Johnston, David Cay</byline>
+      <abstract>
+        <p>David Cay Johnson travel article on attempts by cruise industry, under increased scrutiny after several illegal dumping incidents, to improve its environmental image (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EAGER to improve its environmental image after several incidents of illegal dumping at sea, the cruise industry is taking steps ranging from monitoring ocean pollution to using surplus hydroelectric power at one port.</p>
+        <p>Royal Caribbean's newest ship, the 3,114-passenger Explorer of the Seas, to be launched in Miami on Saturday, will include two laboratories totaling 1,100 square feet to study ocean pollution and global warming in the Eastern Caribbean. One lab will analyze data on air and water temperatures, the exchange of gases between the sea and the air and other factors affecting weather. The other will be used for pollution research, including the gathering of data on the quality of ocean water and populations of marine life.</p>
+      </block>
+      <block class="full_text">
+        <p>EAGER to improve its environmental image after several incidents of illegal dumping at sea, the cruise industry is taking steps ranging from monitoring ocean pollution to using surplus hydroelectric power at one port.</p>
+        <p>Royal Caribbean's newest ship, the 3,114-passenger Explorer of the Seas, to be launched in Miami on Saturday, will include two laboratories totaling 1,100 square feet to study ocean pollution and global warming in the Eastern Caribbean. One lab will analyze data on air and water temperatures, the exchange of gases between the sea and the air and other factors affecting weather. The other will be used for pollution research, including the gathering of data on the quality of ocean water and populations of marine life.</p>
+        <p>The company said it would spend more than $3 million on the project, which is a partnership with the University of Miami's Rosenstiel School of Marine and Atmospheric Science and the National Oceanic and Atmospheric Administration.</p>
+        <p>Royal Caribbean pleaded guilty in federal court last year to 21 felony charges and paid $18 million in fines for dumping bilge water in various United States coastal areas and falsifying records. In two other cases in the last two years, it agreed to pay $12.5 million in fines and submit to federal court supervision of its pollution control programs.</p>
+        <p>Carnival Cruise Lines, in an alliance with the International SeaKeepers Society, a nonprofit research organization in Fort Lauderdale, Fla., plans to use new monitoring gear in the bow of its Carnival Triumph to record ocean conditions and provide the data to the Rosenstiel School, government agencies and environmental organizations. The ship returned from dry dock Saturday to begin sailing in the eastern Caribbean.</p>
+        <p>Meanwhile, in Alaska, Princess Cruises said that starting next summer, its ships that dock in Juneau would shut down their diesel engines and use surplus hydroelectric power from the Alaska Electric Light and Power Company. Princess was fined last year by the federal Environmental Protection Agency for having visible smoke from its engines in Seward, Alaska.</p>
+        <p>Princess is also considering monitoring oceanic conditions, said Tom Dow, the company's vice president for public affairs. ''We think there is a lot that can be done there,'' he said.</p>
+        <p>The three big cruise companies are also trying to reduce waste. A typical cruise ship with 3,000 passengers and crew members generates 8 tons of garbage, a million gallons of waste water, 200,000 gallons of sewage and 25,000 gallons of oil-contaminated water each week, according to the Blue water Network, an environmental group that has been pressing the cruise lines to  reduce waste.</p>
+        <p>Royal Caribbean said that it was buying ketchup and chili sauce in five-gallon pouches instead of tin cans and that it has been eliminating disposable plastic utensils.</p>
+        <p>Princess found a way to make friends with the Boy Scouts while embracing recycling. When its ships dock in Juneau in the summer, a troop picks up empty aluminum cans, making about $200 a week.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

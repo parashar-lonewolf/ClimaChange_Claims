@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Not So Cool Ideas</title>
+    <meta content="04lett-1" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1773750"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DC1230F937A35754C0A9609C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Not So Cool Ideas</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''How to Cool a Planet (Maybe)'' (June 27) revealed a new example of insanity: scientists are engaged in trying to concoct Rube Goldberg devices to literally pull our planet out of the fire. Meanwhile, business and government continue the behaviors that caused the problems.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''How to Cool a Planet (Maybe)'' (June 27) revealed a new example of insanity: scientists are engaged in trying to concoct Rube Goldberg devices to literally pull our planet out of the fire. Meanwhile, business and government continue the behaviors that caused the problems.</p>
+        <p>If this were the Titanic, I would expect the scientists to be hard at work on a way to turn the Atlantic into a bed of gelatin dessert, while the politicians and businessmen started burning the lifeboats for warmth.</p>
+        <p>Alex Dering  Princeton, N.J.</p>
+        <p>To the Editor:</p>
+        <p>''How to Cool a Planet'' reveals that even in the wake of Hurricane Katrina, some scientists and engineers have undiminished conceit about their ability to manipulate nature.</p>
+        <p>What mad branch of science seriously believes that it's better to reflect solar energy than to collect it?</p>
+        <p>If these desperate times call for desperate measures, let's assign our scientists something truly bold: a 10-year global program to disinvest in fossil fuels and their problematic cousin, nuclear power, and to replace them with sunlight, wind, water, biomass and unprecedented energy efficiency.</p>
+        <p>William Becker  Golden, Colo.</p>
+        <p>To the Editor:</p>
+        <p>As a graduate student in atmospheric science at Columbia, I find it mind-boggling that anyone would consider trying radical climate-altering proposals like those discussed in ''How to Cool a Planet'' in preference to severely curbing greenhouse emissions through alternative energy sources and conservation.</p>
+        <p>My jaw drops at the notion that people want to inject sulfur dioxide into the atmosphere, subjecting the globe to toxic acid rain, just so that people can keep driving their Hummers.</p>
+        <p>What is wrong with us? Haven't we learned our lessons? Why not limit our atmospheric greenhouse gas contributions as much as we can and then see what kind of climate we've got before we do anything else that we don't understand?</p>
+        <p>Joy Romanski  Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

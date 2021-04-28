@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Warning on 'Risk-o-Phobia'</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="349583"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ECONOMY</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <person class="indexing_service">DARMAN, RICHARD G (DIR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DC173AF931A35756C0A966958260" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Warning on 'Risk-o-Phobia'</hl1>
+      </hedline>
+      <dateline>WASHINGTON, May 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Budget Director Richard G. Darman said tonight that the United States should not abandon its market economy and economic growth to clean up the environment.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Budget Director Richard G. Darman said tonight that the United States should not abandon its market economy and economic growth to clean up the environment.</p>
+        <p>Budget Director Richard G. Darman said tonight that the United States should not abandon its market economy and economic growth to clean up the environment.</p>
+        <p>''Americans did not fight and win the wars of the 20th century to make the world safe for green vegetables,'' Mr. Darman said in a speech at Harvard University. ''If we were to regulate houses with the same principles we now apply to our food and air, for example, we would all have to live in single-story homes - for fear of falling down stairs.''</p>
+        <p>Mr. Darman and the White House chief of staff, John H. Sununu, are the two senior White House aides most skeptical of strengthening regulation of the environment. They have argued in support of diluting Presidental positions on global warming and other environmental issues.</p>
+        <p>The budget director said Americans ''must counter the tendency to become a risk-o-phobic society'' because prudent risk-taking is central to the American spirit and standard of living.</p>
+        <p>''It would be a regrettable irony if just as the values of the American romance were to triumph in the East-West struggle, they were to be lost in what some environmentalists like to term the struggle for 'global management,' '' Mr. Darman said.</p>
+        <p>''Because so many people are self-proclaimed 'environmentalists,' the label is no longer a meaningful characteristic. It is a green mask under which different faces of politico-economic ideology can hide,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

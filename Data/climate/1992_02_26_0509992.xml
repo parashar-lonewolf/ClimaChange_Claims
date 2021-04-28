@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Look at Dr. Diesel's Idea</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19920227T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="509992"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">COAL</classifier>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DD113DF935A15751C0A964958260" item-length="1322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Look at Dr. Diesel's Idea</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A century ago, when the German inventor Rudolf Diesel began experimenting with an internal combustion engine that would ignite by compression rather than spark, his first working model ran on pulverized coal. But coal dust is highly combustible, and according to one account, Dr. Diesel decided to switch fuels after an explosion killed his partner.</p>
+        <p>The diesel engines now in common use run on No. 2 oil. But coal, much more abundant around the world than oil, may soon be feasible -- and safe -- for use in diesel engines.</p>
+      </block>
+      <block class="full_text">
+        <p>A century ago, when the German inventor Rudolf Diesel began experimenting with an internal combustion engine that would ignite by compression rather than spark, his first working model ran on pulverized coal. But coal dust is highly combustible, and according to one account, Dr. Diesel decided to switch fuels after an explosion killed his partner.</p>
+        <p>The diesel engines now in common use run on No. 2 oil. But coal, much more abundant around the world than oil, may soon be feasible -- and safe -- for use in diesel engines.</p>
+        <p>Research by the management consulting firm Arthur D. Little Inc., paid for by the Department of Energy, is closing in on a practical coal-fired internal-combustion engine. Like Dr. Diesel's original model, it is intended not for transportation, but for stationary use -- in this case, small-scale generation of electricity.</p>
+        <p>At a time when the trend is away from billion-watt behemoths and toward smaller generators, the developers hope their machine will find a niche in the utility industry.</p>
+        <p>Typically, modern generators that burn fossil fuels use turbines, not internal-combustion engines, because in most cases a turbine extracts more power per unit of fuel. (Turbines use a gas to turn a propeller, and the propeller's shaft drives an electricity generator.) In very small generating stations of less than about 10 megawatts -- a capacity to serve the needs of several hundred houses -- internal-combustion engines predominate.</p>
+        <p>Robert P. Wilson, director of combustion and fuels technology at Arthur D. Little, says that if the turbine is very small it is less efficient than an internal-combustion engine, because the energy lost around the tips of the propeller blades is a large fraction of the power available for conversion into electricity. Today, when utilities do operate internal-combustion generators they typically use oil-powered diesels.</p>
+        <p>Diesels are usually ignited by compression of fuel, rather than by spark, but what distinguishes them is that the fuel is injected into the cylinder after the air is compressed. In a gasoline engine, fuel is injected first.</p>
+        <p>The Energy Department believes that an efficient coal-burning engine could be attractive for railroads, too. In a separate research project with the General Electric Company, the department developed a coal-fired diesel for locomotives, which might prove useful for intercity freight use. That would bring technology nearly full circle: from the old-fashioned steam engine that ran on coal, to the oil-powered diesels in use today, to coal-powered diesel trains.</p>
+        <p>Because coal is far more abundant than oil, a coal-fired internal-combustion engine -- whatever its application -- is an attractive prospect for anyone who believes that oil and gas will become scarce. Other Coal Technologies</p>
+        <p>That time is not yet here, according to George Rudins, Associate Deputy Assistant Secretary of Energy for coal research and development. "If the introduction were made today, the competition would be with very low-cost gas and fairly low-cost oil," he said. In the near term, he said, the Energy Department believes other coal technologies may be competitive first, including gasifying coal and using it in a turbine. But the department is encouraged by the technical progress in coal diesels, he said.  At the Electric Power Research Institute, a nonprofit utility consortium in Palo Alto, Calif., Ronald H. Wolk, the director of advanced-fossil-power systems, said that coal produces relatively more nitrogen oxides than oil or gas, requiring more pollution controls. And the cost of pollution equipment is proportionately larger in a small generator than in a large one, he said, a disadvantage for the coal-fired diesel, at least as long as gas and oil are relatively cheap.</p>
+        <p>But the developers believe that in the long term, both in the United States and abroad, power systems will turn to coal. Looks Like Black Talcum</p>
+        <p>Coal for the internal combustion engine must be even more highly processed. It is mechanically pulverized, down to an average particle size of 8 microns, which makes it look like black talcum powder.</p>
+        <p>Through filtration and flotation in water, impurities are reduced to 2 percent or less, which is desirable in any coal but essential in a fuel that will be exposed to piston rings and other mechanical parts that may be damaged by abrasive grit. And to avoid re-creating the mishap of Dr. Diesel's partner, the designers have called for mixing the powder with an equal amount of water. Besides reducing the risk of an explosion, the water adds power to the engine as it is vaporized into steam.</p>
+        <p>At a prototype generating station in Mount Vernon, Ohio, the coal is injected into engine cylinders 15.5 inches in diameter, far larger than anything on wheels but common in the engines of large ships.</p>
+        <p>Dr. Wilson says there are three ways to achieve ignition. One is to preheat the air to 300 degrees Fahrenheit. Another is to squirt No. 2 oil, the fuel used in diesel engines in trucks, into the mixture; the amount of oil needed is about 2.5 percent of the volume of slurried coal, and it provides about 5 percent of the energy. The third method is to use a spark to ignite a small amount of natural gas in a chamber next to the coal-filled cylinder; this burning mixture ignites the coal slurry.</p>
+        <p>The Mount Vernon engine, which was built by Cooper-Bessemer, a diesel-engine manufacturer based in Houston, supplies enough power to generate 6 megawatts of electricity, although the prototype is not connected to a generator.</p>
+        <p>The anti-pollution system attached to the engine consists of three off-the-shelf components for coal plants: a cyclone, which spins the exhaust gases and removes large particles, a chemical absorption system to capture the sulfur dioxide that might otherwise contribute to acid rain, and a system of fabric filters, called a bag house, to capture smaller particles.</p>
+        <p>Also vulnerable to grit are fuel injectors. These are very small, so that the fuel is atomized into a fine mist as it is sprayed. The Little design uses small, super-hard liners for the fuel-injector nozzles, made of diamond, silicon carbide or tungsten carbide. Another design tested at Mount Vernon uses sapphires, a technology borrowed from the watch industry. The piston rings are also coated with tungsten carbide to avoid corrosion.</p>
+        <p>An ordinary stationary diesel engine costs about $900 per kilowatt of capacity. The coal model would cost $300 a kilowatt more, Dr. Wilson said, plus another $300 a kilowatt for the pollution-control equipment. The money would be earned back quickly in fuel savings, in comparison with oil. But the coal diesel would not have an advantage over natural gas, at current prices.</p>
+        <p>The engine has operated nearly 600 hours so far, without a failure, and engineers plan to try a 100-hour durability test early next year.</p>
+        <p>The Mount Vernon generator is designed to be half of a twin-unit plant with a total output of 12 megawatts. That is only 1 percent as large as new nuclear plants, but the utility industry's idea of the ideal size is shrinking rapidly. The Utility Data Institute, a Washington firm, recently calculated that between 1986 and 1991, the average size of a new plant entering service plummeted 76 percent, to 139 megawatts from 574 megawatts.</p>
+        <p>Utilities are building smaller because growth is slower, and because new plants are now perceived to be a financial risk. Moreover, half of the plants are built not by utilities, but by independent power producers, which are not able to take on mega-projects.</p>
+        <p>As Dr. Wilson describes it, the coal-fired internal-combustion model would be a sort of vest-pocket plant, squeezed into a utility substation or other place where the electric company owns the land. Any generator that can fit on an existing site and produce power close to where it is consumed, he says, will find a niche.  BUSINESS TECHNOLOGY  Correction:  February 27, 1992, Thursday</p>
+        <p>A chart on the Business Technology page in Business Day yesterday, titled "New Life for Old King Coal," omitted one of two energy sources that produce less nitrogen oxide than coal. The two are oil and gas.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 27, 1992, Thursday</p>
+        <p>A chart on the Business Technology page in Business Day yesterday, titled "New Life for Old King Coal," omitted one of two energy sources that produce less nitrogen oxide than coal. The two are oil and gas.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

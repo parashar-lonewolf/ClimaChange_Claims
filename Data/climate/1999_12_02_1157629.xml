@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Design Is Selected for Times Capsule</title>
+    <meta content="02CAPS$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1157629"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Time Capsules</classifier>
+        <org class="indexing_service">New York Times</org>
+        <org class="indexing_service">American Museum of Natural History (NYC)</org>
+        <person class="indexing_service">Calatrava, Santiago</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Time</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00EFDF1F3FF931A35751C1A96F958260" item-length="691" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Design Is Selected for Times Capsule</hl1>
+      </hedline>
+      <abstract>
+        <p>Santiago Calatrava's design is selected for New York Times Capsule; it and designs of 13 finalists are on view at Museum of Natural History, where time capsule will be sealed for a reopening in year 3000; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a yearlong competition in which 48 designers, architects and engineers were asked to contemplate the future, a design by a Spanish architect, Santiago Calatrava, has been chosen for The New York Times Capsule.</p>
+        <p>The vessel, in which artifacts from this century are meant to be preserved for the next 1,000 years, will be displayed this morning to reporters and invited guests at the American Museum of Natural History, where it will be on view to the public beginning on Saturday. The capsule will also be featured this Sunday in The Times Magazine, which conducted the competition.</p>
+      </block>
+      <block class="full_text">
+        <p>After a yearlong competition in which 48 designers, architects and engineers were asked to contemplate the future, a design by a Spanish architect, Santiago Calatrava, has been chosen for The New York Times Capsule.</p>
+        <p>The vessel, in which artifacts from this century are meant to be preserved for the next 1,000 years, will be displayed this morning to reporters and invited guests at the American Museum of Natural History, where it will be on view to the public beginning on Saturday. The capsule will also be featured this Sunday in The Times Magazine, which conducted the competition.</p>
+        <p>Mr. Calatrava, a bridge designer who is also a sculptor and student of mathematical topology, likened his capsule to a flower. Based on a series of marble sculptures that explore the formal properties of folded spheres, the origami-like module can be opened in segments to contain 50 cubic feet of storage.</p>
+        <p>The capsule, five feet high and weighing two tons, was made of stainless steel at A.R.T. Research Enterprises in Lancaster, Pa., at a cost to The Times of $60,000.</p>
+        <p>Mr. Calatrava's design, along with proposals by 13 of the 21 finalists, is the centerpiece of ''Capturing Time: The New York Times Capsule,'' on view at the museum through March 26. At the close of the exhibition the capsule is to be sealed for permanent display at the museum, possibly outdoors. The newspaper intends it is to be reopened in 3000.</p>
+        <p>The competition began in January when editors from the magazine convened a panel of experts in preservation, geology, archival materials and ''deep-time messaging,'' efforts at communication across the centuries. Forty-eight designers were approached. Competitors were told they could be either practical or fantastic in their creations, and some submissions were too fanciful to produce. The judges maintained that the capsule needed aesthetic appeal to make it worth preserving.</p>
+        <p>Proposals ranged from Maya Lin's spiral of trees planted on the mathematical relationship known as the Golden Section, a proportion found in classical architecture and nature, to the Ocean Group's ''Adrift,'' in which nine capsules would be airdropped on the Antarctic ice shelf and eventually released into the oceans through global warming. Jaron Lanier, with his colleagues Dr. David Sulzer and Lisa Haney, proposed to translate every 1999 issue of the magazine from its electronic digital code into genetic code and then affix it to the DNA of a cockroach, which could breed throughout New York City.</p>
+        <p>In addition to objects suggested by residents of the United States, India, France, Zimbabwe and Brazil, the capsule will include all six of the magazine's millennium issues, printed on acid-free archival paper and microengraved on a nickel HD-Rosetta disk, which is about two inches wide and can be read with a microscope. The contents will be placed in subcontainers filled with argon gas that will be suspended in thermal-gel insulation. Once sealed, the capsule will be mounted on a reflective base of flowing water.</p>
+        <p>The winning design and finalists were selected by a panel of judges drawn from The Times, including the editors of the magazine's final millennium issue; Herbert Muschamp, architecture critic; Julie V. Iovine, design reporter; and Pilar Viladas, the magazine's design editor.</p>
+        <p>The finalists on display at the museum, in addition to Ms. Lin, Mr. Lanier and the Ocean Group (a collection of designers from Finland, Norway and Germany who practice in a paperless office in cyberspace), are Antenna Design, Cooper Union, Caples Jefferson, Wes Jones, Pentagram Design Inc., Morphosis, and Greg Lynn and Jeffrey Kipnis, all from the United States; Droog Design of the Netherlands; Kenji Ekuan of Japan; and Dagmar Richter of Germany.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

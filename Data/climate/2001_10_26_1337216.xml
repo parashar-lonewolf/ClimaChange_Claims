@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy Problems, and Solutions</title>
+    <meta content="LTR233430" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1337216"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Conservation of Resources</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <person class="indexing_service">Abraham, Spencer (Sec)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5D81031F935A15753C1A9679C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy Problems, and Solutions</hl1>
+      </hedline>
+      <abstract>
+        <p>energy p</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Oct. 22 editorial ''Enlightenment on Energy'' cautions the Senate against energy legislation that focuses on drilling for oil ''while giving short shrift to the demand side'' of the equation.</p>
+        <p>President Bush's national energy plan is well balanced. It promotes conservation, expands energy supplies (including renewable energies like wind, solar, biomass and geothermal) and addresses our beleaguered energy infrastructure. All of these aim at greater energy independence in the interest of national security.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Oct. 22 editorial ''Enlightenment on Energy'' cautions the Senate against energy legislation that focuses on drilling for oil ''while giving short shrift to the demand side'' of the equation.</p>
+        <p>President Bush's national energy plan is well balanced. It promotes conservation, expands energy supplies (including renewable energies like wind, solar, biomass and geothermal) and addresses our beleaguered energy infrastructure. All of these aim at greater energy independence in the interest of national security.</p>
+        <p>Of the 105 recommendations in the president's plan, 54 relate to improving energy efficiency and expanding our use of clean, renewable energy sources.</p>
+        <p>The country needs an honest, informed and responsible discussion of energy policy for us to improve our energy security. The president and the House have already acted on a balanced plan. The Senate should do the same.</p>
+        <p>SPENCER ABRAHAM  Secretary of Energy  Washington, Oct. 25, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

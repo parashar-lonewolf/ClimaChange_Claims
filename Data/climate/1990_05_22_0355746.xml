@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Perils of Supersonics</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="355746"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIRLINES AND AIRPLANES</classifier>
+        <classifier class="indexing_service" type="descriptor">SST (SUPERSONIC TRANSPORT)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">NOISE</classifier>
+        <person class="indexing_service">SHURLIFF, WILLIAM A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Noise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDE113CF931A15756C0A966958260" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Perils of Supersonics</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>It is no doubt true that British and French aerospace experts could now build a long-range supersonic transport plane (SST) superior to the present Concorde in many ways, including twice the passenger capacity and a 50 percent greater range, as indicated in your May 8 news article.</p>
+        <p>But it is equally true that such a plane would have many strikes against it. Its take-off noise would be unacceptably loud by a factor of at least 10. Its sonic boom would be unacceptable over land; therefore the planes could not serve inland cities unless the overland portions of the flights were made at subsonic speed. Yet it is near-impossible to design a plane that performs well both at supersonic speed and at subsonic speed. The release of combustion gases at high altitude would further damage the ozone layer.</p>
+        <p>The world is being buried under almost insoluble technical and financial problems. The proposed SST would aggravate some of them, solve none.</p>
+        <p>WILLIAM A. SHURCLIFF</p>
+        <p>Cambridge, Mass., May 8, 1990</p>
+        <p>The writer, a retired honorary research associate in physics at Harvard University, founded the Citizens League Against the Sonic Boom, which opposed the Boeing SST, a project dropped in 1972.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

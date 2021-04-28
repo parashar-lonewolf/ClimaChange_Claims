@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="558100"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SKIING</classifier>
+        <classifier class="indexing_service" type="descriptor">SALES</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <org class="indexing_service">LUNATIC FRINGE (CO)</org>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Skiing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skiing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDE133BF931A1575AC0A964958260" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In case you didn't know it, skiers, you are one group that ought to be thinking about global warming.</p>
+        <p>That, in part, forms the basis of a marketing theme for a new ski model by Lunatic Fringe, a division of K2 Skis. Lunatick Fringe says it will donate 5 percent of the net wholesale price of each pair of skis sold to three groups supporting the preservation of the world's rain forests and indigenous people: Rainforest Action Network, Cultural Survival and Africa NGO Environment Network. (Suggested retail price of the skis is $535.)</p>
+      </block>
+      <block class="full_text">
+        <p>In case you didn't know it, skiers, you are one group that ought to be thinking about global warming.</p>
+        <p>That, in part, forms the basis of a marketing theme for a new ski model by Lunatic Fringe, a division of K2 Skis. Lunatick Fringe says it will donate 5 percent of the net wholesale price of each pair of skis sold to three groups supporting the preservation of the world's rain forests and indigenous people: Rainforest Action Network, Cultural Survival and Africa NGO Environment Network. (Suggested retail price of the skis is $535.)</p>
+        <p>So why aim the environmental message at skiers? "If the world gets hot, there's no snow," said Tim Petrick, the vice president and general manager of Lunatic Fringe.</p>
+        <p>The new model, Panther Dream, takes its name from a children's book written by BOB WEIR, lead singer and guitarist for the Grateful Dead, and WENDY WEIR, his sister: "Panther Dream: A Story of the African Rainforest." The model's logo borrows elements from the Grateful Dead's logo (a human skull with a lightning bolt running through it). In return for use of the band's name and its logo, the band's board agreed to donate its 7 percent royalty from ski sales to the three environmental organizations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

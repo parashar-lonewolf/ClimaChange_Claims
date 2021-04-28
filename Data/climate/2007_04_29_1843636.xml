@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Power of Green</title>
+    <meta content="29letters.t-1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843636"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nuclear Wastes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7DE153EF93AA15757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Power of Green</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I agree with many of the points made by Thomas L. Friedman regarding the need to convert to a more sustainable energy policy (April 15). But I cannot believe that he uncritically accepts the inclusion of increased nuclear power as a part of the solution. Nuclear power is anything but ''clean.'' Sure, the actual nuclear process produces no carbon dioxide, but the mining and transport process is itself CO2 intensive. And we still have no long-term solution to the problem of nuclear waste.</p>
+      </block>
+      <block class="full_text">
+        <p>I agree with many of the points made by Thomas L. Friedman regarding the need to convert to a more sustainable energy policy (April 15). But I cannot believe that he uncritically accepts the inclusion of increased nuclear power as a part of the solution. Nuclear power is anything but ''clean.'' Sure, the actual nuclear process produces no carbon dioxide, but the mining and transport process is itself CO2 intensive. And we still have no long-term solution to the problem of nuclear waste.</p>
+        <p>Part of the impetus for going green is the fact that we are financing terrorist movements with our energy dollars. But how does it help to build new targets for terrorists to hit? Who needs a dirty bomb when a clean one hitting a nuclear facility can do the same damage? Why play into the hands of terrorists by expanding the amount of nuclear material going around the globe, ready to be stolen and converted to threatening purposes? Increased efficiency and research into true renewable energy sources are the answer -- not the dangerous, polluting (even if slightly more carbon-friendly) nuclear option.  Eric Tars  Philadelphia</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

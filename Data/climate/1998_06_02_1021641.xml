@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Future of Air</title>
+    <meta content="LTR002456" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1021641"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E3D8143BF931A35755C0A96E958260" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Future of Air</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Environmental Protection Agency's report on catalytic converters introduces an interesting dilemma: since manufacturers began equipping cars with catalytic converters, the air in cities has become  visibly cleaner, but the nitrous oxide emitted from the converters has enhanced the greenhouse effect, which is altering weather patterns and climate worldwide (front page, May 29).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Environmental Protection Agency's report on catalytic converters introduces an interesting dilemma: since manufacturers began equipping cars with catalytic converters, the air in cities has become  visibly cleaner, but the nitrous oxide emitted from the converters has enhanced the greenhouse effect, which is altering weather patterns and climate worldwide (front page, May 29).</p>
+        <p>The apparent choice is between  short-term health and esthetic benefits and significantly increased threats from higher sea levels, more severe storms, droughts and floods.</p>
+        <p>If these are the only choices, I say get rid of the catalytic converters and bear the costs and inconvenience of smog. Or there is another course: to replace inefficient internal combustion engines with more modern and cleaner means of transportation.</p>
+        <p>JON HINCK  Portland, Me., May 30, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

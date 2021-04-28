@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A True Test on Energy</title>
+    <meta content="24mon2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/04/24/opinion/24mon2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1756786"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Massachusetts</location>
+        <org class="online_producer">Congress</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EEDF123FF937A15757C0A9609C8B63" item-length="383" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A True Test on Energy</hl1>
+        <hl2 class="online_headline">A True Test on Energy</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Congress will soon face a test of its professed new interest in energy independence and legislative transparency. It comes in the form of a flawed amendment, hatched in secret, that would prevent the construction of a wind farm off the coast of Massachusetts.</p>
+        <p>The wind farm is opposed by some but not all Massachusetts politicians and by some extremely wealthy people with homes on Nantucket, Martha's Vineyard and Cape Cod for whom the windmills would present an aesthetic annoyance on the distant horizon. It is supported by nearly every major environmental group and by citizens who see it as a source of clean energy at a time of soaring prices for oil and natural gas, as well as an alternative to coal-, oil- and gas-fired power plants that contribute in varying degrees to global warming.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Any senator who cares about this country's energy future should reject an amendment that would prevent the construction of a wind farm off the coast of Massachusetts.</p>
+      </block>
+      <block class="full_text">
+        <p>Congress will soon face a test of its professed new interest in energy independence and legislative transparency. It comes in the form of a flawed amendment, hatched in secret, that would prevent the construction of a wind farm off the coast of Massachusetts.</p>
+        <p>The wind farm is opposed by some but not all Massachusetts politicians and by some extremely wealthy people with homes on Nantucket, Martha's Vineyard and Cape Cod for whom the windmills would present an aesthetic annoyance on the distant horizon. It is supported by nearly every major environmental group and by citizens who see it as a source of clean energy at a time of soaring prices for oil and natural gas, as well as an alternative to coal-, oil- and gas-fired power plants that contribute in varying degrees to global warming.</p>
+        <p>The amendment, never debated in either house, was inserted into the Coast Guard authorization bill at the insistence of two Alaskans, Representative Don Young and Senator Ted Stevens. The sources of their opposition remain a mystery, but it seems unlikely that it is due to any principled concern about wind farms on the other side of the continent. Their amendment would give veto power over the project to the commandant of the Coast Guard, who could say no for navigational reasons, and the governor of Massachusetts, who could say no for any reason.</p>
+        <p>The Coast Guard has not found fault with the project, but the present governor, Mitt Romney -- hardly a profile of courage on energy issues in recent months -- is a sworn opponent.</p>
+        <p>Apart from its negative implications for the country's energy future, the amendment would create a terrible precedent by giving a single governor absolute veto power over energy projects in federal waters. And the fact that a few members of Congress can emerge from nowhere at the last minute to kill a project on which millions of dollars and countless hours have already been spent is almost certain to discourage entrepreneurs and investors from pursuing similar projects in the future.</p>
+        <p>The Senate's two most influential members on energy policy, Pete Domenici and Jeff Bingaman, will try to strip this amendment on the floor. Any senator who cares about this country's energy future -- and who cares, too, for the idea of open debate -- should join them.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

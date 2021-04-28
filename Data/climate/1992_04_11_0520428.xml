@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dow Chemical Ozone Move</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="520428"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">METHYL CHLOROFORM</classifier>
+        <org class="indexing_service">DOW CHEMICAL CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DE1138F932A25757C0A964958260" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dow Chemical Ozone Move</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Dow Chemical Company said yesterday that it would cease normal production and sale of ozone-depleting methyl chloroform by Dec. 31, 1995, the deadline recently suggested by President Bush for a halt to such operations in the United States.</p>
+        <p>MCF, as the chemical is commonly called, is widely used in industrial cleaning and in aerosols and coatings. Dow said annual sales have fluctuated between $100 million and $200 million in recent years, with more than 60 percent of the sales made outside the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>The Dow Chemical Company said yesterday that it would cease normal production and sale of ozone-depleting methyl chloroform by Dec. 31, 1995, the deadline recently suggested by President Bush for a halt to such operations in the United States.</p>
+        <p>MCF, as the chemical is commonly called, is widely used in industrial cleaning and in aerosols and coatings. Dow said annual sales have fluctuated between $100 million and $200 million in recent years, with more than 60 percent of the sales made outside the United States.</p>
+        <p>"Expediting our global phase-out of methyl chloroform is in the best interest of both the company and the environment," said David T. Buzzelli, Dow's vice president and director of environment, health and safety.</p>
+        <p>Dow makes MCF at Freeport, Tex., and Stade, Germany, and is currently working to develop water-based alternatives. No layoffs are anticipated in connection with the phase-out.</p>
+        <p>MCF is among a group of ozone-depleting substances selected to be phased out under provisions of various international agreements and national regulations. Other such substances include chlorofluorocarbons, halons, carbon tetrachloride and hydrochlorofluorocarbons.</p>
+        <p>The international Montreal Protocol set a deadline of 2005 for the worldwide phase-out. Small amounts of MCF will continue to be produced for a few uses, like cleaning medical devices, for which the Government has determined there are no effective substitutes.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

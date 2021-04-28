@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suppressed On Climate Change</title>
+    <meta content="l01climate-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1736311"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Cigliano, John A</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Hansen, James E (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFDD1F3FF932A35751C0A9609C8B63" item-length="237" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suppressed On Climate Change</hl1>
+      </hedline>
+      <abstract>
+        <p>John A Cigliano letter, prompted by Jan 29 article on NASA public affairs official who says his views on climate change were suppressed, says Pres Bush is putting his administration ahead of public good</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Climate Expert Says NASA Tried to Silence Him'' (front page, Jan. 29) made a compelling case in support of another example of the Bush administration's effort to hide scientific findings that are contrary to its agenda.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Climate Expert Says NASA Tried to Silence Him'' (front page, Jan. 29) made a compelling case in support of another example of the Bush administration's effort to hide scientific findings that are contrary to its agenda.</p>
+        <p>Public officials are supposed to do what is best for the public, but the president places more value on his agenda than on the public.</p>
+        <p>The quote from George Deutsch, a NASA public affairs official, in which he says it is his job ''to make the president look good,'' clearly shows that the role of government appointees is not to work for the public good but for the good of the president.</p>
+        <p>Yes, this view of public service for the public good is a tad naïve, but the stakes are high. Misleading the public when it comes to science can have dire consequences.</p>
+        <p>And when it comes to climate change, the president is putting the health of his administration ahead of the health of only the planet.</p>
+        <p>John A. Cigliano  Allentown, Pa., Jan. 29, 2006</p>
+        <p>The writer is a conservation biologist.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

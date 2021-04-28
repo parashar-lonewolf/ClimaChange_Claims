@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kyoto Treaty: The Future Is Now</title>
+    <meta content="LTR000137" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1540670"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Kyoto Protocol</classifier>
+        <person class="indexing_service">Wilson, John M</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E7DF153DF936A35751C1A9659C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kyoto Treaty: The Future Is Now</hl1>
+      </hedline>
+      <abstract>
+        <p>John M Wilson letter on Dec 4 editorial notes Pres Bush's negativism toward Kyoto treaty to curb global warming is shared by Senate and many Americans</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Although you criticize the Bush administration's envoy for her argument opposing the Kyoto Protocol, your critique also misses two important points (editorial, Dec. 4).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Although you criticize the Bush administration's envoy for her argument opposing the Kyoto Protocol, your critique also misses two important points (editorial, Dec. 4).</p>
+        <p>In 1997, the Senate made clear its opposition to Kyoto, unanimously adopting a resolution rejecting any agreement that would cause harm to the United States economy. The treaty was never approved by the Senate, although it had been signed by the Clinton administration in 1998.</p>
+        <p>In addition, Kyoto leaves large ''developing'' countries, like China, out of the mix. This will cause competitive injury to our economy.</p>
+        <p>So, please: you want to blame President Bush, but his ''negativism'' toward this treaty is shared by the Senate and by many Americans.</p>
+        <p>JOHN M. WILSON  Brooklyn, Dec. 4, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

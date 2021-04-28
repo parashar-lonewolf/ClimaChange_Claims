@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ex-Environmental Leaders Tout Nuclear Energy</title>
+    <meta content="25nuke" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/04/25/us/25nuke.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1757031"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Greenpeace</org>
+        <org class="online_producer">Nuclear Energy Institute</org>
+        <org class="online_producer">Environmental Protection Agency</org>
+        <person class="online_producer">Whitman, Christine Todd</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E7D9123FF936A15757C0A9609C8B63" item-length="499" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ex-Environmental Leaders Tout Nuclear Energy</hl1>
+        <hl2 class="online_headline">Ex-Environmental Leaders Tout Nuclear Energy</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <dateline>WASHINGTON, April 24</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The nuclear industry has hired Christie Whitman, the former administrator of the Environmental Protection Agency, and Patrick Moore, a co-founder of Greenpeace, the environmental organization, to lead a public relations campaign for new reactors.</p>
+        <p>Nuclear power is ''environmentally friendly, affordable, clean, dependable and safe,'' Mrs. Whitman said at a news conference on Monday. She said that as the E.P.A. leader for two and a half years, ending in June 2003, and as governor of New Jersey for seven years, she had promoted various means to reduce the emission of gases that cause global warming and pollution.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The nuclear industry has hired Christie Whitman and activist Patrick Moore to lead a public relations campaign for new reactors.</p>
+      </block>
+      <block class="full_text">
+        <p>The nuclear industry has hired Christie Whitman, the former administrator of the Environmental Protection Agency, and Patrick Moore, a co-founder of Greenpeace, the environmental organization, to lead a public relations campaign for new reactors.</p>
+        <p>Nuclear power is ''environmentally friendly, affordable, clean, dependable and safe,'' Mrs. Whitman said at a news conference on Monday. She said that as the E.P.A. leader for two and a half years, ending in June 2003, and as governor of New Jersey for seven years, she had promoted various means to reduce the emission of gases that cause global warming and pollution.</p>
+        <p>But Mrs. Whitman said that ''none of them will have as great a positive impact on our environment as will increasing our ability to generate electricity from nuclear power.''</p>
+        <p>Mrs. Whitman headed the E.P.A. when it published rules for the proposed high-level nuclear waste repository at Yucca Mountain in Nevada. After she left the office, the courts threw out the rules because they covered only the first 10,000 years of waste storage, while peak releases of radiation were expected after that time.</p>
+        <p>Organizers released a list of 58 companies and institutions and 10 people who they said were members of a new Clean and Safe Energy Coalition, which Mr. Moore said would engage in ''grass-roots advocacy.'' A spokesman for the Nuclear Energy Institute, the trade association of reactor operators, acknowledged that it was providing all of the financing, but would not say what the budget was.</p>
+        <p>Mr. Moore said he favored efficiency and renewable energy, but added that solar cells, which produce electricity from sunlight, were ''being given too much emphasis and taking too much money.'' A dollar spent on geothermal energy, he said, was ''10 to 12 times more effective in reducing greenhouse emissions.''</p>
+        <p>Mr. Moore is the director of a company that distributes geothermal systems in Canada. He is also a supporter of what he called ''sustainable forestry'' because, he said, building with wood avoided the use of materials whose manufacture releases greenhouse gases, like steel and concrete.</p>
+        <p>Mr. Moore, who left Greenpeace in 1986, favors many technologies that some environmentalists oppose, including the genetic engineering of crops, and has referred to his former colleagues as ''environmental extremists'' and ''anti-human.''</p>
+        <p>Mr. Moore said Greenpeace was wrong to oppose nuclear energy, which he called essential to reducing global warming gases. Coincidentally, Greenpeace released a report on Monday about 200 failures at American nuclear power plants, which it described as ''near misses,'' since 1986. The report was to mark the 20th anniversary of the Chernobyl nuclear plant explosion in the former Soviet Union.</p>
+        <p>Mrs. Whitman also referred to Chernobyl, saying people ''still think in terms of Bhopal and Chernobyl.'' A leak at a chemical plant in Bhopal, India, killed more than 2,500 people in December 1984. But nuclear power, she said, ''can be safely and appropriately used to expand our mix.''</p>
+        <p>Representatives of the United States Chamber of Commerce and the Teamsters also spoke in favor of new reactors.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Ray of Hope For the Ozone</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="631684"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="AUGUST 22-28"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930829T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDA103FF93AA1575BC0A965958260" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Ray of Hope For the Ozone</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Government scientists reported last week that they had detected a slowdown in the rate at which chemicals that deplete the earth's protective ozone layer are accumulating in the atmosphere.</p>
+        <p>The chemicals, called chlorofluorocarbons, or CFC's, have been used in producing foam packaging and as cooling agents in air conditioners and refrigerators. Their manufacture has been banned by international agreement as of Jan. 1, 1996, but last week's announcement indicated that industries are phasing them out faster than the agreement requires.</p>
+      </block>
+      <block class="full_text">
+        <p>Government scientists reported last week that they had detected a slowdown in the rate at which chemicals that deplete the earth's protective ozone layer are accumulating in the atmosphere.</p>
+        <p>The chemicals, called chlorofluorocarbons, or CFC's, have been used in producing foam packaging and as cooling agents in air conditioners and refrigerators. Their manufacture has been banned by international agreement as of Jan. 1, 1996, but last week's announcement indicated that industries are phasing them out faster than the agreement requires.</p>
+        <p>If the new trend continues, the worst of the ozone depletion should happen around the turn of the century. That is when the greatest risk of skin cancer, cataracts and ecological damage from the sun's ultraviolet radiation would occur. The ozone shield keeps those rays from reaching the earth's surface.</p>
+        <p>After the turn of the century, a recovery of the ozone layer lasting 50 to 100 years should begin as the CFC's are gradually destroyed by natural processes.</p>
+        <p>AUGUST 22-28</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

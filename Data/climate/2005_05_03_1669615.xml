@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="03OBSE" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/05/03/science/03obse.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1669615"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Insects</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="descriptor">Sonar</classifier>
+        <classifier class="online_producer" type="descriptor">Rockets and Rocket Propulsion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sonar</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rockets and Rocket Propulsion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E1D61F31F930A35756C0A9639C8B63" item-length="1052" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">When Fruit Flies Send a Messy Message</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Always Looking Ahead</p>
+        <p>Like bats, dolphins and porpoises use echolocation to navigate and hunt prey. But how these marine mammals make use of their sonarlike ability is not precisely known.</p>
+        <p>A study of finless porpoises in China, however, has shed some light on the subject. Chinese and Japanese researchers discovered that the porpoises use their sonar to inspect the area ahead of them, presumably for predators or obstacles, before swimming into it silently. By inspecting an area much farther than they swim, they give themselves a comfortable margin for error.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Fruit flies as markers for environmental neglect, how porpoises use sonar and a rocketry program comes to an end.</p>
+      </block>
+      <block class="full_text">
+        <p>Always Looking Ahead</p>
+        <p>Like bats, dolphins and porpoises use echolocation to navigate and hunt prey. But how these marine mammals make use of their sonarlike ability is not precisely known.</p>
+        <p>A study of finless porpoises in China, however, has shed some light on the subject. Chinese and Japanese researchers discovered that the porpoises use their sonar to inspect the area ahead of them, presumably for predators or obstacles, before swimming into it silently. By inspecting an area much farther than they swim, they give themselves a comfortable margin for error.</p>
+        <p>The researchers developed a sonar-monitoring device that they attached to eight porpoises in an oxbow lake on the Yangtze River. The device has two small hydrophones, or sonar receivers, a microprocessor and a memory chip for logging the data.</p>
+        <p>When the porpoise makes its echolocating clicks, any return echoes off objects are received by the hydrophones at slightly different times. By measuring the time difference, the distance to the object can be calculated. The animals also were outfitted with electronic tags to record swimming speed and other data.</p>
+        <p>The researchers found that the porpoises would use their sonar at relatively long range -- up to 250 feet ahead -- before turning it off and swimming into the area. Since they swam for only about 70 feet without sonar, the porpoises were effectively giving themselves a good safety margin in case a predator emerged or they missed underwater debris or another obstacle.</p>
+        <p>In the study, which is published in Proceedings B of the Royal Society, the researchers also observed what happens when a porpoise encounters a school of fish or other prey. In that case, the animal focuses its sonar on the prey (often first spotting it from a distance of about 100 feet) and approaches it. It keeps the sonar trained on the target, usually for about 35 feet or so, until it can see the prey visually or a capture is made.</p>
+        <p>A Bug and a Foodie</p>
+        <p>Sophistication can be measured in a lot of ways, including diet. The true gourmand won't eat just anything; food has to be just so.</p>
+        <p>Now along come the collembolans, or springtails, to knock all those sophisticates down a peg. According to a study being published online by Biology Letters by researchers from Denmark and Sweden, springtails are very choosy about what they'll eat. Even a tiny, wingless bug that feeds on soil and leaf litter can be a gourmand, it seems.</p>
+        <p>Springtails (they get their name from a forked structure on their undersides that they use to flip in the air) like to eat fungus, and scientists had once thought they would eat just about any fungus growing on decaying matter.</p>
+        <p>By analyzing fungal DNA from samples of soil and leaf litter and comparing it to DNA from the guts of springtails, however, the scientists showed that the insects were highly discriminating. The diversity of fungi in the soil was some 33 times as great as that in the springtails. The little bugs are being very careful about what they eat.</p>
+        <p>The researchers note that their technique could be used with other organisms that feed in rich soil to help fill in many of the blanks in understanding these kinds of food webs.</p>
+        <p>One Last Flight</p>
+        <p>One of the world's longest-running scientific rocketry programs came to an end yesterday with the launching of a two-stage rocket carrying microgravity experiments on a suborbital flight.</p>
+        <p>The rocket was the 441st in the Skylark program, which was begun by the British government in the 1950's, with the first launchings in 1957 as part of the International Geophysical Year. Over the years, rockets have been fired from sites in Australia, Wales, Sardinia and elsewhere.</p>
+        <p>The final rocket was launched from a site in northern Sweden. It carried an 800-pound payload to an altitude of 155 miles, providing almost six minutes of microgravity conditions for the five experiments on board.</p>
+        <p>When Fruit Flies Send a Messy Message</p>
+        <p>In the home, the fruit fly can be a telltale indicator of neglect. When Drosophila melanogaster starts flitting around your fruit bowl, you know there's a forgotten peach in there somewhere.</p>
+        <p>On a much larger scale, the tiny fly can also be a useful marker for environmental neglect, Australian researchers report.</p>
+        <p>They've shown that over two decades in eastern Australia, fruit flies have undergone a genetic change as the climate has warmed.</p>
+        <p>''Fruit flies are model organisms for studying all sorts of things genetically,'' said Dr. Ary Hoffmann, a professor at the University of Melbourne and an author of a report on the finding published last week in the journal Science. ''What you've got here is a situation where in nature over a short period of time, they have been adapting to climate change.''</p>
+        <p>Dr. Hoffmann and his colleagues focused on one gene related to metabolism. This gene has two forms, or alleles -- one that is adapted to hotter, tropical conditions, the other to cooler conditions.</p>
+        <p>Studying the genetic makeup of fruit flies along the east coast and comparing the data to similar analyses from 1979 and 1982, the researchers saw the tropical allele starting to show up in areas where the cold allele had been predominant.</p>
+        <p>Average temperatures in eastern Australia have increased by about 1 degree Fahrenheit over that period. This being the Southern Hemisphere, the colder allele had been more common in the southern parts of the coast, and the tropical allele more common toward the north, closer to the Equator.</p>
+        <p>''The genetic constitution of the population is shifting so it's more like the form seen in the north,'' Dr. Hoffmann said.</p>
+        <p>It's likely that other organisms will show similar genetic changes, Dr. Hoffmann added, so they may prove useful as markers for climate change in other regions. ''What we need to start looking at is any single widespread species that covers a range and see if it shows this kind of change,'' he said.</p>
+        <p>But it would also be interesting to look for climate-related genetic changes in species that have a very restricted range -- those that are stuck in a rain forest, for example. ''In that case, they can't move,'' Dr. Hoffmann said. ''But there may be rapid adaptation at a basic level.''</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

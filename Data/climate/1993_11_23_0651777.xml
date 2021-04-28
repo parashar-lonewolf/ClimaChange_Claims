@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientists Seek Warnings of Environmental Problems in Seas</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="651777"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <org class="indexing_service">ACOUSTICAL SOCIETY OF AMERICA</org>
+        <org class="indexing_service">ARCTIC OCEAN</org>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0D9143CF930A15752C1A965958260" item-length="1437" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientists Seek Warnings of Environmental Problems in Seas</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM W. BROWNE</byline>
+      <byline class="normalized_byline">BROWNE, MALCOLM W</byline>
+      <dateline>DENVER</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCIENTISTS say the world's oceans could serve as natural alarm systems for warning of impending climate changes, pollution crises and other global hazards, and they have urged the speedy development of new technologies to monitor the seas.</p>
+        <p>At a meeting of the Acoustical Society of America last month, scientists from several nations, including Russia, outlined new techniques for using the oceans, particularly the Arctic Ocean, to find clues to the approach of environmental trouble.</p>
+      </block>
+      <block class="full_text">
+        <p>SCIENTISTS say the world's oceans could serve as natural alarm systems for warning of impending climate changes, pollution crises and other global hazards, and they have urged the speedy development of new technologies to monitor the seas.</p>
+        <p>At a meeting of the Acoustical Society of America last month, scientists from several nations, including Russia, outlined new techniques for using the oceans, particularly the Arctic Ocean, to find clues to the approach of environmental trouble.</p>
+        <p>They presented evidence that the chaotic underwater sounds of cracking polar sea ice may contain a signal that could be used to predict potentially catastrophic global temperature changes. Transient temperature changes in the atmosphere seem to increase polar ice noise, and several research groups hope that long-term measurements of this noise will settle the controversy as to whether increasing levels of carbon dioxide are causing a greenhouse effect, raising the world's temperature.</p>
+        <p>Scientists have long been frustrated in efforts to estimate overall atmospheric and oceanic temperatures because it is not practical to monitor tens or hundreds of thousands of sites individually. If temperature changes over wide areas could be calculated from ice noise, the problem would be greatly simplified.</p>
+        <p>Another international project may shed light on climate changes by clocking the speed at which sounds traverse thousands of miles of ocean water. Work on such research has been significantly helped by the end of the cold war, scientists said.</p>
+        <p>American oceanographers and acousticians said that formerly secret oceanographic data collected by Soviet observations, including many made by Soviet nuclear submarines, have become increasingly available to Western scientists. These data fill important gaps in Western knowledge of Arctic water temperatures, salinity, noise levels and other properties. Noises Signal Temperature Shifts</p>
+        <p>Research conducted by Dr. Aleksandar N. Gavrilov and his colleagues at the Institute of Ocean Acoustics and Information in Moscow seeks links between the sounds the oceans make and the state of the world's climate.</p>
+        <p>"Our goal is to identify such relationships and make use of them," he said in an interview. "I believe it is possible to do this despite the scientific obstacles. The sharing of research and observations in such work with our American colleagues has become much easier since the end of the cold war."</p>
+        <p>Dr. James F. Lynch of the Woods Hole Oceanographic Institute in Woods Hole, Mass., agreed. "On some of the Russian papers presented at this meeting we can see places where Soviet secrecy classification stamps have been have been scratched out," he said. "It's a good sign."</p>
+        <p>During the meeting of acousticians here, Dr. James K. Lewis of the Atlantic Applied Research Corp. in Long Beach, Miss., presented an analysis of ice noise and atmospheric temperature change measurements that suggests a close relationship between the two. He devised a mathematical model that took into account the saltiness of the water under the Arctic ice, the amount of fresh snow covering the ice, the heat conductivity of the ice and other conditions that prevailed during the test period. From these factors, he calculated what changes might be expected in atmospheric temperature and compared the results with actual atmospheric temperature measurements made during the period.</p>
+        <p>The equations Dr. Lewis developed successfully predicted atmospheric temperature changes corresponding to 11 of the 13 episodes of excessive ice noise -- noise at a frequency of 500 hertz, or roughly the pitch of B below middle C on a piano. Some of the noise, which was recorded underwater by hydrophones in the Arctic Ocean, matched nightly periods of atmospheric cooling. Other noise episodes coincided with atmospheric temperature changes over several days.</p>
+        <p>Some of the scientists at the meeting expressed skepticism that Dr. Lewis's relatively simple model could be used to predict long-term global climate changes, but others, including Dr. Gavrilov, said they believed some such technique could be honed as a reliable measurement tool. Promising Measurements</p>
+        <p>"There's no doubt that the behavior of ice is shaped by the atmosphere," said Dr. David M. Farmer of the Institute of Ocean Science in Sidney, British Columbia. "Not only temperature but cloud cover and wind conditions affect sea ice. We need to start monitoring Arctic ice year- round, not just in springtime. We need remote sensors -- unmanned, automatic instruments on buoys. We also need more and better satellite observations of ice. The average life span of a large piece of polar sea ice is six to eight years, and during that time it can tell us a lot."</p>
+        <p>Another promising attempt at monitoring global temperatures is named Acoustic Thermometry of Ocean Climate, a three-year project sponsored by the Defense Advanced Research Projects Agency. The project, which began last January, involves sending intense pulses of low-pitched sound through the oceans.</p>
+        <p>The feasibility of doing this has been demonstrated by a series of experiments conducted since 1983. One, led by Dr. John L. Spiesberger of Pennsylvania State University in University Park, showed that sounds could be transmitted through the Pacific Ocean from Hawaii to a network of Navy submarine listening stations. Other experiments by Dr. Walter Munk of the Scripps Institution of Oceanography in La Jolla, Calif., and his colleagues show that man-made sounds can carry halfway around the world through the oceans.</p>
+        <p>The time it takes for a sound to travel from an underwater transducer (a kind of loudspeaker) to a distant receiver can be measured precisely, and since the speed of sound in water depends on water temperature, among other factors, the average temperatures of enormous tracts of ocean can be estimated from the speed of sound passing through them.</p>
+        <p>Echoes from very high-frequency sound pumped into the ocean can reveal its dynamic "microstructure," which consists of small zones with sharp differences in temperatures, salinity or current speeds, as well as bands of air trapped in tiny bubbles, masses of particles such as plankton and complex patterns of sound refraction related to turbulence. Probing ocean water with sounds up to 300,000 hertz, far above the range of human hearing, can help scientists map fine details of ocean dynamics, he said.</p>
+        <p>But while new technologies may lead to greatly improved knowledge of the interaction of the world's oceans with the planet's environment, many of the scientists who met here foresee big problems.</p>
+        <p>Dr. James H. Miller of the Naval Postgraduate School in Monterey, Calif., said that the end of the cold war had brought a sharp reduction in funds for acoustics research important to both oceanographic studies and submarine warfare, of which the Navy has long been the main financial backer. "We now need redirection in our research, away from military applications and toward a better understanding of the environment," he said.</p>
+        <p>Climate change is not the only reason to watch the oceans more closely, scientists said.</p>
+        <p>"Some time soon," said Dr. Burton G. Hurdle, a senior scientific consultant to the Naval Research Laboratory in Washington, "we're going to be overwhelmed by our waste, and pressure will build to start dumping it into the oceans -- nuclear, chemical and every other kind. If we don't soon start investigating the effects of various kinds of pollution, large-scale ocean dumping of all kinds of things may begin before we know nearly enough about the consequences that could ensue."</p>
+        <p>For example, he said, the United States should begin investigating oceanic effects that may have occurred since the deliberate sinking in 1970 of the Briggs, an American ship loaded with nerve gas. The Briggs has been lying on the ocean bottom off the Florida coast ever since, he said, and more studies are also needed on the environmental effects of both Soviet and United States nuclear submarines that have sunk or been scuttled over the years.</p>
+        <p>All the participants in the acoustics meeting agreed that new approaches to ocean monitoring must be found.</p>
+        <p>"We all should be looking for novel techniques for interrogating the ocean," said Dr. Michael J. Buckingham of Scripps.</p>
+        <p>Dr. Ira Dyer of the Massachusetts Institute of Technology said: "Nuclear submarines should be available for open research now that the cold war is past. We acoustics specialists should be standing in line to have our turn with those submarines. The environment, not war, is the pressing need today."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

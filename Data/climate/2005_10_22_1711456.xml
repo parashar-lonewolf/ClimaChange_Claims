@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arctic Fever</title>
+    <meta content="l22arctic" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1711456"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E6D9133FF931A15753C1A9639C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arctic Fever</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Breaking the Ice Up North,'' by Scott Borgerson (Op-Ed, Oct. 19):</p>
+        <p>Since the Arctic is becoming vulnerable to exploitation because of our burning of fossil fuels, it would be appropriate if we restrained our lust to take advantage of the disappearing ice around the North Pole.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Breaking the Ice Up North,'' by Scott Borgerson (Op-Ed, Oct. 19):</p>
+        <p>Since the Arctic is becoming vulnerable to exploitation because of our burning of fossil fuels, it would be appropriate if we restrained our lust to take advantage of the disappearing ice around the North Pole.</p>
+        <p>Human beings, who have already transformed much of the planet's surface, are now on the verge of plunging into the few areas that remain pristine: the deep sea, the surviving rain forest, the Arctic.</p>
+        <p>As governments and energy companies froth at the mouth contemplating the potential wealth of these regions, it would be wise to consider what would be lost forever by the plunder of these spectacular and fragile regions.</p>
+        <p>We have reached the point where we must learn to check our appetite for unsustainable resources or have it checked for us in potentially apocalyptic ways.</p>
+        <p>David Hayden  Wilton, Conn., Oct. 19, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

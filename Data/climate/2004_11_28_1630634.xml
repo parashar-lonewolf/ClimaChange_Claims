@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hydrogen Production Method Could Bolster Fuel Supplies</title>
+    <meta content="28HYDR$02" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/11/28/politics/28hydrogen.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1630634"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Energy Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E5DA133EF93BA15752C1A9629C8B63" item-length="935" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hydrogen Production Method Could Bolster Fuel Supplies</hl1>
+        <hl2 class="online_headline">Hydrogen Production Method Could Bolster Fuel Supplies</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <dateline>WASHINGTON, Nov. 27</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Researchers at a government nuclear laboratory and a ceramics company in Salt Lake City say they have found a way to produce pure hydrogen with far less energy than other methods, raising the possibility of using nuclear power to indirectly wean the transportation system from its dependence on oil.</p>
+        <p>The development would move the country closer to the Energy Department's goal of a ''hydrogen economy,'' in which hydrogen would be created through a variety of means, and would be consumed by devices called fuel cells, to make electricity to run cars and for other purposes. Experts cite three big roadblocks to a hydrogen economy: manufacturing hydrogen cleanly and at low cost, finding a way to ship it and store it on the vehicles that use it, and reducing the astronomical price of fuel cells.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Researchers say they have found a way to produce hydrogen with far less energy than other methods, a development that would move the country closer to the goal of a "hydrogen economy."</p>
+      </block>
+      <block class="full_text">
+        <p>Researchers at a government nuclear laboratory and a ceramics company in Salt Lake City say they have found a way to produce pure hydrogen with far less energy than other methods, raising the possibility of using nuclear power to indirectly wean the transportation system from its dependence on oil.</p>
+        <p>The development would move the country closer to the Energy Department's goal of a ''hydrogen economy,'' in which hydrogen would be created through a variety of means, and would be consumed by devices called fuel cells, to make electricity to run cars and for other purposes. Experts cite three big roadblocks to a hydrogen economy: manufacturing hydrogen cleanly and at low cost, finding a way to ship it and store it on the vehicles that use it, and reducing the astronomical price of fuel cells.</p>
+        <p>''This is a breakthrough in the first part,'' said J. Stephen Herring, a consulting engineer at the Idaho National Engineering and Environmental Laboratory, which plans to announce the development on Monday with Cerametec Inc. of Salt Lake City.</p>
+        <p>The developers also said the hydrogen could be used by oil companies to stretch oil supplies even without solving the fuel cell and transportation problems.</p>
+        <p>Mr. Herring said the experimental work showed the ''highest-known production rate of hydrogen by high-temperature electrolysis.''</p>
+        <p>But the plan requires the building of a new kind of nuclear reactor, at a time when the United States is not even building conventional reactors. And the cost estimates are uncertain.</p>
+        <p>The heart of the plan is an improvement on the most convenient way to make hydrogen, which is to run electric current through water, splitting the H2O molecule into hydrogen and oxygen. This process, called electrolysis, now has a drawback: if the electricity comes from coal, which is the biggest source of power in this country, then the energy value of the ingredients -- the amount of energy given off when the fuel is burned -- is three and a half to four times larger than the energy value of the product. Also, carbon dioxide and nitrogen oxide emissions increase when the additional coal is burned.</p>
+        <p>Hydrogen can also be made by mixing steam with natural gas and breaking apart both molecules, but the price of natural gas is rising rapidly.</p>
+        <p>The new method involves running electricity through water that has a very high temperature. As the water molecule breaks up, a ceramic sieve separates the oxygen from the hydrogen. The resulting hydrogen has about half the energy value of the energy put into the process, the developers say. Such losses may be acceptable, or even desirable, because hydrogen for a nuclear reactor can be substituted for oil, which is imported and expensive, and because the basic fuel, uranium, is plentiful.</p>
+        <p>The idea is to build a reactor that would heat the cooling medium in the nuclear core, in this case helium gas, to about 1,000 degrees Celsius, or more than 1,800 degrees Fahrenheit. The existing generation of reactors, used exclusively for electric generation, use water for cooling and heat it to only about 300 degrees Celsius.</p>
+        <p>The hot gas would be used two ways. It would spin a turbine to make electricity, which could be run through the water being separated. And it would heat that water, to 800 degrees Celsius. But if electricity demand on the power grid ran extremely high, the hydrogen production could easily be shut down for a few hours, and all of the energy could be converted to electricity, designers say.</p>
+        <p>The goal is to create a reactor that could produce about 300 megawatts of electricity for the grid, enough to run about 300,000 window air-conditioners, or produce about 2.5 kilos of hydrogen per second. When burned, a kilo of hydrogen has about the same energy value as a gallon of unleaded regular gasoline. But fuel cells, which work without burning, get about twice as much work out of each unit of fuel. So if used in automotive fuel cells, the reactor might replace more than 400,000 gallons of gasoline per day.</p>
+        <p>The part of the plan that the laboratory and the ceramics company have tested is high-temperature electrolysis. There is only limited experience building high-temperature gas-cooled reactors, though, and no one in this country has ordered any kind of big reactor, even those of more conventional design, in 30 years, except for those whose construction was canceled before completion.</p>
+        <p>Another problem is that the United States has no infrastructure for shipping large volumes of hydrogen. Currently, most hydrogen is produced at the point where it is used, mostly in oil refineries. Hydrogen is used to draw the sulfur out of crude oil, and to break up hydrocarbon molecules that are too big for use in liquid fuel, and change the carbon-hydrogen ratio to one more favorable for vehicle fuel.</p>
+        <p>Mr. Herring suggested another use, however: recovering usable fuel from the Athabasca Tar Sands in Alberta, Canada. The reserves there may hold the largest oil deposits in the world, but extracting them and converting them into a gasoline substitute requires copious amounts of steam and hydrogen, both products of the reactor.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

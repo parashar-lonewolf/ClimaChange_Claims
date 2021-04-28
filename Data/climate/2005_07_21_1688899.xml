@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Clean-Air Wars</title>
+    <meta content="21thu3" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/07/21/opinion/21thu3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1688899"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <org class="online_producer">Environmental Protection Agency</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050721T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3DA163FF932A15754C0A9639C8B63" item-length="519" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Clean-Air Wars</hl1>
+        <hl2 class="online_headline">The Clean-Air Wars</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jeffrey Holmstead, who served as both an agent and an architect of President Bush's industry-friendly clean-air policies, resigned yesterday to return to private life after four years as the top clean-air official at the Environmental Protection Agency. Though we can always hope for the best, Mr. Holmstead's successor is unlikely to reverse the administration's ragged retreat from environmental protection -- one step forward, then two back. Here are some recent examples of that:</p>
+        <p>Diesel Emissions This has been the one shining positive in Mr. Holmstead's tenure, largely because John Graham, the cost-benefit guru at the Office of Management and Budget, decided early on that the health benefits from curbing diesel emissions outweighed the costs of cleaner engines. Building on earlier initiatives, the E.P.A. has adopted tough standards for trucks, buses and construction equipment, and, just two weeks ago, for generators and other stationary diesel engines.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The next top clean-air official at the E.P.A. is unlikely to reverse the administration's ragged retreat from environmental protection.</p>
+      </block>
+      <block class="full_text">
+        <p>Jeffrey Holmstead, who served as both an agent and an architect of President Bush's industry-friendly clean-air policies, resigned yesterday to return to private life after four years as the top clean-air official at the Environmental Protection Agency. Though we can always hope for the best, Mr. Holmstead's successor is unlikely to reverse the administration's ragged retreat from environmental protection -- one step forward, then two back. Here are some recent examples of that:</p>
+        <p>Diesel Emissions This has been the one shining positive in Mr. Holmstead's tenure, largely because John Graham, the cost-benefit guru at the Office of Management and Budget, decided early on that the health benefits from curbing diesel emissions outweighed the costs of cleaner engines. Building on earlier initiatives, the E.P.A. has adopted tough standards for trucks, buses and construction equipment, and, just two weeks ago, for generators and other stationary diesel engines.</p>
+        <p>Regional Haze The administration gets lower marks for its recently announced regional-haze rule, which governs air pollution in the national parks. More than a quarter-century has elapsed since Congress ordered the executive branch to clean up the smog and acid rain that afflict the parks -- like Great Smoky Mountains National Park -- that lie downwind of coal-fired power plants in Appalachia and the Midwest.</p>
+        <p>Mr. Bush is the first president to confront the problem, albeit under legal pressure from advocacy groups like Environmental Defense. But instead of ordering individual plants to install pollution controls, as Congress intended, he has now put forth a weaker regional scheme that would allow some of the dirtiest plants to buy their way out of their obligation to reduce emissions. The administration's hotly disputed rules governing mercury emissions, now under legal challenge, suffer from the same serious defect.</p>
+        <p>Older Power Plants The administration has promulgated two rule changes that would undercut provisions in the Clean Air Act requiring utilities to install modern pollution controls whenever they substantially upgrade their plants.</p>
+        <p>The most important of these changes has already been stayed by the courts, indicating skepticism about its legality. Then, two weeks ago, the District of Columbia Court of Appeals delivered a mixed verdict on the second rule, favorable to industry in some respects but leaving undisturbed the industry's basic obligation to install controls when upgrading plants.</p>
+        <p>The courts have also delivered mixed verdicts on lawsuits brought by the Justice Department and by state officials against companies that violated the old rules by failing to install the necessary controls. The recent appeals court ruling, for instance, contradicts an earlier verdict in the Fourth Circuit that appeared to let industry off the hook.</p>
+        <p>Other cases have resulted in major settlements out of court and big reductions in pollution. There is no reason to abandon these efforts even as the administration seeks to weaken the underlying law.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

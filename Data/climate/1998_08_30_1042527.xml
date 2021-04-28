@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mike Magnuson</title>
+    <meta content="MB103321" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1042527"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="SUNDAY, AUGUST 30, 1998: QUESTIONS FOR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Magnuson, Mike</person>
+        <object.title class="indexing_service">Fire Gospels, the (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DD163CF933A0575BC0A96E958260" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mike Magnuson</hl1>
+      </hedline>
+      <abstract>
+        <p>Brief interview with Mike Magnuson, author of novel The Fire Gospels; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mike Magnuson is the author of ''The Fire Gospels,'' a novel.</p>
+        <p>Q: In your book, an evangelistic weatherman named Lucky Littlefield almost becomes a god to people in a rural Wisconsin town that is suffering a terrible drought. In a scientific age, can weather and natural disasters still have a religious hold on people?</p>
+      </block>
+      <block class="full_text">
+        <p>Mike Magnuson is the author of ''The Fire Gospels,'' a novel.</p>
+        <p>Q: In your book, an evangelistic weatherman named Lucky Littlefield almost becomes a god to people in a rural Wisconsin town that is suffering a terrible drought. In a scientific age, can weather and natural disasters still have a religious hold on people?</p>
+        <p>A: They sure can. During the fires in Florida, people did get together to pray for rain and for the firefighters. This terrible weather we've been having, people are inclined to think of it as biblical. For the last few years, it's gotten worse and worse every year. And what else can we do except feel helpless in the face of it?</p>
+        <p>There's a scientific explanation, of course -- global warming -- but at the millennium there's all this prophecy that God's going to crush us for being bad. Pat Robertson even called for hurricanes to strike Florida this year because Disney World had a gay weekend and he couldn't stand it.</p>
+        <p>Q: Is the weather punishing us?</p>
+        <p>A: Of course not. Coincidence is not a divine act. Bad stuff happens. Pompeii happened. But we're so afraid our lives are just going to end -- like a deer's -- that we construe the environment to mean something it doesn't really mean.</p>
+        <p>Q: What's your source of comfort?</p>
+        <p>A: I hold with Descartes and Sartre that it's a joy to be alive. It doesn't have to be more than that.</p>
+        <p>SUNDAY, AUGUST 30, 1998: QUESTIONS FOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

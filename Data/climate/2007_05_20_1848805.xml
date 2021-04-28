@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="20laugh" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1848805"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E3D71131F933A15756C0A9619C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>Last night, the 10 Republican presidential candidates held their debate on Fox News. Now, normally I don't make predictions, but I'm going out on a limb and say I feel the debate was won by the rich white guy.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>Last night, the 10 Republican presidential candidates held their debate on Fox News. Now, normally I don't make predictions, but I'm going out on a limb and say I feel the debate was won by the rich white guy.</p>
+        <p>Yesterday was ''No Gas Day.'' As a protest for high gas prices, people were asked not to buy gas. In fact, I took the $75 I saved on gas  and got myself a coffee at Starbucks.</p>
+        <p>Dave Letterman</p>
+        <p>New York City is hosting a four-day global warming summit. But you know, today was such a nice day, they canceled it.</p>
+        <p>Conan O'Brien</p>
+        <p>Yesterday, British Prime Minister Tony Blair announced that he will step down next month. After hearing this, President Bush said: ''That's a shame. He's the only world leader who took the time to learn English.''</p>
+        <p>In a recent interview, Senator John McCain says the last music he bought was the Beach Boys while Mitt Romney says that the last music he bought was Roy Orbison. Apparently, McCain and Romney are both running for president in 1964.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

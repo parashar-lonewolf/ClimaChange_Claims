@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trees May Be Bad for You</title>
+    <meta content="08forest" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/08/science/earth/08forest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1723223"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E1DC1031F93BA35751C1A9639C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trees May Be Bad for You</hl1>
+        <hl2 class="online_headline">Trees May Be Bad for You</hl2>
+      </hedline>
+      <dateline>SAN FRANCISCO, Dec. 7</dateline>
+      <abstract>
+        <p>Computer simulations indicate that establishing new forests across North America as way to absorb carbon dioxide could in fact lead to more warming, rather than less (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the effort to slow earth's rising temperatures, even a well-intentioned proposal could backfire, scientists said Wednesday.</p>
+        <p>One suggestion has been to grow more trees, which absorb carbon dioxide, the gas blamed for trapping heat. More trees mean more carbon dioxide removed from the air.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the effort to slow earth's rising temperatures, even a well-intentioned proposal could backfire, scientists said.</p>
+      </block>
+      <block class="full_text">
+        <p>In the effort to slow earth's rising temperatures, even a well-intentioned proposal could backfire, scientists said Wednesday.</p>
+        <p>One suggestion has been to grow more trees, which absorb carbon dioxide, the gas blamed for trapping heat. More trees mean more carbon dioxide removed from the air.</p>
+        <p>New computer simulations, however, indicate that establishing new forests across North America could provide a cooling effect for a few decades to a century, but that after that, they would lead to more warming.</p>
+        <p>''There's really no simple answer,'' said Ken Caldeira, a scientist at the Carnegie Institution Department of Global Ecology in Stanford, Calif., who presented the research at a meeting of the American Geophysical Union here. ''At least in this calculation, there is predicted to be a net warming effect.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

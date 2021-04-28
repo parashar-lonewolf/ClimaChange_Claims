@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ford Motor</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="436313"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <org class="indexing_service">FORD MOTOR CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D61F39F933A25757C0A967958260" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ford Motor</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>DEARBORN, Mich., April 9</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Ford Motor Company said the use of chlorofluorocarbons, a chemical compound suspected of causing depletion of the earth's ozone layer, will be eliminated from 90 percent of its manufacturing by the fourth quarter of 1992. The company said the use of chlorofluorocarbons in plastic foam for seats and interior trim will be eliminated before 1993.</p>
+      </block>
+      <block class="full_text">
+        <p>The Ford Motor Company said the use of chlorofluorocarbons, a chemical compound suspected of causing depletion of the earth's ozone layer, will be eliminated from 90 percent of its manufacturing by the fourth quarter of 1992. The company said the use of chlorofluorocarbons in plastic foam for seats and interior trim will be eliminated before 1993.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

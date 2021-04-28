@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming</title>
+    <meta content="01RWAR$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World; Front Page; Corrections; Editors' Notes" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="977074"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="SPECIAL SECTION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E5D61E3AF932A35751C1A961958260" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 12-page preview of the international conference that begins today in Kyoto, Japan. On the table are sharply differing plans to limit the increase of greenhouse gases, all carrying enormous consequences for the environment and the economy.</p>
+      </block>
+      <block class="full_text">
+        <p>A 12-page preview of the international conference that begins today in Kyoto, Japan. On the table are sharply differing plans to limit the increase of greenhouse gases, all carrying enormous consequences for the environment and the economy.</p>
+        <p>SPECIAL SECTION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

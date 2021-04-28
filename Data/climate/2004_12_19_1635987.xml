@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="19XXNEEDY" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1635987"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E1DF1230F93AA25751C1A9629C8B63" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For New York's Newcomers, Help From Neediest Cases  For immigrants like Yu Xian Gu and her husband Cheng Wei Wang, The New York Times Neediest Cases Fund lends a hand with everything from housing to language barriers to cutting red tape.</p>
+        <p>PAGE 32</p>
+        <p>U.S. Limiting Global Talks on Greenhouse Gases  A United Nations conference on climate change ended with a weak pledge to start limited talks to slow global warming. Many nations and environmental groups worry about a lack of U.S. support for emissions curbs.</p>
+        <p>PAGE 16</p>
+        <p>Congo Fears a Return to War  Fierce fighting in Congo's eastern region between government troops and rebels has raised fears of a renewal of the warfare that started there in August 1998. Some 3.8 million people died in that conflict, a new survey indicates.</p>
+        <p>PAGE 3</p>
+        <p>More Arrests in Huge Fire  Three more people have been arrested in a Maryland arson case with $10 million in damage.</p>
+        <p>PAGE 35</p>
+        <p>Old Spaces, New Schools  Schools in New York City are popping up in the most unexpected places, like an old salami factory in the Bronx and a shuttered department store in Harlem.</p>
+        <p>PAGE 45</p>
+      </block>
+      <block class="full_text">
+        <p>For New York's Newcomers, Help From Neediest Cases  For immigrants like Yu Xian Gu and her husband Cheng Wei Wang, The New York Times Neediest Cases Fund lends a hand with everything from housing to language barriers to cutting red tape.</p>
+        <p>PAGE 32</p>
+        <p>U.S. Limiting Global Talks on Greenhouse Gases  A United Nations conference on climate change ended with a weak pledge to start limited talks to slow global warming. Many nations and environmental groups worry about a lack of U.S. support for emissions curbs.</p>
+        <p>PAGE 16</p>
+        <p>Congo Fears a Return to War  Fierce fighting in Congo's eastern region between government troops and rebels has raised fears of a renewal of the warfare that started there in August 1998. Some 3.8 million people died in that conflict, a new survey indicates.</p>
+        <p>PAGE 3</p>
+        <p>More Arrests in Huge Fire  Three more people have been arrested in a Maryland arson case with $10 million in damage.</p>
+        <p>PAGE 35</p>
+        <p>Old Spaces, New Schools  Schools in New York City are popping up in the most unexpected places, like an old salami factory in the Bronx and a shuttered department store in Harlem.</p>
+        <p>PAGE 45</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

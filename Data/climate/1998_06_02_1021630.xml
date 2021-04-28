@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR232029" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1021630"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E4D8143BF931A35755C0A96E958260" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page headline on Friday about the contribution of automobiles' catalytic converters to global warming misstated the amount of nitrous oxide that the Environmental Protection Agency believes comes from the devices. A draft study by the E.P.A. said that about 3 percent comes from cars and trucks, out of a total contribution of 7 percent from all manmade sources. Cars and trucks alone do not account for 7 percent. In a statement issued yesterday in response to the article, the E.P.A. said the production of the gas by converters ''could be closer to 2 percent or less.''</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page headline on Friday about the contribution of automobiles' catalytic converters to global warming misstated the amount of nitrous oxide that the Environmental Protection Agency believes comes from the devices. A draft study by the E.P.A. said that about 3 percent comes from cars and trucks, out of a total contribution of 7 percent from all manmade sources. Cars and trucks alone do not account for 7 percent. In a statement issued yesterday in response to the article, the E.P.A. said the production of the gas by converters ''could be closer to 2 percent or less.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

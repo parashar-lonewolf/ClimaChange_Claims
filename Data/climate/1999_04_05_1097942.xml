@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="05INSI$04" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1097942"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EFD91139F936A35757C0A96F958260" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Politics of Acid Rain  A bill to reduce the pollutants that cause acid rain has had little support in Congress, but its backers say a study that shows a growing threat will bolster their case</p>
+        <p>Page B1.</p>
+        <p>Germ Warfare Accident  A Soviet defector says a serious accident at a Chinese biological weapons lab caused two major epidemics in the late 1980's</p>
+        <p>Page A3.</p>
+      </block>
+      <block class="full_text">
+        <p>The Politics of Acid Rain  A bill to reduce the pollutants that cause acid rain has had little support in Congress, but its backers say a study that shows a growing threat will bolster their case</p>
+        <p>Page B1.</p>
+        <p>Germ Warfare Accident  A Soviet defector says a serious accident at a Chinese biological weapons lab caused two major epidemics in the late 1980's</p>
+        <p>Page A3.</p>
+        <p>Negotiating College Costs  Increasingly, parents of college applicants highly prized by prestigious institutions are bargaining for better aid packages</p>
+        <p>Page A12.</p>
+        <p>Yanks and Mets to Open  The Mets open their season today in Florida; the Yankees defend their world championship beginning tonight in Oakland</p>
+        <p>SportsMonday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

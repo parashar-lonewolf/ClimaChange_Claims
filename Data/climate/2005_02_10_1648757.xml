@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2004 Was Fourth-Warmest Year on Record</title>
+    <meta content="10WARM" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/02/10/science/10warm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1648757"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E0DB163AF933A25751C0A9639C8B63" item-length="356" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2004 Was Fourth-Warmest Year on Record</hl1>
+        <hl2 class="online_headline">2004 Was Fourth-Warmest Year Ever Recorded</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last year was the fourth warmest since systematic temperature measurements began around the world in the 19th century, NASA scientists said yesterday.</p>
+        <p>Particularly high temperatures were measured over Alaska, the Caspian Sea region of Europe and the Antarctic Peninsula, while the United States was unusually cool. But the global average continued a 30-year rise that is ''due primarily to increasing greenhouse gases in the atmosphere,'' said Dr. James E. Hansen, director of NASA's Goddard Institute for Space Studies, in Manhattan.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Last year was the fourth warmest since systematic temperature measurements began around the world in the 19th century, NASA scientists said.</p>
+      </block>
+      <block class="full_text">
+        <p>Last year was the fourth warmest since systematic temperature measurements began around the world in the 19th century, NASA scientists said yesterday.</p>
+        <p>Particularly high temperatures were measured over Alaska, the Caspian Sea region of Europe and the Antarctic Peninsula, while the United States was unusually cool. But the global average continued a 30-year rise that is ''due primarily to increasing greenhouse gases in the atmosphere,'' said Dr. James E. Hansen, director of NASA's Goddard Institute for Space Studies, in Manhattan.</p>
+        <p>The main source of such gases is smokestack and tailpipe emissions from burning coal and oil.</p>
+        <p>The highest global average was measured in 1998, when temperatures were raised by a strong cycle of El Niño in the Pacific Ocean; 2002 and 2003 were second and third warmest.</p>
+        <p>Dr. Hansen said a weak Niño pattern was likely to make 2005 at least the second warmest year and could push it beyond 1998 and set a record.</p>
+        <p>The unusual nature of the recent warming was corroborated separately yesterday by a new analysis of 2,000 years of indirect temperature records in tree rings, stalagmites, seabed layers, and other evidence from around the Northern Hemisphere.</p>
+        <p>That study, published in the journal Nature, found that previous peaks of warming, particularly during medieval times about 1,000 years ago, were as warm as the 20th-century average but that no spikes in the last 2,000 years matched the warming since 1990.</p>
+        <p>It is one of several recent studies challenging a longstanding view that temperatures in the Northern Hemisphere were relatively unvarying until the recent warming, a pattern enshrined in a graph scientists have taken to calling the hockey stick for its long horizontal ''shaft'' and upward-hooking ''blade.''</p>
+        <p>The lead author of the new paper, Anders Moberg of Stockholm University in Sweden, said it was important to recognize that natural influences on climate could either amplify or mask human-caused warming in years to come.</p>
+        <p>But his paper ''should not be a fuel for greenhouse skeptics in their arguments,'' Mr. Moberg said, adding that there were ample signs that the warming was now outside nature's recent bounds.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

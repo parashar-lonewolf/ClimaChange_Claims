@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Cost of Nuclear Energy</title>
+    <meta content="26lett-5" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1792893"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07EEDB1F31F935A1575AC0A9609C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Cost of Nuclear Energy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Updating Prescriptions for Avoiding Worldwide Catastrophe'' (Conversation, Sept. 12): Although James Lovelock is right about the immense problems posed by global warming, he is wrong when he proposes the concept of nuclear power to solve the dilemma.</p>
+        <p>The process by which nuclear power is generated creates large quantities of global warming gases. This fact, together with the enormous expense of constructing and decommissioning reactors, the dangers of nuclear power in an age of terrorism and the problems associated with the disposal of radioactive waste, militate against the concept of nuclear-generated electricity.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Updating Prescriptions for Avoiding Worldwide Catastrophe'' (Conversation, Sept. 12): Although James Lovelock is right about the immense problems posed by global warming, he is wrong when he proposes the concept of nuclear power to solve the dilemma.</p>
+        <p>The process by which nuclear power is generated creates large quantities of global warming gases. This fact, together with the enormous expense of constructing and decommissioning reactors, the dangers of nuclear power in an age of terrorism and the problems associated with the disposal of radioactive waste, militate against the concept of nuclear-generated electricity.</p>
+        <p>Instead, available technology associated with an array of renewable energy sources, combined with conservation, would supply the world's electricity needs.</p>
+        <p>Helen Caldicott, M.D.  Newton Highlands, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

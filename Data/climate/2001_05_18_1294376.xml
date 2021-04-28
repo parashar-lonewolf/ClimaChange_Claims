@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Technologies Are Highlighted</title>
+    <meta content="18COA" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1294376"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="THE ENERGY PLAN: COAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Coal</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Smog</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smog</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFDE1E3AF93BA25756C0A9679C8B63" item-length="332" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Technologies Are Highlighted</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <abstract>
+        <p>Pres Bush's energy policy holds that coal, already used to generate most of country's electricity, could create more kilowatt-hours per ton and less pollutants that cause smog and acid rain; proposes spending $2 billion for research on clean-coal technologies (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Coal, the fuel already used to generate most of this country's electricity, could create more kilowatt-hours per ton and less of the pollutants that cause smog and acid rain, according to the Bush administration's energy plan, which proposes spending $2 billion in federal money on research and demonstration projects.</p>
+        <p>The country has hundreds of years of coal available, probably at stable prices. ''New clean-coal technologies are showing that air pollution can be reduced and energy efficiency increased, by using America's abundant supply of coal,'' according to the report. But even when cleaned of conventional pollutants, environmentalists point out, coal produces far more carbon dioxide, which is thought to cause global climate change, than natural gas or oil.</p>
+      </block>
+      <block class="full_text">
+        <p>Coal, the fuel already used to generate most of this country's electricity, could create more kilowatt-hours per ton and less of the pollutants that cause smog and acid rain, according to the Bush administration's energy plan, which proposes spending $2 billion in federal money on research and demonstration projects.</p>
+        <p>The country has hundreds of years of coal available, probably at stable prices. ''New clean-coal technologies are showing that air pollution can be reduced and energy efficiency increased, by using America's abundant supply of coal,'' according to the report. But even when cleaned of conventional pollutants, environmentalists point out, coal produces far more carbon dioxide, which is thought to cause global climate change, than natural gas or oil.</p>
+        <p>The federal government has spent about $1.8 billion on clean-coal technologies in the last 15 years, combined with $3.6 billion from states and private companies, but some money available for subsidies has gone unspent.</p>
+        <p>The report highlights a technology developed by Powerspan, a company in New Durham, N.H. In a test using a tiny part of the exhaust from a First Energy plant in Shadyside, Ohio, the Powerspan technology cut nitrogen oxides, which cause smog, by 76 percent, and sulfur dioxide, which causes acid rain, by 44 percent, while reducing mercury and other toxic metals. First Energy hopes to soon replicate the test on a larger scale at a plant near Cleveland.</p>
+        <p>David G. Hawkins, at the Natural Resources Defense Council, said: ''The president's plan proposes to squander $2 billion by making it available to virtually any coal project that wants to put the label 'clean' on its proposal. It would be much better to take a small fraction of the $2 billion and concentrate it on the most promising technology.''</p>
+        <p>MATTHEW L. WALD</p>
+        <p>THE ENERGY PLAN: COAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Clean Air Looks Dirty</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="698171"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">STANDARDS AND STANDARDIZATION</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <classifier class="indexing_service" type="descriptor">ETHANOL</classifier>
+        <classifier class="indexing_service" type="descriptor">LOBBYING AND LOBBYISTS</classifier>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <org class="indexing_service">ARCHER-DANIELS-MIDLAND CO</org>
+        <person class="indexing_service">ANDREAS, DWAYNE O</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Standards and Standardization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethanol</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E6DB173FF93BA35754C0A962958260" item-length="383" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Clean Air Looks Dirty</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Environmental Protection Agency has effectively ordered refiners to add corn-based ethanol to make gasoline environmentally friendly. But the added ethanol will not clean the air beyond what the 1990 Clean Air Act would already require; nor will it, as advocates claim, raise farm income very much or significantly cut oil imports.</p>
+        <p>What the E.P.A.'s rule will do is take money from consumers and taxpayers and hand it over to Archer Daniels Midland, which produces about 60 percent of the nation's supply of ethanol. It is certainly no coincidence that A.D.M.'s chief executive, Dwayne Andreas, is a major political contributor; he donated $100,000 to a recent Democratic fund-raising dinner.</p>
+      </block>
+      <block class="full_text">
+        <p>The Environmental Protection Agency has effectively ordered refiners to add corn-based ethanol to make gasoline environmentally friendly. But the added ethanol will not clean the air beyond what the 1990 Clean Air Act would already require; nor will it, as advocates claim, raise farm income very much or significantly cut oil imports.</p>
+        <p>What the E.P.A.'s rule will do is take money from consumers and taxpayers and hand it over to Archer Daniels Midland, which produces about 60 percent of the nation's supply of ethanol. It is certainly no coincidence that A.D.M.'s chief executive, Dwayne Andreas, is a major political contributor; he donated $100,000 to a recent Democratic fund-raising dinner.</p>
+        <p>The Clean Air Act requires high-smog areas to phase in use of "reformulated" gasoline whose weight is at least 2 percent oxygen; the goal was to reduce pollution by replacing gasoline with oxygenates. The E.P.A. order would now add another requirement: 30 percent of the oxygenates would have to come from "renewable" resources -- which in reality means corn-based ethanol.</p>
+        <p>Because the oxygen content of reformulated gasoline remains unchanged, the order will not reduce smog-creating emissions. But by forcing refiners to use ethanol rather than less expensive oxygenates like methanol, the rule will drive up the cost of gasoline. Indeed, ethanol remains a high-cost additive even though it benefits from substantial tax breaks. And some experts argue that ethanol may be environmentally damaging because coal used in producing it contributes to carbon dioxide emissions, adding to global warming.</p>
+        <p>David Montgomery, an energy economist for Charles River Associates, estimates that only 30 percent of the cost of ethanol will wind up in the pockets of farmers while about 70 percent will go to processors like A.D.M. So the rule is a ridiculously expensive way to subsidize farmers. And the addition of ethanol will cut imports by only 9,000 barrels out of about eight million barrels a day.</p>
+        <p>Carol Browner, head of the E.P.A., asserts that the policy will spur development of renewable energy sources. But the impact looms small when stacked against the obvious defects. President Clinton is twisting high-minded environmental promises into low-minded favors for special interests.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

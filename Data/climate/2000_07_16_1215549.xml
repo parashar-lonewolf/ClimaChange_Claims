@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Many Ways to Teach a Child</title>
+    <meta content="LTR003912" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215549"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <person class="indexing_service">Eisenkraft, Arthur</person>
+        <person class="indexing_service">Reich, Robert B</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E0D6153BF935A25754C0A9669C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Many Ways to Teach a Child</hl1>
+      </hedline>
+      <abstract>
+        <p>Arthur Eisenkraft letter responds to Robert B Reich's July 11 Op-ed article that criticized education system and standardized testing; rejects Reich's anti-intellectual and elitist position on science and math instruction (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>While Robert B. Reich succeeds in describing some of the problems inherent in certain standardized tests (Op-Ed, July 11), he takes an anti-intellectual and elitist position on science and math instruction.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>While Robert B. Reich succeeds in describing some of the problems inherent in certain standardized tests (Op-Ed, July 11), he takes an anti-intellectual and elitist position on science and math instruction.</p>
+        <p>Mr. Reich says that ''there's no reason that every child must master the sciences, algebra, geometry, biology or any of the rest of the standard high school curriculum.'' We could agree with Mr. Reich only if we saw no reason for the adults of the future to, for example, understand where their tax dollars are going (genetic engineering or space exploration), to discuss medical care with their doctors or to understand environmental issues like nuclear power or global warming.</p>
+        <p>ARTHUR EISENKRAFT  President, National Science  Teachers Association  Arlington, Va., July 11, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

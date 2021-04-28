@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FROM THE DESK OF DAVID POGUE: Solving the Car-Propulsion Problem</title>
+    <meta content="05pogue-email" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/technology/05pogue-email.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837925"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="From the Desk of David Pogue"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E1DB173FF937A35757C0A9619C8B63" item-length="952" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FROM THE DESK OF DAVID POGUE: Solving the Car-Propulsion Problem</hl1>
+        <hl2 class="online_headline">Solving the Car-Propulsion Problem</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Predictably, my account last week of a presentation and test drive of BMW's liquid hydrogen-powered cars generated all kinds of angry nay-saying.</p>
+        <p>The "no such thing as global warming" crowd spoke up; the "global warming isn't human-driven" contingent was heard from.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Both hydrogen- and battery-powered cars, if they’re to solve the pollution problem, depend on the development of clean, renewable electricity production.</p>
+      </block>
+      <block class="full_text">
+        <p>Predictably, my account last week of a presentation and test drive of BMW's liquid hydrogen-powered cars generated all kinds of angry nay-saying.</p>
+        <p>The "no such thing as global warming" crowd spoke up; the "global warming isn't human-driven" contingent was heard from.</p>
+        <p>Most respondents, however, simply called hydrogen cars a dead end. "You'll produce more pollution burning fossil fuels to CREATE the hydrogen than you'll save by driving these zero-emission vehicles," they reiterated.</p>
+        <p>Yes, which is why I wrote: "BMW agrees that hydrogen cars are pointless unless the hydrogen itself is produced using clean, renewable energy sources: solar, wind, geothermal and so on."</p>
+        <p>"All right then," some of you argued. "If you're going to imagine a future where we routinely create clean energy, why produce supercooled liquid-hydrogen cars? Why not just stick the clean electricity into batteries?</p>
+        <p>Actually, I'm excited by this idea, too.</p>
+        <p>At the TED conference that started this whole discussion, Tesla Motors was also on hand. This fall, Tesla will deliver an electric car like none you've never seen: an extremely hot-looking two-seat roadster (teslamotors.com). Over 350 people have already pre-paid for their cars--at $100,000 each.</p>
+        <p>(I asked Darryl Siry, Tesla's VP of marketing, why the high price. "If it were easy to design a good EV [electric vehicle] at a low price, we'd be doing it," he replied. "So would everyone else, for that matter. Any new technology usually has a high initial cost that then goes down over time. The 100% electric drivetrain and large battery pack is part of what drives the price to the current price.")</p>
+        <p>One of these cars was on display at TED, and it is indeed a rockin'-looking car. It goes from zero to 60 miles per hour in four seconds. Top speed is 130 miles per hour. It has, Tesla, says, "better acceleration than a Lamborghini Murcielago and twice the mile-per-gallon equivalent of popular hybrids."</p>
+        <p>The 900 pounds of lithium-ion batteries (the same type that's in your laptop) recharge in 7 hours when plugged into a standard power outlet, or twice as fast if you install a 220-volt outlet in your garage. There's no engine under the hood (only fans), only two gears (and one of them is optional), no gas tank, no clutch and no engine noise at all. "Under hard acceleration there is a very nice sound not unlike a turbine," says Mr. Siry. "In normal cruising you hear mostly tires, the road and wind (or music, if you prefer)."</p>
+        <p>And, of course, the car itself produces no emissions.</p>
+        <p>The Tesla is not especially practical, of course; electric cars, too, are in their infancy.</p>
+        <p>It's a two-seater only, and the trunk has only enough room for a golf bag.</p>
+        <p>Nobody can service or repair this car except Tesla, and at the outset, there will be only five service centers are planned (two in California, and one each in New York, Chicago and Florida; if all goes well, Tesla plans 15 more in a few years). If the car breaks down, or if you run out of electricity (which happens after 250 miles), the company cheerfully suggests that you call a flatbed truck to deliver your car to one of those five stations.</p>
+        <p>Like an iPod battery or laptop battery, this car's battery is good for only about 500 chargings. (Tesla guarantees it for five years or 100,000 miles.) After that, you have to deliver the car to one of those service centers to buy a new battery.</p>
+        <p>The plan is to sell about 1,000 of the roasters in each of the first two years. Meanwhile, the company developing other cars in other price ranges, starting with a $50,000 sedan called the White Star that's due at the end of 2009. Tesla is building a factory in New Mexico that will be able to ship 13,000 White Stars a year (and has an option on more land that will expand capacity to 25,000).</p>
+        <p>Like the hydrogen car, the electric car requires electricity that's generated somewhere else--like at today's fossil fuel-burning plants. Isn't that just transferring the pollution source from the car to the plant?</p>
+        <p>The Tesla Motors Web site addresses that common objection this way: "Power generation plants, even coal burning ones, are inherently more efficient and less polluting than vehicles due to economies of scale and the ability to more efficiently remove pollutants from a smaller number of much larger fixed locations."</p>
+        <p>Darryl Siry clarifies: "Even using the worst assumptions for electricity generation, an EV [electric vehicle] is more efficient and less polluting than the gasoline equivalent. If you use best-in-class electricity production (such as modern natural gas turbines), the difference is enormous."</p>
+        <p>In short, both hydrogen- and battery-powered cars, if they're to solve the pollution problem (and not just the oil-dependency problem), depend on the development of clean, renewable electricity production.</p>
+        <p>Still, the Tesla roadster demonstrates three things. First, nobody has yet killed the electric car. Second, electric cars can be exciting, desirable and fun to drive. But third, affordable, long-range electric cars are still a long way off.</p>
+        <p>A number of readers wrote to encourage the development of "plug-in hybrids"--that is, electric cars with gas-engine backups--as a more immediate solution. So far, nobody's making one.</p>
+        <p>Nonetheless, electrics, plug-in hybrids and yes, even hydrogen cars deserve open-mindedness, especially when they're meeting with such resistance at the government and auto-industry levels. As this Popular Mechanics article (about hydrogen) puts it:</p>
+        <p>"Ultimately, hydrogen may be just one part of a whole suite of energy alternatives. Any one of them will involve investing heavily in new infrastructure. Though the price tag will be steep, we can't afford oil's environmental, economic and political drawbacks any longer."</p>
+        <p>From the Desk of David Pogue</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

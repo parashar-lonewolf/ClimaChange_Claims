@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TREES OF INDUSTRIAL AGE</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="51311"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TREES AND SHRUBS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <org class="indexing_service">CAMBRIDGE UNIVERSITY</org>
+        <person class="indexing_service">WOODWARD, F IAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD61E3AF930A15755C0A961948260" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TREES OF INDUSTRIAL AGE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: TREES are responding with surprising alacrity to the increase of carbon dioxide in the air, cutting back sharply on the microscopic pores that control the flow of water and gas in their leaves, a British botanist has found.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: TREES are responding with surprising alacrity to the increase of carbon dioxide in the air, cutting back sharply on the microscopic pores that control the flow of water and gas in their leaves, a British botanist has found.</p>
+        <p>TREES are responding with surprising alacrity to the increase of carbon dioxide in the air, cutting back sharply on the microscopic pores that control the flow of water and gas in their leaves, a British botanist has found.</p>
+        <p>The botanist, F. Ian Woodward of Cambridge University, compared the leaves of seven species of trees and one shrub in the midlands of England with specimens preserved at a university herbarium over the last 200 years. Although the density of pores varied considerably from species to species, Dr. Woodward found a steady decline in all cases, averaging 40 percent.</p>
+        <p>Over the same period, the industrial era has brought a steady rise in carbon dioxide in the atmosphere, where it traps heat. The increase is expected to raise the earth's temperature significantly in the next few decades.</p>
+        <p>Dr. Woodward confirmed his findings by growing plants in greenhouses with different levels of carbon dioxide.The new research, reported in Nature, is part of a growing body of work by ecologists and climate specialists struggling to understand the complex interactions of the atmosphere's gases, the warming and cooling of the planet and the waxing and waning of different species.</p>
+        <p>With fewer pores, which allow evaporation from inside the leaf, a plant becomes more efficient in its use of water in drawing energy from sunlight and carbon dioxide. By reacting quickly to the rising levels of carbon dioxide, some plants may be improving their ability to withstand drought as the earth grows warmer.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

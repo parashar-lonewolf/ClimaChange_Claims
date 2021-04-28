@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Science and Politics, Heat and Light</title>
+    <meta content="l30warm-3" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1765427"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Stein, Jeff D</person>
+        <person class="indexing_service">Easterbrook, Gregg</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E7DA1F3EF933A05756C0A9609C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Science and Politics, Heat and Light</hl1>
+      </hedline>
+      <abstract>
+        <p>Jeff D Stein letter says American public must be educated about climate change and not leave action to small minority of elite entrepreneurs as suggested by Gregg Easterbrook (May 24 Op-Ed article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Gregg Easterbrook's suggestions for action to mitigate climate change, while creative and promising, involve only a small minority of elite entrepreneurs. To confront climate change now and other environmental concerns in the future, we must engage the entire American public.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Gregg Easterbrook's suggestions for action to mitigate climate change, while creative and promising, involve only a small minority of elite entrepreneurs. To confront climate change now and other environmental concerns in the future, we must engage the entire American public.</p>
+        <p>Schools should require an environmental science course as part of the curriculum, so that the public can make intelligent and responsible decisions. An uninformed public is a danger to itself, and has always been the greatest impediment to progress.</p>
+        <p>Jeff D. Stein  Glencoe, Ill., May 24, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

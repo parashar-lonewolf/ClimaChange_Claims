@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fuzzy Math on Greenhouse Gas</title>
+    <meta content="LTR231544" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1369091"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">National Environmental Policy Institute</org>
+        <person class="indexing_service">Ritter, Don</person>
+        <person class="indexing_service">Krugman, Paul</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEED71F3FF93AA25751C0A9649C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fuzzy Math on Greenhouse Gas</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Don Ritter (National Environmental Policy Institute) replies to Paul Krugman's Feb 15 column on Pres Bush's plan for reducing greenhouse gases</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Paul Krugman misses the forest for the trees (''Ersatz Climate Policy,'' column, Feb. 15). President Bush put his finger on the problem in his new plan for reducing the impact of greenhouse gases -- focusing our attention on the need to reduce environmental impact per unit of prosperity.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Paul Krugman misses the forest for the trees (''Ersatz Climate Policy,'' column, Feb. 15). President Bush put his finger on the problem in his new plan for reducing the impact of greenhouse gases -- focusing our attention on the need to reduce environmental impact per unit of prosperity.</p>
+        <p>Defining the problem that way, we can begin to look beyond regulation to a much broader range of incentives and policy options, including energy, technology and trade policy.  We can also change the language of the debate to ways of thinking and concepts more familiar to the energy and industrial sectors, including efficiency and productivity (first cousins to eco-efficiency and resource productivity). We can also pursue the positive role that international trade can play in disseminating clean technologies.</p>
+        <p>And, perhaps most important, we can begin to address the real needs of the global community, which include demanding both environmental progress and economic growth. Defining reductions in environmental intensity as the goal can transform the current debate over climate change into a positive coalition for sustainable development.</p>
+        <p>DON RITTER  Chairman, National  Environmental Policy Institute  Washington, Feb. 15, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

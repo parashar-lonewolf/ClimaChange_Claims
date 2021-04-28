@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hydrogen Made On the Scene</title>
+    <meta content="29ALT" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/automobiles/29ALT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843735"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE4D6153EF93AA15757C0A9619C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hydrogen Made On the Scene</hl1>
+        <hl2 class="online_headline">Hydrogen Made on the Scene</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HYDROGEN is pollution-free at the point of use, but it will not save any energy or reduce pollution unless it can be produced cleanly and made available at thousands of filling stations.</p>
+        <p>And while engineers have sometimes described deploying a new vehicle and fuel as a chicken-and-egg problem -- one impossible without the other -- the description does not really apply to fuel-cell cars and hydrogen refueling infrastructure; they have to be invented separately.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>WASHINGTON.</p>
+      </block>
+      <block class="full_text">
+        <p>HYDROGEN is pollution-free at the point of use, but it will not save any energy or reduce pollution unless it can be produced cleanly and made available at thousands of filling stations.</p>
+        <p>And while engineers have sometimes described deploying a new vehicle and fuel as a chicken-and-egg problem -- one impossible without the other -- the description does not really apply to fuel-cell cars and hydrogen refueling infrastructure; they have to be invented separately.</p>
+        <p>Last year, a small company in Alexandria, Va., H2Gen Innovations, began selling a device that produces hydrogen from natural gas in quantities appropriate for a neighborhood filling station, enough for a few dozen cars. Most of H2Gen's customers have been industrial users, but in January it sold a unit to a fueling station for fuel-cell buses that Chevron will operate near the airport in Orlando, Fla. The unit can be easily shipped on a flatbed truck and quickly installed.</p>
+        <p>The advance, though, is not so much in size as in efficiency. Hydrogen coming out of the system has an energy value equal to more than 70 percent of the natural gas that went in.</p>
+        <p>Barney Rush, H2Gen's president, said the trick was to combine in a single vessel two operations that used to have to take place in different vessels.</p>
+        <p>The first was to expose methane molecules to steam, producing both hydrogen molecules and carbon monoxide. The second was to have the carbon monoxide combine with water, removing the water's oxygen atom, leaving more hydrogen. The oxygen atom combines with the carbon monoxide to become carbon dioxide.</p>
+        <p>While that is a greenhouse gas, the resulting hydrogen can be turned into electricity in the fuel cell at very high efficiency, so the number of grams of carbon dioxide emitted each mile is lower for the steam-reforming-and-fuel-cell combination than for the oil-refinery-and-gasoline-engine system.</p>
+        <p>MATTHEW L. WALD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

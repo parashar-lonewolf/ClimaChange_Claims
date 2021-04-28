@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Curbing Coal Emissions</title>
+    <meta content="l06coal" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1809833"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807EFDD1631F935A35751C1A9609C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Curbing Coal Emissions</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Taming King Coal'' (editorial, Nov. 25), about addressing emissions of carbon dioxide from coal-based electric power generation, appropriately underscores the importance of assuring that we have the technology to do it. But your predilection toward just one promising technology, integrated gasification combined cycle, or I.G.C.C., is problematic.</p>
+        <p>I.G.C.C. holds tremendous promise and is one technology that utilities will use to address carbon dioxide. But it isn't the only one, and it may not be the best choice in every case.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Taming King Coal'' (editorial, Nov. 25), about addressing emissions of carbon dioxide from coal-based electric power generation, appropriately underscores the importance of assuring that we have the technology to do it. But your predilection toward just one promising technology, integrated gasification combined cycle, or I.G.C.C., is problematic.</p>
+        <p>I.G.C.C. holds tremendous promise and is one technology that utilities will use to address carbon dioxide. But it isn't the only one, and it may not be the best choice in every case.</p>
+        <p>While I.G.C.C. can produce electricity more efficiently than traditional coal plants, there are only four I.G.C.C. plants in operation worldwide (two in the United States), and the technology so far performs well only with certain types of coal.</p>
+        <p>Alternative pulverized coal technologies like ''ultra supercritical'' and ''supercritical'' are also more efficient than traditional coal plants and can make use of all coal varieties.</p>
+        <p>With respect to greenhouse gas emissions, both I.G.C.C. and pulverized coal plants will someday be able to accommodate some form of carbon-capture technology.</p>
+        <p>I.G.C.C. holds potential for easier integration of these technologies, but may not be the appropriate generation choice for every situation.</p>
+        <p>Thomas R. Kuhn  Pres., Edison Electric Institute  Washington, Dec. 1, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

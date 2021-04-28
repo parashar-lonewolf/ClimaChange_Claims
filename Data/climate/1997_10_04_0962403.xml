@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="04INSI$04" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="962403"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E3DA123DF937A35753C1A961958260" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Job Growth Is Modest  A modest number of jobs were created last month, as the nation's unemployment rate stayed at 4.9 percent, data showed. Stocks and bonds initially rallied on the report. Page D1.</p>
+        <p>Selling Global Warming  The Clinton Administration is trying to win public support before the details are worked out on a treaty to limit heat-trapping gases. Page A10.</p>
+      </block>
+      <block class="full_text">
+        <p>Job Growth Is Modest  A modest number of jobs were created last month, as the nation's unemployment rate stayed at 4.9 percent, data showed. Stocks and bonds initially rallied on the report. Page D1.</p>
+        <p>Selling Global Warming  The Clinton Administration is trying to win public support before the details are worked out on a treaty to limit heat-trapping gases. Page A10.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy Efficiency</title>
+    <meta content="LTR232106" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1458534"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Coal</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">National Mining Assn</org>
+        <person class="indexing_service">Gerard, Jack N</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2D81030F931A15752C0A9659C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy Efficiency</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Jack Gerard, president, National Mining Assn, comments on Jan 15 editorial on global warming; says experiments in carbon dioxide allocation would needlessly jeopardize coal-based generation that delivers 53 percent of electricity</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''New Players on Global Warming'' (editorial, Jan. 15):</p>
+        <p>With the administration and Congress committed to stimulating the economy, the stakes are much higher in the global warming debate.</p>
+        <p>Some estimate that 60 percent of our gross domestic product is from enterprises using electric power as principal energy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''New Players on Global Warming'' (editorial, Jan. 15):</p>
+        <p>With the administration and Congress committed to stimulating the economy, the stakes are much higher in the global warming debate.</p>
+        <p>Some estimate that 60 percent of our gross domestic product is from enterprises using electric power as principal energy.</p>
+        <p>Ill-advised experiments in carbon dioxide allocation would needlessly jeopardize the coal-based generation that delivers 53 percent of the electricity.</p>
+        <p>Electric power is the core of the economy. Coal is the core of electric generation. Nothing stuns this energy-oriented economy like energy shocks.</p>
+        <p>If the economy is priority No. 1, then good energy and environmental policies have to be companion priorities. Technology can resolve all questions about coal use in power generation.</p>
+        <p>JACK GERARD  President, National Mining Assn.  Washington, Jan. 16, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

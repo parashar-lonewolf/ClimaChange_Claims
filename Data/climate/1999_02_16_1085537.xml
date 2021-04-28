@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="16OBSE$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1085537"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sleep</classifier>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Radon Gas</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Termites</classifier>
+        <classifier class="indexing_service" type="descriptor">Methane</classifier>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Sleep</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DD133AF935A25751C0A96F958260" item-length="703" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Researchers find that birds can sleep with one eye open and with one half of brain awake; new study shows that radon gas in the home poses less of a health hazard than previously thought; study finds that termites produce less methane than expected considering termite's all-wood diet (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Productive Sleeping</p>
+        <p>Anyone who has ever had too much to do and too little time to do it knows the feeling: So much more could be accomplished if there were some way to be asleep and awake at the same time.</p>
+        <p>Birds have figured out a way to do just that. They can sleep with one eye open and with one half of the brain awake. The phenomenon, known as unihemispheric slow-wave sleep, is thought to allow a snoozing bird to detect an approaching predator -- literally keeping an eye out for the enemy.</p>
+      </block>
+      <block class="full_text">
+        <p>Productive Sleeping</p>
+        <p>Anyone who has ever had too much to do and too little time to do it knows the feeling: So much more could be accomplished if there were some way to be asleep and awake at the same time.</p>
+        <p>Birds have figured out a way to do just that. They can sleep with one eye open and with one half of the brain awake. The phenomenon, known as unihemispheric slow-wave sleep, is thought to allow a snoozing bird to detect an approaching predator -- literally keeping an eye out for the enemy.</p>
+        <p>Now, researchers at Indiana State University have shown that birds can increase the amount of time they spend in unihemispheric sleep if there is a greater risk from predators. It is the first evidence, the scientists say, of an animal's controlling sleep and wakefulness in different parts of the brain at the same time.</p>
+        <p>The researchers, who reported on their study in a recent issue of Nature, worked with mallard ducks in groups of four, lined up in a row. The birds on the outside in each group -- more exposed to any potential predator -- spent more than twice the amount of time in unihemispheric sleep than those in the center. And during such sleep, the outside birds kept their outside eye open more than 85 percent of the time. Birds in the center, though, showed no preference for which eye they kept open.</p>
+        <p>Recalculating Radon</p>
+        <p>Home buyers are usually warned about the dangers of radon, a naturally occurring radioactive gas that can build up inside a tightly sealed home.</p>
+        <p>Alpha particle radiation as the gas decays can damage the DNA in lung tissue, potentially causing cancer.</p>
+        <p>But the extent of the threat is a subject of some debate. Because the level of radon in homes is low, estimates of the hazard have been made by extrapolating from studies of uranium miners, who are exposed to much higher levels of the gas. But a new study, detailed in The Proceedings of the National Academy of Sciences, shows that such extrapolation may overestimate the hazard in homes.</p>
+        <p>In high-level exposure, as in a mine, a single cell of lung tissue is hit by many alpha particles. But in a low-level situation, a cell is only very rarely hit by more than one particle. The problem for researchers has been to determine the cancer-causing effect of one-particle bombardment.</p>
+        <p>In the new study, researchers from Columbia University used a device called a charged-particle microbeam, which is capable of irradiating individual cell nuclei with a specific number of alpha particles. By irradiating thousands of lung-tissue cells from mice with exactly one particle each, the researchers determined that the frequency of DNA damage was quite low.</p>
+        <p>Watching Termites Eat</p>
+        <p>In the realm of high-fiber diets, the termite takes the cake, eating all wood all the time. It might be expected that digesting all that fiber would produce large amounts of methane gas. (Other creatures that eat a lot of fiber -- notably cows -- are big producers of methane, as anyone who has spent time on a dairy farm can attest.)</p>
+        <p>But many species of termites produce less methane than expected, and in a recent study in the journal Science, researchers from Michigan State University explained why. The researchers showed that a type of bacteria known as spirochetes in the guts of some termites catalyzed the production of acetate, rather than methane, as all that fiber was digested. The acetate became a major energy source for the insects. (The same could not be said for the methane gas produced by a cow.)</p>
+        <p>The researchers suggested that learning more about how termites digest their food could help improve nutrition for cows and other animals that did not eat as efficiently. Such research could also help cut down on the production of methane, which is a significant contributor to the greenhouse effect.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

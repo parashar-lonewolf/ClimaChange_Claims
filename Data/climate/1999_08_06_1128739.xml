@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Our Environment Deserves Better</title>
+    <meta content="LTR003436" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1128739"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Goldfarb, Steve</person>
+        <person class="indexing_service">Herbert, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5D71530F935A3575BC0A96F958260" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Our Environment Deserves Better</hl1>
+      </hedline>
+      <abstract>
+        <p>Steve Goldfarb letter comments on Aug 5 Bob Herbert column; says any Government regulation of greenhouse gases would necessarily be large scale, intrusive and ineffective</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bob Herbert (column, Aug. 5) tells us that global warming is here and that we should do something about it now. But what exactly can we do?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bob Herbert (column, Aug. 5) tells us that global warming is here and that we should do something about it now. But what exactly can we do?</p>
+        <p>Even assuming that human activities are raising the average temperature of the earth, which is probably but not definitely true, what are the alternatives? Chlorofluorocarbons have been banned, but does Mr. Herbert suggest that the Government regulate all greenhouse gases -- that is, all combustion?</p>
+        <p>Reducing the amount of carbon sent into the atmosphere in any real way would require a complete redesign of civilization. Replace fossil fuels? With what? Eliminate landfills? How? Change farming techniques? In what way? Any government regulation of greenhouse gases at this point would necessarily be large scale, intrusive and ineffective.</p>
+        <p>STEVE GOLDFARB  New York, Aug. 5, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

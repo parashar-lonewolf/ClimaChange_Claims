@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let's Hear It for Propane</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="557607"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">REFRIGERATORS</classifier>
+        <person class="indexing_service">ARONSON, DAVID</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEED8173AF933A1575AC0A964958260" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let's Hear It for Propane</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In "The Refrigerator of the Future, for Better or Worse" (Aug. 31), the author dismissed propane as a suitable refrigerant that would have no adverse impact on the ozone layer. Propane was ruled out on the basis of its being flammable.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In "The Refrigerator of the Future, for Better or Worse" (Aug. 31), the author dismissed propane as a suitable refrigerant that would have no adverse impact on the ozone layer. Propane was ruled out on the basis of its being flammable.</p>
+        <p>This undoubtedly was an important consideration at the time that Freon was developed by Du Pont. At that time, the refrigerant compressor was driven by an external motor so that a seal had to be placed where the shaft projected from the compressor casing. Failure of the seal would allow the refrigerant to escape, creating a fire hazard. This is no longer the case. Domestic refrigerators are all of the hermetic design with the motor and compressor in the same enclosure. Leakage of refrigerant is extremely rare, and when it does occur, the rate and amount are negligible.</p>
+        <p>The important point to note is that many households use propane routinely for barbecue grills or for campstoves. Another way to view the picture is that natural gas, which is flammable, is used in almost every American household despite the risk. Isn't it time that the bugaboo of the hazard of propane in domestic refrigerators be completely dismissed? DAVID ARONSON Upper Montclair, N.J., Aug. 31</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

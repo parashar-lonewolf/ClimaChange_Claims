@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Make a Villain of the Greenhouse Effect</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="158534"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <person class="indexing_service">BOORSTEIN, MARGARET F</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880703T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFDC173DF930A35754C0A96E948260" item-length="478" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Make a Villain of the Greenhouse Effect</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>''The Greenhouse Effect? Real Enough'' (editorial, June 23) warns of the danger of the earth's warming atmosphere, but some clarifications might strengthen your argument. The first concerns the difference between the naturally occurring greenhouse effect, which is necessary for life, and the intensification of this effect by human activity.</p>
+        <p>The greenhouse effect results from the passing of solar radiation (which is primarily short-wave radiation) through the atmosphere, and the absorption and transformation of this radiation by the earth into long-wave or heat radiation. The gases in the atmosphere cannot absorb the short-wave radiation, but some (carbon dioxide and water vapor, in particular) can absorb the long-wave radiation. Thus the sunlight passes through the atmosphere, which is transparent to it (much as sunlight passes through a transparent greenhouse), but the earth's radiation is ''trapped'' because the long-wave terrestrial radiation is absorbed by the carbon dioxide and water vapor.</p>
+        <p>Therefore, what heats the earth's atmosphere directly is not the sun, but the earth, through this reradiation - which is why, incidentally, the temperature is usually highest in midafternoon: the delay in the sun's maximum radiation, at noon, first heats the earth, and then the earth reradiates to heat the atmosphere.</p>
+        <p>If this greenhouse effect did not exist, the atmosphere would probably be too cold to support life. But human activities may have interfered with this natural process. The increased burning of carbon-based fuels that came with industrialization has increased the levels of carbon dioxide in the atmosphere, thus leading perhaps to more absorption of long-wave terrestrial radiation and higher temperatures. The temperature change may also have caused overall changes in weather patterns, including rainfall.</p>
+        <p>The deterioration of the ozone layer is a separate problem, as you say, probably resulting from chlorofluorocarbons. But its impact is different, as the loss of ozone may allow more short-wave radiation from the sun (especially ultraviolet) to pass through the atmosphere and hit the earth's surface. This increased ultraviolet radiation might increase human health risks including sunburn and skin-cancer incidence, as well as interfere with the normal operations of living organisms, including micro-organisms.</p>
+        <p>It is important that not only scientists but everyone recognize that these problems are extremely complicated, and their solution will be too. Failure to make distinctions between the naturally occurring and necessary greenhouse effect and its intensification, as well as its difference from the ozone-layer problem, endangers the possibility of finding any solution. MARGARET F. BOORSTEIN  Assoc. Prof. of Geology-Geography, Long Island University  Brookline, L.I., June 23, 1988</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

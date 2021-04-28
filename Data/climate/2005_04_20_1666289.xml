@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Blocked Again</title>
+    <meta content="20WED2$02" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/04/20/opinion/20wed2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1666289"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Johnson, Stephen</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Carper, Thomas (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Environmental Protection Agency</org>
+        <person class="online_producer">Johnson, Stephen</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7DC1631F933A15757C0A9639C8B63" item-length="380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Blocked Again</hl1>
+        <hl2 class="online_headline">Blocked Again</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial on trouble Stephen Johnson has been having winning Senate confirmation as EPA administrator; calls on Johnson to provide Sen Thomas Carper with long-delayed analysis of economic and environmental impact of clean air bill sponsored by Carper and others as alternative to Pres Bush's Clear Skies plan; argues that Johnson has to give some indication he will resist White House's political agenda</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A scientist who rose through the ranks at the Environmental Protection Agency , Stephen Johnson, has got to be wondering why he is having so much trouble winning Senate confirmation as the E.P.A. administrator. First, Senators Barbara Boxer of California and Bill Nelson of Florida held up the nomination until Mr. Johnson agreed to end a nutty experiment under which the E.P.A. essentially paid parents to allow monitoring of their children's exposure to dangerous pesticides. The nomination then moved to the Senate floor.</p>
+        <p>Last week, however, Senator Thomas Carper, Democrat of Delaware, balked. He announced that he would block a final vote unless Mr. Johnson provided, or promised to provide, a ''detailed technical analysis'' of the economic and environmental impact of a clean air bill sponsored by Mr. Carper and others as an alternative to President Bush's Clear Skies plan.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Before Stephen Johnson's nomination as E.P.A. administrator proceeds, we'd like to hear him promise to provide the analysis of a clean air bill offered as an alternative to President Bush's Clear Skies plan.</p>
+      </block>
+      <block class="full_text">
+        <p>A scientist who rose through the ranks at the Environmental Protection Agency , Stephen Johnson, has got to be wondering why he is having so much trouble winning Senate confirmation as the E.P.A. administrator. First, Senators Barbara Boxer of California and Bill Nelson of Florida held up the nomination until Mr. Johnson agreed to end a nutty experiment under which the E.P.A. essentially paid parents to allow monitoring of their children's exposure to dangerous pesticides. The nomination then moved to the Senate floor.</p>
+        <p>Last week, however, Senator Thomas Carper, Democrat of Delaware, balked. He announced that he would block a final vote unless Mr. Johnson provided, or promised to provide, a ''detailed technical analysis'' of the economic and environmental impact of a clean air bill sponsored by Mr. Carper and others as an alternative to President Bush's Clear Skies plan.</p>
+        <p>Mr. Carper asked the agency for this analysis more than two years ago. Such requests are usually granted as a matter of routine, and Mr. Carper suspects, not without reason, that the agency refused to act this time because an analysis would have shown his bill to be superior to Clear Skies. The senator says the agency gave him a mass of material but nothing approaching a reasoned analysis.</p>
+        <p>In a sense, Mr. Johnson is paying for past sins. On issues ranging from global warming to mercury, the E.P.A. has been asked by Mr. Bush's operatives to manipulate scientific evidence or, as in Mr. Carper's case, to withhold such evidence for political ends. This has shaken the agency's reputation for independent analyses and angered a lot of senators.</p>
+        <p>Mr. Carper believes that Mr. Johnson is qualified, as do we. But before the nomination proceeds, we'd like to hear Mr. Johnson promise to provide the long-delayed analysis. If he can give some indication that he will henceforth resist the White House's political agenda, so much the better.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

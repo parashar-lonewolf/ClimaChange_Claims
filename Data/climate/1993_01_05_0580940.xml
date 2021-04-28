@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19930108T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="580940"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D7133DF936A35752C0A965958260" item-length="527" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Save the Bubbles</p>
+        <p>Q.</p>
+        <p>French people say a silver spoon in the neck of an open Champagne bottle makes the bubbles last longer. Is there any truth to this?</p>
+      </block>
+      <block class="full_text">
+        <p>Save the Bubbles</p>
+        <p>Q.</p>
+        <p>French people say a silver spoon in the neck of an open Champagne bottle makes the bubbles last longer. Is there any truth to this?</p>
+        <p>A.  Probably not, but it might provide the excuse for a delightful home experiment, suggested Paul Doherty, a physicist who is director for the Center for Teaching and Learning at the Exploratorium, the hands-on science museum in San Diego.</p>
+        <p>Several bottles of Champagne would be needed to provide the proper controls, he said. For carbon dioxide, as for most gases, the amount that can be dissolved in a bottle of wine is a function of the temperature, he said; the colder the wine, the more carbon dioxide it can hold to make bubbles when it escapes. So at least two equally chilled bottles of the same size, one with a spoon and one without, would be needed.</p>
+        <p>The question then arises, is any difference that appears because of the presence of the metal silver or because of the physical barrier of the spoon? Although the fractional area of the neck of the bottle blocked by a spoon is very small, a further control would use another bottle with a plastic spoon.</p>
+        <p>Then, does the silver have to be in contact with the liquid? Presumably any catalytic activity would rely on having the metal in contact with the wine, but as Dr. Doherty pointed out, catalysts normally speed up reactions, rather than slowing them.</p>
+        <p>He said that he suspected that if a spoon did have any influence, it would be to speed up the escape of bubbles from the solution, but that there was only a slight possibility that silver could dissolve and have some catalytic or catalyst-inhibiting action.</p>
+        <p>"As a scientist, I doubt it, and cannot envision a mechanism by which it would work, but one good way to convince me is by doing the experiment," he said. A case or so of good Champagne should be enough, he suggested. Save the Peaches</p>
+        <p>Q.</p>
+        <p>At a fair, I saw an exhibit of canned peaches in glass jars. The sign said they were canned before World War I and were still safe to eat. Could that possibly have been right?</p>
+        <p>A.  "Yes, providing the food was properly processed originally to destroy microbes and providing the integrity of the container was not violated," said Dr. Joseph Hotchkiss, associate professor of food science at Cornell University in Ithaca, N.Y.,</p>
+        <p>With these important conditions, canned food under airtight seals in glass jars will remain safe to use for 100 years, Dr. Hotchkiss said, and old canned goods found in Arctic explorers' camps have been found to be safe after many decades. However, the color, flavor and nutrient content may have deterioriated, he said.</p>
+        <p>Metal cans are not designed to last for a century, he said, particularly cans made in the last 20 years, which are thinner and less durable than older models of iron coated with tin.</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+        <p>Correction:  January 8, 1993, Friday</p>
+        <p>An answer in the Q&amp;A column of Science Times on Tuesday about preserving champagne bubbles misstated the location of the Exploratorium science museum. It is in San Francisco.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 8, 1993, Friday</p>
+        <p>An answer in the Q&amp;A column of Science Times on Tuesday about preserving champagne bubbles misstated the location of the Exploratorium science museum. It is in San Francisco.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

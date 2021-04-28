@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Audrey Prins-Patt, Joshua Trachtenberg</title>
+    <meta content="08PRIN$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/07/08/fashion/weddings/08PRIN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1307737"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">PATT, AUDREY PRINS</person>
+        <person class="indexing_service">TRACHTENBERG, DR. JOSHUA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDF1538F93BA35754C0A9679C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Audrey Prins-Patt, Joshua Trachtenberg</hl1>
+        <hl2 class="online_headline">Audrey Prins-Patt and Joshua Trachtenberg</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Audrey Prins-Patt, a daughter of Carol Prins and Dr. Stephen Patt, both of Chicago, was married last evening to Dr. Joshua Trachtenberg, the son of Judith Trachtenberg and Dr. Michael Trachtenberg of Princeton, N.J. Rabbi Robert Marx officiated at the Elk Mountain Lodge in Aspen, Colo.</p>
+        <p>Ms. Prins-Patt, 30, is keeping her name. She was until May a consultant to the Chicago Foundation for Women, where she coordinated reproductive rights programs. She graduated summa cum laude from Wesleyan University. Her father is a psychiatrist in Chicago. Her mother is a member of the board of the Joffrey Ballet and of the Goodman Theater, both in Chicago. The bride is a stepdaughter of John Hart.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Audrey Prins-Patt, a daughter of Carol Prins and Dr. Stephen Patt, both of Chicago, was married last evening to Dr. Joshua Trachtenberg, the son of Judith Trachtenberg and Dr. Michael Trachtenberg of Princeton, N.J</p>
+      </block>
+      <block class="full_text">
+        <p>Audrey Prins-Patt, a daughter of Carol Prins and Dr. Stephen Patt, both of Chicago, was married last evening to Dr. Joshua Trachtenberg, the son of Judith Trachtenberg and Dr. Michael Trachtenberg of Princeton, N.J. Rabbi Robert Marx officiated at the Elk Mountain Lodge in Aspen, Colo.</p>
+        <p>Ms. Prins-Patt, 30, is keeping her name. She was until May a consultant to the Chicago Foundation for Women, where she coordinated reproductive rights programs. She graduated summa cum laude from Wesleyan University. Her father is a psychiatrist in Chicago. Her mother is a member of the board of the Joffrey Ballet and of the Goodman Theater, both in Chicago. The bride is a stepdaughter of John Hart.</p>
+        <p>Dr. Trachtenberg, 32, is a postdoctoral fellow in neuroscience at the Cold Spring Harbor Laboratory, a research and educational institution in Cold Spring, N.Y. He graduated from Brandeis and received a doctorate in neuroscience from the University of Texas. His father is the director of the Sapient's Institute, a research organization in New Brunswick, N.J., which is developing products to purify the air and reduce greenhouse gases. The bridegroom's mother was the behavior consultant at Reach Unlimited, a residential program for mentally retarded adults in Houston.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

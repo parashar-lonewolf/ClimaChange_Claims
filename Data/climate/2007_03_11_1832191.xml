@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CARS COME OUT IN SWITZERLAND</title>
+    <meta content="11GENEVA" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1832191"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E6D91231F932A25750C0A9619C8B63" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CARS COME OUT IN SWITZERLAND</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In Europe, the auto industry's annual migration to Geneva is a sure sign of spring. Last week, movers and shakers gathered for a car show on this neutral ground -- Switzerland has no domestic automakers -- to celebrate what they have accomplished and ponder where they are going.</p>
+        <p>Mark Landler reports on the reluctance of German makers to cut carbon dioxide emissions.  Nick Kurczewski looks at significant new models at the show.  Richard Feast reflects on changes he has seen in a quarter-century of Geneva shows.  nytimes.com/autos</p>
+      </block>
+      <block class="full_text">
+        <p>In Europe, the auto industry's annual migration to Geneva is a sure sign of spring. Last week, movers and shakers gathered for a car show on this neutral ground -- Switzerland has no domestic automakers -- to celebrate what they have accomplished and ponder where they are going.</p>
+        <p>Mark Landler reports on the reluctance of German makers to cut carbon dioxide emissions.  Nick Kurczewski looks at significant new models at the show.  Richard Feast reflects on changes he has seen in a quarter-century of Geneva shows.  nytimes.com/autos</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Giving the Battery, That Stalwart, a Fuel-Cell Challenge</title>
+    <meta content="26HOWW$01" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/08/26/technology/circuits/26howw.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1606600"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="HOW IT WORKS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Cells</classifier>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/How It Works</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Hitachi Limited</org>
+        <org class="online_producer">Dupont E I Nemours &amp; Company</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E2D6123EF935A1575BC0A9629C8B63" item-length="1092" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Giving the Battery, That Stalwart, a Fuel-Cell Challenge</hl1>
+        <hl2 class="online_headline">Giving the Battery, That Stalwart, a Fuel-Cell Challenge</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>How It Works column on replacing batteries with methanol based fuel cells to power small electronic devices; drawings show how fuel cells convert chemical energy into electricity; (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EVERY time engineers who develop rechargeable batteries come up with a new trick to extend the time between charges, the electronics industry introduces new features in portable gadgets that have the opposite effect.</p>
+        <p>Take mobile phones. ''At this point in terms of cellphones, most consumers are pretty satisfied with their battery performance,'' said Ross Rubin, the director of industry research at NPD TechWorld, a company that tracks consumer spending on electronics. But Mr. Rubin does not expect that satisfaction to last as more phones come equipped with cameras and other features that gobble power.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Fuel cells made with methanol aim to keep cellphones and other portable devices running far longer than batteries do.</p>
+      </block>
+      <block class="full_text">
+        <p>EVERY time engineers who develop rechargeable batteries come up with a new trick to extend the time between charges, the electronics industry introduces new features in portable gadgets that have the opposite effect.</p>
+        <p>Take mobile phones. ''At this point in terms of cellphones, most consumers are pretty satisfied with their battery performance,'' said Ross Rubin, the director of industry research at NPD TechWorld, a company that tracks consumer spending on electronics. But Mr. Rubin does not expect that satisfaction to last as more phones come equipped with cameras and other features that gobble power.</p>
+        <p>While there is still room for improvement in battery technologies, some companies are hoping that a better answer can be found in miniature fuel cells.</p>
+        <p>''The battery has become the laggard in new technology,'' said William P. Acker, president and chief executive of MTI Micro Fuel Cells, a miniature-fuel-cell developer based in Albany.</p>
+        <p>Unlike the fuel cells that are being touted as a way to power cars and trucks, the smaller versions do not use hydrogen gas as a fuel. Hydrogen is explosive, and using it with small devices would pose storage and safety problems. If nothing else, security concerns would probably make it impossible for airline passengers to carry, say, an MP3 player with even a small cylinder of hydrogen attached.</p>
+        <p>Instead, the fuel of choice in small fuel cells is methanol, an alcohol that is most commonly produced from natural gas, although it can be produced using coal or even the foul-smelling gas from landfills. Inside the cell, the methanol combines with water to make carbon dioxide, hydrogen ions and electrons.</p>
+        <p>The edge hydrogen holds over the various chemicals used in rechargeable batteries is its ability to store much more potential electricity in any amount of space. Dr. Acker said that methanol has 20 to 30 times the ''energy density'' of materials currently used to make, say, cellphone batteries, although he acknowledged that the figure represented theoretical limits.</p>
+        <p>In the case of both the MTI Micro fuel cell and another methanol-based system being developed by Hitachi, palmtops and cellphones would no longer need recharging cradles. Both fuel-cell systems instead look back to the days when most electronics relied on disposable batteries.</p>
+        <p>''There will be a need to change consumer behavior,'' Dr. Acker said. ''But by virtue of changing their behavior, consumers will be getting the benefit of a longer run time.''</p>
+        <p>Both systems replace batteries with relatively tiny fuel cells. Prototypes developed by Hitachi store their methanol supply in disposal containers about the size and shape of a conventional AA battery. MTI Micro is leaning toward a square flat cartridge, although Dr. Acker said it would be possible to create oddly shaped fuel containers that would make the maximum use of empty spaces inside hand-held gadgets.</p>
+        <p>Original methanol fuel cells were, in Dr. Acker's view, too complex for hand-held use. Among other things, they relied on pumps to move the methanol and the water that is a byproduct of the cell's operation.</p>
+        <p>Both company's fuel cells must have water on both sides of a membrane for the methanol to flow and produce electricity. Hitachi's answer is fairly simple: it mixes the methanol in the fuel tank with water. But Dr. Acker's company rejects that approach because by diluting the methanol, it reduces the total energy that a tankful can provide.</p>
+        <p>The MTI Micro fuel cells instead are based on a membrane developed by DuPont, which owns a small stake in the fuel-cell company. Somewhat like a Gore-Tex jacket, its structure and the materials it is made of allow some water to flow over to the side where the pure methanol enters.</p>
+        <p>Duracell, the battery maker owned by Gillette, is another investor in MTI Micro. Dr. Acker said he expected Duracell to produce and market methanol refills some day in the same way it now offers batteries.</p>
+        <p>But the refills will last much longer than batteries and will probably not be particularly expensive, Dr. Acker said.</p>
+        <p>''The pricing will mostly be a related to the cost of packing and marketing,'' he said. ''A gallon of methanol costs about a dollar and will power a typical cellphone for about 10 years.''</p>
+        <p>Kara Salzillo, a spokeswoman for Gillette, declined to discuss the company's methanol refill plans. ''We are partnering with them in their research,'' Ms. Salzillo said of MTI Micro. ''We are really still in an evaluation phase with them.''</p>
+        <p>Both systems have another advantage over batteries: the spent fuel cartridges will not contain potentially toxic waste chemicals.</p>
+        <p>MTI Micro hopes to have its fuel cells powering a hand-held wireless tag reader of the kind used in stores and warehouses by the end of this year. A spokesman for the United States division of Hitachi said a cellphone with fuel-cell technology is likely to reach the market in Japan early next year.</p>
+        <p>HOW IT WORKS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

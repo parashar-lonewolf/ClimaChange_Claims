@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reefs, Ozone and the Dollar</title>
+    <meta content="LTR222902" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1189277"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Coral Reefs</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <person class="indexing_service">Crawford, T M</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E4D6163FF937A35757C0A9669C8B63" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reefs, Ozone and the Dollar</hl1>
+      </hedline>
+      <abstract>
+        <p>T M Crawford letter on Federal plan to rescue coral reefs (March 28 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Federal Officials Devise a Plan to Rescue Coral Reefs'' (March 28), D. James Baker of the Commerce Department has stated clearly our nation's attitude toward the world in which we live. The demise of 70 percent of the coral reefs by 2050 poses ''a serious threat to business, consumers, communities and the environment.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Federal Officials Devise a Plan to Rescue Coral Reefs'' (March 28), D. James Baker of the Commerce Department has stated clearly our nation's attitude toward the world in which we live. The demise of 70 percent of the coral reefs by 2050 poses ''a serious threat to business, consumers, communities and the environment.''</p>
+        <p>God forbid that business and consumers be inconvenienced and let us only keep house if there's money to be made. This is the same thinking that is costing us our ozone layer. If people are still alive in 100 years, they will look back on us as the most selfish, stupid, thieving civilization in history.</p>
+        <p>T. M. CRAWFORD  Berkeley, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

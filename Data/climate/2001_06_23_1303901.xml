@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: European Union: Boeing Criticized</title>
+    <meta content="MB001933" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1303901"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <org class="indexing_service">Boeing Co</org>
+        <org class="indexing_service">European Union</org>
+        <person class="indexing_service">Wallstrom, Margot</person>
+        <person class="indexing_service">Meller, Paul</person>
+        <person class="indexing_service">Stonecipher, Harry C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E4DF1230F930A15755C0A9679C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: European Union: Boeing Criticized</hl1>
+      </hedline>
+      <byline class="print_byline">By Paul Meller (NYT)</byline>
+      <byline class="normalized_byline">Meller, Paul</byline>
+      <abstract>
+        <p>Margot Wallstrom, European environment commissioner, scores Boeing vice chairman Harry Stonecipher for being nonchalant about environmental effect of Boeing's proposed high-speed jet (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The European environment commissioner, Margot Wallstrom, criticized an executive of Boeing as being nonchalant about the environmental effect of the company's proposed high-speed jet. Ms. Wallstrom criticized comments made by Harry Stonecipher, vice chairman of Boeing, in a recent interview with The Times of London in which he accused critics of the so-called Sonic Cruiser as riding the environmental bandwagon. Ms. Wallstrom said the hour saved on a trans-Atlantic flight would not be worth the 35 percent increase in fuel use and the increase in carbon dioxide emissions that Boeing projects for the plane, which will travel at 95 percent of the speed of sound.</p>
+        <p>Paul Meller (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The European environment commissioner, Margot Wallstrom, criticized an executive of Boeing as being nonchalant about the environmental effect of the company's proposed high-speed jet. Ms. Wallstrom criticized comments made by Harry Stonecipher, vice chairman of Boeing, in a recent interview with The Times of London in which he accused critics of the so-called Sonic Cruiser as riding the environmental bandwagon. Ms. Wallstrom said the hour saved on a trans-Atlantic flight would not be worth the 35 percent increase in fuel use and the increase in carbon dioxide emissions that Boeing projects for the plane, which will travel at 95 percent of the speed of sound.</p>
+        <p>Paul Meller (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

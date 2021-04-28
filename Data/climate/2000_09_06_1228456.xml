@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dry Muscadet, Oysters' Foil</title>
+    <meta content="06TAST" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/06/living/06TAST.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1228456"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TASTINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <person class="indexing_service">Asimov, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000906T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E6D71F30F935A3575AC0A9669C8B63" item-length="428" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dry Muscadet, Oysters' Foil</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Asimov</byline>
+      <byline class="normalized_byline">Asimov, Eric</byline>
+      <abstract>
+        <p>Eric Asimov reviews sampling of French Muscadet wines; table; map (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's hard to imagine a better meal on arriving in Paris than a plate of oysters and a carafe of muscadet, the house white of many cafes. The wine's dry, almost saline quality seems to come directly from the sea. In fact, the vineyards, at the western end of the Loire around Nantes, are close to where the river empties into the Atlantic.</p>
+        <p>It galls me that so few shellfish restaurants in New York offer a decent muscadet. The most likely reason is that it has a plebeian reputation, and many people assume that a luxury item like oysters requires a wine of equal status. But if you try both a muscadet and an expensive California chardonnay with a dozen on the half shell, the wisdom in saving a few bucks becomes clear.</p>
+      </block>
+      <block class="full_text">
+        <p>It's hard to imagine a better meal on arriving in Paris than a plate of oysters and a carafe of muscadet, the house white of many cafes. The wine's dry, almost saline quality seems to come directly from the sea. In fact, the vineyards, at the western end of the Loire around Nantes, are close to where the river empties into the Atlantic.</p>
+        <p>It galls me that so few shellfish restaurants in New York offer a decent muscadet. The most likely reason is that it has a plebeian reputation, and many people assume that a luxury item like oysters requires a wine of equal status. But if you try both a muscadet and an expensive California chardonnay with a dozen on the half shell, the wisdom in saving a few bucks becomes clear.</p>
+        <p>Muscadet is one of those rare French wines named for a grape rather than for a region. Confusingly, the muscadet grape is also known as the melon de Bourgogne, reflecting its origins in Burgundy. The best muscadets come from three appellations: The largest is Muscadet de Sevre-et-Maine, followed by Muscadet Cotes de Grand Lieu and the Muscadet des Coteaux de la Loire.</p>
+        <p>The best muscadets are also made sur lie, meaning the newly fermented wine is left in contact with the lees, or sediment of fermentation, which can include dead yeast cells and grape fragments. This contributes carbon dioxide, which accounts for the pleasant sparkle in many bottles.</p>
+        <p>SERGE BATARD, DOMAINE LES HAUTES NOELLES,  MUSCADET COTES DE GRAND LIEU SUR LIE 1998 : $10  Bright lemon and melon aromas, with a lively taste of the sea.</p>
+        <p>GILBERT CHON ET FILS, DOMAINE DE LA JOUSSELINIERE,  MUSCADET DE SEVRE -ET-MAINE SUR LIE 1999: $8  Aroma of lemons and limes, dry with depth and length.</p>
+        <p>CHATEAU DE LA CHESNAIE,  MUSCADET DE SEVRE-ET-MAINE SUR LIE 1999: $8  Lemon and salt aromas, bright, brisk and sparkly.</p>
+        <p>GUITTENY-PAUVERT, DOMAINE DE LA BORNE,  MUSCADET DE SEVRE-ET-MAINE SUR LIE 1999: $10  Aromas of lemon, melon and herbs, tart and dry.</p>
+        <p>PIERRE LUNEAU-PAPIN, CLOS DU POYET,  MUSCADET DE SEVRE-ET-MAINE SUR LIE 1998: $9.50  Floral and saline aromas, light and briny.</p>
+        <p>MARC OLLIVIER, DOMAINE DE LA PEPIERE,  MUSCADET DE SEVRE-ET-MAINE SUR LIE 1998 $9  Yeasty, briny aroma, fresh and clean with a long finish.</p>
+        <p>Listed in order of preference. Prices are those paid in various Manhattan wine shops.</p>
+        <p>TASTINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

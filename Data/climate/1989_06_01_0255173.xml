@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Storing Nuclear Waste Called Safer Than Burial</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="255173"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">NUCLEAR WASTES</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <org class="indexing_service">ENERGY, DEPARTMENT OF</org>
+        <person class="indexing_service">MAKHIJANI, ARJUN</person>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nuclear Wastes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5D9153EF932A35755C0A96F948260" item-length="548" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Storing Nuclear Waste Called Safer Than Burial</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A new study of how to dispose of highly radioactive wastes concludes that a century of storage at reactor sites would be safer than current plans to bury the waste in southern Nevada, where geologic and climactic conditions are poorly understood.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A new study of how to dispose of highly radioactive wastes concludes that a century of storage at reactor sites would be safer than current plans to bury the waste in southern Nevada, where geologic and climactic conditions are poorly understood.</p>
+        <p>A new study of how to dispose of highly radioactive wastes concludes that a century of storage at reactor sites would be safer than current plans to bury the waste in southern Nevada, where geologic and climactic conditions are poorly understood.</p>
+        <p>The study was released yesterday by Arjun Makhijani, a nuclear physicist and independent researcher who has previously made extensive studies of waste handling by the Department of Energy. It also concluded that the department was ill-suited to the task of finding a place to bury waste from reactors at civilian electrical utilities.</p>
+        <p>Referring to the multibillion-dollar environmental problems that resulted from the production of nuclear bombs, the department's main work, Dr. Makhijani wrote, ''Self-regulation and secrecy have created a sorry environmental record and a frequent inability to conduct scientific inquiry regarding sensitive subjects with integrity and openness.'' Utilities Want to Move Quickly</p>
+        <p>The wastes will be dangerously radioactive for millions of years, but the most intensely radioactive materials die down in the first few decades. Dr. Makhijani, who is affiliated with the Institute for Energy and Environmental Research, noted that 10-year-old nuclear fuel has only 15 percent as much radiation as one-year-old fuel, and 100-year-old fuel has only about 1.5 percent as much.</p>
+        <p>Delaying permanent storage of the waste would allow radiation in old reactors to die down, making it easier to dismantle them, he said. Most utilities maintain, however, that quick decommissioning would be cheaper than long-term surveillance that would be necessary if decommissioning was delayed.</p>
+        <p>Dr. Makhijani said the delay would also add time for growth in knowledge of geology and climate change. The key attraction of Yucca Mountain, the site in Nevada just west of the nation's testing site for nuclear weapons, is very low rainfall, but over the tens of thousands of years that the site would have to contain the waste, the climate could change, he said.</p>
+        <p>The Energy Department is rushing to determine the suitability of the Nevada site under a Federal law that calls for the Government to begin accepting spent nuclear fuel from civilian reactors by 2003. But further delays seem likely, and several utilities have begun building giant casks to store the fuel, with others certain to follow, as the storage pools inside their reactor buildings slowly fill. Waste Disposal Work Criticized</p>
+        <p>The Energy Department's management of the work has been criticized by the Nuclear Regulatory Commission, the General Accounting Office and the civilian nuclear industry. At the National Association of Regulatory Utility Commissioners, a group formed by state regulators, Ronald C. Callen, staff director for the subcommittee on nuclear waste disposal, said yesterday: ''The Department of Energy is just blowing money like it was going out of style. They've blown through $2 billion now, and we're still dealing with paperwork.''</p>
+        <p>Mr. Callen added that the history of the waste repository effort, with numerous missed deadlines and increases in cost estimates, strongly resembled the pattern of nuclear reactor projects that were later abandoned. ''It suggests management is not in control of the program,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

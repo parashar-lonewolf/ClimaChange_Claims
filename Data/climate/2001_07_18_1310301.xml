@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Panel Says U.S. Spending On Energy Is Paying Off</title>
+    <meta content="Y18RES$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/07/18/national/18RESE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1310301"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Energy Department</org>
+        <org class="indexing_service">National Academy of Sciences</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Washington</location>
+        <org class="online_producer">National Academy of Sciences,Energy Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010718T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EEDA1F3BF93BA25754C0A9679C8B63" item-length="376" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Panel Says U.S. Spending On Energy Is Paying Off</hl1>
+        <hl2 class="online_headline">Energy Research Support by Government Is Praised</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, July 17</dateline>
+      <abstract>
+        <p>Study by National Academy of Sciences finds that federal money spent on energy research and development over last 22 years has generally been well spent, despite inconsistent accounting; tracks 17 programs on which Energy Department spent $13 billion, and finds about $40 billion in benefits (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Money that the federal government has put into research and development for energy efficiency and fossil fuel production during the last 22 years has generally been well spent, a National Academy of Sciences committee said today.</p>
+        <p>But the study also found that the government had sometimes used inconsistent accounting to keep track of the costs and benefits of that spending.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>WASHINGTON, July 17  Money that the federal government has put into research and development for energy efficiency and fossil fuel production during the last 22 years has generally been well spent, a National Academy of Sciences committee said today</p>
+      </block>
+      <block class="full_text">
+        <p>Money that the federal government has put into research and development for energy efficiency and fossil fuel production during the last 22 years has generally been well spent, a National Academy of Sciences committee said today.</p>
+        <p>But the study also found that the government had sometimes used inconsistent accounting to keep track of the costs and benefits of that spending.</p>
+        <p>The committee tracked 17 programs on which the Energy Department had spent $13 billion. It found that the programs had produced about $40 billion in benefits, some of which went to individual companies, but others that accrued to society as a whole. For example, technologies that reduced pollution beyond the levels required by law did not increase profits for industry, but saved the public from environmental damage, the report said.</p>
+        <p>Other programs produced benefits by demonstrating technologies that were not yet economic but would become useful options should the price of fuel or electricity rise. Others simply expanded knowledge of technology in ways likely to be helpful later, the report said.</p>
+        <p>''Most people focus on the realized economic benefits,'' said Jack S. Siegel, who led the group's subcommittee on fossil fuels energy. ''We're trying to point out that there are a variety of other benefits, the environmental benefit, the security benefit, and the options benefits, technologies that may sit on the shelf for a while until market conditions change.''</p>
+        <p>While the study said that the Energy Department had not applied uniform methods to track costs and benefits, it found that federal spending was effective in ''fragmented'' sectors of the economy, in which individual companies could not afford the research investments.</p>
+        <p>An example the group cited was low-emissivity glass, which keeps infrared energy from passing through and thus helps winter heating and summer cooling.</p>
+        <p>Another example it described was refrigerators. Electricity consumption in refrigerators, the largest users of energy in houses that do not have central air conditioning, is down by two-thirds since 1974, though refrigerators have gotten bigger. By providing research and development money, the government could set consumption standards and cut electricity use -- while saving consumers money, the report said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

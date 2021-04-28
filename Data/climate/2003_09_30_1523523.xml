@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taking the Oceans' Pulse, With Help From Robot Subs</title>
+    <meta content="30SUB.$06" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/09/30/science/30SUB.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20031006T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1523523"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <classifier class="indexing_service" type="descriptor">Autonomous Ocean Sampling Network</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Submarines</classifier>
+        <classifier class="indexing_service" type="descriptor">Fishing, Commercial</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <classifier class="indexing_service" type="descriptor">Migration</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <location class="indexing_service">Monterey Bay (Calif)</location>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Submarines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migration</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ships and Shipping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E0DB113DF933A0575AC0A9659C8B63" item-length="1625" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taking the Oceans' Pulse, With Help From Robot Subs</hl1>
+        <hl2 class="online_headline">Taking the Oceans Pulse, With Help From Robot Subs</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>Autonomous Ocean Sampling Network, Monterey Bay (Calif) project, is collaborative effort involving 14 institutions and fleet of 21 robotic submarines, ships, airplanes and satellites equiped for extensive data collection; oceanographers, in effort similar to meteorologists forcasting weather, hope to improve prediction capabilities and develop better understanding of currents and their effects; roadblocks to successful data analysis and collection discussed; ecological issues, such as health of fishing grounds, marine migration and effects of global warming, are to be assessed through underwater testing; Monterey Bay's unique canyon-like topography is analyzed; maps; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Oceanographers can talk about the ocean like the climate, describing the arc of major currents and how phenomena like the warm waters of El Niño in the eastern Pacific evolve over months.</p>
+        <p>What they cannot do is talk about ocean like the weather, forecasting whether eddies in the currents will flow north or south today or when an upwelling of cold water from the depths will appear off the coast.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The rise of robotic submarines may help oceanographers with studies as diverse as the health of fisheries and global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>Oceanographers can talk about the ocean like the climate, describing the arc of major currents and how phenomena like the warm waters of El Niño in the eastern Pacific evolve over months.</p>
+        <p>What they cannot do is talk about ocean like the weather, forecasting whether eddies in the currents will flow north or south today or when an upwelling of cold water from the depths will appear off the coast.</p>
+        <p>''The weather community is 20, 30 years ahead of us,'' said Dr. James G. Bellingham, director of engineering at the Monterey Bay Aquarium Research Institute in Moss Landing, Calif. ''And it's a harder problem in the ocean.''</p>
+        <p>Now, the rise of robotic submarines may help scientists open up some of those mysteries. By spending hours or weeks in the depths of the ocean, these subs are able to gather data of importance to studies as diverse as the health of fisheries and global warming.</p>
+        <p>Early in August, a fleet of 21 robotic subs -- as well as research ships, airplanes and satellites -- converged on and over Monterey Bay in an ambitious project to try to understand the complex interplay of currents, the largest such effort ever.</p>
+        <p>The 14 participating institutions included the Woods Hole Oceanographic Institution, Princeton, Harvard, NASA's Jet Propulsion Laboratory and the Scripps Institution of Oceanography. The Office of Naval Research financed the project.</p>
+        <p>''It's a fascinating coming together of people who do their science in very different ways,'' said Dr. Russ E. Davis of Scripps, which is in San Diego. ''We realize the problems are all interconnected, so no one person, group or even institution can see enough of the parts to make sense of them.''</p>
+        <p>Until now, oceanographers have been at a severe disadvantage in their efforts to gather data.</p>
+        <p>Satellites look at oceans globally, but detect conditions at the surface only.</p>
+        <p>To look farther down, ships tow underwater platforms of instruments -- but that tends to occur only every few months or years, and only in small swaths of the ocean.</p>
+        <p>In some places, instruments tied to the ocean floor monitor continuously, but those tell what is going on only at those few locations.</p>
+        <p>''Ocean weather'' is important for several major ecological issues. The flows of nutrients and microscopic plants and animals play a large role in the health of fishing grounds. For example, a report in the journal Science in January argued that the collapse of the sardine industry in Monterey Bay in the 1950's was primarily caused by cooling waters of a natural 50-year ocean cycle that drove the fish away, not overfishing as previously believed.</p>
+        <p>Oceans also currently absorb about half the carbon dioxide produced by the burning of fossil fuels. Carbon dioxide is the ''greenhouse gas'' blamed by most scientists for most of the global warming observed in the past century. Without a better understanding of ocean currents, scientists cannot say whether the oceans can continue to absorb that much carbon dioxide or whether they will start belching it back into the air, accelerating the warming.</p>
+        <p>Monterey Bay, 60 miles south of San Francisco, is an unusual environment. Unlike the shallow continental shelf off most coasts, the Monterey Bay sea floor drops sharply not far offshore to depths of two miles, resembling a submerged Grand Canyon.</p>
+        <p>The dynamics of the oceans are more complex than those of the weather. A weather system in the atmosphere spans hundreds or thousands of miles wide; the equivalent in the ocean can be only tens of miles wide. A wider range of chemical reactions occurs in the oceans, and the dense menagerie of life that inhabits them further alters the chemistry.</p>
+        <p>In the $8 million monthlong Monterey Bay project, called an Autonomous Ocean Sampling Network, the scientists sought to understand the upwelling currents that bring nutrients for plankton from the depths. The combination of winds blowing to the south with the rotation of the earth produces a force that pushes the warm surface water westward, away from shore. This allows the cold water below to rise to the surface. The nutrients lead to blooms of plankton, which in turn feed fish.</p>
+        <p>A dozen robotic submarines from Woods Hole plied the coastal waters. Their makers call the vehicles gliders. Powered by 250 C-size alkaline batteries -- industrial-grade versions of what powers flashlights -- the gliders are parsimonious in power, which allows them to operate for weeks at a time.</p>
+        <p>The torpedo-shaped vehicles, about two yards long, have two wings and no propellers. Instead, the gliders rise and fall by pumping ballast water in and out, and the force of the water against the wings translates into a forward motion, about half a mile an hour. ''It goes as fast as a good swimmer,'' said Paul D. Fucile, a research engineer at Woods Hole.</p>
+        <p>The gliders measure the temperature and electrical conductivity of the water, which tells how salty it is. Another instrument measures how much light is available for microscopic plants to photosynthesize. To count the microscopic plants, known as phytoplankton, another instrument emits blue light, which is absorbed by chlorophyll in the phytoplankton and re-emitted as red light.</p>
+        <p>A second set of gliders from Scripps operated farther out to monitor the interaction of the major ocean currents offshore with Monterey Bay.</p>
+        <p>During the experiment, researchers from Princeton tested a new data-gathering strategy inspired by schools of fish, guiding three Woods Hole gliders in a triangle formation. That allowed them to observe variations in temperature and other properties extending over several miles, potentially allowing them to identify interesting regions to focus on. ''The idea is to forage for data,'' said Dr. Ralf Bachmayer, a research associate at Princeton.</p>
+        <p>Meanwhile, Dorado, a zippier propeller-driven robotic submarine developed by the Monterey Bay Aquarium Research Institute, made a series of runs across the bay. (While Dorado moves much faster and carries a larger suite of instruments, its batteries run out within one day.) In addition to counting phytoplankton, Dorado also recorded the brightness of glowing microscopic animals, or zooplankton, in the water.</p>
+        <p>Within the bay, phytoplankton and the zooplankton that eat them live together, but the data showed a layered biology outside the bay. The highest densities of phytoplankton were near the surface, while the zooplankton, for reasons not yet understood, congregated a bit deeper.</p>
+        <p>Additional data came from an airplane that crisscrossed the bay every day and from weather satellites. To see how they understood all the data, two computer models, one from Harvard and the other from the Jet Propulsion Laboratory, absorbed the information and tried to predict the patterns of currents and ocean temperatures in the following days.</p>
+        <p>In some cases, the models diverged from reality. In mid-August, the Harvard model predicted that warm water squirted out from the bay would pinch off the cold water welling up at the bay's northern end, but the patch of cold water persisted. The Jet Propulsion Laboratory model produced water temperatures somewhat colder than observed.</p>
+        <p>But Dr. Bellingham of the aquarium institute said that ''both models got the general upwelling features about right,'' with the upwelling at the southern side of the bay, off Point Sur, stronger than the one at the north end. The discrepancies of the smaller features are ''something we're still trying to sort out,'' he said.</p>
+        <p>Dr. Allan R. Robinson, developer of the Harvard model, said, ''By the middle of the month, we were producing quite valid and useful forecasts.'' Because oceanographers do not have an unlimited number of ships and subs, he added, ''if you can forecast for tomorrow and the day after tomorrow, you can send your observation assets to the most important places.''</p>
+        <p>Dr. Bellingham said the researchers would spend two years analyzing their wealth of data before reassembling their fleet of instruments for a follow-up project in 2005.</p>
+        <p>Near the end of the project, the modelers combined their efforts to predict boundaries between regions of water that do not mix, where flows of currents produce virtual, unseen ''walls.'' The scientists then dropped some drifting instruments in that part of the bay. To their surprise, at least one drifter bounced off the walls almost exactly as predicted.</p>
+        <p>''Maybe we got lucky on that one,'' Dr. Bellingham said. ''It was very exciting to see. That meant the model couldn't be that wrong.''</p>
+        <p>Correction:  October 6, 2003, Monday  A map in Science Times on Tuesday with an article about forecasting ocean conditions misspelled the name of a canyon in Monterey Bay. It is Soquel Canyon, not Sequel.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: October 6, 2003, Monday</p>
+        <p>A map in Science Times on Tuesday with an article about forecasting ocean conditions misspelled the name of a canyon in Monterey Bay. It is Soquel Canyon, not Sequel.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

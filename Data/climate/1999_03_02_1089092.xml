@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="02OBSE" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1089092"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Glass</classifier>
+        <classifier class="indexing_service" type="descriptor">Oxygen</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <location class="indexing_service">Jupiter</location>
+        <org class="indexing_service">University of Arizona</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oxygen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Glass</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990302T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E1D8133CF931A35750C0A96F958260" item-length="721" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Team of engineers at University of Arizona is building device that can produce oxygen from carbon dioxide, for use when humans visit other planets; device would not work well on Callisto, one of Jupiter's moons, which has carbon dioxide atmosphere with surface pressure less than 10-trillionths that of Earth; drawing; researchers design way to temper glass that allows cracks to develop and propagate in stable manner, without total failure; until now tempered glass breaks catastrophically when stress exceeds certain level (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Building a Lifeline on Mars</p>
+        <p>If humans are ever to visit other planets in this solar system or beyond, most of the air, food, water and fuel for survival will have to be produced on site. After all, space travel is no picnic, and it is impractical to bring your own.</p>
+      </block>
+      <block class="full_text">
+        <p>Building a Lifeline on Mars</p>
+        <p>If humans are ever to visit other planets in this solar system or beyond, most of the air, food, water and fuel for survival will have to be produced on site. After all, space travel is no picnic, and it is impractical to bring your own.</p>
+        <p>Now, a team of engineers at the University of Arizona is taking a small step toward self-sufficiency in space. They are building an instrument that when it arrives on Mars as expected in January 2002 will be the first to produce one of the necessities for life from other-worldly sources.</p>
+        <p>The device is a tiny generator that will produce oxygen from carbon dioxide in the planet's atmosphere by electrolysis. It will be aboard the unmanned Mars Surveyor lander that is due to be launched in 2001.</p>
+        <p>The generator is an experimental one, and the small amounts of oxygen produced, about a cubic centimeter per minute, will not be put to use. But the developers of the project hope that bigger models on future space probes will provide enough oxygen to power a drill to take core samples or even help fuel a rocket to return samples to Earth. And the same technology, on a much bigger scale, could eventually help humans colonize Mars and other planets.</p>
+        <p>Into the Thinnest Air</p>
+        <p>Future colonizers, however, might want to skip Callisto, one of Jupiter's moons. New research shows that the moon has a carbon dioxide atmosphere, but one with a surface pressure less than 10-trillionths that of Earth. Such thin air would leave even an oxygen generator gasping for breath.</p>
+        <p>The study, by a scientist at the National Aeronautics and Space Administration's Jet Propulsion Laboratory, used a spectrometer aboard the Galileo spacecraft to determine the composition of the atmosphere, finding evidence of carbon dioxide up to 60 miles above the moon's surface.</p>
+        <p>The researcher, discussing the findings in a recent issue of Science, noted that the carbon dioxide may be coming from Callisto's interior, or by radiation's acting on carbon-bearing compounds on the surface. Or the gas may have been the result of bombardment by meteors and comets over the eons.</p>
+        <p>The researcher calculated that whatever the source, without constant replenishment the atmosphere would last only about four years, as the ultraviolet radiation ionized the carbon dioxide molecules and the ions were swept away by Jupiter's magnetic field.</p>
+        <p>Breaking Glass, Slowly</p>
+        <p>Normally, breaking a piece of glass is an all-or-nothing thing. Either the glass withstands the pressure applied to it, or it develops cracks that lead almost instantly to breakage. This is especially true of tempered glass, which has been treated to make it handle more strain, but breaks catastrophically when the stress exceeds a certain level.</p>
+        <p>Now a team of researchers has designed a way to temper glass that allows cracks to develop and propagate in a stable manner, without total failure. Panes of glass tempered in this way can be examined for cracks and replaced before breakage occurs.</p>
+        <p>With their method, the researchers, from Pennsylvania State University, Caterpillar Inc. and the University of Trento in Italy, turn normal chemical tempering of glass on its head. In the usual process, sodium atoms in the surface layer of the glass are replaced by potassium atoms.</p>
+        <p>The potassium atoms, being slightly larger, make for a tighter fit among the glass molecules, compressing them. (And compressed glass can handle more stress trying to pull it apart.)</p>
+        <p>In the new process, the researchers used potassium replacement throughout the glass, and then added sodium atoms back, but only on the surface. The result is glass with its compressed layers within. The researchers, who described their technique in the journal Science, noted that with the new glass, when a crack begins in the surface, it reaches a compressed layer and stops. Many cracks can form in this way before an ultimate crack that will shatter the glass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech Notes; Can Glass Keep the Fridge Cool?</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="438811"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">REFRIGERATORS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">GLASS</classifier>
+        <classifier class="indexing_service" type="descriptor">INSULATION</classifier>
+        <classifier class="indexing_service" type="descriptor">PLASTICS</classifier>
+        <org class="indexing_service">MASSACHUSETTS INSTITUTE OF TECHNOLOGY</org>
+        <person class="indexing_service">HOLUSHA, JOHN</person>
+        <person class="indexing_service">GLICKSMAN, LEON (PROF)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electricity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plastics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Glass</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFD61239F932A15757C0A967958260" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech Notes; Can Glass Keep the Fridge Cool?</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLUSHA</byline>
+      <byline class="normalized_byline">HOLUSHA, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A glass-ceramic sandwich may replace plastic foam as the insulation inside the walls of refrigerators if a concept developed by a professor at the Massachusetts Institute of Technology proves to be practical.</p>
+        <p>Foams contain chlorofluorocarbons, a family of chemicals that have been linked to damage to the earth's protective ozone layer. Under an agreement of the world's industrialized countries, the production of chlorofluorocarbons is to be phased out by the end of the century.</p>
+      </block>
+      <block class="full_text">
+        <p>A glass-ceramic sandwich may replace plastic foam as the insulation inside the walls of refrigerators if a concept developed by a professor at the Massachusetts Institute of Technology proves to be practical.</p>
+        <p>Foams contain chlorofluorocarbons, a family of chemicals that have been linked to damage to the earth's protective ozone layer. Under an agreement of the world's industrialized countries, the production of chlorofluorocarbons is to be phased out by the end of the century.</p>
+        <p>Leon Glicksman, a professor of thermal science and building technology at M.I.T., has developed a glass panel that can be filled with bricks of silica powder three or four inches wide in a vacuum and then sealed with another layer of glass.</p>
+        <p>Glass is used because it is much less a conductor of heat than metal and is more durable than plastic, which would tend to admit air after a few years, damaging the insulating power of the vacuum.</p>
+        <p>Professor Glicksman's technique (right) calls for making depressions in a layer of soft glass, inserting silica and then covering it all with a second layer of glass.</p>
+        <p>He said others have tried silica powder insulation but have not been able to maintain the vacuum. "The trick is to keep it encapsulated for 20 years," he said. The insulator, which would probably be shielded by a layer of foam containing no chlorofluorocarbon gases and covered with a metal outer and plastic inner wall, has three times the insulating power of current refrigerators, he said.</p>
+        <p>The drawback is weight. A refrigerator that incorporated the glass insulation would weigh about 50 pounds more than current models</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

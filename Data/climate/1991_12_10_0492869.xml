@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lessons From Jupiter</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="492869"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">PLANETS</classifier>
+        <classifier class="indexing_service" type="descriptor">EARTH</classifier>
+        <location class="indexing_service">JUPITER</location>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D9123AF933A25751C1A967958260" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lessons From Jupiter</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jupiter is 50 times the size of Earth, has an atmosphere thousands of miles thick and probably has no solid planetary surface. Despite these dissimilarities to Earth, scientists say they have recently observed some intriguing correlations between the equatorial temperature oscillations of both planets.</p>
+        <p>Dr. A. James Friedson, a scientist at the Jet Propulsion Laboratory in Pasadena, Calif., said scientists used an infrared telescope in Hawaii to measure heat emitted by the stratosphere of Jupiter. Dr. Friedson is a principal researcher in the study reported in the current issue of the journal Nature.</p>
+      </block>
+      <block class="full_text">
+        <p>Jupiter is 50 times the size of Earth, has an atmosphere thousands of miles thick and probably has no solid planetary surface. Despite these dissimilarities to Earth, scientists say they have recently observed some intriguing correlations between the equatorial temperature oscillations of both planets.</p>
+        <p>Dr. A. James Friedson, a scientist at the Jet Propulsion Laboratory in Pasadena, Calif., said scientists used an infrared telescope in Hawaii to measure heat emitted by the stratosphere of Jupiter. Dr. Friedson is a principal researcher in the study reported in the current issue of the journal Nature.</p>
+        <p>The measurements provided data about Jupiter's equatorial temperature, which changes in cycles that last four to five years.</p>
+        <p>Dr. Friedson said the pattern resembled half-year and two-year cycles on earth. The researchers said they hoped the comparisons would lead to a better understanding of current atmospheric problems on Earth, including depletion of the ozone layer that acts as a protective shield against the Sun's harmful ultraviolet radiation.</p>
+        <p>Dr. Friedson said the oscillations had "a very significant influence on the circulation in the stratosphere, but that influence is not fully understood.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

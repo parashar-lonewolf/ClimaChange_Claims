@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Australians Know How to Handle Sun</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="699312"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">ULTRAVIOLET LIGHT</classifier>
+        <classifier class="indexing_service" type="descriptor">SKIN</classifier>
+        <person class="indexing_service">PRATT, STEPHANIE</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skin</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940714T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EFDD103FF937A25754C0A962958260" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Australians Know How to Handle Sun</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>After seeing a news report highlighting advice from the weather services now being disseminated to the American public about ultraviolet radiation factors for the following day, I was surprised that it has taken America this long to educate itself about the risks of sun exposure.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>After seeing a news report highlighting advice from the weather services now being disseminated to the American public about ultraviolet radiation factors for the following day, I was surprised that it has taken America this long to educate itself about the risks of sun exposure.</p>
+        <p>Among the precautions that people are being advised to take are wearing loose, light-colored clothing, drinking plenty of liquids, preferably water, as opposed to alcoholic or sweetened or caffeinated beverages, wearing a large-brimmed hat to protect the face and wearing coated sunglasses to protect the eyes.</p>
+        <p>Take it from a country that does not benefit from a sheltering smog and has little or no ozone layer left. Always wear a sunscreen with a sun protection factor of at least 15 (you'll still get a tan) and don't go out into the sun between 11 A.M. and 3 P.M. Don't bother listening to your weather reporter. STEPHANIE PRATT  Canberra, Australia, July 4, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

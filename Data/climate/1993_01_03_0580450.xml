@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Japan's Nuclear Project</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="580450"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <location class="indexing_service">JAPAN</location>
+        <person class="indexing_service">OLIVER, ROBERT P</person>
+        <person class="indexing_service">SHAFFER, HOWARD C</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4DF103BF930A35752C0A965958260" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Japan's Nuclear Project</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As engineers with more than 60 years of combined experience in the design and construction of various industrial and power plants, we think "Japan's Nuclear Fiasco" (Dec. 20) should have been placed in the editorial section as opinion.</p>
+        <p>First, no mention was made of the obvious benefits of recycling nuclear waste into nuclear fuel for advanced reactors, whose waste can again be recycled into fuel for conventional reactors. Similarly, no mention was made of the sword-into-plowshares concept where nuclear weapons can provide fuel for power plants.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As engineers with more than 60 years of combined experience in the design and construction of various industrial and power plants, we think "Japan's Nuclear Fiasco" (Dec. 20) should have been placed in the editorial section as opinion.</p>
+        <p>First, no mention was made of the obvious benefits of recycling nuclear waste into nuclear fuel for advanced reactors, whose waste can again be recycled into fuel for conventional reactors. Similarly, no mention was made of the sword-into-plowshares concept where nuclear weapons can provide fuel for power plants.</p>
+        <p>Second, no mention was made of Japan's desire to reduce the total amount of greenhouse gases produced by burning fossil fuels.</p>
+        <p>Third, the subject of risk was discussed, but always with the implication that a catastrophic accident is the end result. There are always two components to risk; one is the probability of an accident and the second is the consequences of that accident. Thus risk must be placed in context either by using numbers (engineers use probable risk assessment as design parameters) or by comparison with other risks of loss of human life, as in the earth being struck by a large meteor or comet (1 in 100,000 is the calculated risk).</p>
+        <p>We do not know the actual projected risk, but knowing the Japanese penchant for quality, we would assume that it is a lower risk than that of a calamitous meteor impact. ROBERT P. OLIVER and HOWARD C. SHAFFER  Saratoga, Calif., Dec. 23</p>
+        <p>The authors are principal engineers with Yankee Atomic Electric in Bolton, Mass., who are currently reviewing nuclear plant design for the General Electric Company.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

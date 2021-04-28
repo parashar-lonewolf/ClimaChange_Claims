@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Getting Warm</title>
+    <meta content="04LTR1" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1034683"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <person class="indexing_service">Pasachoff, Jay M</person>
+        <person class="indexing_service">Broad, William J</person>
+        <person class="indexing_service">Moore, Thomas Gale</person>
+        <person class="indexing_service">Philander, S George</person>
+        <object.title class="indexing_service">Climate of Fear (Book)</object.title>
+        <object.title class="indexing_service">Is the Temperature Rising? (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7D91530F935A15754C0A96E958260" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Getting Warm</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Jay M Pasachoff disputes William J Broad's July 5 review of two books on global warming2</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>William J. Broad's review of two books about global warming (July 5) states that ''sunlight bathes the earth and reflects back into the sky as heat.'' But it is not reflection that operates in this way, making the greenhouse effect. It is rather that the sunlight, which is mostly in the visible part of the spectrum, heats the earth's surface. That surface then radiates because it is warm, and most of that radiation is in the infrared part of the spectrum, commonly called heat radiation. So reradiation, not reflection, is the process that should have been cited. The important point is that once the energy is transformed from visible light to infrared, it can no longer pass through our atmosphere, and so is trapped.</p>
+        <p>Jay M. Pasachoff</p>
+        <p>Williamstown, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

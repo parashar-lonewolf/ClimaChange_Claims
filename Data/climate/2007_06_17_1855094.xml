@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crashing Cars When They're Still a Gleam in the Designer's Eye</title>
+    <meta content="17CRASH" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/automobiles/17CRASH.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855094"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E5DE153FF934A25755C0A9619C8B63" item-length="1351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crashing Cars When They're Still a Gleam in the Designer's Eye</hl1>
+        <hl2 class="online_headline">Crashing Cars When They’re Still a Gleam in the Designer’s Eye</hl2>
+      </hedline>
+      <byline class="print_byline">By STUART F. BROWN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WITH fuel prices high and the pressure to reduce carbon dioxide emissions rising, automakers are finding themselves in the familiar squeeze of balancing customer wants with government mandates.</p>
+        <p>The most direct path to improving fuel economy -- designing cars that are lighter and smaller -- presents many challenges, including a population that is bigger and more feature conscious. While clever marketing may overcome that resistance to small cars, federal safety standards cannot be compromised, and the physics of a car crash gives the advantage to larger, heavier vehicles.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Computer simulations have become a powerful predictive tool for auto engineers to push safety forward.</p>
+      </block>
+      <block class="full_text">
+        <p>WITH fuel prices high and the pressure to reduce carbon dioxide emissions rising, automakers are finding themselves in the familiar squeeze of balancing customer wants with government mandates.</p>
+        <p>The most direct path to improving fuel economy -- designing cars that are lighter and smaller -- presents many challenges, including a population that is bigger and more feature conscious. While clever marketing may overcome that resistance to small cars, federal safety standards cannot be compromised, and the physics of a car crash gives the advantage to larger, heavier vehicles.</p>
+        <p>Still, development of more compact vehicles seems healthy. General Motors dipped its toe in these waters with a trio of pug-nosed microcar designs for the auto-show circuit this year; the tiny Mercedes-Benz Smart cars will be here next year; and Honda, Nissan and Toyota have all recently added smaller cars to their lines.</p>
+        <p>Companies like BMW and Mazda are considering bringing models smaller than any they now sell in the United States. And while Americans have yet to embrace smaller cars with enthusiasm, sales have grown recently: Automotive News, a trade publication, reported that sales in the class rose nearly 20 percent from March to May of this year.</p>
+        <p>Even so, a basic question remains: are these little cars going to sacrifice us when we crash in them?</p>
+        <p>Offsetting the images of test dummies being thrown about as the cars they are belted into crash into barriers is the good news that auto engineers have an increasingly powerful predictive tool to push safety forward: computerized crash simulation. Lots of math, and some hot-rod microprocessors, help get the job done.</p>
+        <p>The accuracy and speed of the simulations enables engineers to conduct many more tests, and to put their results to work right away. Automakers are willing to invest in this technology to bring products to market more quickly.</p>
+        <p>Crash safety loomed as a question for BMW when the company decided to reintroduce the Mini in the United States. Would people be too scared of accidents to buy the cute little coupes? As it turned out, Minis have sold beyond initial expectations, perhaps because the shoppers' concerns were assuaged by good results in the government crash tests.</p>
+        <p>Meeting crash-safety standards has become such a primary consideration for automakers that they are using powerful computers and software to test car designs that exist only on computer screens -- long before the first physical prototypes have been built. These simulation systems and the engineers using them will be getting an intense workout as the automakers strive to build crashworthiness into ever-smaller vehicles.</p>
+        <p>The virtual crash tests fit into a larger scheme in which all design and planning functions are done on computer, including the layout of the assembly plant. I.B.M. created a computing system for this integrated process, which it calls product lifecycle management.</p>
+        <p>The precise details of how the front, rear, or side of a car crumples during an accident demand a calculation of gargantuan dimensions -- too big, really. But software experts attack the towering problem by breaking it down into much-smaller and more digestible tasks, or elements, that computers are good at crunching. This discipline is known as finite-element modeling.</p>
+        <p>About two decades ago, when crash simulation was in its infancy, a computer model of a car crash consisted of a few thousand elements that tracked the impact forces as a crashing vehicle's kinetic energy was absorbed by its buckling and crumpling sheet metal. Today these computer models are huge -- typically two or three million elements -- giving engineers a fine-resolution picture of the loads in a crash. Armed with this detailed understanding, engineers can design structures to best absorb or deflect energy and protect the occupants.</p>
+        <p>''In the last 20 years, simulation has gone from very simple models where we solved a system of perhaps 1,000 equations simultaneously,'' Reza Sadeghi, chief technology officer at MSC Software, a developer of specialized simulation programs, said. ''Now we can solve five million equations simultaneously, and some vehicle manufacturers have put in as many as 30 million equations to look really deeply into a crash event and its effect on the passengers.''</p>
+        <p>Like the frames on movie film, a crash simulation is divided into time steps -- lots of them. Mr. Sadeghi said the time between the start of a crash and 10 milliseconds (thousandths of a second) into the event was often sliced into 300,000 individual steps.</p>
+        <p>Across its worldwide operations, General Motors says it conducts about 10,000 crash simulations a month. In a typical vehicle-development program, computer-aided design models of a car's shape and structure are translated into tiny elements; each has a set of equations associated with it. The software contains descriptions of the physical properties of all the materials -- steel, aluminum and plastic -- used in building a car.</p>
+        <p>The software must also take account of changes that occur when sheets of steel are die-stamped into contoured body panels. Areas of a part may become thinner during stamping. Suppliers of components like seats and steering columns often conduct their own finite-element modeling, which can be merged into an automaker's model of an entire vehicle.</p>
+        <p>The mature state of crash simulation today means that car companies can conduct many more tests than they could in the days when the only method was building physical prototypes and crashing them.</p>
+        <p>''For every full-vehicle physical crash test we conduct, we generate as many as 175 simulations,'' said Robert Lange, G.M.'s executive director for vehicle structure and safety integration.</p>
+        <p>G.M. engineers have libraries of different crash scenarios they call collision-load cases. Cars in development are subjected to more than 150 simulated collision loads, about a quarter of which are required by the government. Their goal is to see early in a vehicle's design evolution where things need to be improved. The simulations allow them to make structural changes on the computer screen, before any metal parts have been built.</p>
+        <p>What knobs can the engineers turn? In some cases changing the thickness of a material, or the alloy composition of the high-strength steel used in a part does the job. Another way to change the crash behavior of a structure is to switch to a different parts-joining method. Spot welding, bolting and adhesive bonding all give assemblies different characteristics when they are subjected to crash loads. Fine tuning these variables is how crashworthy designs come into being.</p>
+        <p>''In any class of vehicle, if you want to improve fuel economy, reducing mass is one of the big factors,'' said Tom Tecco, G.M.'s global director of computer-aided engineering and test systems. ''How do you reduce weight and still maintain all of your standards for safety and crash? These simulation tools really help us understand it.''</p>
+        <p>In 1986, when the first full-body crash simulation was conducted on a Citroën car, a special-purpose supercomputer was needed to handle the calculations. That machine was built by the supercomputer maker Cray Research. Just two years after the first Citroën simulation, which had about 8,000 elements, automakers around the world had adopted computer simulation to speed up their crashworthiness engineering. A year later, the simulations had sprouted 35,000 elements.</p>
+        <p>The software code used in simulations evolved from programs developed in the national weapons laboratories, where they are used to model bomb explosions and missile impacts.</p>
+        <p>Greg Clifford, now automotive manager of I.B.M.'s deep computing team, worked at Cray back in those days. ''Supercomputers found their killer application in auto crash simulation,'' he recalls. ''Everyone wanted them.''</p>
+        <p>But the development of increasingly powerful microprocessors and new software in the 1990s let automakers adopt a different and less-costly strategy: cluster computing. I.B.M. supplies companies like G.M. with hundreds of industrial-strength (but not super) computers that are ganged together into what's known as a parallel architecture, like a team of horses pulling a wagon. By splitting the number-crunching task among 20 or 30 microprocessors, engineers speed up the processing so that it can typically be accomplished overnight.</p>
+        <p>Simulation engineers like to think that someday the entire development of a new car will be done in silicon, with no physical crashes required, although they admit that day is still a long way off.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clean Air Act: The Senate Bill</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="340613"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">UNITED STATES</location>
+        <person class="indexing_service">BUSH, GEORGE (PRES)</person>
+        <object.title class="indexing_service">CLEAN AIR ACT</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEED81738F937A35757C0A966958260" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clean Air Act: The Senate Bill</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>AIRBORNE CHEMICALS</p>
+        <p>Current Law: Eight pollutants have been controlled since 1970.</p>
+        <p>Bush Proposal: Would control half the sources of about 191 toxic substances in seven years. Environmental Portection Agency would determine how and when to regulate the remainder.</p>
+        <p>WHAT THE FULL SENATE APPROVED: Would require industrial plants to install best technology available to control the release of 191 hazardous chemicals linked to cancer, nervous disorders and birth defects.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>AIRBORNE CHEMICALS</p>
+        <p>Current Law: Eight pollutants have been controlled since 1970.</p>
+        <p>Bush Proposal: Would control half the sources of about 191 toxic substances in seven years. Environmental Portection Agency would determine how and when to regulate the remainder.</p>
+        <p>WHAT THE FULL SENATE APPROVED: Would require industrial plants to install best technology available to control the release of 191 hazardous chemicals linked to cancer, nervous disorders and birth defects.</p>
+        <p>AIRBORNE CHEMICALS</p>
+        <p>Current Law: Eight pollutants have been controlled since 1970.</p>
+        <p>Bush Proposal: Would control half the sources of about 191 toxic substances in seven years. Environmental Portection Agency would determine how and when to regulate the remainder.</p>
+        <p>WHAT THE FULL SENATE APPROVED: Would require industrial plants to install best technology available to control the release of 191 hazardous chemicals linked to cancer, nervous disorders and birth defects. Affects a wide range of industries, including oil refineries, chemical plants, smelters, dry cleaners and paint shops. If when technology is installed, a risk to health remains, E.P.A. must issue additional standards five years after initial standard.</p>
+        <p>ACID RAIN</p>
+        <p>Current Law: No provision.</p>
+        <p>Bush Proposal: Would require a 10-million-ton reduction in sulfur dioxide emissions by 2000, roughly cutting such emissions in half. After that, total sulfur emissions could not exceed 1980 levels, 197 biggest polluters in Midwest and Southeast would bear cost. Utilities would cut nitrogen oxide by 2 million tons by 2000.</p>
+        <p>WHAT THE SENATE APPROVED: The same total sulfur dioxide reductions as Bush proposal, but deadlines would be a year sooner. Some concessions were reached to accommodate coal-producing states: extension of the deadline for plants that meet the new rules by istalling scrubbers, and increased credits for companies that decrease pollution below mandated levels. Credits could be sold to other utilities, which could use them to build new generating plants.</p>
+        <p>URBAN SMOG</p>
+        <p>Maximum tailpipe emission levels permitted:</p>
+        <p>NITROGEN OXIDE</p>
+        <p>HYDROCARBONS</p>
+        <p>Current Law</p>
+        <p>1.0 grams per mile (g.p.m.)</p>
+        <p>.41 g.p.m.</p>
+        <p>Bush Proposal</p>
+        <p>.7 g.p.m. by '95</p>
+        <p>.25 g.p.m. by '95</p>
+        <p>WHAT THE SENATE APPROVED: Tailpipe emissions of hydrocarbons and nitrogen oxides would have to be reduced by 22 percent and 60 percent respectively, beginning with 40 percent of vehicles sold in 1993 and increasing to 100 percent sold in 1995. Requires a later round of emission reductions from cars that would cut both categories and additional 50 percent if 12 or more cities are not compliance by 2001.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

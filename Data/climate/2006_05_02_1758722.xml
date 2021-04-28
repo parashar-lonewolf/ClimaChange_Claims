@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; AMC Embraces Indies</title>
+    <meta content="02arts-2" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1758722"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <org class="indexing_service">Amc Entertainment</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E4D9113FF931A35756C0A9609C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; AMC Embraces Indies</hl1>
+      </hedline>
+      <byline class="print_byline">By SHARON WAXMAN; Compiled by Lawrence Van Gelder</byline>
+      <abstract>
+        <p>AMC, nation's second-largest theater chain, will begin program to devote 72 screens in 39 cities in North America to specialty movies usually seen in smaller, urban theaters (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Relief is coming for moviegoers who hunger for independent-style movies but live far from the art-house theaters of New York and Los Angeles. This week, AMC, the nation's second-largest theater chain, will begin a program to devote 72 screens in 39 cities in North America -- cities small and large, from Atlanta to Chicago to Jacksonville, Fla., to Seattle -- to specialty movies usually seen in smaller, urban theaters. Among the movies to be shown in the coming months are ''A Prairie Home Companion,'' based on the work of Garrison Keillor; ''An Inconvenient Truth,'' a documentary about global warming; and ''Art School Confidential,'' a quirky comedy about art school from the director Terry Zwigoff. Peter C. Brown, the chairman of AMC, said the program was a response to growing demand for alternatives to the big-budget commercial movies that typically can occupy a half-dozen screens at a megaplex. ''I think the whole idea here is to bring this type of product out into the mainstream,'' he said.</p>
+        <p>SHARON WAXMAN</p>
+      </block>
+      <block class="full_text">
+        <p>Relief is coming for moviegoers who hunger for independent-style movies but live far from the art-house theaters of New York and Los Angeles. This week, AMC, the nation's second-largest theater chain, will begin a program to devote 72 screens in 39 cities in North America -- cities small and large, from Atlanta to Chicago to Jacksonville, Fla., to Seattle -- to specialty movies usually seen in smaller, urban theaters. Among the movies to be shown in the coming months are ''A Prairie Home Companion,'' based on the work of Garrison Keillor; ''An Inconvenient Truth,'' a documentary about global warming; and ''Art School Confidential,'' a quirky comedy about art school from the director Terry Zwigoff. Peter C. Brown, the chairman of AMC, said the program was a response to growing demand for alternatives to the big-budget commercial movies that typically can occupy a half-dozen screens at a megaplex. ''I think the whole idea here is to bring this type of product out into the mainstream,'' he said.</p>
+        <p>SHARON WAXMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

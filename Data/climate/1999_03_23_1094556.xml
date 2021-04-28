@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Solid CO2 Has Effect On Light</title>
+    <meta content="23CARB" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1094556"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E4DC1131F930A15750C0A96F958260" item-length="555" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Solid CO2 Has Effect On Light</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM W. BROWNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carbon dioxide, a ubiquitous chemical exhaled by all animals and incorporated into plants as their main building block, has assumed a new and astonishing form: a solid that resembles quartz, is nearly as hard as diamond, and transforms light in intriguing (and potentially very useful) ways.</p>
+        <p>By subjecting a small quantity of carbon dioxide gas to pressures comparable to those deep within giant planets, physicists at the Lawrence Livermore Laboratory in California have created a polymer of carbon dioxide, in which chains of carbon dioxide molecules are strung together.</p>
+      </block>
+      <block class="full_text">
+        <p>Carbon dioxide, a ubiquitous chemical exhaled by all animals and incorporated into plants as their main building block, has assumed a new and astonishing form: a solid that resembles quartz, is nearly as hard as diamond, and transforms light in intriguing (and potentially very useful) ways.</p>
+        <p>By subjecting a small quantity of carbon dioxide gas to pressures comparable to those deep within giant planets, physicists at the Lawrence Livermore Laboratory in California have created a polymer of carbon dioxide, in which chains of carbon dioxide molecules are strung together.</p>
+        <p>Dr. Choong-Shik Yoo and his colleagues at the Livermore laboratory reported their discovery in the journal Science this month.</p>
+        <p>The scientists filled a tiny cavity between the opposing tips of two diamonds with a small amount of carbon dioxide. By squeezing the diamonds together, they applied immense pressure to the carbon dioxide and then heated it with a laser to about 2,800 degrees Fahrenheit, setting off a radical change in the gas.</p>
+        <p>X-ray diffraction and other types of analysis revealed that the carbon and oxygen atoms had rearranged themselves in chain-like patterns connected by single carbon-oxygen bonds, a structure similar to that of quartz.</p>
+        <p>Dr. Yoo and his colleagues found that as long as the pressure was maintained, the new carbon dioxide polymer retained its form, even when the temperature was lowered to room temperature. The highly compressed molecular structure resembled that of cubic boron nitride, the second-hardest of all known substances, exceeded only by diamond.</p>
+        <p>''We think that this stuff will prove to be as hard as cubic boron nitride, and as good a conductor of heat as diamond,'' Dr. Yoo said. ''But the really intriguing thing is the way CO2 -V shifts the frequency of light.''</p>
+        <p>CO2 -V, Dr. Yoo and his colleagues found, doubles the frequency of laser light passing through it. Crystals that can do this, yielding a green laser beam from an incident infrared beam, for example, are important elements in a hydrogen fusion reactor Livermore has been developing in recent decades. CO2 -V might be an improvement over existing crystals, if it could be made in bulk quantities.</p>
+        <p>''We've only just found this CO2 -V, and now we have to begin looking for alternative ways of making it,'' Dr. Yoo said. ''In the beginning artificial diamonds could be made only with lots of heat and pressure, but in more recent years, people had found the carbon-vapor deposition method of making thin films of diamond, requiring no pressure and little heat. We'll be looking for something like that with this new carbon dioxide.''</p>
+        <p>Might CO2 -V be found in nature?</p>
+        <p>''One place to look for it,'' Dr. Yoo said, ''would be in the rocks of Mars, where the impacts of meteors could have provided the necessary pressure. We plan to try some impact experiments with carbon dioxide ourselves, using Livermore's big gas gun.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

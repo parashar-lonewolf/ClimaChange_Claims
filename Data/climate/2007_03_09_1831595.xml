@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Europe Divided on How to Fight Global Warming</title>
+    <meta content="09union" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/09/world/europe/09union.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1831595"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <location class="indexing_service">Europe</location>
+        <org class="indexing_service">European Union</org>
+        <person class="indexing_service">Bilefsky, Dan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Summit Conferences</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Summit Conferences</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conventions and Conferences</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Europe</location>
+        <org class="online_producer">European Union</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070309T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E6D81231F93AA35750C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Europe Divided on How to Fight Global Warming</hl1>
+        <hl2 class="online_headline">Europe Divided on How to Fight Global Warming</hl2>
+      </hedline>
+      <byline class="print_byline">By DAN BILEFSKY</byline>
+      <byline class="normalized_byline">Bilefsky, Dan</byline>
+      <dateline>BRUSSELS, March 8</dateline>
+      <abstract>
+        <p>Summit meeting aimed at making European Union world leader in battle against climate change is overshadowed by divisions over how to fight global warming among governments of union's 27 member countries; at issue is whether renewable energy targets should be binding and whether nuclear energy should be supported (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Divisions over how to fight global warming threatened Thursday to overshadow a summit meeting aimed at making the European Union the world leader in the battle against climate change.</p>
+        <p>European leaders are expected to approve plans to cut greenhouse gas emissions by 20 percent by 2020 as part of an effort to reduce the bloc's dependency on oil and gas exports. But governments of the union's 27 member countries are at odds over other issues, including whether renewable energy targets should be binding and whether nuclear energy should be supported.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The divisions threatened to overshadow a summit aimed at making the European Union the world leader in the battle against climate change.</p>
+      </block>
+      <block class="full_text">
+        <p>Divisions over how to fight global warming threatened Thursday to overshadow a summit meeting aimed at making the European Union the world leader in the battle against climate change.</p>
+        <p>European leaders are expected to approve plans to cut greenhouse gas emissions by 20 percent by 2020 as part of an effort to reduce the bloc's dependency on oil and gas exports. But governments of the union's 27 member countries are at odds over other issues, including whether renewable energy targets should be binding and whether nuclear energy should be supported.</p>
+        <p>Speaking before the meeting, which began Thursday, Chancellor Angela Merkel of Germany, whose country holds the rotating European Union presidency, said the need to use more renewable sources was a matter of urgency. ''It's not five minutes to midnight,'' she said. ''It's five minutes after midnight.''</p>
+        <p>The European Commission president, José Manuel Barroso, said governments from Washington to Moscow to Beijing were watching events in Brussels. Both he and Mrs. Merkel expressed hope that ambitious environmental targets from Europe would help spur similar action from the world's biggest polluters like China, India and the United States.</p>
+        <p>But the member countries were struggling Thursday night over German proposals for mandatory targets to generate 20 percent of energy from renewable sources like wind and solar power by 2020. At least a dozen countries, including Poland, the Czech Republic and France, have expressed opposition to such targets, saying they are unrealistic and could prove too costly.</p>
+        <p>Adding to the difficulty of clinching an agreement is an effort by countries like France to get the union to reclassify renewable energy to include no-carbon alternatives like nuclear energy. The move has met stiff resistance from Austria, Denmark and Ireland, where nuclear energy is regarded with deep suspicion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

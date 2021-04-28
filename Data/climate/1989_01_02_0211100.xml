@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Washington Talk: Briefing; Hole in the Story</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="211100"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FORESTS AND FORESTRY</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">FOREST SERVICE, US</org>
+        <person class="indexing_service">SHABECOFF, PHILIP</person>
+        <person class="indexing_service">BINDER, DAVID</person>
+        <person class="indexing_service">LEAHY, PATRICK J (SEN)</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFDB1738F931A35752C0A96F948260" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Washington Talk: Briefing; Hole in the Story</hl1>
+      </hedline>
+      <byline class="print_byline">By PHILIP SHABECOFF &amp; DAVID BINDER</byline>
+      <byline class="normalized_byline">SHABECOFF, PHILIP; BINDER, DAVID</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Patrick J. Leahy, chairman of the Senate Agriculture Committee, was reading a preliminary Federal report on the nation's forestry prospects for the next 50 years when he was struck by an ''inexplicable omission.''</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Patrick J. Leahy, chairman of the Senate Agriculture Committee, was reading a preliminary Federal report on the nation's forestry prospects for the next 50 years when he was struck by an ''inexplicable omission.''</p>
+        <p>Patrick J. Leahy, chairman of the Senate Agriculture Committee, was reading a preliminary Federal report on the nation's forestry prospects for the next 50 years when he was struck by an ''inexplicable omission.''</p>
+        <p>Senator Leahy, a Vermont Democrat, said he could not understand how such an assessment could omit any mention of the gradual warming that many scientists believe will be the inevitable result of industrial gases' trapping heat from the sun in the atmosphere.</p>
+        <p>The draft report was prepared by the United States Forest Service, an agency of the Department of Agriculture. In a letter to Agriculture Secretary Richard E. Lyng and his designated successor, Clayton K. Yeutter, Senator Leahy said the expected changes in climate could dramatically affect the nation's forests and had to be considered in any long-range planning.</p>
+        <p>''This head-in-the-sand attitude is incredible,'' he said.</p>
+        <p>Thomas J. Mills, director of the Forest Service office that prepared the report, said that the draft had been circulated for just such ''input'' as Senator Leahy's and that as a result of the Senator's comments the final version would include a discussion of the potential effects of climate change on the nation's timber resources.</p>
+        <p>He added that the Forest Service is already doing extensive research on global warming and that ''we have a fair amount of expertise.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

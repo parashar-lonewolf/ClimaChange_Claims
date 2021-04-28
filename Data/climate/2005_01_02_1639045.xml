@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy Self-Sufficiency</title>
+    <meta content="L02FUEL" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1639045"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <person class="indexing_service">Jensen, Steven A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E5DC1539F931A35752C0A9639C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy Self-Sufficiency</hl1>
+      </hedline>
+      <abstract>
+        <p>Steven A Jensen letter asks why federal government lacks political will to abandon petroleum in favor of renewable energy sources</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>How tragic that despite the clear feasibility of American-made fuels, even including discarded deep fryer grease (''On This Freedom Ride, Fuel Comes From the Fryer,'' news article, Dec. 27), the key branches of our federal government lack the political will to abandon petroleum in favor of renewable, agriculturally based energy sources.</p>
+        <p>What purpose does it serve to procrastinate shifting to practical alternatives to Persian Gulf crude oil, except perhaps for Congress to appease the omnipotent oil lobby?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>How tragic that despite the clear feasibility of American-made fuels, even including discarded deep fryer grease (''On This Freedom Ride, Fuel Comes From the Fryer,'' news article, Dec. 27), the key branches of our federal government lack the political will to abandon petroleum in favor of renewable, agriculturally based energy sources.</p>
+        <p>What purpose does it serve to procrastinate shifting to practical alternatives to Persian Gulf crude oil, except perhaps for Congress to appease the omnipotent oil lobby?</p>
+        <p>Until the United States elects a Congress and an administration that are willing to defy the energy status quo, we can expect stories about individuals finding ways to successfully use materials like cooking grease as motor fuel to be obscure oddities rather than real-world steppingstones to practical replacements to finite, increasingly expensive fossil fuels.</p>
+        <p>Steven A. Jensen  Palmerton, Pa., Dec. 27, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

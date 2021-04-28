@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Eerie Glow of Shuttle Explained</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="486549"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE SHUTTLE</classifier>
+        <classifier class="indexing_service" type="descriptor">NITRIC OXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">OXYGEN</classifier>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oxygen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D71730F931A25752C1A967958260" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Eerie Glow of Shuttle Explained</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AS space shuttles swing around the Earth into the cold blackness of space, they sometimes emit an eerie orange ghost-ship glow. Scientists now think they know why.</p>
+        <p>While conducting a military experiment for the "Star Wars" anti-missile program last spring, shuttle astronauts unexpectedly found that the glow appeared to arise from a chemical reaction between nitric oxide molecules on the spacecraft's skin and fast-moving oxygen atoms in the upper atmosphere. The reaction creates an energetic form of nitrogen dioxide gas that gives off light as it comes off the shuttle's surfaces, according to a report in the current issue of the British journal Nature.</p>
+      </block>
+      <block class="full_text">
+        <p>AS space shuttles swing around the Earth into the cold blackness of space, they sometimes emit an eerie orange ghost-ship glow. Scientists now think they know why.</p>
+        <p>While conducting a military experiment for the "Star Wars" anti-missile program last spring, shuttle astronauts unexpectedly found that the glow appeared to arise from a chemical reaction between nitric oxide molecules on the spacecraft's skin and fast-moving oxygen atoms in the upper atmosphere. The reaction creates an energetic form of nitrogen dioxide gas that gives off light as it comes off the shuttle's surfaces, according to a report in the current issue of the British journal Nature.</p>
+        <p>The visible glow, usually extending about four inches above the protective silica heat tiles and other surface materials, is most pronounced on parts of the shuttle facing its direction of travel. This led scientists to believe that oxygen atoms struck by the fast-moving shuttle were involved. And previous spectroscopic measurements of the glow, as well as certain laboratory tests, led some researchers to suspect nitric oxide or nitrogen dioxide might also be involved, the report said.</p>
+        <p>Dr. Rodney A. Viereck and Dr. Edmond Murad of Phillips Laboratory, a space research center at Hanscom Air Force Base in Bedford, Mass., and colleagues said the crucial test of the hypothesis came inadvertently when they ran a plasma experiment in space. The test involved shooting gas clouds of nitric oxide, carbon dioxide, xenon and neon from the cargo bay of the Discovery. Unintentionally, the gases scattered onto the surfaces of the shuttle's tail as each was released. The nitric oxide caused normal shuttle glow to intensify markedly, while the other gases had no effect, the researchers said.</p>
+        <p>Under normal conditions, they said, the nitric oxide necessary for the reaction probably gets into surface materials from the ambient atmosphere or exhaust gases shot out from the shuttle's maneuvering rockets.  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

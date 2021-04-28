@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lake Baikal</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="708669"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRAVEL AND VACATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <location class="indexing_service">LAKE BAIKAL</location>
+        <location class="indexing_service">RUSSIA</location>
+        <person class="indexing_service">GLEASON, JENNIFER</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE4DE1239F93BA1575BC0A962958260" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lake Baikal</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Jane Harrigan's article "A Swath of Blue in Russia's 'Wild East' " (July 10) described the natural beauty of Lake Baikal, but did not mention the imminent threats to it. Much of Lake Baikal remains pristine, but pulp manufacturing, acid rain, sewage, logging and tourism jeopardize this fragile treasure.</p>
+        <p>I also visited Lake Baikal recently, where, as the staff attorney with the American branch of the private nonprofit Environmental Law Alliance Worldwide, I worked with local environmental lawyers. Scientists estimate that Lake Baikal holds 20 percent of the earth's fresh water. However, Baikalsk Pulp and Paper Mill dumps toxins into the lake. Nearby cities, lacking treatment facilities, dump sewage in. The logging of surrounding forests also jeopardizes Baikal. Scientists suspect that pollution may be contributing to declines in the population of native fish species.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Jane Harrigan's article "A Swath of Blue in Russia's 'Wild East' " (July 10) described the natural beauty of Lake Baikal, but did not mention the imminent threats to it. Much of Lake Baikal remains pristine, but pulp manufacturing, acid rain, sewage, logging and tourism jeopardize this fragile treasure.</p>
+        <p>I also visited Lake Baikal recently, where, as the staff attorney with the American branch of the private nonprofit Environmental Law Alliance Worldwide, I worked with local environmental lawyers. Scientists estimate that Lake Baikal holds 20 percent of the earth's fresh water. However, Baikalsk Pulp and Paper Mill dumps toxins into the lake. Nearby cities, lacking treatment facilities, dump sewage in. The logging of surrounding forests also jeopardizes Baikal. Scientists suspect that pollution may be contributing to declines in the population of native fish species.</p>
+        <p>The decision to protect Lake Baikal must come from the people of Siberia and Russia. Fortunately, people in the region are working hard to protect the lake. But they face an uphill battle because the need to bolster Russia's economy creates pressure. We must insure that United States multinational corporations not participate in exploiting Siberia's environment. JENNIFER GLEASON  Eugene, Ore.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hooked on Oil: Connect the Dots</title>
+    <meta content="LTR232400" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1447731"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Seiff, Abigail</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E3D6143AF932A25751C1A9649C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hooked on Oil: Connect the Dots</hl1>
+      </hedline>
+      <abstract>
+        <p>Abigail Seiff letter on Dec 8 editorial scores Pres Bush for delaying action against global warming; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It's pretty clear what the Bush administration is playing at when it pushes a ''five-year program of research'' (''Still Lagging on Warming,'' editorial, Dec. 8).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It's pretty clear what the Bush administration is playing at when it pushes a ''five-year program of research'' (''Still Lagging on Warming,'' editorial, Dec. 8).</p>
+        <p>Once again, President Bush is avoiding admitting the problem that is global warming. If he chose to, he could look to the European Union's work on emissions caps.</p>
+        <p>Instead, he chooses to spend the next five years researching, thus saving his big-corporation buddies from having to act responsibly for a change.</p>
+        <p>You give Mr. Bush too much credit when you say, ''if he wants progress on any air pollutant.'' Does he want any progress on pollutants? One need only look at his environmental record to see how willing Mr. Bush is to help combat global warming.</p>
+        <p>ABIGAIL SEIFF  New York, Dec. 9, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

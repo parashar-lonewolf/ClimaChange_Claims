@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Pulse of Our Planet</title>
+    <meta content="l03current" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1721929"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1DB1231F930A35751C1A9639C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Pulse of Our Planet</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Scientists Say Slower Atlantic Currents Could Mean a Colder Europe'' (news article, Dec. 1) succinctly explains complicated phenomena.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Scientists Say Slower Atlantic Currents Could Mean a Colder Europe'' (news article, Dec. 1) succinctly explains complicated phenomena.</p>
+        <p>So the circulatory system of the biosphere that supports us all may indeed be beginning to slow down, as predicted by climate-change computer models.</p>
+        <p>Since even minor current fluctuations have major weather effects, this should give us pause.</p>
+        <p>Actually, any news related to global warming should be leading the world's major newspapers and broadcasts, for complex science combined with long-term thinking highlights what is actually a simple ethical truth: No other issue is as important as the possibility, whether remote or likely, that we could make our only planet unlivable.</p>
+        <p>Dan Carsen  Brookline, Mass., Dec. 1, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

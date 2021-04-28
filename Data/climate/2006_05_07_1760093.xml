@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seeking Energy in All the Odd Places</title>
+    <meta content="l07ethanol-4" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1760093"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethanol</classifier>
+        <person class="indexing_service">Gilg, Larry</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethanol</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E5D61F3FF934A35756C0A9609C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seeking Energy in All the Odd Places</hl1>
+      </hedline>
+      <abstract>
+        <p>Larry Gilg letter says ethanol, hailed in May 1 editorial as alternative fuel, is latest in long string of disastrous agribusiness strategies that squander planet's biotic potential; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Ethanol is simply the latest in the long string of disastrous agribusiness strategies that squander the planet's biotic potential as surely as the pillage of fossil fuels threatens the very survival of mankind.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Ethanol is simply the latest in the long string of disastrous agribusiness strategies that squander the planet's biotic potential as surely as the pillage of fossil fuels threatens the very survival of mankind.</p>
+        <p>A sustainable agrarian culture must return to the soil the nutrients, minerals and biomass needed to support the next year's crops. Ecosystems in the natural world are highly optimized to recycle the mass they generate. Otherwise, life would not persist.</p>
+        <p>Larry Gilg  Austin, Tex., May 2, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

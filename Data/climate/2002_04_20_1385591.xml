@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Japanese Computer Is World's Fastest, As U.S. Falls Back</title>
+    <meta content="20COMP$02" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Technology; Front Page; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/04/20/technology/20COMP.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20020424T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1385591"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Models and Replicas</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <location class="indexing_service">Japan</location>
+        <org class="indexing_service">Nec Corp</org>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <org class="indexing_service">Earth Simulator Research and Development Center (Yokohama)</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and The Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <location class="online_producer">Japan</location>
+        <org class="online_producer">International Business Machines Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE7DC133FF933A15757C0A9649C8B63" item-length="1404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Japanese Computer Is World's Fastest, As U.S. Falls Back</hl1>
+        <hl2 class="online_headline">Japanese Computer Is World's Fastest, as U.S. Falls Back</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, April 19</dateline>
+      <abstract>
+        <p>Japanese laboratory has built world's fastest computer, powerful machine that matches raw processing power of twenty fastest American computers combined and far outstrips IBM's SP Power 3; photo; list; accomplishment reflects contrasting scientific and technology priorities, with Japanese machine built to analyze climate change and US focusing primarily on simulating weaponry; NEC Earth Simulator is installed at Earth Simulator Research and Development Center in Yokohama; Japanese government spent $350- to $400-millionon five-year project (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Japanese laboratory has built the world's fastest computer, a machine so powerful that it matches the raw processing power of the 20 fastest American computers combined and far outstrips the previous leader, an I.B.M.-built machine.</p>
+        <p>The achievement, which was reported today by an American scientist who tracks the performance of the world's most powerful computers, is evidence that a technology race that most American engineers thought they were winning handily is far from over. American companies have built the fastest computers for most of the last decade.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Japanese laboratory has built the world's fastest computer, a machine that matches the raw processing power of the 20 fastest American computers combined.</p>
+      </block>
+      <block class="full_text">
+        <p>A Japanese laboratory has built the world's fastest computer, a machine so powerful that it matches the raw processing power of the 20 fastest American computers combined and far outstrips the previous leader, an I.B.M.-built machine.</p>
+        <p>The achievement, which was reported today by an American scientist who tracks the performance of the world's most powerful computers, is evidence that a technology race that most American engineers thought they were winning handily is far from over. American companies have built the fastest computers for most of the last decade.</p>
+        <p>The accomplishment is also a vivid statement of contrasting scientific and technology priorities in the United States and Japan. The Japanese machine was built to analyze climate change, including global warming, as well as weather and earthquake patterns. By contrast, the United States has predominantly focused its efforts on building powerful computers for simulating weapons, while its efforts have lagged in scientific areas like climate modeling.</p>
+        <p>For some American computer scientists, the arrival of the Japanese supercomputer evokes the type of alarm raised by the Soviet Union's Sputnik satellite in 1957.</p>
+        <p>''In some sense we have a Computenik on our hands,'' said Jack Dongarra, a University of Tennessee computer scientist who reported the achievement today. For many years he has maintained an authoritative list of the world's 500 fastest computers.</p>
+        <p>Several United States computer scientists said the Japanese machine reflected differences in style and commitment that suggest that United States research and spending efforts have grown complacent in recent years. For now, the new computer will be used only for climate research, and American scientists have already begun preparing to move some of their climate simulation research to run on the Japanese machine.</p>
+        <p>''The Japanese clearly have a level of will that we haven't achieved,'' said Thomas Sterling, a supercomputer designer at the California Institute of Technology. ''These guys are blowing us out of the water, and we need to sit up and take notice.''</p>
+        <p>The new Japanese supercomputer will have both scientific and practical applications. It will be used for advanced modeling of theories about global warming and climate change, and it will be able to predict short-term weather patterns.</p>
+        <p>Advances in computer speed today routinely extend computer simulation into all areas of science and engineering as complex calculations take an increasingly shorter time. Because increases in computing power tend to have exponential results, a problem that could take years for even the fastest computers today might be finished in hours on the new Japanese computer.</p>
+        <p>The ability to track the path of a typhoon, for example, is of immediate relevance to the island nation of Japan. Improved prediction made possible by a more powerful computer might save lives and property.</p>
+        <p>Computer simulation has become a standard tool in both science and modern design of products ranging from drugs to bicycles. Computers that are more powerful make possible simulations that are more accurate and can reduce cost and increase efficiency. At one time, for example, computers were capable of computing the flow of air over a single airplane wing but can now cover the entire aircraft.</p>
+        <p>The new Japanese supercomputer was financed by the Japanese government and has been installed at the Earth Simulator Research and Development Center in Yokohama, west of Tokyo. The Japanese government spent $350 million to $400 million developing the system over the last five years, according to Dr. Akira Sekino, president and chief executive of HNSX Supercomputers, a unit of the NEC Corporation based in Littleton, Colo.</p>
+        <p>The new computer was formally dedicated last month, and the Japan Marine Science and Technology Center said yesterday that the machine had reached more than 87 percent of its theoretical peak speed.</p>
+        <p>''This is a huge achievement for the Japanese,'' Dr. Sekino said.</p>
+        <p>NEC sells a scaled-down version of the new supercomputer. Several United States universities and government agencies have tried to buy the machines over the last decade for purposes like aircraft simulation, seismic studies and molecular modeling. But sales have been thwarted by resistance from the Commerce Department and members of Congress, who complained that NEC was ''dumping'' the machines, or selling them below cost. Last year Cray Inc., a United States maker of supercomputers, entered into a marketing agreement to sell the machines in the United States, but no sales have been announced.</p>
+        <p>The NEC supercomputers are based on vector processing, a way of using specialized hardware to solve complex calculations that was pioneered by the American supercomputer designer Seymour Cray. The concept has generally fallen out of favor in the United States in recent years.</p>
+        <p>Assembled from 640 specialized nodes that are in turn composed of 5,104 processors made by NEC, the new Japanese supercomputer occupies the space of four tennis courts and has achieved a computing speed of 35.6 trillion mathematical operations a second. The processors are linked in a way that allows extremely efficient operation compared with the previously fastest ''massively parallel'' computers, which are based on standard parts rather than custom-made chips.</p>
+        <p>The earth simulator project is intended to create a ''virtual earth'' on an NEC supercomputer to show what the world will look like under various climate conditions by means of advanced numerical simulation. The system is intended to serve as a research platform for international teams of researchers, and United States scientists are planning to participate in new projects made possible by the more powerful computer.</p>
+        <p>By comparison, the fastest American supercomputer, which until now held the world computing speed record, is the ASCI White Pacific computer at the Lawrence Livermore National Laboratory in California. Based on I.B.M. processors, it has achieved a top speed of 7 trillion math operations a second.</p>
+        <p>Faster machines are being designed at government-financed labs in Livermore, Pittsburgh and Los Alamos, N.M., but they are far from operational.</p>
+        <p>The Japanese supercomputer underscores a continuing debate within the computer design community. One camp has argued for building massively parallel supercomputers by chaining together thousands of off-the-shelf microprocessors. That philosophy has come to dominate designs in the United States in recent years. A second camp has pushed for computers made from specialized processors dedicated to solving a particular class of problem.</p>
+        <p>The vector processors used in the Japanese machine are an example of the second approach, and they have long been used with great success for scientific problems ranging from weather prediction to bomb design.</p>
+        <p>Scientists from the National Center for Atmospheric Research in Boulder, Colo., said they were planning to work with the Japanese earth simulation center to convert United States weather modeling codes to work with the new computer.</p>
+        <p>''It's potentially quite significant for climate studies,'' said Dr. Tim Kalleen, a space scientist who is director of the American climate research center. He said his researchers were discussing with their Japanese counterparts the technical details needed to make sure the advanced American programs will run on the Japanese machine.</p>
+        <p>Correction:  April 24, 2002, Wednesday  A front-page article on Saturday about the world's fastest computer, built in a Japanese laboratory to analyze climate change, misspelled the name of the director of the National Center for Atmospheric Research in Boulder, Colo., who said researchers planned to convert United States weather modeling codes to work with the new computer. He is Dr. Tim Killeen, not Kalleen.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 24, 2002, Wednesday</p>
+        <p>A front-page article on Saturday about the world's fastest computer, built in a Japanese laboratory to analyze climate change, misspelled the name of the director of the National Center for Atmospheric Research in Boulder, Colo., who said researchers planned to convert United States weather modeling codes to work with the new computer. He is Dr. Tim Killeen, not Kalleen.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

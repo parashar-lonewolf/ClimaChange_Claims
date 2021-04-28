@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="442065"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <person class="indexing_service">RAY, C CLAIBORNE</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2D9123CF933A05757C0A967958260" item-length="462" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">RAY, C CLAIBORNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Noisy Waves</p>
+        <p>Q.</p>
+        <p>What makes the noise when an ocean wave breaks?</p>
+        <p>A. The noise comes from air bubbles collapsing, said Dr. Reinhard Flick, an oceanographer with the California Department of Boating and Waterways and the Scripps Institution of Oceanography in La Jolla, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>Noisy Waves</p>
+        <p>Q.</p>
+        <p>What makes the noise when an ocean wave breaks?</p>
+        <p>A. The noise comes from air bubbles collapsing, said Dr. Reinhard Flick, an oceanographer with the California Department of Boating and Waterways and the Scripps Institution of Oceanography in La Jolla, Calif.</p>
+        <p>When a bubble collapses, it makes a lot of noise at audible frequencies, depending on its size, Dr. Flick said. In a wave, he said, the noise can range from the "whoomp" of a bubble big enough to shoot a surfer out of the tunnel of a giant wave to the hiss of tiny bubbles rising from the surface when a wave laps at the shore.</p>
+        <p>The bubbles in a wave result from what is called the entrainment of air, Dr. Flick said. As a wave turns over, it literally captures and carries air along with it, he explained. A breaking wave creates many areas of small-scale turbulence, and the air is broken up into smaller and smaller bubbles by the motion of the water. It finally escapes with a hiss.</p>
+        <p>Dr. Flick described an experiment in which air was sucked out of an airtight transparent plastic wave tank. "It was eerie," he said. "You could see the waves breaking but you couldn't hear anything." Glacier Ice</p>
+        <p>Q.</p>
+        <p>Is glacier ice purer than regular ice?</p>
+        <p>A. Yes, according to Dr. Mark F. Meier, director of the Institute for Arctic and Alpine Research at the University of Colorado, and it is not surprising that some entrepreneurs have marketed it commercially for drinks.</p>
+        <p>There are several scientific and esthetic reasons for the superiority of glacier ice, he said.</p>
+        <p>First, he said, the ice in glaciers is relatively pure water because after thousands of years of compression of the tiny snow grains laid down in ancient times, all the impurities have moved to the boundaries of the grains and been flushed out.</p>
+        <p>"The final ice, especially if it comes from a single crystal, is much purer than the original precipitation," Dr. Meier said, "almost like triple-distilled water."</p>
+        <p>From an esthetic point of view, a glacier has crystals in it as large as or larger than refrigerator ice cubes, he said. In a single crystal, all the molecules are lined up, while a regular ice cube is many long thin crystals. As a result, light refracted through a cube of glacier ice is much more beautiful than the cloudy light play of refrigerator ice.</p>
+        <p>There may also be sound effects with glacier ice, Dr. Meier said. When the snow was deposited in the pack, a lot of air is buried with it, he explained, and over time, the air is compressed into little bubbles surrounded by ice. A thousand meters deep, the air is under fairly high pressure, but when the bubbles are freed by melting, the air pops out with a pleasing crackle, creating a sparkling drink without adding carbon dioxide.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

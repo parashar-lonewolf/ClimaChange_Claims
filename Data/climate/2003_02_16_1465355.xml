@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Bad Element</title>
+    <meta content="16BKEN$07" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/02/16/opinion/16BKEN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1465355"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">Hydrogen</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Cells</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Kennedy, Robert F Jr</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <person class="online_producer">Kennedy, Robert F Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E7D7123AF935A25751C0A9659C8B63" item-length="480" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Bad Element</hl1>
+        <hl2 class="online_headline">A Bad Element</hl2>
+      </hedline>
+      <byline class="print_byline">By Robert F. Kennedy Jr.</byline>
+      <byline class="normalized_byline">Kennedy, Robert F Jr</byline>
+      <abstract>
+        <p>Robert F Kennedy Jr Op-Ed article criticizes Pres Bush's call to spend more than $1 billion over five years to develop hydrogen-powered car on ground that plan calls for extracting hydrogen from coal and natural gas, without controlling carbon emission, and building of new generation of nuclear power plants specifically for hydrogen production; criticizes administration for not embracing readily available technologies, such as hybrids, that would allow cars to get better mileage and pollute less (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Here's why the environmental community isn't ecstatic over President Bush's call to spend more than $1 billion over five years to develop a hydrogen-powered car to wean us from our addiction to Middle East oil.</p>
+        <p>Certainly, fuel cells that use renewable resources like wind and solar power to extract hydrogen from water promise America a safe, clean energy solution. However, in a sop to the energy industry, the White House wants to extract hydrogen instead from coal and natural gas (without controlling carbon emissions), thereby increasing global warming and fouling our landscape. Worse, the president wants to build a new generation of nuclear power plants specifically for hydrogen production.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why the environmental community isn't ecstatic over President Bush's call to develop a hydrogen-powered car.</p>
+      </block>
+      <block class="full_text">
+        <p>Here's why the environmental community isn't ecstatic over President Bush's call to spend more than $1 billion over five years to develop a hydrogen-powered car to wean us from our addiction to Middle East oil.</p>
+        <p>Certainly, fuel cells that use renewable resources like wind and solar power to extract hydrogen from water promise America a safe, clean energy solution. However, in a sop to the energy industry, the White House wants to extract hydrogen instead from coal and natural gas (without controlling carbon emissions), thereby increasing global warming and fouling our landscape. Worse, the president wants to build a new generation of nuclear power plants specifically for hydrogen production.</p>
+        <p>The president's hydrogen plan will further reduce our national commitment to renewables by cutting our already anemic financing for research into wind, solar and other energy-saving technologies.</p>
+        <p>Fuel cells offer bright prospects but it will be 10 to 20 years before economical hydrogen vehicles are on the road. Meanwhile, Americans are buying 17 million new cars, trucks and S.U.V.'s a year -- vehicles that could be much more fuel efficient. It's no secret that right now we have the technology to make cars that get better mileage and pollute less. But the administration has repeatedly scuttled efforts to put these innovations in place, fighting tougher fuel economy standards for all vehicles, refusing to compel S.U.V.'s to meet the same mileage standards as cars and creating tax incentives for Americans to buy the largest gas guzzlers. Last week, in an astonishing move, government lawyers joined General Motors and DaimlerChrysler in a federal lawsuit challenging a California law that rewards carmakers for selling low-emission, gasoline-electric hybrid vehicles.</p>
+        <p>Hybrids are just one of the proven technologies that could start saving oil right now. They can increase fuel economy 50 percent, and never need plugging in. Other technologies that can lift fuel economy include more advanced transmissions; improved engine and valve train design; and tires that promote fuel-efficiency. Available now, these solutions won't be widely used until Washington gets serious about the arithmetic of oil security: we use a quarter of the world's oil, yet we have only 3 percent of the known reserves.</p>
+        <p>Requiring cars to average 40 miles per gallon by 2012 would save nearly 2 million barrels a day; that's more than we imported from Saudi Arabia last year, and three times our Iraq imports. Raise that to 55 miles per gallon by 2020, and daily savings grow to nearly 5 million barrels, almost twice our current Persian Gulf imports.</p>
+        <p>We have an oil security problem and we have an air pollution problem. We also have the technology to fix these problems -- if only we would have the will to use it.</p>
+        <p>Op-Ed Contributor Robert F. Kennedy Jr. is a lawyer for the Natural Resources Defense Council.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Robert F. Kennedy Jr. is a lawyer for the Natural Resources Defense Council.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inside</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="317382"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D71F30F935A25752C0A966958260" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inside</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>New Age: Hold the Ice</p>
+        <p>The next ice age is expected to begin within 2,000 years. But scientists say global warming may alter the course of nature. Science Times, page C1.</p>
+        <p>A Peaceful, Uneasy Feeling</p>
+        <p>Military instructors are finding that with East-West tensions easing, war games aimed at the Soviets are growing increasingly irrelevant.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>New Age: Hold the Ice</p>
+        <p>The next ice age is expected to begin within 2,000 years. But scientists say global warming may alter the course of nature. Science Times, page C1.</p>
+        <p>A Peaceful, Uneasy Feeling</p>
+        <p>Military instructors are finding that with East-West tensions easing, war games aimed at the Soviets are growing increasingly irrelevant.</p>
+        <p>New Age: Hold the Ice</p>
+        <p>The next ice age is expected to begin within 2,000 years. But scientists say global warming may alter the course of nature. Science Times, page C1.</p>
+        <p>A Peaceful, Uneasy Feeling</p>
+        <p>Military instructors are finding that with East-West tensions easing, war games aimed at the Soviets are growing increasingly irrelevant. Page A20.</p>
+        <p>Court System in Crisis</p>
+        <p>An increase in drug cases in New York City is leading to rough and rapid justice in a frayed and overwhelmed institution. Page B1.</p>
+        <p>Real Estate Dream Fades</p>
+        <p>A Jersey City luxury residential development born in the optimism of the mid-1980's is floundering in the economic slowdown. Page B1.</p>
+        <p>N.F.L. May Change Draft</p>
+        <p>Paul Tagliabue, National Football League commissioner, said he was leaning toward allowing college underclassmen to turn pro. Page B7.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

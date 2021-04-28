@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>E.P.A. Revises Standards on Air Pollutants</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="46306"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">STANDARDS AND STANDARDIZATION</classifier>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Standards and Standardization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DD103BF937A35755C0A961948260" item-length="515" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>E.P.A. Revises Standards on Air Pollutants</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, June 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Environmental Protection Agency, using a new method to calculate pollution, today adopted revised national standards for clean air.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Environmental Protection Agency, using a new method to calculate pollution, today adopted revised national standards for clean air.</p>
+        <p>The Environmental Protection Agency, using a new method to calculate pollution, today adopted revised national standards for clean air.</p>
+        <p>The standards, which will allow some bans on construction to be lifted, tighten the limits on small particles in the air but put many more counties in compliance than before.</p>
+        <p>Only smaller particles of smoke, dust and soot, which are considered the most dangerous to human health, will be measured under the new standards.</p>
+        <p>The agency decided not to set separate standards for the very smallest of those particles, those that turn into acid rain, but asked for public comment on whether such standards were needed.</p>
+        <p>Although the agency is supposed to revise the national concentration standards every five years, this is the first revision since the original 1971 standard was set.</p>
+        <p>By measuring only particulate matter smaller than 10 microns, or about one-tenth the diameter of a human air, the number of noncomplying counties nationwide will decrease from about 320 to no more than 100, the agency said.</p>
+        <p>Many counties were out of compliance under the old standard only because of the presence of large particles, which agency scientists say do not move deep into human lungs and are cleaned out of the airways by natural processes.</p>
+        <p>States have nine months to develop plans that will bring them into compliance or face the cut off of aid and the imposition of bans on the construction of facilities that will further pollute the air. Lower Standard Set</p>
+        <p>The agency did not provide details of where construction bans would be lifted under the new standards.</p>
+        <p>Under the new standard, the concentration of small particles of smoke, dust and soot is not to exceed 150 micrograms per cubic meter of air more than one day a year, nor is it to exceed an average of more than 50 micrograms a day for the year. The old standard limited total smoke, soot and dust to 260 micrograms for one day, and 75 micrograms averaged over the whole year.</p>
+        <p>In 1984, outside advisers told the agency it could defend any one-day small-particle standard between 150 and 350 micrograms per cubic meter and any yearly standard of 55 to 110 micrograms.</p>
+        <p>A concentration of 150 micrograms per cubic meter is equivalent to 150 billionths of an ounce per cubic foot or 1,378 pounds per cubic mile.</p>
+        <p>Nationally small particles account for about half the total pollution in the air, on the average.</p>
+        <p>The standard is supposed to be set to leave a margin of safety to protect sensitive population groups, namely people with respiratory illnesses.</p>
+        <p>In setting the standard, no consideration is supposed to be given to cost, but agency says it believes some 250 industries - including iron and steel, mining, smelting, cement, milling and power generation - will have to spend $1.9 billion to meet the new standard.</p>
+        <p>The agency estimates that 8.2 million tons of all particulates are emitted every year, down 24 percent from the 1976 level. This does not count emissions such as topsoil whipped into the air by wind, which would bring the total to more than 100 million tons.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

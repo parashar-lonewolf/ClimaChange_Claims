@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="334402"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <classifier class="online_producer" type="types_of_material">QUESTION</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900313T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DE113BF930A25750C0A966958260" item-length="463" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>Varied Vegetables</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>Varied Vegetables</p>
+        <p>Varied Vegetables</p>
+        <p>Q. Do varieties of the same fruit or vegetable have different nutritional values? Would plants of one variety differ if grown in two kinds of soil?</p>
+        <p>A. Varieties of fruits and vegetables can differ widely in nutrition, said Don Downing of the food science department at Cornell University's Geneva Experiment Station in Geneva, N.Y.</p>
+        <p>For example, a New York State Macintosh apple would have about 3 milligrams of ascorbic acid, or vitamin C, per 100 grams, while a Cortland would have 11 milligrams, a Jonathan would have 17 and a Cox orange would have 19, he said.</p>
+        <p>He said that one kind of winter squash, called aiguri, has 1,340 micrograms of carotene (precursor of vitamin A) per 100 grams, while the variety designated 81-568 has 2,628.</p>
+        <p>The amounts of most nutrients do not depend on the soil a vegetable grows in, said Christina Stark, a nutritionist in the Cornell University Division of Nutritional Sciences in Ithaca, N.Y.</p>
+        <p>''Broccoli has a distinctive way of being broccoli,'' she said, regardless of soil fertility or cultivation methods. A given variety assembles the same building blocks of carbon dioxide, water and a few minerals into a characteristic product, she said, whether the source is the soil or fertilizer.</p>
+        <p>Fertilizer can affect yield, she said, and for some nutritionally important minerals, like zinc and iodine, the levels in the soil may be reflected in the composition of the plant. However, the proteins, fats, vitamins, etc., in a fruit or vegetable depend on the genetics of the plant variety, the maturity of the plant at harvest and processing and storage.</p>
+        <p>Rainfall, Snowfall</p>
+        <p>Q. How do meteorologists measure rainfall and snowfall?</p>
+        <p>A. The measurement of rainfall is fairly straightforward, but snowfall presents problems that make measurements ''somewhat arbitrary,'' said Joe Lundberg, a meteorologist at Pennsylvania State University in University Park, Pa.</p>
+        <p>For rain, the Pennsylvania State meteorology department uses a simple cylindrical tube to catch it. The amount that falls in a given period is poured into a smaller cylindrical tube that is carefully gradated and measured with something like a dipstick.</p>
+        <p>''Many things can affect the depth of snow, especially wind and how frequently it is measured, both during and after a storm,'' he said. ''Because the weight of the falling snow packs down what is underneath, it might compact from 10 inches to 8 inches as air holes fill in.''</p>
+        <p>The National Weather Service guidelines call for using a snowboard, a board exposed to catch snow, with the accumulation measured every hour through the storm and then brushed off, a time-consuming method.</p>
+        <p>Meteorologists at Penn State seek an average reading from 10 different points after the snow stops.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

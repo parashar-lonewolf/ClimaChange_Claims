@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Newmont Cancels Plans for Peabody</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="272149"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CAPITAL INVESTMENT</classifier>
+        <org class="indexing_service">PEABODY HOLDING CO</org>
+        <org class="indexing_service">NEWMONT MINING CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6DF1638F937A3575BC0A96F948260" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Newmont Cancels Plans for Peabody</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>DENVER, Aug. 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Citing the effects of a continuing strike in the coal industry and the uncertain impact of legislation to cut acid rain emissions, the Newmont Mining Corporation canceled plans to recapitalize the Peabody Holding Company, in which it holds a stake.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Citing the effects of a continuing strike in the coal industry and the uncertain impact of legislation to cut acid rain emissions, the Newmont Mining Corporation canceled plans to recapitalize the Peabody Holding Company, in which it holds a stake.</p>
+        <p>Citing the effects of a continuing strike in the coal industry and the uncertain impact of legislation to cut acid rain emissions, the Newmont Mining Corporation canceled plans to recapitalize the Peabody Holding Company, in which it holds a stake.</p>
+        <p>The plan did not have the ''flexibility to accommodate the possible negative implications of those two recent events,'' said Gordon R. Parker, Newmont's chairman. The company had announced a plan that would have yielded a $425 million pretax dividend from Peabody to Newmont, along with a $75 million payment to Newmont from new Peabody investors, while allowing Newmont to keep its equity in Peabody. Newmont planned to use the cash to cut its debt.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

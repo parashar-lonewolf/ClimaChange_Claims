@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Machines Explore Odd Behaviors of Ubiquitous Plasmas</title>
+    <meta content="19PLAS$03" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/08/19/science/19PLAS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1513117"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Physics</classifier>
+        <classifier class="indexing_service" type="descriptor">Plasma (Ionized Gas)</classifier>
+        <classifier class="indexing_service" type="descriptor">Sun</classifier>
+        <classifier class="indexing_service" type="descriptor">Earth</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Magnetism and Magnets</classifier>
+        <classifier class="indexing_service" type="descriptor">Aurora Borealis</classifier>
+        <classifier class="indexing_service" type="descriptor">Stars and Galaxies</classifier>
+        <classifier class="indexing_service" type="descriptor">Argon</classifier>
+        <org class="indexing_service">New Mexico Tech</org>
+        <person class="indexing_service">Wertheim, Margaret</person>
+        <person class="indexing_service">Watts, Christopher</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Physics</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sun</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stars and Galaxies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030819T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE5DF1030F93AA2575BC0A9659C8B63" item-length="1546" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Machines Explore Odd Behaviors of Ubiquitous Plasmas</hl1>
+        <hl2 class="online_headline">Machines Explore Odd Behaviors of Ubiquitous Plasmas</hl2>
+      </hedline>
+      <byline class="print_byline">By MARGARET WERTHEIM</byline>
+      <byline class="normalized_byline">Wertheim, Margaret</byline>
+      <abstract>
+        <p>New Mexico Tech physicist Christopher Watts is developing cylindrical machine capable of generating magnetic field stronger than sun's and able to produce ionized argon atom plasma; research focuses on understanding phenomenon of plasmas, which are mixture of charged particles, and possibility of harnessing their subsequent electric currents; description of how solar eruptions effect magnetic field around earth and concept of magnetic tearing and reconnection are discussed; plasma and effects of recoiling magnetic diversion from solar eruptions create auroras light show; plasma physics will likely play role in alternative large scale power production and aid in understanding of sun and workings of stars; photos; drawing (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ninety-nine percent of the visible stuff in our universe is in the form of plasma, ionized gas that is also known as the fourth state of matter.</p>
+        <p>Flames are plasmas. Lightning is a plasma. Auroras are caused by plasmas, and every fluorescent tube is filled with the stuff. Earth is cocooned in a halo of plasma, called the ionosphere. Stars are balls of super-hot plasma and nebulae are clouds of it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With a new generation of gargantuan machines, physicists are beginning to explore the bizarre behaviors inherent to the fourth state of matter.</p>
+      </block>
+      <block class="full_text">
+        <p>Ninety-nine percent of the visible stuff in our universe is in the form of plasma, ionized gas that is also known as the fourth state of matter.</p>
+        <p>Flames are plasmas. Lightning is a plasma. Auroras are caused by plasmas, and every fluorescent tube is filled with the stuff. Earth is cocooned in a halo of plasma, called the ionosphere. Stars are balls of super-hot plasma and nebulae are clouds of it.</p>
+        <p>Since William Crookes first identified plasma in 1879, the phenomenon has captured physicists' imaginations, yet until recently little was known about plasmas. Now, with a new generation of gargantuan machines, physicists are beginning to explore the bizarre behaviors inherent to this state.</p>
+        <p>In the communications era, understanding plasmas is becoming increasingly important, said Christopher Watts, a physicist at New Mexico Tech. When solar flares erupt, massive ejections of plasma known as the solar wind can wipe out satellite systems and bring down power grids. In 1989 a huge solar flare left six million people in Quebec without power; in 1998 a flare was blamed for a daylong disturbance to millions of cellphone customers. Just this past Sunday, the National Oceanic and Atmospheric Administration's Space Environment Center in Boulder, Colo., reported that a huge gust of solar wind had struck the earth's atmosphere causing a geomagnetic storm rated at G4, the second highest rating on the agency's space weather scales. G4 storms are powerful enough to cause damage to both power lines and satellites.</p>
+        <p>''We can't do anything to stop these events,'' Mr. Watts said, ''but if we could predict them, we could act to protect satellites and grids.''</p>
+        <p>Plasmas may also play a central role in meeting future energy needs. When fossil fuels run out, one of the few alternatives for large scale power production is nuclear fusion.</p>
+        <p>''If we are ever going to have viable fusion power plants we have to understand how plasmas behave and how to control them,'' said Walter Gekelman, a physicist at the University of California at Los Angeles.</p>
+        <p>At New Mexico Tech, Mr. Watts has been building a machine that he hopes will help to illuminate the mechanisms underlying solar flares. The cylindrical construction, more than 18 feet long, is surrounded by electromagnetic coils a meter in diameter. Bolted and welded and bristling with tubes, it looks like a contraption from a Jules Verne novel. The coils encircle a bundle of seven large glass tubes filled with argon. Each has been nicknamed after a famous physicist -- Albert Einstein, Marie Curie and Michael Faraday among them.</p>
+        <p>Mr. Watts flicks a switch and a column of blue light charges through the Einstein tube. Another flick and Marie Curie flares on, followed by Faraday, then Paul Dirac. The light is caused by glowing plasma produced by the ionization of the argon atoms. The plasma itself is held in place by a magnetic field generated by the coils. At 2 kilogauss it is 20 times stronger than the sun's surface magnetic field, and 4,000 times more powerful than the earth's. Without this field, Mr. Watts explained, ''the plasma would rapidly leak out.'' Simply containing the material is one of the biggest headaches plasma researchers confront.</p>
+        <p>The relationship between plasmas and magnetic fields is crucial to understanding solar flares, said Robert Lin, a professor of physics at the University of California at Berkeley and the principal investigator for the Rhessi satellite, which has been observing the sun for the past year. Plasmas are a mixture of charged particles (electrons and ions), Mr. Lin explained, and hence motions within a plasma can generate circulating streams of electrical current.</p>
+        <p>In the plasma surrounding the sun -- its corona -- enormous streams of current give rise to vast magnetic fields that distort and stretch the sun's regular field. Physicists theorize that when the field lines become too distorted, they tear, snapping back to reconnect in a more relaxed state. ''This process of magnetic tearing and reconnection is what we think produces solar flares,'' Mr. Lin said. It's also what they think may be responsible for heating the corona, which, mysteriously, is millions of degrees hotter than the surface of the sun. In his machine, Mr. Watts hopes to eventually model the process of magnetic reconnection.</p>
+        <p>When solar flares erupt, charged particles are also flung out into space where they form the solar wind. Rushing past Earth at close to a million miles an hour the solar wind distorts the magnetic field surrounding our planet, stretching the field lines hundreds of thousands of miles. Again, Mr. Watts said, when the field lines become too distorted physicists believe that ''they snap back like rubber bands'' and reconnect closer in.</p>
+        <p>In the process, particles are flung back toward the Earth, where they are channeled into the poles by the natural concentration of field lines. Here they interact with the plasma of the ionosphere causing the spectacular displays of light known as auroras. Mr. Watts's machine may also be understood as an aurora in a bottle. ''The process behind solar flares and auroras are very similar,'' he said. ''But in the ionosphere the plasma is much less dense.''</p>
+        <p>Yet even very dilute plasmas can be extraordinarily complicated. Throughout the ionosphere physicists have discovered long tubular holes called ''density striations.'' These holes vary from 10 meters, or about 33 feet, in diameter to several hundred meters across, Mr. Gekelman said. Nobody knows how long they are, but physicists guess anywhere from 6 to 60 miles. Like vast serpents snaking through the sky they follow the magnetic field lines. ''They're very strange,'' he said. ''No one is sure how they form and auroras are full of them.''</p>
+        <p>''In many ways,'' Mr. Gekelman said, ''a plasma acts as if it is alive. They are constantly restructuring their environment.'' In his facility at U.C.L.A., Mr. Gekelman and his colleagues have become experts at generating striations and other, even more exotic plasma structures.</p>
+        <p>At 22 meters in length, Mr. Gekelman's machine is even larger than Mr. Watts's. It occupies a football-field sized laboratory in the basement of U.C.L.A.'s Science and Technology Building. With 90 magnetic coils, shaped like a giant caterpillar, it can produce a continuous volume of plasma about 56 feet long. The plasma is generated by a million-watt electron beam and reaches temperatures of up to 250,000 degrees. Sixty tons of copper were used to make the coils, which are fed by 4.5 megawatts of power and up to 10,000 amps of current. When it's running, cooled water is continuously pumped through the coils to prevent meltdown from overheating.</p>
+        <p>The U.C.L.A. plasma is free of background noise. ''In the early days of plasma physics, the plasma was like boiling water,'' Mr. Gekelman said. ''It was like trying to hear a conversation in a tornado.''</p>
+        <p>With a super-quiet plasma he is able to study the exotic kinds of waves which occur in this medium, some of which don't occur anywhere else in nature. Mr. Gekelman is particularly interested in a type known as Alven waves, named for the Swedish physicist and Nobel laureate Hannes Alven, who discovered them.</p>
+        <p>Just as magnetic field lines can stretch and distort, so they can carry waves ''like the strings of a guitar,'' Mr. Watts explained. Alven waves in particular are thought to contribute to the heating of the Sun's corona and they may also play a role in forming density striations in the ionosphere.</p>
+        <p>Inside his machine, Mr. Gekelman can produce these waves and then measure the three-dimensional movement of the magnetic field at 30,000 points throughout the chamber. From this data, he produces detailed images and animations of the cigar-shaped Alven waves as they move along the length of the plasma column.</p>
+        <p>Plasmas also offer clues to the workings of stars. And scientists who dream of clean and endless fusion power are slowly learning how to harness and control extremely hot plasmas. If such efforts bear practical fruit the effect on the world's energy economy would be profound.</p>
+        <p>''Plasma physics is cutting-edge basic research,'' said George Tyson, a professor of physics at University of California at San Diego, ''yet it can really impact on people's lives.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Personal Virtue' And Energy Policy</title>
+    <meta content="LTR222501" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1289980"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <person class="indexing_service">Cheney, Dick (Vice Pres)</person>
+        <person class="indexing_service">Daley, James A 3d</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DC1438F931A35756C0A9679C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Personal Virtue' And Energy Policy</hl1>
+      </hedline>
+      <abstract>
+        <p>James A Daley III letter, commenting on May 1 article, disputes assertion by Vice Pres Dick Cheney that energy conservation is a personal virtue</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Cheney Promotes Increasing Supply as Energy Policy'' (front page, May 1):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Cheney Promotes Increasing Supply as Energy Policy'' (front page, May 1):</p>
+        <p>Improved energy conservation is not a ''personal virtue,'' as the vice president suggests. Rather, in tandem with development of renewable energy sources, it provides a middle path to protect clean air, pristine wilderness areas and still meet our country's need for energy.</p>
+        <p>JAMES A. DALEY III  Boston, May 1, 2001</p>
+        <p>The writer is coordinator, Appalachian Partnership for Eastern Forests.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

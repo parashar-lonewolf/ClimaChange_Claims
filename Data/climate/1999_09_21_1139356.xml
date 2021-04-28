@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="21OBSE$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1139356"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Salamanders</classifier>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Clouds</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Asteroids</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amphibians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E5DF133CF932A1575AC0A96F958260" item-length="635" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Researchers at University of Chicago study salamanders' mating behavior; scientists from Italy and United States have shown that organic compounds from some pollutants can increase number of water droplets in clouds; NASA is coordinating project to identify up to 90 percent of asteroids with a diameter of one kilometer or more that are approaching Earth (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Salamander Courtships</p>
+        <p>In human courtship, some males say it with flowers. Plethodon jordani, a type of terrestrial salamander, is more direct, if less romantic: when a male pitches woo, it places a chemical compound from a gland under its chin directly on a female's nostrils.</p>
+        <p>That compound belongs to a class called pheromones, which help one creature identify others of the same species, their sex and whether they are ready to mate (in short, they are nature's love potions). While the effects of pheromones on behavior have been widely studied, few of the compounds in vertebrates have been identified.</p>
+      </block>
+      <block class="full_text">
+        <p>Salamander Courtships</p>
+        <p>In human courtship, some males say it with flowers. Plethodon jordani, a type of terrestrial salamander, is more direct, if less romantic: when a male pitches woo, it places a chemical compound from a gland under its chin directly on a female's nostrils.</p>
+        <p>That compound belongs to a class called pheromones, which help one creature identify others of the same species, their sex and whether they are ready to mate (in short, they are nature's love potions). While the effects of pheromones on behavior have been widely studied, few of the compounds in vertebrates have been identified.</p>
+        <p>A research team led by a scientist at the University of Chicago has now identified the main component of the salamander pheromone. The researchers, whose work was reported in the journal Science, also showed that this component, a protein, directly affects how receptive the female is.</p>
+        <p>Males use the pheromone during a phase of courtship, ''tail-straddling walk,'' in which the happy couple strolls, not arm in arm, but with the female straddling the male from behind. Using males whose chin glands had been removed, researchers tested the effect of the protein during the walk by placing it on the females' nostrils.</p>
+        <p>Females who got the protein spent a shorter time straddling the males than did those who got a control substance. And in salamanders, at least, less time spent strolling with a male means that the female is more receptive.</p>
+        <p>A Benefit of Pollution</p>
+        <p>There may be a bright side to air pollution, after all.</p>
+        <p>Scientists from Italy and the United States have shown that organic compounds from some pollutants can increase the number of water droplets in clouds. More droplets mean the clouds are brighter, reflecting more sunlight, and as a result less light reaches the earth below, making it cooler. And that may offset some of the effects of global warming, at least locally.</p>
+        <p>Clouds are created when water vapor condenses on tiny aerosol particles to form droplets. How likely this is to occur depends partly on the surface tension of the water -- the lower the surface tension, the easier it is for droplets to form.</p>
+        <p>The scientists, who reported on their study in the journal Nature, collected water from fog -- actually ground-level clouds -- in the Po River valley in northern Italy. They found that organic compounds in the water, from sources like the burning of agricultural waste, act like soap, reducing the surface tension by up to 30 percent, as compared with pure water.</p>
+        <p>They calculated that the number of droplets would increase by 20 percent, with the result that 1 percent more sunlight is reflected away from the earth. That would be enough to affect temperatures locally or perhaps regionally, the researchers said.</p>
+        <p>Killer in the Sky</p>
+        <p>Hollywood has given a lot of attention to killer asteroids in recent years, and people who work in science have followed suit. The National Aeronautics and Space Administration is coordinating a project to identify up to 90 percent of asteroids with a diameter of one kilometer or more that are approaching Earth. Asteroids of that size could cause a civilization-altering catastrophe if they struck Earth.</p>
+        <p>The project has a rather significant hole: it does not have any telescopes that can look for asteroids across the entire Southern sky. To rectify that, the University of Arizona and the Australian National University are collaborating to refurbish a telescope near Coonabarabran, in southeastern Australia.</p>
+        <p>The refurbished telescope, like all modern asteroid-seeking instruments, will use a charge-coupled device, which makes electronic images of the sky. Astronomers take images of the same part of the sky over several minutes and then compare them. An asteroid's position will shift, evidence that a potential killer is on the loose.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

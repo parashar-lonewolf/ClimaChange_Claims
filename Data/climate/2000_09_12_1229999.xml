@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sinking in Venice</title>
+    <meta content="LTR234049" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229999"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <location class="indexing_service">Venice (Italy)</location>
+        <person class="indexing_service">Costa, Paolo (Mayor)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Venice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFD61638F931A2575AC0A9669C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sinking in Venice</hl1>
+      </hedline>
+      <abstract>
+        <p>Mayor Paolo Costa letter on Aug 29 article questions predictions that Venice will flood repeatedly and sink within 100 years</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As mayor of Venice I cannot but be pleased by the prominence you give to coverage of the city in William J. Broad's article ''That Sinking Feeling, Again'' (Aug. 29). What is a little less pleasing is the final message readers might gather from the piece: Venice is on the point of disappearing forever.</p>
+        <p>This has become a rather tired leitmotif since Thomas Mann published his ''Death in Venice.'' Unfortunately, each time it is trotted out, it tends to encourage people to hurry and visit the place before it goes for good. It is more than probable that the scare stimulates even more day-tripper ''raids'' on Venice, and thus may actually serve to make its own grim prophecies self-fulfilling -- except that, in the end, Venice will not be submerged beneath the waves of the sea but beneath floods of visitors.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As mayor of Venice I cannot but be pleased by the prominence you give to coverage of the city in William J. Broad's article ''That Sinking Feeling, Again'' (Aug. 29). What is a little less pleasing is the final message readers might gather from the piece: Venice is on the point of disappearing forever.</p>
+        <p>This has become a rather tired leitmotif since Thomas Mann published his ''Death in Venice.'' Unfortunately, each time it is trotted out, it tends to encourage people to hurry and visit the place before it goes for good. It is more than probable that the scare stimulates even more day-tripper ''raids'' on Venice, and thus may actually serve to make its own grim prophecies self-fulfilling -- except that, in the end, Venice will not be submerged beneath the waves of the sea but beneath floods of visitors.</p>
+        <p>Perhaps most worrying is the rather questionable arguments put forward by the archaeologist Albert J. Ammermann and the geologist Charles E. McClennen, who are studying the origins of Venice.  Their predictions that the city will sink within 100 years and flood repeatedly involves a forecast of an  increase in the sea level because of  global warming, a complex subject that Dr. Ammermann has not studied. The questionable conclusion goes against the results of the most recent studies carried out by experts in the field.</p>
+        <p>Fortunately, I see no reason for doubting that Venice has a long life ahead of it. We are already working to guarantee that life.</p>
+        <p>PAOLO COSTA  Venice</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

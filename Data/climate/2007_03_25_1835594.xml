@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="25laugh" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/25/weekinreview/25laugh.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1835594"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="descriptor">Comedy and Humor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Comedy and Humor</classifier>
+        <person class="online_producer">Leno, Jay</person>
+        <person class="online_producer">O'Brien, Conan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070325T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E5D81530F936A15750C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+        <hl2 class="online_headline">Laugh Lines: Jay Leno and Conan O’Brien</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>According to some recently declassified documents, Iraq pretended to have weapons of mass destruction to prevent them from being attacked. Well, that plan worked well, huh?</p>
+        <p>Wal-Mart is now denying reports that they are planning on setting up their own bank. Wal-Mart wanted to open bank branches in all their stores until they realized: ''Wait a minute. We sell guns, too.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Excerpts from television talk show monologues.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>According to some recently declassified documents, Iraq pretended to have weapons of mass destruction to prevent them from being attacked. Well, that plan worked well, huh?</p>
+        <p>Wal-Mart is now denying reports that they are planning on setting up their own bank. Wal-Mart wanted to open bank branches in all their stores until they realized: ''Wait a minute. We sell guns, too.''</p>
+        <p>This afternoon, President Bush held a news conference where he accused the Democrats of playing politics with the firing of the U.S. attorneys. You know, the attorney he fired for not playing politics.</p>
+        <p>Gore told Congress that global warming shouldn't be a political issue. It should be a moral issue. And Congress said: ''A moral issue? I'm sorry you lost us there.''</p>
+        <p>Conan O'Brien</p>
+        <p>Earlier today, the world's largest airliner flew from Europe to New York and the plane's wingspan is as wide as a football field. In fact, the plane is so big it can carry 500 passengers or 80 Americans.</p>
+        <p>Sources at the Pentagon say that several factories in Iraq will soon begin making clothes to be sold in the United States. Because Americans only want two things from Iraq: a stable central government and affordable quality menswear.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Speaking Up for Cleaner Air</title>
+    <meta content="26GREEN" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/04/26/automobiles/26GREEN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1577207"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <person class="indexing_service">Motavalli, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFD9103AF935A15757C0A9629C8B63" item-length="462" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Speaking Up for Cleaner Air</hl1>
+        <hl2 class="online_headline">Speaking Up for Cleaner Air</hl2>
+      </hedline>
+      <byline class="print_byline">By JIM MOTAVALLI</byline>
+      <byline class="normalized_byline">Motavalli, Jim</byline>
+      <abstract>
+        <p>Chart discusses environmental groups looking to make sport utility vehicles cleaner,</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SEVERAL environmental groups are seeking to influence automakers to produce cleaner vehicles. Here are some of the more significant organizations:</p>
+        <p>CLEAN CAR CAMPAIGN: In addition to pressuring automakers to reduce emissions and increase fuel economy, this coalition also works to reduce or eliminate use of mercury and PVC plastic in autos.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>.</p>
+      </block>
+      <block class="full_text">
+        <p>SEVERAL environmental groups are seeking to influence automakers to produce cleaner vehicles. Here are some of the more significant organizations:</p>
+        <p>CLEAN CAR CAMPAIGN: In addition to pressuring automakers to reduce emissions and increase fuel economy, this coalition also works to reduce or eliminate use of mercury and PVC plastic in autos.</p>
+        <p>EARTH LIBERATION FRONT: This group's extreme views -- and its actions that include taking credit for S.U.V. arson fires -- has led the F.B.I. to classify it a terrorist group. According to its Web site, earthliberationfront.com, ''Since 1997, the E.L.F. in North America has caused over $100 million in damages to entities who profit from the destruction of life and the planet.''</p>
+        <p>GLOBAL EXCHANGE: This San Francisco-based organization focuses primarily on human rights, but it joined a coalition last year to criticize Ford's environmental performance. ''We are taking our demands directly to Detroit,'' said Jason Mark, the group's communications director.</p>
+        <p>SIERRA CLUB: The well-known group regularly engages the auto industry on environmental issues. Dan Becker, its chief global warming spokesperson in Washington, is known for his sound bites. ''Ford's overall fuel economy is at a 20-year low,'' Mr. Becker said.</p>
+        <p>UNION OF CONCERNED SCIENTISTS: Based in Cambridge, Mass., this group issues reports on clean-car technology and works to pass legislation. ''I don't think of our approach as confrontational or non-confrontational,'' says David Friedman, the group's research director. ''We just try to bring the best technical information to bear.''</p>
+        <p>JIM MOTAVALLI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

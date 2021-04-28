@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hot Enough in Here?</title>
+    <meta content="02sat2" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/opinion/02sat2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851463"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Griffin, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+        <person class="online_producer">Griffin, Michael D</person>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1D61330F931A35755C0A9619C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hot Enough in Here?</hl1>
+        <hl2 class="online_headline">Hot Enough in Here?</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial holds that NASA Admr Michael Griffin's comment that global warming might not be problem is jarring denial of scientific consensus that climate change is serious and requires mitigation; maintains that his belief accounts in part for NASA's ill-conceived retreat from environmental studies</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Michael Griffin, administrator of the National Aeronautics and Space Administration, is renowned for speaking bluntly so it was no surprise when he stuck his foot in his mouth during a recent interview. The disturbing element is that he may have inadvertently revealed one reason the space agency has been cutting back on satellite missions to study global warming.</p>
+        <p>In an interview with National Public Radio, Mr. Griffin acknowledged that global warming is happening but then, remarkably, suggested that it might not be a problem -- or at least one that had to be fixed. ''I am not sure that it is fair to say that it is a problem we must wrestle with. To assume that it is a problem is to assume that the state of Earth's climate today is the optimal climate,'' he said, adding that he wasn't sure there was any ''need to take steps to make sure that it doesn't change.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Michael Griffin, the NASA administrator, may have inadvertently revealed one reason the space agency has been cutting back on satellite missions to study global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>Michael Griffin, administrator of the National Aeronautics and Space Administration, is renowned for speaking bluntly so it was no surprise when he stuck his foot in his mouth during a recent interview. The disturbing element is that he may have inadvertently revealed one reason the space agency has been cutting back on satellite missions to study global warming.</p>
+        <p>In an interview with National Public Radio, Mr. Griffin acknowledged that global warming is happening but then, remarkably, suggested that it might not be a problem -- or at least one that had to be fixed. ''I am not sure that it is fair to say that it is a problem we must wrestle with. To assume that it is a problem is to assume that the state of Earth's climate today is the optimal climate,'' he said, adding that he wasn't sure there was any ''need to take steps to make sure that it doesn't change.''</p>
+        <p>Those comments were a jarring denial of the overwhelming scientific consensus that climate change is serious and requires mitigation. It even lagged behind the thinking of President Bush who -- under strong domestic and international pressure -- has now called for a long-term global goal to cut greenhouse gas emissions.</p>
+        <p>In response to the mini-furor over his comments, Mr. Griffin stressed that NASA simply collects and analyzes data; it does not make policy on issues like climate change. But the scary thing was the lens his comment provided into his innermost thoughts. The Bush administration has been justly criticized for cutting the agency's earth sciences budget and downgrading NASA's once-prominent goal ''to understand and protect our home planet.'' Tight budgets are one key reason for the cuts in earth sciences, as is the administration's long refusal to grapple with global warming. But now it seems that Mr. Griffin's own belief that climate change may be no big deal accounts in part for his agency's ill-conceived retreat from environmental studies.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

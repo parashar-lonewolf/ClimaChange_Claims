@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Next Step On Global Warming</title>
+    <meta content="LTR232217" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1300116"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">Science and Environmental Policy Project</org>
+        <person class="indexing_service">Singer, S Fred</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE6DB143EF93AA35755C0A9679C8B63" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Next Step On Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from S Fred Singer (Science and Environmental Policy Project) on June 7 article calls for effort to resolve disparities in data on global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The conclusion of the National Academy of Sciences report to the White House that human activities are causing global warming (front page, June 7) is largely based on the claim that there was an unusually rapid rise in surface temperatures during the last two decades, according to readings from surface thermometers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The conclusion of the National Academy of Sciences report to the White House that human activities are causing global warming (front page, June 7) is largely based on the claim that there was an unusually rapid rise in surface temperatures during the last two decades, according to readings from surface thermometers.</p>
+        <p>But another committee of the academy, with some of the same experts, published a report in January 2000 that tried to explain why the global atmosphere showed little if any warming since 1979, according to the best data from weather satellites and weather balloons. The current report makes no explicit mention of the incontrovertible disparity between the different data sets.</p>
+        <p>The obvious importance of this matter for setting national policy calls for an evidentiary hearing in an open, trial-like setting during which the proponents of the differing data sets can be questioned and cross-examined following established procedures in front of a jury of scientists and nonscientists.</p>
+        <p>S. FRED SINGER  President, Science  and Environmental Policy Project  Arlington, Va., June 8, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

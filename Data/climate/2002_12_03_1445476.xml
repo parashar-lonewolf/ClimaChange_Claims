@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MEMO PAD</title>
+    <meta content="Y03MEMO" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/12/03/business/03MEMO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1445476"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="BUSINESS TRAVEL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <location class="indexing_service">Europe</location>
+        <location class="indexing_service">Minneapolis (Minn)</location>
+        <org class="indexing_service">Airport Interviewing and Research (Co)</org>
+        <org class="indexing_service">Northwest Airlines</org>
+        <org class="indexing_service">Japan Airlines</org>
+        <org class="indexing_service">Le Meridien Hotels</org>
+        <person class="indexing_service">Sharkey, Joe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Business Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Business Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Minnesota</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota/Minneapolis and St. Paul</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E7DB1F38F930A35751C1A9649C8B63" item-length="369" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MEMO PAD</hl1>
+        <hl2 class="online_headline">Airport Problems Seem to Be on the Wane</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE SHARKEY</byline>
+      <byline class="normalized_byline">Sharkey, Joe</byline>
+      <abstract>
+        <p>Survey of passengers by Airport Interviewing and Research finds significant improvement in satisfaction scores for check-in time, courtesy and professionalism at security checkpoints and general reduction of so-called airport hassle factor; European airline industry factors environmental concerns into its policy positions; Britain's Royal Commission on Environmental Pollution calls for significant constraints on growth of air traffic throughout Britain and Europe as way to counter aircraft emissions as factor in global warming; also recommends 'climate protection' surcharge of $54.50 on all airline tickets; article notes special travel bargains offered by agreement between Northwest Airlines and Japan Airlines and by new Le Meridien hotel in Minneapolis, Minnesota (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Airport Problems Seem to Be on the Wane</p>
+        <p>The so-called airport hassle factor, which airlines claim significantly cut into their revenues this year as some business travelers took fewer flights to avoid it, appears to be waning.</p>
+        <p>The latest indication of the improving experience comes from Airport Interviewing and Research, a company that does passenger polls and focus group interviews for airports. In face-to-face interviews with 3,500 travelers in mid-November, the company says it found significant improvements in satisfaction scores for check-in time, courtesy and professionalism at security checkpoints, which are all now staffed by federal employees.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Airport Problems Seem to Be on the Wane.</p>
+      </block>
+      <block class="full_text">
+        <p>Airport Problems Seem to Be on the Wane</p>
+        <p>The so-called airport hassle factor, which airlines claim significantly cut into their revenues this year as some business travelers took fewer flights to avoid it, appears to be waning.</p>
+        <p>The latest indication of the improving experience comes from Airport Interviewing and Research, a company that does passenger polls and focus group interviews for airports. In face-to-face interviews with 3,500 travelers in mid-November, the company says it found significant improvements in satisfaction scores for check-in time, courtesy and professionalism at security checkpoints, which are all now staffed by federal employees.</p>
+        <p>Different Views Of Green in Europe</p>
+        <p>Which way does air travel in Europe go? The airline industry there is being careful to factor environmental concerns into policy positions. Last week, for example, the International Air Transport Association said it backed building new runways at Heathrow, Stansted and Gatwick airports in London because ''provision of adequate air space and airport capacity is a prerequisite for achieving significant reductions in congestion, delays and greenhouse gas emissions.''</p>
+        <p>That's not the way the Royal Commission on Environmental Pollution sees things. In a report (available at www.rcep.org.uk/avreport.html) last week, the British board called for ''significant constraints on the growth of air traffic'' throughout Britain and the European Union as a way to counter aircraft emissions as a factor in global warming.</p>
+        <p>The board said it would recommend a ''climate protection'' surcharge of $54.50 on all airline tickets. Meanwhile, as fractional-ownership jet companies work to expand their business in Europe, the board also denounced the ''development and promotion of business jets'' as ''grossly irresponsible.''</p>
+        <p>Travel Specials Coming This Spring</p>
+        <p>Starting April 1, Northwest Airlines WorldPerks members will be able to redeem miles to fly domestically to nearly any destination within Japan on Japan Airlines. It will take 15,000 miles for a round-class economy ticket.</p>
+        <p>A swanky Le Meridien hotel opens in March in Minneapolis with a six-month introductory rate of $209 for rooms, with amenities that include 42-inch plasma TV screens and entertainment systems with thousands of on-demand video and music selections. After the six-month shakedown cruise, the standard room rate goes to $349.</p>
+        <p>JOE SHARKEY</p>
+        <p>BUSINESS TRAVEL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

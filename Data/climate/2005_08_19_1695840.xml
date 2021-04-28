@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Arms Race to Build the World's Mightiest Computer</title>
+    <meta content="19super" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/08/19/technology/19super.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1695840"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <location class="indexing_service">China</location>
+        <location class="indexing_service">Japan</location>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <location class="online_producer">Japan</location>
+        <location class="online_producer">China</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050819T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4DE103EF93AA2575BC0A9639C8B63" item-length="1424" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Arms Race to Build the World's Mightiest Computer</hl1>
+        <hl2 class="online_headline">A New Arms Race to Build the World's Mightiest Computer</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, Aug. 18</dateline>
+      <abstract>
+        <p>Global race is under way to reach next milestone in supercomputer performance, many times speed of current machines; beyond customary rivalry in field between US and Japan, there is new entrant--China--eager to showcase its arrival as economic powerhouse; new supercomputers will not be in use until end of decade at earliest, but they are increasingly being viewed as crucial investments for progress in science, advanced technologies and national security; ultrafast computers are increasingly being used in everyday product design; China has 19 supercomputers ranked among 500 fastest machines, and recent reports in Chinese newspapers stress importance of developing high-performance computing technology not dependent on US; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A global race is under way to reach the next milestone in supercomputer performance, many times the speed of today's most powerful machines.</p>
+        <p>And beyond the customary rivalry in the field between the United States and Japan, there is a new entrant -- China -- eager to showcase its arrival as an economic powerhouse.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A global race is under way to reach the next milestone in supercomputer performance, and the customary rivalry between the U.S. and Japan now includes China.</p>
+      </block>
+      <block class="full_text">
+        <p>A global race is under way to reach the next milestone in supercomputer performance, many times the speed of today's most powerful machines.</p>
+        <p>And beyond the customary rivalry in the field between the United States and Japan, there is a new entrant -- China -- eager to showcase its arrival as an economic powerhouse.</p>
+        <p>The new supercomputers will not be in use until the end of the decade at the earliest, but they are increasingly being viewed as crucial investments for progress in science, advanced technologies and national security.</p>
+        <p>Once the exclusive territory of nuclear weapons designers and code breakers, ultrafast computers are increasingly being used in everyday product design. Procter &amp; Gamble used a supercomputer to study the airflow over its Pringles potato chips to help stop them from fluttering off the company's assembly lines.</p>
+        <p>Today, driven by advances in so-called parallel computing -- with software making it possible to lash together arrays of tens or even hundreds of thousands of processor chips -- the speed of future supercomputers is limited only by cost, adequate electricity and the ability to cool the systems, which now sprawl over thousands of square feet.</p>
+        <p>China now has 19 supercomputers ranked among the 500 fastest machines, and recent reports in Chinese newspapers stressed the importance of developing high-performance computing technology not dependent on the United States.</p>
+        <p>''It's becoming an issue of national pride,'' said Steve Wallach, a supercomputer designer who is a vice president at Chiaro Networks, a technology provider for high-performance computing. ''That's where the Japanese are coming from, and now the Chinese want to be viewed as a Tier 1 country in every respect.''</p>
+        <p>Indeed, in recent weeks there have been reports that both the Japanese and Chinese are planning new investments in breaking the petaflop computing barrier. A petaflop is a measure of computing performance that describes the ability to perform 1,000 trillion mathematical operations a second, roughly eight times the speed of today's fastest computer.</p>
+        <p>''Everyone appears to be in the race for a petaflop,'' said Jack Dongarra, a computer scientist at the University of Tennessee who maintains a list of the world's fastest computers.</p>
+        <p>Currently the world's fastest computer is a machine installed at Lawrence Livermore National Laboratory late last year -- and still growing -- that has reached more than 136 trillion operations a second, or 100,000 times the speed of a fast desktop personal computer. I.B.M. built the machine, Blue Gene/L, and plans to double its speed before the end of the year.</p>
+        <p>Only small amounts of research funds have been spent so far on designing a petaflop supercomputer, an accomplishment that Japanese and American experts believe will cost nearly $1 billion for each machine to achieve. But 10 companies have indicated that they are doing preliminary work, Mr. Dongarra said.</p>
+        <p>In the United States, Cray, I.B.M. and Sun Microsystems have begun work toward reaching a petaflop by the end of the decade, supported by a development project financed by the Pentagon.</p>
+        <p>The project, the High Productivity Computer Systems program of the Defense Advanced Research Projects Agency, or Darpa, was begun in 2003 with about $150 million as one of a series of American responses to the emergence of a Japanese supercomputer -- the Earth Simulator, intended for climate research -- as the world's fastest in 2002, displacing the United States for the first time.</p>
+        <p>With significant financial support from the government, I.B.M., Cray and Silicon Graphics all built new massively parallel supercomputers, enabling the United States to recapture world leadership in November 2004. In the most recent ranking of the world's 500 fastest computers, released in June, the United States holds the top three positions. The Earth Simulator has fallen to fourth place, with about a quarter the computing speed of the new leader.</p>
+        <p>Some executives say they believe the United States is well positioned to remain dominant in computing technologies. ''There is a lot less angst in the U.S. than there was previously,'' said David Turek, vice president for high-performance computing at I.B.M. ''We're not asleep at the switch.''</p>
+        <p>But the fastest American machines are used primarily for military applications at the nation's weapons laboratories. Many scientists and technology executives in the United States are concerned about losing out in crucial markets like oil and gas exploration, automobile design and manufacturing unless they, too, have access to the fastest supercomputers. They contend that a public-private partnership is needed to develop supercomputers whose applications are not limited to the military.</p>
+        <p>Not all supercomputer experts are convinced that having the world's fastest computer is essential to American competitiveness.</p>
+        <p>''I.B.M. and Cray are doing a good job of ensuring that the U.S. remains competitive in the high-performance computing market,'' said C. Gordon Bell, a Microsoft researcher and a former supercomputer designer. Because the very largest computers are so difficult to program, their impact in the short term is relatively limited, he added.</p>
+        <p>But in April, the Japanese Automobile Manufacturers Association reported that the Earth Simulator had been used by automotive engineers to greatly increase the speed and resolution of car-crash simulations, potentially offering a significant reduction in development time for new car models.</p>
+        <p>That has alarmed some American executives, who argue that high-performance computing is now decisive in industrial competitiveness.</p>
+        <p>''This is a subtle but important change in the competitiveness game,'' said Suzy Tichenor, vice president for high-performance computing projects at the Council on Competitiveness in Washington.</p>
+        <p>Last month in China, Lenovo Group, which acquired I.B.M.'s personal computer business last year, said it would join in a Chinese effort to build a petaflop machine by 2010 as part of a five-year government plan to advance the country's computer technology. Separately, two other Chinese companies, Dawning and Galactic Computing, have indicated they intend to develop petaflop-scale systems.</p>
+        <p>A French military program, led by the French computer maker Bull, has plans to reach a petaflop in 2013.</p>
+        <p>And already there is discussion of frontiers beyond a petaflop. Several Japanese newspapers have reported in the last month that the Japanese government is expected to announce a commitment to developing a 10-petaflop supercomputer as a follow-up to the Earth Simulator.</p>
+        <p>Separately, the Japanese computer maker Fujitsu said last month that it planned a three-petaflop computer, and the director of the Earth Simulator told Nature magazine last week that he was planning an inexpensive modification to that machine to give it power equivalent to a 16-petaflop conventional computer.</p>
+        <p>The system will employ two computers, one for rough calculations and another for more precise computing, providing more efficiency than today's massively parallel machines.</p>
+        <p>While the United States has regained the lead in supercomputing achievement, its researchers have benefited unevenly. The armed forces and intelligence agencies have traditionally commanded the very largest computing systems here, for example, while other countries have devoted their speediest computers to other efforts, notably research on climate change.</p>
+        <p>''These machines can be used to answer questions that literally will mean the life or death of humanity,'' said Peter A. Freeman, assistant director for computer and information sciences and engineering for the National Science Foundation. ''Currently the data the United States has at its disposal is not as good as what the Japanese have. It's a national strategy question.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

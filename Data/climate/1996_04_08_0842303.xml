@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Diversity In World Of Science</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="842303"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">DOCUMENTARY FILMS AND PROGRAMS</classifier>
+        <person class="indexing_service">GOODMAN, WALTER</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6DF1039F93BA35757C0A960958260" item-length="449" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Diversity In World Of Science</hl1>
+      </hedline>
+      <byline class="print_byline">By WALTER GOODMAN</byline>
+      <byline class="normalized_byline">GOODMAN, WALTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The faces in "Breakthrough: The Changing Face of Science in America" belong to 20 black, Hispanic and American Indian scientists and engineers who are exploring everything from the ozone layer to the ocean depths to the body's cells; one is building a better rotary engine, while another flies high in theoretical physics.</p>
+        <p>This six-hour documentary centers on their current careers, but there are allusions to the challenges they met in getting where they are. In tonight's opener, on space and the environment, Neil Tyson, a Princeton University astrophysicist who is studying the Milky Way, recalls that in his school in the  Bronx, he was encouraged to be an athlete and had to fight to be taken seriously as a student.</p>
+      </block>
+      <block class="full_text">
+        <p>The faces in "Breakthrough: The Changing Face of Science in America" belong to 20 black, Hispanic and American Indian scientists and engineers who are exploring everything from the ozone layer to the ocean depths to the body's cells; one is building a better rotary engine, while another flies high in theoretical physics.</p>
+        <p>This six-hour documentary centers on their current careers, but there are allusions to the challenges they met in getting where they are. In tonight's opener, on space and the environment, Neil Tyson, a Princeton University astrophysicist who is studying the Milky Way, recalls that in his school in the  Bronx, he was encouraged to be an athlete and had to fight to be taken seriously as a student.</p>
+        <p>All grabbed at opportunity. George Castro, who grew up poor in Los Angeles,  took an algebra course that set him on the road to college. Otherwise, says Mr.  Castro, a senior research scientist at I.B.M., he would probably have "majored in wood shop or machine shop, which is what all my other Chicano friends did."</p>
+        <p>Seeing such role models on the screen doing something besides playing ball or music is a happy change.  The camera catches their passion for their work, even  when the work itself remains a bit perplexing. Perhaps other viewers will have more success than I did figuring out what the theoretical physicist S. James Gates is up to with Einstein's general principle of equivalence.</p>
+        <p>So compliments to the executive producer, Henry E. Hampton (no mean role model himself), who gave us "Eyes on the Prize," "The Great Depression" and other notable documentaries, for digging into his attractive subjects' dedication to their disciplines, even though six hours of it tests a viewer's tolerance for science programs.</p>
+        <p>Speaking of which, France Cordova, who worked her way up to chief scientist at NASA, tells of being inspired as a youngster by PBS documentaries. "Breakthrough" is plainly aimed at inspiring new generations to go and do likewise. Maybe Ms. Cordova could take a moment while defending her agency's budget before Congress, as she is shown doing tonight, to put in a good word for public broadcasting.</p>
+        <p>BREAKTHROUGH The Changing Face of Science in America PBS, tonight (Channel 13, New York, at 9)</p>
+        <p>Henry E. Hampton, executive producer; Joseph Blatt, co-executive producer; Thomas Ott, producer, "The Path of Most Resistance"; Natatcha Estebanez, producer, "An Atmosphere of Change." A production of Blackside Inc.; presented on PBS by WGBH/ Boston. Andre Braugher, narrator. The series, consisting of three two-hour segments, continues on April 15 and 22.</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

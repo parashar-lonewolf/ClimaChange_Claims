@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="499978"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <org class="indexing_service">STUDENT ENVIRONMENTAL ACTION COALITION</org>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <object.title class="indexing_service">ONE LIFE TO LIVE (TV PROGRAM)</object.title>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFD6123CF930A25752C0A964958260" item-length="327" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a sense, the fate of the planet is a continuing drama. What will happen to the ozone layer, to the rain forests, to air and water quality? Tune in during the next century for some clues.</p>
+        <p>So it does not seem too incongruous that the folks who specialize in cliff-hangers of a different sort -- soap operas -- should have some interest in the environment.</p>
+      </block>
+      <block class="full_text">
+        <p>In a sense, the fate of the planet is a continuing drama. What will happen to the ozone layer, to the rain forests, to air and water quality? Tune in during the next century for some clues.</p>
+        <p>So it does not seem too incongruous that the folks who specialize in cliff-hangers of a different sort -- soap operas -- should have some interest in the environment.</p>
+        <p>On Sunday, 13 members of the cast of "One Life to Live" will enact little dramas about environmental problems and their solutions at a luncheon to benefit the Student Environmental Action Coalition, a three-year-old organization of high school and college students. The luncheon is to be held in the Macklowe Hotel Theater.</p>
+        <p>In one skit, ROBERT S. WOODS, who plays the romantic Bo Buchanan on the soap, and GRACE PHILLIPS, or Sarah Buchanan, who was presumed dead but surfaced recently as a released hostage, will go marketing. Sarah will shop in an environmentally sound way; Bo will not. After their foray, they will visit non-soap characters Archie and Edith Bunker to spread the word about "green" shopping.</p>
+        <p>The project was the idea of JESSICA TUCK, who plays Megan Gordon-Harrison on the soap. Megan is battling lupus, and Ms. Tuck is about to leave the show.</p>
+        <p>"ABC wanted me to extend my contract, and I was eager to leave, so I told them if they matched my salary and donated it to S.E.A.C., found a location to hold the benefit and helped with publicity I would stay an extra week," she said." Network executives agreed without hesitation.</p>
+        <p>"Because 60 million Americans watch soaps, you cannot believe the impact a soap person has on the public and the amount of money and consciousness that can be raised through us," Ms. Tuck said. "I want to help educate a public that doesn't bump into this on an everyday basis."</p>
+        <p>Ms. Tuck is certainly doing her part for the cause: she won't drink from paper cups, only mugs, for those endless cups of coffee soap characters seem to imbibe.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

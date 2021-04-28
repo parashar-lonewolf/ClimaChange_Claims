@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Industry, Not Sun, Is Culprit in Global Warming</title>
+    <meta content="LTR005934" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="960351"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Sun</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <org class="indexing_service">Environmental Defense Fund</org>
+        <person class="indexing_service">Oppenheimer, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sun</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EFD81E3BF936A1575AC0A961958260" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Industry, Not Sun, Is Culprit in Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Environmental Defense Fund scientist Michael Oppenheimer letter on Sept 23 article on Sun's role in global warming (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Sept. 23 Science Times article on the Sun's contribution to global warming omits critical data and obscures the most important fact about the trend -- a potentially disruptive warming of Earth is inevitable unless industrial emissions are curtailed.</p>
+        <p>It is odd that the chart of temperatures accompanying the article is cut off at 1975 and refers only to the Northern Hemisphere. Had global data for the past 20 years been included, the assertion by some that ''the majority of the century's warming occurred before 1940'' would be seen to be incorrect.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Sept. 23 Science Times article on the Sun's contribution to global warming omits critical data and obscures the most important fact about the trend -- a potentially disruptive warming of Earth is inevitable unless industrial emissions are curtailed.</p>
+        <p>It is odd that the chart of temperatures accompanying the article is cut off at 1975 and refers only to the Northern Hemisphere. Had global data for the past 20 years been included, the assertion by some that ''the majority of the century's warming occurred before 1940'' would be seen to be incorrect.</p>
+        <p>Observed warming of 1 degree Fahrenheit is the net result of many atmospheric changes, some of human origin and some natural. One reason most scientists are confident that greenhouse gases have contributed to this warming is that the atmospheric buildup of most of these gases is known to high accuracy. Consequently, their heat-trapping effect can be calculated precisely. An analogous calculation cannot yet be done for the solar effect because there are insufficient data to directly determine the Sun's variation over the past century.</p>
+        <p>Unless greenhouse emissions are curtailed soon, the human influence on climate is likely to overwhelm natural variations over the coming century.</p>
+        <p>MICHAEL  OPPENHEIMER</p>
+        <p>New York, Sept. 23, 1997</p>
+        <p>The writer is chief scientist with the Environmental Defense Fund.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

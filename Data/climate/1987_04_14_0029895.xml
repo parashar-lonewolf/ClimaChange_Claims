@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="29895"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DF1E39F937A25757C0A961948260" item-length="327" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Q.Does beer have any nutritional value? A.Beer made from barley malts, rice or corn contains small amounts of protein, minerals and vitamins, according to Dr. Joseph Owades, director of the Center for Brewing Studies, a beer research concern in San Francisco. Barley malts provide beer with protein, minerals and vitamins, while corn and rice impart carbohydrates, Dr.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Q.Does beer have any nutritional value? A.Beer made from barley malts, rice or corn contains small amounts of protein, minerals and vitamins, according to Dr. Joseph Owades, director of the Center for Brewing Studies, a beer research concern in San Francisco. Barley malts provide beer with protein, minerals and vitamins, while corn and rice impart carbohydrates, Dr.</p>
+        <p>Q.Does beer have any nutritional value? A.Beer made from barley malts, rice or corn contains small amounts of protein, minerals and vitamins, according to Dr. Joseph Owades, director of the Center for Brewing Studies, a beer research concern in San Francisco. Barley malts provide beer with protein, minerals and vitamins, while corn and rice impart carbohydrates, Dr. Owades said. One 12-ounce bottle of beer contains one gram of protein, or 2 percent of the recommended daily allowance. It also contains between 1 and 2 percent of the recommended daily allowance of B vitamins, the same amount found in a slice of bread. In addition, beer contains trace amounts of calcium, magnesium, phosphate and potassium. Dr. Owades noted, however, that alcoholic beverages should not serve as substitutes for foods in the four basic food groups. Q. How can scientists distinguish between air pollution that is man-made and that which occurs naturally? A.Scientists use radiocarbon dating techniques to determine whether airborne contaminants, which cause such environmental pollution as urban smog, come from naturally occurring sources, such as vegetative emissions, or from fossil fuel emissions that are produced by cars, power plants and factories. The technique is similar to that used by archeologists to determine the age of artifacts. Scientists collect particle samples on glass fiber filters and combust these particles to measure the amount of carbon 14 they contain. They can distinguish between naturally occurring contaminants and those produced by humans because fossil fuels such as coal and petroleum contain no living carbon 14.</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

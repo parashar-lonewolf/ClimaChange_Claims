@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ethanol Is a Winner</title>
+    <meta content="L10ETH$02" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1541877"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethanol</classifier>
+        <org class="indexing_service">Renewable Fuels Assn</org>
+        <person class="indexing_service">Dinneen, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethanol</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E4D81E3DF933A25751C1A9659C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ethanol Is a Winner</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Bob Dinneen, president of Renewable Fuels Assn, on merits of ethanol</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Swearing Fealty to Ethanol'' (editorial, Dec. 3):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Swearing Fealty to Ethanol'' (editorial, Dec. 3):</p>
+        <p>The use and expansion of ethanol, America's major home-grown renewable liquid fuel, address both oil dependency and global warming. And as you admit, ethanol is ''cleaner than some other additives currently used in gasoline.''</p>
+        <p>So why criticize those who see the efficacy of increased ethanol production for its economic, energy and environmental benefits?</p>
+        <p>You should recognize the importance to farmers and rural communities of expanding the production of ethanol.</p>
+        <p>The greatest growth in ethanol production is coming from new, farmer-owned co-ops.</p>
+        <p>Given the benefits to rural economies, reducing oil import dependency and pollution, it is not surprising that presidential candidates promote ethanol development. What is surprising is your antipathy.</p>
+        <p>BOB DINNEEN  President, Renewable Fuels Assn.  Washington, Dec. 3, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

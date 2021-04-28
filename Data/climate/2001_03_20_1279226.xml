@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="20OBSE" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1279226"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Leaves</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Comet Hale-Bopp</classifier>
+        <classifier class="indexing_service" type="descriptor">Galileo (Spacecraft)</classifier>
+        <classifier class="indexing_service" type="descriptor">Comets</classifier>
+        <classifier class="indexing_service" type="descriptor">Jupiter (Planet)</classifier>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Comets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jupiter (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010320T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E6DE153DF933A15750C0A9679C8B63" item-length="704" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Researchers in England study how plants came to evolve leaves; Comet Hale-Bopp is still throwing off dust and gas 1.2 billion miles from sun; Galileo spacecraft has had its mission extended again and will orbit Jupiter for another two years (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>How Plants Got Leaves</p>
+        <p>It might be a long-lost chapter from Kipling's ''Just So Stories.'' To how the leopard got its spots and how the rhinoceros got its skin could be added, how the plant got its leaves.</p>
+        <p>The fossil record shows that leaves -- the flat, veined kind that are everywhere today -- first became abundant on plants in the Late Devonian period, some 360 million years ago. Before that, for 40 million years after they first started appearing on land, most plants were essentially leafless stems, sometimes with small spinelike appendages.</p>
+      </block>
+      <block class="full_text">
+        <p>How Plants Got Leaves</p>
+        <p>It might be a long-lost chapter from Kipling's ''Just So Stories.'' To how the leopard got its spots and how the rhinoceros got its skin could be added, how the plant got its leaves.</p>
+        <p>The fossil record shows that leaves -- the flat, veined kind that are everywhere today -- first became abundant on plants in the Late Devonian period, some 360 million years ago. Before that, for 40 million years after they first started appearing on land, most plants were essentially leafless stems, sometimes with small spinelike appendages.</p>
+        <p>Just how plants came to evolve leaves, and why it took so long, has been a subject of much debate, and now researchers from two English universities have proposed a new explanation. According to their analysis, leaves could develop only after a steep drop in the amount of atmospheric carbon dioxide, which plants use in photosynthesis.</p>
+        <p>Early in the Devonian, when carbon dioxide levels were high, plants had few stomata, the openings that allow them to take in carbon dioxide and give off oxygen. (Plants did not need many stomata precisely because there was so much carbon dioxide.) This lack of stomata, the researchers showed, would have meant that any broad leaves that evolved would have suffered from serious overheating.</p>
+        <p>But around this time, carbon dioxide concentrations began to drop, eventually to about 10 percent of their earlier levels (in large part, of course, because of all the plants spreading across land). The researchers' analysis suggests that as plants developed more stomata to get enough carbon dioxide, evolving leaves had enough of the holes to keep cool. So leafy plants, with the evolutionary advantage of greater photosynthesis (because of all the surface area) and without the disadvantage of overheating, would have thrived.</p>
+        <p>Comet's Unusual Show</p>
+        <p>Comet Hale-Bopp, which put on a spectacular sky show while passing through the inner solar system in 1997, is still acting very much like a comet -- that is, throwing off dust and gas -- despite being 1.2 billion miles from the sun.</p>
+        <p>Recent photographs of the comet from the European Southern Observatory in Chile (Hale-Bopp has now dropped far below the plane of the solar system, so it is visible only through telescopes in the Southern Hemisphere) show that it still has a large coma and tail, signs that it is still shedding. This is unusual for a comet so far from the sun; astronomers are not quite sure why this is, but they suggest that the relatively large size of Hale-Bopp's nucleus has something to do with it.</p>
+        <p>More Work for Galileo</p>
+        <p>It hasn't been wandering for anywhere near as long as Hale-Bopp, but the Galileo spacecraft, which had already won a couple of reprieves from its NASA handlers, has had its mission extended again and will orbit Jupiter for another two years.</p>
+        <p>Galileo, which was launched from the space shuttle in 1989 and arrived at Jupiter six years later, will continue taking photographs for another year or so. Magnetic field measurements will continue as well, into 2003. Five flybys of moons are planned, including a swing past Almathea, one of the planet's small, inner satellites.</p>
+        <p>In its time around Jupiter, Galileo made numerous discoveries about the planet's atmosphere and magnetic fields, found strong evidence that subsurface oceans exist on one moon (Europa), observed volcanic activity on another (Io) and witnessed the impact of a comet (Shoemaker-Levy).</p>
+        <p>But Galileo has spent a little too much time in the sun. It has absorbed three times as much radiation as it was designed to handle, and some of its instruments are no longer working. Fittingly, perhaps, NASA plans to send the spacecraft out in a blaze of glory in August 2003. Its last orbit will be elongated, bringing it far out from the planet and then back in for a steep, suicidal plunge into the Jupiter's atmosphere.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

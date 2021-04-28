@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Experts to Pepper Seas for Clues to Climate and Weather</title>
+    <meta content="19OCEA$03" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/19/science/19OCEA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1231777"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <classifier class="indexing_service" type="descriptor">Argo (International Weather Project)</classifier>
+        <location class="indexing_service">Pacific Ocean</location>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EEDC173BF93AA2575AC0A9669C8B63" item-length="625" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Experts to Pepper Seas for Clues to Climate and Weather</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Research ship will drop six instrument-laden yellow cylinders into Pacific Ocean west of Peru, opening initial phase of Argo, an international project aimed at illuminating one of sea's best-kept secrets--how deep circulation of cold and warm water influences long-term climate and short-term weather (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Next month, a research ship will drop six instrument-laden yellow cylinders into the Pacific Ocean west of Peru, opening the initial phase of Argo, an international project aimed at illuminating one of the sea's best-kept secrets -- how the deep circulation of cold and warm water influences long-term climate and short-term weather.</p>
+        <p>Over the next several years, the project, supported by the United States and more than a dozen other countries, is scheduled to pepper the world's oceans with 3,000 of the cylinders, each of which will repeatedly sink nearly a mile deep, drift in whatever current it finds, then ascend, recording salinity and temperature changes along the way.</p>
+      </block>
+      <block class="full_text">
+        <p>Next month, a research ship will drop six instrument-laden yellow cylinders into the Pacific Ocean west of Peru, opening the initial phase of Argo, an international project aimed at illuminating one of the sea's best-kept secrets -- how the deep circulation of cold and warm water influences long-term climate and short-term weather.</p>
+        <p>Over the next several years, the project, supported by the United States and more than a dozen other countries, is scheduled to pepper the world's oceans with 3,000 of the cylinders, each of which will repeatedly sink nearly a mile deep, drift in whatever current it finds, then ascend, recording salinity and temperature changes along the way.</p>
+        <p>Each time a probe surfaces, the freshly collected data, along with its location, will bounce via satellite to scientists who can then incorporate the information into weather-forecasting models, models of global warming or other research.</p>
+        <p>Many scientists, both inside and outside the project, say it stands to improve understanding of the forces shaping weather and climate at almost every scale: from the link between ocean temperatures and the power of hurricanes to the way the oceans might sop up some of the energy accumulating in the air as levels of heat-trapping greenhouse gases rise.</p>
+        <p>Until now, scientists have only nibbled at such problems, using temperature and salinity records and other data gleaned over the decades by instruments mainly dropped along shipping routes.</p>
+        <p>''There are huge areas of open space with no information,'' said Dr. Thomas J. Crowley, an oceanographer and climate expert at Texas A&amp; M University who is not directly involved with Argo. ''This could fill in those holes,'' he said, ''and give us a much better estimate of changes in the deep structure of the ocean.''</p>
+        <p>The American component of the project is being managed by the National Oceanic and Atmospheric Administration, within the Department of Commerce. In a telephone interview yesterday, Commerce Secretary Norman Y. Mineta said Argo stood to provide the first continuing globalmonitoring of the flow of energy around the oceans.</p>
+        <p>''What we've done in the past is piecemeal,'' he said, adding that Argo was particularly important for improving computer models used to estimate the extent of global warming. By tracking the flow of warmth from air to oceans, he said, the project ''will help figure out what it is we have to be doing in terms of greenhouse gas control.''</p>
+        <p>Argo is big science, probing all the world's oceans a mile deep, but done with simple, low-budget equipment: thousands of four-foot-tall torpedo-shaped devices, each of which costs about $12,000 to build and $9,000 more to monitor through 100 or so ups and downs before batteries die after four years or so.</p>
+        <p>The data on temperature should help scientists understand how energy is exchanged between the air, shallow ocean layers -- which warm quickly -- and deeper layers of the ocean, which warm much more slowly, oceanographers said.</p>
+        <p>The hand-off of energy from shallow water to the depths is poorly understood and extremely important for understanding how the oceans influence climate, said Dr. W. Stanley Wilson, the deputy chief scientist of NOAA.</p>
+        <p>So far, the agency has received financing to pay for deploying and operating 187 probes, with a goal of getting enough support from Congress to activate another 1,125 devices. About 230 other probes have been financed by other countries, including Canada, France, England, Japan and Australia, with plans for 1,100 more.</p>
+        <p>The probes are being dropped with the eventual goal of being a uniformly distributed monitoring network.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

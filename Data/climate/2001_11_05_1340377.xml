@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Our Nuclear Plants</title>
+    <meta content="L05NUK$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/11/05/opinion/L05NUKE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1340377"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <org class="indexing_service">Safe Energy Communication Council</org>
+        <org class="indexing_service">Friends of the Earth</org>
+        <person class="indexing_service">Denman, Scott</person>
+        <person class="indexing_service">Blackwelder, Brent</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <location class="online_producer">San Jose</location>
+        <org class="online_producer">Nuclear Regulatory Commission</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E4DA1F30F936A35752C1A9679C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Our Nuclear Plants</hl1>
+        <hl2 class="online_headline">Our Nuclear Plants</hl2>
+      </hedline>
+      <abstract>
+        <p>Scott Denman (Safe Energy Communication Council) and Brent Blackwelder (Friends of the Earth) letter on Oct 29 article urges phase out of nuclear reactors as dangerous terrorist targets</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>While emergency response teams prepare for additional terrorist threats (''San Jose Emergency Plans Set Example,'' news article, Oct. 29), the nuclear industry and federal regulators are twiddling their thumbs. In tests by the Nuclear Regulatory Commission since 1992 to evaluate nuclear plant antiterrorism measures, 47 percent of reactors failed to thwart mock terrorist ground attacks.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Our Nuclear Plants To the Editor:.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>While emergency response teams prepare for additional terrorist threats (''San Jose Emergency Plans Set Example,'' news article, Oct. 29), the nuclear industry and federal regulators are twiddling their thumbs. In tests by the Nuclear Regulatory Commission since 1992 to evaluate nuclear plant antiterrorism measures, 47 percent of reactors failed to thwart mock terrorist ground attacks.</p>
+        <p>President Bush's energy plan calls for dozens of new nuclear reactors that would create more dangerous terrorist targets. But we will never be prepared until we phase out existing reactors, establish a fast-track program to exploit the potential of energy efficiency and step up power production from renewable energy sources like wind, biomass and geothermal power.</p>
+        <p>SCOTT DENMAN  BRENT BLACKWELDER  Washington, Oct. 29, 2001</p>
+        <p>The writers are, respectively, executive director, Safe Energy Communication Council; and president of Friends of the Earth.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

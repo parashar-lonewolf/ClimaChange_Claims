@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Acid Rain Enhancer</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="386657"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">AMMONIA</classifier>
+        <classifier class="indexing_service" type="descriptor">SULFUR AND SULFUR COMPOUNDS</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">TREES AND SHRUBS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DC153EF936A1575AC0A966958260" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Acid Rain Enhancer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Ammonia, present in the atmosphere in just a few parts per billion, seems to enhance the harmful effects on trees of sulfur dioxide, the main component of acid rain, researchers in England say.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Ammonia, present in the atmosphere in just a few parts per billion, seems to enhance the harmful effects on trees of sulfur dioxide, the main component of acid rain, researchers in England say.</p>
+        <p>Ammonia, present in the atmosphere in just a few parts per billion, seems to enhance the harmful effects on trees of sulfur dioxide, the main component of acid rain, researchers in England say.</p>
+        <p>The scientists, A. R. McLeod and colleagues from the National Power Technology and Environmental Center in Surrey and at Imperial College in Berkshire, studied Norway spruce, Sitka spruce and Scots pine, three common European conifers.</p>
+        <p>On its own, sulfur dioxide gas dissolves in the water on a wet leaf, increasing the acidity of the water. But when alkaline ammonia is present, the water can hold much more sulfur dioxide. The ammonia also dissolves and releases nitrogen, an essential nutrient.</p>
+        <p>Up to a point, the nitrogen may promote growth. But ultimately too much nitrogen can upset the chemical balance of the trees and the soil and contribute to the decline of European forests, the scientists said.</p>
+        <p>''The interaction between ammonia and sulfur dioxide was completely unexpected,'' said one researcher, R. A. Skeffington, adding that the findings complicate the concept of ''critical load,'' the threshold suggested by some scientists below which a pollutant would not be harmful.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

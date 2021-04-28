@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dangling Particles</title>
+    <meta content="18randall" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/09/18/opinion/18randall.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1703199"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Physics</classifier>
+        <classifier class="online_producer" type="descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <person class="online_producer">Randall, Lisa</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E5DC1F31F93BA2575AC0A9639C8B63" item-length="1863" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dangling Particles</hl1>
+        <hl2 class="online_headline">Dangling Particles</hl2>
+      </hedline>
+      <byline class="print_byline">By Lisa Randall</byline>
+      <byline class="normalized_byline">Randall, Lisa</byline>
+      <dateline>CAMBRIDGE, Mass.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCIENCE plays an increasingly significant role in people's lives, making the faithful communication of scientific developments more important than ever. Yet such communication is fraught with challenges that can easily distort discussions, leading to unnecessary confusion and misunderstandings.</p>
+        <p>Some problems stem from the esoteric nature of current research and the associated difficulty of finding sufficiently faithful terminology. Abstraction and complexity are not signs that a given scientific direction is wrong, as some commentators have suggested, but are instead a tribute to the success of human ingenuity in meeting the increasingly complex challenges that nature presents. They can, however, make communication more difficult. But many of the biggest challenges for science reporting arise because in areas of evolving research, scientists themselves often only partly understand the full implications of any particular advance or development. Since that dynamic applies to most of the scientific developments that directly affect people's lives -- global warming, cancer research, diet studies -- learning how to overcome it is critical to spurring a more informed scientific debate among the broader public.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why writing accurately about science is so hard.</p>
+      </block>
+      <block class="full_text">
+        <p>SCIENCE plays an increasingly significant role in people's lives, making the faithful communication of scientific developments more important than ever. Yet such communication is fraught with challenges that can easily distort discussions, leading to unnecessary confusion and misunderstandings.</p>
+        <p>Some problems stem from the esoteric nature of current research and the associated difficulty of finding sufficiently faithful terminology. Abstraction and complexity are not signs that a given scientific direction is wrong, as some commentators have suggested, but are instead a tribute to the success of human ingenuity in meeting the increasingly complex challenges that nature presents. They can, however, make communication more difficult. But many of the biggest challenges for science reporting arise because in areas of evolving research, scientists themselves often only partly understand the full implications of any particular advance or development. Since that dynamic applies to most of the scientific developments that directly affect people's lives -- global warming, cancer research, diet studies -- learning how to overcome it is critical to spurring a more informed scientific debate among the broader public.</p>
+        <p>Ambiguous word choices are the source of some misunderstandings. Scientists often employ colloquial terminology, which they then assign a specific meaning that is impossible to fathom without proper training. The term ''relativity,'' for example, is intrinsically misleading. Many interpret the theory to mean that everything is relative and there are no absolutes. Yet although the measurements any observer makes depend on his coordinates and reference frame, the physical phenomena he measures have an invariant description that transcends that observer's particular coordinates. Einstein's theory of relativity is really about finding an invariant description of physical phenomena. Indeed, Einstein agreed with the suggestion that his theory would have been better named ''Invariantentheorie.'' But the term ''relativity'' was already too entrenched at the time for him to change.</p>
+        <p>''The uncertainty principle'' is another frequently abused term. It is sometimes interpreted as a limitation on observers and their ability to make measurements. But it is not about intrinsic limitations on any one particular measurement; it is about the inability to precisely measure particular pairs of quantities simultaneously. The first interpretation is perhaps more engaging from a philosophical or political perspective. It's just not what the science is about.</p>
+        <p>Scientists' different use of language becomes especially obvious (and amusing) to me when I hear scientific terms translated into another language. ''La théorie des champs'' and ''la théorie des cordes'' are the French versions of ''field theory'' and ''string theory.'' When I think of ''un champs,'' I think of cows grazing in a pasture, but when I think of ''field theory'' I have no such association. It is the theory I use that combines quantum mechanics and special relativity and describes objects existing throughout space that create and destroy particles. And string theory is not about strings that you tie around your finger that are made up of atoms; strings are the basic fundamental objects out of which everything is made. The words ''string theory'' give you a picture, but that picture can sometimes lead to misconceptions about the science.</p>
+        <p>Most people think of ''seeing'' and ''observing'' directly with their senses. But for physicists, these words refer to much more indirect measurements involving a train of theoretical logic by which we can interpret what is ''seen.'' I do theoretical research on string theory and particle physics and try to focus on aspects of those theories we might experimentally test. My most recent research is about extra dimensions of space. Remarkably, we can potentially ''see'' or ''observe'' evidence of extra dimensions. But we won't reach out and touch those dimensions with our fingertips or see them with our eyes. The evidence will consist of heavy particles known as Kaluza-Klein modes that travel in extra-dimensional space. If our theories correctly describe the world, there will be a precise enough link between such particles (which will be experimentally observed) and extra dimensions to establish the existence of extra dimensions.</p>
+        <p>Even the word ''theory'' can be a problem. Unlike most people, who use the word to describe a passing conjecture that they often regard as suspect, physicists have very specific ideas in mind when they talk about theories. For physicists, theories entail a definite physical framework embodied in a set of fundamental assumptions about the world that lead to a specific set of equations and predictions -- ones that are borne out by successful predictions. Theories aren't necessarily shown to be correct or complete immediately. Even Einstein took the better part of a decade to develop the correct version of his theory of general relativity. But eventually both the ideas and the measurements settle down and theories are either proven correct, abandoned or absorbed into other, more encompassing theories.</p>
+        <p>The very different uses of the word ''theory'' provide a field day for advocates of ''intelligent design.'' By conflating a scientific theory with the colloquial use of the word, creationists instantly diminish the significance of science in general and evolution's supporting scientific evidence in particular. Admittedly, the debate is complicated by the less precise nature of evolutionary theory and our inability to perform experiments to test the progression of a particular species. Moreover, evolution is by no means a complete theory. We have yet to learn how the initial conditions for evolution came about -- why we have 23 pairs of chromosomes and at which level evolution operates are only two of the things we don't understand. But such gaps should serve as incentives for questions and further scientific advances, not for abandoning the scientific enterprise.</p>
+        <p>This debate might be tamed if scientists clearly acknowledged both the successes and limitations of the current theory, so that the indisputable elements are clearly isolated. But skeptics have to acknowledge that the way to progress is by scientifically addressing the missing elements, not by ignoring evidence. The current controversy over what to teach is just embarrassing.</p>
+        <p>''Global warming'' is another example of problematic terminology. Climatologists predict more drastic fluctuations in temperature and rainfall -- not necessarily that every place will be warmer. The name sometimes subverts the debate, since it lets people argue that their winter was worse, so how could there be global warming? Clearly ''global climate change'' would have been a better name.</p>
+        <p>But not all problems stem solely from poor word choices. Some stem from the intrinsically complex nature of much of modern science. Science sometimes transcends this limitation: remarkably, chemists were able to detail the precise chemical processes involved in the destruction of the ozone layer, making the evidence that chlorofluorocarbon gases (Freon, for example) were destroying the ozone layer indisputable.</p>
+        <p>How to report scientific developments on vital issues of the day that are less well understood or in which the connection is less direct is a more complicated question. Global weather patterns are a case in point. Even if we understand some effects of carbon dioxide in the atmosphere, it is difficult to predict the precise chain of events that a marked increase in carbon dioxide will cause.</p>
+        <p>The distillation of results presented to the public in such cases should reflect at least some of the subtleties of the most current developments. More balanced reporting would of course help. Journalists will seek to offer balance by providing an opposing or competing perspective from another scientist on a given development. But almost all newly discovered results will have some supporters and some naysayers, and only time and more evidence will sort out the true story. This was a real problem in the global warming debate for a while: the story was reported in a way that suggested some scientists believed it was an issue and some didn't, even long after the bulk of the scientific community had recognized the seriousness of the problem.</p>
+        <p>Sometimes, as with global warming, the claims have been underplayed. But often it's the opposite: a cancer development presented as a definite advance can seem far more exciting and might raise the status of the researcher far more than a result presented solely as a partial understanding of a microscopic mechanism whose connection to the disease is uncertain. Scientists and the public are both at fault. No matter how many times these ''breakthroughs'' prove misleading, they will be reported this way as long as that's what people want to hear.</p>
+        <p>A better understanding of the mathematical significance of results and less insistence on a simple story would help to clarify many scientific discussions. For several months, Harvard was tortured by empty debates over the relative intrinsic scientific abilities of men and women. One of the more amusing aspects of the discussion was that those who believed in the differences and those who didn't used the same evidence about gender-specific special ability. How could that be? The answer is that the data shows no substantial effects. Social factors might account for these tiny differences, which in any case have an unclear connection to scientific ability. Not much of a headline when phrased that way, is it?</p>
+        <p>EACH type of science has its own source of complexity and potential for miscommunication. Yet there are steps we can take to improve public understanding in all cases. The first would be to inculcate greater understanding and acceptance of indirect scientific evidence. The information from an unmanned space mission is no less legitimate than the information from one in which people are on board.</p>
+        <p>This doesn't mean never questioning an interpretation, but it also doesn't mean equating indirect evidence with blind belief, as people sometimes suggest. Second, we might need different standards for evaluating science with urgent policy implications than research with purely theoretical value. When scientists say they are not certain about their predictions, it doesn't necessarily mean they've found nothing substantial. It would be better if scientists were more open about the mathematical significance of their results and if the public didn't treat math as quite so scary; statistics and errors, which tell us the uncertainty in a measurement, give us the tools to evaluate new developments fairly.</p>
+        <p>But most important, people have to recognize that science can be complex. If we accept only simple stories, the description will necessarily be distorted. When advances are subtle or complicated, scientists should be willing to go the extra distance to give proper explanations and the public should be more patient about the truth. Even so, some difficulties are unavoidable. Most developments reflect work in progress, so the story is complex because no one yet knows the big picture.</p>
+        <p>But speculation and the exploration of ideas beyond what we know with certainty are what lead to progress. They are what makes science exciting. Although the more involved story might not have the same immediate appeal, the truth in the end will always be far more interesting.</p>
+        <p>Op-Ed Contributor Lisa Randall, a professor of physics at Harvard, is the author of ''Warped Passages: Unraveling the Mysteries of the Universe's Hidden Dimensions.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Lisa Randall, a professor of physics at Harvard, is the author of ''Warped Passages: Unraveling the Mysteries of the Universe's Hidden Dimensions.''</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming: Costly Solutions?</title>
+    <meta content="LTR011547" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1061961"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Arsenic</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <location class="indexing_service">Bangladesh</location>
+        <person class="indexing_service">Sarkar, Bibudhendra (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Bangladesh</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDB1331F937A25752C1A96E958260" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming: Costly Solutions?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Bibudhendra Sarkar, biochemistry professor at University of Toronto, calls arsenic poisoning in Bangladesh one of worst environmental disasters of century (Nov 10 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Arsenic poisoning in Bangladesh is possibly one of the worst environmental disasters of our century (front page, Nov. 10). My expertise is in metal-related diseases, and a year ago I traveled through many villages in Bangladesh to study this poisoning.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Arsenic poisoning in Bangladesh is possibly one of the worst environmental disasters of our century (front page, Nov. 10). My expertise is in metal-related diseases, and a year ago I traveled through many villages in Bangladesh to study this poisoning.</p>
+        <p>The situation is worse than it appears. I discovered countless subclinical cases in which people showed no physical symptoms, but they'll eventually become sick and die. If this were a sudden disaster like Chernobyl or Bhopal, local and international experts would instantly descend and work together. A well-coordinated group of experts must be drawn up. It's time to do something.</p>
+        <p>BIBUDHENDRA SARKAR  Toronto, Nov. 12, 1998</p>
+        <p>The writer is a professor of biochemistry, University of Toronto.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

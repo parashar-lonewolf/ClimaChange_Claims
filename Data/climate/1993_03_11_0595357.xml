@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rate Increase Of 5% Allowed For Con Edison</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="595357"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">RATES</classifier>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <org class="indexing_service">CONSOLIDATED EDISON CO OF NY INC</org>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2D81731F932A25750C0A965958260" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rate Increase Of 5% Allowed For Con Edison</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Public Service Commission yesterday approved a 5 percent rate increase for electricity customers of Consolidated Edison, to take effect on April 1.</p>
+        <p>For a typical apartment dweller using 250 kilowatt hours a month the bill would rise to about $40.50 from $39; for a customer in a house the increase would be about twice that much.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Public Service Commission yesterday approved a 5 percent rate increase for electricity customers of Consolidated Edison, to take effect on April 1.</p>
+        <p>For a typical apartment dweller using 250 kilowatt hours a month the bill would rise to about $40.50 from $39; for a customer in a house the increase would be about twice that much.</p>
+        <p>The increase follows a 4.5 percent rise a year ago. The company is eligible for another increase in a year, most likely to be about the same size, under a three-year agreement last spring between the utility and the Public Service Commission.</p>
+        <p>The company's electric rates, which are among the highest in the country, were stable from 1983 until 1992, except for 1987, when they were cut 3.1 percent.  Utility Cites Reasons</p>
+        <p>Con Ed's application to the Public Service Commission cited sharply higher costs for operation and maintenance expenses, including higher labor costs and expenses to remove asbestos. It also cited the cost of paying bonuses to electric customers who replace old lighting and other equipment with new appliances that use less electricity, a step that lowers costs in the long run by saving fuel and reducing the need for new generating capacity.</p>
+        <p>The company also said that its costs were rising because of a Federal law that requires it to buy power from independent generators who operate plants that make electricity and steam for industrial use. The law was intended to encourage greater efficiency in the use of fossil fuels, which Congress believed at the time would be in short supply by the 1990's.</p>
+        <p>Con Ed has 2.9 million electric customers, covering nearly all of New York City except a small portion of Queens, and most of Westchester County.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heated Words</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="771139"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">OPPENHEIMER, MICHAEL</person>
+        <object.title class="indexing_service">MOMENT ON THE EARTH, A (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED9103EF936A15755C0A963958260" item-length="419" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heated Words</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>You ran a letter in your May 28 issue from Michael Oppenheimer, of the Environmental Defense Fund, asserting that my book "A Moment on the Earth" contains errors. Two of the three claimed mistakes are not errors.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>You ran a letter in your May 28 issue from Michael Oppenheimer, of the Environmental Defense Fund, asserting that my book "A Moment on the Earth" contains errors. Two of the three claimed mistakes are not errors.</p>
+        <p>Mr. Oppenheimer is right to call me to task for saying sea-level rise during the last century is one inch; the figure is four inches. I have been acknowledging this mistake for months and have already corrected new editions. This single-sentence error does not, however, alter my larger point, which is that observed sea-level rise is not as dramatic as predicted.</p>
+        <p>I did not err, as Mr. Oppenheimer asserts, by saying that the National Academy of Sciences "has backed away from the high end" of its global warming projection. For more than a decade, the academy has forecast a possible temperature increase of one to five degrees Celsius. In its 1991 report "Policy Implications of Greenhouse Warming," an academy panel based much of its analysis on the notion that the coming century may be "warmer by a few degrees," a median, not high-end, projection. My paraphrase reflects this.</p>
+        <p>Mr. Oppenheimer creates the appearance of error by altering the context of my statement "Global temperatures should have risen about five degrees Fahrenheit by now." This sentence is not a summary of current forecasts, as Mr. Oppenheimer suggests. In context the sentence clearly refers to what happens when greenhouse computers are set to the conditions of the past, to see if they "predict" present climate. The upcoming report of the Intergovernmental Panel on Climate Change supports my statement.</p>
+        <p>Broadly, Mr. Oppenheimer condemns my work as "rife with errors, generally made in support of spurious arguments." This is a curious censure in light of Mr. Oppenheimer's own record of dubious claims. His 1990 book about global warming, "Dead Heat," supposes that by this year, 1995, the greenhouse effect would be "desolating the heartlands of North America and Eurasia" with horrific drought, causing crop failures and food riots. By 1996, Mr. Oppenheimer and his co-author wrote, the Platte River of Nebraska would be dry, while a continent-wide "black blizzard of prairie topsoil" would "stop traffic on interstates, strip paint from houses and shut down computers." The Mexican police would "round up illegal American migrants" surging into Mexico seeking work as field hands. Spurious argument seems a technique Mr. Oppenheimer knows well.  GREGG EASTERBROOK  Arlington, Va.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

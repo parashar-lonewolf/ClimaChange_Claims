@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Extinctions and Isotopes</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="115119"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">COMETS</classifier>
+        <person class="indexing_service">MACDOUGALL, J D</person>
+        <person class="indexing_service">MAGARITZ, MORDECKAI</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Comets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE5DE1338F931A35751C0A96E948260" item-length="306" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Extinctions and Isotopes</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Two groups of scientists studying isotopes (forms of atoms) have reached sharply contrasting conclusions about the possible causes of mass extinctions. Their papers appear to add fuel to the debate over comets' role.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Two groups of scientists studying isotopes (forms of atoms) have reached sharply contrasting conclusions about the possible causes of mass extinctions. Their papers appear to add fuel to the debate over comets' role.</p>
+        <p>Two groups of scientists studying isotopes (forms of atoms) have reached sharply contrasting conclusions about the possible causes of mass extinctions. Their papers appear to add fuel to the debate over comets' role.</p>
+        <p>J. D. Macdougall of the Scripps Institution of Oceanography suggests in Science that the ratio of two isotopes of strontium found in a sedimentary layer supports the theory that a large extraterrestrial body hit the Earth 65 million years ago, the end of the Cretaceous period, and brought the extinction of dinosaurs and many other animals.</p>
+        <p>Dr. Macdougall said the strontium ratio could have been caused by a rapid flow of minerals from weathered rocks into the sea. Rapid weathering could have resulted from a protracted period of acid rain, which in turn might have been caused by nitrogen oxides formed in the atmosphere by a comet's impact.</p>
+        <p>Meanwhile, Mordeckai Magaritz of the Weizmann Institute in Israel and colleagues suggest in Nature that another great extinction, at the end of the Permian period 230 million years ago, could not have been caused by any single catastrophic event.</p>
+        <p>The Permian extinction, believed to have been the most devastating of all mass extinctions, killed off 96 percent of all marine invertebrate animals. Dr. Magaritz and his associates note that carbon 13 is unusually deficient in rocks associated with extinctions at the ends of the Ordovician, Permian and Cretaceous periods. But the group determined that the carbon 13 deficiency at the end of the Permian apparently lasted a million years.</p>
+        <p>Because changes in the carbon isotope ratios in marine sediments are believed to reflect changes in life in the sea, the scientists infer that the biological changes at the end of the Permian must have happened too slowly to have resulted from a single catastrophic event.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

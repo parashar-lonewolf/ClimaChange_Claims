@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Computing, 2016: What Won't Be Possible?</title>
+    <meta content="31essa" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/10/31/science/31essa.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1801084"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="ESSAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Essay</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <person class="online_producer">Lohr, Steve</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E5DC123FF932A05753C1A9609C8B63" item-length="878" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Computing, 2016: What Won't Be Possible?</hl1>
+        <hl2 class="online_headline">Computing, 2016: What Won’t Be Possible?</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Computer science is not only a comparatively young field, but also one that has had to prove it is really science. Skeptics in academia would often say that after Alan Turing described the concept of the ''universal machine'' in the late 1930's -- the idea that a computer in theory could be made to do the work of any kind of calculating machine, including the human brain -- all that remained to be done was mere engineering.</p>
+        <p>The more generous perspective today is that decades of stunningly rapid advances in processing speed, storage and networking, along with the development of increasingly clever software, have brought computing into science, business and culture in ways that were barely imagined years ago. The quantitative changes delivered through smart engineering opened the door to qualitative changes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In a decade, it is likely that the impact of computing will go deeper into the sciences and spread more into the social sciences and that policy issues will loom large.</p>
+      </block>
+      <block class="full_text">
+        <p>Computer science is not only a comparatively young field, but also one that has had to prove it is really science. Skeptics in academia would often say that after Alan Turing described the concept of the ''universal machine'' in the late 1930's -- the idea that a computer in theory could be made to do the work of any kind of calculating machine, including the human brain -- all that remained to be done was mere engineering.</p>
+        <p>The more generous perspective today is that decades of stunningly rapid advances in processing speed, storage and networking, along with the development of increasingly clever software, have brought computing into science, business and culture in ways that were barely imagined years ago. The quantitative changes delivered through smart engineering opened the door to qualitative changes.</p>
+        <p>Computing changes what can be seen, simulated and done. So in science, computing makes it possible to simulate climate change and unravel the human genome. In business, low-cost computing, the Internet and digital communications are transforming the global economy. In culture, the artifacts of computing include the iPod, YouTube and computer-animated movies.</p>
+        <p>What's next? That was the subject of a symposium in Washington this month held by the Computer Science and Telecommunications Board, which is part of the National Academies and the nation's leading advisory board on science and technology. Joseph F. Traub, the board's chairman and a professor at Columbia University, titled the symposium ''2016.''</p>
+        <p>Computer scientists from academia and companies like I.B.M. and Google discussed topics including social networks, digital imaging, online media and the impact on work and employment. But most talks touched on two broad themes: the impact of computing will go deeper into the sciences and spread more into the social sciences, and policy issues will loom large, as the technology becomes more powerful and more pervasive.</p>
+        <p>Richard M. Karp, a professor at the University of California, Berkeley, gave a talk whose title seemed esoteric: ''The Algorithmic Nature of Scientific Theories.''</p>
+        <p>Yet he presented a fundamental explanation for why computing has had such a major impact on other sciences, and Dr. Karp himself personifies the trend. His research has moved beyond computer science to microbiology in recent years. An algorithm, put simply, is a step-by-step recipe for calculation, and it is a central concept in both mathematics and computer science.</p>
+        <p>''Algorithms are small but beautiful,'' Dr. Karp observed. And algorithms are good at describing dynamic processes, while scientific formulas or equations are more suited to static phenomena. Increasingly, scientific research seeks to understand dynamic processes, and computer science, he said, is the systematic study of algorithms.</p>
+        <p>Biology, Dr. Karp said, is now understood as an information science. And scientists seek to describe biological processes, like protein production, as algorithms. ''In other words, nature is computing,'' he said.</p>
+        <p>Social networks, noted Jon Kleinberg, a professor at Cornell, are pre-technological creations that sociologists have been analyzing for decades. A classic example, he noted, was the work of Stanley Milgram of Harvard, who in the 1960's asked each of several volunteers in the Midwest to get a letter to a stranger in Boston. But the path was not direct: under the rules of the experiment, participants could send a letter only to someone they knew. The median number of intermediaries was six -- hence, the term ''six degrees of separation.''</p>
+        <p>But with the rise of the Internet, social networks and technology networks are becoming inextricably linked, so that behavior in social networks can be tracked on a scale never before possible.</p>
+        <p>''We're really witnessing a revolution in measurement,'' Dr. Kleinberg said.</p>
+        <p>The new social-and-technology networks that can be studied include e-mail patterns, buying recommendations on commercial Web sites like Amazon, messages and postings on community sites like MySpace and Facebook, and the diffusion of news, opinions, fads, urban myths, products and services over the Internet. Why do some online communities thrive, while others decline and perish? What forces or characteristics determine success? Can they be captured in a computing algorithm?</p>
+        <p>Social networking research promises a rich trove for marketers and politicians, as well as sociologists, economists, anthropologists, psychologists and educators.</p>
+        <p>''This is the introduction of computing and algorithmic processes into the social sciences in a big way,'' Dr. Kleinberg said, ''and we're just at the beginning.''</p>
+        <p>But having a powerful new tool of tracking the online behavior of groups and individuals also raises serious privacy issues. That became apparent this summer when AOL inadvertently released Web search logs of 650,000 users.</p>
+        <p>Future trends in computer imaging and storage will make it possible for a person, wearing a tiny digital device with a microphone and camera, to essentially record his or her life. The potential for communication, media and personal enrichment is striking. Rick Rashid, a computer scientist and head of Microsoft's research labs, noted that he would like to see a recording of the first steps of his grown son, or listen to a conversation he had with his father many years ago. ''I'd like some of that back,'' he said. ''In the future, that will be possible.''</p>
+        <p>But clearly, the technology could also enable a surveillance society. ''We'll have the capability, and it will be up to society to determine how we use it,'' Dr. Rashid said. ''Society will determine that, not scientists.''</p>
+        <p>ESSAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

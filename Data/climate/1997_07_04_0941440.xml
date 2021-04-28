@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Students Put Energies Into a Futuristic Car</title>
+    <meta content="04AUTO$02" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; Sports" name="online_sections"/>
+    <meta content="AUTOS ON FRIDAY/Technology" name="column_name"/>
+    <docdata>
+      <doc-id id-string="941440"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="AUTOS ON FRIDAY/Technology"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E0D91330F937A35754C0A961958260" item-length="754" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Students Put Energies Into a Futuristic Car</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Students as 12 North American universities try out vehicles that use alternative fuels during two-day, 600-mile race from Detroit to Washington; cars, except for one, are 'hybrid electric vehicles,' with wheels turned by electric motor, as well as internal-combustion engine (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a Government-industry partnership seeks the car of the future -- an almost-magic vehicle that is supposed to be clean and superefficient but no smaller, no slower and no more costly than today's version -- outsiders ask if it will be driven by electricity or by fossil fuels.</p>
+        <p>Quite possibly by both, many experts say, and several dozen of the most optimistic engineers and almost-engineers, students at 12 North American universities, tried out various permutations last month in a two-day, 600-mile race to Washington from Detroit. The contest was sponsored by Ford, General Motors and Chrysler, which were looking for talent, and by the Department of Energy, which was also after new ideas, of which there were many.</p>
+      </block>
+      <block class="full_text">
+        <p>As a Government-industry partnership seeks the car of the future -- an almost-magic vehicle that is supposed to be clean and superefficient but no smaller, no slower and no more costly than today's version -- outsiders ask if it will be driven by electricity or by fossil fuels.</p>
+        <p>Quite possibly by both, many experts say, and several dozen of the most optimistic engineers and almost-engineers, students at 12 North American universities, tried out various permutations last month in a two-day, 600-mile race to Washington from Detroit. The contest was sponsored by Ford, General Motors and Chrysler, which were looking for talent, and by the Department of Energy, which was also after new ideas, of which there were many.</p>
+        <p>Each university was given a garden-variety midsized car: a Chevrolet Lumina, a Dodge Intrepid or Ford Taurus. What they converted them to, with one exception, were ''hybrid electric vehicles,'' meaning that they had wheels that were turned by an electric motor, but that they also carried an internal-combustion engine.</p>
+        <p>But these divided into two very different designs. Four were ''series hybrids,'' with the power sources lined up one behind the other, with an internal-combustion engine driving a generator to make electricity for the batteries or for the electric motors driving the wheels.</p>
+        <p>That arrangement makes life easy for an internal-combustion engine. While the power plant of an ordinary car must operate over a wide range of engine speeds, giving adequate efficiency and acceptable emissions at all levels, an engine in a series hybrid can be set to run in only a very narrow range of r.p.m.'s, and tuned to be as clean and efficient as possible in that range. When it has produced all the energy the batteries can hold, if there is not enough demand from the wheels for its energy, the engine shuts down, which is infinitely more efficient than idling.</p>
+        <p>Two teams used three-cylinder Geo Metro engines for the job. The Geo engines displace only 1,000 cubic centimeters; Michigan Technological University got away with a boat engine half that size. The fourth series hybrid used a 1.9-liter Volkswagen diesel, known for high efficiency but not for quick acceleration, which did not matter in this setting.</p>
+        <p>Seven teams built ''parallel hybrids,'' which let the electric motor and the gasoline engine pool their horsepower to turn the wheels. In this design, a lightweight electric motor can kick in at times of peak demand, as when the car is accelerating, to reduce the load on the internal-combustion engine. This allows for a small, fuel-efficient engine -- five of them chose the Volkswagen diesel -- in a car that still has brisk acceleration.</p>
+        <p>Just to show that there is always another possible solution, students from the Chicago campus of the University of Illinois built a pneumatic energy-storage system running on an 850-cubic-centimeter engine. When the engine was producing more horsepower than was needed to drive the wheels, the surplus was used to pump air into a tank. When the driver wanted more energy than the engine could give, the car tapped into this reservoir of compressed air. The air, mixed with fuel -- in this case, compressed natural gas -- was rammed into the engine, increasing the amount of fuel and air in the cylinders and raising power output by about 30 horsepower.</p>
+        <p>The competition was part of the Partnership for the Next Generation Vehicle, which comprises the Big Three auto makers plus the Federal Government. Its goals are a car the size of the three models used in this race, that will go 80 miles on a gallon of gas (or its equivalent in some other fuel) with the same travel range as an ordinary gasoline car, with no loss of acceleration. This dream car should not sacrifice space for luggage or people.</p>
+        <p>The students did not quite meet any of those goals, but then, neither have their elders, who have not yet put such a car on the road.</p>
+        <p>And nearly all the students took  short cuts; for example, to squeeze in batteries, extra engines, natural gas tanks, electric equipment and other odds and ends, nearly all the teams eliminated equipment that is standard on a conventional car. Each car had dispensed with the spare tire, in favor of a can of Fix-a-Flat.</p>
+        <p>AUTOS ON FRIDAY/Technology</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

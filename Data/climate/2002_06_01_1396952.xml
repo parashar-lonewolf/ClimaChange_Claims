@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Making A Point On Global Warming</title>
+    <meta content="MB011017" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1396952"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E4DB153AF932A35755C0A9649C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Making A Point On Global Warming</hl1>
+      </hedline>
+      <byline class="print_byline">By Barbara Crossette (NYT)</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To make the point that European nations, unlike the United States, are squarely behind the Kyoto treaty for the reduction of greenhouse gases, diplomats and officials from all 15 members of the European Union presented their countries' ratifications to the United Nations in a group ceremony. Seventy countries have ratified the treaty, more than the required 55, but together the ratifying nations must account for at least 55 percent of total emissions from industrial countries, and that target has not been met. Japan is to ratify the pact next week, and the Europeans are pressing Russia to ratify so the treaty can come into force.</p>
+        <p>Barbara Crossette (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>To make the point that European nations, unlike the United States, are squarely behind the Kyoto treaty for the reduction of greenhouse gases, diplomats and officials from all 15 members of the European Union presented their countries' ratifications to the United Nations in a group ceremony. Seventy countries have ratified the treaty, more than the required 55, but together the ratifying nations must account for at least 55 percent of total emissions from industrial countries, and that target has not been met. Japan is to ratify the pact next week, and the Europeans are pressing Russia to ratify so the treaty can come into force.</p>
+        <p>Barbara Crossette (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

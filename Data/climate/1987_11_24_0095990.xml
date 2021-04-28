@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carbon Dioxide Census</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="95990"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">POPULATION</classifier>
+        <org class="indexing_service">AMERICAN MUSEUM OF NATURAL HISTORY (NYC)</org>
+        <person class="indexing_service">NEWELL, NORMAN D (DR)</person>
+        <person class="indexing_service">MARCUS, LESLIE (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1D9163AF937A15752C1A961948260" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carbon Dioxide Census</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The rate of increase of carbon dioxide in the atmosphere matches the rate of global population growth with precision that is ''amazing,'' two paleontologists have found. Dr. Norman D. Newell and Dr. Leslie Marcus, both of the American Museum of Natural History in New York City, cited data gathered from 1958 to 1983 for their study.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The rate of increase of carbon dioxide in the atmosphere matches the rate of global population growth with precision that is ''amazing,'' two paleontologists have found. Dr. Norman D. Newell and Dr. Leslie Marcus, both of the American Museum of Natural History in New York City, cited data gathered from 1958 to 1983 for their study.</p>
+        <p>The rate of increase of carbon dioxide in the atmosphere matches the rate of global population growth with precision that is ''amazing,'' two paleontologists have found. Dr. Norman D. Newell and Dr. Leslie Marcus, both of the American Museum of Natural History in New York City, cited data gathered from 1958 to 1983 for their study. Their results were published recently by Palaios, the journal of the Society of Economic Paleontologists and Minerologists.</p>
+        <p>The two investigators compared United Nations population growth data with carbon dioxide measurements made by the National Oceanic and Atmospheric Administration's laboratory at Mauna Loa, Hawaii. By plotting the two sets of data over a 26-year period, they obtained a statistical correlation of .9985; this is extremely close to a value of 1, a statistically perfect correlation.</p>
+        <p>Dr. Newell noted that the increase of carbon dioxide depends on many factors besides the burning of fossil fuels and other human activities. Carbon dioxide levels vary with the seasons because of natural fluctuations in the amount of the gas absorbed by vegetation, for example, and volcanoes and other forces also produce the gas.</p>
+        <p>But the statistical correlation ''suggests that the rate of increase of CO#2 is almost wholly dependent on human activities with only very minor contributions from natural causes such as volcanoes, the melting of glaciers, and changes in oceanic circulation,'' the authors wrote.</p>
+        <p>''No matter how complex the relationship may be,'' they said, ''the fact remains that CO#2 and the population explosion are almost perfectly correlated.''</p>
+        <p>Because manmade carbon dioxide emissions are heavily determined by energy use, the authors said, the current increase in atmospheric CO#2 ''is a sensitive measure of the pace of economic development.''</p>
+        <p>The authors suggested that ''continuous monitoring of the carbon dioxide trend would yield useful informaton on both population growth and economic development.''</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Angry Words From Canada</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="14200"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="WASHINGTON TALK: BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <location class="indexing_service">CANADA</location>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">ALASKA</location>
+        <person class="indexing_service">FEIN, ESTHER B</person>
+        <person class="indexing_service">WEAVER, WARREN JR</person>
+        <person class="indexing_service">GOTLIEB, ALLAN (AMB)</person>
+        <person class="indexing_service">HODEL, DONALD P (SEC)</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DF103DF934A25751C0A961948260" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Angry Words From Canada</hl1>
+      </hedline>
+      <byline class="print_byline">By Esther B. Fein and Warren Weaver Jr.</byline>
+      <byline class="normalized_byline">WEAVER, WARREN JR; FEIN, ESTHER B</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Less than a month after Vice President Bush visited Ottawa and took a lashing from Prime Minister Brian Mulroney on President Reagan's environmental policies, the Administration was scolded by another Canadian official on the same topic.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Less than a month after Vice President Bush visited Ottawa and took a lashing from Prime Minister Brian Mulroney on President Reagan's environmental policies, the Administration was scolded by another Canadian official on the same topic.</p>
+        <p>Less than a month after Vice President Bush visited Ottawa and took a lashing from Prime Minister Brian Mulroney on President Reagan's environmental policies, the Administration was scolded by another Canadian official on the same topic.</p>
+        <p>The Canadian Ambassador to the United States, Allan Gotlieb, sent a letter to the Secretary of the Interior, Donald P. Hodel, excoriating him for saying last week that Canada opposes oil development in an Alaskan refuge and supports acid rain restrictions so as to make the United States more dependent on Canadian energy.</p>
+        <p>''I am amazed that these views could be espoused by a Cabinet Secretary in President Reagan's Administration,'' Mr. Gotlieb wrote. He added that he ''must reject out of hand'' the ''misguided'' implication that Canadian environmental policies are economically motivated.</p>
+        <p>Mr. Reagan will no doubt feel the fallout of this exchange when he visits the Canadian capital April 5 and 6.</p>
+        <p>WASHINGTON TALK: BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

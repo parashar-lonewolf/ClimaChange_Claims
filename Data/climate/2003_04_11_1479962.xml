@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN235902" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1479962"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE7DF143BF932A25757C0A9659C8B63" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NATIONAL ENERGY GROUP,  Bethesda, Md., a unit of PG &amp; E, the utility owner, said it would sell 11.5 megawatts from its wind-power plant in Madison County, N.Y., to Green Mountain Energy, Austin, Tex., which sells renewable energy to utilities and municipalities.</p>
+        <p>ELECTRONIC DATA SYSTEMS,  Plano, Tex., the provider of computer services, won a four-year, $407 million contract to continue managing California's Medicaid program.</p>
+      </block>
+      <block class="full_text">
+        <p>NATIONAL ENERGY GROUP,  Bethesda, Md., a unit of PG &amp; E, the utility owner, said it would sell 11.5 megawatts from its wind-power plant in Madison County, N.Y., to Green Mountain Energy, Austin, Tex., which sells renewable energy to utilities and municipalities.</p>
+        <p>ELECTRONIC DATA SYSTEMS,  Plano, Tex., the provider of computer services, won a four-year, $407 million contract to continue managing California's Medicaid program.</p>
+        <p>NATURAL RESOURCE PARTNERS,  Houston, which leases coal mines to producers, said it had acquired reserves of more than 300 million tons in Virginia from Alpha Natural Resources, which is controlled by First Reserve, Greenwich, Conn., an investment firm, for $53.6 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

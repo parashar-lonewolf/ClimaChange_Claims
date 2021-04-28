@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Policy: Heat and Sparks</title>
+    <meta content="LTR222710" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1399272"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Speth, James Gustave</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E0D7133DF93AA35755C0A9649C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Policy: Heat and Sparks</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by James Gustave Speth, dean of Yale's environmental studies school and former head of UN Development Program, on global warming scorns defenders of business-as-usual, and marvels that Bush administration has collapsed years of evasions into half a presidential term (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I tell my students that the defenders of business-as-usual on climate change began telling us 20 years ago that concern about global warming was not scientifically justified. Then, a decade ago, they said yes, concern is justified, but we have ample time to prevent it. Now, a decade later, they are saying it is too late to prevent major climate change, and we have no choice but to adapt to it (front page, June 3).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I tell my students that the defenders of business-as-usual on climate change began telling us 20 years ago that concern about global warming was not scientifically justified. Then, a decade ago, they said yes, concern is justified, but we have ample time to prevent it. Now, a decade later, they are saying it is too late to prevent major climate change, and we have no choice but to adapt to it (front page, June 3).</p>
+        <p>Remarkably, the Bush administration has collapsed this string of evasions into half a presidential term. Here is the truth of the matter: there is no way that societies will be able to adapt to the climate change that will occur in this century unless we get serious now about prevention.</p>
+        <p>JAMES GUSTAVE SPETH  New Haven, June 4, 2002</p>
+        <p>The writer is dean of the School of Forestry and Environmental Studies at Yale and a former head of the United Nations Development Program.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

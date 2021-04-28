@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Warming Garden</title>
+    <meta content="06sun3" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/06/opinion/06sun3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1845532"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE6D6113EF935A35756C0A9619C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Warming Garden</hl1>
+        <hl2 class="online_headline">My Warming Garden</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gardeners are used to change. No two summers are alike, and what one year offers in rainfall is withdrawn the next in drought. In many gardeners -- especially in the North -- there is also a resignation to the limits of their growing seasons. But those are changing, and more quickly than anyone could imagine. The National Arbor Day Foundation has published a new hardiness zone map, based on climate data from the past 15 years, that clearly shows the warming trend across the country.</p>
+        <p>There is a sort of good news in this, or at least many gardeners will see it that way. It means the ability to grow different species and varieties, to expand the familiar horticultural palette. But it also means that some notorious botanical pests can expand their ranges, following the new warmth northward. And it raises a more important question. What will become of plants that are native to these climatic zones? The almost certain answer is that they will become stressed by the shift in temperatures and rainfall patterns and by the intrusion of new pests and competitors. This is already happening across the Northeast. Where tender plants advance, plants that are less heat tolerant will recede.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Growing seasons are changing, and more quickly than anyone could imagine.</p>
+      </block>
+      <block class="full_text">
+        <p>Gardeners are used to change. No two summers are alike, and what one year offers in rainfall is withdrawn the next in drought. In many gardeners -- especially in the North -- there is also a resignation to the limits of their growing seasons. But those are changing, and more quickly than anyone could imagine. The National Arbor Day Foundation has published a new hardiness zone map, based on climate data from the past 15 years, that clearly shows the warming trend across the country.</p>
+        <p>There is a sort of good news in this, or at least many gardeners will see it that way. It means the ability to grow different species and varieties, to expand the familiar horticultural palette. But it also means that some notorious botanical pests can expand their ranges, following the new warmth northward. And it raises a more important question. What will become of plants that are native to these climatic zones? The almost certain answer is that they will become stressed by the shift in temperatures and rainfall patterns and by the intrusion of new pests and competitors. This is already happening across the Northeast. Where tender plants advance, plants that are less heat tolerant will recede.</p>
+        <p>You do not find many gardeners on the fence about climate change. But gardeners are like the rest of us when it comes to doing something about global warming. We must make all the immediate and local changes we can, knowing that real change will have to be made by whole nations.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

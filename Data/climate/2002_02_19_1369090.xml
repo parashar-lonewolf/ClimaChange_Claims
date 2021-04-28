@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fuzzy Math on Greenhouse Gas</title>
+    <meta content="LTR231532" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1369090"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Gaffin, Stuart R</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03EED71F3FF93AA25751C0A9649C8B63" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fuzzy Math on Greenhouse Gas</hl1>
+      </hedline>
+      <abstract>
+        <p>Stuart R Gaffin letter on Pres Bush's new climate policy (Feb 14 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Bush Plan Expected to Slow, Not Halt, Gas Emission Rise'' (front page, Feb. 14) notes that the new Bush climate policy plan would ''not require anything of anybody.'' Indeed, even the proposed emissions target -- an 18 percent drop over 10 years in carbon dioxide per dollar of gross domestic product -- probably represents no improvement over current trends.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Bush Plan Expected to Slow, Not Halt, Gas Emission Rise'' (front page, Feb. 14) notes that the new Bush climate policy plan would ''not require anything of anybody.'' Indeed, even the proposed emissions target -- an 18 percent drop over 10 years in carbon dioxide per dollar of gross domestic product -- probably represents no improvement over current trends.</p>
+        <p>According to the Energy Information Administration, during the last decade energy consumed per dollar dropped 1.6 percent annually and the carbon dioxide emitted per unit of energy dropped 0.1 percent annually. These changes, the result of energy efficency improvements, show that  carbon dioxide emitted per dollar is already dropping at a rate comparable to that the Bush plan aims for.  Achieving a target we are already on track for is a business-as-usual climate plan.</p>
+        <p>STUART R. GAFFIN  New York, Feb. 14, 2002</p>
+        <p>The writer, a climate scientist at Columbia University, has worked on emissions scenarios for the Intergovernmental Panel on Climate Change.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

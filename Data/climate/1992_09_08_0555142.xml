@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Saving the Elephants</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="555142"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELEPHANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIO</classifier>
+        <classifier class="indexing_service" type="descriptor">ENDANGERED AND EXTINCT SPECIES</classifier>
+        <org class="indexing_service">WILDLIFE CONSERVATION INTERNATIONAL</org>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920908T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6D61E3DF93BA3575AC0A964958260" item-length="509" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Saving the Elephants</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wildlife biologists are using new technology to track the elusive African forest elephant in the hope of finding the best way to insure the animal's survival.</p>
+        <p>Wildlife Conservation International, a division of the New York Zoological Society, put collars that emit ultrahigh-frequency signals on two African elephants this summer; the signals are picked up by weather satellites, and the information is relayed to the Bronx Zoo.</p>
+      </block>
+      <block class="full_text">
+        <p>Wildlife biologists are using new technology to track the elusive African forest elephant in the hope of finding the best way to insure the animal's survival.</p>
+        <p>Wildlife Conservation International, a division of the New York Zoological Society, put collars that emit ultrahigh-frequency signals on two African elephants this summer; the signals are picked up by weather satellites, and the information is relayed to the Bronx Zoo.</p>
+        <p>About a third of the 700,000 African elephants are thought to live in the rain forests and may be endangered, but information on them is sketchy. Dense forests make it difficult to track the elephants with standard technology, collars that emit very-high-frequency radio signals.</p>
+        <p>But just switching to satellite technology does not eliminate all the pitfalls of forest tracking. The ultrahigh-frequency signals can still be absorbed or deflected by the 8,000-pound animal's bulk, dense vegetation or weather conditions. In a trial run of the technology, the researchers have collared a forest elephant in the area of Korup National Park, Cameroon, and a savannah-dwelling elephant in Garamba National Park, Zaire.</p>
+        <p>Since mid-June, nearly all of the signals from the savannah elephant have been picked up, but the satellite is detecting only a third of the signals from the forest elephant. The project's director, Dr. Fred W. Koontz, curator of mammology at the zoo, said that transmission should improve when the rainy season ends in late fall. The scientists also plan to test a new transmitter design.  Fighting Acid Rain</p>
+        <p>A practical method for using microwave radiation to clean up the emissions from burning coal may be on its way.</p>
+        <p>Sulfur dioxide and nitrogen oxidesare released when coal is burned in the furnaces used to generate electrical power. When sulfur dioxide and nitrogen dioxide mix with water in the atmosphere, they are converted into sulfuric acid and nitric acid and fall to the earth as acid rain; the nitrogen oxides also contribute to ozone pollution. Scientists have long known that microwave radiation can reduce the pollutants to elemental sulfur, nitrogen and oxygen, but the cost has been prohibitive.</p>
+        <p>Now Dr. Chang Cha, the president of the Cha Corporation and a professor at the University of Wyoming, says she has found a way to use microwaves to break down the pollutants at a lower cost. She reported on her method at a meeting of the American Chemical Society last month.</p>
+        <p>By passing the coal-emission gases through inexpensive, crude carbon (char) filters, Dr. Cha can trap them and heat them with concentrated microwaves, breaking down the toxic gases with 98 percent efficiency. Cost comparisons are difficult because there has been no commercial application of Dr. Cha's system, but her method avoids the cost of generating large amounts of microwave energy to heat entire vessels of emitted gas. With Dr. Cha's method, the microwaves are confined to the area surrounding the char filters.</p>
+        <p>Dr. Cha's work is expected to be installed commercially by mid-1993.  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Science Takes a Back Seat</title>
+    <meta content="07lett-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1737915"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <org class="indexing_service">Congress (US)</org>
+        <person class="indexing_service">Ziman, Steve</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E2D7173EF934A35751C0A9609C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Science Takes a Back Seat</hl1>
+      </hedline>
+      <abstract>
+        <p>Steve Ziman letter on Jan 31 article about briefing Congress about scientific concerns agrees that policy makers do not know enough about science</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Where Science and Public Policy Intersect, Researchers Offer a Short Lesson on Basics'' (Jan. 31): As a Congressional science fellow in 1979-80 on the House Science, Research and Technology Subcommittee, I could tell even then that many members of Congress and their staffs had little understanding of science.</p>
+        <p>Later, when I worked as an air quality scientist in industry, I remember my Washington lobbyist trying to tell me to keep it simple, short and to the point as we met with a Hill staff member to discuss visibility issues.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Where Science and Public Policy Intersect, Researchers Offer a Short Lesson on Basics'' (Jan. 31): As a Congressional science fellow in 1979-80 on the House Science, Research and Technology Subcommittee, I could tell even then that many members of Congress and their staffs had little understanding of science.</p>
+        <p>Later, when I worked as an air quality scientist in industry, I remember my Washington lobbyist trying to tell me to keep it simple, short and to the point as we met with a Hill staff member to discuss visibility issues.</p>
+        <p>Over the 30 years that I worked, science was usually on the losing end when a scientific outcome did not support a proposed policy. Now, whether it is addressing global warming, stem cell research or other tremendously important issues that will significantly affect our future, this still seems to be the case for the most part. Not a very good commentary on the state of our policy making.</p>
+        <p>Steve Ziman  San Francisco</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

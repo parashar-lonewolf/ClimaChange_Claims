@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Emissions Bill Introduced</title>
+    <meta content="MB014738" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1300167"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Byrd, Robert C (Sen)</person>
+        <person class="indexing_service">Stevens, Ted (Sen)</person>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E1D9143EF93AA35755C0A9679C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Emissions Bill Introduced</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew C. Revkin (NYT)</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Sens Robert C Byrd and Ted Stevens offer bill to establish for first time targets and timetables for stabilizing emissions of heat-trapping greenhouse gases (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two senators from states rich in coal and oil introduced legislation that would for the first time establish targets and a timetable for stabilizing emissions of heat-trapping greenhouse gases, which are released mainly by burning fossil fuels. The senators, Robert C. Byrd, Democrat of West Virginia, and Ted Stevens, Republican of Alaska, said the legislation was necessary now that scientists had established a link between human actions and global warming.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Two senators from states rich in coal and oil introduced legislation that would for the first time establish targets and a timetable for stabilizing emissions of heat-trapping greenhouse gases, which are released mainly by burning fossil fuels. The senators, Robert C. Byrd, Democrat of West Virginia, and Ted Stevens, Republican of Alaska, said the legislation was necessary now that scientists had established a link between human actions and global warming.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

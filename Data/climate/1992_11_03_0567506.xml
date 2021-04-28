@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rising Sea Levels</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="567506"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <classifier class="indexing_service" type="descriptor">GLACIERS</classifier>
+        <person class="indexing_service">OERLEMANS, JOHANNES (PROF)</person>
+        <person class="indexing_service">RAFFALLI, MARY L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Glaciers</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7D61F38F930A35752C1A964958260" item-length="368" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rising Sea Levels</hl1>
+      </hedline>
+      <byline class="print_byline">By MARY L. RAFFALLI</byline>
+      <byline class="normalized_byline">RAFFALLI, MARY L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The quantity of glacial melting that contributes to the known rise in global sea level is approximately half as much as was previously estimated, according to a study published in a recent issue of the journal Science.</p>
+        <p>Whereas previous studies found that the seas rise more than a millimeter per year for each Kelvin degree increase in temperature, the recent results show only a half-millimeter increase under the same conditions.</p>
+      </block>
+      <block class="full_text">
+        <p>The quantity of glacial melting that contributes to the known rise in global sea level is approximately half as much as was previously estimated, according to a study published in a recent issue of the journal Science.</p>
+        <p>Whereas previous studies found that the seas rise more than a millimeter per year for each Kelvin degree increase in temperature, the recent results show only a half-millimeter increase under the same conditions.</p>
+        <p>The author of the study, Dr. Johannes Oerlemans, a professor of meteorology at the Institute for Marine and Atmospheric Research at Utrecht University in The Netherlands, said he had used computer models that simulated glacial changes under various climate conditions, while previous studies had relied solely on statistical analysis.</p>
+        <p>Dr. Oerlemans said his method could be used by other researchers to calculate increases in sea level and changes in glaciers at any temperature.</p>
+        <p>The data base for the computer analysis was taken from field observations over a period of five years of a dozen small glaciers in various areas in the Northern Hemisphere, including the Himalayas and the Arctic Circle.</p>
+        <p>According to the study, earlier estimates of glacial melting had been higher because the scientists had not accounted for the different melting patterns of different types of glaciers, like the decreased water yield of melting Arctic ice masses compared with the higher volume produced by glaciers at mid-latitudes.</p>
+        <p>Although measurements have shown a 10- to 20-centimeter rise in sea level over the past 100 years and a decrease in the size of various glaciers in the same period, the amount of increased ocean volume attributable to the melting ice has been debated.</p>
+        <p>Dr. Oerlemans said he had tested the validity of his computer results by comparing them with the properties of the 12 observed glaciers. He found that the models were accurate for determining the impact of warming on the glaciers and the effect of the glacial changes on the rest of the environment.</p>
+        <p>The simulations were corrected for factors including the effects of clouds, solar radiation, precipitation, evaporation and other physical processes that contribute to changes in glaciers.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

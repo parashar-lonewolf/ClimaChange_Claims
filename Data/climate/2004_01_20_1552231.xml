@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alaska's Ailing Tundra</title>
+    <meta content="LTR220016" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1552231"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Methane Hydrate</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <location class="indexing_service">Alaska</location>
+        <person class="indexing_service">Burton, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6DB1539F933A15752C0A9629C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alaska's Ailing Tundra</hl1>
+      </hedline>
+      <abstract>
+        <p>John Burton letter on January 13 article about protecting Alaska's tundra holds if warming continues in region methane emissions in atmosphere will substantially increase and cause even more environmental problems (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Alaska Thaws, Complicating the Hunt for Oil'' (Jan. 13): The thawing tundra might be a handicap to the operations of the oil industry, but its consequences could be far worse.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Alaska Thaws, Complicating the Hunt for Oil'' (Jan. 13): The thawing tundra might be a handicap to the operations of the oil industry, but its consequences could be far worse.</p>
+        <p>If the thawing continues for another century and gets deep enough, it could release a dangerous amount of methane, a potent greenhouse gas that exists as a solid called clathrate hydrate.</p>
+        <p>One expert has said that if global warming becomes substantially worse in the next century, then releases from hydrates could become the largest single contributor of methane emissions into the atmosphere.</p>
+        <p>JOHN BURTON  Washington, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

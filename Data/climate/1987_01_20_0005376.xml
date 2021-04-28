@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>VOLCANIC SCENARIO</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="5376"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">VOLCANOES</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">FLOODS</classifier>
+        <location class="indexing_service">LAKE NIOS (CAMEROON)</location>
+        <location class="indexing_service">CAMEROON</location>
+        <org class="indexing_service">NATURE (JOURNAL)</org>
+        <person class="indexing_service">KAY, R L F</person>
+        <person class="indexing_service">FREETH, S J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Cameroon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Cameroon</classifier>
+        <classifier class="online_producer" type="general_descriptor">Volcanoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D8103AF933A15752C0A961948260" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>VOLCANIC SCENARIO</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: LAST August a flood of water mixed with toxic gases overflowed Lake Nyos in the Cameroon and swept into the valleys below, leaving more than 1,700 people dead and destroying crops. British scientists who have examined the lake have now come up with a probable scenario of how volcanic gases caused the disaster.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: LAST August a flood of water mixed with toxic gases overflowed Lake Nyos in the Cameroon and swept into the valleys below, leaving more than 1,700 people dead and destroying crops. British scientists who have examined the lake have now come up with a probable scenario of how volcanic gases caused the disaster.</p>
+        <p>LAST August a flood of water mixed with toxic gases overflowed Lake Nyos in the Cameroon and swept into the valleys below, leaving more than 1,700 people dead and destroying crops. British scientists who have examined the lake have now come up with a probable scenario of how volcanic gases caused the disaster.</p>
+        <p>In a report in the British journal Nature, the scientists said Lake Nyos was perhaps formed by the eruption of a volcano centered in what is now the northeastern corner of the deep body of water. A volcanic vent in that area was still releasing volcanic gases, primarily carbon dioxide. A month after the disaster, the scientists found the lake highly saturated with carbon dioxide.</p>
+        <p>From these and other findings, S. J. Freeth of the University College of Swansea and R. L. F. Kay of the British Geological Survey arrived at the following conclusion: The waters of Lake Nyos were highly charged with carbon dioxide. Late in the evening of Aug. 21 a pulse of volcanic gas -mainly carbon dioxide but also some hydrogen sulphide - erupted from the vent in the northeastern corner of the lake. The stream of bubbles rising to the surface brought up bottom waters saturated with carbon dioxide. At the surface the release of gas transformed the upwelling water into a fine mist and sent a wave of water crashing across the lake and down in the valleys.</p>
+        <p>The British scientists estimated that the volcanic gases sent about 200,000 tons of water out of Lake Nyos.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

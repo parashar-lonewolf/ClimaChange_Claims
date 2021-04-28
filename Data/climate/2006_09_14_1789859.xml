@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NASA Scientists See New Signs of Global Warming</title>
+    <meta content="14climate" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/09/14/science/earth/14climate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1789859"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <location class="indexing_service">Arctic Regions</location>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E4DF1231F937A2575AC0A9609C8B63" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NASA Scientists See New Signs of Global Warming</hl1>
+        <hl2 class="online_headline">NASA Scientists See New Signs of Global Warming</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>NASA scientists report higher temperatures and retreat of sea ice cover in Arctic Ocean, new evidence that heat-trapping gases like carbon dioxide are influencing climate in Arctic Regions (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scientists have long suspected that the recent melting of Arctic Ocean ice in the summer might be a result of heat-trapping gases building up in the atmosphere. But yesterday NASA scientists reported that higher temperatures and a retreat of the sea ice over the last two winters offered new evidence that the gases were influencing the region's climate.</p>
+        <p>While the summer melting could be a result of a number of phenomena like the flow of warm water, the scientists said, the reduction of winter ice two seasons in a row is harder to explain without invoking the heat-trapping effects of gases like carbon dioxide.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>NASA scientists reported that higher temperatures and a retreat of the sea ice over the last two winters offered new evidence that heat-trapping gases were influencing the Arctic’s climate.</p>
+      </block>
+      <block class="full_text">
+        <p>Scientists have long suspected that the recent melting of Arctic Ocean ice in the summer might be a result of heat-trapping gases building up in the atmosphere. But yesterday NASA scientists reported that higher temperatures and a retreat of the sea ice over the last two winters offered new evidence that the gases were influencing the region's climate.</p>
+        <p>While the summer melting could be a result of a number of phenomena like the flow of warm water, the scientists said, the reduction of winter ice two seasons in a row is harder to explain without invoking the heat-trapping effects of gases like carbon dioxide.</p>
+        <p>Such gases block the escape of some heat radiating from the ocean or earth, like an insulating blanket, even in the depths of the dark Arctic winter, said Josefino C. Comiso, a senior scientist at NASA's Goddard Space Flight Center who uses satellites to study Earth's frozen zones.</p>
+        <p>In the past two winters, the peak of sea ice growth in the Arctic has been 6 percent below the average peak since the satellite observations began, Dr. Comiso said. His findings are to be published this month in the journal Geophysical Research Letters.</p>
+        <p>The observed winter changes occur after a string of years in which the amount of sea ice around the Arctic Ocean has steadily shrunk. Last year saw what some Arctic experts said was probably the most open water in the Arctic in a century, and the most since the satellite observations began in 1978.</p>
+        <p>Mark Serreze, a scientist at the National Snow and Ice Data Center, said that this summer's ice retreat was not quite as great as that in 2005, but that there was still time, before the long Arctic night begins this month, to see more melting.</p>
+        <p>Over all, Dr. Serreze said, it was hard to find an explanation for the shifts other than human-caused warming.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

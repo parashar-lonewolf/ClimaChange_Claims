@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="10QNA.$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1129582"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dairy Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Cheese</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cheese</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE2D81130F933A2575BC0A96F958260" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column answers query about what puts holes in Swiss cheese; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Holes in the Cheese</p>
+        <p>Q. What makes the holes in Swiss cheese?</p>
+        <p>A. The holes are made by sizable bubbles of gas produced by a special kind of bacterium in the cheese-ripening process.</p>
+      </block>
+      <block class="full_text">
+        <p>Holes in the Cheese</p>
+        <p>Q. What makes the holes in Swiss cheese?</p>
+        <p>A. The holes are made by sizable bubbles of gas produced by a special kind of bacterium in the cheese-ripening process.</p>
+        <p>In making most kinds of cheese, according to ''On Food and Cooking: The Science and Lore of the Kitchen,'' by Harold McGee (Collier Books), there are three basic steps: making curds from milk, concentrating the curds and ripening the curds.</p>
+        <p>First, hungry bacteria, pure cultures of Streptococci and Lactobacilli, feed on milk sugar, or lactose, and their digestive processes make lactic acid. The acidic environment is favorable to the action of a curdling agent like rennet, a material found in cows' stomachs. The milk separates into the familiar curds and whey.</p>
+        <p>Then the solid curds are drained of most of the liquid whey and cooked, pressed and salted to remove the rest.</p>
+        <p>The final process, ripening, the breakdown of the curd into simpler, tastier molecules, is left to the enzymes produced by a number of microbes, including the molds that produce the veins in blue cheese.</p>
+        <p>However, it is evenly dispersed starter bacteria that finish off Swiss-type cheeses, which are ripened from within by the starter bacteria.</p>
+        <p>An additional strain of bacterium, Propionibacter shermanii, is included in the starter. It lives on the lactic acid excreted by the other bacteria and gives off prodigious amounts of carbon dioxide gas, which collects in large pockets, or eyes, in the curd, as well as propionic acid, which contributes to the flavor.</p>
+        <p>The characteristic holes fail to develop properly when the casein (the bundles of protein molecules that clump into curds) has been preheated in pasteurization. In the United States, Swiss-type cheese is one of the few cheeses not made under rules providing that cheeses aged less than 60 days at temperatures lower than 35 degrees Fahrenheit must be made from pasteurized milk.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by postal mail to Question, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036-3959, or by E-mail to:</p>
+        <p>Question@nytimes.com</p>
+        <p>Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

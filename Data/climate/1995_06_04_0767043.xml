@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sloan-Kettering To Leave E. 62d After Air Tests</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19950611T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="767043"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="NEIGHBORHOOD REPORT: MIDTOWN/UPPER EAST SIDE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON MONOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">OFFICE BUILDINGS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">MEMORIAL SLOAN-KETTERING CANCER CENTER (NYC)</org>
+        <org class="indexing_service">SCHNURMACHERBROTHERS</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Monoxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DF1F39F937A35755C0A963958260" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sloan-Kettering To Leave E. 62d After Air Tests</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Memorial Sloan-Kettering Cancer Center announced last week that it had found  "unacceptable levels of carbon monoxide" in its administrative offices at 410 East 62d Street and planned to leave the building.</p>
+        <p>The building, which houses about 750 employees, has had a long history of complaints about its air quality. Members of the staff have been known to take regular fresh-air breaks out in front and to complain of skin rashes, dizziness  and nausea. Last week, the landlord was hit with a second multimillion dollar lawsuit based on the quality of its air. The first was filed earlier this year.</p>
+      </block>
+      <block class="full_text">
+        <p>Memorial Sloan-Kettering Cancer Center announced last week that it had found  "unacceptable levels of carbon monoxide" in its administrative offices at 410 East 62d Street and planned to leave the building.</p>
+        <p>The building, which houses about 750 employees, has had a long history of complaints about its air quality. Members of the staff have been known to take regular fresh-air breaks out in front and to complain of skin rashes, dizziness  and nausea. Last week, the landlord was hit with a second multimillion dollar lawsuit based on the quality of its air. The first was filed earlier this year.</p>
+        <p>Ira Weinstein, of Schnurmacher Brothers, the landlord, said: "I can't tell you anything because I haven't seen the testing levels and I don't know what they're talking about."</p>
+        <p>Although Sloan-Kettering had conducted several tests at the site in the past  -- one of which showed dangerous levels of nitrogen dioxide -- the hospital said it had been unable to detect any consistent air problems until April, when air quality consultants found levels of carbon dioxide that approached the OSHA limits.</p>
+        <p>"Until the round of tests that commenced in the final week of April, we did not have any data that showed that air quality in the building came close to violating the OSHA standard," said Avice Meehan, a spokeswoman for the hospital.</p>
+        <p>But until a new location is found, some 750 people must continue coming to work.</p>
+        <p>"We've begun looking at sites," Ms. Meehan said. "We're anticipating that the move will be accomplished very rapidly."</p>
+        <p>ROBIN POGREBIN</p>
+        <p>NEIGHBORHOOD REPORT: MIDTOWN/UPPER EAST SIDE  Correction:  June 11, 1995, Sunday</p>
+        <p>An article in the Neighborhood Report last Sunday about Memorial Sloan-Kettering Cancer Center's decision to move its administrative offices from 410 East 62d Street misidentified a gas found in the building. It was carbon monoxide, not carbon dioxide.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 11, 1995, Sunday&lt;br&gt;&lt;br&gt;    An article in the Neighborhood Report last Sunday about Memorial Sloan-Kettering Cancer Center's decision to move its administrative offices from 410 East 62d Street misidentified a gas found in the building. It was carbon monoxide, not carbon dioxide.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

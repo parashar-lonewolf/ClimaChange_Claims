@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Carbon Dioxide Emissions Jumped In 2000</title>
+    <meta content="MB030235" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1305791"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE2DA1239F933A05755C0A9679C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Carbon Dioxide Emissions Jumped In 2000</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew C. Revkin (NYT)</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Energy Dept repors that American emissions of carbon dioxide from burning fossil fuels rose 2.7 percent in 2000, much higher rate than average 1.5 percent annual rise through 1990's (S)6</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>American emissions of carbon dioxide from burning fossil fuels rose 2.7 percent in 2000, a much higher rate than the average 1.5-percent annual rise through the 1990's, the Energy Department said. The emissions rose because of strong economic growth, cold weather that increased oil use and a drop in electricity generation by dams, the department said. Carbon dioxide accounts for 80 percent of the country's output of heat-trapping greenhouse gases, officials said.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>American emissions of carbon dioxide from burning fossil fuels rose 2.7 percent in 2000, a much higher rate than the average 1.5-percent annual rise through the 1990's, the Energy Department said. The emissions rose because of strong economic growth, cold weather that increased oil use and a drop in electricity generation by dams, the department said. Carbon dioxide accounts for 80 percent of the country's output of heat-trapping greenhouse gases, officials said.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

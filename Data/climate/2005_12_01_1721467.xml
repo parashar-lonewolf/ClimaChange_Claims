@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientists Say Slower Atlantic Currents Could Mean a Colder Europe</title>
+    <meta content="01climate" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/01/science/earth/01climate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1721467"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <location class="indexing_service">Europe</location>
+        <location class="indexing_service">Atlantic Ocean</location>
+        <org class="indexing_service">Nature (Journal)</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <location class="online_producer">Europe</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7DC1531F932A35751C1A9639C8B63" item-length="545" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientists Say Slower Atlantic Currents Could Mean a Colder Europe</hl1>
+        <hl2 class="online_headline">Scientists Say Slower Atlantic Currents Could Mean a Colder Europe</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Scientists measure significant slowing in Atlantic currents that carry warm water toward Northern Europe; say weather there could cool considerably in coming decades if this trend persists; findings reported in journal Nature; some climate experts see potential cooling of Europe as paradoxically consistent with global warming caused byaccumulation of heat-trapping 'greenhouse' emissions; map (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scientists say they have measured a significant slowing in the Atlantic currents that carry warm water toward Northern Europe. If the trend persists, they say, the weather there could cool considerably in coming decades.</p>
+        <p>Some climate experts have said the potential cooling of Europe was paradoxically consistent with global warming caused by the accumulation of heat-trapping ''greenhouse'' emissions. But several experts said it was premature to conclude that the new measurements, to be described today in the journal Nature, meant that such a change was already under way.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Scientists say they have measured a significant slowing in the Atlantic currents that carry warm water toward Northern Europe.</p>
+      </block>
+      <block class="full_text">
+        <p>Scientists say they have measured a significant slowing in the Atlantic currents that carry warm water toward Northern Europe. If the trend persists, they say, the weather there could cool considerably in coming decades.</p>
+        <p>Some climate experts have said the potential cooling of Europe was paradoxically consistent with global warming caused by the accumulation of heat-trapping ''greenhouse'' emissions. But several experts said it was premature to conclude that the new measurements, to be described today in the journal Nature, meant that such a change was already under way.</p>
+        <p>The currents, branching off from the Gulf Stream, are part of an oceanic system that disperses tropical heat toward the poles and makes Northern Europe far warmer than its latitude would suggest.</p>
+        <p>Warming, in theory, could stall the salty, sun-heated, north-flowing currents by causing fresh water to build up in high-latitude seas as ice melts and more precipitation falls.</p>
+        <p>The scientists, from the National Oceanography Center in Britain, measured sea temperature, currents and other conditions across the Atlantic from the Bahamas to Africa last year and found a 30 percent drop in the flow of warming waters since a similar set of measurements were taken in 1957.</p>
+        <p>The team, led by Harry L. Bryden, wrote that even though they had measurements from only 5 years out of the past 50, the pattern of change seen at various depths supported the idea that the shift was a significant trend and not random variability.</p>
+        <p>They also cited independent measurements of a long-term decline in the flow of water between some Arctic seas and the North Atlantic as evidence that a slowing of the overall Atlantic circulation was under way.</p>
+        <p>In an accompanying commentary in Nature, Detlef Quadfasel of the University of Hamburg, who was not involved with the British study, said it provided ''worrying support for computer models that predict just such an effect in a world made warmer by greenhouse-gas emissions.''</p>
+        <p>Other scientists were more cautious. Gavin A. Schmidt, a climate modeler at the National Aeronautics and Space Administration Goddard Institute for Space Studies, said that the estimated decline in ocean circulation should have produced a perceptible decline in surface temperatures, but that no such dip had yet been measured.</p>
+        <p>Robert Dickson, of the British Center for Environment, Fisheries and Aquaculture Science, said that given the complexity and variability of the seas, much more data was needed to determine whether a slowdown was under way.</p>
+        <p>''However much statistical rigor is brought to bear, five transocean sections is still a small number on which to depend,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

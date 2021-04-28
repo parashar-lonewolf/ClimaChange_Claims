@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="788165"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FLOWERS AND PLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">OXYGEN</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oxygen</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7D91F3CF931A2575AC0A963958260" item-length="354" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Plant Respiration</p>
+        <p>Q.  My friend says it is common knowledge in Europe that sleeping with a live plant is dangerous because it uses up oxygen. Is he right?</p>
+      </block>
+      <block class="full_text">
+        <p>Plant Respiration</p>
+        <p>Q.  My friend says it is common knowledge in Europe that sleeping with a live plant is dangerous because it uses up oxygen. Is he right?</p>
+        <p>A.  There is a grain of truth in the idea, as green plants do absorb some oxygen for use in respiration, the mirror image of photosynthesis. Photosynthesis can occur only when there is light, so at night plants are net absorbers of oxygen.</p>
+        <p>However, true danger would result only from an extremely large body of plants in a very tightly closed sleeping chamber with a very limited supply of oxygen. Another person in a room would be a far heavier oxygen consumer than one plant.</p>
+        <p>These principles of gas exchange in photosynthesis and respiration were explored in the late 18th century by Jan Ingenhousz, a Dutch botanist. According to "The Plants," by F. W. Went, et al. (Time Inc.), once Joseph Priestley had discovered oxygen and plants' role in producing it from carbon dioxide, there was a great vogue for putting flowers in sickrooms to "purify" the air. Ingenhousz was skeptical about the benefits. His experiments showed that only the green parts of plants add oxygen, and then only if placed in strong light; flowers and other nongreen parts, as well as green leaves left in darkness, used up oxygen just as animals did, he found.</p>
+        <p>In aerobic respiration, plants use free oxygen, usually from the air, for chemical reactions that release energy from organic substances; sugar and oxygen react to produce carbon dioxide, water and chemical energy. In photosynthesis, carbon dioxide and water react in the presence of light energy to produce sugar and oxygen.</p>
+        <p>During the day, according to "Botany: Principles and Problems," by Sinnott and Wilson (McGraw-Hill), both processes occur, but photosynthesis proceeds more rapidly than respiration, and the carbon dioxide produced is immediately used in photosynthesis; excess oxygen from the photosynthesis escapes into the air.</p>
+        <p>At night, however, photosynthesis ceases and respiration continues, so that green plants are absorbing oxygen and producing carbon dioxide. C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

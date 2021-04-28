@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lieberman Lauds Life Of Service at Trinity</title>
+    <meta content="21TRIN$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Washington; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/05/21/nyregion/21TRIN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1295286"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <org class="indexing_service">Trinity College (Hartford)</org>
+        <person class="indexing_service">Zielbauer, Paul</person>
+        <person class="indexing_service">Lieberman, Joseph I (Sen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Hawaii</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Joseph I Lieberman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Hawaii</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Employment Agencies</classifier>
+        <classifier class="online_producer" type="descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Employment Agencies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Hartford</location>
+        <location class="online_producer">United States</location>
+        <location class="online_producer">Hawaii (USA)</location>
+        <org class="online_producer">Trinity College</org>
+        <org class="online_producer">University of Hawaii</org>
+        <person class="online_producer">Franklin, Benjamin</person>
+        <person class="online_producer">Turner, Ted</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3DE143DF932A15756C0A9679C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lieberman Lauds Life Of Service at Trinity</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL ZIELBAUER</byline>
+      <byline class="normalized_byline">Zielbauer, Paul</byline>
+      <dateline>HARTFORD, May 20</dateline>
+      <abstract>
+        <p>Commencement held for 500 graduates of Trinity College; Sen Joseph I Lieberman gives address; honorary degree recipients noted (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>United States Senator Joseph I. Lieberman told some 500 new graduates of Trinity College today that he had come as ''a recruiter,'' and that he hoped to persuade at least a few of them to consider, as he did during his college years, a career in public service.</p>
+        <p>The senator's 20-minute speech was laced with quotations from John F. Kennedy and Benjamin Franklin on the honor of working for the public good. Only once did Mr. Lieberman, a Democrat who came within several hundred votes of becoming vice president in last November's presidential election, say anything remotely political: he subtly criticized the Bush administration's emphasis on more fossil fuel production as part of the solution to the current energy crisis.</p>
+      </block>
+      <block class="full_text">
+        <p>United States Senator Joseph I. Lieberman told some 500 new graduates of Trinity College today that he had come as ''a recruiter,'' and that he hoped to persuade at least a few of them to consider, as he did during his college years, a career in public service.</p>
+        <p>The senator's 20-minute speech was laced with quotations from John F. Kennedy and Benjamin Franklin on the honor of working for the public good. Only once did Mr. Lieberman, a Democrat who came within several hundred votes of becoming vice president in last November's presidential election, say anything remotely political: he subtly criticized the Bush administration's emphasis on more fossil fuel production as part of the solution to the current energy crisis.</p>
+        <p>''We need your vision to confront the very real threat of global warming,'' he said. ''And we need your brilliance and innovation to shape our energy future into one that is based on a new, clean and efficient technologies, not on old fuels that pollute our world's atmosphere and diminish our nation's independence.''</p>
+        <p>Describing public service as a noble profession, Mr. Lieberman told the graduates, ''Dream of being mayor, or governor or senator or vice president or president, regardless of your faith, your race, your gender, your nationality, your sexual orientation.''</p>
+        <p>Among those also receiving honorary degrees were Daniel K. Inouye, a United States senator from Hawaii; the Cable News Network's founder, Ted Turner; and Evan S. Dobelle, Trinity's departing president, who is taking over as president of the University of Hawaii.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

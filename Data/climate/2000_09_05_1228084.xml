@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trailing Noxious Gases</title>
+    <meta content="L05WAR$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228084"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <person class="indexing_service">Manning, William</person>
+        <person class="indexing_service">Easterbrook, Gregg</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0DC1030F936A3575AC0A9669C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trailing Noxious Gases</hl1>
+      </hedline>
+      <abstract>
+        <p>William Manning letter on Gregg Easterbrook's Aug 29 article cites role of greenhouse gases emitted by jet planes in global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Get the Easy Greenhouse Gases First,'' by Gregg Easterbrook (Op-Ed, Aug. 29), raises new hope for controlling global warming but  doesn't mention a growing source of greenhouse gases that affect the atmosphere: jet exhaust.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Get the Easy Greenhouse Gases First,'' by Gregg Easterbrook (Op-Ed, Aug. 29), raises new hope for controlling global warming but  doesn't mention a growing source of greenhouse gases that affect the atmosphere: jet exhaust.</p>
+        <p>The United Nations Intergovernmental Panel on Climate Change estimates that approximately 3.5 percent of the greenhouse gases and particulate matter that contribute to global warming come from jet planes. That figure may rise to as much as 13 percent or more over the next 50 years as fleets grow.</p>
+        <p>Because the gases that subsonic planes produce, including carbon dioxide, are released in the higher, coldest strata of the atmosphere, they may require 75 to 100 years to break down. Carbon dioxide released at ground level, by contrast, takes only a few weeks to disintegrate.</p>
+        <p>Maybe we should consider this when planning our travels.</p>
+        <p>WILLIAM MANNING  Boston, Aug. 29, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

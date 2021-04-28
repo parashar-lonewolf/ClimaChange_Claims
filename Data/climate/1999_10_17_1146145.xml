@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Population Growth Is Our Problem, Too</title>
+    <meta content="L17POP$02" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1146145"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <person class="indexing_service">Burnett, Kate</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991017T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2DF1F30F934A25753C1A96F958260" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Population Growth Is Our Problem, Too</hl1>
+      </hedline>
+      <abstract>
+        <p>Kate Burnett letter warns that dire problems of overpopulation continue despite slowing of some growth rates; notes responsiblity of US, world's third most populous country, and sixth fastest-growing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The world's population growth has indeed slowed (editorial, Oct. 13), but the projected population of nearly 9 billion by 2050 is nothing to cheer about. The earth is experiencing the largest species extinction since that of the dinosaurs, mostly the result of human population pressures. According to the National Wildlife Federation, we will soon be losing 50,000 species a year. Global warming, directly linked to population growth, may eliminate even more species, including polar bears and penguins. Hardly the world we should bequeath to our children!</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The world's population growth has indeed slowed (editorial, Oct. 13), but the projected population of nearly 9 billion by 2050 is nothing to cheer about. The earth is experiencing the largest species extinction since that of the dinosaurs, mostly the result of human population pressures. According to the National Wildlife Federation, we will soon be losing 50,000 species a year. Global warming, directly linked to population growth, may eliminate even more species, including polar bears and penguins. Hardly the world we should bequeath to our children!</p>
+        <p>And while the media portray overpopulation as a problem of the developing world, it is in fact the United States that is today the world's third most populous country and the sixth fastest growing, the result of the rising number of births and the highest rate of immigration in our history. It behooves us to lead by example and slow our out-of-control growth.</p>
+        <p>KATE BURNETT  Los Alamos, N.M., Oct. 14, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

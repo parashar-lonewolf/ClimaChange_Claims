@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Too much online data may come to mean less online data.</title>
+    <meta content="03NECO$01" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/06/03/technology/03NECO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1397523"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="New Economy"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <person class="indexing_service">Raney, Rebecca Fairley</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/New Economy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Environmental Protection Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E0DA123AF930A35755C0A9649C8B63" item-length="1048" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Too much online data may come to mean less online data.</hl1>
+        <hl2 class="online_headline">Questions About Online Data</hl2>
+      </hedline>
+      <byline class="print_byline">By Rebecca Fairley Raney</byline>
+      <byline class="normalized_byline">Raney, Rebecca Fairley</byline>
+      <abstract>
+        <p>New law that requires government to set standards for accuracy of scientific data used by federal agencies highlights balance of risks and rewards when disseminating flood of information on Internet; law creates system under which anyone can point out errors in documents and requires that confirmed errors be removed from government Web sites and publications; watchdog groups fear new curbs on release of data unless agencies create policies on how to treat information; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CAN the easy distribution of data promised by the Internet actually bring the type of scrutiny that ultimately leads to less information being available?</p>
+        <p>That is the question being raised by a new law called the Data Quality Act, which requires the government to set standards for the accuracy of scientific information used by federal agencies. It is the latest move from Washington highlighting the balance of risks and rewards when disseminating information on the Internet.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new law called the Data Quality Act is the latest action highlighting the balance of risks and rewards when disseminating information on the Internet.</p>
+      </block>
+      <block class="full_text">
+        <p>CAN the easy distribution of data promised by the Internet actually bring the type of scrutiny that ultimately leads to less information being available?</p>
+        <p>That is the question being raised by a new law called the Data Quality Act, which requires the government to set standards for the accuracy of scientific information used by federal agencies. It is the latest move from Washington highlighting the balance of risks and rewards when disseminating information on the Internet.</p>
+        <p>The law, which takes full effect on Oct. 1, creates a system under which anyone could point out errors in documents; if an error is confirmed, an agency would have to remove the data from government Web sites and publications.</p>
+        <p>The Data Quality Act, along with recent efforts by government agencies to scrub their Web sites of information to guard national security, indicate a substantial shift to a more conservative culture of information, said Darrell West, a political scientist at Brown who tracks government information on the Web.</p>
+        <p>Though the Internet created fewer fortunes than had been expected, it did deliver riches of information, creating an age of government disclosure not seen before. Not so long ago, the mantra was openness; some legislators even scrambled to get lists of campaign contributors into cyberspace where the voters could see.</p>
+        <p>But that age may be over.</p>
+        <p>''The open-access people just put things online and worried about the consequences later,'' Professor West said. ''Now we're hitting the consequences.''</p>
+        <p>The Center for Regulatory Effectiveness, a primary backer of the Data Quality Act, has already started requesting changes in government information that is published in print and online.</p>
+        <p>This year, the center requested that the United States Global Change Research Program withdraw dissemination of the National Assessment on Climate Change on the basis of ''numerous data quality and scientific flaws,'' according to a letter posted on the group's Web site.</p>
+        <p>The center also asked the Environmental Protection Agency to modify its Web site on global warming to reflect the scientific uncertainties about global climate change.</p>
+        <p>William Kelly, western representative for the center, said the poor quality of federal data created problems for everyone who used it, from regulators to consumers.</p>
+        <p>''With the blossoming of the Internet, it's turned into a huge problem for industry,'' Mr. Kelly said. ''Agencies were encouraged to post virtually everything on the Internet. It wasn't such a problem when people had to go through a Freedom of Information Act request.''</p>
+        <p>Some watchdog groups say that agencies need to create policies on how to treat information on the Internet, arguing that otherwise, haphazard decisions would lead to more restrictions.</p>
+        <p>''The problem is, it's much easier to make decisions about taking down information,'' said Ari Schwartz, associate director of the Center for Democracy and Technology, a nonprofit group in Washington. ''The policy seems to be, take everything down, and we'll make decisions later.''</p>
+        <p>Employees of the Interior Department learned the consequences of that approach earlier this year, when a federal judge ordered all the department's computer communications shut because its Web sites were vulnerable to hacking. Agencies fielded complaints from a wide range of people, from those planning vacations to national parks to those seeking the status of bird species. Most of the its Web sites have since been restored.</p>
+        <p>Removing information from Web sites became more of a government interest after Sept. 11, as agencies took down information they thought might be useful to terrorists.</p>
+        <p>A nonprofit group in Washington called OMB Watch is trying to assess just how much information agencies removed from public Web sites under the new directives. The group sent requests under the Freedom of Information Act to a dozen agencies in January. So far, only the Environmental Protection Agency has sent back a list.</p>
+        <p>According to OMB Watch, E.P.A. officials have restored much of the information that they withdrew from its Web sites last fall, including pages dealing with watersheds in New York City and the Envirofacts database, which allows users to retrieve information about air pollution, chemicals at government and business installations, water pollution and grants.</p>
+        <p>Responses to the group's inquiry indicate that other agencies may have removed a significant amount of information from the Web. The Energy Department, according to OMB Watch, reported that it had stacks of information waiting to be organized before it could be sent.</p>
+        <p>''We have nothing we can nail them down on, and we have no index of what they had in the past,'' said Sean Moulton, a senior policy analyst with OMB Watch. He said the directives to remove data and the new data-quality guidelines were part of ''an overarching mosaic that is about restricting information and removing information from public access.''</p>
+        <p>''Unfortunately,'' Mr. Moulton said, ''Sept. 11 is being utilized as a pivot point for industry to push an agenda they already had.''</p>
+        <p>OMB Watch has advocated creation of an office that would oversee what data agencies publish online and the security measures they use.</p>
+        <p>But even when done with care for quality and security, publishing on the Internet can still bring unexpected trouble to agencies.</p>
+        <p>Five years ago, the Social Security Administration set up a service on its Web site that let individuals look up their income histories and check what benefits were available. People had to enter five pieces of information: full name, Social Security number, date of birth, place of birth and mother's maiden name.</p>
+        <p>''By requiring those five items, we felt that was adequate security. It was addressed,'' said Mark Hinkle, a spokesman for the Social Security Administration.</p>
+        <p>That is more information than most people need now to check their bank accounts online, but the agency received a letter from several senators with concerns that hackers could steal individuals' personal information from the site.</p>
+        <p>Though no fraud was ever reported, the agency took down the database. Now, Social Security sends earnings records each year by mail.</p>
+        <p>New Economy</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

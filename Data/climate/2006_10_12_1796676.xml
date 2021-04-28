@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Company Researching Cleaner Fuels Draws Backers</title>
+    <meta content="12venture" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/10/12/business/12venture.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1796676"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Startup</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Venture Capital</classifier>
+        <classifier class="online_producer" type="descriptor">Ethanol</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Venture Capital</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethanol</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E0DA1030F931A25753C1A9609C8B63" item-length="481" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Company Researching Cleaner Fuels Draws Backers</hl1>
+        <hl2 class="online_headline">A Company Researching Cleaner Fuels Draws Backers</hl2>
+      </hedline>
+      <byline class="print_byline">By PETER EDMONSTON</byline>
+      <byline class="normalized_byline">Edmonston, Peter</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Oil prices may be falling, but venture capitalists continue to see green -- in both senses of the word -- in the business of finding cleaner and more environmentally friendly energy sources.</p>
+        <p>The latest example is Amyris Biotechnologies, a start-up whose focus until recently has been using microbes to produce an antimalarial drug.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Amyris Biotechnologies, a start-up focusing on ethanol, is expected to announce it has secured $20 million from venture capitalists.</p>
+      </block>
+      <block class="full_text">
+        <p>Oil prices may be falling, but venture capitalists continue to see green -- in both senses of the word -- in the business of finding cleaner and more environmentally friendly energy sources.</p>
+        <p>The latest example is Amyris Biotechnologies, a start-up whose focus until recently has been using microbes to produce an antimalarial drug.</p>
+        <p>Amyris is expected to announce today that it has secured $20 million in financing from a group, including Khosla Ventures, the venture firm led by the Sun Microsystems co-founder Vinod Khosla.</p>
+        <p>With its new money, Amyris hopes to adapt its microbes to produce a molecule similar to that in ethanol, a plant-derived fuel that can be mixed with gasoline, said John Melo, a former BP executive who is joining Amyris as its chief executive.</p>
+        <p>The venture financing is the first for Amyris, which has 41 employees. Previously, the firm relied on grants from organizations, including the Bill and Melinda Gates Foundation.</p>
+        <p>Kleiner Perkins Caufield &amp; Byers, the Silicon Valley venture firm where Mr. Khosla was once a partner, and the venture arm of the private equity firm Texas Pacific Group are also investing in Amyris.</p>
+        <p>John Doerr of Kleiner Perkins, Samir Kaul of Khosla Ventures and Geoffrey Duyk of Texas Pacific Group Ventures will also be joining the board of Amyris.</p>
+        <p>Mr. Khosla's firm is just one of many that have invested in companies that improve energy sources or provide alternative ones, a category known as cleantech. Businesses related to ethanol, which is seen by many as a fuel that could rapidly displace gasoline, have been an especially big draw.</p>
+        <p>The private investment firm of Bill Gates, Cascade Investment, paid $84 million in April for preferred convertible shares of Pacific Ethanol, a publicly traded ethanol producer. Sir Richard Branson, chairman of Virgin Group, plans to invest $3 billion over the next 10 years in alternative energy enterprises.</p>
+        <p>After flaring white-hot over the summer, however, enthusiasm for ethanol-related businesses has cooled, in large part because the economics of ethanol is less compelling than it was six months ago when oil prices were higher.</p>
+        <p>Mr. Khosla said he welcomed a pullback in what he called a speculative rush to embrace ethanol-related stocks. ''It was getting heated, and I'm glad to see it moderate to more reasonable levels,'' he said.</p>
+        <p>Shares of two ethanol makers, VeraSun Energy and Aventine Renewable Energy, have declined sharply since they had initial public offerings within a few weeks of each other this summer.</p>
+        <p>Hawkeye Holdings, another ethanol maker, postponed its planned initial public offerings last month citing ''current conditions in the equity markets and the recent pullback in the energy segment in particular.'' Hawkeye originally filed for the stock offering on May 30, less than a month after the private equity firm Thomas H. Lee Partners agreed to acquire 80 percent of Hawkeye in a deal that valued the company at about $1 billion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

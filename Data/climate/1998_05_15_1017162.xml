@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR231327" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1017162"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980515T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EEDE1030F936A25756C0A96E958260" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of April 26 article about proposal to promote skeptical scientific views of theory of global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on April 26 about a proposal to promote skeptical scientific views of the theory of global warming included an organization incorrectly among the proposal's advocates. The Science and Environmental Policy Project was invited to participate but declined, according to its spokeswoman, Candace Crandall. A spokesman for the American Petroleum Institute confirms that a memorandum by an employee, on which the article was based, identified Ms. Crandall incorrectly as a member of the committee that drafted the proposal.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on April 26 about a proposal to promote skeptical scientific views of the theory of global warming included an organization incorrectly among the proposal's advocates. The Science and Environmental Policy Project was invited to participate but declined, according to its spokeswoman, Candace Crandall. A spokesman for the American Petroleum Institute confirms that a memorandum by an employee, on which the article was based, identified Ms. Crandall incorrectly as a member of the committee that drafted the proposal.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

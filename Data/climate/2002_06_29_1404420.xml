@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Fire This Time: Seeking a Way Out</title>
+    <meta content="LTR235732" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1404420"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firemen</classifier>
+        <classifier class="indexing_service" type="descriptor">Forest and Brush Fires</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <location class="indexing_service">Western States (US)</location>
+        <person class="indexing_service">Smith, Joel B</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forest and Brush Fires</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E0D6113EF93AA15755C0A9649C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Fire This Time: Seeking a Way Out</hl1>
+      </hedline>
+      <abstract>
+        <p>Joel B Smith letter on June 23 article on wildfires afflicting Western states warns climate change is likely to worsen problem; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The immediate causes for the vast wildfires afflicting the Southwest (''Era of the Big Fire Is Kindled at West's Doors,'' front page, June 23) are extreme drought and fire suppression in combination with rapidly growing populations living in the ''urban-wildland interface.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The immediate causes for the vast wildfires afflicting the Southwest (''Era of the Big Fire Is Kindled at West's Doors,'' front page, June 23) are extreme drought and fire suppression in combination with rapidly growing populations living in the ''urban-wildland interface.''</p>
+        <p>Climate change is likely to make Western wildfires worse. Higher temperatures will increase drying and need for water by forests.</p>
+        <p>If precipitation decreases, the forests become drier and more fires will happen. If precipitation increases, forests will grow more during wet years, increasing the fuel load.</p>
+        <p>Then, during inevitable dry years (because the West has high variability in year-to-year precipitation), that additional fuel will be prone to fire. Either way, the potential for fires increases.</p>
+        <p>JOEL B. SMITH  Boulder, Colo., June 24, 2002</p>
+        <p>The writer is an environmental consultant specializing in global warming.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

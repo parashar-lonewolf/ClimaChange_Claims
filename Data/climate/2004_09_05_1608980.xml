@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Heat</title>
+    <meta content="LTR121214" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1608980"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Gore, Al</person>
+        <person class="indexing_service">Koch, Edward I</person>
+        <person class="indexing_service">Gelbspan, Ross</person>
+        <object.title class="indexing_service">Boiling Point (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E7DE1731F936A3575AC0A9629C8B63" item-length="347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Heat</hl1>
+      </hedline>
+      <abstract>
+        <p>Edward I Koch letter takes issue with Aug 15 Al Gore review of book Boiling Point by Ross Gelbspan; Gore's reply appended</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of Ross Gelbspan's ''Boiling Point'' (Aug. 15), former Vice President Al Gore called it a ''blend of passionate advocacy and lucid analysis'' of global warming. Gelbspan's book criticizes the Bush administration, documenting its efforts to '' 'demolish the diplomatic foundations' of the international agreement known as the Kyoto Protocol.''</p>
+        <p>Gore writes, ''The Kyoto Protocol (which may soon become legally effective if Russia ratifies it, even though the United States has not) has been criticized by many, including Gelbspan, for not going nearly far enough.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of Ross Gelbspan's ''Boiling Point'' (Aug. 15), former Vice President Al Gore called it a ''blend of passionate advocacy and lucid analysis'' of global warming. Gelbspan's book criticizes the Bush administration, documenting its efforts to '' 'demolish the diplomatic foundations' of the international agreement known as the Kyoto Protocol.''</p>
+        <p>Gore writes, ''The Kyoto Protocol (which may soon become legally effective if Russia ratifies it, even though the United States has not) has been criticized by many, including Gelbspan, for not going nearly far enough.''</p>
+        <p>Gore has taken on the job of educating the American public on global warming and regularly denounces the Bush administration for not ratifying the protocol. Gore has allies in this endeavor, including Senator Edward M. Kennedy and Senator John Kerry. The leading lights of the Democratic party all end up on the TV programs of Charlie Rose, Tim Russert or Larry King, savaging the Bush administration on this issue.</p>
+        <p>When I see their self-righteous spouting on this issue I am reminded of Joseph Welch's admonition to Senator McCarthy: ''Have you no sense of decency?''</p>
+        <p>Here are the facts. On July 25, 1997, John Kerry and Ted Kennedy, along with 93 other senators (with five senators not voting and none voting in opposition) adopted a resolution stating that ''the United States should not be a signatory to any protocol to, or other agreement regarding, the United Nations Framework Convention on Climate Change of 1992, at negotiations in Kyoto.''</p>
+        <p>Shouldn't someone who has held the office of vice president of the United States and who has sought the presidency disclose the facts, even when reviewing a book? The reason that Gore's name is not found with the 95 others is that as vice president presiding over the Senate, he could not cast a vote unless there was a tie. On the Kyoto vote the result was 95 to 0 against the treaty.</p>
+        <p>Edward I. Koch  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

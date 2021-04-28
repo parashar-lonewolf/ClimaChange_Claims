@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="15INSI$07" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1367980"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E0DA153FF936A25751C0A9649C8B63" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>China Arrests Westerners  During the largest protest yet by foreign backers of Falun Gong, more than 40 Westerners were detained in Tiananmen Square.</p>
+        <p>PAGE A6</p>
+        <p>Greenhouse Measures  President Bush announced his plan for slowing buildup of gases linked to climate change, and Europe gave it a tepid welcome.</p>
+        <p>PAGE A6</p>
+      </block>
+      <block class="full_text">
+        <p>China Arrests Westerners  During the largest protest yet by foreign backers of Falun Gong, more than 40 Westerners were detained in Tiananmen Square.</p>
+        <p>PAGE A6</p>
+        <p>Greenhouse Measures  President Bush announced his plan for slowing buildup of gases linked to climate change, and Europe gave it a tepid welcome.</p>
+        <p>PAGE A6</p>
+        <p>I.B.M. Didn't Disclose Sale  I.B.M. did not disclose in January that the sale of a business had generated $300 million that it used to lower operating costs.</p>
+        <p>PAGE C1</p>
+        <p>Stolen Chagall Identified  A painting found in a Kansas mail center has been authenticated as the Chagall stolen from the Jewish Museum.</p>
+        <p>WEEKEND, PAGE E43</p>
+        <p>Pauline Trigère Dies  The Paris-born designer and chic symbol of the American fashion industry was 93.</p>
+        <p>PAGE C14</p>
+        <p>A Diplomat on MTV  Colin L. Powell spent an hour fielding questions from an audience of young people in capitals from South America to South Asia.</p>
+        <p>PAGE A4</p>
+        <p>Cleared of Rape by DNA  After 15 years in prison, a Pennsylvania man was cleared of rape by DNA tests and released.</p>
+        <p>PAGE A12</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

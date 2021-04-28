@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Power Shortage</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="373700"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="BLACKBOARD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRICITY</classifier>
+        <classifier class="indexing_service" type="descriptor">SPECIAL SECTIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <org class="indexing_service">NATIONAL ENERGY EDUCATION DEVELOPMENT PROGRAM</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electricity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900805T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D81638F936A3575BC0A966958260" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Power Shortage</hl1>
+      </hedline>
+      <byline class="print_byline">By Matthew L. Wald</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: THE United States will probably be importing 60 percent of its oil by the time today's first-graders get their driver's licenses; debate over whether to build new nuclear reactors seems likely to intensify as those youngsters grow up, and acid rain and the greenhouse effect promise to focus attention on energy use of all kinds for years.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: THE United States will probably be importing 60 percent of its oil by the time today's first-graders get their driver's licenses; debate over whether to build new nuclear reactors seems likely to intensify as those youngsters grow up, and acid rain and the greenhouse effect promise to focus attention on energy use of all kinds for years.</p>
+        <p>THE United States will probably be importing 60 percent of its oil by the time today's first-graders get their driver's licenses; debate over whether to build new nuclear reactors seems likely to intensify as those youngsters grow up, and acid rain and the greenhouse effect promise to focus attention on energy use of all kinds for years.</p>
+        <p>But a written quiz of 25,000 students nationwide in grades 4 through 12 conducted during the 1989-90 school year by the National Energy Education Development Program, a nonprofit organization formed by Congressional resolution 10 years ago, finds that most students have very little idea about the energy they are consuming.</p>
+        <p>* Average gasoline mileage has doubled since 1973, but on the multiple-choice quiz, only 11 percent of the students picked the correct reason, lighter cars.</p>
+        <p>* Nuclear power plants manufacture electricity by splitting uranium atoms to produce heat, but 70 percent of the students thought that electricity was produced by combining or burning atoms to generate heat, or by splitting atoms to obtain an electrical discharge.</p>
+        <p>* A kilowatt hour of electricity will run a television set for 10 hours, students were told. They were then asked the cost: 8 cents, 57 cents, $1.07 or $1.70. Only 1 in 10 correctly picked 8 cents.</p>
+        <p>* Asked which uses the most energy, lighting, refrigeration, heating water or keeping rooms hot or cold, one third correctly picked regulating room temperature.</p>
+        <p>The survey also found that like their elders, students are divided as to whether oil drilling should be allowed in offshore areas and Alaska. Almost half said they thought Government should encourage the use of ethanol, which is made from corn, as a cleaner substitute for gasoline. Only a quarter said they favored Government standards for fuel efficiency.</p>
+        <p>BLACKBOARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

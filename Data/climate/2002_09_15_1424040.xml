@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="15INSI$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1424040"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2D61F31F936A2575AC0A9649C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Global Warming Omitted  For the first time in six years, an annual federal report on air pollution does not have a section on global warming. The decision was made with White House approval.</p>
+        <p>PAGE 30</p>
+        <p>A Flawed System of Care  A new study by the Pataki administration acknowledges widespread failings at New York's adult homes for the mentally ill.</p>
+        <p>PAGE 33</p>
+      </block>
+      <block class="full_text">
+        <p>Global Warming Omitted  For the first time in six years, an annual federal report on air pollution does not have a section on global warming. The decision was made with White House approval.</p>
+        <p>PAGE 30</p>
+        <p>A Flawed System of Care  A new study by the Pataki administration acknowledges widespread failings at New York's adult homes for the mentally ill.</p>
+        <p>PAGE 33</p>
+        <p>World Has New Fastest Man  Tim Montgomery of the U.S. broke the 100-meter world record, finishing in 9.78 seconds.</p>
+        <p>SPORTSSUNDAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

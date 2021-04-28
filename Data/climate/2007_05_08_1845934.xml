@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Saving Coral Reefs</title>
+    <meta content="08lett-1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1845934"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE5D71631F93BA35756C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Saving Coral Reefs</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Coral Is Dying. Can It Be Reborn?'' (May 1): The coral farming and transplantation efforts described in Cornelia Dean's article may prove useful in restoring individual patches of reef in popular tourist sites. However, such labor-intensive and costly coral reef restoration work is no match for the threat that global climate change poses to coral reefs worldwide.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Coral Is Dying. Can It Be Reborn?'' (May 1): The coral farming and transplantation efforts described in Cornelia Dean's article may prove useful in restoring individual patches of reef in popular tourist sites. However, such labor-intensive and costly coral reef restoration work is no match for the threat that global climate change poses to coral reefs worldwide.</p>
+        <p>Hundreds of millions of people in the developing world who depend on coral reefs for food, income and shelter from ocean waves will suffer. Perhaps we should focus on reducing greenhouse gas emissions, rather than protecting our favorite dive spots.</p>
+        <p>Simon Donner  Princeton, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

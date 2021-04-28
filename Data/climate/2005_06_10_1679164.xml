@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Reports, Edited to Fit</title>
+    <meta content="LTR032533" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1679164"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DB1138F933A25755C0A9639C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Reports, Edited to Fit</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>What the Bush administration has done on climate change is to muddy the distinction between science and policy and so corrupt both.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>What the Bush administration has done on climate change is to muddy the distinction between science and policy and so corrupt both.</p>
+        <p>In allowing a White House official who was a former oil industry lobbyist to change scientific conclusions in government reports on climate change, the Bush administration has undermined the integrity of science by making it the handmaiden of ideology and fostering doubt about the objectivity and credibility of government scientific reports.</p>
+        <p>At the same time, by exaggerating the uncertainties about climate change, the administration has corrupted the policy-making process, which must always be informed by sound science.</p>
+        <p>By reshaping the science to justify inaction on global warming, the administration has distorted the evidence available to policy makers and undercut their ability to make informed decisions.</p>
+        <p>Peter Cannavo  Clinton, N.Y., June 8, 2005</p>
+        <p>The writer is a professor of government at Hamilton College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

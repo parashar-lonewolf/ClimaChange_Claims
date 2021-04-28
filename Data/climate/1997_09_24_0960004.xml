@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Lighter, Sleeker Form of Metal</title>
+    <meta content="24HELM" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="960004"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="ROCK REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Helmet (Music Group)</org>
+        <person class="indexing_service">Ratliff, Ben</person>
+        <person class="indexing_service">Hamilton, Page</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6DB133BF937A1575AC0A961958260" item-length="516" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Lighter, Sleeker Form of Metal</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+      <byline class="normalized_byline">Ratliff, Ben</byline>
+      <abstract>
+        <p>Helmet, New York band led by Page Hamilton, performs at Irving Plaza; photo; Ben Ratliff review (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Every non-heavy metal band that appropriates metal's texture and volume must alter it: it's incumbent on them to shake off metal's brutish, dull-witted associations of the past for a discerning young audience. Nirvana had Beethovenian pathos, Soundgarden had slow and careful song hooks the size of continents.</p>
+        <p>The New York band Helmet -- led by the singer and guitarist Page Hamilton, a bookish, unlikely hero to the audience that reads magazines like Metallurgy and Kerrang! -- has rhythm, and a brilliant sound mix. At Irving Plaza on Monday night, the audio was of such high quality that in Mr. Hamilton and Chris Traynor's mostly solo-less, clockwork guitar riffing, a listener could get beyond hearing the distortion as formalized aggression and experience it as tone color.</p>
+      </block>
+      <block class="full_text">
+        <p>Every non-heavy metal band that appropriates metal's texture and volume must alter it: it's incumbent on them to shake off metal's brutish, dull-witted associations of the past for a discerning young audience. Nirvana had Beethovenian pathos, Soundgarden had slow and careful song hooks the size of continents.</p>
+        <p>The New York band Helmet -- led by the singer and guitarist Page Hamilton, a bookish, unlikely hero to the audience that reads magazines like Metallurgy and Kerrang! -- has rhythm, and a brilliant sound mix. At Irving Plaza on Monday night, the audio was of such high quality that in Mr. Hamilton and Chris Traynor's mostly solo-less, clockwork guitar riffing, a listener could get beyond hearing the distortion as formalized aggression and experience it as tone color.</p>
+        <p>The precision wasn't just in the guitars. Helmet's drummer, John Stanier, has a style that's quantifiably different from heavy-metal drummers. It has the efficacy of funk, with a snare-drum sound pitched unnervingly high; it's metal that connotes anxiety rather than sloth or the usual dead-eyed anger.</p>
+        <p>Helmet is 8 years old now. On a recent album, ''Aftertaste'' (Interscope), it has shaved off all experimentation to concentrate on the sleek clangor that's always been its best hand. And Mr. Traynor, a recent addition to the group, moves to the music as though he means it. This is a new development for a band that formerly had little discernible body language.</p>
+        <p>But there's still a big difference between Helmet and heavy metal in what the band projects. Metal bands are larger than life: their function is to act out a crowd's fantasies of power, self-abasement or evil.</p>
+        <p>The members of Helmet are blank slates who don't talk in between songs. Mr. Hamilton's lyrics are as pointedly oblique -- with moral judgments lurking underneath layers of cool -- as the apothegms adorning Barbara Kruger's artworks. ''The tic begins/where's the manner end?'' he shouted in ''Tic,'' a song that might be about the self-help or publicity industry -- the image-improvement business, at least. ''The climate change will never get in/silent and strong and prepossessed.'' Those might be pejorative words to Mr. Hamilton, but they described the clean, distilled, airless feel of his band.</p>
+        <p>The Melvins, a decade-old trio from the Northwest with a small but dedicated group of admirers (Kurt Cobain was among them), opened the concert. The band is one of Helmet's models, and Helmet can sound like a higher-fidelity version of them. The singer Buzz Osborne has always had an anonymous voice and guitar style, but the band's wide-ranging set had personality. It was as well plotted as a ritual, with only the slightest pauses between songs. There were unpredictable juxtapositions of quick-tempo hardcore punk and Black Sabbath's sludgy acid-rock.</p>
+        <p>ROCK REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

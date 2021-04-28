@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tonight's Feature? Typhoon</title>
+    <meta content="TVSIGH$02" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Television" name="dsk"/>
+    <meta content="59" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="973696"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="SIGNOFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <org class="indexing_service">Weather Channel</org>
+        <person class="indexing_service">Gorman, James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E2DA1F31F935A25752C1A961958260" item-length="786" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tonight's Feature? Typhoon</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES GORMAN</byline>
+      <byline class="normalized_byline">Gorman, James</byline>
+      <abstract>
+        <p>Article on operations of Weather Channel; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ABOUT 10 years ago I gave the after-dinner talk at the annual meeting of the Weather Channel shareholders. I had written a magazine piece saying what a relief it was that there was something boring on television. Instead of the frenetic excitement of car chases, shootings, sex and explosions - sometimes all at once - there was the soothing ennui, so much like life, of watching endless maps with arrows indicating highs, lows, fronts and, everyone's favorite, lake-effect snow.</p>
+      </block>
+      <block class="full_text">
+        <p>ABOUT 10 years ago I gave the after-dinner talk at the annual meeting of the Weather Channel shareholders. I had written a magazine piece saying what a relief it was that there was something boring on television. Instead of the frenetic excitement of car chases, shootings, sex and explosions - sometimes all at once - there was the soothing ennui, so much like life, of watching endless maps with arrows indicating highs, lows, fronts and, everyone's favorite, lake-effect snow.</p>
+        <p>The people that ran the Weather Channel apparently had a sense of humor and asked me to stand up in front of the people who had invested in their business and tell them how dull it all was. So I did. After some excruciating moments while the audience tried to decide whether I was making fun of them or having fun with them, the laughter began and the speech went just fine. I was not stoned. I was paid and got a free dinner to boot. Judging from the number of advertisements on the Weather Channel these days, I should have taken my fee and invested it in my subject.</p>
+        <p>I revisited the channel recently, as a viewer, and found that it is not all boring, which is something of a mixed blessing. It has a real split personality. The utilitarian local forecasts and travel advisories for business flyers remain as soporific as ever. The local forecasts are text only, white sans serif computer type on a dull blue screen. Other than learning when it's going to rain, the only interest these forecasts hold for me is that watching them solved a small mystery. Remember elevator music? It's not in elevators anymore, is it? And I for one did not know where it had gone. Now I do. It migrated to the Weather Channel to provide the musical background for the local forecasts.</p>
+        <p>In other features, however, the Weather Channel has become oddly exciting. For one thing, the weather is more interesting than it used to be. Now, a warm fall day is not just a warm fall day, it's global warming. The weather is not just something to talk about in the elevator (now that there's no music anymore), it's an indication of the fate of the earth. It used to be said that all politics is local. Now, all weather is global. That horrific storm in the Pacific, for instance, may well be caused by increased accumulation of greenhouse gases, the lion's share of which are no doubt being spewed daily from that enormous sport utility vehicle your obnoxious neighbor just bought.</p>
+        <p>Satellite images of precipitation over the Rockies and great swirling tropical systems over the Gulf and Caribbean are irresistible. Rainy weather in the Leeward Islands can take your mind off the morning commute. Not to mention Typhoon Joan, moving across the Pacific.</p>
+        <p>Information on far-off weather is not really useful to most viewers. It's there for drama. If you listen to what the announcers say you can see that the Weather Channel is consciously pushing the idea of weather as exciting. The announcers refer to ''stories.'' Snow is the West is one story, rain in the Southeast another. This is a liberal interpretation of narrative structure, but never mind.</p>
+        <p>ONE recent evening the announcer giving the Tropical Update said, ''Hurricane season in the Atlantic basin has been kind of a yawn, don't you think?'' A yawn? Is this the Property Damage Channel? But, he pointed out, there's still hope. ''We can't give up on it yet because the warm waters are still there.'' Whew! It's nice to know that thousands may yet be left cold and homeless in the wake of high winds and storm surges.</p>
+        <p>And, of course, there is the El Nino Focus, a nightly update on what some have labeled the climate event of the century. This is not news you can use, it's weather for fans. The Weather Channel even promotes this idea of itself, with ads that show cheering fans of Weekend Outlook in a sports bar shouting for fronts, highs and lows.</p>
+        <p>The future never brings what you expect. One of the best science fiction novels ever written, ''Neuromancer'' by William Gibson, describes a grim, high-tech, lowlife world of the future. It begins, ''The sky above the port was the color of television, tuned to a dead channel.'' Close. Television and the sky are indeed more closely linked than ever, but it's television that is the color of the sky, at least on the Weather Channel.</p>
+        <p>SIGNOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

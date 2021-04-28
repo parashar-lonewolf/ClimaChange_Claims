@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Wind Turbine May Be on the Way</title>
+    <meta content="27weeknjNJ-1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1850431"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Turbines</classifier>
+        <classifier class="indexing_service" type="descriptor">Wind</classifier>
+        <location class="indexing_service">Union Beach (NJ)</location>
+        <org class="indexing_service">Bayshore Regional Sewerage Authority</org>
+        <person class="indexing_service">Randall, David K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070527T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E5D81730F934A15756C0A9619C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Wind Turbine May Be on the Way</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID K. RANDALL</byline>
+      <byline class="normalized_byline">Randall, David K</byline>
+      <abstract>
+        <p>Bayshore Regional Sewerage Authority board votes to solicit bids to build 160-foot tower in Union Beach, NJ, to measure local wind speeds, key component in determining feasibility of erecting wind turbine that would provide most of authority's energy needs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Jersey may soon add a second public wind project, with a wind turbine generating electricity for a public agency. The board of the Bayshore Regional Sewerage Authority, in Monmouth County, wants to study the possibility of erecting a wind turbine, 380 feet at its highest point, that would provide most of the authority's energy needs.</p>
+        <p>The board voted on Monday to solicit bids to build a 160-foot tower to measure local wind speeds, a key component in determining the feasibility of erecting a wind turbine.</p>
+      </block>
+      <block class="full_text">
+        <p>New Jersey may soon add a second public wind project, with a wind turbine generating electricity for a public agency. The board of the Bayshore Regional Sewerage Authority, in Monmouth County, wants to study the possibility of erecting a wind turbine, 380 feet at its highest point, that would provide most of the authority's energy needs.</p>
+        <p>The board voted on Monday to solicit bids to build a 160-foot tower to measure local wind speeds, a key component in determining the feasibility of erecting a wind turbine.</p>
+        <p>The Atlantic County Utilities Authority and Community Energy Inc., a private company, operate five wind turbines in Atlantic City, the first full-size turbines along the New Jersey coast.</p>
+        <p>''We looked into the possibility of erecting a tower at the Union Beach location, and as we started looking at the wind criteria site requirements we kept on running into green lights,'' said Robert C. Fischer, the executive director of the Bayshore Regional Sewerage Authority.</p>
+        <p>If winds in the area average about 15 miles an hour, a wind turbine could provide up to 70 percent of the agency's energy needs, he said.</p>
+        <p>The wind turbine would include three 100-foot blades attached to a 280-foot tower and could generate 1.5 megawatts an hour, Mr. Fischer said. The authority now buys about eight million kilowatt hours of electricity a year from Jersey Central Power &amp; Light.</p>
+        <p>A spokesman for the New Jersey Board of Public Utilities said that a megawatt generates enough electricity to power 800 to 1,000 homes.</p>
+        <p>Frank A. Wells, a commissioner of the Bayshore Regional Sewerage Authority and a council member in Union Beach, said he developed the idea of building a wind turbine after viewing wind turbines along the California coast. ''This has the potential to reduce our $65,000-a-month electric bill, plus the fact that there are very little fossil fuels produced in this country other than coal,'' he said.</p>
+        <p>DAVID K. RANDALL</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

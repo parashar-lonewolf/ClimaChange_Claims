@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Market Opening on Internet For Pollution-Credit Trades</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="754933"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNET (COMPUTER NETWORK)</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRONIC INFORMATION SYSTEMS</classifier>
+        <org class="indexing_service">CALIFORNIA INSTITUTE OF TECHNOLOGY</org>
+        <org class="indexing_service">CANTOR FITZGERALD LP</org>
+        <org class="indexing_service">PACIFIC STOCK EXCHANGE</org>
+        <org class="indexing_service">BANK OF AMERICA</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0DE123FF930A25757C0A963958260" item-length="620" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Market Opening on Internet For Pollution-Credit Trades</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREA ADELSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An electronic market for trading pollution credits from Southern California is to begin operating today on the Internet, offering a system that its developers believe will help businesses reduce pollution at the lowest possible cost.</p>
+        <p>Its developers, scientists from the California Institute of Technology in Pasadena, hope their automated environmental credit exchange, as it is known, will supplant a rival auction market begun last year by Cantor Fitzgerald L.P., a Wall Street brokerage firm.</p>
+      </block>
+      <block class="full_text">
+        <p>An electronic market for trading pollution credits from Southern California is to begin operating today on the Internet, offering a system that its developers believe will help businesses reduce pollution at the lowest possible cost.</p>
+        <p>Its developers, scientists from the California Institute of Technology in Pasadena, hope their automated environmental credit exchange, as it is known, will supplant a rival auction market begun last year by Cantor Fitzgerald L.P., a Wall Street brokerage firm.</p>
+        <p>Developers of the automated credit exchange said that the new system was already drawing interest from the Environmental Protection Agency and environmental regulators for several states. The supporters hope the credit exchange becomes the standard trading mechanism used in other regions that are planning to let free-market forces clean urban air through the trading of smog credits.</p>
+        <p>Credits in the chemical that causes acid rain have been traded since 1993 among utilities through the Chicago Board of Trade, but other global markets for trading credits in water and greenhouse gases are also emerging.</p>
+        <p>"The fundamental purpose of moving to a market-based approach to environmental regulation is to reduce emissions faster and more efficiently than traditional regulations," said Dale Carlson, vice president of corporate affairs for the Pacific Stock Exchange in San Francisco. The exchange will act to clear and settle trades on the credit exchange along with the Bank of America, a unit of the BankAmerica Corporation.</p>
+        <p>"This concept of using market systems is the coming trend," said Robert D. Brenner, the E.P.A.'s director of air policy. It is too early to determine whether a single system will emerge as a standard, he said, "but there's an opportunity for anyone to break into the market."</p>
+        <p>The environmental credit exchange is expected to operate one week a quarter, but trades will not be executed until the final day of the trading week. That lets participants refine their bids and find the price the rest of the market is setting by relying on analysis provided by the system's software.</p>
+        <p>The exchange was developed by Caltech professors, whose two companies, Sholtz &amp; Associates and Econdesigns, will make money three ways: by charging companies a fee to participate, by selling their software, and by a commission based on the value of the trades that are made.</p>
+        <p>Ann Sholtz, a Caltech economics professor and a co-developer of the credit exchange, said Cantor's auction system left small business without access to sophisticated financial analysis at a disadvantage when buying or selling pollution credits.</p>
+        <p>Carlton W. Bartels, director of environmental brokerage services for Cantor, countered that the Caltech system was too complex and lacked customer service.</p>
+        <p>Southern California's 390 largest polluters, those that produce four or more tons a year of smog-making chemicals, must determine whether buying new technology or buying the right to pollute from someone else is the cheapest way for them to reduce emissions. The South Coast Air Quality Management District will force progress by cutting the ceiling of credits each year.</p>
+        <p>Prices for credits went for as low as one-tenth of 1 cent a pound of chemicals during the most recent auction, held in January by Cantor Fitzgerald. Such prices, conceded James M. Lents, executive officer of the air quality district, "were dirt cheap. By the second year of the program, the rubber starts to meet to road."</p>
+        <p>It is to the agency's advantage to see rival trading systems for credits emerge, he said, adding: "We want a market with lots of trades. It gives people confidence. If you don't have good trading, people will hoard credits."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

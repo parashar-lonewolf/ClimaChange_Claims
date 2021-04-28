@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Every Breath You Take</title>
+    <meta content="26KRUG" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/11/26/opinion/26KRUG.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1443813"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Krugman, Paul</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Environmental Protection Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E4DF1F39F935A15752C1A9649C8B63" item-length="750" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Every Breath You Take</hl1>
+        <hl2 class="online_headline">Every Breath You Take</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column examining possible implications of new rules announced by Bush administration that would effectively scrap 'new source review,' crucial component of current system of air pollution control; says action represents not only policy change, but is likely to mark beginning of new era of environmental degradation (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last week the Bush administration announced new rules that would effectively scrap ''new source review,'' a crucial component of our current system of air pollution control. This action, which not incidentally will be worth billions to some major campaign contributors, comes as no surprise to anyone who pays attention to which way the wind is blowing (from west to east, mainly -- that is, states that vote Democratic are conveniently downwind).</p>
+        <p>But this isn't just a policy change, it's an omen. I hope I'm wrong, but it's likely that last week's announcement marks the beginning of a new era of environmental degradation.</p>
+        <p>Some background: The origin of new source review lies in a big policy mistake 30 years ago. The original Clean Air Act imposed strict rules on new sources of pollution, but it grandfathered existing power plants, refineries and so on. The idea was that over time, as old facilities closed down, strict rules would become the norm.</p>
+        <p>What happened instead was predictable: In order to keep their exemptions, polluting industries poured money into existing facilities rather than build new ones. In an attempt to close this loophole, the Environmental Protection Agency began requiring companies that invested in existing facilities to demonstrate that they were merely doing maintenance, rather than creating new capacity that was supposed to face stricter regulation.</p>
+        <p>Everyone agrees that this was an awkward fix. It was a recipe for endless legal battles between companies and the E.P.A., and in some cases it deterred investments that would actually have made the air cleaner. Most experts also agree on the solution: a so-called cap-and-trade system, in which existing facilities are granted emissions licenses that they can sell to others if they succeed in reducing their own pollution. This would end the litigation, and provide businesses with broad-based incentives to clean the air.</p>
+        <p>But in the early years of the Clean Air Act, environmentalists didn't trust market solutions enough to endorse cap-and-trade. By the time they changed their minds, it was too late. Polluters had lost interest in improving the way the emission-control system works, figuring that in a political scene increasingly dominated both by money and by conservative ideology they could buy themselves the right to spew at will. And so it has turned out.</p>
+        <p>True, the Bush administration says that it favors a cap-and-trade system; it has even introduced legislation to that effect. I could explain the defects of the Clear Skies Initiative -- its conspicuous failure to deal with greenhouse gases, the glacial pace at which it proposes to reduce emissions of those pollutants it does control (many estimates say that it would actually allow more pollution than would a strict enforcement of current law). But it's a moot point: Last week's announcement is, I believe, a signal that even Clear Skies isn't going to happen.</p>
+        <p>Aside from cynicism (which has been an almost infallible guide to administration environmental policy so far), how do I reach that conclusion?</p>
+        <p>Here's one reason: If a cap-and-trade system is just around the corner, why not wait and introduce the whole system at once? As the E.P.A. press release last week correctly declares, ''under the Clear Skies Initiative, NSR [new source review] would no longer be necessary.'' But then why did polluters so badly want an immediate end to such review before a new system could be put in place? And why was the administration willing to accept lots of bad press for a clearly anti-environmental move, if it was seriously planning to impose new controls in the next year or two? The obvious answer is that both the polluters and top administration officials know that Clear Skies is, figuratively and literally, a smokescreen.</p>
+        <p>Here's another reason: As long as new source review was in effect, the regulated industries had an interest in fundamental reform; a sensible cap-and-trade system could have both reduced pollution and increased profits. But now the polluters have gotten what they want; they would be hurt, not helped, by new restrictions. There's no longer any basis for a deal that clears the air.</p>
+        <p>Administration officials still insist, of course, that they plan to proceed with clean air measures. And it's possible that they will eventually do the right thing. But don't hold your breath waiting. In fact, it might be a good idea to breathe deeply now, while you still can.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It's likely that last week's announcement of new rules on air pollution marks the beginning of a new era of environmental degradation.</p>
+      </block>
+      <block class="full_text">
+        <p>Last week the Bush administration announced new rules that would effectively scrap ''new source review,'' a crucial component of our current system of air pollution control. This action, which not incidentally will be worth billions to some major campaign contributors, comes as no surprise to anyone who pays attention to which way the wind is blowing (from west to east, mainly -- that is, states that vote Democratic are conveniently downwind).</p>
+        <p>But this isn't just a policy change, it's an omen. I hope I'm wrong, but it's likely that last week's announcement marks the beginning of a new era of environmental degradation.</p>
+        <p>Some background: The origin of new source review lies in a big policy mistake 30 years ago. The original Clean Air Act imposed strict rules on new sources of pollution, but it grandfathered existing power plants, refineries and so on. The idea was that over time, as old facilities closed down, strict rules would become the norm.</p>
+        <p>What happened instead was predictable: In order to keep their exemptions, polluting industries poured money into existing facilities rather than build new ones. In an attempt to close this loophole, the Environmental Protection Agency began requiring companies that invested in existing facilities to demonstrate that they were merely doing maintenance, rather than creating new capacity that was supposed to face stricter regulation.</p>
+        <p>Everyone agrees that this was an awkward fix. It was a recipe for endless legal battles between companies and the E.P.A., and in some cases it deterred investments that would actually have made the air cleaner. Most experts also agree on the solution: a so-called cap-and-trade system, in which existing facilities are granted emissions licenses that they can sell to others if they succeed in reducing their own pollution. This would end the litigation, and provide businesses with broad-based incentives to clean the air.</p>
+        <p>But in the early years of the Clean Air Act, environmentalists didn't trust market solutions enough to endorse cap-and-trade. By the time they changed their minds, it was too late. Polluters had lost interest in improving the way the emission-control system works, figuring that in a political scene increasingly dominated both by money and by conservative ideology they could buy themselves the right to spew at will. And so it has turned out.</p>
+        <p>True, the Bush administration says that it favors a cap-and-trade system; it has even introduced legislation to that effect. I could explain the defects of the Clear Skies Initiative -- its conspicuous failure to deal with greenhouse gases, the glacial pace at which it proposes to reduce emissions of those pollutants it does control (many estimates say that it would actually allow more pollution than would a strict enforcement of current law). But it's a moot point: Last week's announcement is, I believe, a signal that even Clear Skies isn't going to happen.</p>
+        <p>Aside from cynicism (which has been an almost infallible guide to administration environmental policy so far), how do I reach that conclusion?</p>
+        <p>Here's one reason: If a cap-and-trade system is just around the corner, why not wait and introduce the whole system at once? As the E.P.A. press release last week correctly declares, ''under the Clear Skies Initiative, NSR [new source review] would no longer be necessary.'' But then why did polluters so badly want an immediate end to such review before a new system could be put in place? And why was the administration willing to accept lots of bad press for a clearly anti-environmental move, if it was seriously planning to impose new controls in the next year or two? The obvious answer is that both the polluters and top administration officials know that Clear Skies is, figuratively and literally, a smokescreen.</p>
+        <p>Here's another reason: As long as new source review was in effect, the regulated industries had an interest in fundamental reform; a sensible cap-and-trade system could have both reduced pollution and increased profits. But now the polluters have gotten what they want; they would be hurt, not helped, by new restrictions. There's no longer any basis for a deal that clears the air.</p>
+        <p>Administration officials still insist, of course, that they plan to proceed with clean air measures. And it's possible that they will eventually do the right thing. But don't hold your breath waiting. In fact, it might be a good idea to breathe deeply now, while you still can.</p>
+        <p>E-mail: krugman@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: krugman@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

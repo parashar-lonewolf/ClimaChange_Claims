@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Physicists Challenge Cold Fusion Claims</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="246031"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FUSION (NUCLEAR REACTION)</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">PONS, B STANLEY</person>
+        <person class="indexing_service">FLEISCHMANN, MARTIN (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fusion (Nuclear Reaction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5D9143FF931A35756C0A96F948260" item-length="662" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Physicists Challenge Cold Fusion Claims</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM W. BROWNE, Special to The New York Times</byline>
+      <byline class="normalized_byline">BROWNE, MALCOLM W</byline>
+      <dateline>BALTIMORE, May 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Separate experiments by many research groups have failed to validate a claim by the University of Utah to have achieved nuclear fusion in a jar of water, physicists reported today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Separate experiments by many research groups have failed to validate a claim by the University of Utah to have achieved nuclear fusion in a jar of water, physicists reported today.</p>
+        <p>Separate experiments by many research groups have failed to validate a claim by the University of Utah to have achieved nuclear fusion in a jar of water, physicists reported today.</p>
+        <p>A host of papers discussing the Utah experiment, most of them negative in their conclusions, were presented today at a meeting here of the American Physical Society. Among the institutions reporting failure in attempts to duplicate the Utah results were the California Institute of Technology, the Massachusetts Institute of Technology, the Lawrence Berkeley Laboratory, the Oak Ridge National Laboratory and the University of Rochester.</p>
+        <p>Last Friday, a team from the Brookhaven National Laboratory and Yale University also announced negative results.</p>
+        <p>The fusion-in-a-jar debate was ignited on March 23 when Dr. B. Stanley Pons of the University of Utah and Dr. Martin Fleischmann of the University of Southampton, England, announced that they had achieved ''cold fusion'' in an electrolytic cell.</p>
+        <p>At a press conference, the two electrochemists said they had applied for worldwide patents that could lead to a bonanza in cheap, renewable energy.</p>
+        <p>The apparatus they used consisted of a glass cell filled with heavy water - water made using deuterium, a heavy form of hydrogen, instead of ordinary hydrogen - and two electrodes. When current was passed through the heavy water, Dr. Pons and Dr. Fleischmann said, deuterium atoms split from the heavy water molecules were drawn into the palladium cathode.</p>
+        <p>After a period of time, they reported, the deuterium atoms inside the palladium were forced to fuse, creating a large amount of energy and some neutron radiation.</p>
+        <p>The Utah experimenters based their claim on observations that their test cell had heated up more than might be expected from conventional causes, and had also produced some neutrons, a sign that hydrogen nuclei were fusing.</p>
+        <p>But none of the experiments reported today confirmed the finding.</p>
+        <p>While a few papers did not rule out the theoretical possibility of cold fusion, experimenters appeared to be unanimous in discounting the Utah claim.</p>
+        <p>''If fusion were taking place, we would see radiation in one form or another, and you would simply not be able to hide that radiation,'' said Dr. Steven E. Koonin of Caltech. ''None of us has seen radiation above natural levels.''</p>
+        <p>''It's all very well to theorize about how cold fusion in a palladium cathode might take place,'' Dr. Koonin added. ''One could also theorize about how pigs would behave if they had wings. But pigs don't have wings.''</p>
+        <p>The Caltech group also reported that it had ''identified several serious errors'' in the interpretation that the Utah group had given to their results. When these ''common errors'' were eliminated from the calculations, the scientists said, the possibility of fusion was eliminated.</p>
+        <p>Officials of the American Physical Society said Dr. Pons and Dr. Fleischmann had been invited to the meeting but had declined. Skepticism of Limited Claim</p>
+        <p>But another scientist who has claimed to have achieved cold fusion in a heavy-water cell, Dr. Steven E. Jones of Brigham Young University in Utah, accepted an invitation.</p>
+        <p>Dr. Jones's experiment, which he recently described in the journal Nature, detected far fewer neutrons than those reported by Dr. Pons and Dr. Fleischmann. Dr. Jones did not claim unequivocally to have detected nuclear fusion.</p>
+        <p>Nevertheless, Dr. Jones said in a presentation prepared for the Baltimore meeting that his group ''has accumulated considerable evidence for a new form of cold nuclear fusion which occurs when various hydrogen isotopes are loaded into various materials.''</p>
+        <p>Most of the physicists gathered here were very skeptical, even of Dr. Jones's limited claim.</p>
+        <p>''Our theoretical studies indicate that the Brigham Young University results are quite improbable but perhaps not impossible,'' Dr. Koonin said. ''However, we know of no way of accounting for the University of Utah results.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

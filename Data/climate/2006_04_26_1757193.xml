@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Call It Global Heating</title>
+    <meta content="l26warm" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1757193"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">English Language</classifier>
+        <person class="indexing_service">Sokotch, Mel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">English Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E3D6123FF935A15757C0A9609C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Call It Global Heating</hl1>
+      </hedline>
+      <abstract>
+        <p>Mel Sokotch letter says phrase 'global warming' does not sound threatening; suggests renaming problem 'global heating' might help focus attention (April 23 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Yelling 'Fire' on a Hot Planet'' (Week in Review, April 23):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Yelling 'Fire' on a Hot Planet'' (Week in Review, April 23):</p>
+        <p>One reason global warming ranks so low on the list of environmental concerns might be the phrase itself: ''global warming'' just doesn't sound all that threatening.</p>
+        <p>Let's rephrase the problem as ''global heating.'' This is no less accurate, but sounds more distressing and might help focus attention.</p>
+        <p>Mel Sokotch  New York, April 23, 2006</p>
+        <p>The writer is an advertising executive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

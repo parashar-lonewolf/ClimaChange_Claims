@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Future of Air</title>
+    <meta content="LTR002449" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1021640"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E3D8143BF931A35755C0A96E958260" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Future of Air</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Environmental Protection Agency's report that catalytic converters may increase emissions of nitrous oxide (front page, May 29)  underscores the folly of the global climate treaty.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Environmental Protection Agency's report that catalytic converters may increase emissions of nitrous oxide (front page, May 29)  underscores the folly of the global climate treaty.</p>
+        <p>Making anything cleaner -- waste water, high-sulfur coal, auto exhaust -- means using additional energy, and that usually means additional greenhouse gas emissions. The only emission-free power plants capable of meeting current needs are nuclear and hydroelectric, both of which are met with resistance by environmentalists. Natural gas power plants risk releasing methane into the atmosphere from leaky gas pipelines; solar and wind turbines cannot produce enough energy to constitute a viable alternative.</p>
+        <p>Nuclear and hydroelectric are sound energy sources and emission-free, and the hybrid electric car just introduced may become a viable option. Rather than pandering to the demands of environmentalists, we need to rationally assess our energy options, regardless of whether  human-induced global warming is real.</p>
+        <p>CANDACE CRANDALL  Fairfax, Va., May 30, 1998</p>
+        <p>The writer is a research associate at the Science and Environmental Policy Project.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

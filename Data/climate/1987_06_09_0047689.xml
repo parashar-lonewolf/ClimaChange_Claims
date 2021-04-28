@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. SAID TO HALT AN ACID RAIN STUDY</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="47689"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D81F3CF93AA35755C0A961948260" item-length="532" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. SAID TO HALT AN ACID RAIN STUDY</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, June 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Managers of the Federal Government's acid rain research program have stopped trying to assess economic benefits of reducing the pollution, according to Congressional investigators.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Managers of the Federal Government's acid rain research program have stopped trying to assess economic benefits of reducing the pollution, according to Congressional investigators.</p>
+        <p>Managers of the Federal Government's acid rain research program have stopped trying to assess economic benefits of reducing the pollution, according to Congressional investigators.</p>
+        <p>The managers feared the public might not understand the uncertainty of such research, according to the invesitigators.</p>
+        <p>Efforts so far to calculate economic benefits appear flawed because of inadequate data and scientific techniques, said a report on the National Acid Precipitation Program (N.A.P.A.P.) from the General Accounting Office, a research arm of Congress. Reagan Position Criticized</p>
+        <p>A program official denied suggestions by environmental groups that the research was dropped because it might find that new acid rain controls would yield more in benefits than they would cost. Such a finding, said Marchant Wentworth of the Izaak Walton League, an environmental group, would undermine the Reagan Administration's contention that not enough was known to justify new controls.</p>
+        <p>The research program has spent about $300 million since 1982 through its participating agencies, principally the Environmental Protection Agency, the National Oceanic and Atmospheric Administration and the Energy, Interior and Agriculture departments.</p>
+        <p>''The director of research told us that until the effects of acidic deposition can be quantified, N.A.P.A.P. will not be funding any economic analysis efforts,'' the accounting office reported to a subcommittee of the House Energy and Commerce Committee.</p>
+        <p>Acid rain is the term given to sulfur and nitrogen oxides, produced in the burning of coal and other industrial processes, that are carried aloft by air currents and then returned to earth, often in the form of rain or snow, in other parts of the country.</p>
+        <p>Many environmentalists say acid rain is killing fish in Northeastern lakes, corroding buildings, bridges, monuments and other structures and jeopardizing the health of humans and forests.</p>
+        <p>Some control measures are well understood. They would cost several billion dollars a year for a major program. Several efforts are under way to try to find cheaper methods. Draft Analysis Never Issued</p>
+        <p>A draft analysis discussing costs and benefits by program researchers was completed for 1985 but never issued. None has been issued since then, despite plans for one a year. Annual reports of the program have just described its research projects.</p>
+        <p>According to the accounting office, a rewrite of the 1985 analysis scheduled to be made public this month will discuss economic effects of acid rain only for crops, where research has not found much effect at all. Some scientists believe acid rain may even enhance some yields.</p>
+        <p>The 1985 draft estimated acid rain damage to materials - mostly paint and structures - at somewhere between $700 million and $6.7 billion a year. But a review by outside experts ''concluded that any empirical results based on the damage functions used in the estimates would be generally suspect.'' 'What If' Scenarios</p>
+        <p>Analysts for the accounting office said the program had made estimates of forest damage from acid rain based on hypothetical ''what if'' scenarios. They did not say what those scenarios yielded.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

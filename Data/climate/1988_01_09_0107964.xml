@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. IS DENOUNCED ON ACID RAIN STUDY</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="107964"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <location class="indexing_service">CANADA</location>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <person class="indexing_service">MCMILLAN, TOM (MIN)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3D61039F93AA35752C0A96E948260" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. IS DENOUNCED ON ACID RAIN STUDY</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>OTTAWA, Jan. 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Canadian Government has denounced a major United States report that concluded acid rain caused little if any damage to American crops, forests and lakes and was unlikely to do so.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Canadian Government has denounced a major United States report that concluded acid rain caused little if any damage to American crops, forests and lakes and was unlikely to do so.</p>
+        <p>The Canadian Government has denounced a major United States report that concluded acid rain caused little if any damage to American crops, forests and lakes and was unlikely to do so.</p>
+        <p>Tom McMillan, Minister of Environment, issued a detailed rebuttal of the report, which was prepared for Congress by the National Acid Precipitation Assessment program. He said the study ''was flawed, incomplete and misleading.''</p>
+        <p>''On the basis of intensive review by Canadian scientists, our concerns now go beyond questions of science to the overall thrust and intent of the document,'' Mr. McMillan said Thursday in a letter to Lee Thomas, head of the Environmental Protection Agency.</p>
+        <p>Conservationists on both sides of the border criticized the study as scientifically misleading and political propaganda when it was made public last September. Issue Damages Relations</p>
+        <p>Mr. McMillan served notice then that the Canadian government would evaluate the report and issue its own conclusions.</p>
+        <p>Acid rain has become a point of contention in Canadian-American relations and Ottawa has repeatedly accused Washington of stalling on action to clean up pollution that crosses the border. Both governments, however, have pledged funds to look into the causes and means to cut the flow of pollutants.</p>
+        <p>The Canadian rebuttal says the report ignores evidence of serious damage, especially in Canada; manipulates data to make acid rain appear less serious, and fails to investigate obvious problems caused by the pollution.</p>
+        <p>Acid rain is produced when sulfur and nitrogen oxides generated by coal-burning power plants and other industries combine with water in the atmosphere.</p>
+        <p>Ottawa says the resulting acidic rain has ruined thousands of lakes and trees in Canada and must be reduced immediately to prevent major ecological damage.</p>
+        <p>The Canadian government has called for a treaty that would cut in half American pollution that causes acid rain.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

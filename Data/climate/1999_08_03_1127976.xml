@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Weather Worries</title>
+    <meta content="LSCHWA" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1127976"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Schwartz, Jim</person>
+        <person class="indexing_service">Fagan, Brian (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E0D81131F930A3575BC0A96F958260" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Weather Worries</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Jim Schwartz says Brian Fagan, in July 30 Op-Ed, suggests there might be no particular reason for extreme heat this summer; says it could also be result of pollutants dumped into atmosphere</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Brian Fagan (Op-Ed, July 30)  asks, ''Could it be that there is no particular reason for the extreme heat of this summer, except for slightly unusual positions of high pressure systems?''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Brian Fagan (Op-Ed, July 30)  asks, ''Could it be that there is no particular reason for the extreme heat of this summer, except for slightly unusual positions of high pressure systems?''</p>
+        <p>This is a possibility. But could it also be that the thousands of tons of the pollutants we dump into our atmosphere every day are having drastic effects on our global system?</p>
+        <p>Mr. Fagan's suggestion that we should not worry about global warming lulls us into a sense of security at a time when we should be worried about what we might be doing to our environment.</p>
+        <p>If we follow his reasoning, we will never take any action to safeguard the earth until irreparable damage has been done.</p>
+        <p>JIM SCHWARTZ  Chicago, July 30, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

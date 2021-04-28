@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rain Alone Didn't Stop the Subway</title>
+    <meta content="LTR223223" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1133715"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Gelbspan, Ross</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E6DF133BF93BA1575BC0A96F958260" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rain Alone Didn't Stop the Subway</hl1>
+      </hedline>
+      <abstract>
+        <p>Ross Gelbspan letter says intense downpour that crippled New York City transportation systems on Aug 26 was most likely the result of global warming; cartoon</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The most likely cause of the intense downpour on Thursday in New York was global climate change (front page, Aug. 27). Numerous studies have concluded that early-stage global warming is characterized by altered drought and rainfall patterns, more severe storms and a  measurable increase in intense, severe downpours of snow and rain.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The most likely cause of the intense downpour on Thursday in New York was global climate change (front page, Aug. 27). Numerous studies have concluded that early-stage global warming is characterized by altered drought and rainfall patterns, more severe storms and a  measurable increase in intense, severe downpours of snow and rain.</p>
+        <p>The increase in atmospheric humidity, longer droughts and paralyzing precipitation ''dumps'' are what the current generation of computer models project as manifestations of global warming. It is time for the news media to stress the documented effects of climate change in coverage of events like Thursday's flooding.</p>
+        <p>ROSS GELBSPAN  Brookline, Mass., Aug. 27, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

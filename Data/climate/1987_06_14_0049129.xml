@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CORRECTION</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="11WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="49129"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GEOLOGY</classifier>
+        <classifier class="indexing_service" type="descriptor">CORRECTION STORIES</classifier>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <org class="indexing_service">PLEASANTVILLE HIGH SCHOOL</org>
+        <person class="indexing_service">SCHROETER, DONNA</person>
+        <classifier class="online_producer" type="types_of_material">correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D9143EF937A25755C0A961948260" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CORRECTION</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Because of a transcription error, a story last week on earth sciences weekends for Pleasantville High School students incorrectly quoted Dorna Schroeter, director of the Madden Outdoor Education Center in Kent Cliffs, Putnam County. Miss Schroeter said: ''The reason we may not have as much of a problem with acid rain here as compared to the Adironacks is because we have a lot of limestone deposits in the Taconic region, and limestone acts as a neutralizer, bringing down the level of acidity.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Because of a transcription error, a story last week on earth sciences weekends for Pleasantville High School students incorrectly quoted Dorna Schroeter, director of the Madden Outdoor Education Center in Kent Cliffs, Putnam County. Miss Schroeter said: ''The reason we may not have as much of a problem with acid rain here as compared to the Adironacks is because we have a lot of limestone deposits in the Taconic region, and limestone acts as a neutralizer, bringing down the level of acidity.</p>
+        <p>Because of a transcription error, a story last week on earth sciences weekends for Pleasantville High School students incorrectly quoted Dorna Schroeter, director of the Madden Outdoor Education Center in Kent Cliffs, Putnam County. Miss Schroeter said: ''The reason we may not have as much of a problem with acid rain here as compared to the Adironacks is because we have a lot of limestone deposits in the Taconic region, and limestone acts as a neutralizer, bringing down the level of acidity.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

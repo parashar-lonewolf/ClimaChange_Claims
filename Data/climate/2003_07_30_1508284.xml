@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="30INSI$03" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1508284"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E2DD173EF933A05754C0A9659C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+      <abstract>
+        <p>Summary of some major stories on inside pages</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Terror: Don't Bet on It  A Pentagon plan that would have rewarded investors able to predict terror attacks and other global unrest is being aborted.</p>
+        <p>PAGE A10</p>
+        <p>Progress in the Ozone  Scientists say they have found the first sign that phasing out chemicals that harm the ozone layer is having a restorative effect.</p>
+        <p>PAGE A11</p>
+      </block>
+      <block class="full_text">
+        <p>Terror: Don't Bet on It  A Pentagon plan that would have rewarded investors able to predict terror attacks and other global unrest is being aborted.</p>
+        <p>PAGE A10</p>
+        <p>Progress in the Ozone  Scientists say they have found the first sign that phasing out chemicals that harm the ozone layer is having a restorative effect.</p>
+        <p>PAGE A11</p>
+        <p>Mediator in Verizon Talks  With the prospect of a strike looming this weekend, Verizon and its labor unions met with a top federal mediator.</p>
+        <p>PAGE C1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

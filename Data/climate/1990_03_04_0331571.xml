@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TWINKLE, TWINKLE, NORTHERN LIGHTS</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sophisticated Traveler Magazine" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Travel; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="331571"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="DREAM DESTINATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRAVEL AND VACATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">AURORA BOREALIS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <location class="indexing_service">GREENLAND</location>
+        <person class="indexing_service">POLLITT, KATHA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sophisticated Traveler Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Greenland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900304T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DE1E3AF937A35750C0A966958260" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TWINKLE, TWINKLE, NORTHERN LIGHTS</hl1>
+      </hedline>
+      <byline class="print_byline">By Katha Pollitt 
+&lt;br&gt;
+Poet and critic.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: When I was a child I longed to see the aurora borealis, and life being what it is, I still do. I'm told one needn't go all that far north to glimpse this magical display of fairy lights stretching across the night sky - one lucky friend claims to have seen it from the roof of her house in Cambridge, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: When I was a child I longed to see the aurora borealis, and life being what it is, I still do. I'm told one needn't go all that far north to glimpse this magical display of fairy lights stretching across the night sky - one lucky friend claims to have seen it from the roof of her house in Cambridge, Mass.</p>
+        <p>When I was a child I longed to see the aurora borealis, and life being what it is, I still do. I'm told one needn't go all that far north to glimpse this magical display of fairy lights stretching across the night sky - one lucky friend claims to have seen it from the roof of her house in Cambridge, Mass. But that's not very romantic, is it? To get the full effect, one ought to see it in some suitably wild and desolate and snowy place, like Greenland. Someplace cold, with Eskimos and Viking ghosts, and maybe a few wolves howling in the distance.</p>
+        <p>With Venice sinking beneath the waves and the Acropolis moldering in the acid rain, is it wise to put at the top of my list a marvel that is sure to be here for the rest of time? Ah, therein lies the beauty of my choice. Vandals may hack away at the Sphinx, condos disfigure the Cote d'Azur, but my memories of the aurora will never be retroactively tainted by loss. No matter what damage we humans inflict on the planet, the northern lights will always be arching over the top of the world, as mysterious and pristine as ever, shining brightly, whether or not anyone is there to see.</p>
+        <p>DREAM DESTINATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

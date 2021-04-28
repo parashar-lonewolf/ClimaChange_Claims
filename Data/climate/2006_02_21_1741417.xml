@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Switching Poles</title>
+    <meta content="21qna" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1741417"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEED8113EF932A15751C0A9609C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Switching Poles</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. If polar bears run the risk of becoming endangered as their current habitat warms and melts, why can't they be moved from the North Pole to the South Pole?</p>
+        <p>A. ''The short answer is that the diversity of seal species they need to eat don't occur there,'' said Joel Berger, a researcher with the Wildlife Conservation Society, based at the Bronx Zoo.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. If polar bears run the risk of becoming endangered as their current habitat warms and melts, why can't they be moved from the North Pole to the South Pole?</p>
+        <p>A. ''The short answer is that the diversity of seal species they need to eat don't occur there,'' said Joel Berger, a researcher with the Wildlife Conservation Society, based at the Bronx Zoo.</p>
+        <p>The long answer, however, involves a complicated philosophical question, according to Dr. Berger.</p>
+        <p>''The world has a history of moving animals around, with catastrophic unintended consequences,'' Dr. Berger said, mentioning the relocation of rabbits to Australia and Africanized bees to Brazil.</p>
+        <p>''Where does the buck stop?'' he asked. ''We could move one species, but could we move the next and the next and the next?</p>
+        <p>''Mongooses were put on islands to help control rats, but they started eating birds and bird nests. There are so many examples. The intent is honorable, but we know by experience that it is safer to keep a species in its natural habitat.''</p>
+        <p>In the face of global warming, Dr. Berger said, some of the world's species have been moving themselves.</p>
+        <p>''The caribou, for example, which used to be in Michigan, Idaho and New England, is no longer there,'' he said. ''Any of these northern-adapted species are going to suffer as we continue to warm up across the southern tiers of their range.''</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

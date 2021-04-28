@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cleaner Nuclear Power?</title>
+    <meta content="LKOWAL$03" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1108877"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Hydroelectric Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <person class="indexing_service">Kowalski, Ludwik</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydroelectric Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E1DD113EF933A15756C0A96F958260" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cleaner Nuclear Power?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Ludwik Kowalski prompted by May 14 article on fears about nuclear electricity; claims hydroelectric power alone would be sufficient to fuel global network of power plants</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Some environmental groups have argued that nuclear electricity contributed to global warming because  uranium fuel for reactors was made by using electricity from coal plants (''Nuclear Power Industry Ads Called Potentially Deceptive,'' Business Day, May 14).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Some environmental groups have argued that nuclear electricity contributed to global warming because  uranium fuel for reactors was made by using electricity from coal plants (''Nuclear Power Industry Ads Called Potentially Deceptive,'' Business Day, May 14).</p>
+        <p>However, using coal to produce nuclear fuel can easily be eliminated; hydroelectric power alone would be sufficient to fuel a global network of power plants.</p>
+        <p>Moreover, reactors can be designed to produce fuel from natural thorium or natural uranium, thereby limiting the emission of greenhouse gases and destroying radioactive waste.</p>
+        <p>LUDWIK KOWALSKI  Montclair, N.J., May 15, 1999</p>
+        <p>The writer is a professor of physics at Montclair State University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

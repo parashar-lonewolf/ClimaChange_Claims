@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Be Certain Mars Has No Dinosaurs</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="482069"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">MARS (PLANET)</classifier>
+        <person class="indexing_service">POWELSON, JOHN P (PROF)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DD123AF931A15753C1A967958260" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Be Certain Mars Has No Dinosaurs</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The project to make Mars habitable by terraforming should not be ridiculed, as some scientists are doing ("Can Mars Be Made Hospitable to Humans?", Science Times, Oct. 1). Its proponents would warm up the red planet by creating a greenhouse effect.</p>
+        <p>This is in fact the way Earth was made habitable. An econometric model prepared on Venus in approximately 200,000,000 B.C. has recently been discovered in a cave in Colorado and is now being analyzed in our university's computers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The project to make Mars habitable by terraforming should not be ridiculed, as some scientists are doing ("Can Mars Be Made Hospitable to Humans?", Science Times, Oct. 1). Its proponents would warm up the red planet by creating a greenhouse effect.</p>
+        <p>This is in fact the way Earth was made habitable. An econometric model prepared on Venus in approximately 200,000,000 B.C. has recently been discovered in a cave in Colorado and is now being analyzed in our university's computers.</p>
+        <p>Faced with the destruction of their own planet through irreversible global warming, Venusian economists calculated the costs and benefits of heating up a barren Earth. The exact path of economic and social development was charted, including the evolution of democracy, socialism and the size of government deficits. When all this had been done, a massive space lift brought the inhabitants of Venus to Earth.</p>
+        <p>Unfortunately, they were all eaten by dinosaurs, and human evolution had to start again.</p>
+        <p>The moral: No econometric model is perfect. JOHN P. POWELSON  Prof. of Economics, U. of Colorado Boulder, Colo., Oct. 4, 1991</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

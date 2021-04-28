@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A City in Ruins: Americans Open Their Hearts</title>
+    <meta content="l01hurricane-9" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1698820"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E6DB1731F932A3575AC0A9639C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A City in Ruins: Americans Open Their Hearts</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>My heart goes out to those affected by Hurricane Katrina. The devastation caused by this hurricane, however, should be a wake-up call that perhaps stronger regulations should be enforced in the future about where structures can be built and how strongly built they should be.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>My heart goes out to those affected by Hurricane Katrina. The devastation caused by this hurricane, however, should be a wake-up call that perhaps stronger regulations should be enforced in the future about where structures can be built and how strongly built they should be.</p>
+        <p>The devastation could just as well have hit any coastal city in the United States, yet we persist in building homes and buildings on and near the water.</p>
+        <p>One can only imagine the destruction in future years as the land continues to subside in some areas and water levels rise around the world as a result, in part, of global warming.</p>
+        <p>Claude M. Gruener  Austin, Tex., Aug. 31, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Asia: India And China Drive Up Emissions Rates</title>
+    <meta content="10briefs-6" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1760723"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EFDF173EF933A25756C0A9609C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Asia: India And China Drive Up Emissions Rates</hl1>
+      </hedline>
+      <byline class="print_byline">By CELIA W. DUGGER (NYT)</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>India's greenhouse gas emissions grew by 57 percent over the past decade, while China's increased by a third, according to the World Bank's annual Little Green Data Book. Rich countries still produce most emissions, with the United States contributing a quarter of the world's total. They also consume 11 times more energy per person than poor countries. But emissions from the rapidly growing economies of Asia are likely to continue to rise and contribute to climate change, the bank predicted.</p>
+        <p>CELIA W. DUGGER (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>India's greenhouse gas emissions grew by 57 percent over the past decade, while China's increased by a third, according to the World Bank's annual Little Green Data Book. Rich countries still produce most emissions, with the United States contributing a quarter of the world's total. They also consume 11 times more energy per person than poor countries. But emissions from the rapidly growing economies of Asia are likely to continue to rise and contribute to climate change, the bank predicted.</p>
+        <p>CELIA W. DUGGER (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

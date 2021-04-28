@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Wrong Approach To Waste Disposal</title>
+    <meta content="09MLILETT" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1471044"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <location class="indexing_service">Long Island (NY)</location>
+        <location class="indexing_service">Wantagh (Ny)</location>
+        <location class="indexing_service">Atlantic Ocean</location>
+        <person class="indexing_service">Meinke, Howard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030309T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DB1F3FF93AA35750C0A9659C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Wrong Approach To Waste Disposal</hl1>
+      </hedline>
+      <abstract>
+        <p>North Fork Environmental Council president Howard Meinke letter on March 2 article holds decision to ship waste across Long Island to Wantagh to be dumped into Atlantic Ocean fails to address serious environmental concerns</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For years the ocean was considered a cheap and convenient waste disposal facility. By river, pipe and barge they poured it in while closing their eyes and holding their noses. Then came Jacques Cousteau, who spent a lifetime demonstrating that the ocean actually is finite and that our carelessness is wreaking destruction at an alarming rate.</p>
+        <p>Now we read about the socioeconomic arguments concerning the sewage transfer from Great Neck to a treatment plant in Wantagh [''Not in My Sewage Plant,'' March 2] with no serious reference to environmental concerns. We are told the state mandated a 59 percent reduction in the nitrogen being dumped into Manhasset Bay. So now, in the year 2003, we avoid dealing with the problem by shipping the waste across Island to Wantagh and from there to the ocean, where ''the effect of the treated sewage on the South Shore would be less because the ocean currents disperse it faster than in the relatively enclosed space of Long Island Sound.''</p>
+      </block>
+      <block class="full_text">
+        <p>For years the ocean was considered a cheap and convenient waste disposal facility. By river, pipe and barge they poured it in while closing their eyes and holding their noses. Then came Jacques Cousteau, who spent a lifetime demonstrating that the ocean actually is finite and that our carelessness is wreaking destruction at an alarming rate.</p>
+        <p>Now we read about the socioeconomic arguments concerning the sewage transfer from Great Neck to a treatment plant in Wantagh [''Not in My Sewage Plant,'' March 2] with no serious reference to environmental concerns. We are told the state mandated a 59 percent reduction in the nitrogen being dumped into Manhasset Bay. So now, in the year 2003, we avoid dealing with the problem by shipping the waste across Island to Wantagh and from there to the ocean, where ''the effect of the treated sewage on the South Shore would be less because the ocean currents disperse it faster than in the relatively enclosed space of Long Island Sound.''</p>
+        <p>Once again short-term economics trumps doing the right thing. I had hoped we were smarter than this.</p>
+        <p>Add this idiocy to our current muddled approach to wetlands preservation, global warming, smokestack emissions and air quality and we should all worry. Is our lease on earth renewable?</p>
+        <p>Howard Meinke  President  North Fork Environmental Council</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

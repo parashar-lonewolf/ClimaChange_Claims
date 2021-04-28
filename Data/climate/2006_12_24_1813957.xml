@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thinking Green About the White Stuff</title>
+    <meta content="24transski" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1813957"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Skiing</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <org class="indexing_service">SaveOurSnow.com</org>
+        <person class="indexing_service">Thorne, Patrick</person>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Skiing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skiing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E5D91331F937A15751C1A9609C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thinking Green About the White Stuff</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>Patrick Thorne, journalist who writes about skiing, has started SaveOurSnow.com, Web site devoted entirely to eco-friendly skiing; site's database ranks 'greenness' of more than 200 ski resorts; Thorne says he believes global ski industry could work together for climate change; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Unseasonably warm weather has resorts like Font-Romeu in the French Pyrenees, above, making snow. But it also has skiers discussing more important issues. Recent reports that global warming could endanger not just the ice caps and sea ice, but ski slopes -- perhaps even leading to little snow at resorts under 5,000 feet in the next 20 years -- has skiers in a bit of a white panic.</p>
+        <p>Now Patrick Thorne, a journalist who writes about skiing, has started www.SaveOurSnow.com, which is devoted entirely to eco-friendly skiing. While downhill skiing is hardly healthy for the environment -- forests are leveled to make pistes, water is drained to make snow and energy is wasted on chairlifts -- Mr. Thorne said he believed the global ski industry could work together for climate change.</p>
+      </block>
+      <block class="full_text">
+        <p>Unseasonably warm weather has resorts like Font-Romeu in the French Pyrenees, above, making snow. But it also has skiers discussing more important issues. Recent reports that global warming could endanger not just the ice caps and sea ice, but ski slopes -- perhaps even leading to little snow at resorts under 5,000 feet in the next 20 years -- has skiers in a bit of a white panic.</p>
+        <p>Now Patrick Thorne, a journalist who writes about skiing, has started www.SaveOurSnow.com, which is devoted entirely to eco-friendly skiing. While downhill skiing is hardly healthy for the environment -- forests are leveled to make pistes, water is drained to make snow and energy is wasted on chairlifts -- Mr. Thorne said he believed the global ski industry could work together for climate change.</p>
+        <p>''At the moment, the projections of catastrophe for the ski industry, and ultimately the planet, are the same around the world,'' Mr. Thorne said. ''The ski industry represents the tip of the iceberg for global warming and could be an example for us all.''</p>
+        <p>Most useful is the site's database, which ranks the ''greenness'' of more than 200 ski resorts. Each resort is given a rating of one to five stars based on their policies on climate change, sewage, traffic and waste reduction, as well as development.</p>
+        <p>A quick check showed Whistler, in British Columbia, with four stars; Vail, Colo., three; and Killington, Vt., two. All seven resorts with five stars are in Europe.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How Many Rays Today? Consult Your UV Monitor</title>
+    <meta content="06rays" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/07/06/technology/06rays.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1774049"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Sunburn</classifier>
+        <classifier class="online_producer" type="descriptor">Sun</classifier>
+        <classifier class="online_producer" type="descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sun</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sunburn</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE1DD1330F935A35754C0A9609C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How Many Rays Today? Consult Your UV Monitor</hl1>
+        <hl2 class="online_headline">How Many Rays Today?</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fun in the sun is all good -- until somebody gets burned. To keep track of how many rays you're getting while enjoying the weather, there's Oregon Scientific's Personal UV Monitor, which includes an exposure timer to help you get back in the shade before it's too late.</p>
+        <p>The potential exposure to harmful ultraviolet (UV) radiation varies with seasons, weather conditions and the state of the ozone layer. (Spending time in the sun on days with a high UV index can lead to skin damage from the sun more quickly than on days with a lower UV index.) The Personal UV Monitor keeps track of the current UV levels as well as the temperature, and calculates a recommended exposure time based on your skin type and the sun protection factor of any sunscreen lotion used.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Oregon Scientific's Personal UV Monitor includes an exposure timer to help you get back in the shade before it's too late.</p>
+      </block>
+      <block class="full_text">
+        <p>Fun in the sun is all good -- until somebody gets burned. To keep track of how many rays you're getting while enjoying the weather, there's Oregon Scientific's Personal UV Monitor, which includes an exposure timer to help you get back in the shade before it's too late.</p>
+        <p>The potential exposure to harmful ultraviolet (UV) radiation varies with seasons, weather conditions and the state of the ozone layer. (Spending time in the sun on days with a high UV index can lead to skin damage from the sun more quickly than on days with a lower UV index.) The Personal UV Monitor keeps track of the current UV levels as well as the temperature, and calculates a recommended exposure time based on your skin type and the sun protection factor of any sunscreen lotion used.</p>
+        <p>The Personal UV Monitor is available for $30 or less at www.oregonscientific.com or weather-gadget Web sites like www.partshelf.com. The device also comes with a splashproof case and a wrist strap to keep it close at hand when you venture out into the light.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Astronauts at Space Station Conduct a Busy Spacewalk</title>
+    <meta content="27STAT$02" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/01/27/science/space/27station.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1645247"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Stations</classifier>
+        <classifier class="indexing_service" type="descriptor">International Space Station</classifier>
+        <person class="indexing_service">Leary, Warren E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEED6163BF934A15752C0A9639C8B63" item-length="474" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Astronauts at Space Station Conduct a Busy Spacewalk</hl1>
+        <hl2 class="online_headline">Astronauts at Space Station Conduct a Busy Spacewalk</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY</byline>
+      <byline class="normalized_byline">Leary, Warren E</byline>
+      <dateline>WASHINGTON, Jan. 26</dateline>
+      <abstract>
+        <p>Astronauts conducting busy spacewalk outside International Space Station discover clump of residue around three exterior vents that may be linked to persistent problems with outpost's oxygen system; details of other tasks conducted on spacewalk noted; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Astronauts conducting a busy spacewalk outside the International Space Station on Wednesday discovered a clump of residue around three exterior vents that may be linked to persistent problems with the outpost's oxygen system.</p>
+        <p>Dr. Leroy Chiao, the station's American commander, and its flight engineer, Col. Salizhan S. Sharipov of the Russian Air Force, spent 5 hours and 28 minutes outside the station installing and removing equipment and inspecting the exterior.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Astronauts discovered a clump of residue around three exterior vents that may be linked to persistent problems with the outpost's oxygen system.</p>
+      </block>
+      <block class="full_text">
+        <p>Astronauts conducting a busy spacewalk outside the International Space Station on Wednesday discovered a clump of residue around three exterior vents that may be linked to persistent problems with the outpost's oxygen system.</p>
+        <p>Dr. Leroy Chiao, the station's American commander, and its flight engineer, Col. Salizhan S. Sharipov of the Russian Air Force, spent 5 hours and 28 minutes outside the station installing and removing equipment and inspecting the exterior.</p>
+        <p>The astronauts, working from a hatch on Russia's Pir docking compartment, moved a Japanese commercial experiment, installed an experimental German robot arm and attached a Russian biomedical experiment near the airlock.</p>
+        <p>Near the end of their first spacewalk since boarding the station in October, the crew inspected three exhaust vents outside the Russian command module Zvezda and found a patch of oily brownish-black residue around outlets for the station's oxygen generator, the carbon dioxide scrubber and a device for removing contaminants. In addition, Colonel Sharipov noted a light honeycomb material covering the vent for the Russian Elektron oxygen generator.</p>
+        <p>The generator has suffered several breakdowns over past months because of air bubbles in the system. Colonel Sharipov took detailed pictures of the material around the vents so Russian engineers on the ground could determine if it was related to the problems. Through an interpreter, the astronaut told mission control that it appeared that when fluid is dumped from the Elektron vent, the water evaporated but solid components collected on the vent.</p>
+        <p>The only snag during the spacewalk involved having the astronauts reconnect electrical cables to the double-jointed robot arm they had installed when ground controllers initially failed to get correct power readings. The 20-inch arm is to be controlled by engineers on the ground or by the station crew.</p>
+        <p>The $10 million arm, which has two cameras and a fingerlike pin at the end, is a small test version of one engineers hope to use for robot satellite repair in the future. The device, which arrived on a cargo craft last month, is to be tested for a year in space to see how it functions.</p>
+        <p>Meanwhile, the heads of the space agencies that are building and operating the space station met Wednesday in Montreal to review the project. Representatives from the National Aeronautics and Space Administration, the managing partner, and Russia, Japan, Canada and the European Space Agency endorsed plans to finish the station by 2010.</p>
+        <p>If the American space shuttle fleet returns to orbit this spring as planned, station construction will resume in the fall, they said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

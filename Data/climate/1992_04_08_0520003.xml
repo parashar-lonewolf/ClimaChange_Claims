@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Monitoring Pollution at Its Source</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="520003"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">SMOG</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <location class="indexing_service">CALIFORNIA</location>
+        <person class="indexing_service">STEVENSON, RICHARD W</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smog</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFD91E31F93BA35757C0A964958260" item-length="1209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Monitoring Pollution at Its Source</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD W. STEVENSON,</byline>
+      <byline class="normalized_byline">STEVENSON, RICHARD W</byline>
+      <dateline>LOS ANGELES, April 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In smog-choked Southern California, air-quality regulators have long monitored factories, refineries and other sources of industrial air pollution in the way the Internal Revenue Service keeps track of taxpayers: by requiring voluminous record-keeping and swooping in for the occasional audit.</p>
+        <p>But in the next few years, regulators here plan to shift to a new system more like the one the A. C. Nielsen Company uses to monitor the television programs emitted into American households. Each smokestack or other major source of pollution will be wired with sensors or tracking devices to measure emissions on a continuing basis. The data will be transmitted to a central computer for record-keeping and analysis.</p>
+      </block>
+      <block class="full_text">
+        <p>In smog-choked Southern California, air-quality regulators have long monitored factories, refineries and other sources of industrial air pollution in the way the Internal Revenue Service keeps track of taxpayers: by requiring voluminous record-keeping and swooping in for the occasional audit.</p>
+        <p>But in the next few years, regulators here plan to shift to a new system more like the one the A. C. Nielsen Company uses to monitor the television programs emitted into American households. Each smokestack or other major source of pollution will be wired with sensors or tracking devices to measure emissions on a continuing basis. The data will be transmitted to a central computer for record-keeping and analysis.</p>
+        <p>The new approach to monitoring emissions is being tested by some businesses in Southern California, including an Allied-Signal refrigerant plant in El Segundo and a Mobil Oil refinery in Torrance. And it will be put into much wider use in the next few years as the South Coast Air Quality Management District, the regional pollution-control authority, makes a radical change in the way it regulates industry.</p>
+        <p>The new regulatory system, scheduled to begin next year, is aimed at cutting the costs to businesses of complying with the region's strict air-quality plan, and to spur innovation in pollution-control technology. But for the plan to be effective, officials said, the regulators will need more precise ways of monitoring emissions to insure that the goals are being met.</p>
+        <p>"Enforcement is probably the critical element in implementing the program, and we believe that emissions monitoring is the key to that," said William J. Fray, an assistant deputy executive officer for the district.</p>
+        <p>Instead of trying to cut pollution by mandating, step by step, how companies should operate, the new regulatory approach will free most large companies to operate any way they want, as long as they achieve required reductions in emissions. Companies that cannot meet the required reductions, or choose not to, will be able to purchase the right to pollute from companies that exceed the requirements. That will create, in effect, a market in pollution rights.  Emissions-monitoring technology is also becoming increasingly important outside Southern California. Amendments in 1990 to the Federal Clean Air Act mandate the use of continuous emissions monitors by coal-burning utilities and other sources of sulfur dioxide, the primary component of acid rain.</p>
+        <p>Dozens of companies that supply air-quality-monitoring equipment, ranging from multinational corporations like Asea Brown Boveri to small concerns like Advanced Pollution Instrumentation of San Diego, say sales of their products are expected to be very strong for the next few years, a result of the Federal and Southern California requirements.</p>
+        <p>In California, monitoring will take two basic forms, one for each of the primary types of pollutants covered by the regional regulatory program.</p>
+        <p>For "smokestack" emissions of nitrogen oxides, which are typically given off by the burning of fuels, companies will have to install sensing devices, usually in the smokestack itself, that constantly measure emissions. The most common sensing technology for smokestacks is based on chemiluminescence, in which chemical reactions give off tiny amounts of light that can be analyzed for its color properties to determine the presence of pollutants.</p>
+        <p>For the second type of pollution -- emissions of the reactive organic gases given off by paints, coatings and solvents in the manufacture of aircraft components, computer chips, furniture and other products -- the system will measure emissions less directly. Because reactive organic gases are not always funneled through a particular point like a smokestack, the air-quality agency plans to have companies record their use of paints and other pollutant-emitting substances as a means of calculating total emissions. The regulators can accurately estimate how much of a pollutant will be released into the air through the use of each can of paint, for example.</p>
+        <p>Companies will probably be required to track their use of such products with bar-code scanners. The system would require the company to scan each can of paint opened or each vat of sealant used. The data collected by the scanners would then be transmitted over phone lines to the air-quality district's computers.</p>
+        <p>Mr. Fray said the basic technology behind each of the two systems was well established. Sensors like those to be used in the smokestacks, for example, are already in place at about 100 Southern California companies. And bar-code inventory tracking is time-tested in the shipping and retailing industries. But as applied in the new Southern California air-quality regimen, each system presents technological and operational difficulties.  Many companies that emit nitrogen oxides question whether the monitoring technology will be capable of accurately measuring the ever-smaller levels of pollution permitted by the region's air-cleanup plan. Each year, companies will have to reduce emissions of nitrogen oxides by an additional 8 percent.</p>
+        <p>"The real challenge is in having instrumentation that can survive in an industrial environment and that can pick up the very, very low levels of emissions that will be required under the rules," said Joel Maness, manager of the Mobil refinery.</p>
+        <p>Paul F. Stenberg, sales and marketing manager for Advanced Pollution Instrumentation, said current technology should prove adequate to make accurate measurements. He conceded that current users of monitors must increasingly test and calibrate the equipment on a regular basis to insure its accuracy. But he and other industry executives said research was progressing with techniques that would replace chemiluminescence with a more precise method that would use infrared light.</p>
+        <p>In addition to the 100 nitrogen-oxide polluters equipped with continuous-emissions sensors, 600 companies will have to phase them in, Mr. Fray said. Utilities must have them in place by Jan. 1.</p>
+        <p>Meanwhile, the air-quality district is moving toward adopting a system that will allow its computers to receive data directly from the sensors, rather than rely on paperwork and spot audits. It has already hooked similar monitors directly to its computers in a pilot program to track emissions of hydrogen fluoride, a highly toxic chemical used in oil refining and refrigerant making.  Environmental groups, including the Coalition for Clean Air, said they were confident that the monitoring technology for nitrogen oxides was good enough to insure compliance.  They are more concerned about the accuracy and completeness of data generated by the bar-code-monitoring program planned for reactive organic gases. They say it will be impossible to assure that companies comply with requirements to track their use of all sources of the gases.</p>
+        <p>Indeed, some officials of environmental groups have advocated that the emissions-trading program for reactive gases be postponed until a monitoring program can be tested.</p>
+        <p>Mr. Fray conceded that planning for the bar-code system was still in its early stages, but said the district would "make sure that we keep everyone honest" with audits and fines.  BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

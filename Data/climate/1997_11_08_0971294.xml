@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Zero Emission' Car Still Fouls the Planet</title>
+    <meta content="LHWANG$02" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="971294"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <org class="indexing_service">Honda Motor Co</org>
+        <person class="indexing_service">Hwang, Roland</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E0DB1439F93BA35752C1A961958260" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Zero Emission' Car Still Fouls the Planet</hl1>
+      </hedline>
+      <abstract>
+        <p>Roland Hwang letter on Nov 2 article on Honda's new zero-level-emissions vehicle; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Hybrid Effort by Honda to Curb Exhaust Pollution'' (Automobiles, Nov. 2) did a disservice to electric vehicles in reporting that Honda's new zero-level-emissions vehicle is supposed to have equivalent emissions to the plants generating power for electric vehicles. That comparison ignores substantial amounts of pollution that gasoline vehicles directly or indirectly emit: increases of tailpipe emissions over time, evaporation of fuel from the vehicle and from gasoline refining and delivery to the market.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Hybrid Effort by Honda to Curb Exhaust Pollution'' (Automobiles, Nov. 2) did a disservice to electric vehicles in reporting that Honda's new zero-level-emissions vehicle is supposed to have equivalent emissions to the plants generating power for electric vehicles. That comparison ignores substantial amounts of pollution that gasoline vehicles directly or indirectly emit: increases of tailpipe emissions over time, evaporation of fuel from the vehicle and from gasoline refining and delivery to the market.</p>
+        <p>When these factors are taken into account, pollution from Honda's new vehicle rises 70 times for hydrocarbons and 5 times for nitrogen oxides over its stated pollution levels. Honda's new vehicle also does nothing to reduce emissions of carbon dioxide, the primary global warming gas.</p>
+        <p>Although Honda's technology can help clean up our gasoline vehicles, this technology does not deliver the same emissions benefits as electric vehicles.</p>
+        <p>ROLAND HWANG  Berkeley, Calif., Nov. 5, 1997</p>
+        <p>The writer is dir., transportation program, Union of Concerned Scientists.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

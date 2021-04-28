@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Designing Life: Proteins 1, Computer 0</title>
+    <meta content="25PROT" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19970328T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="918060"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Amino Acids</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Proteins</classifier>
+        <classifier class="indexing_service" type="descriptor">Models (Simulations)</classifier>
+        <person class="indexing_service">Johnson, George</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Proteins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970325T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E6DA103BF936A15750C0A961958260" item-length="2248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Designing Life: Proteins 1, Computer 0</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, George</byline>
+      <abstract>
+        <p>Scientists competing to solve the question of how proteins fold themselves into intricate shapes that determine their role in life find that their computers are not up to the task; are forced to confront fundamental questions about the relationship between a scientific model and the reality it is meant to repreent; drawings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LAST fall, scientists around the world, armed with their best computer programs, competed to solve one of the most complex problems in biology: how a single protein, made from a long string of amino acids, folds itself into the intricate shape that determines the role it plays in life.</p>
+        <p>Proteins consist of 20 different kinds of amino acids, strung together like beads. Once the pieces are assembled, the string twists itself into a coil, something like a telephone cord, which then bunches up into a complex tangle -- and all that has to happen before the protein can get to work in the cell. For the scientists in the contest, the challenge was to start with a sequence of amino acids and do what nature does: fold it into final form.</p>
+      </block>
+      <block class="full_text">
+        <p>LAST fall, scientists around the world, armed with their best computer programs, competed to solve one of the most complex problems in biology: how a single protein, made from a long string of amino acids, folds itself into the intricate shape that determines the role it plays in life.</p>
+        <p>Proteins consist of 20 different kinds of amino acids, strung together like beads. Once the pieces are assembled, the string twists itself into a coil, something like a telephone cord, which then bunches up into a complex tangle -- and all that has to happen before the protein can get to work in the cell. For the scientists in the contest, the challenge was to start with a sequence of amino acids and do what nature does: fold it into final form.</p>
+        <p>The result, succinctly put, was this: the computers lost and the proteins won. In a peculiar way that scientists are still trying to understand, nature can easily solve a problem -- how to fold proteins into the proper configuration -- that eludes the most powerful computers and the most powerful minds.</p>
+        <p>Knowing the shape of proteins is important for designing new drugs. While scientists have learned the sequences of tens of thousands of proteins, they know the three-dimensional structures of only a small fraction of them. Going directly from the sequence to the correct geometry would amount to nothing less than a biochemical renaissance.</p>
+        <p>In the last few years, though, mathematicians have come to believe that the general problem of predicting how any given sequence of amino acids will fold is intractable, the kind of problem they call ''nondeterministic polynomial complete.'' A classic example is the traveling salesman problem: Given a list of cities, find the shortest path that will visit them all. The only way to solve the problem exactly is to try every possible itinerary. But as the number of cities increases, the computing time explodes exponentially. Likewise, as the number of amino acids in a protein chain increases, the time needed to calculate its final configuration grows beyond hope.</p>
+        <p>Scientists have estimated that for an average-sized  protein, made from 100 amino acids, solving the folding problem by trying every possibility would take 1027  (a billion billion billion) years.</p>
+        <p>Oblivious to this argument, very long proteins, consisting of thousands of amino acids, fold up by themselves in minutes; shorter ones, with tens or hundreds of amino acids, fold in a second or less. The proteins have somehow found a shortcut through the maze of possibilities, and both molecular biologists and computer scientists are dying to know what it is.</p>
+        <p>''Sometimes it seems that protein folding is one of those guarded secrets that we are not supposed to know,'' said Dr. Iosif Vaisman, a specialist on protein structure at the University of North Carolina at Chapel Hill. As Dr. Ken A. Dill, a biophysicist at the University of California at San Francisco put it, ''Protein folding is a problem for us, but not for the proteins.''</p>
+        <p>As scientists take to their computers to unravel the problem, they are forced to confront questions about  the very meaning of simulation. What is the relationship between a scientific model and the reality it is meant to represent? Can a protein be thought of as a tiny biological computer, calculating the proper way to fold?</p>
+        <p>''It is important to keep the distinction between reality and models clear,'' said Dr. Joseph F. Traub, a computer scientist at Columbia University. In a working paper published last year by the Santa Fe Institute in New Mexico, he notes that it is the protein-folding problem  that appears to be N.P.-complete, not protein-folding itself.</p>
+        <p>The disappointing results of the recent contest were reported at the Second Meeting on the Critical Assessment of Techniques for Protein Structure Prediction in December at the Asilomar Conference Center in Pacific Grove, Calif. One of the chairmen, Dr. Tim Hubbard, head of human genome analysis at the Sanger Center near Cambridge, England, said there had been small signs of progress since the previous competition, in 1994.</p>
+        <p>''Two years ago, there was essentially almost nothing,'' he said. ''It was very hard to come up with any speaker who could say anything sensible. They would just show these mangled piles of atoms on the screen.</p>
+        <p>''This time around, there were a number of cases where some fragment was right and the rest of the structure was not totally wrong,'' he said. ''It's encouraging but still a very long way from anything that could be useful.''</p>
+        <p>Contestants did much better with simpler problems, like predicting the ''secondary structure'' -- the winds of the coil before it crumples up into the final shape -- or guessing which amino acids were likely to end up next to one another. But the grander goal, going from the amino acid sequence all the way to the complete three-dimensional tangle, remained elusive.</p>
+        <p>One of the judges, Dr. Arthur Lesk, a Cambridge University molecular biologist, said some success had been achieved with a relatively short protein, containing 78 amino acids.  Because of its chemical makeup, the protein was sharply constrained in the possible ways it could fold. A few teams were able to predict the protein's general outlines, Dr. Lesk said, but filling in the details would still require painstaking laboratory analysis.</p>
+        <p>Still, Dr. Lesk tried to be sanguine. ''Failure can no longer be guaranteed,'' he said.</p>
+        <p>As an amino-acid chain folds into a protein, it is pushed and pulled in a kind of three-dimensional tug-of-war. Oppositely charged atoms attract each other, and similarly charged atoms repel. The strength of these electrostatic interactions rises as the atoms get closer and weakens as they move farther apart. In addition, some amino acids are hydrophobic (''water fearing'') while others are hydrophilic (''water loving''). In the  aqueous environment of the cell, the hydrophobic amino acids try to congregate inside the protein glob, as far from the water as possible, while the hydrophilic amino acids are pulled to the outside.</p>
+        <p>In the course of all this, the protein tests many possible configurations, seeking a compromise that will satisfy all the countervailing forces. Finally, it settles into a comfortable, and very specific, shape. If the protein is an enzyme, its bumps and grooves will allow it to chop longer molecules into smaller pieces or clamp together smaller molecules to form more complex ones. The structure of the hemoglobin protein allows it to act like a tiny lung, taking in oxygen to carry to the cells and expelling carbon dioxide. Some 100,000 different proteins, each with a different folded shape, form the gears in the mechanism of life.</p>
+        <p>In a living cell, the folding process is helped along by auxiliary molecules called chaperones. But scientists have shown that in a test tube, an unfolded protein can spontaneously knot up into the proper shape, entirely on its own. Thus many believe that all the information for folding is contained in the amino acid sequence, and they are determined to ferret it out.</p>
+        <p>Because it is not feasible to simulate the interactions of every single atom in a long protein, modelers pick out the ones they hope are most important, depicting them as hard little spheres connected by elastic bands. Or they might try to look at the problem from a higher level of abstraction, simply telling the computer whether each amino acid is hydrophobic or hydrophilic. Call the first kind 1 and the second kind 0, and the whole complex, writhing macromolecule can be reduced to a string of binary digits, or bits.</p>
+        <p>''The bottom line is that all the models are very artificial,'' said Dr. Sorin Istrail, a mathematician at Sandia National Laboratories in Albuquerque, N.M., who is studying the  problem. Scientists must constantly remind themselves that the map is not the territory, that the models might not be capturing the essence of the problem, and that the assumptions built into a simulation might be wrong.</p>
+        <p>Mathematicians compare a protein settling into its final folded state to a marble rolling down the hills and canyons of what they call an energy landscape. Pulled by gravity, the marble winds its way around the various obstacles, randomly trying different paths, until it settles at the very bottom of the deepest valley, a point called the ''global minimum.'' (One can imagine that the landscape is constantly shaken by small seismic quakes, so the marble will not get stuck along the way in a shallow depression -- a local minimum.)</p>
+        <p>In a similar manner, a protein bends and twists until it reaches its own global minimum -- the most stable possible configuration -- at the lowest point of its energy landscape. It is the difficulty of finding a path from the ''top'' (the initial unfolded state) all the way to the ''bottom'' (the final folding) that makes the problem so difficult. The more amino acids a protein contains, the  more rugged is the metaphorical landscape it must negotiate.</p>
+        <p>Some scientists say the proteins  nature has selected for use in living organisms might not need to go all the way to the bottom of the terrain to find a reasonably stable state. They may settle comfortably into a local minimum, a higher valley. On this shorter journey, there would be fewer paths to try. Or evolution might have picked out proteins whose landscape is shaped something like a funnel: Finding the global minimum would not require tedious exploration because all paths would lead quickly to the bottom.</p>
+        <p>''Nature may have evolved a set of proteins for which the folding problem is not so hard,'' said Dr. Cris Moore, a physicist at the Santa Fe Institute in New Mexico who studies computational complexity. The general problem of starting with any arbitrary sequence of amino acids and predicting the folded structure  may be intractable. But the manner in which a certain protein folds might still be computationally easy.</p>
+        <p>Dr. Charles Bennett, a computer scientist at the Thomas J. Watson Research Center of the International Business Machines Corporation in Yorktown Heights, N.Y., compares solving the protein-folding problem to picking the lock on a safe. Finding just the right series of movements to end up in the proper folded state is like finding the correct sequence of digits in the combination. For a well-made lock, the space of possibilities to explore is like a vast featureless plain with a single tiny hole representing the correct combination.  With no clues about which way to proceed, one must blindly try out every possible combination, visiting each point on the terrain.</p>
+        <p>But combination locks are not perfectly made. They give unintentional clues about the likeliest combinations to try. A safecracker with sensitive fingers can feel his way to the answer in much less time than it would take to try every possibility.</p>
+        <p>Dr. Bennett proposes that proteins might be like cheaply made locks. ''Evolution doesn't reward proteins that take an exponential time to fold up,'' he said. ''There are probably fairly simple rules we haven't discovered yet.''</p>
+        <p>Finally, there is the possibility that the proteins are really solving intractable problems in a reasonable amount of time. After trying in vain to find quick ways to crack N.P.-complete problems, mathematicians are almost certain that none exist, but that has not been proved.</p>
+        <p>In a paper published in The Bulletin of Mathematical Biology in 1993, Dr. Aviezri S. Fraenkel, a mathematician at the Weizmann Institute in Israel, speculated that nature might be somehow more powerful than a digital computer. If that turned out to be true, he said, scientists might make computers out of proteins and use them to solve things like the  traveling salesman problem. It has been proved that all N.P.-complete problems are equivalent. Solving one would amount to solving them all.</p>
+        <p>Correction:  March 28, 1997, Friday</p>
+        <p>A diagram in Science Times on Tuesday showing the way proteins fold into intricate shapes omitted an attribution. The diagram was based in part on drawings by Irving Geis.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 28, 1997, Friday</p>
+        <p>A diagram in Science Times on Tuesday showing the way proteins fold into intricate shapes omitted an attribution. The diagram was based in part on drawings by Irving Geis.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

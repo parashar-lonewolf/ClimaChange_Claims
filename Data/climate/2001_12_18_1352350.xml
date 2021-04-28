@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Change: The Signs Are There</title>
+    <meta content="L18CLI$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1352350"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Epstein, Paul R (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E4D9173EF93BA25751C1A9679C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Change: The Signs Are There</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Dr Paul R Epstein says signs of instability in weather are growing, and it is time to phase out fossil fuel dependence (Dec 12 article); drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Drastic Shifts in Climate Are Likely, Experts Warn'' (news article, Dec. 12):</p>
+        <p>What clues help assess vulnerability to abrupt climate change? Variability and rates of change are crucial. More variance -- wide swings from norms and intensified weather extremes -- may indicate greater sensitivity to change. Ice cores reveal that greater variability has heralded past rapid change.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Drastic Shifts in Climate Are Likely, Experts Warn'' (news article, Dec. 12):</p>
+        <p>What clues help assess vulnerability to abrupt climate change? Variability and rates of change are crucial. More variance -- wide swings from norms and intensified weather extremes -- may indicate greater sensitivity to change. Ice cores reveal that greater variability has heralded past rapid change.</p>
+        <p>In the late 1990's, the pace of warming increased. Moreover, changes are occurring in multiple climate system components -- ice  cover, forest cover, deep ocean and atmospheric temperatures.</p>
+        <p>We naturally underestimate the potential for sudden change; but signs of instability are growing. For this reason, along with health, environmental and security concerns, it is time to phase out fossil fuel dependence. An economic stimulus package that rewards the transition to clean energy could help revitalize the economy and give the climate a chance to restabilize.</p>
+        <p>PAUL R. EPSTEIN, M.D.  Boston, Dec. 12, 2001</p>
+        <p>The writer is associate director, Center for Health and the Global Environment, Harvard Medical School.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

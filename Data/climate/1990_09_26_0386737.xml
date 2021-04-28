@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Business Technology;   Gardening in Space: A Hard Row to Hoe</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="386737"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">SUPERCOMPUTERS</classifier>
+        <person class="indexing_service">POLLACK, ANDREW</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDD1231F935A1575AC0A966958260" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Business Technology;   Gardening in Space: A Hard Row to Hoe</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Living plants would be essential aboard any long space flight, like one to Mars, as a means of replenishing oxygen, consuming carbon dioxide, purifying water and providing a renewable food source. But in a weightless environment, even the simple act of watering presents a formidable challenge.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Living plants would be essential aboard any long space flight, like one to Mars, as a means of replenishing oxygen, consuming carbon dioxide, purifying water and providing a renewable food source. But in a weightless environment, even the simple act of watering presents a formidable challenge.</p>
+        <p>Living plants would be essential aboard any long space flight, like one to Mars, as a means of replenishing oxygen, consuming carbon dioxide, purifying water and providing a renewable food source. But in a weightless environment, even the simple act of watering presents a formidable challenge.</p>
+        <p>Scientists at the Boeing Company's Defense and Space Group recently received an $864,000 contract from NASA to study gardening in space. The Seattle company will design an experiment to fly aboard a space shuttle by 1993 that it hopes will provide a better understanding of how plants can be grown aboard spacecraft or on the moon and Mars.</p>
+        <p>''Growing plants in space is difficult because there is no gravity to influence plant growth and control water flow,'' said Mel Oleson, a Boeing scientist working on the project. ''Water must be contained in a space environment or it will form into globules and float away.'' One means that Boeing is investigating for controlling water is the use of permeable or semipermeable membranes to which plant roots would adhere and draw nutrient-laden water.</p>
+        <p>In the experiment, photographs and samples will be taken of the nutrient flow in space to see whether the fluids and membranes behave in the weightless environment the way Earth-based experiments predict they will.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

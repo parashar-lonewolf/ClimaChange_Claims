@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The 'N' Word</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="182272"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DD1E39F936A1575AC0A96E948260" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The 'N' Word</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Congratulations on having the guts to use the ''N'' word. The first page of ''Fighting the Greenhouse Effect'' (Aug. 28) stated that ''. . . it could provide new life for nuclear power, which produces virtually no greenhouse gases.''</p>
+        <p>Being an environmentalist as well as a nuclear energy consultant, I am pleased to hear such environmental groups as the Audubon Society and the National Wildlife Federation agreeing that continued improvement on nuclear plants and the safe disposal of their resultant wastes should be pursued.</p>
+        <p>Even the Safe Energy Communicatin Council, a coalition of environmental and anti-nuclear groups, was quoted as saying that ''we spend 10 percent of our G. N. P. on energy; Japan, our primary competitor in many areas, spends only 5 percent.'' DIANE W. HARMON President, Wrightmon USA Inc. Alexandria, Va., Sept. 2</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

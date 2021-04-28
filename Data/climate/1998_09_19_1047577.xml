@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ever More People, Ever Fewer Fish</title>
+    <meta content="LTR001817" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1047577"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <person class="indexing_service">Laporta, Robert F</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E1DB1530F93AA2575AC0A96E958260" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ever More People, Ever Fewer Fish</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert F LaPorta letter on Sept 13 editorial blames overpopulation for depletion of fish stocks; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As you say in a Sept. 13 editorial, many of the world's fish stocks are at risk of being depleted. The cause of this depletion is easy to understand, since it is the same reason there is continued loss of the rain forest and an increase in the greenhouse effect: overpopulation.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As you say in a Sept. 13 editorial, many of the world's fish stocks are at risk of being depleted. The cause of this depletion is easy to understand, since it is the same reason there is continued loss of the rain forest and an increase in the greenhouse effect: overpopulation.</p>
+        <p>Recent estimates that the world population will level off to 9 billion to 10 billion people in 50 years are cause for serious concern. The planet appears unable to support the number of human beings now on earth; a larger population will only worsen problems for both humanity and the environment.</p>
+        <p>ROBERT F. LA PORTA  Dix Hills, N.Y., Sept. 14, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

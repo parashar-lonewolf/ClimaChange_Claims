@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Enron and Cheney Aides Met 4 Times</title>
+    <meta content="Y09MEET" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/01/09/business/09MEET.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1357807"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Enron Corporation</org>
+        <person class="online_producer">Cheney, Dick</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6DC1239F93AA35752C0A9649C8B63" item-length="592" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Enron and Cheney Aides Met 4 Times</hl1>
+        <hl2 class="online_headline">Enron and Cheney Aides Met 4 Times</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF GERTH</byline>
+      <dateline>WASHINGTON, Jan. 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Officials of the Enron Corporation met four times last year with the staff of Vice President Dick Cheney's energy task force to discuss energy policy matters, but they never talked about the company's finances, according to David S. Addington, Mr. Cheney's counsel.</p>
+        <p>Mr. Addington disclosed the private contacts with Enron, the Houston-based energy services company, in a letter last week. He was responding to a request by Representative Henry A. Waxman, Democrat of California, who is seeking to find out more about the workings of the energy group.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Officials of the Enron Corporation met four times last year with the staff of Vice President Dick Cheney's energy task force to discuss energy policy matters.</p>
+      </block>
+      <block class="full_text">
+        <p>Officials of the Enron Corporation met four times last year with the staff of Vice President Dick Cheney's energy task force to discuss energy policy matters, but they never talked about the company's finances, according to David S. Addington, Mr. Cheney's counsel.</p>
+        <p>Mr. Addington disclosed the private contacts with Enron, the Houston-based energy services company, in a letter last week. He was responding to a request by Representative Henry A. Waxman, Democrat of California, who is seeking to find out more about the workings of the energy group.</p>
+        <p>Mr. Waxman has said that Enron and other energy companies had too much access to the task force. Today, in a letter to Mr. Cheney, he applauded ''your decision to release for the first time some details'' about the Enron contacts. But he urged the vice president to go further and ''provide a full accounting of the contacts between Enron and the White House energy task force and other White House officials.''</p>
+        <p>Two of the four meetings occurred early last year, before the task force issued its report in May and well before Enron began to disclose its accounting problems. The last meeting, on Oct. 10, came a week before Enron made the first in a series of disclosures about accounting errors, representing a $1.2 billion reduction in shareholder value. Last month, Enron sought protection under federal bankruptcy law.</p>
+        <p>In addition to the four staff meetings, Mr. Addington said that Mr. Cheney met for 30 minutes on April 17 to discuss energy policy with Enron executives, including Kenneth L. Lay, the company's chairman and chief executive. The meeting with the vice president had previously been disclosed by Enron officials and Mr. Cheney.</p>
+        <p>In an interview last year, Mr. Cheney said his task force would ''make decisions based on what we think makes sound public policy,'' not what ''Enron thinks.''</p>
+        <p>Enron's collapse has prompted both President Bush, a friend of Mr. Lay, and many Democrats to call for a thorough investigation. It has also given Mr. Waxman an opportunity to rekindle his effort to find out more about the operations of the energy task force.</p>
+        <p>The attacks of Sept. 11 put in abeyance a possible lawsuit by the General Accounting Office, the Congressional auditing arm, which has been seeking access to energy task force records at the request of Mr. Waxman and Representative John D. Dingell, the Michigan Democrat.</p>
+        <p>The task force's final recommendations on electricity deregulation resembled much of what Enron officials had advocated in their meeting with Mr. Cheney. They were also in accord with policies advocated by Mr. Bush during the 2000 campaign.</p>
+        <p>As president, Mr. Bush has sometimes taken positions contrary to those of Enron. For example, he backed away from curbs on carbon dioxide emissions, an idea supported by Enron, which was looking to trade emission credits as part of its energy business.</p>
+        <p>Early in the administration, Mr. Lay played an unusual role in advising the White House on candidates for seats on the Federal Energy Regulatory Commission, the agency that oversees many of the markets Enron once dominated. But last spring the energy commission limited prices in California's chaotic wholesale electricity market, a move Enron and other merchant energy companies opposed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

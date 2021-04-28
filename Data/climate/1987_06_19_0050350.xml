@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. AND SOVIET PLAN STUDY OF OZONE HOLE IN ANTARCTICA'S SKIES</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="50350"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS</location>
+        <location class="indexing_service">ANTARCTICA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DB1E3CF93AA25755C0A961948260" item-length="428" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. AND SOVIET PLAN STUDY OF OZONE HOLE IN ANTARCTICA'S SKIES</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, June 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A cooperative effort to study ozone and other gases that could affect the earth's climate is being started by scientists from the United States and Soviet Union.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A cooperative effort to study ozone and other gases that could affect the earth's climate is being started by scientists from the United States and Soviet Union.</p>
+        <p>A cooperative effort to study ozone and other gases that could affect the earth's climate is being started by scientists from the United States and Soviet Union.</p>
+        <p>The new agreement, announced today, calls for particular emphasis on the atmosphere over Antarctica, where scientists have detected a hole in the ozone layer, which protects the earth from damaging ultraviolet radiation from the sun.</p>
+        <p>Officials of the National Oceanic and Atmospheric Administration said the new agreement expanded current programs for the exchange of weather information. The officials said the scientists would study at the atmosphere above Antarctica from both above and below the ozone layer. Ozone ''Profiles'' by U.S.  The United States will collect daily ozone profiles of the continent from its weather satellites orbiting over the South Pole, and Soviet scientists will collect data from the ground. They will use an array of instruments supplied and calibrated by the oceanic administration's national research laboratory at Boulder, Colo. That will allow all the data collected to be comparable, so that scientists from both countries can more easily share the findings.</p>
+        <p>The hole in the ozone over Antarctica appears in the spring of the Southern Hemisphere, September and October, and closes in the Antarctic winter. But scientists report that the hole seems to deepen each year, and they have eppressed fears that this reflects ozone depletion over much of the globe.</p>
+        <p>Many scientists consider chemicals such as chlorofluorocarbons, released into the atmosphere from refrigerants and other uses, to be a likely cause of ozone depletion. When those chemicals are broken down by sunlight they release chlorine, which reacts with the ozone. The United States banned use of the chemicals in aerosol sprays in 1978, but they still have other uses and are common in other nations. Some Blame the Wind</p>
+        <p>Some scientists attribute the the ozone depletion to natural nitrogen oxide compounds in the atmosphere, which vary in 11-year cycles. Others blame the wind for moving the ozone-rich air out of the Antarctic area in certain seasons.</p>
+        <p>The United States Environmental Protection Agency reported last fall that depletion of the worldwide ozone layer could cause 800,000 additional deaths by skin cancer by the year 2074 by removing the current protection from sunlight.</p>
+        <p>The pact between the superpowers could also lead to investigations of desert dust in the atmosphere, an Arctic gas and aerosol sampling program and a chemical and radiation experiment in the Arctic.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

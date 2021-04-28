@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Objection!</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="777187"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">BOYLE, ROBERT H</person>
+        <person class="indexing_service">OPPENHEIMER, MICHAEL</person>
+        <person class="indexing_service">EASTERBROOK, GREGG</person>
+        <object.title class="indexing_service">DEAD HEAT (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1DE163EF930A15754C0A963958260" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Objection!</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As the co-author with Michael Oppenheimer of "Dead Heat" (1990), I object to Gregg Easterbrook's letter of June 25, in which he falsely characterizes our book, which is about the threats posed by global warming, as advancing "dubious claims" and "spurious argument."</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As the co-author with Michael Oppenheimer of "Dead Heat" (1990), I object to Gregg Easterbrook's letter of June 25, in which he falsely characterizes our book, which is about the threats posed by global warming, as advancing "dubious claims" and "spurious argument."</p>
+        <p>All the examples selected by Mr. Easterbrook, like our statement that the Platte River in Nebraska would run dry in 1996, are from the first chapter, a scenario of the future. We called this chapter a "composite picture" that was "fictive" and added that "the individual events are distilled from scientific understanding, as described in the endnotes. Some may occur at a later date than we have placed them, some sooner. Eventually, all could occur somewhere, sometime, if we fail to act." In the endnotes, we wrote: "As we note in the prologue, Chapter 1 is not a prediction of the future course of events; rather, it contains one scenario among many possible ones depicting the outcome of greenhouse-gas emissions." The other chapters in "Dead Heat" deal with reality.  ROBERT H. BOYLE  Cold Spring, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

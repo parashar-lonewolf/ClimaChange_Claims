@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Italy: Venice Is Flooded</title>
+    <meta content="MB003019" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1624377"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <location class="indexing_service">Venice (Italy)</location>
+        <location class="indexing_service">Italy</location>
+        <org class="indexing_service">ANSA (Italian News Agency)</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Venice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E0DC163CF930A35752C1A9629C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Italy: Venice Is Flooded</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew C. Revkin (NYT)</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>ANSA, Italian news agency, reports that tides around Venice have risen almost one yard and have flooded many streets and squares; sinking of city and rising seas caused by global warming are blamed for floods (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tides around Venice rose nearly a yard above normal, putting many squares and streets in the city under water for the seventh day in a row, the Italian news agency ANSA reported. On Sunday, tides rose four and a half feet above average, flooding about 80 percent of the ancient, slowly sinking city. Such flooding has been a growing threat to the city of 117 low islets, partly because the marshy region is subsiding as underlying peat compacts and because seas are rising as global warming melts glaciers.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Tides around Venice rose nearly a yard above normal, putting many squares and streets in the city under water for the seventh day in a row, the Italian news agency ANSA reported. On Sunday, tides rose four and a half feet above average, flooding about 80 percent of the ancient, slowly sinking city. Such flooding has been a growing threat to the city of 117 low islets, partly because the marshy region is subsiding as underlying peat compacts and because seas are rising as global warming melts glaciers.</p>
+        <p>Andrew C. Revkin (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

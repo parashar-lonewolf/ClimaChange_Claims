@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Boeing and McDonnell Joining Concorde Study</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="355994"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIRLINES AND AIRPLANES</classifier>
+        <classifier class="indexing_service" type="descriptor">SST (SUPERSONIC TRANSPORT)</classifier>
+        <org class="indexing_service">BOEING CO</org>
+        <org class="indexing_service">MCDONNELL DOUGLAS CORP</org>
+        <person class="indexing_service">STEVENSON, RICHARD W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D81739F937A15756C0A966958260" item-length="508" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Boeing and McDonnell Joining Concorde Study</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD W. STEVENSON, Special to The New York Times</byline>
+      <byline class="normalized_byline">STEVENSON, RICHARD W</byline>
+      <dateline>LOS ANGELES, May 23</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The nation's two major commercial aircraft manufacturers, the Boeing Company and the McDonnell Douglas Corporation, said today that they would join with the major European plane makers to study the feasibility of developing a new generation of supersonic airliners.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The nation's two major commercial aircraft manufacturers, the Boeing Company and the McDonnell Douglas Corporation, said today that they would join with the major European plane makers to study the feasibility of developing a new generation of supersonic airliners.</p>
+        <p>The nation's two major commercial aircraft manufacturers, the Boeing Company and the McDonnell Douglas Corporation, said today that they would join with the major European plane makers to study the feasibility of developing a new generation of supersonic airliners.</p>
+        <p>Boeing and McDonnell Douglas, which have researched supersonic planes on their own for decades, said they would participate in a ''study group'' formed by British Aerospace P.L.C. and Societe Nationale Industrielle Aerospatiale of France.</p>
+        <p>The British and French companies, which manufactured the supersonic airliner Concorde, announced plans earlier this month for a faster, more fuel-efficient ''Son of Concorde'' that could travel greater distances - Europe to Japan, for example - and invited participation by other nations. The study group will also include Deutsche Airbus, West Germany's leading builder of airliners and a subsidiary of Daimler-Benz. $10 Billion to Develop the Plane British Aerospace and Aerospatiale have estimated that it could cost $10 billion to develop the plane. The willingness of the major European and American commercial aircraft manufacturers to participate in the study underscores the high risks involved with assuming such huge costs.</p>
+        <p>''Any program would be of a significant size, certainly beyond our means to go it alone,'' said Donald Graf, who heads McDonnell Douglas's research into supersonic aircraft.</p>
+        <p>The group said in a statement that it would look into a variety of issues over the next year, ''including global environmental concerns and expected high program investment and risk levels.''</p>
+        <p>The group said it would examine the probable level of demand for a new supersonic plane from airlines and would assess the compatability of its members in working together.</p>
+        <p>Environmental Concerns</p>
+        <p>McDonnell Douglas and Boeing have long expressed interest in building a supersonic airliner. Boeing even started building a prototype during the late 1960's, but abandoned it, largely because of concern about the noise it would make on takeoff and the sonic boom that would reverberate to earth when the plane passed overhead at speeds greater than the speed of sound, roughly 750 miles an hour.</p>
+        <p>Analysts say it remains unclear whether any supersonic airliner can be commercially viable. The Concorde cost $2 billion to develop and required heavy subsidies from the British and French governments. The manufacturers hoped to sell hundreds of the plane, but ended up selling only 14, seven to British Airways and seven to Air France.</p>
+        <p>Commercial supersonic flight has always been hampered by a variety of environmental and economic concerns. Because of the sonic boom, the Concorde's routes have been largely limited to those that take it primarily over the Atlantic Ocean. Environmentalists say the release of combustion gases from supersonic engines can harm the ozone layer. The current Concorde cannot carry enough fuel to fly from Europe or North America to the Far East, one of the most rapidly expanding airline markets.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

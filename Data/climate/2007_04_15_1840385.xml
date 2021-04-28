@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Misunderstood Composer</title>
+    <meta content="15alsmail-6" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840385"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HANDEL AND THE JEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Dimmock, T Herbert</person>
+        <person class="indexing_service">Handel, George Frederick (1685-1759)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E0D8123FF936A25757C0A9619C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Misunderstood Composer</hl1>
+      </hedline>
+      <abstract>
+        <p>T Herbert Dimmock letter about April 8 article on Handel's Messiah says that Handel was concerned solely with his music (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Michael Marissen's article reminded me of Samuel Butler's quote: ''Handel is so great and so simple that no one but a professional musician is unable to understand him.'' Misunderstanding only begins to describe the many faults of Mr. Marissen's analysis. His contention that Handel's work is anti-Semitic is a preposterous leap. Undoubtedly Jennens, an evangelical Christian, participated in the debate of his day between deists and Christians (as common as the debate over global warming today). It is an unsupportable stretch to conclude that because the word ''heathen'' was changed to ''nations,'' Jennens (and Handel) had the Jews in mind. It is much more likely that Jennens meant all of humanity and its sinfulness.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Michael Marissen's article reminded me of Samuel Butler's quote: ''Handel is so great and so simple that no one but a professional musician is unable to understand him.'' Misunderstanding only begins to describe the many faults of Mr. Marissen's analysis. His contention that Handel's work is anti-Semitic is a preposterous leap. Undoubtedly Jennens, an evangelical Christian, participated in the debate of his day between deists and Christians (as common as the debate over global warming today). It is an unsupportable stretch to conclude that because the word ''heathen'' was changed to ''nations,'' Jennens (and Handel) had the Jews in mind. It is much more likely that Jennens meant all of humanity and its sinfulness.</p>
+        <p>Typology had nothing to do with it. Handel was concerned with his music and striving to find a way to reach a wide audience. It really was that simple.</p>
+        <p>T. Herbert Dimmock  Hummelstown, Pa.</p>
+        <p>The writer is music director emeritus of the Handel Choir of Baltimore.</p>
+        <p>HANDEL AND THE JEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

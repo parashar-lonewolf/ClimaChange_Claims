@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="04OBSE$01" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/12/04/science/04OBSE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1348233"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Flies</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Whales and Whaling</classifier>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Whooping Cranes</classifier>
+        <classifier class="indexing_service" type="descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="indexing_service" type="descriptor">Chassahowtizka National Wildlife Refuge (Fla)</classifier>
+        <location class="indexing_service">Atlantic Ocean</location>
+        <location class="indexing_service">Bering Sea</location>
+        <location class="indexing_service">Wisconsin</location>
+        <org class="indexing_service">Woods Hole Oceanographic Institution</org>
+        <org class="indexing_service">Nature (Journal)</org>
+        <org class="indexing_service">Science (Journal)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Wisconsin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin</classifier>
+        <classifier class="online_producer" type="descriptor">Insects</classifier>
+        <classifier class="online_producer" type="descriptor">Whales and Whaling</classifier>
+        <classifier class="online_producer" type="descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Whales and Whaling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE6D71E3DF937A35751C1A9679C8B63" item-length="648" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">A Fly's Breathing Engine</hl2>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>New research finds fruit fly regulates oxygen intake and carbon dioxide outflow, while not losing too much water vapor, through system of valves that alter flow of gases as metabolic needs change; Woods Hole Oceanographic Institution researchers report in journal Nature that drop in northern right whale population in North Atlantic to some 300 individuals was caused by deaths among mother whales and could be reversed if deaths of just two females were prevented each year; researchers report in journal Science that at least five right whales have been found feeding in new area of Bering Sea; small flock of whooping cranes being led by ultralight planes on southward migration arrives at Chassahowtizka National Wildlife Refuge, Florida; birds left Wisconsin in Oct; effort is intended to create second, Eastern, migrating population of highly endangered cranes; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Fly's Breathing Engine</p>
+        <p>To create an efficient automobile engine, designers have a problem: how to make sure the right amounts of gasoline and oxygen enter and the cleanest exhaust leaves, no matter what the speed. They accomplish this with a system of valves that can alter the flow of fuel and air instantly as power needs change.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This week's column includes items on a fly's respiration, whales at risk and cranes in Florida.</p>
+      </block>
+      <block class="full_text">
+        <p>A Fly's Breathing Engine</p>
+        <p>To create an efficient automobile engine, designers have a problem: how to make sure the right amounts of gasoline and oxygen enter and the cleanest exhaust leaves, no matter what the speed. They accomplish this with a system of valves that can alter the flow of fuel and air instantly as power needs change.</p>
+        <p>Flying insects like the fruit fly have a similar efficiency problem: how to make sure they get the right amount of oxygen in and carbon dioxide out, while not losing too much water vapor, no matter what the speed. The fruit fly accomplishes this, new research shows, the same way an engine does: through a system of valves that alters the flow of gases as metabolic needs change.</p>
+        <p>Insects breathe through tiny openings called spiracles on the thorax and abdomen. Oxygen (in the air) enters, and carbon dioxide, a product of respiration, leaves. But water vapor leaves too, and that creates a problem when the insect needs more power, as when a fruit fly flies. Leaving the spiracles wide open will allow more oxygen in but put the fly at risk of losing so much water that it becomes desiccated.</p>
+        <p>The research, by Dr. Fritz-Olaf Lehmann at the University of Wurzburg in Germany, shows that the fruit fly, at least, has a solution. By flying tethered flies in a small chamber that allowed  respiratory products to be measured, the researcher showed that the fly was capable of partially opening and closing its spiracles throughout flight, as power requirements varied.</p>
+        <p>The spiracles can go from wide open to fully closed, with lots of intermediate stops between, in the course of just a few seconds. This way, Dr. Lehmann writes in the journal Science, the fly maintains the proper exchange of respiratory gases while reducing water loss.</p>
+        <p>Whales Remain at Risk</p>
+        <p>There's a lot of bad news in a report in the current issue of Nature on the population of northern right whales, which are near extinction in the North Atlantic, reduced to some 300 individuals. But there's some hope, too.</p>
+        <p>The report, by researchers from the Woods Hole Oceanographic Institution in Massachusetts, describes the findings of a study that used data from more than 10,000 sightings to estimate population trends over the last two decades.</p>
+        <p>The researchers say the population decline can be explained by a sharp increase in deaths among mother whales, probably because of a combination of factors, including collisions with ships, entanglement in fishing nets and lines, and shifts in the availability of food.</p>
+        <p>Many experts had thought that the whales might be doomed to die out simply because, with so few individuals in such a huge ocean, they would not be able to find each other to mate. But the Woods Hole research shows that this doesn't appear to be a problem. And even more promising is what the researchers say would be needed to get the population growing again. If the deaths of just two females were prevented each year, they say, the population would start to increase.</p>
+        <p>Meanwhile, promising news about another right whale population, in the North Pacific, appeared in the journal Science. At least five right whales, researchers reported, have been found feeding in a new area of the Bering Sea, giving hope of finding ways to help the whales survive.</p>
+        <p>Cranes Reach Florida</p>
+        <p>A small flock of whooping cranes being led by ultralight planes on a southward migration from Wisconsin arrived yesterday at its destination, the Chassahowtizka National Wildlife Refuge on the Gulf Coast of Florida.</p>
+        <p>The birds left Wisconsin in mid-October and traveled about 1,200 miles, flying 20 or more miles each day. The effort - by the federal Fish and Wildlife Service, a Wisconsin state agency and several private groups - is intended to create a second, Eastern, migrating population of the cranes, which are highly endangered.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

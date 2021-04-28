@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="865256"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960717T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DE1F39F934A25754C0A960958260" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Bid to Halt Global Warming</p>
+      </block>
+      <block class="full_text">
+        <p>A Bid to Halt Global Warming</p>
+        <p>Changing its stance, the United States will seek a binding international pact to reduce pollution that is causing climate change. Page A6.</p>
+        <p>Tougher Stance on Serbs</p>
+        <p>An American envoy plans to threaten new sanctions unless the Bosnian Serb leader is removed. Page A8.</p>
+        <p>Child Welfare Shake-Up</p>
+        <p>As the Giuliani administration overhauled the management of the city's troubled child welfare agency, its former commissioner quit. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

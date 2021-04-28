@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SHUTTLE'S MISSION MAY BE EXTENDED</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="293071"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">WIND</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE SHUTTLE</classifier>
+        <classifier class="indexing_service" type="descriptor">ATLANTIS (SPACE SHUTTLE)</classifier>
+        <person class="indexing_service">WILFORD, JOHN NOBLE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4D81138F932A15753C1A96F948260" item-length="542" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SHUTTLE'S MISSION MAY BE EXTENDED</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD, Special to The New York Times</byline>
+      <byline class="normalized_byline">WILFORD, JOHN NOBLE</byline>
+      <dateline>CAPE CANAVERAL, Fla., Oct. 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: With high winds forecast for Monday at their California landing site, the astronauts of the space shuttle Atlantis were instructed tonight to conserve power in case their mission is extended several days.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: With high winds forecast for Monday at their California landing site, the astronauts of the space shuttle Atlantis were instructed tonight to conserve power in case their mission is extended several days.</p>
+        <p>With high winds forecast for Monday at their California landing site, the astronauts of the space shuttle Atlantis were instructed tonight to conserve power in case their mission is extended several days.</p>
+        <p>Flight controllers said the shuttle was equipped to stay aloft two days more than the five days for which the mission is scheduled without any problem. Staying in orbit any more time than that would require conservation of electrical power, oxygen and other parts of the life-support systems.</p>
+        <p>The shuttle, which was launched here Wednesday, is scheduled to land at Edwards Air Force Base in the Mojave Desert of California Monday afternoon.</p>
+        <p>Ronald Dittemore, a flight director, said the forecast of high winds at the desert base could cause a delay of at least a day in landing. Every effort would be made to end the mission with a landing at Edwards, he said, but if this became impossible the shuttle could be brought down at White Sands, N.M., or here at the Kennedy Space Center. Smooth Operations Continue</p>
+        <p>If a landing at the California site is impossible Monday, Mr. Dittemore said, the Atlantis would be kept in orbit at least one more day.</p>
+        <p>The shuttle mission continued its smooth operation with only a few minor problems, a malfunctioning valve here and a balky data-transmission facsimile machine there. Before being told of the need for conservation tonight, the five astronauts fixed their sights mainly on Earth, investigating ozone in the upper atmosphere and photographing a typhoon in the Sea of Japan and a dust storm in Africa.</p>
+        <p>From altitudes of less than 200 miles, the astronauts operated an instrument in the cargo bay designed to measure the amount and height distribution of ozone in Earth's atmosphere. In recent years, the high-altitude ozone layer, which shields Earth against dangerous solar ultraviolet radiation, has shown disturbing signs of being diminished because of man-made chemicals. Measurements of Ozone</p>
+        <p>The instrument was designed to detect the amount of ultraviolet light radiating from the Sun and the amount being reflected from Earth. An analysis of the ratio of incoming and reflected ultraviolet radiation should provide evidence of the ozone layer's effectiveness as a shield.</p>
+        <p>The experiment is the first of 10 planned on shuttle missions to test the reliability of ozone-measuring equipment on meteorological satellites operated by the National Oceanic and Atmospheric Administration. Data collected by the shuttle will be compared with the results of identical instruments aboard weather satellites passing over the same regions. The immediate purpose of the shuttle test was to calibrate the performance of ozone-measuring instruments on the weather satellites.</p>
+        <p>Scientists of the oceanic and atmospheric agency said accurate, reliable measurements from space were critical to the detection of ozone trends. Film Targets for Movie</p>
+        <p>Throughout the day, Comdr. Michael J. McCulley of the Navy and Dr. Franklin R. Chang-Diaz, a physicist, used a specially designed 70-millimeter movie camera to photograph the Earth below. The film is to be incorporated in a movie, ''Blue Planet,'' planned by the Smithsonian Institution's National Air and Space Museum in Washington.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

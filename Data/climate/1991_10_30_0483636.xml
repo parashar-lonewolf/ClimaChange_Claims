@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. UNVEILS RULES TO LIMIT ACID RAIN</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="483636"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <person class="indexing_service">REILLY, WILLIAM K</person>
+        <person class="indexing_service">CUSHMAN, JOHN H JR</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911030T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDF173CF933A05753C1A967958260" item-length="692" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. UNVEILS RULES TO LIMIT ACID RAIN</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN H. CUSHMAN Jr.,</byline>
+      <byline class="normalized_byline">CUSHMAN, JOHN H JR</byline>
+      <dateline>WASHINGTON, Oct. 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Environmental Protection Agency today proposed regulations to cut in half the kind of air pollution that is mainly responsible for acid rain, while allowing for the first time the widespread buying and selling of pollution rights to cut the costs of compliance.</p>
+        <p>The proposed rules, required under revisions to the Clean Air Act that passed last year, were welcomed by environmental groups and by industry as a signal that innovation and consultation, rather than obstruction and confrontation, can guide the development of costly new environmental rules.</p>
+      </block>
+      <block class="full_text">
+        <p>The Environmental Protection Agency today proposed regulations to cut in half the kind of air pollution that is mainly responsible for acid rain, while allowing for the first time the widespread buying and selling of pollution rights to cut the costs of compliance.</p>
+        <p>The proposed rules, required under revisions to the Clean Air Act that passed last year, were welcomed by environmental groups and by industry as a signal that innovation and consultation, rather than obstruction and confrontation, can guide the development of costly new environmental rules.</p>
+        <p>But the electric utility industry, whose coal-fired boilers in the East and Middle West are the primary focus of the regulations, warned that in some areas the costs of compliance would spur double-digit increases in electric rates.</p>
+        <p>William K. Reilly, the Administrator of the Environmental Protection Agency, said the buying and selling of pollution rights would cut the utilities compliance costs by $1 billion per year, to about $3.8 billion, and that only the most polluting plants would have to seek extraordinary rate increases. 'Correcting' Problem</p>
+        <p>"For many years the environment has subsidized some very heavily polluting plants," he said. "Now we are correcting that."</p>
+        <p>The regulations would not begin to take hold until 1995 and the main effect would not be felt until the year 2000. But as the emissions are reduced, Mr. Reilly said, people would be able to see the difference in the clarity of the air in much of the country, especially the eastern half.</p>
+        <p>Electric companies now have one last chance for public comment before the final rule is issued in May.</p>
+        <p>The Edison Electric Institute, an association of investor-owned electric companies, said that in general its members supported the Administration's proposals and welcomed the system of buying and selling pollution credits. Buying, selling and trading pollution allowances was one of the central innovations of the 1990 Clean Air Act. Accumulating Credits</p>
+        <p>Much of acid rain is produced when sulfur dioxide, a byproduct of coal, oil or natural gas plants, enters the atmosphere. There it is transformed into acidic compounds that drop back to the earth, damaging trees and altering the chemistry of lakes and streams.</p>
+        <p>Under the proposal released today, a coal-fired utility that does better at cleaning up sulfur dioxide than the regulations require could accumulate credits for sale to another company that failed to clean up enough.</p>
+        <p>In theory, companies that can clean up pollution cheaply by changing fuel or persuading their customers to conserve energy would recover some of the cost by selling their pollution rights to companies that could only clean up by adopting costlier measures, like filtering the smoke they emit. The air would be just as clean, but the costs would be lower.</p>
+        <p>In effect, clean air would become a commodity with known production costs, and traded under laws of supply and demand as if a reduction in noxious emissions were a pork belly. Indeed, the futures market at the Chicago Board of Trade plans to trade the pollution allowances. Using Market Forces</p>
+        <p>"For the first time, all of these market mechanisms usually associated with profit and pollution will actually be working to clean up the environment," said Daniel J. Dudek, an economist at the Environmental Defense Fund.</p>
+        <p>The group, along with other environmental and industrial interest groups, helped write the regulations. It is an approach being used more and more to develop regulations by consensus.</p>
+        <p>A major point of contention remaining in the rules may be the provisions for monitoring emissions at coal-fired boilers. These provisions are considered crucial, since companies will actually be buying and selling the presumed reductions in pollution.</p>
+        <p>The rules' first phase, taking effect in 1995, will affect 110 utility plants in 21 Eastern and Midwestern states where the problem of acid rain is most severe. The rules will later expand to cover virtually all power plants that burn fossil fuels so as to cut sulfur dioxide emissions by about 10 million tons, or roughly 50 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tracking Climate Change</title>
+    <meta content="LTR001755" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1308260"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <person class="indexing_service">kirsch, albert s (dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EFD71138F933A25754C0A9679C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tracking Climate Change</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Albert S Kirsch letter on July 3 article holds climate change resulting from rising carbon dioxide levels are easily predictable</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Predicting climate change is admittedly difficult and controversial (''Efforts to Predict Effects of Global Warming''). It seems almost like attempting to predict stock prices based on previous performance. But we can at least estimate future conditions based on CO2  levels, which are increasing at roughly 1 percent annually, from about 300 parts per million, typical of prior interglacial warm periods,  to 360 today and to 500 by 2100, even if we do everything ''right.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Predicting climate change is admittedly difficult and controversial (''Efforts to Predict Effects of Global Warming''). It seems almost like attempting to predict stock prices based on previous performance. But we can at least estimate future conditions based on CO2  levels, which are increasing at roughly 1 percent annually, from about 300 parts per million, typical of prior interglacial warm periods,  to 360 today and to 500 by 2100, even if we do everything ''right.''</p>
+        <p>What are controversial are the possibilities spun out by various models. They depend on the assumptions used and on computing power. But you don't need a weatherman to know which way the wind is blowing when CO2  levels vastly exceed any in the past 400,000 years. Advice: Don't buy oceanfront property for your grandchildren.</p>
+        <p>DR. ALBERT S. KIRSCH  Bal Harbour, Fla.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

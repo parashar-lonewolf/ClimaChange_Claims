@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nuclear Energy Peril</title>
+    <meta content="L27NUK$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202587"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <person class="indexing_service">Gregoriades, Athanasia</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000527T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E0D6133DF934A15756C0A9669C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nuclear Energy Peril</hl1>
+      </hedline>
+      <abstract>
+        <p>Athanasia Gregoriade</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A May 21 letter in support of the use of nuclear energy states that nuclear reactors can be made acceptable and safe if Western standards are met by Eastern European countries. But using nuclear reactors to generate energy creates dangerous and complex problems.</p>
+        <p>In addition to the radioactive contamination and disposal of nuclear waste, there is also the major problem of nuclear proliferation. It should also be noted that nuclear energy has not solved the energy problems of any country that uses it.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A May 21 letter in support of the use of nuclear energy states that nuclear reactors can be made acceptable and safe if Western standards are met by Eastern European countries. But using nuclear reactors to generate energy creates dangerous and complex problems.</p>
+        <p>In addition to the radioactive contamination and disposal of nuclear waste, there is also the major problem of nuclear proliferation. It should also be noted that nuclear energy has not solved the energy problems of any country that uses it.</p>
+        <p>To improve the health of the ecosystem and to reduce greenhouse gases, alternative solutions to the production of energy must be sought. The focus of investment and development should be on renewable sources like solar energy, wind power and geothermal energy.</p>
+        <p>ATHANASIA GREGORIADES  New York, May 21, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

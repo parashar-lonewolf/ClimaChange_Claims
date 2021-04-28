@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emily Lasner, Nicholas Brod</title>
+    <meta content="06lasner" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/06/fashion/weddings/06lasner.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1845464"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Lasner, Emily Anne</person>
+        <person class="indexing_service">Brod, Nicholas David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EFDA113EF935A35756C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emily Lasner, Nicholas Brod</hl1>
+        <hl2 class="online_headline">Emily Lasner, Nicholas Brod</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emily Anne Lasner and Nicholas David Brod were married last evening at the National Museum of Women in the Arts in Washington. Dr. Rodney Mariner, a rabbi, officiated.</p>
+        <p>The bride and bridegroom met at Yale, from which they received M.B.A. degrees.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Emily Anne Lasner and Nicholas David Brod were married last evening at the National Museum of Women in the Arts in Washington. Dr. Rodney Mariner, a rabbi, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Emily Anne Lasner and Nicholas David Brod were married last evening at the National Museum of Women in the Arts in Washington. Dr. Rodney Mariner, a rabbi, officiated.</p>
+        <p>The bride and bridegroom met at Yale, from which they received M.B.A. degrees.</p>
+        <p>The bride, 30, is a management consultant for museums and nonprofit organizations. Until 2003, she was the exhibitions manager at the Museum of Fine Arts in Boston. She graduated from the University of Michigan.</p>
+        <p>She is the daughter of Edith and Richard Lasner of Chevy Chase, Md. Her father retired as the assistant general counsel at the Government National Mortgage Association, known as Ginnie Mae, in Washington. Her mother teaches dyslexic children in Chevy Chase.</p>
+        <p>The bridegroom, 34, is a management trainee in Melbourne, Australia, with Vestas Wind Systems, a Danish manufacturer of wind turbines for renewable energy. He graduated from the University of Exeter in England.</p>
+        <p>He is the son of Kitty and Michael Brod of London. His father is a partner in Brod Wight Architects in London, for which the bridegroom's mother is the office manager.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

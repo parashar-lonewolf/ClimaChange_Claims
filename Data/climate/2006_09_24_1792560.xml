@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Entrepreneur Sees Green</title>
+    <meta content="24basic-1" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/09/24/weekinreview/24basic.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1792560"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="The Basics"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <org class="online_producer">Virgin Group</org>
+        <person class="online_producer">Branson, Richard</person>
+        <person class="online_producer">Clinton, Bill</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D71E31F937A1575AC0A9609C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Entrepreneur Sees Green</hl1>
+        <hl2 class="online_headline">An Entrepreneur Sees Green</hl2>
+      </hedline>
+      <byline class="print_byline">By HEATHER TIMMONS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With his usual promotional flair and with former President Bill Clinton at his side, Sir Richard Branson announced last week that over the next decade he would put $3 billion in personal profits toward development of energy sources that do not contribute to global warming.</p>
+        <p>The pledge by Sir Richard, the serial entrepreneur and adventurer, came during the Clinton Global Initiative, a three-day meeting in New York where the world's wealthy seemed to try to out-do each other in their philanthropic commitments.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Is Sir Richard Branson giving his money away, or investing it?</p>
+      </block>
+      <block class="full_text">
+        <p>With his usual promotional flair and with former President Bill Clinton at his side, Sir Richard Branson announced last week that over the next decade he would put $3 billion in personal profits toward development of energy sources that do not contribute to global warming.</p>
+        <p>The pledge by Sir Richard, the serial entrepreneur and adventurer, came during the Clinton Global Initiative, a three-day meeting in New York where the world's wealthy seemed to try to out-do each other in their philanthropic commitments.</p>
+        <p>But is Sir Richard giving his money away, or investing it?</p>
+        <p>He will be looking for a return on his money. His earnings from his Virgin Group's airline and railroad companies will be used to invest in new and existing companies that make energy that could replace fossil fuels. It's an open question whether any of these projects will succeed; the history of alternative energy development is littered with failures or, at best, niche successes. ''Some will be profitable, some will not be profitable,'' Sir Richard said, acknowledging the difficulty of forecasting investment success in the field.</p>
+        <p>He has already started chipping away at the $3 billion figure: Earlier this month, Mr. Branson announced the creation of Virgin Fuels, which will invest $400 million in development of nonpetroleum fuels. Some $70 million of that has already been invested in Cilion, a new company based in California that plans to build ethanol plants.</p>
+        <p>Other investors in Cilion include Yucaipa Companies, the private equity firm of the supermarket billionaire Ronald W. Burkle, and Advanced Equities Financial, a venture capital investment bank.</p>
+        <p>HEATHER TIMMONS</p>
+        <p>The Basics</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

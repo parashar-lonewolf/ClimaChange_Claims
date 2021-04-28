@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Search of Safe Energy</title>
+    <meta content="LTR231658" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1671214"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFDD1230F93AA35756C0A9639C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Search of Safe Energy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Nuclear electric generating plants could have an important role in our energy future. The nuclear option makes good sense.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Nuclear electric generating plants could have an important role in our energy future. The nuclear option makes good sense.</p>
+        <p>Nuclear power plants, which emit no greenhouse gases, greatly offset global warming. They can also use fuel blends derived in part from huge existing stockpiles of weapons-grade plutonium and uranium, thereby beating our swords into plowshares.</p>
+        <p>Concerns over waste disposal, security and proliferation are resolvable. In fact, they must be addressed whether or not new nuclear plants are allowed, because existing military and civilian nuclear materials need to be properly managed in any case.</p>
+        <p>G.S. Peter Bergen  Port Washington, N.Y., May 4, 2005</p>
+        <p>The writer was an assistant commissioner of the New York State Department of Environmental Conservation, 1995-99.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

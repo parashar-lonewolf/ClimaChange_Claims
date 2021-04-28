@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Process Is an Excuse To Avoid Conserving Fuel</title>
+    <meta content="LTR140819" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1248628"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <org class="indexing_service">Amoco Corp</org>
+        <org class="indexing_service">Princeton University</org>
+        <org class="indexing_service">Ford Motor Co</org>
+        <person class="indexing_service">Burton, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6DB133BF93AA25752C1A9669C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Process Is an Excuse To Avoid Conserving Fuel</hl1>
+      </hedline>
+      <abstract>
+        <p>John Burton letter points out that $20 million grant by Ford and Amoco to Princeton University to develop solutions for global warming is not as philanthropic as it sounds, since it is limited to process of extracting carbon dioxide from stack gases of electric utilities and transferring it to bottom of ocean (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The $20 million grant by Ford and Amoco to Princeton University (Briefing, Oct. 22) to develop solutions for global warming is not as philanthropic as it sounds. This grant is limited to the process known as sequestering, or extracting carbon dioxide from the stack gases of electric utilities, purifying and compressing it and transferring it to the bottom of the ocean. This obviously would be a very complicated and expensive process. It is like a doctor telling an obese patient not to worry about overeating; he will remove the excess fat by liposuction. Reducing our use of fossil fuels is a more practical means of reducing our carbon dioxide emissions. We have technologies for getting energy by wind  and solar power and for using energy much more efficiently. The return on such investments are not high enough to be attractive right now, but they are the best way to assure a more secure future for our grandchildren.</p>
+        <p>JOHN BURTON  Washington</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The $20 million grant by Ford and Amoco to Princeton University (Briefing, Oct. 22) to develop solutions for global warming is not as philanthropic as it sounds. This grant is limited to the process known as sequestering, or extracting carbon dioxide from the stack gases of electric utilities, purifying and compressing it and transferring it to the bottom of the ocean. This obviously would be a very complicated and expensive process. It is like a doctor telling an obese patient not to worry about overeating; he will remove the excess fat by liposuction. Reducing our use of fossil fuels is a more practical means of reducing our carbon dioxide emissions. We have technologies for getting energy by wind  and solar power and for using energy much more efficiently. The return on such investments are not high enough to be attractive right now, but they are the best way to assure a more secure future for our grandchildren.</p>
+        <p>JOHN BURTON  Washington</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

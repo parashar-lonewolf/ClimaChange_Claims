@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="04plot--refer" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852164"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E2DE1130F937A35755C0A9619C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Filing Suggests Nascent Plot  A reading of the criminal complaint filed by the federal authorities against four men charged in a plot to bomb Kennedy International Airport suggests a terror plan that was less than fully mature.</p>
+        <p>PAGE B1</p>
+        <p>Liver Cancer Drug Promising  A new drug looks poised to become the first effective treatment for liver cancer, one of the most common and deadliest cancers in the world, doctors said.</p>
+        <p>PAGE A14</p>
+        <p>At-Home Fertility Test  A new at-home screening test with components for men and women lets couples find out if they have fertility problems without stepping into a doctor's office.</p>
+        <p>PAGE A12</p>
+        <p>Yankees Beat Boston in 9th  Alex Rodriguez hit a home run in the ninth inning to lift the Yankees to a 6-5 victory over the Red Sox in the series finale at Fenway Park.</p>
+        <p>SPORTSMONDAY</p>
+        <p>Support for Climate Plan  Amid the doubts about President Bush's new plan for cutting greenhouse gases was a substantial dose of support, albeit conditional.</p>
+        <p>PAGE A9</p>
+      </block>
+      <block class="full_text">
+        <p>Filing Suggests Nascent Plot  A reading of the criminal complaint filed by the federal authorities against four men charged in a plot to bomb Kennedy International Airport suggests a terror plan that was less than fully mature.</p>
+        <p>PAGE B1</p>
+        <p>Liver Cancer Drug Promising  A new drug looks poised to become the first effective treatment for liver cancer, one of the most common and deadliest cancers in the world, doctors said.</p>
+        <p>PAGE A14</p>
+        <p>At-Home Fertility Test  A new at-home screening test with components for men and women lets couples find out if they have fertility problems without stepping into a doctor's office.</p>
+        <p>PAGE A12</p>
+        <p>Yankees Beat Boston in 9th  Alex Rodriguez hit a home run in the ninth inning to lift the Yankees to a 6-5 victory over the Red Sox in the series finale at Fenway Park.</p>
+        <p>SPORTSMONDAY</p>
+        <p>Support for Climate Plan  Amid the doubts about President Bush's new plan for cutting greenhouse gases was a substantial dose of support, albeit conditional.</p>
+        <p>PAGE A9</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

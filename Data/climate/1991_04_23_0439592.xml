@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Apple to Halt Use of CFC's</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="439592"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIATION</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <org class="indexing_service">APPLE COMPUTER INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEED8133AF930A15757C0A967958260" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Apple to Halt Use of CFC's</hl1>
+      </hedline>
+      <dateline>SAN FRANCISCO, April 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Apple Computer Inc. said today that it had developed a new technique that could eliminate the use of environmentally harmful chlorofluorocarbons in computer manufacturing.</p>
+        <p>Apple said it had started using the new technique in its factories and would share it with the rest of the electronics industry. The personal computer company, which is based in Cupertino, Calif., said it would eliminate its own use of chlorofluorocarbons by 1993 and possibly by 1992.</p>
+      </block>
+      <block class="full_text">
+        <p>Apple Computer Inc. said today that it had developed a new technique that could eliminate the use of environmentally harmful chlorofluorocarbons in computer manufacturing.</p>
+        <p>Apple said it had started using the new technique in its factories and would share it with the rest of the electronics industry. The personal computer company, which is based in Cupertino, Calif., said it would eliminate its own use of chlorofluorocarbons by 1993 and possibly by 1992.</p>
+        <p>CFC's, as the compounds are known, have been linked to destruction of the ozone layer, which protects the earth from harmful ultraviolet radiation. The electronics industry has been one of the largest consumers of CFC's, which are used to clean circuit boards of residues that remain after chips and other components are soldered to the boards. If not cleaned off, those residues could eventually corrode the circuit board leading to short circuits and other problems.</p>
+        <p>Apple's technique allows circuit boards to be assembled without having to clean them, thereby eliminating the need for CFC's.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

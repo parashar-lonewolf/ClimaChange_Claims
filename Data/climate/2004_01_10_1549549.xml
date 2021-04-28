@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Final Frontier, And Earthly Needs</title>
+    <meta content="LTR231015" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1549549"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars (Planet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Geringer, Wendy M</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E4D61630F933A25752C0A9629C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Final Frontier, And Earthly Needs</hl1>
+      </hedline>
+      <abstract>
+        <p>Wendy M Geringer letter opposes Pres Bush's plan to send humans to Mars; contends that need for major research and development effort to address devastating impact of climate change should take precedence over adventures in outer space</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Following on the heels of your report about scientific findings of the potential relationship between global warming and the extinction of countless species within the next 50 years (news article, Jan. 8), we read about the president's proposed new initiative to send humans to Mars (front page, Jan. 9). The need for a major research and development effort to address the devastating impact of climate change surely must take precedence over adventures in outer space.</p>
+        <p>WENDY M. GERINGER  Croton-on-Hudson, N.Y.  Jan. 9, 2004</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Following on the heels of your report about scientific findings of the potential relationship between global warming and the extinction of countless species within the next 50 years (news article, Jan. 8), we read about the president's proposed new initiative to send humans to Mars (front page, Jan. 9). The need for a major research and development effort to address the devastating impact of climate change surely must take precedence over adventures in outer space.</p>
+        <p>WENDY M. GERINGER  Croton-on-Hudson, N.Y.  Jan. 9, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

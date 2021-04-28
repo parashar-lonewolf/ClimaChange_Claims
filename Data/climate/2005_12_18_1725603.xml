@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Up Front</title>
+    <meta content="18upfront" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/18/books/review/18upfront.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1725603"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Horgan, John</person>
+        <person class="indexing_service">Mooney, Chris</person>
+        <object.title class="indexing_service">Republican War on Science, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Horgan, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EFD91031F93BA25751C1A9639C8B63" item-length="372" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Up Front</hl1>
+        <hl2 class="online_headline">Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By The Editors</byline>
+      <abstract>
+        <p>Book Review editors introduce John Horgan review of Chris Mooney book The Republican War on Science (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>During the 2004 presidential campaign, more than 7,000 scientists, including at least 20 Nobel laureates, signed a petition organized by the Union of Concerned Scientists, an advocacy group based in Cambridge, Mass., charging the Bush administration with distorting scientific information to advance its political agenda. Meanwhile, a political action group called Scientists and Engineers for Change spoke out against President Bush at events in Ohio, Pennsylvania and other swing states.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>During the 2004 presidential campaign, more than 7,000 scientists, including at least 20 Nobel laureates, signed a petition organized by the Union of Concerned Scientists, an advocacy group based in Cambridge, Mass., charging the Bush administration with distorting scientific information to advance its political agenda. Meanwhile, a political action group called Scientists and Engineers for Change spoke out against President Bush at events in Ohio, Pennsylvania and other swing states.</p>
+      </block>
+      <block class="full_text">
+        <p>During the 2004 presidential campaign, more than 7,000 scientists, including at least 20 Nobel laureates, signed a petition organized by the Union of Concerned Scientists, an advocacy group based in Cambridge, Mass., charging the Bush administration with distorting scientific information to advance its political agenda. Meanwhile, a political action group called Scientists and Engineers for Change spoke out against President Bush at events in Ohio, Pennsylvania and other swing states.</p>
+        <p>Just what is going on here? This week, the veteran science journalist John Horgan reviews Chris Mooney's ''Republican War on Science,'' a book he calls a ''diatribe'' marred by ''preaching-to-the-choir self-righteousness'' -- but one that gets a vitally important story basically right. ''Scientists can at times act like just another special interest group, trying to get a bigger slice of the federal pie,'' Horgan said in an e-mail message. ''And they are too quick to peg you as an 'anti-science' religious nut if you oppose, say, funding for stem-cell research.'' Still, he insists, the claim that the administration has manipulated scientific information on issues ranging from climate change to abortion to missile defense isn't just the fevered fantasy of Bush-hating polemicists. ''The actions of the administration have been so egregious that I believe scientists are justified in calling it 'anti-science,' '' he said, adding, ''Uh-oh, I'm letting my bias show.'' Horgan's review begins on Page 11.</p>
+        <p>The Editors</p>
+        <p>On the Web</p>
+        <p>In the Blogs: What online critics are saying about the authors in Pamela Paul's essay. Also, the most blogged-about books of 2005.</p>
+        <p>Featured Author: A retrospective on the career of Nadine Gordimer, the author of ''Get a Life.''</p>
+        <p>First Chapters: Excerpts from ''Cooking With Fernet Branca,'' by James Hamilton-Paterson; ''The Brontë Project,'' by Jennifer Vandever; and other books.</p>
+        <p>Links: Read reviews of the books listed in the Editors' Choice and Paperback Row features.</p>
+        <p>nytimes.com/books</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

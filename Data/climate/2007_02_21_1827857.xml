@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reader Responses</title>
+    <meta content="21leonhardt-responses" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/21/business/21leonhardt-responses.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1827857"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E1DA133EF932A15751C0A9619C8B63" item-length="400" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reader Responses</hl1>
+        <hl2 class="online_headline">Reader Responses</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID LEONHARDT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The following are excerpts of reader responses to David Leonhardt's Feb. 21 column on a debate over the economics of climate change:</p>
+      </block>
+      <block class="full_text">
+        <p>The following are excerpts of reader responses to David Leonhardt's Feb. 21 column on a debate over the economics of climate change:</p>
+        <p>Why tax just carbon emissions? Why not tax all greenhouse gases?</p>
+        <p>-- Jim Morse</p>
+        <p>I think if a sociologist had been there, he or she might have said to the younger people that given increases in longevity you are likely to get to know your great grandchildren and might want to help make their lives a little easier.</p>
+        <p>-- Herbert J. Gans</p>
+        <p>I'm a big admirer of your column, but I feel very disappointed by this week's Economix on Nick Stern. I've blogged my complaints, but in a nutshell, I think you're wrong to say that Stern thinks that a dollar today is worth the same as an inflation-adjusted dollar in the future, and I think you're setting up a straw man when you say that spending a dollar on carbon reduction today to avoid a dollar's worth of economic damage in 2107 doesn't make sense. It doesn't but Stern never says that it does.</p>
+        <p>-- Felix Salmon</p>
+        <p>You're referring to this sentence: "The Stern Review assumed that a dollar of economic damage prevented a century from now (adjusted for inflation) is roughly as valuable as a dollar spent reducing emissions today." As you note, the Stern Review uses a low discount rate, not a zero discount rate, so it doesn't assume a dollar now and a dollar in 2107 are of equal value. That's why I used the word "roughly," which I realize leaves me open to a charge oversimplification. But this is precisely how Sir Nicholas talks about it: we should treat future generations no different from today's generations. When it comes to money, I don't think that's quite right. But when it comes to the climate, it probably is. That's why his argument, in the end, is more persuasive to me than that of his critics. Thanks for your note, Felix. -- David Leonhardt</p>
+        <p>As energy costs increase the value of the dollar will drop. When the dollar loses its purchasing power against the watt, an entirely new economy will arise because the real value of energy will be clear--it has been obscured by cheap oil. The sooner we change our standard of exchange from the dollar to the watt the sooner Stern's argument will appear bullet-proof. The people from Yale are off-base.</p>
+        <p>-- D.H. Gottlieb</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

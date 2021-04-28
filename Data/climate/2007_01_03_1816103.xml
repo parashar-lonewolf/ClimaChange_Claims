@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Light Bulb Goes On</title>
+    <meta content="03wed3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/03/opinion/03wed3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1816103"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light Bulbs</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <org class="indexing_service">Wal-Mart Stores Inc</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light Bulbs</classifier>
+        <classifier class="online_producer" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light Bulbs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Wal-Mart Stores Inc</org>
+        <person class="online_producer">Barbaro, Michael</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E0DC1730F930A35752C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Light Bulb Goes On</hl1>
+        <hl2 class="online_headline">A Light Bulb Goes On</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial praises Wal-Mart's promotion of energy-saving fluorescent light bulbs; says efforts should be made to provide these more expensive bulbs to poor</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bad habits can be hard to break. So it's great news that Wal-Mart is putting its considerable heft behind one of the easiest ways to reduce energy consumption and the production of global-warming gases: the corkscrew-shaped light bulbs of the future.</p>
+        <p>Light bulbs don't have tailpipes to remind us that their use adds to pollution. But more than half of the nation's electricity comes from coal-burning plants. Switching from familiar bulbs to longer-lasting, energy-saving compact fluorescent lamps makes sense economically and environmentally.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It’s great news that Wal-Mart is putting its considerable heft behind one of the easiest ways to reduce energy consumption and the production of global-warming gases: the corkscrew-shaped light bulbs of the future.</p>
+      </block>
+      <block class="full_text">
+        <p>Bad habits can be hard to break. So it's great news that Wal-Mart is putting its considerable heft behind one of the easiest ways to reduce energy consumption and the production of global-warming gases: the corkscrew-shaped light bulbs of the future.</p>
+        <p>Light bulbs don't have tailpipes to remind us that their use adds to pollution. But more than half of the nation's electricity comes from coal-burning plants. Switching from familiar bulbs to longer-lasting, energy-saving compact fluorescent lamps makes sense economically and environmentally.</p>
+        <p>As Michael Barbaro reported in The Times yesterday, Wal-Mart is pushing to sell 100 million compact fluorescents a year. Because they use 75 percent less electricity, that would save customers $3 billion on their electricity bills and save the world from 20 million metric tons of greenhouse gases.</p>
+        <p>But it will also take a lot of work to persuade consumers to make the change. There's the strange shape and the general lack of familiarity, of course, but probably the biggest impediment is that while the bulbs are cheaper to use, they cost more to buy. Compact fluorescents are often eight times more expensive, but each one saves consumers $30 over its lifespan because they last longer and use less electricity. It's a quirk of our human brains that people generally have a hard time paying more for something today even if it's a better deal in the long run. That will take some work to overcome.</p>
+        <p>The poorest consumers -- those who are behind on their bills and living paycheck to paycheck -- may not be able to absorb the extra cost upfront. Every effort should be made to get the bulbs for those who need them most, including expanding programs to distribute them to recipients of energy-assistance programs for the poor.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

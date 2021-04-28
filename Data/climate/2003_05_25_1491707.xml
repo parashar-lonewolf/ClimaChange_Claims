@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Private Sector; Now, the Annual Report That Isn't</title>
+    <meta content="MB000606" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1491707"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Exxon Mobil</org>
+        <org class="indexing_service">Greenpeace (Orgn)</org>
+        <person class="indexing_service">Retsinas, Greg</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E0DF1531F936A15756C0A9659C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Private Sector; Now, the Annual Report That Isn't</hl1>
+      </hedline>
+      <byline class="print_byline">By Greg Retsinas</byline>
+      <byline class="normalized_byline">Retsinas, Greg</byline>
+      <abstract>
+        <p>Greenpeace, environmental group, produces satirical 'revised annual report' for Exxon Mobil Corp (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At first glance, the ''revised annual report'' from Exxon Mobil looks the part. Its glossy pages, bar graphs and photographs of smiling executives are what you'd expect to find. But it doesn't take long to see the ruse.</p>
+        <p>Photographs of company facilities include protesters; the charts track the rise of oil consumption and global warming, and there are no actual numbers in the report. Oh, yes, and the globes on the cover are on fire.</p>
+      </block>
+      <block class="full_text">
+        <p>At first glance, the ''revised annual report'' from Exxon Mobil looks the part. Its glossy pages, bar graphs and photographs of smiling executives are what you'd expect to find. But it doesn't take long to see the ruse.</p>
+        <p>Photographs of company facilities include protesters; the charts track the rise of oil consumption and global warming, and there are no actual numbers in the report. Oh, yes, and the globes on the cover are on fire.</p>
+        <p>As the back page notes, it's satire from Greenpeace, the environmental group that has conducted a campaign against Exxon Mobil and its European subsidiary, Esso, for two years. A Greenpeace campaign coordinator, Gary Cook, said the report was sent to 500 Exxon Mobil employees, shareholders and oil industry analysts in advance of Exxon Mobil's annual meeting on Wednesday.</p>
+        <p>Not surprisingly, any humor was lost on Exxon Mobil, whose chief executive, Lee R. Raymond, is among those skewered in the fake report.</p>
+        <p>''I wish they would stop trying to be cute,'' said a company spokesman, Tom Cirigliano. He said Exxon Mobil is considering suing Greenpeace for ''fraudulent use'' of the company's logo.</p>
+        <p>Greg Retsinas</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

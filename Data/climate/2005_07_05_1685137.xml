@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR004117" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1685137"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Oceans</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050705T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DE1F3AF936A35754C0A9639C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 1 article on British scientific panel's finding about carbon dioxide's harm to oceans regarding pH scale of acidity and alkalinity</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Friday about a British scientific panel's finding that carbon dioxide in the atmosphere was turning the oceans more acidic referred incompletely to the pH scale of acidity and alkalinity. It measures concentration of hydrogen ions, not hydrogen. (The scale runs from 1, the most acidic, with the highest concentration of hydrogen ions, to 14, the most alkaline, with almost no hydrogen ions. Ocean water today is somewhat alkaline, at 8.1; water near the surface is expected to be as low as 7.7 by 2100, the report said.)</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Friday about a British scientific panel's finding that carbon dioxide in the atmosphere was turning the oceans more acidic referred incompletely to the pH scale of acidity and alkalinity. It measures concentration of hydrogen ions, not hydrogen. (The scale runs from 1, the most acidic, with the highest concentration of hydrogen ions, to 14, the most alkaline, with almost no hydrogen ions. Ocean water today is somewhat alkaline, at 8.1; water near the surface is expected to be as low as 7.7 by 2100, the report said.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

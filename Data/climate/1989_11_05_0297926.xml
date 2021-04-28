@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Lukewarming</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="297926"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <person class="indexing_service">BUSH, GEORGE (PRES)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6D8173BF936A35752C1A96F948260" item-length="552" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Lukewarming</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: George Bush's campaign pledge to pay more attention to the environment was good news coming after eight years of Reagan indifference. His early appointments were generally sound, his proposals challenging, his words bullish. ''Those who think we're powerless to do anything about the greenhouse effect,'' he trumpeted, ''are forgetting about the White House effect.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: George Bush's campaign pledge to pay more attention to the environment was good news coming after eight years of Reagan indifference. His early appointments were generally sound, his proposals challenging, his words bullish. ''Those who think we're powerless to do anything about the greenhouse effect,'' he trumpeted, ''are forgetting about the White House effect.</p>
+        <p>George Bush's campaign pledge to pay more attention to the environment was good news coming after eight years of Reagan indifference. His early appointments were generally sound, his proposals challenging, his words bullish. ''Those who think we're powerless to do anything about the greenhouse effect,'' he trumpeted, ''are forgetting about the White House effect.''</p>
+        <p>Where has this ardor gone? In a pattern distressingly like the Administration's disarray over Soviet policy, infighting and conflicting signals now obscure the clarity of Mr. Bush's original commitment on at least two priority issues.</p>
+        <p>Global Warming. Environmental questions are dauntingly complex, and solving them requires painful trade-offs between conservation and economic growth. The so-called greenhouse effect is no exception: experts disagree on just how serious it already is. But no respectable scientist denies that pouring gases like carbon dioxide into the atmosphere will eventually cause the earth to warm up, with consequences that are potentially catastrophic.</p>
+        <p>The U.S. produces 25 percent of the world's carbon dioxide emissions. To William Reilly, director of the Environmental Protection Agency, this imposes a special obligation on Washington to develop a timetable and strategy.</p>
+        <p>Mr. Reilly had hoped to carry at least the outline of a policy to an international conference on global warming that begins tomorrow in the Netherlands. He's going, but without a policy. Powerful voices in the Administration - including the Department of Energy and the White House chief of staff, John Sununu - insist on further study, even though 14 months have passed since Mr. Bush's ringing declaration of war on global warming.</p>
+        <p>Clean Fuels. A tough new clean-air bill is slowly wending its way through Congress, thanks in part to Mr. Bush's original bill and the efforts of clean-air advocates like California's Henry Waxman to strengthen it. But one of the bill's most important provisions has been weakened beyond recognition - and Mr. Bush is largely to blame. The provision would have required Detroit to produce one million cars designed to run on alternative fuels by 1997.</p>
+        <p>There's disagreement among experts on which alternative fuels would be cleanest or cheapest. But Mr. Bush's original proposal would at least have encouraged aggressive investment in new technology by reluctant auto makers and oil companies.</p>
+        <p>At a critical moment in the deliberations of Mr. Waxman's subcommittee, however, Mr. Sununu sent word that the White House would accept a weaker provision. Mr. Reilly sent the opposite message. The confusion was fatal: Mr. Bush's cherished alternative-fuels provision was gutted. By allowing two key aides to send conflicting signals, the President had sandbagged himself.</p>
+        <p>There are now fears of vacillation on a third environmental concern: acid rain. The Bush bill would attack acid rain by requiring utilities to halve their discharges of sulfur dioxide by the year 2000. Mr. Sununu said in a letter to Mr. Waxman that the White House still wants a tough plan. But there is no evidence of aggressive White House lobbying. That's because the White House's chief lobbyist -the man who would be the Environmental President - has forgotten that legislation, like horseshoes, requires follow-through.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

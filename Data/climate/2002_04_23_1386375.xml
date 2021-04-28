@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="23OBSE" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/04/23/science/23OBSE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1386375"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mole Rats</classifier>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Salmon</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Condors</classifier>
+        <classifier class="indexing_service" type="descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <location class="indexing_service">Alaska</location>
+        <org class="indexing_service">University of Alaska</org>
+        <org class="indexing_service">Vanderbilt University</org>
+        <org class="indexing_service">Fish and Wildlife Service</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Evolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Evolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">California</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E6D6113FF930A15757C0A9649C8B63" item-length="673" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Danger, Sharp Brain!</hl2>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Vanderbilt University researchers, reporting in Proceedings of National Academy of Sciences, find that fully one-third of East African naked mole-rat's brain somatosensory cortex is devoted to its incisors and area is much larger and encompasses part of brain normally devoted to vision; scientists from University of Alaska and other institutions, reporting in Nature, find that sockeye salmon populations in Alaskan lake declined and revived over past 2,200 years in response to major climate changes in Pacific; Fish and Wildlife Service reports first hatching of California condor in 18 years in the wild from egg conceived and laid in the wild; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Danger, Sharp Brain!</p>
+        <p>The naked mole-rat is an odd beast. With its bare, pink skin and huge protruding incisors, this East African rodent is sometimes described as a hot dog with teeth.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This week's column includes items on the naked mole-rat's brain, sockeye salmon and a newly hatched California condor.</p>
+      </block>
+      <block class="full_text">
+        <p>Danger, Sharp Brain!</p>
+        <p>The naked mole-rat is an odd beast. With its bare, pink skin and huge protruding incisors, this East African rodent is sometimes described as a hot dog with teeth.</p>
+        <p>It spends most of its time in dark tunnels, so its vision is limited, but it can navigate both forward and backward with ease, aided by sensory hairs at either end. Socially, it is strange, too: with a single breeding queen supported by scores of workers, a mole-rat colony is the mammalian equivalent of a beehive.</p>
+        <p>Now, it turns out, even its brain is weird.</p>
+        <p>Researchers at Vanderbilt University mapped the naked mole-rat's somatosensory cortex, the part of the brain where touch is perceived. In their experiments, reported in The Proceedings of the National Academy of Sciences, they inserted tiny electrodes into parts of the cortex, touched certain parts of the animal's body and recorded which neurons fired.</p>
+        <p>In people, the results of this kind of basic research are usually portrayed by a homunculus, an odd-looking human figure in which the parts of the body are drawn proportionally to how much of the cortex is devoted to them. In a homunculus, the hands, fingers and lips -- all very touch-sensitive -- are huge.</p>
+        <p>The researchers at Vanderbilt drew what they called a ''mole-ratunculus'' based on their research, and it looks totally different: it is almost all teeth.</p>
+        <p>Fully one-third of the somatosensory cortex, the researchers found, is devoted to the mole-rat's incisors. But perhaps that is not so surprising given that in addition to eating, the teeth are used for digging, moving objects and interacting with other mole-rats.</p>
+        <p>The researchers also found that compared with related rat species, the mole-rats' somatosensory cortex was much larger, and that it encompassed areas of the brain normally devoted to vision. The researchers suggest that this is evidence of evolutionary brain rewiring, as the animal adapted to life underground.</p>
+        <p>Crashing Sockeye</p>
+        <p>It is no secret that overfishing by commercial fisheries has led to sharp declines in some fish stocks in the world's oceans. But a new study of sockeye salmon over the past 2,200 years shows that fish are quite capable of crashing on their own.</p>
+        <p>In the study, scientists from the University of Alaska and other institutions examined sediments from an Alaskan lake. Sockeye come to this lake to spawn and die, and the relative abundance of fish carcasses affects the type of algae in the lake. The nutrients provided by huge numbers of dead fish, for example, promote growth of algae that are characteristic of a eutrophic lake.</p>
+        <p>By noting the types of algae in the sedimentary layers, along with concentrations of a nitrogen isotope that is another marker of fish abundance, the researchers were able to reconstruct a history of sockeye salmon since 200 B.C.</p>
+        <p>The findings, reported in Nature, show that the sockeye population crashed around 100 B.C., recovered from about A.D. 800 to 1200 and remained abundant until 1900 (with declines since then attributed partly to the rise of commercial fishing).</p>
+        <p>The changes in fish population correspond to major changes in climate in the Pacific -- the declines around 100 B.C., for example, coincide with a warming period. The researchers suggest that an awareness of the potential effects of climate change should be part of any strategy for managing northern Pacific fish stocks.</p>
+        <p>A Condor Milestone</p>
+        <p>Another milestone has been reached in the struggle to save the California condor: the first hatching in 18 years in the wild from an egg that was conceived and laid in the wild.</p>
+        <p>The chick, hatched April 11 in Los Padres National Forest in California, is doing well, the Fish and Wildlife Service said. The parents were reared in captivity and released at age 1 in 1995. Officials say the hatching is a sign that captive-bred condors can reproduce in a natural habitat.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

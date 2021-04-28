@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Washington Talk: Briefing; A Long Memory</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="125438"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHEMICALS</classifier>
+        <org class="indexing_service">DU PONT DE NEMOURS, E I, &amp; CO</org>
+        <person class="indexing_service">BAUCUS, MAX (SEN)</person>
+        <person class="indexing_service">STAFFORD, ROBERT T (SEN)</person>
+        <person class="indexing_service">DURENBERGER, DAVID F (SEN)</person>
+        <person class="indexing_service">HECKERT, RICHARD E</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE2DE113BF934A35750C0A96E948260" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Washington Talk: Briefing; A Long Memory</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Official Washington has a long institutional memory, as E. I. du Pont de Nemours &amp; Company found out to its discomfort this week.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Official Washington has a long institutional memory, as E. I. du Pont de Nemours &amp; Company found out to its discomfort this week.</p>
+        <p>Official Washington has a long institutional memory, as E. I. du Pont de Nemours &amp; Company found out to its discomfort this week.</p>
+        <p>In the early 1970's, a theory was proposed that manufactured chemicals called chlorofluorcarbons were depleting the atmospheric ozone shield that protects the earth from harmful ultraviolet radiation from the sun. At the time, Du Pont took advertisements in newspapers saying that if reputable scientific evidence found that any of the chemicals were harmful, ''we are prepared to stop production of the offending compounds.'' But the ads also said that there was no conclusive evidence to support the theory.</p>
+        <p>A Du Pont executive also said in testimony before a Congressional committee that the company would stop making the compounds if ''creditable scientific data'' showed they posed a threat to health.</p>
+        <p>Last week Senator Max Baucus, Democrat of Montana, and two Republican Senators, Robert T. Stafford of Vermont and Dave Durenberger of Minnesota, sent a letter to Richard E. Heckert, the Du Pont chairman, along with documents that they said confirmed that the chemicals are depleting the ozone layer and pose a health risk to humans.</p>
+        <p>The Senators then said that the time had come for Du Pont to make good on its pledge.</p>
+        <p>Mr. Heckert quickly replied that Du Pont ''stands by'' its earlier commitment. But, he said in his letter, the evidence still ''does not point to the need for dramatic CFC emission reductions.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

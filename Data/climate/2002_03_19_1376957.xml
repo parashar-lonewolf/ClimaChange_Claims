@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="19OBSE" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/03/19/science/19OBSE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1376957"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Ozone</classifier>
+        <classifier class="indexing_service" type="descriptor">Ferns</classifier>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="indexing_service" type="descriptor">Methyl Chloride</classifier>
+        <classifier class="indexing_service" type="descriptor">Nitrogen</classifier>
+        <classifier class="indexing_service" type="descriptor">Ultraviolet Light</classifier>
+        <classifier class="indexing_service" type="descriptor">Bacteria</classifier>
+        <classifier class="indexing_service" type="descriptor">Orchids</classifier>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">National Parks, Monuments and Seashores</classifier>
+        <location class="indexing_service">Japan</location>
+        <location class="indexing_service">Lapland</location>
+        <location class="indexing_service">Tanzania</location>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Tanzania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/National Parks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Tanzania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">National Parks, Monuments and Seashores</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monuments and Memorials</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E6D91E39F93AA25750C0A9649C8B63" item-length="665" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Gassy Ferns and Trees</hl2>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Researchers in Japan, in study published in journal Nature, find that some common tropical plants, including certain ferns and woody trees in Dipterocarpaceae family, emit large amounts of ozone-depleting methyl chloride gas; team of British and Swedish scientists, in study published in Nature, finds that increased exposure to UV-B rays affects bacterial communities in soil in Lapland, possibly making less nitrogen available to plants; Tanzania plans to create national park on Kitulo Plateau in southern highlands known for its orchids, whose numbers are decreasing due to poaching (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gassy Ferns and Trees</p>
+        <p>Chlorofluorocarbons, those refrigerants and solvents also known as CFC's, have increasingly lost favor since they were linked to the reduction of atmospheric ozone in the 1970's. In the upper atmosphere, the chlorine in CFC's acts as a catalyst, destroying ozone molecules.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This week's column includes items on atmospheric chlorine, UV-B and plants and an orchid park.</p>
+      </block>
+      <block class="full_text">
+        <p>Gassy Ferns and Trees</p>
+        <p>Chlorofluorocarbons, those refrigerants and solvents also known as CFC's, have increasingly lost favor since they were linked to the reduction of atmospheric ozone in the 1970's. In the upper atmosphere, the chlorine in CFC's acts as a catalyst, destroying ozone molecules.</p>
+        <p>But there are naturally occurring chlorine-containing compounds that affect ozone as well. Methyl chloride, for example, is the largest natural source of atmospheric chlorine.</p>
+        <p>The problem for scientists has been figuring out where all the methyl chloride comes from. Studies have shown that agricultural burning, salt marshes and rice paddies are sources. But there is still a lot of methyl chloride of unknown origin.</p>
+        <p>Now, researchers in Japan think they may have accounted for another methyl chloride source. In greenhouse experiments, the researchers found that some common tropical plants -- certain ferns and woody trees of the family Dipterocarpaceae, which are valued as timber -- emit large amounts of the gas. Dipterocarpaceae dominate the lowland rain forests of Southeast Asia, so the researchers suggest that this family of trees may be a major methyl chloride source.</p>
+        <p>The results, the researchers write in the journal Nature, raise questions about the future and the past. More studies are needed, they say, to better understand methyl chloride emission rates among different species, and to assess how the continued destruction of tropical rain forests could affect emissions.</p>
+        <p>And because ferns were found to be a major emitter of the gas, the researchers speculate that the atmosphere during the Carboniferous period 250 million to 350 million years ago, when the earth's vegetation was dominated by ferns, may have been rich in methyl chloride.</p>
+        <p>Plants Feel the Heat</p>
+        <p>As just about everyone knows by now, the major effect of the reduction of atmospheric ozone is an increase in the amount of the sun's ultraviolet radiation hitting the earth. The human health problems caused by greater exposure to ultraviolet rays -- of the type known as UV-B in particular -- are readily apparent. The effect on plants is often more subtle, and therefore the environmental effects of increased UV-B exposure are a subject of debate.</p>
+        <p>Because the greatest ozone depletion has taken place in the Arctic and Antarctic regions, they are a good place to study the effects of UV-B on plants. A team of British and Swedish scientists has done just that, conducting experiments on a heath in Swedish Lapland, at about 70 degrees latitude. The site is covered in small birch trees, dwarf shrubs, herbs and grasses.</p>
+        <p>At such latitudes, the vegetation is highly dependent on soil bacteria, which cycle nitrogen to the roots. The study, reported in Nature, found that increased UV-B exposure did not affect the plants so much as it did the bacterial communities in the soil. (The effects of UV-B were also greater than those from another factor related to climate change, the increased concentration of atmospheric carbon dioxide.)</p>
+        <p>The researchers say the ultraviolet exposure reduced the population of bacteria, made them less active or changed the composition of microbial species in the soil. Whatever the direct effects, the indirect result may be that less nitrogen is available to the plants.</p>
+        <p>A Haven for Orchids</p>
+        <p>Orchids might have little connection to methyl chloride or the ozone layer, but they sure are beautiful. Now orchid lovers will be pleased to know that Tanzania plans to create a national park in a grassland area known for its orchids.</p>
+        <p>The park, of only 52 square miles, will be established on the Kitulo Plateau in Tanzania's southern highlands. The Wildlife Conservation Society has long been urging protection for the area, where orchid populations have declined because of harvesting by poachers who ship them to Zambia, where they are considered an exotic food.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

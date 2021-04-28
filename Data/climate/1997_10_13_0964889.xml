@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Change Imposes Heavy Financial Cost; Big Oil Wins Again</title>
+    <meta content="LTR214323" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="964889"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Cells</classifier>
+        <person class="indexing_service">Heyl, Lawrence Jr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E4D91E3CF930A25753C1A961958260" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Change Imposes Heavy Financial Cost; Big Oil Wins Again</hl1>
+      </hedline>
+      <abstract>
+        <p>Lawrence Heyl Jr letter comments on October 8 Business Day article on latest developments in fuel cell technology (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In your useful survey of fuel cell developments (Business Day, Oct. 8), one sentence may raise more questions than it answers: ''This debate [about which fuel to use] pits fuel-cell supporters against big oil companies, since the fuel of choice is pure hydrogen, which does not come from an oil well but can be derived from methane and natural gas.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In your useful survey of fuel cell developments (Business Day, Oct. 8), one sentence may raise more questions than it answers: ''This debate [about which fuel to use] pits fuel-cell supporters against big oil companies, since the fuel of choice is pure hydrogen, which does not come from an oil well but can be derived from methane and natural gas.''</p>
+        <p>What is not made clear is that the oil companies are typically the discoverers and producers of natural gas, which is often found in association with crude oil and produced from the same wells.</p>
+        <p>LAWRENCE HEYL JR.  Nyack, N.Y., Oct. 8, 1997</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

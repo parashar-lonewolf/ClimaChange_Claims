@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming Threat</title>
+    <meta content="L21WAR$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209059"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <org class="indexing_service">Natural Resources Defense Council</org>
+        <person class="indexing_service">Subak, Susan</person>
+        <person class="indexing_service">Easterbrook, Gregg</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E2D91331F932A15755C0A9669C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming Threat</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Susan Subak (Natural Resources Defense Council) on Gregg Easterbrook's June 14 article defends assumptions underlying federal government's new assessment of global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Gregg Easterbrook (Op-Ed, June 14) agrees that the scientific case for global warming is persuasive, but asserts that the federal government's new climate change assessment is based on assumptions ''far more pessimistic than those in mainstream climatology.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Gregg Easterbrook (Op-Ed, June 14) agrees that the scientific case for global warming is persuasive, but asserts that the federal government's new climate change assessment is based on assumptions ''far more pessimistic than those in mainstream climatology.''</p>
+        <p>In fact, the two climate-change scenarios used in the assessment are derived from models selected by the United Nations-affiliated Intergovernmental Panel on Climate Change. Reflecting British and Canadian model results, the new assessment assumes there will be an average temperature increase over the United States of 5 to 10 degrees Fahrenheit.</p>
+        <p>The assessment confirms that global warming threatens our national treasures, from the coral reefs of Florida to the rain forests of Alaska. The alarming implications for the future of American society and environment show that the development of regional climate studies, like this one, is long overdue.</p>
+        <p>SUSAN SUBAK  Senior Research Associate  Natural Resources Defense Council  Washington, June 15, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

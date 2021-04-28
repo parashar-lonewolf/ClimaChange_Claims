@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Saving Kilimanjaro's Ice</title>
+    <meta content="L07KIL$01" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1541075"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Kyoto Protocol</classifier>
+        <classifier class="indexing_service" type="descriptor">Methane</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <location class="indexing_service">Mount Kilimanjaro (Tanzania)</location>
+        <person class="indexing_service">Nisbet, Euan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Tanzania</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DB153DF934A35751C1A9659C8B63" item-length="249" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Saving Kilimanjaro's Ice</hl1>
+      </hedline>
+      <abstract>
+        <p>Euan Nisbet letter objects to Nov 26 editoral suggesting that melting of Mount Kilimanjaro's ice cap could stand as angry accusation against humanity; calls for unblocking Kyoto with stand-alone agreement to cut methane emissions, which would reduce global warming in decade</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A Nov. 26 editorial considers Mount Kilimanjaro's ice cap. You prefer to let it vanish, so that the bare summit can become an angry accusation against humanity.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A Nov. 26 editorial considers Mount Kilimanjaro's ice cap. You prefer to let it vanish, so that the bare summit can become an angry accusation against humanity.</p>
+        <p>That its beauty will depart appalls me as an African. Yet Northerners may lose, too. Global climate understanding needs to be tested by modeling the tropical history recorded in the Kilimanjaro ice.</p>
+        <p>Yes, far-thinking scientists have already cored the ice, but some problems demand bigger samples. My suggestion as a geologist was to wrap the ice cliffs, and add a cover of snowmaker snow. But debate will bring better ideas.</p>
+        <p>My own interest is atmospheric methane. Cutting methane emissions will reduce global warming in as little as a decade.</p>
+        <p>All can help, South as well as North. The North has its gas leaks and landfills; the South makes much methane in devastating grass fires that are easily stopped.</p>
+        <p>To understand the history of methane fully, we need the record of tropical burning. It is time both to save the ice and to unblock the Kyoto impasse with a stand-alone methane agreement.</p>
+        <p>EUAN NISBET  London, Dec. 4, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

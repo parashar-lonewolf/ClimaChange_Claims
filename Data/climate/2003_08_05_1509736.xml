@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Everything Is Political</title>
+    <meta content="05KRUG" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/08/05/opinion/05KRUG.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1509736"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Treasury Department</org>
+        <person class="indexing_service">Krugman, Paul</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Treasury Department</org>
+        <person class="online_producer">Rove, Karl</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030805T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03EEDE1E3EF936A3575BC0A9659C8B63" item-length="775" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Everything Is Political</hl1>
+        <hl2 class="online_headline">Everything Is Political</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column says traditionally independent Treasury Dept is taking its marching orders from White House political operatives; says department is purposely suppressing statistics showing extent to which Pres Bush's tax cuts concentrate their bounty on families with very high incomes; says Americans should be worried about decisions of administration that systematically misleads itself and the country (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The agency's analysts find that they are no longer helping to formulate policy; instead, their job is to rationalize decisions that have already been made. And more and more, they find that they are expected to play up evidence, however weak, that seems to support the administration's case, while suppressing evidence that doesn't.</p>
+        <p>Am I describing the C.I.A.? The E.P.A.? The National Institutes of Health? Actually, I'm talking about the Treasury Department, but the ambiguity is no coincidence. Across the board, the Bush administration has politicized policy analysis. Whether the subject is stem cells or global warming, budget deficits or weapons of mass destruction, government agencies are under intense pressure to say what the White House wants to hear. And the long-term consequences are likely to be dire.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The erosion of the Treasury's intellectual integrity is exemplified by its denial and deception on the subject of tax cuts.</p>
+      </block>
+      <block class="full_text">
+        <p>The agency's analysts find that they are no longer helping to formulate policy; instead, their job is to rationalize decisions that have already been made. And more and more, they find that they are expected to play up evidence, however weak, that seems to support the administration's case, while suppressing evidence that doesn't.</p>
+        <p>Am I describing the C.I.A.? The E.P.A.? The National Institutes of Health? Actually, I'm talking about the Treasury Department, but the ambiguity is no coincidence. Across the board, the Bush administration has politicized policy analysis. Whether the subject is stem cells or global warming, budget deficits or weapons of mass destruction, government agencies are under intense pressure to say what the White House wants to hear. And the long-term consequences are likely to be dire.</p>
+        <p>Traditionally the Treasury, like the C.I.A., stands somewhat above the political fray. Externally, it is supposed to provide objective data that Congress and the public can use to evaluate administration proposals. Internally, long-serving Treasury analysts traditionally ride herd on political appointees, warning them when their proposals are ill conceived or irresponsible.</p>
+        <p>But under the Bush administration the Treasury takes its marching orders from White House political operatives. As The New Republic points out, when John Snow meets with Karl Rove, the meetings take place in Mr. Rove's office.</p>
+        <p>To the general public, the most obvious consequence of this subservience has been Treasury's meek acquiescence in an economic policy that hasn't produced any jobs, but has produced a $450 billion deficit. Insiders, however, are if anything even more dismayed by the erosion of Treasury's intellectual integrity -- an erosion exemplified by its denial and deception on the subject of tax cuts.</p>
+        <p>Here's the story: Treasury has an elaborate computer model designed to evaluate who benefits and who loses from any proposed change in tax laws. For example, the model can be used to estimate how much families in the middle of the income distribution will gain from a tax cut, or the share of that tax cut that goes to the top 1 percent of families. In the 1990's the results of such analyses were routinely made public.</p>
+        <p>But since George W. Bush came into power, the department has suppressed most of that information, releasing only partial, misleading tables. The purpose of this suppression, of course, is to conceal the extent to which Mr. Bush's tax cuts concentrate their bounty on families with very high incomes. In a stinging recent article in Tax Notes, the veteran tax analyst Martin Sullivan writes of the debate over the 2001 cut that ''Treasury's analysis was so embarrassingly poor and so biased, we thought we had seen the last of its kind.'' But worse was to come.</p>
+        <p>For his June 22 interview with Howard Dean, Tim Russert asked the Treasury Department to prepare examples showing how repealing the Bush tax cuts would affect ordinary families. Presumably Mr. Russert thought Treasury would provide a representative selection -- that is, like many in the media, he doesn't yet understand the extent to which Treasury has become an arm of the White House political machine.</p>
+        <p>In any case, the examples Treasury provided to Mr. Russert and others in the media were wildly unrepresentative. To give you a sense: the Treasury's example of a ''lower income'' elderly household was one receiving $2,000 a year in dividend income. In fact, only about one elderly household in four receives any dividend income, and only one in eight receives as much as $2,000. Not surprisingly, the ''Russert families'' gained far more from the Bush tax cuts than a representative sample. As Mr. Sullivan put it, ''If this continues, the Treasury's Office of Tax Policy may have to change its name to the Office of Tax Propaganda.''</p>
+        <p>As I've said, this is only one example of a broad pattern. Still, why does politicized analysis matter? One answer is that it undermines democracy: how can Congress or the public make informed votes if both are fed distorted information?</p>
+        <p>And even if you aren't bothered by an administration that systematically misleads the public, you ought to be worried about the decisions of an administration that systematically misleads itself. A leader who is told only what he wants to hear is all too likely to make bad decisions about the economy, the environment and beyond.</p>
+        <p>Op-Ed Columnist E-mail: krugman@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: krugman@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

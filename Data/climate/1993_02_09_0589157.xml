@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY NEWS</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="589157"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFD9143EF93AA35751C0A965958260" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY NEWS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CSX CORP., Richmond, completed the acquisition of Customized Transportation Inc., a trucking and warehousing company in Jacksonville, Fla. Terms were not disclosed. INTERNATIONAL FAMILY ENTERTAINMENT, Virginia Beach, Va., said a group led by Mario Gabelli, a New York financier, had increased its stake in the company's class B common shares to 11.91 percent from 9.76 percent by acquiring shares worth $7 million.</p>
+      </block>
+      <block class="full_text">
+        <p>CSX CORP., Richmond, completed the acquisition of Customized Transportation Inc., a trucking and warehousing company in Jacksonville, Fla. Terms were not disclosed. INTERNATIONAL FAMILY ENTERTAINMENT, Virginia Beach, Va., said a group led by Mario Gabelli, a New York financier, had increased its stake in the company's class B common shares to 11.91 percent from 9.76 percent by acquiring shares worth $7 million.</p>
+        <p>RAYTHEON CO., Lexington, Mass., announced that its United Engineers and Constructors International unit had been awarded a contract to build a $300 million co-generation plant in Allegheny County, Pa. The 180-megawatt power generating facility and carbon dioxide plant will be owned by AES Warrior Run Inc.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

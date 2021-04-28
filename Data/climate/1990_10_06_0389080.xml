@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patents;   New Methods To Improve Hair Care</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="389080"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HAIR</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <classifier class="indexing_service" type="descriptor">INVENTIONS AND INVENTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHAMPOO AND HAIR PREPARATIONS</classifier>
+        <person class="indexing_service">ANDREWS, EDMUND L</person>
+        <person class="indexing_service">TEHRANI, NASSER N</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901006T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DA143DF935A35753C1A966958260" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patents;   New Methods To Improve Hair Care</hl1>
+      </hedline>
+      <byline class="print_byline">By Edmund L. Andrews</byline>
+      <byline class="normalized_byline">ANDREWS, EDMUND L</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The quest for better beauty products has always produced a steady stream of new chemicals and devices as interest regularly shifts with the winds of fashion and changing circumstances. In the last few weeks, inventors have patented products intended to help cope with acid rain, air pollution and the growing pressures on women with fast-moving careers.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The quest for better beauty products has always produced a steady stream of new chemicals and devices as interest regularly shifts with the winds of fashion and changing circumstances. In the last few weeks, inventors have patented products intended to help cope with acid rain, air pollution and the growing pressures on women with fast-moving careers.</p>
+        <p>The quest for better beauty products has always produced a steady stream of new chemicals and devices as interest regularly shifts with the winds of fashion and changing circumstances. In the last few weeks, inventors have patented products intended to help cope with acid rain, air pollution and the growing pressures on women with fast-moving careers.</p>
+        <p>Shampoos often carry the claim that they are ''pH balanced,'' meaning that they contain a balance of acid and alkaline ingredients that matches that of hair. But this feature does not address the contradictory challenges of modern living, said Nasser N. Tehrani, a cosmetics chemist in Stamford, Conn. Bleaches and permanent waves can leave hair too alkaline, he said, while acid rain and air pollution can make it too acidic. As a result, he said, the proper pH level for a shampoo will vary with the circumstances.</p>
+        <p>To address this issue, Mr. Tehrani obtained a patent this week on what amounts to a litmus test for hair. The test employs a liquid containing two chemicals, bromthymol blue and methyl red, that change color in the presence of different pH levels. If drops of the liquid are applied to a fragment of hair and turn from green to yellow, the hair is more acidic than it should be, Mr. Tehrani said. If the drops turn blue, the hair is overly alkaline.</p>
+        <p>Mr. Tehrani, who said he was trying to license his invention, received patent 4,960,585.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Supercomputing Takes Yet Another Turn</title>
+    <meta content="20SUPE$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/11/20/technology/20SUPE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1248961"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Industry Profiles</classifier>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Industry Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E0DA1E3BF933A15752C1A9669C8B63" item-length="1436" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Supercomputing Takes Yet Another Turn</hl1>
+      </hedline>
+      <byline class="print_byline">By BARNABY J. FEDER</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>Dominance of supercomputing by companies that link clusters of standard processors is being challenged by startup companies offering methods of doing supercomputing over Internet on home and office computers that would otherwise be idle; grid computing companies have been able to sign up thousands of computer owners at low cost; some experts say broadening of market has diverted technology development away from needs of hard-core users, who require much more rapid data sharing than Internet grids or even dedicated clusters of off-the-shelf computers can generate; table of supercomputing developments; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The world of supercomputing, which revolves around modeling complex phenomena like how weather changes, drugs work and accidents unfold, is rarefied by any standard. It has long been the domain of folks who call themselves the nerdiest of nerds and who regard Deep Blue, the I.B.M. computer that defeated the chess champion Garry Kasparov, as no big deal.</p>
+        <p>Once, it was the exclusive province of custom-designed machines with elaborate cooling systems made by companies like I.B.M. and Cray Research for government research laboratories and giant auto, petroleum and chemical companies. Then, starting in the early 1990's, I.B.M. and new rivals like Hewlett-Packard, Sun Microsystems and Compaq Computer rapidly shifted to systems that lashed together the same processors used in common business computers, relying on software to break supercomputing's giant challenges into bite-size pieces.</p>
+      </block>
+      <block class="full_text">
+        <p>The world of supercomputing, which revolves around modeling complex phenomena like how weather changes, drugs work and accidents unfold, is rarefied by any standard. It has long been the domain of folks who call themselves the nerdiest of nerds and who regard Deep Blue, the I.B.M. computer that defeated the chess champion Garry Kasparov, as no big deal.</p>
+        <p>Once, it was the exclusive province of custom-designed machines with elaborate cooling systems made by companies like I.B.M. and Cray Research for government research laboratories and giant auto, petroleum and chemical companies. Then, starting in the early 1990's, I.B.M. and new rivals like Hewlett-Packard, Sun Microsystems and Compaq Computer rapidly shifted to systems that lashed together the same processors used in common business computers, relying on software to break supercomputing's giant challenges into bite-size pieces.</p>
+        <p>Now, in the latest wrinkle, the dominance of such clusters is being challenged by the arrival of start-up companies offering methods of doing supercomputing over the Internet on home and office computers that would otherwise be idle.</p>
+        <p>''There are 100 million machines hooked to the Internet, all of them doing nothing a lot of the time,'' said James Gannon, chief technology officer of Parabon Computation, one of several first-time exhibitors in Dallas this month at supercomputing's biggest trade show. ''This kind of inefficiency just can't exist in a free-market economy.''</p>
+        <p>The potential of such Internet-based supercomputing, also known as grid computing, has been highlighted by the SETI@Home project (for Search for Extraterrestrial Intelligence), a nonprofit effort that has signed up two million computer owners to help crunch data obtained by radio telescopes scanning the skies for signs of life. The program runs as a screen saver when the computers are otherwise idle. Averaging more than 12 trillion calculations a day, SETI has become one of the planet's busiest supercomputing efforts.</p>
+        <p>At the Dallas show, the start-ups advertising their efforts to build a grid computing business included companies like Applied MetaComputing, based in Charlottesville, Va., Entropia, based in San Diego, and KnowledgePort Alliance of Champaign, Ill.</p>
+        <p>And there was Mr. Gannon's company, Parabon, based in Fairfax, Va., which said in September that it had signed up so many computer owners in just 80 days that it could provide clients with enough computing power to rank among the top 100 supercomputers in the world.</p>
+        <p>The grid computing companies have, so far, been able to sign up thousands of computer owners simply by offering token payments, opportunities to be in lotteries or contributions to charity. But how many traditional supercomputing challenges will fit such a model is very much in doubt.</p>
+        <p>''The sector is going through a personality crisis,'' said Debra Goldfarb of the International Data Corporation, supercomputing's most prominent analyst.</p>
+        <p>The major vendors are not willing to invest much in sorting the trends out. The current market leaders -- Hewlett-Packard, I.B.M., and Sun Microsystems -- are tightly bunched with market shares of just more than 20 percent apiece. But the entire technical computing market accounted for just $5.7 billion in sales last year, according to International Data, and none of the major players outside of Cray treat supercomputing as a distinct business in their financial reporting.</p>
+        <p>The long-term trend toward building supercomputing systems out of products developed for other sectors has clearly spread access to supercomputing, but some experts say the broadening of the market has diverted technology development away from the needs of hard-core users, who make up a $1 billion niche market, according to International Data. They argue that many problems -- detailed weather prediction, the behavior of the Internet, an atomic perspective on how proteins behave or what happens to the organs and other soft tissues of passengers in auto crashes -- need much more rapid data sharing than Internet grids or even dedicated clusters of off-the-shelf computers can generate.</p>
+        <p>''We do the whole gamut of supercomputing, but the really tough problems get solved on real expensive hardware,'' said Vincent F. Scarafino, manager of numerically intensive computing at Ford Motor.</p>
+        <p>The big computer companies agree.  Hence plans like that of I.B.M. to invest more than $100 million in Blue Gene, a supercomputer dedicated to studying genetics and other fundamental problems in biology, or the Japanese government's commissioning of NEC to build the world's most powerful supercomputer, called the Earth Simulator, to study global warming, El Nino cycles and other global environmental events.</p>
+        <p>At issue, though, is the degree to which such computer users need -- and are willing to pay for -- custom-designed processors, networking, memory systems and software to optimize their performance. Even Seymour R. Cray, the designer of the earliest supercomputers, had given up the battle and turned to off-the-shelf components for the design he was working on at his last business venture, SRC Computers, when he died in 1996.</p>
+        <p>The major vendors say supercomputing's biggest challenge is developing software to use the available power efficiently in analyzing real-world problems.</p>
+        <p>''We've done spectacularly well from a hardware point of view,'' said Irving Wladawsky-Berger, who headed I.B.M.'s shift from traditional big-iron computers to systems based on arrays of processors. ''All those Porsches and nowhere to drive.''</p>
+        <p>No one doubts that better software would help, but how fully can it compensate for the vendors' retreat from investment in hardware designed specifically for supercomputing's toughest challenges? Ms. Goldfarb estimates that perhaps 20 percent of supercomputing problems are not easily broken down into pieces that can run efficiently in the highly distributed world of the Internet or even on dedicated clusters of commercial servers.</p>
+        <p>Researchers say tasks with many variables that are constantly changing and influencing each other require not just processing power, but also extremely rapid and wide paths for exchanging data, and advanced memory and database management and system designs that keep processors from being idle for even tiny fractions of a second. Thus, when supercomputers built with commercial operating systems around highly parallel arrays of standard processors tackle such challenges, they often perform at 5 percent of their rated speed or less.</p>
+        <p>As a result, the widely publicized, semiannual list of the world's most powerful supercomputers is misleading at best. Companies that do well in the listing use it for bragging rights -- most recently, I.B.M.'s presence in the ranking has been soaring -- but users and vendors alike agree that it is based on tests that have almost nothing to do with how useful the computers are.</p>
+        <p>Users are trying to come up with more realistic bench marks to help explain to Congress and other sources of financing why expensive computers that look slower on paper might be better buys. To underscore their concerns, they note that the record for sustained performance on a real application was set two years ago by a Cray computer running at little more than a fifth the speed rating of the I.B.M. computer that currently tops the raw speed rankings.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

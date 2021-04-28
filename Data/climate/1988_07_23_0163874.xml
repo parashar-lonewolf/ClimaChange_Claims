@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Acid Rain Ruling Upheld</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="163874"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND CLAIMS AGAINST GOVERNMENT</classifier>
+        <location class="indexing_service">NEW YORK STATE</location>
+        <location class="indexing_service">PENNSYLVANIA</location>
+        <location class="indexing_service">MAINE</location>
+        <location class="indexing_service">MIDWESTERN STATES (US)</location>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Maine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEED81E38F930A15754C0A96E948260" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Acid Rain Ruling Upheld</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, July 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A Federal appeals court today let stand the Environmental Protection Agency's 1984 denial of petitions from New York, Pennsylvania and Maine, seeking action against acid rain originating in smokestacks in the Midwest.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A Federal appeals court today let stand the Environmental Protection Agency's 1984 denial of petitions from New York, Pennsylvania and Maine, seeking action against acid rain originating in smokestacks in the Midwest.</p>
+        <p>A Federal appeals court today let stand the Environmental Protection Agency's 1984 denial of petitions from New York, Pennsylvania and Maine, seeking action against acid rain originating in smokestacks in the Midwest.</p>
+        <p>New York's case was ordered returned to the agency for new data because Federal air quality standards have changed since the cases were filed in 1980 and 1981 .</p>
+        <p>The three states had argued, before a three-judge panel of the United States Court of Appeals for the District of Columbia, that sulfur dioxide emitted from coal-burning utility plants and factories in seven Midwest states made it impossible for them to meet the Federal standards, and that the E.P.A. was required to force those states to revise their air pollution control plans.</p>
+        <p>But the court said that Congress, not the judiciary, was the proper forum for giving the E.P.A. guidance on the issue.</p>
+        <p>New York had argued that the western part of the state was violating standards for smoke, dust and soot. The state suggested in its appeal that it would be willing to gather new data in an effort to show that it could not comply with the revised E.P.A. regulations. The court accepted that suggestion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

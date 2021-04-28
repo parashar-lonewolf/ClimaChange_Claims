@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Scriba: Brief Nuclear Plant Evacuation</title>
+    <meta content="MB013656" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1381074"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Nine Mile Point Nuclear Plant</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <location class="indexing_service">New York State</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1DA103AF930A35757C0A9649C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Scriba: Brief Nuclear Plant Evacuation</hl1>
+      </hedline>
+      <byline class="print_byline">By Winnie Hu (NYT) (Compiled by Anthony Ramirez)</byline>
+      <abstract>
+        <p>Hundreds of employees at Nine Mile Point Nuclear Power Station are briefly evacuated after small amount of carbon dioxide is accidentally released in turbine building (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hundreds of employees at the Nine Mile Point Nuclear Station were briefly evacuated early yesterday morning after a small amount of carbon dioxide was accidentally released in a turbine building. The gas came from hoses in the plant's fire prevention system. The employees returned to work in less than an hour, after the discharge was isolated and the plant was found to be safe. Bob Burtch, a spokesman for the plant, said the cause of the accident was not immediately clear.</p>
+        <p>Winnie Hu (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Hundreds of employees at the Nine Mile Point Nuclear Station were briefly evacuated early yesterday morning after a small amount of carbon dioxide was accidentally released in a turbine building. The gas came from hoses in the plant's fire prevention system. The employees returned to work in less than an hour, after the discharge was isolated and the plant was found to be safe. Bob Burtch, a spokesman for the plant, said the cause of the accident was not immediately clear.</p>
+        <p>Winnie Hu (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

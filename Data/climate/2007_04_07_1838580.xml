@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Late Changes Made Report More Dire, and Less</title>
+    <meta content="07cside" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838580"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEEDB143FF934A35757C0A9619C8B63" item-length="525" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Late Changes Made Report More Dire, and Less</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Since it was created in 1988, the Intergovernmental Panel on Climate Change has been criticized from all sides at one time or another.</p>
+        <p>Some scientists and industry representatives contend that it has played up dire findings; earlier this year, other scientists and environmental campaigners complained that its forecasts for rising seas in a warming world were far too conservative.</p>
+      </block>
+      <block class="full_text">
+        <p>Since it was created in 1988, the Intergovernmental Panel on Climate Change has been criticized from all sides at one time or another.</p>
+        <p>Some scientists and industry representatives contend that it has played up dire findings; earlier this year, other scientists and environmental campaigners complained that its forecasts for rising seas in a warming world were far too conservative.</p>
+        <p>The summaries of the panel's voluminous reports are fought over with particular vigor, especially at the point when they must pass muster with governments before they are officially approved.</p>
+        <p>In final work among authors and a late-night showdown between authors and government officials, the wording of the latest report was adjusted in some cases to play up uncertainty and in others to spell out the downside of climate-related trends. In at least one section, on climate impacts in Europe, those with a more dire view clearly had their way.</p>
+        <p>From the final draft of the summary of the report, ''Climate Change Impacts, Adaptation and Vulnerability,'' as it existed early this week:</p>
+        <p>''In Southern Europe, climate change is very likely to have negative impacts by increasing risk to health due to more frequent heat waves, reducing water availability and hydropower, endangering crop production, and increasing the frequency of wildfires.</p>
+        <p>''In Northern Europe, climate change is likely to bring benefits in the form of reduced exposure to cold periods, increased crop yields, increased forest and Atlantic waters productivity, and augmented hydropower potential.''</p>
+        <p>From the final summary released on Friday:</p>
+        <p>''In Southern Europe, climate change is projected to worsen conditions (high temperatures and drought) in a region already vulnerable to climate variability, and to reduce water availability, hydropower potential, summer tourism, and in general, crop productivity. It is also projected to increase health risks due to heat waves and the frequency of wildfires.</p>
+        <p>''In Central and Eastern Europe, summer precipitation is projected to decrease, causing higher water stress.</p>
+        <p>''Health risks due to heat waves are projected to increase. Forest productivity is expected to decline and the frequency of peatland fires to increase.</p>
+        <p>''In Northern Europe, climate change is initially projected to bring mixed effects, including some benefits such as reduced demand for heating, increased crop yields and increased forest growth. However, as climate change continues, its negative impacts (including more frequent winter floods, endangered ecosystems and increasing ground instability) are likely to outweigh its benefits.''</p>
+        <p>At the same time, under pressure from government representatives, one passage in the final draft from early in the week was altered to lessen the sense of danger, according to several authors.</p>
+        <p>This is the original version:</p>
+        <p>''Hundreds of millions of people are vulnerable to flooding due to sea-level rise, especially in densely populated and low-lying settlements where adaptive capacity is relatively low and which already face other challenges such as tropical storms or local coastal subsidence.''</p>
+        <p>This is the final version:</p>
+        <p>''Many millions more people are projected to be flooded every year due to sea-level rise by the 2080s. Those densely populated and low-lying areas where adaptive capacity is relatively low, and which already face other challenges such as tropical storms or local coastal subsidence, are especially at risk.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

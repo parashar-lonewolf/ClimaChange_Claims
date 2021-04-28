@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Saturday News Quiz</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="268017"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NEWS AND NEWS MEDIA</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DC163CF931A15754C0A96F948260" item-length="411" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Saturday News Quiz</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA AMSTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Questions are based on news reports in The Times this week. Answers appear on page 48.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Questions are based on news reports in The Times this week. Answers appear on page 48.</p>
+        <p>Questions are based on news reports in The Times this week. Answers appear on page 48.</p>
+        <p>1. Despite appearances, these may be a cool smile and a warm frown. Explain.</p>
+        <p>2. George Bush's debut in the international economic arena differed significantly from the approach of Presidents who had attended the 14 previous economic summit conferences of the Group of Seven. Explain.</p>
+        <p>3. The Census Bureau agreed to conduct a second census next year, a random survey of 150,000 housing units. What is the reason?</p>
+        <p>4. The fundamental facts of nature show that one of the surest ways to ease the threat of global warming is also one of the simplest and cheapest. What is it and why is it effective?</p>
+        <p>5. A recent meeting between the United States and the Palestine Liberation Organization prompted many members of Congress who had favored such dialogues to support legislation restricting them. What was the reason?</p>
+        <p>6. Even before they set one foot on Antarctica, six adventurers who left Minneapolis for a seven-month trek across the frozen continent had scaled heights no explorer had reached before. What did they achieve?</p>
+        <p>7. The movement toward more legalized gambling took an unusual step as a result of an action in Oregon. What happened?</p>
+        <p>8. Candidates in New York City's mayoral campaign are in rare accord about an issue involving the criminal justice system. On what do they agree?</p>
+        <p>9. The United States has new official treasures - 25 movies. What are the circumstances?</p>
+        <p>10. Solidarity delegates to the new Polish Parliament wanted Gen. Wojciech Jaruzelski to be elected President, but without having to vote for him themselves. How did they assure his victory?</p>
+        <p>11. Doctors offered advice on preventing measles in young people and heart attacks in older men. What did they recommend in each case?</p>
+        <p>12. Defense Secretary Dick Cheney assailed a decision by Commerce Secretary Robert A. Mosbacher. What was the decision and what was Mr. Cheney's objection?</p>
+        <p>13. Although President Bush set long-term goals for manned space missions at ceremonies commemorating the 20th anniversary of the Apollo 11 Moon landing, skepticism over his commitment to the ventures he outlined was expressed. What was the reason?</p>
+        <p>14. The National Football League took a major step toward capitalizing on the growing popularity of American sports around the world. What did the league do?</p>
+        <p>15. The President of Nairobi lit an unusual bonfire. What did he burn and why?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

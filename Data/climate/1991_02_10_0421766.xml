@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology; Keeping Track of a Hermetic Universe</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="421766"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOSPHERE 2 (ORACLE, ARIZ)</classifier>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <org class="indexing_service">GENSYM CORP</org>
+        <person class="indexing_service">RIFKIN, GLENN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DA123BF933A25751C0A967958260" item-length="1185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology; Keeping Track of a Hermetic Universe</hl1>
+      </hedline>
+      <byline class="print_byline">By GLENN RIFKIN; Glenn Rifkin writes frequently about technology. He is based in Sudbury, Mass.</byline>
+      <byline class="normalized_byline">RIFKIN, GLENN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Next month, one of the most complex software packages ever designed will get a chance to prove itself in the middle of the Sonoran Desert near Tucson, Ariz. There, in Biosphere II, a structure that looks like a combination greenhouse and futuristic shopping mall, eight scientists will seal themselves inside for two years. Their environment will be controlled by G2, the most advanced of a new batch of computer programs, known as expert systems, that are designed to mimic human decision-making.</p>
+        <p>The long-term hope is that this experiment will show that human colonies in space or on other planets can be made both viable and self-sustaining. The experiment will also give the field of expert systems a chance to prove itself over a long period of time and in an extremely complex environment.</p>
+      </block>
+      <block class="full_text">
+        <p>Next month, one of the most complex software packages ever designed will get a chance to prove itself in the middle of the Sonoran Desert near Tucson, Ariz. There, in Biosphere II, a structure that looks like a combination greenhouse and futuristic shopping mall, eight scientists will seal themselves inside for two years. Their environment will be controlled by G2, the most advanced of a new batch of computer programs, known as expert systems, that are designed to mimic human decision-making.</p>
+        <p>The long-term hope is that this experiment will show that human colonies in space or on other planets can be made both viable and self-sustaining. The experiment will also give the field of expert systems a chance to prove itself over a long period of time and in an extremely complex environment.</p>
+        <p>The latest version of G2, released last week, will supervise the monitoring and analysis functions of the environment inside Biosphere II, recording minute changes in its air temperature, weather and gas concentrations. Contained within the program is a wealth of human expertise about chemistry, biology and ecological systems. The program will also monitor the experiment's computer network and will be responsible for avoiding crises that could threaten the experiment.</p>
+        <p>"G2 will alert the scientist to such things as runaway carbon dioxide, something you'd want to detect immediately," said Lowell B. Hawkinson, chairman of the Gensym Corporation of Cambridge, Mass., which created the G2 system.</p>
+        <p>Gensym introduced the first version of G2 in 1988 as a means of monitoring and controlling complex, rapidly changing processes of various types as they are occurring in what computer programmers call real time. This use, called process control, has wide applicability throughout industry, especially in manufacturing and in areas like power generation where a number of companies are already using it. G2 is designed so it can be customized. Since 1988, 600 G2 packages have been sold to more than 250 customers including Du Pont, Texaco, Boeing, Nissan, McDonnell Douglas, I.B.M. and Nynex.</p>
+        <p>The software, written in a computer language called Lisp, runs on a variety of Unix-based work stations and sells for $18,000 to $70,000.</p>
+        <p>While other expert systems can monitor complex processes and other variables like changes in temperature, speed and rotation, most of them cannot do it in real time. Nor can these other programs handle as many different variables as G2 does at once.</p>
+        <p>G2 monitors and controls these thousands of variables each second by using rules that are derived from the way experts actually think and work. A rule, for example, might be for a valve on an oil tank to open when pressure limits are reached and excess fluid or gas must be burned off. G2 does this job for Texaco.</p>
+        <p>With G2, rules can be as simply phrased as: "as soon as X happens, do Y." G2 can be programmed with everyday language.</p>
+        <p>While most expert systems process only a few rules a second, G2 processes hundreds of rules a second. Its knowledge base can contain thousands of rules enabling the program to keep track of complex processes.</p>
+        <p>According to John Girard, a senior analyst with New Sciences Associates, a computer consulting firm in Southport, Conn., both the International Business Machine Corporation and the NEC Corporation of Japan, two of the world's biggest computer makers, are looking closely at expert systems, including G2, for process-control applications.</p>
+        <p>"Every large company in the United States employs process control to some degree," said Harvey Newquist, an artificial intelligence analyst with the Relayer Group in Phoenix. "The potential for expert systems here is greater than anyone can imagine. Virtually every company is a potential customer."</p>
+        <p>According to the Spang Robinson Report, a computer industry newsletter, the current market for expert systems for process control is about $40 million a year, while the market for ordinary process-control software -- which expert systems like G2 could replace -- is about $1.5 billion.</p>
+        <p>Gensym, which has revenues of about $8 million, was started in 1986 by a group of engineers from the now-defunct Lisp Machines Inc., of Cambridge, Mass., a company set up in the early 1980's to develop computers and programs that mimic human intelligence. The rest of the market for expert systems is divided among a large number of companies, including such new entries as Mitech in Concord, Mass., Artificial Intelligence Technologies in Hawthorne, N.Y., and Real Time Systems Inc. in Don Mills, Ontario, that have fielded programs to compete with G2. None of these other programs are as successful as G2.</p>
+        <p>When Biosphere II begins its operation next month, G2 will control 7 million cubic feet of atmosphere that will circulate freely among the rooms of the structure. According to Mr. Girard, there is no room for error. "Any breakdown in cooperation between environments could render the Biosphere uninhabitable in a few days to a few hours."</p>
+        <p>Norberto Alvarez-Romo, director of cybernetic systems for Biosphere II, is not concerned about leaving these crucial tasks to a computer. He doesn't foresee a potential "2001: A Space Odyssey" scenario in which HAL, the on-board computer in the movie and book, malfunctions.</p>
+        <p>"G2 is handling critical work, but it's not the supreme commander," Mr. Alvarez-Romo said. Ultimate decision-making authority is still with the scientists.</p>
+        <p>The National Aeronautics and Space Administration has been using G2 for several critical functions on its shuttle flights since October 1989. According to Troy Heindel, a flight controller at Mission Control at the Johnson Space Center in Houston, G2 monitors 16,000 data points per second, gathering such information as temperature, voltages, availability of jet thrusters, condition of on-board computers and instrumentation.</p>
+        <p>"The system monitors the availability and control of 38 reaction control system jets," said Mr. Heindel. "The jets let you move around in space and if you lose one, it's hard to know which one. The expert system lets you know what you can do in real time. It has the potential to really improve the quality of the decision-making."</p>
+        <p>A Japanese consortium led by the Ministry of Trade and Industry is incorporating G2 in a nationwide emergency response support system for all its nuclear power plants.</p>
+        <p>"I see G2 as the best chance to avoid another Chernobyl, Three Mile Island or Exxon Valdez," said Ed Fredkin, a researcher in artificial intelligence at the Massachusetts Institute of Technology and a Gensym board member.</p>
+        <p>Although earlier versions of G2 have been selling well, expert systems in general have been far less successful than had been expected when they were introduced in the 80's.</p>
+        <p>"The problem with expert systems has been a 'one size fits all' mentality," said Mr. Newquist. Users of the early systems also found them difficult to integrate the programs into existing software enviroments. G2's success, is based on its ability to do its task in real time. Older systems, were "just way too slow."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

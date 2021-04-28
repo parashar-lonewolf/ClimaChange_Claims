@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Northwest: Washington: Eruptions Are Pollution Source</title>
+    <meta content="MB013334" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1631791"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Volcanoes</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Sulfur Dioxide</classifier>
+        <location class="indexing_service">Mount St Helens (Washington)</location>
+        <person class="indexing_service">Sanders, Eli</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington/Mount St. Helens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Volcanoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E0DC1631F930A35751C1A9629C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Northwest: Washington: Eruptions Are Pollution Source</hl1>
+      </hedline>
+      <byline class="print_byline">By Eli Sanders (NYT)</byline>
+      <byline class="normalized_byline">Sanders, Eli</byline>
+      <abstract>
+        <p>Mount St Helens, which began series of small eruptions in October, has become Washington State's biggest polluter, each day spewing 50 to 250 tons of sulfur dioxide; experts say volcano's remote site mitigates danger to humans (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mount St. Helens, which began a series of small eruptions in October, has become the state's biggest polluter. Each day the mountain is spewing 50 to 250 tons of sulfur dioxide, which causes acid rain and breathing problems. ''On a daily basis, it's bigger than any single source in the state,'' said Clint Bowman, an atmospheric physicist with the state's Department of Ecology. Experts say the volcano's remote site should mitigate effects of the gasses on humans.</p>
+        <p>Eli Sanders (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Mount St. Helens, which began a series of small eruptions in October, has become the state's biggest polluter. Each day the mountain is spewing 50 to 250 tons of sulfur dioxide, which causes acid rain and breathing problems. ''On a daily basis, it's bigger than any single source in the state,'' said Clint Bowman, an atmospheric physicist with the state's Department of Ecology. Experts say the volcano's remote site should mitigate effects of the gasses on humans.</p>
+        <p>Eli Sanders (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

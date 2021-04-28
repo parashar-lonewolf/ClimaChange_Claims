@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Too Many Cars Are Heating Up the Air</title>
+    <meta content="LTR220118" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1129523"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Levine, Liz</person>
+        <person class="indexing_service">Herbert, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990809T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E3DB1130F93AA3575BC0A96F958260" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Too Many Cars Are Heating Up the Air</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Liz Levine on Bob Herbert's Aug 5 column on human activities that contribute to global warming</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bob Herbert (column, Aug. 5) mentions that human activities contribute to global warming, but he doesn't emphasize enough the link between the enhancement of the natural greenhouse effect -- an increase in heat-trapping greenhouse gases -- and automotive emissions. As a result of the refusal by millions of commuters to take mass transportation instead of driving their cars, New York City shares top honors with Chicago, Philadelphia, Boston and Houston for the highest smog production. And in Philadelphia, the continuous construction of multilevel parking garages in a city already glutted with cars is only encouraging more people to take to the roads.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bob Herbert (column, Aug. 5) mentions that human activities contribute to global warming, but he doesn't emphasize enough the link between the enhancement of the natural greenhouse effect -- an increase in heat-trapping greenhouse gases -- and automotive emissions. As a result of the refusal by millions of commuters to take mass transportation instead of driving their cars, New York City shares top honors with Chicago, Philadelphia, Boston and Houston for the highest smog production. And in Philadelphia, the continuous construction of multilevel parking garages in a city already glutted with cars is only encouraging more people to take to the roads.</p>
+        <p>New York City, with its well-run transit system and fare incentives can -- and should -- do better at coaxing people to modify their car use and put the money they save from tolls into purchasing rides on public transportation.</p>
+        <p>LIZ LEVINE  Philadelphia, Aug. 6, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

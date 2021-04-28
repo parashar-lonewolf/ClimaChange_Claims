@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bigger Threat to Earth</title>
+    <meta content="19lett-4" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1791264"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E6DA1031F93AA2575AC0A9609C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bigger Threat to Earth</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Updating Prescriptions for Avoiding Worldwide Catastrophe'' (Conversation, Sept. 12), the scientist James Lovelock makes the absurd claim that ''even the results of an all-out nuclear war pale into insignificance as unimportant compared to what's going to happen'' with global warming. Rather, the nuclear winter after such a war would lead to mass starvation, killing most of the world's population.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Updating Prescriptions for Avoiding Worldwide Catastrophe'' (Conversation, Sept. 12), the scientist James Lovelock makes the absurd claim that ''even the results of an all-out nuclear war pale into insignificance as unimportant compared to what's going to happen'' with global warming. Rather, the nuclear winter after such a war would lead to mass starvation, killing most of the world's population.</p>
+        <p>Gradual global warming is a serious threat, but the climatic effects of nuclear war would be much worse, and are the greatest potential environmental danger to our civilization.</p>
+        <p>Alan Robock  New Brunswick, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="200580"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEED71331F931A15752C1A96E948260" item-length="435" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Q.If water seeks its own level, shouldn't all the major connected bodies of water find a single sea level? Why are locks necessary in the Panama Canal, linking the Atlantic and Pacific, for example?  A.While scientists have calculated a mean sea level for the Earth as a whole, it is only a mathematical average value taken from a series of observations around the world.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Q.If water seeks its own level, shouldn't all the major connected bodies of water find a single sea level? Why are locks necessary in the Panama Canal, linking the Atlantic and Pacific, for example?  A.While scientists have calculated a mean sea level for the Earth as a whole, it is only a mathematical average value taken from a series of observations around the world.</p>
+        <p>Q.If water seeks its own level, shouldn't all the major connected bodies of water find a single sea level? Why are locks necessary in the Panama Canal, linking the Atlantic and Pacific, for example?  A.While scientists have calculated a mean sea level for the Earth as a whole, it is only a mathematical average value taken from a series of observations around the world. In fact, there is no single ''sea level,'' and the large bodies of water in the world have different and constantly varying levels because of several factors, according to Eric Wood, a Princeton University hydrologist.</p>
+        <p>''Take Panama,'' he said. ''The oceans aren't at the same level. They are connected at the bottom of South America, but as the world spins around, you get rises and falls in the sea level at different points.'' (It would have been theoretically possible to dig a ''sea-level'' canal, he said, and water within such canal would theoretically find its own average level, but the idea was rejected because of the expense of digging that deep. Locks over the highlands of Central America were chosen instead.) Further, he said, the influence of the Moon's gravity, which causes tides, varies depending on position relative to the Moon.</p>
+        <p>''It takes time for water to flow, and all these things change faster than water can accommodate to,'' Professor Wood said.  Sea levels can even vary from one side of a large island to another, as they do around Vancouver Island in Canada, he added.</p>
+        <p>Scientists also cite differences in the amount of water returned to the oceans from the continents. For example, several giant rivers feed the Atlantic Ocean, but only a few empty into the Pacific Ocean.  Q.If hot air rises, why do we get snow-capped mountains?  A.''Hot air undoubtedly rises, because it is less dense than the cold air next to it,'' said James C. G. Walker, professor of atmospheric science at the University of Michigan, Ann Arbor. ''A hot-air balloon rises, for example, like a cork floating in water.''</p>
+        <p>''However, as the air moves up, it expands and gets colder,'' he explained. ''It is the same expansion-and-cooling priniciple that makes a refrigerator work, because the molecules are moving away from one another and slowing down as the pressure steadily decreases.''</p>
+        <p>The pressure decreases, he added, because there is less and less air to weigh down on the atmosphere below.</p>
+        <p>Therefore, the air at higher altitudes is almost always cold, no matter how hot it was to begin with, and by the time it gets to the top of a high mountain, it is cold enough to allow for snow-capped peaks.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

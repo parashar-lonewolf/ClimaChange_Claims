@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Method to Filter High-Sulfur Coal Gas</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="215950"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="PATENTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACID RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">INVENTIONS AND INVENTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">COAL</classifier>
+        <classifier class="indexing_service" type="descriptor">SULFUR AND SULFUR COMPOUNDS</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <org class="indexing_service">NOXSO CORP</org>
+        <person class="indexing_service">ANDREWS, EDMUND L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4DB1138F932A15752C0A96F948260" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Method to Filter High-Sulfur Coal Gas</hl1>
+      </hedline>
+      <byline class="print_byline">By Edmund L. Andrews</byline>
+      <byline class="normalized_byline">ANDREWS, EDMUND L</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Noxso Corporation, a small company in Library, Pa., has developed a new method for filtering the exhaust from electric power plants that burn high-sulfur coal.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Noxso Corporation, a small company in Library, Pa., has developed a new method for filtering the exhaust from electric power plants that burn high-sulfur coal.</p>
+        <p>The Noxso Corporation, a small company in Library, Pa., has developed a new method for filtering the exhaust from electric power plants that burn high-sulfur coal.</p>
+        <p>The coal is abundant in the Eastern United States, but the gases created in its burning are considered by many as a leading cause of acid rain.</p>
+        <p>Noxso said the new process removes 90 percent of both the sulfur oxides and nitrogen oxides from plant smoke. At the heart of the process are tiny absorbent beads, previously patented by Noxso, that are made from an aluminum oxide and coated with sodium carbonate.</p>
+        <p>The new patent outlines a processing operation, in which smoke from the power plant is channeled through a tank filled with the beads, which absorbs the unwanted gases before letting the exhaust escape into the air. The beads are then cleansed in a heated chamber and recycled. The sulfur and nitrogen oxides are broken down into their basic elements.</p>
+        <p>By one estimate, the process would add 10 percent to the cost of a plant's electricity, said L. G. Neal, president of Noxso. A pilot plant, financed by the Department of Energy, is expected to become operational in a year.</p>
+        <p>Dr. Neal and co-inventors John L. Haslbeck and Hsiaopin Tseng received patent 4,798,711.</p>
+        <p>PATENTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

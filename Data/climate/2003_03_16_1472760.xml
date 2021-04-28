@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>March 9-15; HANS BLIX'S GREATEST FEAR</title>
+    <meta content="16QUOT$07" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/03/16/weekinreview/16QUOT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1472760"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Quote of the Week"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <org class="online_producer">United Nations</org>
+        <person class="online_producer">Blix, Hans</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030316T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE2D71E3EF935A25750C0A9659C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>March 9-15; HANS BLIX'S GREATEST FEAR</hl1>
+        <hl2 class="online_headline">Hans Blix's Greatest Fear</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hans Blix, the chief United Nations inspector, has his hands full tracing weapons in Iraq. But in an interview on MTV News, asked whether ''there's an increasing unilateralist bent in the United States government,'' Mr. Blix replied that on many other issues the United States must be multilateral:</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When asked whether "there's an increasing unilateralist bent in the United States government," Hans Blix, the chief United Nations inspector, replied that on many other issues the U.S. must be multilateral.</p>
+      </block>
+      <block class="full_text">
+        <p>Hans Blix, the chief United Nations inspector, has his hands full tracing weapons in Iraq. But in an interview on MTV News, asked whether ''there's an increasing unilateralist bent in the United States government,'' Mr. Blix replied that on many other issues the United States must be multilateral:</p>
+        <p>''To me the question of the environment is more ominous than that of peace and war. We will have regional conflicts and use of force, but world conflicts I do not believe will happen any longer. But the environment, that is a creeping danger. I'm more worried about global warming than I am of any major military conflict.''</p>
+        <p>Quote of the Week</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

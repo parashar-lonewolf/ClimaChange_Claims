@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology; A Promising Way to Cut Nitrogen Oxides at Power Plants</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="539385"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">NITROGEN OXIDE</classifier>
+        <org class="indexing_service">LONG ISLAND LIGHTING CO (LILCO)</org>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920628T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2D91131F93BA15755C0A964958260" item-length="1207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology; A Promising Way to Cut Nitrogen Oxides at Power Plants</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+      <dateline>PORT JEFFERSON, L.I.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the right price, any pollutant can be cleaned up, but as standards get stricter, increasingly the trick is to find the technology that does the job with the minimum of resources. In a widely watched experiment at the Long Island Lighting Company's oil-fired generating station here, engineers think they have found a cost-effective way to take nitrogen oxides out of power plant emissions.</p>
+        <p>Historically, utilities have not focused on nitrogen oxides. They have had their hands full with two other pollution problems: sulfur dioxide, the prime cause of acid rain, and particulates, or soot. But, acting under provisions of the Clean Air Act of 1990, New York, New Jersey and the six New England states recently agreed to strict new standards on nitrogen oxide emissions from power plants.</p>
+      </block>
+      <block class="full_text">
+        <p>For the right price, any pollutant can be cleaned up, but as standards get stricter, increasingly the trick is to find the technology that does the job with the minimum of resources. In a widely watched experiment at the Long Island Lighting Company's oil-fired generating station here, engineers think they have found a cost-effective way to take nitrogen oxides out of power plant emissions.</p>
+        <p>Historically, utilities have not focused on nitrogen oxides. They have had their hands full with two other pollution problems: sulfur dioxide, the prime cause of acid rain, and particulates, or soot. But, acting under provisions of the Clean Air Act of 1990, New York, New Jersey and the six New England states recently agreed to strict new standards on nitrogen oxide emissions from power plants.</p>
+        <p>The reason for the new emphasis is that nitrogen oxides are an ingredient of ground-level ozone, or smog. Washington forced the auto industry to cut nitrogen oxide emissions by more than 75 percent per car, and now the states are turning their attention to the remaining sources. Power plants are at the top of the list, and in an era when few new ones are being built, reducing emissions means cleaning up the old ones.</p>
+        <p>There are several ways to reduce emissions. Some plants have tuned their boilers to produce lower peak temperatures, so conditions are less favorable for formation of nitrogen oxides. Some inject air or natural gas above the flame zone in the boiler, to re-burn nitrogen oxides present at that stage. Both methods are fairly inexpensive but may not produce a reduction in nitrogen oxides large enough to meet pollution standards.</p>
+        <p>Selective catalytic reduction, using a catalytic converter somewhat like the one on a car, can cut emissions by 80 percent to 90 percent. But it uses expensive metals, like vanadium and titanium, and can require a one-time investment of $50 to $100 per kilowatt of capacity, a price that may be hard to justify on old generating stations. The catalyst also requires periodic purifying, a step that produces toxic waste.</p>
+        <p>Now engineers think they have a simpler way. The process under test here by Nalco/ Fueltech of Naperville, Ill., is called selective noncatalytic reduction and involves injecting a chemical into the furnace to break down the nitrogen oxides. The capital cost will probably be $10 to $20 per kilowatt of capacity, according to Lilco. At Port Jefferson 3, a 185-megawatt station completed in 1958, the cost of the chemical, at 93 cents a gallon, comes to about $1,600 a day, a small increment to the fuel cost, which is about $85,000 a day at current prices for heavy low-sulfur oil.</p>
+        <p>The injected chemical is urea, a common, nontoxic substance most often used as fertilizer. On paper the reaction looks simple; the chemical formula for urea is NH2 CONH2 , and when it reacts with NO and NO2 , it produces N2 , or elemental nitrogen, which is the main ingredient of ordinary air, plus two other nontoxic products, CO2 and H2 0.</p>
+        <p>The experiment, which began this month, is sponsored by the Electric Power Research Institute, a nonprofit utility consortium based in Palo Alto, Calif., along with the New York State Energy Research and Development Authority, Lilco itself, two other investor-owned utilities and an association of utilities in New York.</p>
+        <p>But the project, costing $3.1 million, is proving that nothing is ever as simple as it looks. The desired reaction occurs efficiently only between 1,700 and 2,000 degrees Fahrenheit. In the "flame zone" of the boiler, the temperature is 2,500 to 3,500 degrees. "We need to find the 'sweet spot' where the temperature is right," said Robert D. Teetz, manager of the chemical division at Lilco's environmental engineering department. In a boiler 100 feet high, with gas rushing by at 4 feet per second, there must be a location where the gas is in that range at least briefly. But where?</p>
+        <p>The answer, extensive study has found, is that it depends on the power level of the plant. At full power, 185 megawatts, the sweet spot is near the top of the boiler. At low power, it is about halfway up. And even operating at a steady power level, the temperature map is surprising: while heat generally dissipates as gases leave the flame zone, the gases are swirling and the furnace grows narrower at the top, so there are hot spots higher up.</p>
+        <p>Drawing a map of temperatures in the boiler required another new technology, an acoustic pyrometer, which sends sound waves across the boiler, which is 28 feet wide and 40 feet long, and measures their transit time. Hot gas conducts sound waves faster than cooler gas, allowing temperature measurement.</p>
+        <p>Temperature map in hand, engineers working with urea in a 10 percent solution with water then inserted injection nozzles at two elevations in the boiler, and at the top. The job is complicated because any liquid that hits metal will cause corrosion. In addition, the urea solution tends to turn into crystals and clog the injectors unless all the storage pipes and tanks are kept warm. But the injectors themselves, although made of stainless steel, have to be cooled by water to keep them from melting in the furnace.</p>
+        <p>Without injection, the plant was producing about 310 parts per million of nitrogen oxides on one recent morning, compared with a proposed standard for the Northeast of 190 parts per million for oil-fired plants of Port Jefferson's type.</p>
+        <p>But the initial results of selective non-catalytic reduction are promising: pumping in about 100 gallons an hour, engineers measured a reduction of more than 40 percent, which would bring this plant into compliance.</p>
+        <p>With better knowledge of such variables as optimum droplet size, urea concentration and total volume of liquid, the engineers hope to achieve a 50 percent reduction. And although the rules have not been fully developed, utilities believe that they will be able to average emissions among plants, as is being done increasingly with other pollutants, so that they can install a stricter-than-required emission control system on one boiler and be allowed to run another boiler nearby without having to clean it up.</p>
+        <p>"It's very likely that there will be some options for averaging, so utilities will be looking for options like this, as they formulate a general compliance plan," said David Eskinazi, manager of air quality projects at E.P.R.I. The industry, he said, needs to examine as wide a range of options as possible, and this is one of them.</p>
+        <p>Michael J. Bradley, an air pollution regulator, said that the standards for electric generating stations had been predicated on combustion modifications, like tuning the boilers. Mr. Bradley is the director of the Northeast States for Coordinated Air Use Management, an eight-state organization that reached an agreement on standards for utilities.</p>
+        <p>Employing urea injection, said Mr. Bradley, would mean reducing nitrogen oxide emissions more than required at a given plant, and creating emission reduction credits, which could probably be bought and sold among utilities, or used within a utility. Selective noncatalytic reduction, he said, is "an extremely promising approach," and an example of a technique invented to meet new regulations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

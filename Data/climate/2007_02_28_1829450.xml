@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Action on Climate Change</title>
+    <meta content="l28warming" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1829450"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Stern, Nicholas (Sir)</person>
+        <person class="indexing_service">Leonhardt, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070228T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E3DE1F3EF93BA15751C0A9619C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Action on Climate Change</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Sir Nicholas Stern, adviser to British government and author of Stern Review on the Economics of Climate Change, says Feb 21 Economix column did not precisely characterize his views</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Amid the Ivy, a Battle About the Climate'' (Economix column, Feb. 21):</p>
+        <p>David Leonhardt, in his elegant account of my recent debate on climate change with Prof. William Nordhaus and others at Yale, argues that my work does not embody discounting; in fact it does.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Amid the Ivy, a Battle About the Climate'' (Economix column, Feb. 21):</p>
+        <p>David Leonhardt, in his elegant account of my recent debate on climate change with Prof. William Nordhaus and others at Yale, argues that my work does not embody discounting; in fact it does.</p>
+        <p>Professor Nordhaus and I broadly agree on the importance of action and on the choice of policy tools, particularly prices and taxes, to guide action. We differ only on pace and scale. The difference stems in part from a fuller treatment of risk in my work and in part from discounting the future.</p>
+        <p>My analysis places much lower weight on a future dollar than a dollar now, for the ethical reasons that future generations may have higher consumption and that there is a (small) possibility of extinction, for example from a meteorite.</p>
+        <p>Professor Nordhaus advocates further discounting for the dubious reason that those born later have less significance. But reasonable people can differ on ethical issues.</p>
+        <p>(Sir) Nicholas Stern  London, Feb. 23, 2007</p>
+        <p>The writer is an adviser to the British government and the author of The Stern Review on the Economics of Climate Change.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

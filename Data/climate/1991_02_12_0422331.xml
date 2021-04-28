@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Cause Of Concern On Global Warming</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="422331"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">METHANE</classifier>
+        <classifier class="indexing_service" type="descriptor">GASES</classifier>
+        <location class="indexing_service">ARCTIC REGIONS</location>
+        <org class="indexing_service">LOS ALAMOS NATIONAL LABORATORY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DD1E38F931A25751C0A967958260" item-length="336" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Cause Of Concern On Global Warming</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A CHEMICAL that limits heat-trapping methane in the atmosphere has been significantly depleted in the Northern Hemisphere, according to a computerized simulation of atmospheric processes by scientists at the Los Alamos National Laboratory in New Mexico.</p>
+        <p>The naturally occurring chemical, called a hydroxyl radical, consists of an oxygen atom and a hydrogen atom. It destroys methane, a highly potent "greenhouse" gas that blocks the escape of heat from the atmosphere into space. Methane, along with other greenhouse gases like carbon dioxide and chlorofluorocarbons, has been increasing as a result of human activity, and scientists predict that this will cause the earth's climate to warm.</p>
+        <p>The findings at Los Alamos suggest that while more methane is being emitted into the atmosphere, less is being destroyed there naturally. Earlier studies showed that there was less of the hydroxyl radical, also called the OH radical, in the Northern Hemisphere than in the Southern. The Los Alamos results suggest that the amount of the chemical in the Northern Hemisphere is less than one-third that in the Southern, a depletion more than twice as extensive as previously thought. Scientists say the depletion is most likely related to industrial activity.</p>
+        <p>Moreover, the scientists say, there are broader implications. "If we run out of OH, a lot of chemical processes in the atmosphere could change," said Dr. Jim Kao of the Los Alamos laboratory's geoanalysis group.</p>
+        <p>Dr. Kao and his colleagues arrived at their findings on OH depletion through a computer simulation of the dynamic mixing and chemical processes taking place within the atmosphere. Their original goal was to study the global distribution of methane, the second most important contributor to the greenhouse effect, after carbon dioxide. That part of the study is continuing.</p>
+        <p>Methane has been increasing in the atmosphere for the last 500 years, but more recent industrial and agricultural activities have caused the rate of increase to speed up.</p>
+      </block>
+      <block class="full_text">
+        <p>A CHEMICAL that limits heat-trapping methane in the atmosphere has been significantly depleted in the Northern Hemisphere, according to a computerized simulation of atmospheric processes by scientists at the Los Alamos National Laboratory in New Mexico.</p>
+        <p>The naturally occurring chemical, called a hydroxyl radical, consists of an oxygen atom and a hydrogen atom. It destroys methane, a highly potent "greenhouse" gas that blocks the escape of heat from the atmosphere into space. Methane, along with other greenhouse gases like carbon dioxide and chlorofluorocarbons, has been increasing as a result of human activity, and scientists predict that this will cause the earth's climate to warm.</p>
+        <p>The findings at Los Alamos suggest that while more methane is being emitted into the atmosphere, less is being destroyed there naturally. Earlier studies showed that there was less of the hydroxyl radical, also called the OH radical, in the Northern Hemisphere than in the Southern. The Los Alamos results suggest that the amount of the chemical in the Northern Hemisphere is less than one-third that in the Southern, a depletion more than twice as extensive as previously thought. Scientists say the depletion is most likely related to industrial activity.</p>
+        <p>Moreover, the scientists say, there are broader implications. "If we run out of OH, a lot of chemical processes in the atmosphere could change," said Dr. Jim Kao of the Los Alamos laboratory's geoanalysis group.</p>
+        <p>Dr. Kao and his colleagues arrived at their findings on OH depletion through a computer simulation of the dynamic mixing and chemical processes taking place within the atmosphere. Their original goal was to study the global distribution of methane, the second most important contributor to the greenhouse effect, after carbon dioxide. That part of the study is continuing.</p>
+        <p>Methane has been increasing in the atmosphere for the last 500 years, but more recent industrial and agricultural activities have caused the rate of increase to speed up.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

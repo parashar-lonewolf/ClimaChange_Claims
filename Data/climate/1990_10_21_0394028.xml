@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Heart Machine Passes Test on Human</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="394028"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HEART</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">CARDIOPULMONARY RESUSCITATION (CPR)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cardiopulmonary Resuscitation (CPR)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDA1730F932A15753C1A966958260" item-length="636" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Heart Machine Passes Test on Human</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PITTSBURGH, Oct. 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A woman who collapsed when her heart went into spasms and stopped owes her life to a new device that pumped oxygenated blood through her body for 15 hours while doctors worked to stabilize her heart, without surgery.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A woman who collapsed when her heart went into spasms and stopped owes her life to a new device that pumped oxygenated blood through her body for 15 hours while doctors worked to stabilize her heart, without surgery.</p>
+        <p>A woman who collapsed when her heart went into spasms and stopped owes her life to a new device that pumped oxygenated blood through her body for 15 hours while doctors worked to stabilize her heart, without surgery.</p>
+        <p>''Had they not gotten approval a year ago to use this machine, I can question whether I'd be alive,'' said the patient, 29-year-old Sharon Wilczynski, whose heart stopped several times. ''What else could they have done?''</p>
+        <p>Miss Wilczynski became the first human test case in a study the University of Pittsburgh is conducting to see whether hearts that have stopped can be made to beat again if they fail to respond to standard cardiopulmonary resuscitation.</p>
+        <p>The study involves use of a cardiopulmonary bypass machine on patients who suffer cardiac arrest outside the hospital. University researchers had spent a decade experimenting with the procedure on dogs.</p>
+        <p>''If CPR doesn't work within a few minutes, we normally are dealing with a hopeless situation,'' said Dr. Peter Safar, who helped develop cardiopulmonary resuscitation and directs the university's International Resuscitation Research Center.</p>
+        <p>This new emergency room technique is experimental and wider use would come only if it proves successful in more cases.</p>
+        <p>'Just the Beginning'</p>
+        <p>Only about 10 percent of patients suffering sudden cardiac arrest survive, even with currently practiced CPR. Dr. Samuel Tisherman, the principal investigator of the study, estimated that the new method could save an additional 10 percent to 15 percent.</p>
+        <p>''This is just the beginning in new vistas in resuscitation,'' Dr. Tisherman said. ''If this is used along with other therapies, such as hypothermia and specific drugs, then we'll really make an impact. Then we might get an additional 20 to 30 percent survival.''</p>
+        <p>The equipment, assembled by university researchers, is a smaller version of heart-lung machines used to sustain patients undergoing open heart surgery, Dr. Safar said. The emergency-room version consists of off-the-shelf devices that include an oxygenator, oxygen tank, pump, heat exchanger, battery pack and several feet of tubing.</p>
+        <p>Tubes in Artery and Vein</p>
+        <p>Two plastic tubes are inserted into a patient's femoral artery and vein at the groin. One tube carries blood out to the oxygenator, which removes carbon dioxide and adds oxygen. The blood is then sent through a heat exchanger, which adjusts the temperature, and is pumped back into the patient through the second tube.</p>
+        <p>The system maintains blood flow throughout the body so the brain and other vital organs are not damaged while efforts are made to restart and stabilize the heart. The method could also benefit patients who suffer sudden cardiac arrest because of problems like kidney failure or drug overdoses.</p>
+        <p>''This will be in every emergency department in 10 years,'' said Dr. Paul Paris, director of emergency medicine at the university's Presbyterian University Hospital, where Miss Wilczynski was treated.</p>
+        <p>No Brain Damage Is Found</p>
+        <p>Dr. Paris said the equipment could also be made smaller for use in ambulances.</p>
+        <p>Although medics reached Miss Wilczynski in five minutes and administered CPR, her heart was stopped from the time of her collapse until after she was in the ambulance. She was hooked to the new bypass machine within 50 minutes. Even after her heart was restarted, it beat intermittently.</p>
+        <p>After two hours, her heart was beating but unstable, so doctors let her sleep, while the machine maintained blood flow, and the next day her rested heart stabilized.</p>
+        <p>Dozens of tests since Miss Wilczynski's collapse on July 26 have revealed no sign of brain damage. Last month a device was implanted in her chest to help prevent future episodes of mitral valve prolapse, a condition that in rare cases causes the heart to go into spasms.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Census of Botanical Risk</title>
+    <meta content="12SUN2$03" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1009272"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="indexing_service" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Treaties</classifier>
+        <org class="indexing_service">World Conservation Union</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EFD9133DF931A25757C0A96E958260" item-length="559" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Census of Botanical Risk</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial on World Conservation Union's disheartening report that one of every eight plants in the world, and one of every three in US, is threatened with extinction; call on US to at least endorse biodiversity treaty set forth at Earth Summit in 1992</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Reminders of the global threat to botanical diversity surround us, but we tend to think of them as disparate events rather than parts of a broad pattern. The forest fires in Indonesia and the Amazon seem unrelated to the spread of purple loosestrife, an invasive wetland plant, across the Northeastern United States. The appearance of a housing development on former oak savanna in California seems unconnected to the destruction of native hemlocks by a parasitic Asian insect called the woolly adelgid.</p>
+        <p>But each of these events yields the same result, the destruction of the plant life on which so much of human life depends, not only for the conversion of sunlight into food but also for many medicines and chemical compounds. The progressive loss of biodiversity has been well chronicled. Still, last week's report from the World Conservation Union -- the first worldwide assessment of plant endangerment -- was disheartening.</p>
+      </block>
+      <block class="full_text">
+        <p>Reminders of the global threat to botanical diversity surround us, but we tend to think of them as disparate events rather than parts of a broad pattern. The forest fires in Indonesia and the Amazon seem unrelated to the spread of purple loosestrife, an invasive wetland plant, across the Northeastern United States. The appearance of a housing development on former oak savanna in California seems unconnected to the destruction of native hemlocks by a parasitic Asian insect called the woolly adelgid.</p>
+        <p>But each of these events yields the same result, the destruction of the plant life on which so much of human life depends, not only for the conversion of sunlight into food but also for many medicines and chemical compounds. The progressive loss of biodiversity has been well chronicled. Still, last week's report from the World Conservation Union -- the first worldwide assessment of plant endangerment -- was disheartening.</p>
+        <p>Despite repeated promises from world governments to make things better, the report notes, one of every eight plants in the world, and one of every three in the United States, is threatened with extinction. In raw numbers, that means nearly 34,000 species are threatened, which itself is surely an underestimate because reporting is far less detailed in some countries than in others, and because so many plant species remain unidentified and their status thus unknown. According to the conservation union -- a coalition of scientific and environmental groups, including the New York Botanical Garden and the Smithsonian Institution -- the main threats to plant diversity are development, including logging and agriculture, and the invasion of non-native species that crowd out the native brand.</p>
+        <p>That, too, was already known, if not in quite so much detail. The big unknown is whether governments are prepared to do anything about it. The Earth Summit in Rio de Janiero in 1992 approved a biological diversity treaty aimed at reducing the rate of extinction of plant species. The treaty asked each nation to inventory biological resources and adopt a national conservation strategy. Few have done so. But 160 countries have at least ratified the treaty. The United States has not, largely because of Congressional fears that the treaty would allow others to meddle in America's natural resource policy or involve the United States in expensive projects to help poorer nations. Foot-dragging by the world's richest nation has done nothing to encourage others to get involved in the biodiversity issue.</p>
+        <p>There have been plenty of valiant private initiatives. To name one among many, the National Cancer Institute has guaranteed Malaysia part of the profits of any drug obtained from the Malaysian rain forests, a modest incentive to save those forests and the biological treasures within them. But given the sheer scale of the problem -- one-third of the forests that existed 50 years ago, for example, have now disappeared -- government involvement seems an absolute necessity, requiring the same commitment that led to the global warming treaty in Kyoto, Japan, last fall. Regrettably, the world does not seem to have the capacity to tackle more than one ecological crisis at a time.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

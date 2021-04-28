@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One Recipe for a (Mostly) Emissions-Free Economy</title>
+    <meta content="04ECONO" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1532616"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Windmills</classifier>
+        <classifier class="indexing_service" type="descriptor">Solar Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <person class="indexing_service">Marsh, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Windmills</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DE1E30F937A35752C1A9659C8B63" item-length="1240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One Recipe for a (Mostly) Emissions-Free Economy</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL MARSH</byline>
+      <byline class="normalized_byline">Marsh, Bill</byline>
+      <abstract>
+        <p>Various methods of fueling earth while reducing greenhouse gas emissions are presented and divided into existing technologies and ones that would require extensive research and development to impact planet; wind, solar, hydroelectric and geothermal power along with increased energy efficiency are discussed; space-based solar and advanced nuclear power along with carbon dioxide sequestration detailed; suppositions are based on changes in how humans will power world by 2050; graphs, maps, drawings (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fueling civilization a half-century from now and stemming global warming is a titanic challenge. It is inspiring big ideas, but not nearly enough research to pull them off.</p>
+        <p>This page illustrates just one possible portfolio of future United States energy sources and the potential share of each, as envisioned by several experts. Each fuel has its partisans and skeptics experts do disagree.</p>
+      </block>
+      <block class="full_text">
+        <p>Fueling civilization a half-century from now and stemming global warming is a titanic challenge. It is inspiring big ideas, but not nearly enough research to pull them off.</p>
+        <p>This page illustrates just one possible portfolio of future United States energy sources and the potential share of each, as envisioned by several experts. Each fuel has its partisans and skeptics experts do disagree.</p>
+        <p>That's why, in the second chart below, the portion of future needs carried by each technology is loosely defined, based on estimates and models. None of these schemes is certain to work. Some may be thwarted by science and engineering hurdles, as noted below, or by government policy; others could assume a far greater share of the burden than depicted here.</p>
+        <p>Theoretically, solar or wind power or nuclear fusion could each meet the  entire global energy demand. But their development could also fall short, so  other methods may need to be ready to go an argument for research on many daunting fronts.</p>
+        <p>Space-based solar power faces especially tall odds, given costs for launching and assembly. But there are precedents for sophisticated new technologies becoming widespread and affordable: the still young computer  chip industry has seen its costs plunge by a factor of thousands.</p>
+        <p>Hydrogen doesnt make the list because it is a carrier of energy, not a  source; large amounts of other fuels are needed to manufacture it. Hydrogen burns clean, with only water as a byproduct. But if it is created with fossil  fuels, hydrogen is ultimately as polluting as they are, offering little help  in reducing greenhouse gases, unless the carbon is somehow separated and  stored. (One novel possibility: advances in genetic science might yield biological production of hydrogen from microbes.)</p>
+        <p>What would it take to get to an economy largely free of carbon emissions?</p>
+        <p>Dr. Martin I. Hoffert of New York University estimates a total cost up to  $400 billion, perhaps more. Roughly $10 billion a year through 2050 is, to paraphrase a politicians famous quip, real money. But not an unimaginable  sum: it is about one one-thousandth of the annual gross domestic product of  $10 trillion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

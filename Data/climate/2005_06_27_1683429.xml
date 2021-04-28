@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Shock</title>
+    <meta content="27mon1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/06/27/opinion/27mon1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1683429"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <org class="online_producer">Senate</org>
+        <person class="online_producer">Domenici, Pete</person>
+        <person class="online_producer">Bingaman, Jeff</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DC1631F934A15755C0A9639C8B63" item-length="434" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Shock</hl1>
+        <hl2 class="online_headline">Climate Shock</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says 'sense of the Senate' resolution just passed that favors program of mandatory controls of emissions of gases that contribute to global warming is further proof that Bush administration's efforts to minimize warming threat have failed</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Senate has now completed work on an energy bill that might actually do some good. But that was not the only surprising news from the Senate floor last week: despite ferocious White House opposition, the Senate went on record as favoring a program of mandatory controls of emissions of the gases that contribute to global warming.</p>
+        <p>It did so in a ''sense of the Senate'' resolution whose nonbinding nature allowed opponents of aggressive action to dismiss it as meaningless.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A nonbinding Senate resolution on global warming is further proof that the administration's efforts to minimize the threat have failed.</p>
+      </block>
+      <block class="full_text">
+        <p>The Senate has now completed work on an energy bill that might actually do some good. But that was not the only surprising news from the Senate floor last week: despite ferocious White House opposition, the Senate went on record as favoring a program of mandatory controls of emissions of the gases that contribute to global warming.</p>
+        <p>It did so in a ''sense of the Senate'' resolution whose nonbinding nature allowed opponents of aggressive action to dismiss it as meaningless.</p>
+        <p>The resolution was anything but meaningless. It represents a major turnaround in attitudes, especially among prominent Republicans who only a few years ago doubted a problem even existed. It is something to build on: Pete Domenici, the most influential Senate Republican on energy matters and a recent convert to the global warming cause, has already scheduled hearings to see what sort of legislation can be devised down the road.</p>
+        <p>And it terrifies the White House because it is further proof that the administration's efforts to minimize the warming threat have failed and that President Bush's voluntary approach to the problem is no longer taken seriously.</p>
+        <p>The energy bill itself is a mixed bag, though preferable to the dreadful collection of industry giveaways passed by the House. The Senate again rejected all efforts to require higher fuel efficiency for cars and trucks, even though that is the surest way to ease the country's dependence on foreign oil. Likewise, its ''clean coal'' provisions, while potentially useful, fall short of the effort required to develop a new generation of coal-fired plants capable of capturing the gases that help cause warming.</p>
+        <p>On balance, though, the measure is far more hospitable than recent energy bills to energy efficiency and renewable, nonpolluting fuels, especially in its tax provisions. Over White House objections, the bill includes a provision sponsored by Jeff Bingaman of New Mexico that would require that at least 10 percent of the country's electricity be generated by nonpolluting energy sources like wind power by 2020. And its provisions on renewable biofuels give promise of developing gasoline substitutes that go beyond the heavily subsidized corn-based ethanol so favored by farm-state senators.</p>
+        <p>It will be up to Mr. Domenici and Mr. Bingaman to make sure that these and other useful ideas survive a House-Senate conference. Fortunately, the House will have nothing to say about the global warming resolution, which will stand as an invitation to future action.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

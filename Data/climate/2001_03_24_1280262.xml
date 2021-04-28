@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Agenda: Oil, Gas, Water, Trees</title>
+    <meta content="LTR002333" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1280262"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Arsenic</classifier>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Jones, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010324T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE2D8123CF937A15750C0A9679C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Agenda: Oil, Gas, Water, Trees</hl1>
+      </hedline>
+      <abstract>
+        <p>Andrew Jones letter scores EPA's abandonment of new arsenic limits for water supply (March 21 article); drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''E.P.A. to Abandon New Arsenic Limits for Water Supply'' (front page, March 21):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''E.P.A. to Abandon New Arsenic Limits for Water Supply'' (front page, March 21):</p>
+        <p>George W. Bush's ''compassionate conservatism'' apparently does not include compassion for the environment. In the latest of a series of actions that will harm the environment, he has withdrawn a new regulation that would have reduced the permissible standard for arsenic in drinking water.</p>
+        <p>Coming on the heels of his broken campaign promise to regulate carbon dioxide emissions and his plans to drill for oil in the Arctic National Wildlife Refuge, this does not bode well for the environment.</p>
+        <p>ANDREW JONES  Tucson, March 21, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

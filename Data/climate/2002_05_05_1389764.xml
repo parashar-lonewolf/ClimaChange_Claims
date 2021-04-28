@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Energy Decisions, State by State</title>
+    <meta content="L05ENE$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1389764"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <org class="indexing_service">California Public Interest Research Group</org>
+        <person class="indexing_service">Richlin, Eli</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E6D61131F936A35756C0A9649C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Energy Decisions, State by State</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Eli Richlin, California Public Interest Research Group, says energy plan being debated in Washington fails to provide for nation's energy and environmental needs (Apr 29 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The energy plan being debated in Washington (editorial, April 28) fails to provide for our energy and environmental needs. Its billion-dollar subsidies to the fossil fuel and nuclear industries will result in damaging the environment and endangering millions, as with the Indian Point nuclear plant (letters, April 29).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The energy plan being debated in Washington (editorial, April 28) fails to provide for our energy and environmental needs. Its billion-dollar subsidies to the fossil fuel and nuclear industries will result in damaging the environment and endangering millions, as with the Indian Point nuclear plant (letters, April 29).</p>
+        <p>With national policy so clearly heading down the wrong tracks, the most important energy decisions now fall to state decision makers, who should move to increase renewable energy. California especially has a prime opportunity to do just that.</p>
+        <p>California decision makers should commit to doubling our use of clean, renewable energy to 20 percent of power generation by 2010. This would help the state's economy by adding thousands of new jobs. More important, it would provide power without sacrificing our health or our environment.</p>
+        <p>ELI RICHLIN  Los Angeles, April 30, 2002</p>
+        <p>The writer is energy associate, California Public Interest Research Group.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

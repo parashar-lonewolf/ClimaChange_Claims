@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where Wires Won't Go</title>
+    <meta content="LTR002844" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1329625"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <person class="indexing_service">Caron, Cynthia</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFD9173DF933A0575AC0A9679C8B63" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where Wires Won't Go</hl1>
+      </hedline>
+      <abstract>
+        <p>Cornell doctoral student Cynthia Caron letter on September 9 article on alternative energy in remote areas notes social and political processes also create off-grid spaces; photo</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Solar Power Is Reaching Where Wires Can't'' (Sept. 9), which described how alternative energy is helping remote areas that are off the traditional power grid.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Solar Power Is Reaching Where Wires Can't'' (Sept. 9), which described how alternative energy is helping remote areas that are off the traditional power grid.</p>
+        <p>Where wires can't go? Perhaps the issue is where they won't and don't go. The example of bringing solar power to a South African high school cited in the article implies that off-grid status is an issue of topographic location. (The community involved was deep in a valley.) But throughout the world, social and political processes also create off-grid spaces.</p>
+        <p>Rural communities along well-paved and traveled roads may not have grid connections. The promise of electricity combined with the repeated dumping of transmission poles along the roadside is one tactic politicians use to secure votes.</p>
+        <p>Many persons who live an off-grid existence do so not because the wires can't reach them, but because powerful individuals, due to tensions -- racial, administrative, economic, ethnic or otherwise -- see that the wires don't.</p>
+        <p>CYNTHIA CARON  Ithaca, N.Y., Sept. 11</p>
+        <p>The writer is preparing a doctoral dissertation at Cornell related to renewable energy in Sri Lanka.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patents; Home-Built Devices at Exhibition: A Better Mousetrap?</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="224485"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MICE</classifier>
+        <classifier class="indexing_service" type="descriptor">INVENTIONS AND INVENTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <person class="indexing_service">HUDSON, JAMES (INVENTOR)</person>
+        <person class="indexing_service">ANDREWS, EDMUND L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DD1E3CF93BA25751C0A96F948260" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patents; Home-Built Devices at Exhibition: A Better Mousetrap?</hl1>
+      </hedline>
+      <byline class="print_byline">By Edmund L. Andrews</byline>
+      <byline class="normalized_byline">ANDREWS, EDMUND L</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The people who gathered in Crystal City, Va., last weekend to exhibit their work at the annual Inventors Expo came from all walks of life. Among the more than 50 who promoted their achievements were an opera singer, two pediatricians, an electrical engineer and a Federal official.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The people who gathered in Crystal City, Va., last weekend to exhibit their work at the annual Inventors Expo came from all walks of life. Among the more than 50 who promoted their achievements were an opera singer, two pediatricians, an electrical engineer and a Federal official.</p>
+        <p>The people who gathered in Crystal City, Va., last weekend to exhibit their work at the annual Inventors Expo came from all walks of life. Among the more than 50 who promoted their achievements were an opera singer, two pediatricians, an electrical engineer and a Federal official.</p>
+        <p>But they brought no high technology to the event, which is sponsored by the Patent and Trademark Office. Instead, most displayed home-built devices: a hammer that prevents the inadvertent smashing of a thumb; an automatic transmission for bicycles; a baby walker that will not collide with walls.</p>
+        <p>James Hudson demonstrated what he said was a better mousetrap. Shaped like a box, the device was invented by Andrew Pratscher and Phillip Andres. Mice are lured into a chamber with bait. Once in, the mouse trips a sensor that causes the chamber to lift up and dump the rodent into a plastic bag. A pump then replaces the oxygen in the bag with carbon dioxide, suffocating the rodent in 3 minutes. Mr. Hudson formed Hudson Devices Inc. of Carol Stream, Ill., to market the invention. Mr. Pratscher and Mr. Andres received patent 4,741,121.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Return of Ice Age</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="471032"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PALEONTOLOGY</classifier>
+        <classifier class="indexing_service" type="descriptor">ICE AGE</classifier>
+        <classifier class="indexing_service" type="descriptor">FOSSILS</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <object.title class="indexing_service">SCIENCE WATCH (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice Age</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DC163EF930A3575AC0A967958260" item-length="374" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Return of Ice Age</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>By analyzing fossils of tiny two-winged flies called midges in sediments of a lake in New Brunswick, Canadian scientists have confirmed that a brief reversion to ice-age conditions affected North America as well as Europe from 11,000 to 10,000 years ago.</p>
+        <p>The last ice age reached its depths about 18,000 years ago. By about 11,000 years ago, the ice sheets had contracted and the climate had warmed considerably. But then Europe reverted to glacial conditions for about two centuries. In this event, called the Younger Dryas by glaciologists, oak trees that had recolonized Germany disappeared once again. Scientists are not sure what brought on the Younger Dryas. One theory is that fresh water from melting glaciers changed the surface currents of the North Atlantic in such a way as to alter the climate.</p>
+      </block>
+      <block class="full_text">
+        <p>By analyzing fossils of tiny two-winged flies called midges in sediments of a lake in New Brunswick, Canadian scientists have confirmed that a brief reversion to ice-age conditions affected North America as well as Europe from 11,000 to 10,000 years ago.</p>
+        <p>The last ice age reached its depths about 18,000 years ago. By about 11,000 years ago, the ice sheets had contracted and the climate had warmed considerably. But then Europe reverted to glacial conditions for about two centuries. In this event, called the Younger Dryas by glaciologists, oak trees that had recolonized Germany disappeared once again. Scientists are not sure what brought on the Younger Dryas. One theory is that fresh water from melting glaciers changed the surface currents of the North Atlantic in such a way as to alter the climate.</p>
+        <p>Whatever the cause, evidence that the Younger Dryas also affected North America had until now come from fossilized pollen remains that reflect fluctuations in plant life brought about by climate change. Now the long, deep North American cold snap has been seen independently, using what the Canadian scientists describe as a powerful new analytic technique.</p>
+        <p>The scientists, who present their findings in the current issue of the journal Science, are Ian R. Walker and Jon P. Smol of Queen's University in Kingston, Ontario, and Robert J. Mott of the Geological Survey of Canada in Ottawa.</p>
+        <p>They analyzed sediment layers from Splan Pond, a lake in New Brunswick that lies near the Atlantic Coast and the Maine border, looking for midge fossils. Because the insects have short life spans and can more readily disperse and shift their ranges than plants, the scientists say, they respond more rapidly than vegetation to climatic change. In the case of midges, some species are known to live only in cold conditions and others in warm conditions. Analysis of midge distribution over geologic time indicated an abrupt transition from warm to cold in Eastern Canada at the time of the Younger Dryas.</p>
+        <p>Findings like these are important, the researchers wrote, in understanding the response of lakes to a possible global warming brought about by increasing emissions of heat-trapping gases like carbon dioxide and deforestation.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Universe of Promise (and a Tankful of Caveats)</title>
+    <meta content="29PRIMER" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/automobiles/29PRIMER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843716"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HYDROGEN'S SECOND COMING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6D7153EF93AA15757C0A9619C8B63" item-length="1149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Universe of Promise (and a Tankful of Caveats)</hl1>
+        <hl2 class="online_headline">A Universe of Promise (and a Tankful of Caveats)</hl2>
+      </hedline>
+      <byline class="print_byline">By JIM MOTAVALLI</byline>
+      <byline class="normalized_byline">Motavalli, Jim</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT the moment, hydrogen seems to be the most practical way to power vehicles that do not emit carbon dioxide, the principal greenhouse gas. But despite considerable research, many hurdles remain. Here are some questions and answers:</p>
+        <p>Q. Where does hydrogen come from?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Despite considerable research, many hurdles remain before hydrogen can be deployed as a common source of energy in cars.</p>
+      </block>
+      <block class="full_text">
+        <p>AT the moment, hydrogen seems to be the most practical way to power vehicles that do not emit carbon dioxide, the principal greenhouse gas. But despite considerable research, many hurdles remain. Here are some questions and answers:</p>
+        <p>Q. Where does hydrogen come from?</p>
+        <p>A. Hydrogen, an odorless, colorless gas, is the lightest and most plentiful element in the universe. It is found in water and in most organic matter, but it is usually bound with other elements. For that reason, it is called an energy carrier, meaning that energy has to be expended to extract it.</p>
+        <p>Q. But can't it be burned in an engine?</p>
+        <p>A. Fuels like coal, natural gas or oil can be taken from the ground and used with relatively little energy-intensive processing. But hydrogen must be turned into a fuel -- and because it takes so much energy to produce, it should not be thought of as a direct replacement for fuels like gasoline. Rather, it is energy in a portable form, somewhat akin to electricity.</p>
+        <p>Q. Then why bother?</p>
+        <p>A. Because aside from being plentiful, it is very clean. Cars running on hydrogen produce very little tailpipe pollution and no greenhouse gases -- they leave only a trail of water. In this way, cars running on fuel cells -- which produce electricity by a chemical reaction of hydrogen and oxygen -- would produce no tailpipe emissions.</p>
+        <p>Q. What is hydrogen used for today?</p>
+        <p>A. It has several uses. About nine million tons of hydrogen are produced annually in the United States, mostly for chemical production, petroleum refining and metal treatment.</p>
+        <p>Q. What is the cost of a unit of hydrogen with the same energy content as a gallon of gasoline?</p>
+        <p>A. That question has many answers. Hydrogen is certainly expensive to produce now, with costs somewhat dependent on the source material. A kilogram of hydrogen has about the same energy content as a gallon of gasoline, but hydrogen proponents point out that fuel cells can have double or triple the efficiency of gasoline engines. Hydrogen is most commonly produced by a process called steam reforming, which extracts the hydrogen from natural gas. The cost of natural gas reforming, which has been the cheapest method, has been affected by the rising price of natural gas. A kilo of hydrogen produced by steam reforming costs from $4 to $8 today.</p>
+        <p>It can also be made by electrolysis, which separates water into hydrogen and oxygen. The cost of hydrogen produced from water is tied to the price of electricity, which fluctuates by region and by type of generation. If grid electricity sold for 5 cents per kilowatt-hour, hydrogen could be produced through electrolysis for $3 per gallon equivalent. But electricity is typically 10 to 14 cents today, so electrolytic hydrogen from grid electricity is often $6 per gallon equivalent or more. These high costs make hydrogen generated from renewable electricity sources like wind farms or solar power more attractive.</p>
+        <p>A federal National Renewable Energy Laboratory report in February estimated that a kilogram of hydrogen could be produced for $3.63 using solar power and for $3.10 using wind.</p>
+        <p>''The solar technology is promising, but it won't happen quickly,'' said Robert D. McConnell of the laboratory's solar energy program.</p>
+        <p>Q. Can nuclear power be a source of inexpensive hydrogen?</p>
+        <p>A. Yes. Dr. Kenneth R. Schultz, operations director of the energy group at General Atomics, a research and development firm in San Diego, said that by 2025 the nuclear industry could be able to produce hydrogen for $1.50 to $2 a kilogram. But Amory B. Lovins, chairman and chief scientist at the Rocky Mountain Institute, a nonprofit energy research organization in Snowmass, Colo., described both the process and the price as ''aspirational.''</p>
+        <p>Q. How will we use hydrogen in a motor vehicle?</p>
+        <p>A. There are several options. In the most common prediction, compressed hydrogen gas is stored in a reinforced tank aboard a car, then fed to a fuel cell. The cell is not an engine, but a small chemical factory that converts the pressurized gas to electricity, which runs an electric motor. The only emission is water.</p>
+        <p>Liquid hydrogen offers excellent energy density per volume, but it would have to be carried in cryogenic tanks because hydrogen doesn't liquefy until it reaches minus 423 degrees Fahrenheit.</p>
+        <p>Metal hydrides offer an opportunity to store hydrogen in solid form, but such a system is heavy and therefore reduces the vehicle's travel range.</p>
+        <p>Hydrogen can also be burned in internal combustion engines. BMW and Ford, among others, have programs exploring hydrogen combustion, and BMW has a small fleet of bi-fuel 12-cylinder Hydrogen 7 vehicles on the road. No carbon dioxide is produced when hydrogen is burned.</p>
+        <p>Q. Is hydrogen safe? Isn't it very explosive?</p>
+        <p>A. That's the question on everybody's minds. Hydrogen definitely has safety challenges. It is extremely flammable (as the 1937 Hindenburg accident demonstrated), and burns without a visible flame while radiating very little heat. Because it is the lightest element, it can easily leak out of very small holes, pipe joints and even some metals. Once leaked, it can concentrate in a sealed space like a garage roof, presenting a fire hazard because hydrogen in a confined space can catch fire more easily than gasoline.</p>
+        <p>But hydrogen's lightness is also an advantage, because the gas dissipates in the air 12 times faster than gasoline vapor, making it harder for a fire to start. And automotive hydrogen fuel tanks, often made of composite materials, are designed to minimize leakage even in a severe impact. Quantum Fuel Systems of Irvine, Calif., says the hydrogen tanks that it makes go through two dozen tests and are shot with guns, suspended over fire, put through pressure cycles and subjected to temperatures ranging from minus 40 degrees to 130 degrees Fahrenheit.</p>
+        <p>Q. How will hydrogen be distributed to gas stations?</p>
+        <p>A. Very carefully, because hydrogen is such an escape artist that it is difficult and expensive to move. The hydrogen infrastructure is embryonic: There are about 700 miles of hydrogen pipelines in the country, compared with a million miles for natural gas. One challenge is that hydrogen pipelines have to be very tightly sealed and specially treated so that they do not become dangerously brittle. Trucking hydrogen not only burns fossil fuel, but requires energy-consuming compression, and even then a truck can carry far less energy than an equivalent gasoline tanker.</p>
+        <p>Q. How long before I can buy a hydrogen-powered car?</p>
+        <p>A. Honda says it will offer a limited number of its new-generation FCX fuel-cell vehicles for lease in 2008. Several companies, including BMW, General Motors and DaimlerChrysler, are building test fleets of as many as 100 hydrogen vehicles. Currently, the high cost of manufacturing the vehicles and setting up the hydrogen infrastructure mean it could be two decades before affordable hydrogen-powered cars and trucks are widely available. And it might never happen at all.</p>
+        <p>HYDROGEN'S SECOND COMING Jim Motavalli, the editor of E: The Environmental Magazine, is a frequent contributor to The New York Times.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Jim Motavalli, the editor of E: The Environmental Magazine, is a frequent contributor to The New York Times.</tagline>
+    </body.end>
+  </body>
+</nitf>

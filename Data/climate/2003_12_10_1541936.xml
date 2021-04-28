@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientist Links Man to Climate Over the Ages</title>
+    <meta content="Y10WAR$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/12/10/science/10WARM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1541936"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <org class="indexing_service">American Geophysical Union</org>
+        <org class="indexing_service">Climatic Change (Journal)</org>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <person class="indexing_service">Ruddiman, William (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1DA1F3DF933A25751C1A9659C8B63" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientist Links Man to Climate Over the Ages</hl1>
+        <hl2 class="online_headline">Scientist Links Man to Climate Over the Ages</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <dateline>SAN FRANCISCO, Dec. 9</dateline>
+      <abstract>
+        <p>Dr William Ruddiman holds humans have altered the world's climate by generating heat-trapping gases for nearly 10,000 years, since they began farming, report to American Geophysical Union meeting, San Francisco and article in journal Climatic Change; says human activity prevented start of ice age several thousand years ago (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Humans have altered the world's climate by generating heat-trapping gases since almost the beginning of civilization and even prevented the start of an ice age several thousand years ago, a scientist said on Tuesday.</p>
+        <p>Most scientists attribute a rise in global temperatures over the past century in part to emissions of carbon dioxide by human activities like driving cars and operating factories.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A scientist contends that humans have altered the worlds climate by generating heat-trapping gases since almost the beginning of civilization.</p>
+      </block>
+      <block class="full_text">
+        <p>Humans have altered the world's climate by generating heat-trapping gases since almost the beginning of civilization and even prevented the start of an ice age several thousand years ago, a scientist said on Tuesday.</p>
+        <p>Most scientists attribute a rise in global temperatures over the past century in part to emissions of carbon dioxide by human activities like driving cars and operating factories.</p>
+        <p>Dr. William Ruddiman, an emeritus professor at the University of Virginia, said at a meeting of the American Geophysical Union here that humans' effect on climate went back nearly 10,000 years to when people gave up hunting and gathering and began farming.</p>
+        <p>Dr. Ruddiman is also reporting his findings in the journal Climatic Change.</p>
+        <p>In a commentary accompanying the article, Dr. Thomas J. Crowley of Duke University, said he was first taken aback by Dr. Ruddiman's premise. ''But when I started reading,'' Dr. Crowley wrote, ''I could not help but wonder whether he just might be on to something.''</p>
+        <p>The climate of the last 10,000 years has been unusually stable, allowing civilization to flourish. But that is only because people chopped down swathes of forest in Europe, China and India for croplands and pastures, Dr. Ruddiman said. Carbon dioxide released by the destruction of the forests, plus methane, another heat-trapping gas, produced by irrigated rice fields in Southeast Asia, trapped enough heat to offset an expected natural cooling, he said.</p>
+        <p>''The stability is an accident,'' Dr. Ruddiman said.</p>
+        <p>Levels of carbon dioxide and methane rise and fall in natural cycles lasting thousands of years, and both reached a peak at the end of the last ice age 11,000 years ago. Both then declined as expected.</p>
+        <p>Both should have continued declining through the present day, leading to lower temperatures, and a new ice age should have begun 4,000 to 5,000 years ago, Dr. Ruddiman said. Instead, levels of carbon dioxide reversed 8,000 years ago and starting rising again. The decline in methane levels reversed 5,000 years ago, coinciding with the advent of irrigation rice farming.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

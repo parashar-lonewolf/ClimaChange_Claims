@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Setting the Rules To Fight Smog</title>
+    <meta content="11GREEN" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/11/automobiles/11GREEN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1825432"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">California</location>
+        <org class="indexing_service">California Air Resources Board</org>
+        <person class="indexing_service">Garrett, Jerry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">California Air Resources Board</org>
+        <org class="online_producer">Environmental Protection Agency</org>
+        <org class="online_producer">General Motors Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E3D8113FF932A25751C0A9619C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Setting the Rules To Fight Smog</hl1>
+        <hl2 class="online_headline">Setting the Rules to Fight Smog</hl2>
+      </hedline>
+      <byline class="print_byline">By JERRY GARRETT</byline>
+      <byline class="normalized_byline">Garrett, Jerry</byline>
+      <abstract>
+        <p>California Air Resources Board was created in 1967 with mandate to research causes and solutions to state's air pollution problems, evaluate and certify pollution control equipment and to take legal steps to clean up air (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE California Air Resources Board was created in 1967 with the mandate to research causes and solutions to the state's air pollution problems, evaluate and certify pollution control equipment and to take legal steps to clean up the air.</p>
+        <p>Over the next 40 years, the board, an 11-member panel balanced with appointees from regional pollution-control agencies and scientists, issued stringent requirements for limiting harmful chemicals and solid particles from the exhaust pipes of trucks, cars and even lawn mowers as well as industrial smokestacks.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The California Air Resources Board was created in 1967 with the mandate to research causes and solutions to the state’s air pollution problems.</p>
+      </block>
+      <block class="full_text">
+        <p>THE California Air Resources Board was created in 1967 with the mandate to research causes and solutions to the state's air pollution problems, evaluate and certify pollution control equipment and to take legal steps to clean up the air.</p>
+        <p>Over the next 40 years, the board, an 11-member panel balanced with appointees from regional pollution-control agencies and scientists, issued stringent requirements for limiting harmful chemicals and solid particles from the exhaust pipes of trucks, cars and even lawn mowers as well as industrial smokestacks.</p>
+        <p>Standards that the board, known as CARB, has established are generally regarded as the leading edge in antipollution efforts; several states have adopted California's strict policies in place of the less-stringent levels of the federal Environmental Protection Agency.</p>
+        <p>Robert A. Lutz, vice chairman of General Motors, has said the exhaust of today's cleanest cars is cleaner than the air that enters the engine.</p>
+        <p>But G.M. is one of several automakers that have filed lawsuits against the board, claiming it has overstepped its bounds, particularly in its recent push to reduce automotive emissions of carbon dioxide, a greenhouse gas.</p>
+        <p>In 2006, the California Legislature, with the approval of a former board critic, Gov. Arnold Schwarzenegger, granted the board extraordinary powers to set policies, prepare regulations, lead enforcement efforts and levy fines and fees against violators to finance its operations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

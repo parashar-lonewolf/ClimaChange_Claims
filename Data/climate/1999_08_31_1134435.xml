@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="31QNA" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1134435"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <classifier class="indexing_service" type="descriptor">Bible</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bible</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E2DB113BF932A0575BC0A96F958260" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q&amp;A column on cause of flood described in Bible; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Great Flood</p>
+        <p>Q.  Do scientists suspect the flood described in the Bible was caused by an earthquake like the recent one along the Anatolian fault line?</p>
+      </block>
+      <block class="full_text">
+        <p>A Great Flood</p>
+        <p>Q.  Do scientists suspect the flood described in the Bible was caused by an earthquake like the recent one along the Anatolian fault line?</p>
+        <p>A.  Rising sea levels worldwide following the last ice age are a more likely explanation for a great flood about 7,500 years ago, or 5500 B.C., that suddenly inundated areas around the Black Sea. Some scientists suggest it could have been the basis for flood stories in both the Hebrew Bible and the Babylonian epic of Gilgamesh, though others say the accounts came too long after the event to have been inspired by it.</p>
+        <p>The outlines of such a flood were reconstructed by American scientists from seismic soundings of the sea floor and sediment data gathered by a Russian research ship in 1993, tracing former shorelines. The dating of the flood was based on radiocarbon dates for the transition from freshwater to marine organisms in the cores.</p>
+        <p>Before the flood, the scientists say, the Bosporus was a narrow spillway carrying fresh water from the Black Sea to the Aegean and Mediterranean. Then there was an abrupt rise in the level of the Black Sea, perhaps a foot a day at the height of the flood, as the flow of water through the Bosporus reversed in a great torrent. In less than a year, the Black Sea became brackish and its level rose as much as 500 feet. Land around it was inundated at a rate of a half a mile to a mile a day, leaving about 60,000 square miles of formerly dry land covered by water.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036-3959, or by E-mail to:</p>
+        <p>Question@nytimes.com</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

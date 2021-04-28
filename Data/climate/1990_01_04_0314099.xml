@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Senate Is Urged to Stall Clean Air Measure</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="314099"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <org class="indexing_service">CLEAN AIR WORKING GROUP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DF1E31F937A35752C0A966958260" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Senate Is Urged to Stall Clean Air Measure</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, Jan. 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A business coalition including major oil, gas, automobile and chemical companies favors stalling early action on a Senate clean air bill, according to a memorandum describing a private strategy session.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A business coalition including major oil, gas, automobile and chemical companies favors stalling early action on a Senate clean air bill, according to a memorandum describing a private strategy session.</p>
+        <p>A business coalition including major oil, gas, automobile and chemical companies favors stalling early action on a Senate clean air bill, according to a memorandum describing a private strategy session.</p>
+        <p>The memorandum from the Clean Air Working Group, a coalition of 1,950 companies and trade associations, accuses the majority leader, George J. Mitchell, of rushing the legislation to the Senate floor.</p>
+        <p>Senator Mitchell, Democrat of Maine, and Senator Max Baucus, Democrat of Montana, are the major strategists on the bill, which has won environmentalists' support for its language intended to rid the air of acid rain, toxic chemicals and urban smog. Industry views the measure as too costly and not feasible.</p>
+        <p>The memorandum, obtained by The Associated Press, gives a detailed account of a Dec. 4 meeting. It said senators were asking Congressional research agencies for an ''economic impact analysis'' of the legislation and added, ''This is a key part of stalling early action'' on the bill.</p>
+        <p>Mr. Mitchell has scheduled the Senate measure as the first bill to consider when senators return from recess Jan. 23.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

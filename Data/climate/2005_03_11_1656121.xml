@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>E.P.A. SETS RULES TO CUT POLLUTION</title>
+    <meta content="11ENVI$03" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/03/11/politics/11enviro.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20050324T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1656121"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Ozone</classifier>
+        <classifier class="indexing_service" type="descriptor">Nitrogen Oxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Sulfur Dioxide</classifier>
+        <classifier class="indexing_service" type="descriptor">Soot</classifier>
+        <classifier class="indexing_service" type="descriptor">Mercury (Metal)</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Janofsky, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Washington (DC)</location>
+        <org class="online_producer">Environmental Protection Agency</org>
+        <org class="online_producer">Congress</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E7DF143CF932A25750C0A9639C8B63" item-length="1169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>E.P.A. SETS RULES TO CUT POLLUTION</hl1>
+        <hl2 class="online_headline">E.P.A. Sets Rules to Cut Power Plant Pollution</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL JANOFSKY</byline>
+      <byline class="normalized_byline">Janofsky, Michael</byline>
+      <dateline>WASHINGTON, March 10</dateline>
+      <abstract>
+        <p>EPA announces Clean Air Interstate Rule, ambitious effort to control soot and ground-level ozone pollution in eastern half of US; emissions are from power plants, which account for much of nation's air pollution; goal is to reduce by 2015 emissions of nitrogen oxides, which create ground-level ozone, by more than 60 percent from 2003 levels and to reduce sulfur dioxide, which forms soot, by more than 70 percent; regulations for mercury will also be announced; Bush administration's other effort is Clear Skies Act, stalled in Senate; both would cap emissions and extend deadlines well beyond usual five years under Clean Air Act; new rule uses cap-and-trade emission credits that states may allocate to utilities and is more vulnerable to legal challenge because standards would not be even uniform across country; rules have support from environmental groups that oppose Clear Skies Act (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Environmental Protection Agency announced new rules on Thursday to cut air pollution in the eastern half of the United States, in one of its most ambitious efforts to control soot and ground-level ozone.</p>
+        <p>The new regulations, the Clean Air Interstate Rule, aim at emissions from power plants, which account for much of the nation's air pollution. The goal, when the regulations go fully into effect in 2015, is to reduce emissions of nitrogen oxides, which create ground-level ozone, by more than 60 percent from 2003 levels and to reduce sulfur dioxide, which forms soot, by more than 70 percent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The E.P.A. announced new rules to cut air pollution in the eastern half of the U.S., in one of its most ambitious efforts to control soot and ground-level ozone.</p>
+      </block>
+      <block class="full_text">
+        <p>The Environmental Protection Agency announced new rules on Thursday to cut air pollution in the eastern half of the United States, in one of its most ambitious efforts to control soot and ground-level ozone.</p>
+        <p>The new regulations, the Clean Air Interstate Rule, aim at emissions from power plants, which account for much of the nation's air pollution. The goal, when the regulations go fully into effect in 2015, is to reduce emissions of nitrogen oxides, which create ground-level ozone, by more than 60 percent from 2003 levels and to reduce sulfur dioxide, which forms soot, by more than 70 percent.</p>
+        <p>Regulations for a third pollutant, mercury, are scheduled to be announced next week.</p>
+        <p>With about a fifth of the country struggling to comply with the Clean Air Act, the backbone of air quality policy, the Bush administration has been pursuing parallel efforts to drive down power-plant emissions.</p>
+        <p>One effort is the Clear Skies Act, an overhaul of the Clean Air Act. It had been lumbering along in Congress for three years but failed to win committee approval on Wednesday in the Senate. The other effort is the interstate rule, which the environmental agency has been developing for less than two years.</p>
+        <p>The two efforts are similar for their caps on emissions and their projected health benefits. In addition, they extend deadlines well beyond those in the Clean Air Act, which generally requires any region that does not meet federal air standards to reach those goals within five years.</p>
+        <p>The proposed legislative deadline of 2016 and the interstate rule deadline of 2015 were largely set to ease financial burdens on power plant operators who would be forced under either approach to spend billions of dollars to upgrade pollution controls.</p>
+        <p>Otherwise, the new rule changes nothing in the Clean Air Act.</p>
+        <p>If Congress had approved the Clear Skies bill, it would have muted several major provisions of the Clean Air Act, including regulations that require power plant operators to upgrade pollution controls as part of any expansion, known as new source review, and the right of one state to sue another over windblown pollution.</p>
+        <p>The bill failed in large part because of objections by Democrats who favored including caps on carbon dioxide, a heat-trapping gas linked to global warming.</p>
+        <p>Despite their similarities, the parallel efforts are quite different in several major respects. As a national program, the Clear Skies measure would have set emission standards for power plants in every state.</p>
+        <p>As a regional program that applies to 28 Eastern states and the District of Columbia, the interstate rule is directed at helping states develop their own solutions, subject to approval by the environmental agency.</p>
+        <p>In the East, dirty air in one state is often produced by a plant in another. That does not generally happen in the West.</p>
+        <p>The rule uses a cap-and-trade system in which the environmental agency allocates emission credits state by state that the states then allocate to utilities. A utility that has aggressively reduced its emissions can sell or trade credits to a utility in any state that has not acted so quickly.</p>
+        <p>The rule is also more vulnerable to legal challenge, from utilities that say it is too burdensome and from environmental groups that say it is too weak, because it does not apply even standards across the entire country.</p>
+        <p>Any lawsuit has the potential to cause significant delays in putting the rules into effect.</p>
+        <p>The new rules have won support from environmental groups, unlike the Clear Skies measure, which they widely condemned.</p>
+        <p>Jeffrey M. Holmstead, chief of the air and radiation office at the environmental agency, was joined at the news conference on Thursday by Fred Krupp, president of Environmental Defense, an organization that worked with the agency to develop the interstate rule.</p>
+        <p>''This is good for our country,'' Mr. Krupp said, ''and it's good that President Bush and his administration decided to move forward on this, and I want to thank him for doing so.''</p>
+        <p>Other environmental groups were more measured in expressing support.</p>
+        <p>John M. Stanton, a lawyer for Clear the Air, a coalition of environmental organizations, called the rules ''a good step forward,'' but criticized the agency for not setting tighter emissions caps and earlier deadlines.</p>
+        <p>Mr. Stanton also pointed to E.P.A. projections that show that in 2015 the Northeast corridor between Boston and Washington, as well as areas around Atlanta, Buffalo , Chicago, Detroit, Houston and Milwaukee, would still not meet air standards.</p>
+        <p>''This is better than Clear Skies,'' he said, ''but not as good as it could be. Tens of millions of people will still be breathing dirty air.''</p>
+        <p>The senior Washington representative of the Sierra Club, Nat Mund, said, ''It's fine to move forward with the interstate transport rule, as long as it does not eliminate the other important provisions of the Clean Air Act.''</p>
+        <p>Senator James M. Inhofe, the Oklahoma Republican who is chairman of the committee that failed to advance the Clear Skies legislation, of which he was a co-sponsor, expressed modest approval for the interstate regulation, describing it as ''one small step'' for Eastern states.</p>
+        <p>Mr. Inhofe insisted that his proposal would have done much more to help state and local governments comply with national standards.</p>
+        <p>Dan Riedinger, a spokesman for Edison Electric Institute, an association of electric utilities, said the group preferred the legislative approach.</p>
+        <p>The new regulations, Mr. Riedinger said, ''are consistent with our view that market mechanisms are the best way to leverage significant new emissions reductions, while keeping prices low for consumers.''</p>
+        <p>''We support the overall approach of the regulation and the level of emissions reductions it requires,'' he added.</p>
+        <p>The new rules will require utilities to spend up to $50 billion to upgrade power plants in the next decade with scrubbers and other antipollution equipment. Some of those costs are widely expected to be passed to consumers in the form of higher fuel costs. Mr. Holmstead of the environmental agency said projections showed that household fuel costs were quite likely to fall for a short period because some companies had already begun installing the required upgrades. Later, he said, prices would rise.</p>
+        <p>The costs, Mr. Holmstead added, are well worth the benefits to public health. After new standards for mercury are announced, he said, the Eastern United States will be on track to have ''air cleaner than at any time since we started measuring it three decades ago.''</p>
+        <p>By E.P.A. estimates, the air over all Eastern states would improve by 2015, and five states -- Louisiana, Massachusetts, North Carolina, South Carolina and Virginia -- would meet goals for ozone and soot.</p>
+        <p>Mr. Holmstead also said analyses by the agency had determined that by 2015 the rule would result in up to $100 billion in annual health benefits.</p>
+        <p>Correction:  March 24, 2005, Thursday  An article on March 11 about new federal regulations to control air pollution referred incorrectly to the relationship of soot and sulfur dioxide. They are separate pollutants formed from the combustion of coal. Soot is incompletely burned carbon; it is not produced by sulfur dioxide, a gaseous product that is converted in the atmosphere to sulfuric acid.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 24, 2005, Thursday</p>
+        <p>An article on March 11 about new federal regulations to control air pollution referred incorrectly to the relationship of soot and sulfur dioxide. They are separate pollutants formed from the combustion of coal. Soot is incompletely burned carbon; it is not produced by sulfur dioxide, a gaseous product that is converted in the atmosphere to sulfuric acid.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

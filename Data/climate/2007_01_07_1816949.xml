@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RUNNING HOT AND COLD</title>
+    <meta content="07traletters-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1816949"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <person class="indexing_service">Luborsky, Ellen B</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DA1730F934A35752C0A9619C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RUNNING HOT AND COLD</hl1>
+      </hedline>
+      <abstract>
+        <p>Ellen Luborsky letter on December 17 travel item on being cold as hot new travel trend</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: I went from seeing the global warming documentary ''An Inconvenient Truth'' the night before to reading ''Being Cold Is the Hot Trend This Winter'' (In Transit, Dec. 17) the next morning. I could have been watching the part of the movie where animated ice blocks drop into a warming ocean. Unfortunately, I was reading about reality. People are actually paying to experience what is rapidly becoming extinct: freezing cold. This kind of energy waste only adds to global warming. The only thing missing from the article was a 21st-century Marie Antoinette-type saying ''Let them eat Popsicles.''</p>
+        <p>Ellen Luborsky  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: I went from seeing the global warming documentary ''An Inconvenient Truth'' the night before to reading ''Being Cold Is the Hot Trend This Winter'' (In Transit, Dec. 17) the next morning. I could have been watching the part of the movie where animated ice blocks drop into a warming ocean. Unfortunately, I was reading about reality. People are actually paying to experience what is rapidly becoming extinct: freezing cold. This kind of energy waste only adds to global warming. The only thing missing from the article was a 21st-century Marie Antoinette-type saying ''Let them eat Popsicles.''</p>
+        <p>Ellen Luborsky  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

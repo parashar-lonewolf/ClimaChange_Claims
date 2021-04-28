@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Renewable Energy</title>
+    <meta content="l11manure" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1745750"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Manure</classifier>
+        <person class="indexing_service">Dusault, Allen</person>
+        <person class="indexing_service">Niman, Nicolette Hahn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EFDA1331F932A25750C0A9609C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Renewable Energy</hl1>
+      </hedline>
+      <abstract>
+        <p>Sustainable Conservation program dir Allen Dusault letter disputes Nicolette Hahn Niman March 4 Op-Ed article opposing technology for generating renewable energy from manure</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Load of Manure,'' by Nicolette Hahn Niman (Op-Ed, March 4), about farm-based methane digesters, a technology for generating renewable energy from manure:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Load of Manure,'' by Nicolette Hahn Niman (Op-Ed, March 4), about farm-based methane digesters, a technology for generating renewable energy from manure:</p>
+        <p>Virtually all major environmental groups support methane digesters as a practical way to reduce water pollution, air pollution and greenhouse gas emissions from farms. Digesters also kill disease-causing bacteria and mitigate odors.</p>
+        <p>The technology can be cost-effective for all types of dairies, large and small, organic and not, particularly when dairies can sell surplus electricity.</p>
+        <p>A recent study by the California Public Utilities Commission concluded that the environmental, economic and social benefits of methane digesters rank above other local sources of electricity, including solar.</p>
+        <p>Ms. Niman's real objection seems to be to large concentrated animal farms.</p>
+        <p>Methane digesters are a practical, cost-effective way to produce renewable energy and to protect the environment.</p>
+        <p>Allen Dusault  Program Director  Sustainable Conservation  San Francisco, March 8, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="26QNA" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="953089"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars (Planet)</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E2DF1F3EF935A1575BC0A961958260" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Science Q&amp;A on plans being considered to return people to Earth from Mars; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Getting Home From Mars</p>
+        <p>Q. Once people finally get to Mars, how will they ever get back?</p>
+        <p>A. The current plans involve bringing along a rocket that can be launched from Mars into a low orbit, where it will meet another craft that will return to Earth, said Dr. Mark Adler, the Mars exploration program architect at NASA's Jet Propulsion Laboratory in Pasadena, Calif. The vehicle that returns to Earth will carry some kind of Earth-entry vehicle, like a capsule or shuttle plane.</p>
+      </block>
+      <block class="full_text">
+        <p>Getting Home From Mars</p>
+        <p>Q. Once people finally get to Mars, how will they ever get back?</p>
+        <p>A. The current plans involve bringing along a rocket that can be launched from Mars into a low orbit, where it will meet another craft that will return to Earth, said Dr. Mark Adler, the Mars exploration program architect at NASA's Jet Propulsion Laboratory in Pasadena, Calif. The vehicle that returns to Earth will carry some kind of Earth-entry vehicle, like a capsule or shuttle plane.</p>
+        <p>''To make the return cheaper by bringing less stuff from Earth, the Martian atmosphere will be used to produce much or most of the fuel to get the rocket from Mars into Mars orbit,'' Dr. Adler said.</p>
+        <p>There are two alternative plans for this, he said. In the first version, the travelers would carry along some fuel, methane, propane or hydrazine, to burn with oxygen from carbon dioxide, which makes up most of the Martian atmosphere.</p>
+        <p>In the other scheme, both the carbon and the oxygen from the carbon dioxide would be used. The carbon would be combined with hydrogen carried from Earth to make methane to be burned with the oxygen.</p>
+        <p>Dr. Adler said an unmanned spacecraft might be sent to Mars to make the fuel even before humans  leave Earth. ''That way they would know the vehicle is already fueled up and ready to go,'' he said.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

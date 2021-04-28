@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shades of the Mood Ring: Tanning Badge</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="520005"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">INVENTIONS AND INVENTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">ULTRAVIOLET LIGHT</classifier>
+        <org class="indexing_service">XYTRONYX INC</org>
+        <person class="indexing_service">HOLUSHA, JOHN</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DF1F31F93BA35757C0A964958260" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shades of the Mood Ring: Tanning Badge</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLUSHA</byline>
+      <byline class="normalized_byline">HOLUSHA, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Badges that measure doses of sunlight have been developed by a San Diego company for people worried about the thinning ozone layer and the effects of ultraviolet rays on the skin.</p>
+        <p>The badges are similar in concept to the ones worn by X-ray technicians to measure cumulative doses of radiation. Called Sun Alert, each badge consists of a plastic circle about an inch in diameter with an adhesive backing that adheres to clothing or skin.</p>
+      </block>
+      <block class="full_text">
+        <p>Badges that measure doses of sunlight have been developed by a San Diego company for people worried about the thinning ozone layer and the effects of ultraviolet rays on the skin.</p>
+        <p>The badges are similar in concept to the ones worn by X-ray technicians to measure cumulative doses of radiation. Called Sun Alert, each badge consists of a plastic circle about an inch in diameter with an adhesive backing that adheres to clothing or skin.</p>
+        <p>Within an inner circle is a depiction of the sun wearing sunglasses. On the perimeter are color-coded sections that provide a key to reading the dosage.</p>
+        <p>Initially, the sun icon is blue. But as it is exposed to the nonvisible ultraviolet radiation, the color turns to green and then yellow. The yellow color should be a warning to people with fair skin that they are at risk of overexposure and should either get out of the sun or otherwise protect themselves, the manufacturer said. If the color goes beyond yellow to orange, it is a signal to people of most skin types that a sunburn is on the way.</p>
+        <p>Officials of the manufacturer, Xytronyx Inc. a maker of medical products, said the badge combined chemicals that react in the presence of sunlight with dyes that change color as acidity increases. As the ultraviolet rays are absorbed by the badge, the photosensitive chemicals react, giving off acidic products. The increasing acidity affects the dyes, which change color, much as litmus paper reacts to changes in acidity. The suggested retail price is $3.99 for a package of five.</p>
+        <p>The amount of ultraviolet radiation people receive standing outside depends on the season and the time of day, their geographic location and the elevation. On a clear day in Southern California at this time of year, the company said, it would take about 45 minutes to turn the sun badge yellow. But on a mountaintop in Hawaii in June, the equivalent ultraviolet dose would be received in about 10 minutes.</p>
+        <p>Xytronyx is negotiating distribution agreements to sell the badges through drugstores, supermarkets and other locations where sunscreen products are sold. The company has developed specialized badges for people wearing sunscreen and for children, who burn more easily than adults.  BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

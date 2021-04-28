@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech Notes; Blood Tests to Trace Cancer</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="557566"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CANCER</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <classifier class="indexing_service" type="descriptor">BLOOD</classifier>
+        <person class="indexing_service">MORTON, DONALD L (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blood</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DE143BF933A1575AC0A964958260" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech Notes; Blood Tests to Trace Cancer</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <dateline>SAN FRANCISCO</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new blood test that can detect the presence of malignant tumors is enabling people who have been successfully treated for melanoma to obtain life insurance sooner and at lower cost. The test holds the promise of ultimately providing early diagnosis of all kinds of cancer.</p>
+        <p>Usually afflicting the skin and eyes, malignant melanoma is the fastest-growing cancer in the world, in part because of the depletion of the ozone layer. With early detection, more than 87 percent of melanoma patients survive, but they must often wait 5 to 10 years after treatment to obtain life insurance and then get it only at high cost.</p>
+      </block>
+      <block class="full_text">
+        <p>A new blood test that can detect the presence of malignant tumors is enabling people who have been successfully treated for melanoma to obtain life insurance sooner and at lower cost. The test holds the promise of ultimately providing early diagnosis of all kinds of cancer.</p>
+        <p>Usually afflicting the skin and eyes, malignant melanoma is the fastest-growing cancer in the world, in part because of the depletion of the ozone layer. With early detection, more than 87 percent of melanoma patients survive, but they must often wait 5 to 10 years after treatment to obtain life insurance and then get it only at high cost.</p>
+        <p>Recently, the Transamerica Occidental Life Insurance Company of Los Angeles said it would offer life insurance to people who show negative on a tumor marker test developed by Dr. Donald L. Morton, medical director of the John Wayne Cancer Institute in Santa Monica, who has tested 5,000 cancer patients. Transamerica has checked the test by using it on about 44,000 life insurance applicants, regardless of whether they have ever had cancer. The Osborn Laboratories in Olathe, Kan., has an option to market the test for the insurance industry.</p>
+        <p>William Scott, Transamerica's vice president for new business, said, "We felt very strongly that we are in a position to offer life insurance to people who otherwise could not get it because of their history of melanoma."</p>
+        <p>Dr. Morton's test uses a mouse antibody, which binds to a unique protein generated by cancerous cells, called a tumor-associated antigen. Because the protein is recognized as abnormal by the human immune system, it generates the production of human antibodies, which remain bound to another portion of the protein after it links with the mouse antibody. The test detects both the protein and the human antibodies, for a double indication that cancer exists somewhere in the body.</p>
+        <p>The problem is, the test does not yet indicate where the cancer is. Dr. Morton and others are working on site-specific tests.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

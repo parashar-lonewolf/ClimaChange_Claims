@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York Moves to Challenge Diesel Settlement</title>
+    <meta content="23TRUC" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1056261"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Smog</classifier>
+        <classifier class="indexing_service" type="descriptor">Acid Rain</classifier>
+        <classifier class="indexing_service" type="descriptor">Trucks and Trucking</classifier>
+        <classifier class="indexing_service" type="descriptor">Diesel Power</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Cushman, John H Jr</person>
+        <person class="indexing_service">Vacco, Dennis C (Atty Gen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acid Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trucks and Trucking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smog</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EED7113DF930A15753C1A96E958260" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York Moves to Challenge Diesel Settlement</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN H. CUSHMAN Jr.</byline>
+      <byline class="normalized_byline">Cushman, John H Jr</byline>
+      <dateline>WASHINGTON, Oct. 22</dateline>
+      <abstract>
+        <p>New York Atty Gen Dennis C Vacco takes preliminary steps to challenge huge national settlement between Federal authorities and diesel truck engine manufacturers, saying it would do too little to prevent smog and acid rain in state (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Attorney General Dennis C. Vacco of New York took preliminary steps today to challenge a huge national settlement between Federal authorities and diesel truck engine manufacturers, saying it would do too little to prevent smog and acid rain in the state.</p>
+        <p>Mr. Vacco acted shortly after the Justice Department and the Environmental Protection Agency announced a billion-dollar settlement with the seven leading manufacturers of heavy-duty diesel engines for evading pollution control standards.</p>
+      </block>
+      <block class="full_text">
+        <p>Attorney General Dennis C. Vacco of New York took preliminary steps today to challenge a huge national settlement between Federal authorities and diesel truck engine manufacturers, saying it would do too little to prevent smog and acid rain in the state.</p>
+        <p>Mr. Vacco acted shortly after the Justice Department and the Environmental Protection Agency announced a billion-dollar settlement with the seven leading manufacturers of heavy-duty diesel engines for evading pollution control standards.</p>
+        <p>The Federal authorities called it  the most significant environmental enforcement action ever taken, whether measured by the $83.4 million in civil penalties or by the 75 million tons of air pollution that they said would be avoided during the next 27 years.</p>
+        <p>But Mr. Vacco signaled that New York State, which is not bound by the settlement, might seek tougher remedies. He issued subpoenas to the engine manufacturers late today, a spokesman said.</p>
+        <p>''This settlement appears to have serious deficiencies,'' Mr. Vacco said in a statement. ''I am stepping up my own investigation to insure that New York State's interests are protected.''</p>
+        <p>Fumes from diesel trucks are important contributors to smog, which plagues New York City, and acid rain, which damages lakes and forests in the Adirondacks.</p>
+        <p>The Federal authorities had charged that the engine makers designed their engines with computerized controls that enabled the engines to meet air pollution standards during certification tests in the laboratories even though they violated the standards in normal operations.</p>
+        <p>As they settled the cases, the companies said today that the accusations were untrue and that their engines met applicable standards, an assertion that the E.P.A. said its investigation had proved false.</p>
+        <p>Environmental groups that are already suing engine makers separately under California state law said they would challenge the settlement.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

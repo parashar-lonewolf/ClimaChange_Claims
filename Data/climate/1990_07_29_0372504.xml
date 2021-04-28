@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ideas &amp; Trends;   Science Learns to Catch a Polluting Car in the Act</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="372504"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <person class="indexing_service">STEDMAN, DONALD H (PROF)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DC1730F93AA15754C0A966958260" item-length="1007" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ideas &amp; Trends;   Science Learns to Catch a Polluting Car in the Act</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The fight for clean air has produced a new weapon, the environmental equivalent of a highway radar trap, that measures carbon monoxide from passing cars in a fraction of a second. The original idea was to pick out ''super polluters,'' but some government officials are now thinking about new approaches to pollution control.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The fight for clean air has produced a new weapon, the environmental equivalent of a highway radar trap, that measures carbon monoxide from passing cars in a fraction of a second. The original idea was to pick out ''super polluters,'' but some government officials are now thinking about new approaches to pollution control.</p>
+        <p>The fight for clean air has produced a new weapon, the environmental equivalent of a highway radar trap, that measures carbon monoxide from passing cars in a fraction of a second. The original idea was to pick out ''super polluters,'' but some government officials are now thinking about new approaches to pollution control.</p>
+        <p>A few are skeptical that the invention can ever do more than perform crude screenings. But others argue that even that could be very useful.</p>
+        <p>''It's a pretty incredible tall tale to tell, that you can determine the emissions of a car as it drives by,'' said Marc L. Pitchford, an atmospheric physicist with the Environmental Protection Agency's Environmental Monitoring Systems Laboratory in Las Vegas. But the system works, he said, even at highway speeds. The agency has financed development of a model for $50,000.</p>
+        <p>The device shines a beam of infrared light through the exhaust behind a car, 10 inches above the pavement. Carbon monoxide, a major pollutant, absorbs a particular wavelength of light; carbon dioxide absorbs a different wavelength. The absorption can be measured by a sensor across the lane of traffic.</p>
+        <p>The inventor, Donald H. Stedman, a chemistry professor at the University of Denver, hooked a computer to the sensor to determine the ratio of the two gases, and from that, calculated the amount of carbon dioxide emitted per mile. This is the same measurement made when a technician in a garage puts a probe in the tailpipe of an idling car for the annual inspection.</p>
+        <p>Professor Stedman argues that the problem with the annual idle test is that it is annual and idle. It gives a car 364 days to run around dirty, and only measures how clean it is when it is idling, which is not characteristic of cars rolling down the road.</p>
+        <p>And the device would make better use of public resources, according to some officials. Mr. Pitchford said that using the system is ''like picking up people weaving across traffic lanes for driving while under the influence, instead of stopping everybody to see if they can pass a breath- alyzer test.'' Misleading Readings?  Some see a more limited use, however. At the California Air Resources Board, which used the device to measure pollution production, William Sessa, a spokesman, said that it was ''very good for measuring emissions from a car in a cruising situation.'' But it provides a snapshot, and if the car is accelerating or decelerating, or has just pulled out a driveway and is not warmed up, it will give a reading that is accurate but uncharacteristic.</p>
+        <p>Professor Stedman's device, which he calls Feat, for Fuel Efficiency Automobile Test, is linked to a video camera that records a picture of the license plate of cars that fail. Adding a computer that reads the license plate number off the picture, he said, would make it easy to generate a letter to the car's owner requiring that the vehicle be brought in for conventional inspection. Ten percent of the cars produce half the pollution, he said, and this would catch the 10 percent.</p>
+        <p>But Mr. Sessa challenged this statistic, saying that it came from a study limited to cars with dirty emissions. In Los Angeles, he said, about one-third of the auto fleet generates half the pollution.</p>
+        <p>He said he doubted that the device would be useful for picking out individual violators, and it could not replace traditional tests because it did not detect hydrocarbons and nitrogen oxides, two other pollutants. (The American Petroleum Institute is underwriting development of a second beam, which will measure hydrocarbons, and the Environmental Protection Agency will probably finance development of an ultraviolet beam next year that will measure nitrogen oxide.) Some Doubts In Denver, Michael J. O'Toole, a senior air pollution control specialist at the Colorado Department of Health, said, ''In concept, it's remarkable. We're excited about the potential it should present.'' But he added that factors like the condition of the car and whether it is accelerating made Dr. Stedman's device unsuitable for general screening.</p>
+        <p>At the Northeast States for Coordinated Air Use Management, a Boston-based pollution policy coalition of eight state governments, Nancy L. Seidman, an air pollution expert, said that most cars had to be called in for an annual mechanical inspection anyway. And the annual inspection has another value: ''It forces people to acknowledge that their car is a source of air pollution,'' she said.</p>
+        <p>But the in-garage tests ''May not reflect the real world very well,'' said Ms. Seidman. ''We don't have a good handle on who the high emitting vehicles are and how many of them there are. This is a first step toward getting us closer to those answers.''</p>
+        <p>The tool could open new research areas.</p>
+        <p>''We'd like to characterize the population on the road,'' said Mr. Pitchford. Screening thousands of cars a day, he said, government officials could determine if a particular model of car was prone to early failure of pollution control devices, or could find out quickly if a new model was not meeting expectations.</p>
+        <p>''We could set the thing up before alternate fuels were available in an area, and characterize the cars,'' he said. ''Then the following month, after we expect that most cars had tanked up with new fuel, we could measure again.''</p>
+        <p>Measuring cars in Illinois last year, the device established average failure rates for cars of different vintages. They ranged from 3 percent for cars of the 1983 model year or later to 25 percent for those from 1974 and earlier. Such calculations will help planners project the effects on the atmosphere of turn-over in the car fleet, among other things.</p>
+        <p>The device could also influence the debate on how best to clean up the air. Dr. Stedman argues that snaring the dirtiest cars - taking a car that produces 250 grams of carbon monoxide per mile and cutting it to 50 grams - is more effective than the proposal in the Clean Air Act that would require new cars to meet a standard of 3 grams per mile instead of the current 7 grams.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Try Nuclear Power</title>
+    <meta content="L19ENE$02" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1597833"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <person class="indexing_service">Rothwell, Geoffrey</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040719T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E7DA153AF93AA25754C0A9629C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Try Nuclear Power</hl1>
+      </hedline>
+      <abstract>
+        <p>Geoffrey Rothwell letter comments on benefits of nuclear power (July 12 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Signs of Energy'' (editorial, July 12):</p>
+        <p>We can set admirable goals for renewable energy resources, but if the costs are not competitive, nothing will be built. Nuclear power is available, and several groups are discussing construction of new nuclear power plants with plant vendors.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Signs of Energy'' (editorial, July 12):</p>
+        <p>We can set admirable goals for renewable energy resources, but if the costs are not competitive, nothing will be built. Nuclear power is available, and several groups are discussing construction of new nuclear power plants with plant vendors.</p>
+        <p>The quickest method for reducing greenhouse gases now is with nuclear power. Wind and solar power are great future resources, but without huge subsidies, they will not make a dent in greenhouse gases during the next 10 years.</p>
+        <p>If we are serious about reducing the risk of climate change, we need to consider nuclear power, as the Asians and the Europeans are doing.</p>
+        <p>GEOFFREY ROTHWELL  Stanford, Calif., July 14, 2004</p>
+        <p>The writer is a senior lecturer in economics at Stanford University and a consultant to the Energy Department.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

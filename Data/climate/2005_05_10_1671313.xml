@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Web of Sensors, Taking Earth's Pulse</title>
+    <meta content="10WIRE$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1671313"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E7DA1230F933A25756C0A9639C8B63" item-length="2319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Web of Sensors, Taking Earth's Pulse</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM J. BROAD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the wilds of the San Jacinto Mountains, along a steep canyon, scientists are turning 30 acres of pines and hardwoods in California into a futuristic vision of environmental study.</p>
+        <p>They are linking up more than 100 tiny sensors, robots, cameras and computers, which are beginning to paint an unusually detailed portrait of this lush world, home to more than 30 rare and endangered species.</p>
+      </block>
+      <block class="full_text">
+        <p>In the wilds of the San Jacinto Mountains, along a steep canyon, scientists are turning 30 acres of pines and hardwoods in California into a futuristic vision of environmental study.</p>
+        <p>They are linking up more than 100 tiny sensors, robots, cameras and computers, which are beginning to paint an unusually detailed portrait of this lush world, home to more than 30 rare and endangered species.</p>
+        <p>Much of the instrumentation is wireless. Devices the size of a deck of cards -- known as motes, after dust motes -- can measure light, wind speed, rainfall, temperature, humidity and barometric pressure, detecting the presence of a warm body or tracking the progress of a chill wind up the canyon.</p>
+        <p>''It's very cool to be out into the woods with a laptop and be connected to the Internet and see all these motes in action,'' said Dr. Eric A. Graham, a biologist at the University of California, Los Angeles, who is studying the forest, known as the James Reserve. ''It's real-time visualization over a large area. It's new science.''</p>
+        <p>And it is spreading, with more than $1 billion in networks of sensors planned not only for the land but places like the Hudson River and the deep Pacific. Ecology, historically a small science, is getting much bigger and at the same time much smaller.</p>
+        <p>The rapid miniaturization of technologies behind cameras, cellphones and wireless computers is allowing scientists to build innovative networks of small sensors that they say will produce a new era of ecological insight and, in time, help save the planet.</p>
+        <p>''It's tremendously important,'' said Dr. Deborah Estrin, director of the Center for Embedded Network Sensing at U.C.L.A. She said the gains could rival those from the introduction of instruments like microscopes. ''Think about M.R.I. and CAT scans and their impact on medical science,'' Dr. Estrin said. ''That's what we're trying to achieve.''</p>
+        <p>The field is young. But experts say successful trials like the California forest study demonstrate the promise of networks of tiny, often wireless sensors, that cost little compared with instruments now in use that are tied together by wires and power lines. In the years and decades ahead, scientists want to deploy millions of these kinds of devices over large tracts for long periods, opening new windows on nature.</p>
+        <p>''The potential for environmental science is amazing,'' said Dr. Alexandra Isern, a program director at the National Science Foundation. ''With this technology, we can start to understand what is an event and what is normal. We're recognizing more and more how different processes in the environment operate at different frequencies. To comprehend that, you need to take measurements all the time.''</p>
+        <p>Scientists hope to learn more about soil contaminants, land changes, water flow, invasive species, ocean cycles, continent formation, the places atmospheric carbon are stored, the reasons that volcanoes erupt and the ways viruses and gene fragments move through the environment.</p>
+        <p>Motes have custom-designed computer chips and sensors and are wireless and powered by batteries or solar cells, allowing scientists to use them in remote places and to move them around. Networks of them, and their larger cousins, are envisioned as dotting swaths of North America and running through the waters of the West Coast from California to Canada.</p>
+        <p>Some sites are to be permanent, with networks recording data for long periods, unlike summer field studies or two-week ocean research voyages. Such continuity is considered vital for better understanding how humans are altering the planet.</p>
+        <p>''It's a sea change across a whole range of fields,'' said Dr. Robert S. Detrick, a senior scientist at the Woods Hole Oceanographic Institution on Cape Cod. ''The objective is long-term investigation of temporal, climate or human impact. It's a big change.''</p>
+        <p>Behind the new wave lies the miniaturization of electronics and the development of new materials that allow ever smaller radios, computers, sensors and batteries.</p>
+        <p>Another factor is the National Science Foundation, a federal agency that finances basic research at colleges and universities. In the past few years, officials and experts say, the science foundation has spent more than $100 million to foster planning and research on the new sensor networks, and it foresees more than $1 billion in large ecological projects, mainly observatories.</p>
+        <p>''You've got a convergence in these very quickly advancing technical areas,'' said Dr. Filbert J. Bartoli, a program director at the science foundation. ''That gives you an opportunity for really impressive advances in sensor systems.''</p>
+        <p>The Defense Department is another factor. In the 1990's, its Advanced Research Projects Agency financed university scientists to shrink computerized modules for many kinds of sensors down to Lilliputian size -- in one case smaller than a penny. The team named them motes and smart dust.</p>
+        <p>Demand for the devices grew so fast that in 2002 the leader of the group, Dr. Kris Pister of the University of California, Berkeley, helped found Dust Networks, of Hayward, Calif., which sells motes for many applications, including ecologic studies.</p>
+        <p>Rob Conant, a co-founder, described the units as highly energy efficient, automatically putting themselves to sleep most of the time and waking up periodically to check on sensors and to radio the results to other network nodes.</p>
+        <p>He said a mote the size of a cellphone could work for five years, transmitting up to 325 feet away. The nodes of the network automatically look for neighbors and compensate if some fail, Mr. Conant added. ''It's like taking the wires out of a big chunk of the Internet,'' he said in an interview.</p>
+        <p>Environmental sensor networks can help fill an observational gap between microscopes and telescopes, he remarked. ''It's been hard to get vast information about swamps,'' Mr. Conant said. ''This kind of technology fits very well because it lets people collect on a human scale.''</p>
+        <p>Industry giants are joining in. For instance, Intel works with the U.C.L.A. Center for Embedded Network Sensing on the forest project, which is in its third year.</p>
+        <p>The James Reserve, some 90 miles southeast of Los Angeles on a mountain flank that is home to 1,500 species of plants and animals, including the yellow-legged frog and willow flycatcher, now bristles with enough monitoring gear to make it one of the world's most advanced tests of ecologic networking.</p>
+        <p>Wireless motes, cameras and other sensors track the nesting habits of birds, the life cycles of moss and the carbon dioxide uptake of various soils. Robots move along wires strung from tree to tree, lowering sensors to take temperature, humidity and light-level readings at different levels.</p>
+        <p>Thousands of miles away, scientists are starting a similar effort -- but wet. They are designing floating robots, wireless sensors and distributed computers in an effort to better understand and improve the water quality of the Hudson River.</p>
+        <p>The project, known as RiverNet, is to use roughly two dozen instruments in all. Financed by the science foundation, it seeks to track fertilizer runoff from farms, heat from power plants, growth of algae and pollutants like polychlorinated biphenyls.</p>
+        <p>''Let's say we have a contaminant spill,'' said Dr. Sandra A. Nierzwicki-Bauer, a RiverNet expert at the Rensselaer Polytechnic Institute in Troy, N.Y. ''This allows us to immediately track that so you can respond much quicker and mitigate damage.''</p>
+        <p>Beyond such demonstrations lies an emerging world of very large networks that combine motes and portable gear with larger technologies to improve the depth, duration and range of monitoring.</p>
+        <p>The $200 million EarthScope project of the science foundation is erecting 3,000 stations that are to track faint tremors, measure crustal deformation and make three-dimensional maps of the earth's interior from crust to core. Some 2,000 more instruments are to be mobile -- wireless and sun- or wind-powered -- and 400 devices are to move east in a wave from California across the nation over the course of a decade.</p>
+        <p>The goal is to uncover the secrets of how the continent formed and evolved, revolutionizing the study of volcanoes, fault systems, mineral deposits and earthquakes. Begun in 2003, EarthScope is to be completed by 2008 and run until 2023.</p>
+        <p>''It's the largest undertaking in the history of geoscience,'' said Dr. Gregory E. van der Vink, project director of EarthScope, which is based in Washington. ''It's about instrumenting North America.''</p>
+        <p>The biological world has its own megaproject -- the National Ecological Observatory Network, or NEON. Its cost is estimated at $500 million. Experts say plans are still evolving, but coast-to-coast NEON could involve perhaps 15 circular areas 250 miles in diameter, each including urban, suburban, agricultural, managed and wild lands.</p>
+        <p>Each observatory would have radar for tracking birds and weather as well as many layers of motes and robots and sensors, including some on cranes in forest canopies. If NEON gets a green light, construction is expected to start in 2007 and last five years.</p>
+        <p>One goal is to track invasive species, which cause more than $100 billion in agricultural losses each year. Another is to forecast changes in the biosphere that may accompany climate shifts so planners and government officials can make better choices about land use and restoration.</p>
+        <p>''We have to be prepared for the kinds of changes that will happen in the next century,'' said Dr. Bruce P. Hayden, an environmental scientist at the University of Virginia and a NEON founder. ''We have to know the dynamics of the living world.''</p>
+        <p>Perhaps the most challenging project is Neptune. It is to run nearly 2,000 miles of cables dotted with sensors, cameras and tetherless robots through the inky depths of the Pacific fromCalifornia to Canada. It would cross the Juan de Fuca Plate, the slab of crust that boils with seaquakes, undersea volcanoes, colonies of tube worms and exotic organisms that thrive in fiery rifts.</p>
+        <p>Neptune is to cost about $200 million, about a third from Canada and much of the rest from the science foundation. Its goal is to study the total ocean environment from below the seabed to the surface in an effort to answer fundamental questions and help people better care for what oceanographers call the planet's lifeblood.</p>
+        <p>''It's going to set the tone for how the human race interacts with the oceans,'' said Dr. John R. Delaney, a scientist at the University of Washington who has championed Neptune. ''As goes the ocean, so goes the planet.''</p>
+        <p>The Canadians have already begun work on their segment while the Americans expect the first construction financing in 2007 and the system to be finished by 2012. Neptune is to operate for three decades.</p>
+        <p>It remains to be seen how enthusiastically the Bush administration and Congress will finance the networks and their operations. Some observatories were planned in the early 2000's when the science foundation's budget was expected to double to nearly $10 billion. By contrast, this year's budget is $5.5 billion, and the White House is proposing a modest 2.4 percent increase for next year.</p>
+        <p>The scientists say the nation should press ahead because the opportunities are so great and the stakes so high.</p>
+        <p>''It's a paradigm shift,'' Dr. William J. Kaiser of the Center for Embedded Network Sensing said of innovative new ways of monitoring the environment. ''It's going to change the way we think.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

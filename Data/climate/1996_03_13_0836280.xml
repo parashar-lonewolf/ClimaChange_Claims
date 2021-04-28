@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Record Ozone Depletion Observed in North</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="836280"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <org class="indexing_service">WORLD METEOROLOGICAL ORGANIZATION WORLD METEOROLOGICALORGANIZATION</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960313T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E0D81639F930A25750C0A960958260" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Record Ozone Depletion Observed in North</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>GENEVA, March 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The ozone layer was briefly depleted by a record 45 percent this winter over  an area stretching from Greenland to western Siberia, the World Meteorological Organization said today.</p>
+        <p>But the United Nations agency said the decline in the earth's protective layer over roughly one-third of the Northern Hemisphere did not constitute an ozone hole, as exists over Antarctica.</p>
+      </block>
+      <block class="full_text">
+        <p>The ozone layer was briefly depleted by a record 45 percent this winter over  an area stretching from Greenland to western Siberia, the World Meteorological Organization said today.</p>
+        <p>But the United Nations agency said the decline in the earth's protective layer over roughly one-third of the Northern Hemisphere did not constitute an ozone hole, as exists over Antarctica.</p>
+        <p>The average ozone deficiency over the northern region from mid-January through early March was 20 to 30 percent, the agency said, but for a few days "an unprecedented deficiency of 45 percent" was observed.</p>
+        <p>Temperatures that fell to minus 108 degrees Fahrenheit facilitated the formation of polar stratospheric clouds that in the presence of chlorine and bromine compounds, brought about the severe ozone destruction, the meteorological agency said.</p>
+        <p>The ozone layer is a protective shield that blocks most of the sun's ultraviolet radiation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

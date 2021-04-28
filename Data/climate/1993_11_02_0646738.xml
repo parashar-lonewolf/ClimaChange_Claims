@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>If There's Any Doubt, Exterminate the Bugs</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="646738"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="PERSONAL COMPUTERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">RATINGS AND RATING SYSTEMS</classifier>
+        <person class="indexing_service">LEWIS, PETER H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DA1630F931A35752C1A965958260" item-length="952" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>If There's Any Doubt, Exterminate the Bugs</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER H. LEWIS</byline>
+      <byline class="normalized_byline">LEWIS, PETER H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE MICROSOFT CORPORATION's newest DOS, version 6.2, is an unscheduled upgrade intended to reassure customers who may have been alarmed by reports of data-loss problems with DOS 6.0.</p>
+        <p>DOS 6.2, which became available yesterday, adds new data protection and safety features that Microsoft compares to driver-side airbags and antilock brakes.</p>
+      </block>
+      <block class="full_text">
+        <p>THE MICROSOFT CORPORATION's newest DOS, version 6.2, is an unscheduled upgrade intended to reassure customers who may have been alarmed by reports of data-loss problems with DOS 6.0.</p>
+        <p>DOS 6.2, which became available yesterday, adds new data protection and safety features that Microsoft compares to driver-side airbags and antilock brakes.</p>
+        <p>The new DOS does the things that new operating systems are supposed to do: it requires less space in memory and has some tricks that make it easier to use. For example, one can now make floppy-to-floppy copies without switching diskettes repeatedly, and -- Thanks 1000000, Microsoft! (that's thanks a million) -- DOS finally adds commas to numbers greater than 1,000. No more will people have to squint and count zeros to try to figure out how many kilobytes are on their machines.</p>
+        <p>Yes, the little things count, but the big news in DOS 6.2 is safety. For example, DOS 6.2 now has the ability to diagnose and fix certain types of errors on a computer's hard disk before they can cause data loss. Other features of earlier DOS versions have been modified as well to provide greater data security.</p>
+        <p>Microsoft was not planning to make a DOS version 6.2 but had to after users reported problems with DOS 6.0.</p>
+        <p>DOS 6.0, introduced last April, was a major revision of the operating system software that controls tens of millions of personal computers worldwide. It added several significant improvements, including features that took better advantage of a computer's random-access memory (RAM) and that used data compression to double the amount of information that could be stored on a hard disk drive.</p>
+        <p>Within weeks, though, reports began surfacing about users who had lost data, in some cases everything on their entire hard disks, after they upgraded to DOS 6 from DOS 5. No problems were reported by people who bought computers with DOS 6 already installed.</p>
+        <p>And even among upgraders, the reports of problems were rare, amounting to at most a few hundred accounts out of millions of DOS 6.0 copies now in circulation, but it does not take many hard disk losses to spook customers. It was as if an automobile make's airbags were occasionally suffocating random drivers instead of saving their lives.</p>
+        <p>The problems with DOS 6.0 were traced to two new features, called Smart Drive and Double Space. It does not appear that the features themselves were dangerous, but rather that they were susceptible to conflicts with other programs, particularly games, or vulnerable to random acts like turning off the computer too soon after the user exited from a program.</p>
+        <p>"No one has ever proved that there were reproduceable bugs in DOS 6," said Stuart J. Johnston, northwest bureau chief for Infoworld, the computer industry newspaper that first reported on the DOS 6.0 problems. Nonetheless, he said, "people were ringing our gripe line off the hook."</p>
+        <p>Microsoft quickly began to work on the DOS 6.2 repairs. But it also took advantage of the unscheduled pit stop to make other changes.</p>
+        <p>The original Double Space technology used for the first time in DOS 6.0 is certainly compelling. Using data compression, Double Space in effect doubles the capacity of a hard disk drive.</p>
+        <p>The nice part was that the compression and decompression were done automatically, without user intervention. The bad part was that if Double Space tried to write its compressed data onto an unreliable segment of the hard disk, the data would be "cross-linked," or merged, with another file. Bye-bye, data.</p>
+        <p>The DOS 6.2 Scan Disk tool examines the hard disk before Double Space attempts to write data on it, and if it finds some quicksand or tar pits, it rescues any data trapped there and moves them to solid ground. It also detects and repairs cross-linked files.</p>
+        <p>Microsoft has also included an Uncompress command, which allows the user to stop using Double Space without undo suffering, which was not possible before. Of course, if the user has already crammed 60 megabytes of compressed data onto what was originally a 40-megabyte drive, files have to be jettisoned before the command will work.</p>
+        <p>DOS 6.2 also gives users the option of not using the Smart Drive feature, which is supposed to improve the performance of the computer's disk drives. It does, almost always. But in some rare cases -- which involved either turning off the computer before Smart Drive was finished writing its information to disk or a software conflict with another program -- Smart Drive sent the entire contents of a hard drive into the ozone layer, never to be seen again.</p>
+        <p>There is no level of purgatory too hot for a program that causes everything on one's hard disk to vanish. Microsoft appears to have fixed the vulnerable parts of Smart Drive, but many users, including Mr. Johnston of Infoworld, say they will take advantage of the "don't install" feature just in case.</p>
+        <p>The lesson from DOS 6.0 -- nag, nag, nag -- is that one should back up the hard disk regularly. Others will say another lesson is to be wary of any software whose version number ends in a zero.</p>
+        <p>Microsoft is selling the DOS 6.2 upgrade to DOS 6.0 owners for $9.95 and offering it without charge (other than downloading fees) to customers via the Microsoft forum on Compuserve. Owners of earlier DOS versions up to 5.0 can upgrade for $77.95.</p>
+        <p>In a move that will be welcomed by any novice who grows pale at the sight of a regular computer manual, Microsoft is also offering the DOS 6.2 upgrade software inside a book called "MS-DOS 6.2 Upgrade for Dummies," by Dan Gookin ($77.95). The book is a special edition of Mr. Gookin's best-selling "DOS for Dummies," which addresses technical topics with humor and without jargon.</p>
+        <p>PERSONAL COMPUTERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

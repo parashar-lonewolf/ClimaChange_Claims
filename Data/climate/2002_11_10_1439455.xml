@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Energy Economy</title>
+    <meta content="L10WARM" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/11/10/opinion/L10WARM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1439455"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Hoffert, Martin I</person>
+        <person class="indexing_service">Caldeira, Ken</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E2DA1731F933A25752C1A9649C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Energy Economy</hl1>
+        <hl2 class="online_headline">New Energy Economy</hl2>
+      </hedline>
+      <abstract>
+        <p>Martin I Hoffert and Ken Caldeira letter on Nov 3 a�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Climate Talks Shift Focus to How to Deal With Changes'' (news article, Nov. 3):</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New Energy Economy To the Editor:.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Climate Talks Shift Focus to How to Deal With Changes'' (news article, Nov. 3):</p>
+        <p>You write that the idea of adaptation to climate change rather than working on limiting the warming got support from a new scientific analysis ''suggesting that the only way to safely stabilize greenhouse gases by midcentury was with a hugely ambitious Apollo-size research program on fusion, solar power, and other nonpolluting energy sources. ''</p>
+        <p>You continue: ''The lead authors of that study echoed other experts in saying it was nearly inconceivable that the Bush administration or Congress would finance such a costly crash program.''</p>
+        <p>We are the lead authors of the study. Rather than supporting the defeatism of adaptation, our study calls for the large investment required to develop a new energy economy that would promote climate stabilization and economic development.</p>
+        <p>And not only is it conceivable that the Bush administration and Congress would support such a program, it is essential that they do.</p>
+        <p>MARTIN I. HOFFERT  KEN CALDEIRA  New York, Nov. 3, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

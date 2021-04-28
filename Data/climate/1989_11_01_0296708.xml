@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cleaning the Soil After a Gasoline Leak</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="296708"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">THERMO PROCESS SYSTEMS INC</org>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFD91330F932A35752C1A96F948260" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cleaning the Soil After a Gasoline Leak</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: There are an estimated two million underground gasoline tanks in this country, at service stations and industrial plants, and at least a quarter of them are thought to be leaking. Owners of these sites are obliged to clean up contaminated soil to prevent gasoline from fouling supplies of drinking water.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: There are an estimated two million underground gasoline tanks in this country, at service stations and industrial plants, and at least a quarter of them are thought to be leaking. Owners of these sites are obliged to clean up contaminated soil to prevent gasoline from fouling supplies of drinking water.</p>
+        <p>There are an estimated two million underground gasoline tanks in this country, at service stations and industrial plants, and at least a quarter of them are thought to be leaking. Owners of these sites are obliged to clean up contaminated soil to prevent gasoline from fouling supplies of drinking water.</p>
+        <p>Thermo Process Systems Inc., a subsidiary of the Thermo Electron Corporation of Waltham, Mass., has developed a portable two-step process to remove gasoline from soil and then burn it with a minimum of air pollution.</p>
+        <p>All the equipment is mounted on a trailer that can be driven to a leaky-tank location. This avoids the problems associated with moving potentially hazardous waste to a remote location for treatment.</p>
+        <p>The soil is fed into a rotary kiln that raises the soil's temperature to 600 to 700 degrees Fahrenheit. At this temperature the liquid petrochemicals become gaseous and are driven out of the dirt, which is then fit to be put back into the ground. The concentration of gasoline in the soil is kept low enough to avoid the danger of explosion. With heavily contaminated soils, production rates are slowed or clear dirt added to stay below the explosion limit.</p>
+        <p>After the gasoline vapors are passed through a filter that screens out solids, the fumes are exposed to a flame at 1,400 degrees in an oxygen-rich atmosphere. This breaks down the complex hydrocarbons, and what emerges are the simplest combinations, carbon dioxide and water.</p>
+        <p>Jeffrey L. Powell, a vice president of Thermo Process Systems, said the unit can process 25 tons of soil an hour.</p>
+        <p>BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

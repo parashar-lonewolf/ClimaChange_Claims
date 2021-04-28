@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Temperature Risks Are All Over the Map</title>
+    <meta content="29PATT$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/01/29/health/29PATT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1363210"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="VITAL SIGNS: PATTERNS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Temperature</classifier>
+        <classifier class="indexing_service" type="descriptor">Death and Dying</classifier>
+        <location class="indexing_service">Southern States (US)</location>
+        <location class="indexing_service">Northern States (US)</location>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Death and Dying</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E6DD153AF93AA15752C0A9649C8B63" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Temperature Risks Are All Over the Map</hl1>
+        <hl2 class="online_headline">Patterns: Temperature Risks Are All Over the Map</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Study suggests that where one lives plays important role in temperature extremes that are associated with increased death rates; finds that while residents of relatively temperate American South are likely to be put at greater risk by deep freeze, people who live in North are more susceptible to deaths caused by too much heat (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Extremes in temperature, whether hot or cold, have long been associated with increased death rates. But a new study suggests that where one lives may play an important role.</p>
+        <p>While residents of the relatively temperate American South are likely to be put at greater risk by a deep freeze, people who live in the north are more susceptible to deaths caused by too much heat.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Extremes in temperature, whether hot or cold, have long been associated with increased death rates. But a new study suggests that where one lives may play an important role.</p>
+      </block>
+      <block class="full_text">
+        <p>Extremes in temperature, whether hot or cold, have long been associated with increased death rates. But a new study suggests that where one lives may play an important role.</p>
+        <p>While residents of the relatively temperate American South are likely to be put at greater risk by a deep freeze, people who live in the north are more susceptible to deaths caused by too much heat.</p>
+        <p>The findings are reported by researchers from the Johns Hopkins Bloomberg School of Public Health and are reported in a recent American Journal of Epidemiology.</p>
+        <p>The conclusions may prove useful, said Dr. Frank C. Curriero, the lead author of the study, as health officials weigh what steps to take in response to climate changes, whether they are the periodic upheavals caused by El Niño or long-term global warming.</p>
+        <p>Generally, the researchers found, the risk of weather-related death went down as the temperatures rose and the cold no longer posed a threat.</p>
+        <p>But that was only true to a point. Death rates, they said, began to climb again after the temperature rose enough.</p>
+        <p>The researchers examined the temperature patterns and death rates of 11 cities. The coldest one was Chicago; the warmest, Miami.</p>
+        <p>Other factors also play a role. The association between cold temperatures and death was most pronounced in cities with high concentrations of the elderly and lower in cities with more heating systems.</p>
+        <p>VITAL SIGNS: PATTERNS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

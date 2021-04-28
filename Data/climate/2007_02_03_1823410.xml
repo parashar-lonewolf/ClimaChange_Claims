@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spring Floods</title>
+    <meta content="l03flood" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823410"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dams and Dikes</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <person class="indexing_service">Mills, Ann C</person>
+        <person class="indexing_service">Leslie, Jacques</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dams and Dikes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3DB123FF930A35751C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spring Floods</hl1>
+      </hedline>
+      <abstract>
+        <p>American Rivers exec vice pres Ann C Mills letter holds that federal government should repair threatening dams, or remove them (Jacques Leslie Jan 22 Op-Ed)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Before the Flood,'' by Jacques Leslie (Op-Ed, Jan. 22):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Before the Flood,'' by Jacques Leslie (Op-Ed, Jan. 22):</p>
+        <p>Dams can fail; it's a lesson New England learned in 2005 and 2006, but may already have forgotten.</p>
+        <p>Global warming is causing glaciers to melt, rivers to swell and stronger storms; and it's only going to get worse. Mr. Leslie is right: the Kaloko Dam disaster on the Hawaiian island of Kauai that killed seven is a harbinger of things to come. We are not ready. More than half of the country's dams that pose a threat to human life currently aren't even required to have an emergency plan.</p>
+        <p>But Mr. Leslie does not mention one of the best, most economic options for many dangerous dams -- taking them out.</p>
+        <p>The federal government needs to be there with the resources to repair threatening dams, or remove them. States must act immediately to set emergency plans, inform communities of the risk and begin removing dangerous dams that cannot be made safe.</p>
+        <p>Ready or not, spring floods are coming.</p>
+        <p>Ann C. Mills  Executive Vice President  American Rivers  Washington, Jan. 23, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>True to Clean Air Act</title>
+    <meta content="L03EPA$01" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1516625"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Factories and Industrial Plants</classifier>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Horinko, Marianne Lamont</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E5D91238F930A3575AC0A9659C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>True to Clean Air Act</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Marianne Lamont Horinko, acting administrator of Environmental Protection Agency, scores Aug 23 and Aug 28 editorials for erroneous interpretation of EPA's new source review; says caps on emissions from industrial facilities are not compromised</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Politics and Pollution'' (editorial, Aug. 28) and ''Fouling the Air'' (editorial, Aug. 23):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Politics and Pollution'' (editorial, Aug. 28) and ''Fouling the Air'' (editorial, Aug. 23):</p>
+        <p>You suggest that the Environmental Protection Agency's ''new source review'' will allow industrial facilities to spew unhealthy pollutants into the air. In fact, the E.P.A. improved the N.S.R. rule to boost the reliability, efficiency and safety of industrial power plants.</p>
+        <p>There is nothing in this rule that changes the increasingly strict and absolute caps on emissions from such plants.</p>
+        <p>The acid rain program is one of the most successful and innovative control mechanisms in effect today. It is ratcheting down the emission levels from the very same power plants that you and others would have us believe are operating like outlaws, poised to unleash more pollution when this new rule takes effect.</p>
+        <p>That is not the case and can never be the case. Air quality across the country will continue to improve. Even a cursory reading of the Clean Air Act and this rule makes that clear.</p>
+        <p>MARIANNE LAMONT HORINKO  Acting Administrator  Environmental Protection Agency  Washington, Sept. 2, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

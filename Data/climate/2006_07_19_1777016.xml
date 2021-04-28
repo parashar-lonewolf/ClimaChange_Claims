@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cold Comfort</title>
+    <meta content="19sirowitz" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/07/19/opinion/19sirowitz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1777016"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Air Conditioning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Conditioning</classifier>
+        <person class="online_producer">Sirowitz, Hal</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060719T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E5DA163FF93AA25754C0A9609C8B63" item-length="494" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cold Comfort</hl1>
+        <hl2 class="online_headline">Cold Comfort</hl2>
+      </hedline>
+      <byline class="print_byline">By Hal Sirowitz</byline>
+      <byline class="normalized_byline">Sirowitz, Hal</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I WILL not buy an air-conditioner. I don't care if it's nearly 100 degrees outside and feels like 400, as it has the last few days. I heard that if you start to use an air-conditioner you'll become dependent on it for the rest of your life, as you do with eyeglasses. Anyway, as a native of Queens, I've found that the city offers numerous alternatives to keep cool.</p>
+        <p>One recent summer, in fact, I (nearly) conquered the heat by relying solely on my ingenuity. On particularly hot and humid days I'd walk to Western Beef, the giant supermarket on College Point Boulevard, and go inside the cheese room. I would stay in there as long as I could by pretending I was looking for a rare cheese.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Beating the heat without an air-conditioner in Queens.</p>
+      </block>
+      <block class="full_text">
+        <p>I WILL not buy an air-conditioner. I don't care if it's nearly 100 degrees outside and feels like 400, as it has the last few days. I heard that if you start to use an air-conditioner you'll become dependent on it for the rest of your life, as you do with eyeglasses. Anyway, as a native of Queens, I've found that the city offers numerous alternatives to keep cool.</p>
+        <p>One recent summer, in fact, I (nearly) conquered the heat by relying solely on my ingenuity. On particularly hot and humid days I'd walk to Western Beef, the giant supermarket on College Point Boulevard, and go inside the cheese room. I would stay in there as long as I could by pretending I was looking for a rare cheese.</p>
+        <p>One day an employee approached me. He said that since I was spending almost as much time as he was with cheese I might as well get paid for it. But I wanted to work there only on hot days. I couldn't call in sick every time the temperature dropped into the 70's. I thanked him and never went back.</p>
+        <p>I had no choice but to return to my local Key Food, where I would linger at the refrigerated dairy section. It wasn't as satisfactory as Western Beef, because customers were always asking me to move so they could get milk. I'd then go to the frozen section and open the door. But the anxiety I'd feel by being on the lookout for the manager made me sweat, which canceled out the effects of the cold air.</p>
+        <p>Next I tried the public library on Main Street. I'd feel cool at first. After a while, though, it seemed as if everyone in Flushing who didn't have an air-conditioner was there, too. Instead of breathing in oxygen I was breathing in the carbon dioxide of the people sitting next to me.</p>
+        <p>The more I thought about how hot I was, the more I realized that being hot is only a state of mind. All I needed to do then was to think cool. So one day I decided to sit in front of my fan and come up with images of the North Pole -- igloos and polar bears. But eventually I got tired of getting blasted by hot air from the fan.</p>
+        <p>Finally, on one sticky night I returned home to find a curious, but ingenious solution: my neighbors, many of them Asian, were sitting on blankets in front of their building. They wore only shorts or pajamas. They seemed less affected by the heat, but I didn't have the character to change into my pajamas, grab a blanket and join them. It was part of my culture to grin and bear it.</p>
+        <p>At one point my ancestors were running away from the pharaoh in Egypt. It's hot there. I should be grateful they made it to America, where it's much cooler. I shouldn't complain.</p>
+        <p>Op-Ed Contributor Hal Sirowitz, the former poet laureate of Queens, is the author of ''Father Said.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Hal Sirowitz, the former poet laureate of Queens, is the author of ''Father Said.''</tagline>
+    </body.end>
+  </body>
+</nitf>

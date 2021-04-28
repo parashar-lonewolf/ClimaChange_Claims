@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Fresh Eye on the Environment</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="419246"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <classifier class="indexing_service" type="descriptor">HAZARDOUS AND TOXIC SUBSTANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">CODES (CIPHERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">ATOMIC WEAPONS</classifier>
+        <person class="indexing_service">MARKHOFF, JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Codes (Ciphers)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6D9173CF932A05752C0A967958260" item-length="1493" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Fresh Eye on the Environment</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The world's fastest computers, once used almost exclusively to build nuclear weapons and crack codes, are finding a variety of new uses as environmental tools.</p>
+        <p>In the Persian Gulf, for instance, supercomputers were employed last year to simulate the potential damage to the environment from the burning of huge quantities of oil. The computers also make it possible to warn of killer storms further in advance, to understand the forces changing the global climate, and to help monitor the disposal of hazardous wastes.</p>
+      </block>
+      <block class="full_text">
+        <p>The world's fastest computers, once used almost exclusively to build nuclear weapons and crack codes, are finding a variety of new uses as environmental tools.</p>
+        <p>In the Persian Gulf, for instance, supercomputers were employed last year to simulate the potential damage to the environment from the burning of huge quantities of oil. The computers also make it possible to warn of killer storms further in advance, to understand the forces changing the global climate, and to help monitor the disposal of hazardous wastes.</p>
+        <p>Concerned about the potential environmental damage if Kuwaiti oilfields were set on fire, the Pentagon last summer commissioned researchers at the Pacific Sierra Research Corporation, a California consulting company, to create a supercomputer model of such an event. Only a supercomputer, which can perform billions of mathematical operations in a second and can store and retrieve large amounts of data, can accurately simulate the complex chemical interactions in the atmosphere.</p>
+        <p>The scientists found that little of the smoke generated by such fires would reach the upper atmosphere and prevent sunlight from reaching the earth, creating global climate changes and harming agriculture.</p>
+        <p>Other scientists, who have built supercomputer simulations detailing the climatological effects of a nuclear war, dispute the underlying assumptions of the Pentagon's model. Dr. Richard Turco, an atmospheric scientist at the University of California at Los Angeles, said that under certain circumstances, enough smoke from the fires could reach the upper atmosphere to cause regional cooling.</p>
+        <p>Another environmental application of the supercomputer involved smog, which scientists thought dispersed each evening, only to form again in the morning. Recently, using a supercomputer, Carnegie-Mellon University scientists demonstrated that smog stays in place high above the ground, moving lower each morning as warming air circulates, compounding the new day's pollution. That knowledge prompted a broadening of anti-pollution policies aimed mainly at car emissions, and led Los Angeles to adopt the nation's strictest pollution controls.</p>
+        <p>The supercomputer has proved to be a powerful tool for policy makers, who can use it to experiment rapidly by creating a series of hypothetical situations and measuring the effects of isolated changes. For instance, Carnegie-Mellon used the computer to "remove" cars from the streets of Los Angeles, testing what effect that would have on pollution. In this and thousands of wide-ranging applications, the supercomputer has become indispensable for many public-policy researchers, regulators and corporate executives.</p>
+        <p>"Even in times of fairly tight budget constraints there is going to be money to buy these tools," said Willis E. Greenstreet, the director of administration at the North Carolina research operation of the Environmental Protection Agency. "It leads to more cost-effective regulation."</p>
+        <p>Supercomputers, which are thousands of times more powerful than a desktop computer, cost $3 million to $30 million each. They were conceived primarily for military purposes that require billions and billions of calculations, such as creating the models of nuclear explosions that are used in the design of weapons. Analyzing the Weather</p>
+        <p>But in the last two years, financing declined for computer-intensive military research programs, including the "Star Wars" missile-defense system. That forced the country's national research laboratories, which historically pursued advanced weapons programs, to look for new projects.</p>
+        <p>At the same time, the ability of supercomputers to make forecasts has improved to the point where they have become useful for environmental purposes like weather analysis.</p>
+        <p>Supercomputers can study the weather through the use of mathematical models that account for dozens of factors, like atmospheric pressure, temperature, regional topography and wind direction. By breaking up a large region into many small areas, highly accurate forecasts can be developed.</p>
+        <p>Unlike satellite weather images, which simply show current conditions, the supercomputer can reliably predict changes in the weather.  Military Using Forecasts</p>
+        <p>In addition to the environmental project concerning the Persian Gulf, the military is using supercomputer weather forecasts to plan bombing sorties. Indeed, many countries fighting against Iraq are censoring weather forecasts generated by supercomputers to cut off the Iraqis from such information.</p>
+        <p>In October 1987, a hurricane unexpectedly struck southern England, killing 13 people and causing millions of dollars' worth of damage. The storm was not predicted by the more modest computers used by British weather forecasters. But scientists at the European Community Medium-Range Weather Facility in Reading, England, were able to predict the storm on their Cray supercomputers and issued a warning.</p>
+        <p>"The cost of the supercomputer is peanuts compared to what you can save," said Gregory J. McRae, a chemical engineer at Carnegie-Mellon. His research on smog formation has been used by California air-quality authorities to help choose the most effective pollution-control strategies. 'Greening of the Supercomputer'</p>
+        <p>Supercomputers are also widely used for dozens of scientific and engineering tasks, including the simulation of automobile accidents to learn how to design safer cars; the creation of aircraft models to improve their aerodynamic efficiency, and the study of the interplay of specific molecules to create more effective medications.</p>
+        <p>The complexity of creating models of environmental conditions has made the machines essential for serious scientific analysis.</p>
+        <p>Environmental projects are the largest and fastest-growing business for Cray Research Inc., the nation's top supercomputer maker.</p>
+        <p>"It represents the greening of the supercomputer," said John A. Rollwagen, chairman and chief executive of Cray. "It now rivals anything that the weapons business has ever had."</p>
+        <p>At Cray, which is based in Minneapolis, the number of installed multimillion-dollar supercomputers purchased for weather and environmental applications has jumped to 17 at 15 sites, from 4 machines at 4 sites in 1988. Cray said another dozen machines were used substantially for such environmental applications and for other tasks as well. Supercomputers for environmental uses now account for about 20 percent of Cray's annual revenue. Rivals Benefit, Too</p>
+        <p>Cray is getting more orders for environmental applications than any other supercomputer maker, but others are benefiting as well. These include I.B.M., Thinking Machines and Convex Computer in the United States, and NEC and Fujitsu in Japan.</p>
+        <p>Cray was the main beneficiary last year when ETA Systems Inc., a subsidiary of the Control Data Corporation, whose machines were popular with meteorologists, went out of business. But Cray now faces tough competition from NEC. Computer scientists say NEC's new SX-3 supercomputer rivals the fastest Cray machine.</p>
+        <p>Cray Research was founded by Seymour Cray, who left in 1989 to form a new company, the Cray Computer Corporation. It, too, is benefiting from the growing environmental market. Cray Computer, based in Colorado Springs, recently announced that it had sold its first Cray 3 supercomputer to the Livermore National Laboratory's energy research center.  Studying Climate Changes</p>
+        <p>Computer scientists at the laboratory said the new machine, which many scientists think will be the world's fastest for certain applications when it is installed in 1992, will be mostly used to evaluate competing theories about the forces shaping changes in the global climate.</p>
+        <p>Weapons researchers at Livermore are also exploring how to use software, developed to monitor radiation leaks at nuclear test sites, to simulate problems caused by hazardous waste.</p>
+        <p>The Livermore laboratory, which has a stable of supercomputers including machines from Cray Research, Bolt Baranek &amp; Newman and Thinking Machines, is perhaps the most striking example of the contrast between the declining fortunes of the weapons designers and the growing advantages of environmental users.</p>
+        <p>Robert Borchers, head of computation for Livermore, said it was unlikely that even a single large new supercomputer would be purchased this year for the side of the laboratory that deals with classified weapons.</p>
+        <p>In contrast, researchers at the Environmental Protection Agency's research laboratories at Research Triangle Park in Chapel Hill, N.C., said that they had received approval to buy two of the world's largest supercomputers. The National Weather Service in Camp Springs, Md., is also planning to buy two machines from Cray Research this year.</p>
+        <p>The Environmental Proteciton Agency now uses Cray and I.B.M. supercomputers to run simulations of the formation of acid rain and smog in the eastern United States and southeastern Canada.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

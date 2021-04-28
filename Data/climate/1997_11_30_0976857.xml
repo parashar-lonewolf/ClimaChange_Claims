@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MARKET TIMING</title>
+    <meta content="TIMI30" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="976857"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DF113AF933A05752C1A961958260" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MARKET TIMING</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MONDAY  Kyoto conference on global warming opens.</p>
+        <p>The National Association of Purchasing Management releases November index.  The Commerce Department reports construction spending for October.</p>
+        <p>TUESDAY  The Conference Board reports leading economic indicators for October.</p>
+      </block>
+      <block class="full_text">
+        <p>MONDAY  Kyoto conference on global warming opens.</p>
+        <p>The National Association of Purchasing Management releases November index.  The Commerce Department reports construction spending for October.</p>
+        <p>TUESDAY  The Conference Board reports leading economic indicators for October.</p>
+        <p>WEDNESDAY  The Commerce Department reports new home sales for October.</p>
+        <p>THURSDAY  The Labor Department reports on productivity for the third quarter and on latest weekly unemployment claims.</p>
+        <p>FRIDAY  The Labor Department announces unemployment rate for November.</p>
+        <p>The Commerce Department announces factory orders for October.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

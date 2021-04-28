@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Better Than the Dewey Decimal System: Libraries You Can Visit Without Leaving Home</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="13NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="771284"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LIBRARIES AND LIBRARIANS</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRONIC INFORMATION SYSTEMS</classifier>
+        <location class="indexing_service">BERGEN COUNTY (NJ)</location>
+        <person class="indexing_service">CHEN, DAVID W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7D61E30F936A15755C0A963958260" item-length="485" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Better Than the Dewey Decimal System: Libraries You Can Visit Without Leaving Home</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID W. CHEN</byline>
+      <byline class="normalized_byline">CHEN, DAVID W</byline>
+      <dateline>HACKENSACK</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bergen County library system is now available 24 hours a day, 7 days a week.</p>
+        <p>This month the Bergen County Cooperative Library System, a non-profit group committed to sharing resources among the county's public libraries, unveiled its public-access computerized system.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bergen County library system is now available 24 hours a day, 7 days a week.</p>
+        <p>This month the Bergen County Cooperative Library System, a non-profit group committed to sharing resources among the county's public libraries, unveiled its public-access computerized system.</p>
+        <p>Anyone with a valid Bergen County library card can dial in to the system from a home computer after library hours (not while they are open) and get access to 500,000 bibliographic records representing 4.7 million items in the county's 62 public libraries. Patrons can do author, title or subject searches, as well as reserve books. In the fall, they can search for information in magazines and newspapers.</p>
+        <p>The computer system is the latest example of how New Jersey's libraries are venturing into the on-line world. In Morris County, patrons can gain access to part of the Internet through the Morris Resource and Educational Network (Morenet) to do searches of government documents, college courses and other information. And public libraries in five counties will soon offer an electronic bulletin board, North Jersey Public Information Exchange, with local information about such things as bus schedules, job opportunities and school board meetings.</p>
+        <p>As of June 19, about 1,500 people had dialed in to the Bergen system, more than 100 had reserved books and more than 50 had sent electronic mail. Most responses are of the "I think this is a great service!" variety. If there has been a steady complaint, though, it is from patrons who are mystified about the technical aspects of getting started.</p>
+        <p>Here, then, are the basics:</p>
+        <p>WHAT YOU NEED A personal computer.  A modem. A telecommunications program on your computer software. A telephone line.</p>
+        <p>HOW TO CONNECT Call (201) 996-0092 with your modem. A menu will appear on the screen with topics like "News of Interest" (technical advice), "User Feedback" (which gives a chance to offer suggestions or make complaints) and "Search the Catalogue."</p>
+        <p>HOW TO SEARCH You can search by author, title or key word. The instructions should be self-explanatory; to find books on the subject of global warming, for instance, you would hit the F key for "find," then K for "key word" and then type in "global warming." Technically, you have only 20 minutes to search, but after your time is up, you can dial in again, and again.</p>
+        <p>HOW TO RESERVE On most computers, you hit the letter O key for "options" and then the R key for "request." You type in your request and are given options as to whether you want a book immediately, within one week or whenever it's available.</p>
+        <p>HOW TO GET MORE INFORMATION Attend an informal seminar on the dial-up service; the next ones are on July 11 at the New Milford Public Library, July 12 at the Maywood Public Library, and July 13 at the Bayonne Public Library.</p>
+        <p>The Morenet dial-up number is (201) 989-5983 through 5999, except 5991.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

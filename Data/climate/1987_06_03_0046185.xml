@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BUSINESS TECHNOLOGY: Advances in Chips; A Thin Film To Add Speed To Computers</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="46185"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRONICS</classifier>
+        <classifier class="indexing_service" type="descriptor">SEMICONDUCTORS</classifier>
+        <person class="indexing_service">SCHNEIDER, KEITH</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DC1E30F930A35755C0A961948260" item-length="902" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BUSINESS TECHNOLOGY: Advances in Chips; A Thin Film To Add Speed To Computers</hl1>
+      </hedline>
+      <byline class="print_byline">By KEITH SCHNEIDER</byline>
+      <byline class="normalized_byline">SCHNEIDER, KEITH</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: WORKING in a dust-free clean room at Case Western Reserve University in Cleveland, Dr. Scott E. Rickert dips a sterile glass plate into a tub of water. Across the surface of the water, like soap spread across a pool, is a thin membrane one molecule in thickness that adheres to the plate's surface.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: WORKING in a dust-free clean room at Case Western Reserve University in Cleveland, Dr. Scott E. Rickert dips a sterile glass plate into a tub of water. Across the surface of the water, like soap spread across a pool, is a thin membrane one molecule in thickness that adheres to the plate's surface.</p>
+        <p>WORKING in a dust-free clean room at Case Western Reserve University in Cleveland, Dr. Scott E. Rickert dips a sterile glass plate into a tub of water. Across the surface of the water, like soap spread across a pool, is a thin membrane one molecule in thickness that adheres to the plate's surface.</p>
+        <p>Although the ultra-thin films are being created by a decades-old technology, they are being viewed by Dr. Rickert and other chemical engineers in very new ways that promise important breakthroughs in computer and other technologies.</p>
+        <p>Above all, the thin film allows scientists to cram many more transistors, diodes and capacitors onto silicon wafers, a development that could make computers far more powerful and faster.</p>
+        <p>The films being created by Dr. Rickert and his team are made from organic, carbon-based molecules that contain metallic atoms. When the film dries and the molecules crystallize, the metallic atoms line up in a precise geometric pattern that conducts electricity. The carbon acts as an insulator.</p>
+        <p>The one-molecule-thick films can process information thousands of times faster than conventional silicon chips because they create less resistance to the flow of electricity and because the circuits can be packed more closely together.</p>
+        <p>In all, the process is similar to the flow of electrical impulses in nerve tissue or the transport of electrons in photosynthesis, the basic life process in which carbon dioxide is converted into organic material. As a result, some scientists predict that chips made from thin film will hasten the day when computer operations will more closely mimic the biochemical processes of the brain.</p>
+        <p>''With this technology microelectronics is merging with organic chemistry and biology,'' said Dr. Rickert, a chemical engineer and one of the country's top thin-film researchers. He predicted that the first experimental computers made solely from thin-film chips would be available in five to ten years.</p>
+        <p>Until recently America's only serious competitor in the field was Japan, but because of the huge commercial potential of thin film, other countries, including Britain, France and West Germany, have entered the fray.</p>
+        <p>The race is heating up because the potential benefits of thin films are not limited to computer-related technology. Dr. Rickert, for example, is using thin films as sensors. The special electrical behavior, he said, makes various thin films extremely sensitive to changes in humidity, temperature, pressure, the presence of chemicals or other environmental factors.</p>
+        <p>Dr. Rickert quantifies the changes by measuring the time it takes electricity to pass through films under different environmental conditions. By attaching the films to integrated circuits, he has developed sensors that can instantaneously measure the presence of ammonia, oxygen, carbon dioxide and other gases at concentrations as low as 5 parts per billion. A conventional meter would take 20 minutes or more to do it.</p>
+        <p>The Defense Department, which is financing most of Dr. Rickert's work, is interested in developing sensor devices that soldiers could wear on their wrists to detect poison gases.</p>
+        <p>In another application of thin films, Dr. Rickert helped to develop a process for making more complex and faster conventional silicon chips.  * * *</p>
+        <p>The dipping technique used to produce thin film was discovered more than 65 years ago by Irving Langmuir and Katherine Blodgett, chemists at the General Electric Company in Schenectady, N.Y. Even though it helped Dr. Langmuir win a Nobel Prize in 1931, the development gained little attention over the next five decades as plastics and composites dominated the field of chemical engineering. In the early 1980's, though, as the space squeeze on silicon chips became more severe, chemical engineers like Dr. Rickert rediscovered Langmuir-Blodgett films.</p>
+        <p>Conventional computer chips process information by alternately allowing, then blocking, the flow of electronic impulses carried on wires and switches imbedded in the silicon. The faster the electronic stream is switched off and on, the more information that can be processed and the more powerful the silicon chip.</p>
+        <p>A principal rule in making chips is that elements on the chips, such as wires or transistors, can be no closer than the thickness of the surface of the chip, otherwise it will short-circuit. Conventional chips are made using films that are usually one micron thick, or about 100 times the thickness of the thin-film chips.</p>
+        <p>Using the Langmuir-Blodgett technique, a special polymer that is light-sensitive is placed across a chromium surface. The polymer - a substance composed of giant molecules formed from smaller ones - is then exposed to microscopic beams of light that trace the grid design of the chip and cause chemical changes within the polymer that turn the microscopic lines red.</p>
+        <p>The chip is then dipped into a series of solvents. The first dissolves the polymer that was not exposed to light, and leaves the chromium base and the red lines intact. The second dissolves all the chromium except for what lies beneath the red lines. The third dissolves the red lines, leaving chromium lines.</p>
+        <p>Engineers call the final product a ''mask.'' By projecting light through it and onto silicon wafers, masks serve as templates for manufacturing computer chips.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

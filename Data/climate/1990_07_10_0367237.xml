@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thinning Arctic Ice</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="367237"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ICE</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">GREENHOUSE EFFECT</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <location class="indexing_service">ARCTIC OCEAN</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DF113DF933A25754C0A966958260" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thinning Arctic Ice</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Surveys by submarines have turned up evidence that ice in the Arctic Ocean may have been thinner in the 1980's than in the 1970's, and scientists have tentatively raised the possibility that the thinning might have been caused by global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Surveys by submarines have turned up evidence that ice in the Arctic Ocean may have been thinner in the 1980's than in the 1970's, and scientists have tentatively raised the possibility that the thinning might have been caused by global warming.</p>
+        <p>Surveys by submarines have turned up evidence that ice in the Arctic Ocean may have been thinner in the 1980's than in the 1970's, and scientists have tentatively raised the possibility that the thinning might have been caused by global warming.</p>
+        <p>Peter Wadhams, a scientist at the Scott Polar Research Institute at Cambridge University in England, compared the results of ice studies carried out by sonar aboard British submarines in 1976 and 1987. He reported in a recent issue of Nature that in a zone extending about 250 miles north of Greenland, the ice was significantly thinner at the end of the period. The thinning resulted in a loss of more than 15 percent of the ice over an area of more than 185,000 square miles.</p>
+        <p>Among the factors that could have caused the thinning, Dr. Wadhams wrote, is global warming produced by the greenhouse effect, in which increasing amounts of carbon dioxide, much of it from the burning of fossil fuels, traps more heat in the atmosphere. But he also cited other possible causes, mainly changes caused by shifts in wind patterns.</p>
+        <p>The findings were called provocative in an accompanying commentary, whose chief author was A. S. McLaren, a researcher at the Unversity of Colorado who specializes in global climate change and sea ice. But Dr. McLaren said in an interview that the tracks of the two British submarines did not coincide, that their cruises took place in different seasons and that the study did not take account of variations in weather patterns between 1976 and 1987. He and Dr. Wadhams agreed that more data were needed.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

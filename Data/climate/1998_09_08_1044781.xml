@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="08QNA" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1044781"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Venus (Planet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mercury (Planet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Sun</classifier>
+        <classifier class="indexing_service" type="descriptor">Planets</classifier>
+        <classifier class="indexing_service" type="descriptor">Stars and Galaxies</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sun</classifier>
+        <classifier class="online_producer" type="general_descriptor">Venus (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mercury (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stars and Galaxies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980908T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E1D8153EF93BA3575AC0A96E958260" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. Claiborne Ray</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Explanation of why Venus is so much brighter in sky than Mercury, which is closer to the Sun</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bright Venus</p>
+        <p>Q. Why is Venus so much brighter in the sky than Mercury, which is closer to the Sun?</p>
+      </block>
+      <block class="full_text">
+        <p>Bright Venus</p>
+        <p>Q. Why is Venus so much brighter in the sky than Mercury, which is closer to the Sun?</p>
+        <p>A. Venus is brighter because it is much larger, because it has a reflective atmosphere and because it makes close approaches to Earth, said Joe Rao, lecturer at the Hayden Planetarium of the American Museum of Natural History.</p>
+        <p>First, Mercury is about 3,100 miles in diameter, compared with about 7,700 miles for Venus, Mr. Rao said.</p>
+        <p>''Second, there is no atmosphere surrounding Mercury, while Venus does have a thick atmosphere, composed chiefly of clouds of carbon dioxide,'' he said. ''These clouds have a very high reflectivity, causing Venus to appear to shine with great brilliance.</p>
+        <p>''And third, Venus can approach the Earth much more closely than Mercury,'' he said. ''In fact, Venus periodically can come closer to Earth than any other known celestial body, except for the Moon, as close as 25 million miles. All of these things allow Venus to shine more brightly than not just Mercury, but than any of the other planets in our solar system.''</p>
+        <p>Because Mercury and Venus are ''inferior'' planets, or planets that are closer to the Sun than Earth is, they can show phases like those of the Moon, Mr. Rao said.</p>
+        <p>''When Mercury shines at its brightest for us, it appears through a telescope as a gibbous or nearly full phase,'' he said. ''When Venus appears to shine at its most brilliant for us, it appears in telescopes not as a nearly full phase, but rather as a slender crescent.''</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

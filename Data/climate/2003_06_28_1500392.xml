@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rain Forest Is Losing Ground Faster in Amazon, Photos Show</title>
+    <meta content="Y28BRA$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/06/28/international/americas/28BRAZ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1500392"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="indexing_service" type="descriptor">Logging Industry</classifier>
+        <location class="indexing_service">Amazon River Basin</location>
+        <location class="indexing_service">Brazil</location>
+        <person class="indexing_service">Silva, Marina (Min)</person>
+        <person class="indexing_service">Smith, Tony</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Brazil</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Peru/Amazon Basin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Brazil</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Logging Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <location class="online_producer">Brazil</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030628T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E5D81F3BF93BA15755C0A9659C8B63" item-length="336" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rain Forest Is Losing Ground Faster in Amazon, Photos Show</hl1>
+        <hl2 class="online_headline">Rain Forest Is Losing Ground Faster in Amazon, Photos Show</hl2>
+      </hedline>
+      <byline class="print_byline">By TONY SMITH</byline>
+      <byline class="normalized_byline">Smith, Tony</byline>
+      <dateline>S�O PAULO, Brazil, June 27</dateline>
+      <abstract>
+        <p>New satellite images show that Amazon rain forest is disappearing at increasing rate--with about 10,000 square miles lost mainly to pasture land, plantations and illegal logging in 12-month period ended last August; scientists and environmentalists say about 20 percent of Amazon has already vanished and that rain forest could be wiped out in 80 years; Brazilian Environment Min Marina Silva promises emergency action but does not offer specific proposals (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Newly released satellite images show that the Amazon rain forest is disappearing at an increasing rate, with about 10,000 square miles lost mainly to pasture land, soybean plantations and illegal logging in the 12-month period that ended last August.</p>
+        <p>The government said on Thursday that the area represented a 40 percent rise in deforestation compared with a year earlier, when about 7,000 square miles of rain forest were lost.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Newly released satellite images show that the Amazon rain forest is disappearing at an increasing rate.</p>
+      </block>
+      <block class="full_text">
+        <p>Newly released satellite images show that the Amazon rain forest is disappearing at an increasing rate, with about 10,000 square miles lost mainly to pasture land, soybean plantations and illegal logging in the 12-month period that ended last August.</p>
+        <p>The government said on Thursday that the area represented a 40 percent rise in deforestation compared with a year earlier, when about 7,000 square miles of rain forest were lost.</p>
+        <p>It was the fastest acceleration in the loss in the Amazon forest, the world's largest continuous area of rain forest, since the same 12-month period in 1994 and 1995, environmentalists said.</p>
+        <p>''It is terribly serious,'' said Luis Meneses, coordinator of the World Wildlife Fund's Amazon project in Brasília. ''Our fear is that the period for 2002-2003 could be even worse.''</p>
+        <p>The environmental group Greenpeace has warned that the rain forest could be wiped out in 80 years if deforestation rates are not slowed. Scientists say about a fifth of the Amazon has already vanished, helping to accelerate global warming.</p>
+        <p>Brazil's new, left-leaning government, which has publicly embraced environmental issues, pledged to act immediately. The environment minister, Marina Silva, called the new data ''highly worrying'' and promised ''emergency action,'' although no specific proposals were offered.</p>
+        <p>Despite years of lobbying, the World Wildlife Fund says that of the six states with rain forest on their territory, only one, Acre, which contains less than 10 percent of the Amazon area, has put laws into effect to promote sustainable development through controlled logging and modern farming technology.</p>
+        <p>Another state, Rondônia, has passed a zoning law, but Mr. Meneses said the law was frequently ignored or altered to suit immediate political needs. About one third of the state has already been deforested.</p>
+        <p>The previous government's program to pave roads through the region has also been blamed for quickening the forest's demise. The project was suspended, but one third of the roads were already completed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

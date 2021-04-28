@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cleaning the Air</title>
+    <meta content="L24ENV$05" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1163341"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Claims Against Government</classifier>
+        <location class="indexing_service">Northeastern States (US)</location>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Fullmer, Jeffrey D</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E0DE1239F937A15751C1A96F958260" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cleaning the Air</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Jeffrey D Fullmer, program director at Citizens Campaign for the Environment, says Environmental Protection Agency's attempt to clean up air in Northeast may be vulnerable to lawsuits (Dec 18 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''E.P.A. Is Ordering 392 Plants to Cut Pollution in Half'' (front page, Dec. 18):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''E.P.A. Is Ordering 392 Plants to Cut Pollution in Half'' (front page, Dec. 18):</p>
+        <p>Once again the Environmental Protection Agency is rightfully trying to clean up Northeast air. The Eastern states are finally uniting to reduce emissions from coal-burning Midwest electric utilities.</p>
+        <p>But the E.P.A. order may be vulnerable to the kind of lawsuits that derailed its most recent efforts. And even if the cuts are put into effect, they are not sufficient to halt acid rain in the Northeast. Lawsuit-proof cuts of nitrogen and sulfur are needed to end acid rain damage and let downwind Eastern states meet stricter smog standards.</p>
+        <p>JEFFREY D. FULLMER  Farmingdale, N.Y., Dec. 21, 1999</p>
+        <p>The writer is program director at Citizens Campaign for the Environ-  ment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

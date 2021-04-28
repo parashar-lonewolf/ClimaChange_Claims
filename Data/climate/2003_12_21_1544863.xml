@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Jobs for Scientists</title>
+    <meta content="L21SCI$05" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1544863"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <person class="indexing_service">Goodman, Robert</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E7DE153FF932A15751C1A9659C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Jobs for Scientists</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert Goodman letter imagines benefits if US military experts could shift from 'wasteful' arms programs to more socially useful projects</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''U.S. to Steer Ex-Arms Experts to Peaceful Jobs'' (news article, Dec. 19):</p>
+        <p>I'd like to see our military scientists given the same job option that the State Department just announced for Iraq's 600 former weapons experts. This sensible program will spend millions on energy, environmental protection and other research, so that the Iraqi experts won't be tempted to go work for terrorists or rogue regimes.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''U.S. to Steer Ex-Arms Experts to Peaceful Jobs'' (news article, Dec. 19):</p>
+        <p>I'd like to see our military scientists given the same job option that the State Department just announced for Iraq's 600 former weapons experts. This sensible program will spend millions on energy, environmental protection and other research, so that the Iraqi experts won't be tempted to go work for terrorists or rogue regimes.</p>
+        <p>Imagine the innovations in renewable energy, high-speed rail or disease control that could result if many of our own military experts were able to shift from wasteful multibillion-dollar missile defense systems, for example, and be paid to work on more socially useful projects.</p>
+        <p>ROBERT GOODMAN  Amherst, Mass., Dec. 19, 2003</p>
+        <p>The writer is a professor of environmental design, Hampshire College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

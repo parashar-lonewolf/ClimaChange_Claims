@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Human Habitat</title>
+    <meta content="LTR102942" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1095617"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <person class="indexing_service">barton, christopher</person>
+        <person class="indexing_service">Greenberg, Mark</person>
+        <person class="indexing_service">muhlfeld, robin</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990328T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DE1E31F93BA15750C0A96F958260" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Human Habitat</hl1>
+      </hedline>
+      <abstract>
+        <p>Christopher Barton letter on Mar 7 article on home of Mark Greenberg and Robin Muhlfeld questions their family's need for four vehicles; photo5</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I can't decide whether I am envious of Mark Greenberg and Robin Muhlfeld for their beautiful home, individual bedrooms and everyone having his ''own space,'' or overly disturbed by the fact that they have four vehicles parked in the drive (''New Money Is Inflating Suburban Homes''). Is it really necessary to have that many vehicles for one family? I hope that after they peruse the magazine, they read about global warming and the environment. A giant leap? I don't think so.</p>
+        <p>Christopher Barton  Seattle</p>
+      </block>
+      <block class="full_text">
+        <p>I can't decide whether I am envious of Mark Greenberg and Robin Muhlfeld for their beautiful home, individual bedrooms and everyone having his ''own space,'' or overly disturbed by the fact that they have four vehicles parked in the drive (''New Money Is Inflating Suburban Homes''). Is it really necessary to have that many vehicles for one family? I hope that after they peruse the magazine, they read about global warming and the environment. A giant leap? I don't think so.</p>
+        <p>Christopher Barton  Seattle</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

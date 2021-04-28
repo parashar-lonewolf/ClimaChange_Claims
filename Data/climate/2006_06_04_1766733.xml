@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Car's Total Cost</title>
+    <meta content="04letters-2" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1766733"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric and Hybrid Vehicles</classifier>
+        <person class="indexing_service">Schultz, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DA1731F937A35755C0A9609C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Car's Total Cost</hl1>
+      </hedline>
+      <abstract>
+        <p>Andrew Schultz letter on May 20 Count column holds calculation of costs of hybrid cars left out some benefits</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Gasoline Prices Got You Down? Do the Hybrid Math'' (The Count, May 20):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Gasoline Prices Got You Down? Do the Hybrid Math'' (The Count, May 20):</p>
+        <p>The article included figures that seem to show that hybrid cars are less economical than plain old internal-combustion vehicles at today's gasoline prices, considering the hybrids' initial higher cost.</p>
+        <p>The calculation, however, leaves out the benefit to the planet, community health and the growth of a new economy that includes other sources of energy when more people ''pay more'' to drive hybrids.</p>
+        <p>If you count only the direct economic consequences of driving, you keep getting the same results: more cars, more pollution, more dependence on fossil fuels. It's ''the tragedy of the commons'' -- the overuse of a commonly held resource -- and it has landed us in our current environmental and energy mess.</p>
+        <p>The actions of the individual in society add up to a cumulative impact on the whole. Driving a hybrid isn't just about feeling good. One only has to smell the air near any freeway to know that the commons is real.</p>
+        <p>Andrew Schultz  Rye, N.Y., May 23</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

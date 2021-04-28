@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Simulation Predicts Arctic Ozone Holes</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="572574"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CARBON DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">MODELS (SIMULATIONS)</classifier>
+        <location class="indexing_service">ARCTIC REGIONS</location>
+        <location class="indexing_service">ANTARCTICA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctica</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Dioxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE3DB1F3CF937A15752C1A964958260" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Simulation Predicts Arctic Ozone Holes</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FUTURE accumulations of a gas that promotes global warming may lead to ozone "holes" over the Arctic similar to those now detected over Antarctica, a study says.</p>
+        <p>The effects of such holes are unclear but "any alteration we're making to the atmosphere is something to be concerned about," said John Austin, a principal scientific officer at the Government's Meteorological Office in Bracknell, England.</p>
+      </block>
+      <block class="full_text">
+        <p>FUTURE accumulations of a gas that promotes global warming may lead to ozone "holes" over the Arctic similar to those now detected over Antarctica, a study says.</p>
+        <p>The effects of such holes are unclear but "any alteration we're making to the atmosphere is something to be concerned about," said John Austin, a principal scientific officer at the Government's Meteorological Office in Bracknell, England.</p>
+        <p>The ozone reduction would expose Arctic wildlife to more ultraviolet radiation and might mean transient increased exposures for people elsewhere in the Northern Hemisphere, he said. Ultraviolet radiation promotes skin cancer and cataracts.</p>
+        <p>An ozone hole is a severe depletion of ozone for a period of time in a particular place, as occurs over Antarctica. The ozone is destroyed by chlorine-bearing pollutants.</p>
+        <p>The new study is a computer simulation that suggests ozone holes could appear over the Arctic if atmospheric concentrations of carbon dioxide were doubled. Carbon dioxide is a heat-trapping gas that comes from burning of fossil fuels, and its accumulation is a major reason for forecasts of global warming.</p>
+        <p>Given the current trend in carbon dioxide emissions, the study suggests Arctic ozone holes might begin to appear in 50 to 75 years. They probably would be less severe than those now over Antarctica, and would form only about once every five winters at most, when meteorological conditions were right, he said. The work is reported in Thursday's issue of the journal Nature by Mr. Austin and his colleague, Neal Butchart, and by Keith Shine of the University of Reading in England.</p>
+        <p>Mr. Austin called the study conclusion plausible but "possibly no more than that."</p>
+        <p>Jerry Mahlman, director of the United States National Oceanic and Atmospheric Administration's geophysical fluid dynamics laboratory at Princeton University, said he found similar evidence.</p>
+        <p>(AP)</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

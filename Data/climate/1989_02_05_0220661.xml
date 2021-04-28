@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Gust of Competition in Meteorology</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="220661"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="WHAT'S NEW IN WEATHER MONITORING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">INDUSTRY PROFILES</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">WEATHER RELATED COMPANIES, ASSN OF PRIVATE</org>
+        <person class="indexing_service">WYNN, JACK</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Industry Profiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7D81231F936A35751C0A96F948260" item-length="412" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Gust of Competition in Meteorology</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK WYNN; Jack Wynn is a business writer in Alexandria, Va.</byline>
+      <byline class="normalized_byline">WYNN, JACK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Temperatures as low as 80 degrees below zero in Alaska over the last 10 days have wreaked untold damage - causing a few planes to crash, pipes to burst, utility wires to snap and industry to come to a virtual halt. But losses would have been greater, weather experts say, had the state been caught completely off guard.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Temperatures as low as 80 degrees below zero in Alaska over the last 10 days have wreaked untold damage - causing a few planes to crash, pipes to burst, utility wires to snap and industry to come to a virtual halt. But losses would have been greater, weather experts say, had the state been caught completely off guard.</p>
+        <p>Temperatures as low as 80 degrees below zero in Alaska over the last 10 days have wreaked untold damage - causing a few planes to crash, pipes to burst, utility wires to snap and industry to come to a virtual halt. But losses would have been greater, weather experts say, had the state been caught completely off guard. Knowing of the cold front two weeks in advance allowed residents and businesses to prepare at least to some extent.</p>
+        <p>New technologies are enabling meteorologists to monitor and forecast weather conditions with much greater precision. Concerned by dramatic shifts in the climate over the last decade, the Federal Government in 1984 launched a weather satellite to study such phenomena as the greenhouse effect and the depletion of the ozone layer.</p>
+        <p>The satellite has also become the chief source of weather data for the National Weather Service. Circling the globe every 102 minutes, the satellite measures temperatures and humidity at all levels of the earth's atmosphere and beams these up-to-the-minute readings to 2,000 weather stations operated worldwide by the Weather Service, which previously relied on less timely and less accurate readings from conventional radar systems on land, air and sea.</p>
+        <p>The National Weather Service transmits data from the various sources to users in the public and private sector by radio teletype and facsimile machines. But the Reagan Administration sought to speed users' access to the data and to transfer more responsibility for weather forecasting to the private sector. And in response, Congress in 1984 approved tax credits for companies developing computer software and hardware that enable commercial users to receive data directly from the weather satellite rather than having to wait for Weather Service printouts.</p>
+        <p>The incentives have spawned a new industry. Since 1984, some 100 companies have entered the business, according to the Association of Private Weather Related Companies, an industry trade group formed in Washington late last year. With sales in 1988 of an estimated $200 million, these companies are marketing systems tailored for users ranging from commodity brokers to air freight carriers. ''The overall benefits of the weather satellite run the gamut from better fuel utilization by airlines to consistently better sea lane routes for ships,'' said Kenneth Ruggles, president of Systems West Inc. in Carmel, Calif., which sells weather computers for airports and fishing vessels.</p>
+        <p>WHAT'S NEW IN WEATHER MONITORING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

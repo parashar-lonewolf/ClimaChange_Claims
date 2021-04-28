@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chilling Without Ozone Damage</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="511441"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">REFRIGERATORS</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">CHLOROFLUOROCARBONS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="indexing_service" type="descriptor">SEMICONDUCTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIATION</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRONICS</classifier>
+        <person class="indexing_service">HOLUSHA, JOHN</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920304T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4D71F39F937A35750C0A964958260" item-length="1026" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chilling Without Ozone Damage</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLUSHA</byline>
+      <byline class="normalized_byline">HOLUSHA, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Under pressure from environmentalists, industrial engineers are in hot pursuit of cold technologies, including air-conditioners that use plain water as a refrigerant and semiconductors that cool down when charged with electricity.</p>
+        <p>Makers of home refrigerators and freezers, along with producers of commercial chilling equipment, face an uncertain but impending deadline to phase out chlorofluorocarbons, or CFC's, a family of refrigerant chemicals believed to attack the earth's protective ozone layer.</p>
+      </block>
+      <block class="full_text">
+        <p>Under pressure from environmentalists, industrial engineers are in hot pursuit of cold technologies, including air-conditioners that use plain water as a refrigerant and semiconductors that cool down when charged with electricity.</p>
+        <p>Makers of home refrigerators and freezers, along with producers of commercial chilling equipment, face an uncertain but impending deadline to phase out chlorofluorocarbons, or CFC's, a family of refrigerant chemicals believed to attack the earth's protective ozone layer.</p>
+        <p>The Senate, with the Bush Administration's support, has voted to press for an end to CFC production by the middle of the decade. And a group of chemicals seen as an interim replacement -- hydrochlorofluorocarbons -- will ultimately be banned because they, too, harm the ozone.</p>
+        <p>Hence, industrial engineers are pursuing other means of cooling and refrigeration. Although such exotic approaches as cooling by sound waves are being explored, most of the near-term activity involves alternatives that already have practical, though specialized, applications.</p>
+        <p>A conventional refrigerator works by alternately compressing and expanding a fluid -- a CFC in most current models -- that tends to boil at a relatively low temperature. Each time the fluid changes from the liquid to a vapor, heat is absorbed. When it goes from vapor to liquid, heat is given off. Through this cycle, heat is drawn from the food-storage compartment and radiated into the room through the condenser coils on the back of the refrigerator. (An air-conditioner cools a room in a similar manner, except that the heat is expelled from the building.)</p>
+        <p>The heart of the system is the compressor, which rapidly compresses the vapor that has removed heat from the refrigerator's interior. This raises both its pressure and temperature -- to the point where it is hotter than the surrounding air.</p>
+        <p>This heated substance is pumped through condenser coils, where it gives up both the heat of compression and the heat removed from the interior and changes back to the liquid state. Then the pressure is removed as the refrigerant passes through an expansion valve and the liquid expands to the gaseous, heat-absorbing phase as the cycle is repeated.</p>
+        <p>But running the compressor consumes a lot of energy. An alternative technology, backed by the natural gas industry, eliminates the compressor. After the refrigerant has done its cooling job -- regular water is often used as the refrigerant in such systems -- it is absorbed by another fluid, like lithium bromide, quickly dissipating the accumulated heat. A modest pump is enough to keep the process going.  The mixed liquids are sent to a boiler where the more volatile refrigerant is boiled off into a gaseous form that is sent to the condenser to be cooled and returned to the liquid-refrigerant state. The absorbent lithium bromide, meanwhile, never leaves the liquid state as it is continuously recycled through the system. Favored by Gas Suppliers</p>
+        <p>These absorbent-type chillers are frequently used in air-conditioning equipment in commercial buildings. Since the refrigerant does not need to reach subfreezing temperatures, water can often be used, easing environmental concerns. And gas suppliers are fond of the systems because the boilers give them an opportunity to sell gas during the cooling season as well as the heating season -- even though burning gas to cool the air seems implausible at first blush.</p>
+        <p>Absorption chillers are widely used in Japan, because of policies that discourage additional use of electric power, according to officials of the Gas Research Institute, a cooperative research organization supported by the United States gas industry. Absorption units based on Japanese designs are marketed by all four major American manufacturers of chillers: Carrier; Snyder General; Trane Thermal and York International.  Another tack, a solid-state approach to cooling, is being taken by the Thermo Electron Technologies Corporation of Waltham, Mass. This is based on the phenomenon of thermocouples, devices in which two semiconducting materials are joined by electrical circuitry.</p>
+        <p>Through two principles of electronics, if one end of the thermocouple is chilled and other other heated, a voltage is generated. Conversely, if a charge is applied, the material grows either hotter or colder, depending on the direction of the current.</p>
+        <p>Thermo Electron has used thermocouples to provide power in space, taking advantage of the extreme temperature difference between the side of an object facing the sun and the part in shadow.</p>
+        <p>Now thermocouple manufacturers are looking at consumer markets. One application is a picnic cooler with thermocouples and a small fan to circulate cooled air. The device plugs into a car's cigarette lighter.</p>
+        <p>John S. Beaty, a senior program manager for Thermo Electron, said the company was working on a prototype of an air-conditioner that would be no more than 2 inches thick, with the surface area depending on the size of the room; the prototype is 18 inches long and 12 inches wide. It is intended to be mounted on a wall or in front of a window. Less Power Is Needed</p>
+        <p>One problem had been that the best thermocoupling materials, like bismuth telluride and lead telluride, are brittle and can be damaged by physical abuse. But Thermo Electron engineers have found ways to encapsulate them so thay can be banged around and still function.</p>
+        <p>Another consideration is power consumption. Since thermocouple air-conditioners are only 10 to 15 percent efficient at using electricity, compared with 25 to 30 percent for compressor-based units, power use is likely to be higher. But they would contain no CFC's and, as solid-state devices, would probably last longer than conventional air-conditioners.</p>
+        <p>Besides, these devices could do more than cool a room on a hot summer day. Because the thermocouple effect is reversible, needing only the electric current to flow in the opposite direction, such a device could be used as an air-conditioner in the summer and as a heater in the winter. "All you would have to do is set the temperature," Mr. Beaty said.  BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

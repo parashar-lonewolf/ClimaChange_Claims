@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Return of the White Stuff</title>
+    <meta content="26WED4" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1171481"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E1D6173CF935A15752C0A9669C8B63" item-length="408" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Return of the White Stuff</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial opines that sudden heavy snowfall reminds New Yorkers of joys and tribulations of big snowstorms of past winters in 19th and 20th centuries</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Something about a sudden heavy snow of the kind that fell yesterday carries New York right back to the end of the 19th century and to a vision of urban winter caught by Alfred Stieglitz. In 1893 he photographed a horse team plodding through deep gray slush along Fifth Avenue on a similar day of driving snow, diminished sightlines, rapid accumulation. Yesterday, of course, it was taxis, not horses, slithering gingerly through intersections. Buses slipped their wheels on the barely perceptible grade up West 42nd Street toward the library. During the thickest snowfall the city seemed almost depopulated. Pedestrians became studies in gray and white. The skyline withdrew into a pale monochrome, and yet the fallen snow sharpened the horizontal lines of every building in sight, just as it did for Stieglitz.</p>
+        <p>A month ago winter seemed more than improbable, no matter what the calendar said. Even far north of the city there was no frost in the ground, and the snow that fell vanished on contact with the warm earth. So naturally this storm and the week of cold weather leading up to it feel like retribution for an unnatural December, payback for all those elevator chats about the upside of global warming. Winter is never easy -- and for some the past few days have been a genuine trial -- but it is hard not to enjoy the disarray a snow squall creates. It occasions a day of subtle misrule. Fashion -- like alternate-side parking -- is suspended. Promptness is relaxed, as is a certain amount of neatness around the pants cuffs. An inordinate amount of attention goes into making the next step count.</p>
+      </block>
+      <block class="full_text">
+        <p>Something about a sudden heavy snow of the kind that fell yesterday carries New York right back to the end of the 19th century and to a vision of urban winter caught by Alfred Stieglitz. In 1893 he photographed a horse team plodding through deep gray slush along Fifth Avenue on a similar day of driving snow, diminished sightlines, rapid accumulation. Yesterday, of course, it was taxis, not horses, slithering gingerly through intersections. Buses slipped their wheels on the barely perceptible grade up West 42nd Street toward the library. During the thickest snowfall the city seemed almost depopulated. Pedestrians became studies in gray and white. The skyline withdrew into a pale monochrome, and yet the fallen snow sharpened the horizontal lines of every building in sight, just as it did for Stieglitz.</p>
+        <p>A month ago winter seemed more than improbable, no matter what the calendar said. Even far north of the city there was no frost in the ground, and the snow that fell vanished on contact with the warm earth. So naturally this storm and the week of cold weather leading up to it feel like retribution for an unnatural December, payback for all those elevator chats about the upside of global warming. Winter is never easy -- and for some the past few days have been a genuine trial -- but it is hard not to enjoy the disarray a snow squall creates. It occasions a day of subtle misrule. Fashion -- like alternate-side parking -- is suspended. Promptness is relaxed, as is a certain amount of neatness around the pants cuffs. An inordinate amount of attention goes into making the next step count.</p>
+        <p>The only recourse is to take pleasure in pure seasonality. Spring has its defining moments, as do summer and fall. We had almost forgotten that this is how winter defines itself -- the crunch of artificial salt underfoot, the rasp of snow shovels on concrete, a day with all the color of a seagull's plumage, the sting of wind-blown snow in the ear, a growing, drifting silence as night sets in.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

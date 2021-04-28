@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="08INSI$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="978898"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4D8163CF93BA35751C1A961958260" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Calling Israel's Bluff  Benjamin Netanyahu often talks about achieving a lasting peace, but Washington is unsure that he means it and seems ready to call his bluff. News analysis, page A6.</p>
+        <p>International Studies  For the first time, Manhattan has become the most popular destination in the United States for foreign students, a new study shows. Page B3.</p>
+      </block>
+      <block class="full_text">
+        <p>Calling Israel's Bluff  Benjamin Netanyahu often talks about achieving a lasting peace, but Washington is unsure that he means it and seems ready to call his bluff. News analysis, page A6.</p>
+        <p>International Studies  For the first time, Manhattan has become the most popular destination in the United States for foreign students, a new study shows. Page B3.</p>
+        <p>Gore Signals U.S. Flexibility</p>
+        <p>Vice President Gore arrived at global warming talks in Japan and said America would ''show increased negotiating flexibility.'' Page A8.</p>
+        <p>Dylan Joins Establishment  Bob Dylan -- yes, Dylan -- joined Lauren Bacall, Charlton Heston, Jessye Norman and Edward Villella as recipients of the 1997 Kennedy Center Honors. Page A20.</p>
+        <p>Giants and Jets Diverge  In games vital to their playoff chances, the Giants defeated the Eagles, 31-21, and the Jets lost to the Colts, 22-14. SportsMonday, page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

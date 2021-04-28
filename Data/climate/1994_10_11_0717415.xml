@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ailing Spacecraft to Destroy Itself on Venus</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="717415"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">MAGELLAN VENUS RADAR MAPPER (SPACECRAFT)</classifier>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">AEROSPACE INDUSTRIES AND SCIENCES</classifier>
+        <location class="indexing_service">VENUS (PLANET)</location>
+        <person class="indexing_service">WILFORD, JOHN NOBLE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radar</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6DB1F3DF932A25753C1A962958260" item-length="641" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ailing Spacecraft to Destroy Itself on Venus</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+      <byline class="normalized_byline">WILFORD, JOHN NOBLE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AFTER orbiting Venus more than 15,000 times in the last four years, the ailing Magellan spacecraft is to receive its final radio command today, sending it into a suicidal descent into the planet's atmosphere for one last-gasp experiment that could improve the design and operation of future spacecraft.</p>
+        <p>As the craft loses altitude, entering the atmosphere of carbon dioxide and sulfuric acid at a speed of 16,000 miles an hour, friction is expected to consume Magellan with fire in less than a day. What is not incinerated in the atmosphere will crash onto the surface, where the temperatures of 900 degrees Fahrenheit are hot enough to melt lead.</p>
+      </block>
+      <block class="full_text">
+        <p>AFTER orbiting Venus more than 15,000 times in the last four years, the ailing Magellan spacecraft is to receive its final radio command today, sending it into a suicidal descent into the planet's atmosphere for one last-gasp experiment that could improve the design and operation of future spacecraft.</p>
+        <p>As the craft loses altitude, entering the atmosphere of carbon dioxide and sulfuric acid at a speed of 16,000 miles an hour, friction is expected to consume Magellan with fire in less than a day. What is not incinerated in the atmosphere will crash onto the surface, where the temperatures of 900 degrees Fahrenheit are hot enough to melt lead.</p>
+        <p>Engineers at the Jet Propulsion Laboratory in Pasadena, Calif., expect to learn about the aerodynamics of flight through the increasingly dense atmosphere by observing the responses of the spacecraft's stabilization system as it seeks to keep the craft on a steady course. Such performance studies cannot be simulated on Earth's surface.</p>
+        <p>Flight controllers and scientists, who have already begun eulogizing the soon-to-be-departed craft, said they had little choice but to end what they described as one of the most successful planetary missions of the space age. Magellan's powerful radar imaging system has mapped 98 percent of the Venusian surface, revealing a scorched, waterless world of spreading plateaus, towering volcanoes, broad lava plains and extensive canyons. This was the most complete and detailed survey ever made of the planet, whose surface is completely enveloped by dense clouds.</p>
+        <p>With the spacecraft's solar-power panels falling apart, mission officials said, an electrical failure could occur any day now and doom the mission anyway. A data recorder is broken, navigation devices are failing and the project is virtually down to its last dollar.</p>
+        <p>"We are not destroying it," Douglas G. Griffith, the project manager, said of Magellan. "We are trying to get the last bit of good out of it before it destroys itself."</p>
+        <p>Magellan was launched in 1989 on its $800 million mission and went into orbit around Venus in August 1990. By orbiting as the slowly rotating planet turned beneath, the spacecraft's radar produced photograph-like images of about 90 percent of the surface in the first eight months, thus accomplishing the mission's primary objective.</p>
+        <p>Later surveys filled in the photographic mosaic and added greater detail, often showing features as small as 350 feet wide. In recent months, Magellan had dropped into a lower orbit to make measurements of Venus's gravity, from which scientists hope to learn about the distribution of mass below the planet's surface.</p>
+        <p>One of Magellan's major discoveries, said Dr. R. Stephen Saunders, the mission's chief scientist, was determining that the Venusian landscape was barely 500 million years old, the result of global resurfacing through steady volcanic action. Lava flows covered over ancient terrain until perhaps 300 million years ago and then virtually ceased. Venusian volcanoes still appeared to be active, but they are nothing in comparison with earlier epochs. The planet apparently has a thick, rigid crust with none of the tectonic forces that stretch and shift Earth's crust.</p>
+        <p>Magellan's images failed to produce any evidence for ancient oceans; if there were any, traces have been erased by lava resurfacing. Among questions left unanswered are the origin of the Venusian atmosphere, what the planet was like before it became volcanically quiet and how its towering mountains evolved.</p>
+        <p>Some of Magellan's discoveries may be buried in the recorded data that have yet to be analyzed. Dr. Wesley T. Huntress, associate administrator for space science at the National Aeronautics and Space Administration, said, "Major discoveries about Venus will be made from these data 5, 10 or more years from now."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

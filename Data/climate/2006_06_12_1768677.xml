@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let Them Go Green</title>
+    <meta content="12mon2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/06/12/opinion/12mon2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1768677"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">The Goldman Sachs Group Incorporated</org>
+        <org class="online_producer">General Electric Company</org>
+        <org class="online_producer">Toyota Motor Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EFDD1331F931A25755C0A9609C8B63" item-length="388" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let Them Go Green</hl1>
+        <hl2 class="online_headline">Let Them Go Green</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just last month, Goldman Sachs invested $27 million in Iogen, the Canadian ethanol producer. The little-noticed move was the latest piece of a larger strategy of enlarging the company's profile in environmentally conscious investments. Goldman has now risked over $1 billion on renewable energy projects, including solar and wind-energy projects and alternatives to gasoline like cellulosic ethanol.</p>
+        <p>Goldman is only one of a growing number of investment and manufacturing enterprises chasing emerging technologies that could help provide the alternative energy sources that politicians from President Bush on down say they want and that the country will certainly need in years to come. Meanwhile, more and more companies -- including heavyweights like DuPont, Johnson &amp; Johnson and United Technologies -- have been busily cleaning up their own acts, using less energy by making themselves more efficient.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If Washington is smart, it will throw its weight behind environmentally conscious investments by providing the necessary incentives, whether as loans, direct grants or targeted tax breaks.</p>
+      </block>
+      <block class="full_text">
+        <p>Just last month, Goldman Sachs invested $27 million in Iogen, the Canadian ethanol producer. The little-noticed move was the latest piece of a larger strategy of enlarging the company's profile in environmentally conscious investments. Goldman has now risked over $1 billion on renewable energy projects, including solar and wind-energy projects and alternatives to gasoline like cellulosic ethanol.</p>
+        <p>Goldman is only one of a growing number of investment and manufacturing enterprises chasing emerging technologies that could help provide the alternative energy sources that politicians from President Bush on down say they want and that the country will certainly need in years to come. Meanwhile, more and more companies -- including heavyweights like DuPont, Johnson &amp; Johnson and United Technologies -- have been busily cleaning up their own acts, using less energy by making themselves more efficient.</p>
+        <p>Over time, these efforts could place the United States in the forefront of an emerging global market for cleaner technologies. They are also essential to the effort to tackle the two big energy-related issues of the age, global warming and the world's dependence on precarious supplies of foreign oil.</p>
+        <p>If Washington is smart, it will throw its weight behind these efforts by providing the necessary incentives, whether as loans, direct grants or targeted tax breaks. But Washington is dawdling; several excellent bills designed to advance the development and wider use of various alternative fuels, cleaner cars and carbon-free power plants are languishing in the election-shortened legislative year.</p>
+        <p>It is no less important to preserve good programs already on the books. For example, a tax credit to encourage wind power is set to expire next year, at a time when high energy prices are raising interest in that clean technology.</p>
+        <p>There are plenty of interesting technologies out there, but the trick now is to catapult them from the laboratory to the marketplace. General Electric, for example, is already a producer of large wind turbines. And it is heartening to see investment houses, venture capital firms, hedge funds and pension plans -- like Calpers, the big California pension fund -- funneling money into environmentally sound investments.</p>
+        <p>Investing is about the next big thing, not the last one. Companies are looking for the sort of opportunity Detroit automakers missed when Toyota was ready with the Prius as gas prices began to skyrocket. No one wants to be left behind again.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Utility Seeks Grant to Burn Coal Cleanly</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="146927"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COAL</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <org class="indexing_service">ENERGY, DEPARTMENT OF</org>
+        <org class="indexing_service">AMERICAN ELECTRIC POWER CO</org>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFD61E3EF933A15756C0A96E948260" item-length="496" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Utility Seeks Grant to Burn Coal Cleanly</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: An application to build the world's first full-size electric plant with a new system for burning coal cleanly is among the proposals that the Energy Department will begin evaluating next week.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: An application to build the world's first full-size electric plant with a new system for burning coal cleanly is among the proposals that the Energy Department will begin evaluating next week.</p>
+        <p>An application to build the world's first full-size electric plant with a new system for burning coal cleanly is among the proposals that the Energy Department will begin evaluating next week.</p>
+        <p>Between 50 and 100 applications are expected to compete for $575 million in funds intended to stimulate coal technologies.</p>
+        <p>Utility companies have high hopes for the clean-coal technology, known as pressurized fluidized bed combustion, because it extracts more usable energy, with sharply reduced emissions of two components of acid rain, nitrogen oxide and sulfur oxide. Burns at Lower Temperature</p>
+        <p>Fluidized bed combustion is a system for burning coal in which pulverized coal is supported on a bed of air, instead of being blown across a surface in a boiler. The coal spends longer in the boiler and burns at a lower temperature, which reduces nitrogen emissions. In addition, the coal in the boiler is mixed with limestone, allowing a chemical reaction in which the sulfur attaches to the ash, instead of flying up the stack.</p>
+        <p>In the pressurized version of this technology, the boiler is kept under pressure, so that the hot gases it emits can be used to drive two turbines, one directly and one with the steam produced. That allows 4 percent more electricity to be produced from the same amount of coal. 7 Million Customers The application for the bed-combustion system will be made by the American Electric Power Company, one of the nation's largest utilities. The company, based in Columbus, Ohio, provides power to seven million people in seven states. American Electric said yesterday that it would apply for a subsidy to put the new coal technology to work at its Philip Sporn Plant, on the Ohio River near New Haven, W.Va.</p>
+        <p>The plant would have a capacity of 330 megawatts, more than 15 times as large as the biggest existing plant using that technology.</p>
+        <p>''This new clean-coal technology has the potential for making our nation's coal supply usable in an environmentally acceptable manner,'' W. S. White Jr., American Electric's chairman, said.</p>
+        <p>The Energy Department program subsidizes projects in which the private-sector participants pay more than half the cost. Applications are due on Monday, and the department is concentrating on technologies that can be added to existing coal plants. Replacing Two Boilers</p>
+        <p>The department also accepted applications in early 1986, in a $400 million program that covered any technology for using coal cleanly.</p>
+        <p>According to American Electric, replacing two of the Sporn plant's four boilers with a single pressurized fluidized bed boiler would raise the power output to 330 megawatts from 300 megawatts and cut the nitrogen oxide emissions to 1,600 tons a year from 6,900 tons. The sulfur emissions would fall from 8,100 tons a year to between 900 tons and 3,800 tons, depending on the coal used. The project would cost $579 million, of which American Electric is seeking $185 million from the Federal Government.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

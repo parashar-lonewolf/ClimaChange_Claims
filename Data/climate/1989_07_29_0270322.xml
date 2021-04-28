@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patents; Coca-Cola's Space-Age Dispenser</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="270322"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BEVERAGES</classifier>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE STATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">INVENTIONS AND INVENTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">COCA-COLA CO</org>
+        <person class="indexing_service">ANDREWS, EDMUND L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4D6143CF93AA15754C0A96F948260" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patents; Coca-Cola's Space-Age Dispenser</hl1>
+      </hedline>
+      <byline class="print_byline">By Edmund L. Andrews</byline>
+      <byline class="normalized_byline">ANDREWS, EDMUND L</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: American corporations are often criticized for thinking only about short-term profits, but in at least one way the Coca-Cola Company is planning far ahead. Technicians there have patented a drink dispensing machine for outer space, which they hope will be used aboard the planned space station.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: American corporations are often criticized for thinking only about short-term profits, but in at least one way the Coca-Cola Company is planning far ahead. Technicians there have patented a drink dispensing machine for outer space, which they hope will be used aboard the planned space station.</p>
+        <p>American corporations are often criticized for thinking only about short-term profits, but in at least one way the Coca-Cola Company is planning far ahead. Technicians there have patented a drink dispensing machine for outer space, which they hope will be used aboard the planned space station.</p>
+        <p>Coke had previously developed its ''space can,'' a single-serving drink container that astronauts took aboard the space shuttle in 1985. The new machine is still in development, the company said.</p>
+        <p>The patent says the dispenser overcomes the problems of operating without gravity, which makes liquids difficult to handle, and employs a novel energy-saving cooling system.</p>
+        <p>The soft drinks would be stored at room temperature in five-gallon containers lined with collapsible plastic bags. After a drink is selected by pressing a button on a control panel, pistons powered by pressurized carbon dioxide would pump liquid from the storage container to a drinking container.</p>
+        <p>To save power, the dispenser would chill the liquid when it was about to be consumed. As the drink passed from the storage container to the drinking can, it would flow past cooling coils that would chill it, one drink at a time.</p>
+        <p>Two Coca-Cola researchers, Arthur G. Rudick and William S. Credle, received patent 4,848,418.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

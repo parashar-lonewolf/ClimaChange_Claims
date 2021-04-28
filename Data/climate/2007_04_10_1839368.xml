@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fighting Climate Change</title>
+    <meta content="10lett-1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839368"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E7DA153FF933A25757C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fighting Climate Change</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Reports From Four Fronts in the War on Warming'' (April 3): Robert O. Mendelsohn is quoted as saying that it is easier to sell the idea of reducing greenhouse emissions to industrialized countries when it seems that we are ''all in this together.'' This is certainly true, so Dr. Mendelsohn would be wise to keep trying to sell it. We are all still on the same collision course with climate change, and the crash will come sooner than expected for the industrialized world if it continues to consider itself beyond harm.</p>
+        <p>Julia Meisel  Pittsburgh</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Reports From Four Fronts in the War on Warming'' (April 3): Robert O. Mendelsohn is quoted as saying that it is easier to sell the idea of reducing greenhouse emissions to industrialized countries when it seems that we are ''all in this together.'' This is certainly true, so Dr. Mendelsohn would be wise to keep trying to sell it. We are all still on the same collision course with climate change, and the crash will come sooner than expected for the industrialized world if it continues to consider itself beyond harm.</p>
+        <p>Julia Meisel  Pittsburgh</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

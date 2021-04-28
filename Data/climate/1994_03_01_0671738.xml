@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="671738"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E0D7143AF932A35750C0A962958260" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Clue to Frog Mystery</p>
+        <p>The thinning of the ozone layer may be responsible for a worldwide decline in amphibians, a new study says. Science Times, page C4. Thaw in City Spending Freeze</p>
+        <p>The Giuliani administration used software to freeze spending for school supplies, but later reversed itself in response to legal concerns. Page B1. Joining of 2 Political Masters</p>
+        <p>Recognizing he could be vulnerable this election year, Governor Cuomo has hired the political strategist David Garth, aides say. Page B1. How the Siege Jury Decided</p>
+        <p>For jurors in the Texas siege trial, one little-noticed fact stood out: top Federal officials had been forced to step down afterward. Page A21.</p>
+      </block>
+      <block class="full_text">
+        <p>Clue to Frog Mystery</p>
+        <p>The thinning of the ozone layer may be responsible for a worldwide decline in amphibians, a new study says. Science Times, page C4. Thaw in City Spending Freeze</p>
+        <p>The Giuliani administration used software to freeze spending for school supplies, but later reversed itself in response to legal concerns. Page B1. Joining of 2 Political Masters</p>
+        <p>Recognizing he could be vulnerable this election year, Governor Cuomo has hired the political strategist David Garth, aides say. Page B1. How the Siege Jury Decided</p>
+        <p>For jurors in the Texas siege trial, one little-noticed fact stood out: top Federal officials had been forced to step down afterward. Page A21.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

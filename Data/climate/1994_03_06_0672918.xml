@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What the Frogs Are Telling Us</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="672918"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FROGS</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">ULTRAVIOLET LIGHT</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amphibians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940306T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E0D71E3AF935A35750C0A962958260" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What the Frogs Are Telling Us</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A familiar harbinger of spring in much of North America is a tiny frog known to scientists as Hyla crucifer and to ordinary householders as the spring peeper. Beginning in March, male peepers in search of mates form a clamorous and joyful chorus, trilling around ponds and swimming pools. But the chorus has muted in recent years, in line with a mysterious worldwide decline in frogs, toads and other amphibians. Now there is evidence that what is silencing the peeper may be ultraviolet radiation resulting from a thinner ozone layer.</p>
+        <p>This hypothesis does not explain all disappearances: loss of habitat, pollution, acid rain are among other credible culprits. But scientists at Oregon State University have found that ultraviolet rays do deadly damage to the eggs of frogs and toads that have been vanishing from the Cascade Mountains of Oregon. This has to be of some interest to another bare-skinned species.</p>
+      </block>
+      <block class="full_text">
+        <p>A familiar harbinger of spring in much of North America is a tiny frog known to scientists as Hyla crucifer and to ordinary householders as the spring peeper. Beginning in March, male peepers in search of mates form a clamorous and joyful chorus, trilling around ponds and swimming pools. But the chorus has muted in recent years, in line with a mysterious worldwide decline in frogs, toads and other amphibians. Now there is evidence that what is silencing the peeper may be ultraviolet radiation resulting from a thinner ozone layer.</p>
+        <p>This hypothesis does not explain all disappearances: loss of habitat, pollution, acid rain are among other credible culprits. But scientists at Oregon State University have found that ultraviolet rays do deadly damage to the eggs of frogs and toads that have been vanishing from the Cascade Mountains of Oregon. This has to be of some interest to another bare-skinned species.</p>
+        <p>The experimental data seem persuasive. Frog eggs form gelatinous masses, and Oregon's declining species tend to lay them in uncovered shallow water. The Oregon researchers were able to greatly enhance the survival rate of the eggs from Cascades frogs and Western toads by shielding them from ultraviolet rays. The working hypothesis -- that creatures living at high altitudes would be more susceptible to damage caused by solar radiation -- was borne out by exposing frog eggs to different natural conditions.</p>
+        <p>What this fails to explain, however, is the comparably dramatic decline in lowland species, like Costa Rica's golden toad, which dwells in a dark rain forest. Nor is it yet clear why the Pacific treefrog, which is also native to Oregon, has escaped the fate of its cousins by laying eggs with greater survival power.</p>
+        <p>Even so, the Oregon team has provided suggestive evidence that wildlife is affected by the thinning ozone layer. Those vanishing frogs are telling us something. And the silence of the spring peepers recalls the vital clue of the dog's failure to bark in a Sherlock Holmes story. When his sidekick Watson pointed out that "the dog did nothing," the master detective replied: "That was the curious incident."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

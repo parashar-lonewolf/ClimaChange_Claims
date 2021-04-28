@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="572582"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DC163FF937A15752C1A964958260" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wave Damage</p>
+        <p>Q.</p>
+        <p>Does a violent storm at sea cause damage on the ocean floor?</p>
+        <p>A.  Big waves can damage a coastal reef when they break, said Dr. Tim Barnett, an oceanographer in the climate research division of the Scripps Institution of Oceanography at La Jolla, but 100 miles at sea, waves do not affect the sea floor.</p>
+      </block>
+      <block class="full_text">
+        <p>Wave Damage</p>
+        <p>Q.</p>
+        <p>Does a violent storm at sea cause damage on the ocean floor?</p>
+        <p>A.  Big waves can damage a coastal reef when they break, said Dr. Tim Barnett, an oceanographer in the climate research division of the Scripps Institution of Oceanography at La Jolla, but 100 miles at sea, waves do not affect the sea floor.</p>
+        <p>As a rough formula, he said, if the wavelength, the distance between successive crests, is less than four times the depth of the ocean at that point the waves do not affect the bottom.</p>
+        <p>In other words, he said, with a thousand-foot wavelength, (a fairly big wind-generated wave, "250 feet is where it begins to feel the bottom and the bottom begins to feel it."</p>
+        <p>If a submarine is deeper than that, he added, it also avoids the effects of the turmoil on the surface. Champagne Foam</p>
+        <p>Q.</p>
+        <p>Why does fanning a just-opened bottle of champagne keep it from foaming over?</p>
+        <p>A. Vigorous fanning simply breaks the bubbles, said Dr. Georges Halpern, M.D. and Ph.D., an allergist who also studies the chemistry of sparkling wines.</p>
+        <p>A bubble is made of a envelope of liquid around a gas, he said; in the case of champagne, it is carbon dioxide and wine.</p>
+        <p>"If you break the bubble, you release the gas, not the liquid, and the liquid goes back into the bottle," he said.</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

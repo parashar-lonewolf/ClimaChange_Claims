@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Electric-Powered Car Is on Drawing Board</title>
+    <meta content="28CARS$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="AUTOS ON FRIDAY/Technology" name="column_name"/>
+    <docdata>
+      <doc-id id-string="912116"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="AUTOS ON FRIDAY/Technology"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Vehicles</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <org class="indexing_service">General Motors Corp</org>
+        <org class="indexing_service">Delphi Automotive Systems</org>
+        <org class="indexing_service">Chrysler Corp</org>
+        <person class="indexing_service">Krebs, Michelle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970228T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E6DD1231F93BA15751C0A961958260" item-length="726" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Electric-Powered Car Is on Drawing Board</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHELLE KREBS</byline>
+      <byline class="normalized_byline">Krebs, Michelle</byline>
+      <dateline>DETROIT</dateline>
+      <abstract>
+        <p>Chrysler Corp and Delphi Automotive Systems, giant parts division of General Motors Corp, will collaborate to build prototype car that will derive its power from fuel cells that produce electricity (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the most promising technologies to reduce emissions and increase fuel economy in cars and trucks moved a step closer to reality this week as two American auto companies entered into an unusual partnership.</p>
+        <p>The Chrysler Corporation and Delphi Automotive Systems, the giant parts division of the General Motors Corporation, will collaborate to build a prototype car that would derive its power not from an internal combustion engine, but from fuel cells that produce electricity.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the most promising technologies to reduce emissions and increase fuel economy in cars and trucks moved a step closer to reality this week as two American auto companies entered into an unusual partnership.</p>
+        <p>The Chrysler Corporation and Delphi Automotive Systems, the giant parts division of the General Motors Corporation, will collaborate to build a prototype car that would derive its power not from an internal combustion engine, but from fuel cells that produce electricity.</p>
+        <p>The appeal of fuel cells is simple: They are virtually nonpolluting, and, even when gasoline is used as a power source, achieve much better fuel economy than power plants currently in use.</p>
+        <p>A fuel cell is a device that produces electricity directly from a chemical reaction of hydrogen and oxygen. The cells are stacked to produce enough electricity to run the electric motors that turn the car's wheels.</p>
+        <p>Last month, at the North American International Auto Show here, Chrysler displayed a model of the concept design on which it will collaborate with Delphi. Many auto makers are working on fuel-cell technology, but Chrysler's approach is distinctive in that it uses gasoline -- and, potentially, other readily available fuels -- instead of a fuel like hydrogen that is more difficult to acquire and store. Chrysler engineers have devised an on-board fuel processor that converts gasoline to hydrogen, carbon dioxide and water. The fuel cells use this hydrogen to produce the electricity that runs the vehicle.</p>
+        <p>Chrysler engineers think that by using gasoline to produce hydrogen -- instead of storing hydrogen within the vehicle, as most existing fuel-cell designs have done -- a decade could be shaved off the introduction of fuel cells as a practical power source. Indeed, Chrysler says it could have a fuel-cell car in production by 2010.</p>
+        <p>''The infrastructure for gasoline already exists, and consumers would still fuel their cars in the same way as they do today,'' Christopher E. Borroni-Bird, advanced technologies specialist at Chrysler, said. ''We wanted to make this as transparent to customers as possible.''</p>
+        <p>Chrysler has been working with Arthur D. Little, an international research consulting firm, in refining the process and developing the operating hardware. Now Delphi has stepped in to join Chrysler in building a running prototype that will test the concept within two years.</p>
+        <p>If the prototype performs as Chrysler predicts, the fuel-cell car, similar in size to the midsize Dodge Intrepid sedan, could travel 80 miles on a gallon of gas and be virtually emission-free. Borroni-Bird said it would perform as well as conventional gasoline cars, dashing from 0 to 60 miles an hour in less than 7 seconds and traveling up to 400 miles on a tank of gas. The car would operate more quietly, have lower maintenance because of fewer moving parts and could operate at any temperature.</p>
+        <p>Auto makers with active fuel-cell programs include Mercedes-Benz A.G., General Motors, the Toyota Motor Corporation, the Mazda Motor Corporation, the Ford Motor Company and BMW A.G. Some, including Mercedes and G.M., are working with Ballard Power Systems Inc., a research company in Vancouver, British Columbia, that is trying to commercialize auto fuel cells.</p>
+        <p>Mercedes, in fact, has demonstrated a second-generation fuel-cell vehicle, a full-size van that carries two stacks of cells in the back and hydrogen canisters on the roof. Engineers at Mercedes's parent company, Daimler-Benz, say their fuel-cell car is 40 percent more efficient than a conventional design, with virtually no emissions. They say the cells could be used to power city buses.</p>
+        <p>Chrysler engineers cite the high cost of fuel cells, which have been used in spacecraft, as the main drawback. The company estimates that fuel cells are now 10 times too expensive to be practical. But the costs are dropping; they were once considered 1,000 times too costly.</p>
+        <p>Still, auto makers say this is among the most promising technologies for the future. ''Fuel cells have the potential to become the ultimate power source if we can satisfactorily address the challenges,'' Borroni-Bird said.</p>
+        <p>AUTOS ON FRIDAY/Technology</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Right to Pollute Will Cost Less</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="839644"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">PRICES (FARES, FEES ANDRATES)</classifier>
+        <classifier class="indexing_service" type="descriptor">SULFUR DIOXIDE</classifier>
+        <classifier class="indexing_service" type="descriptor">FUTURES AND OPTIONS TRADING</classifier>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA) ENVIRONMENTAL PROTECTIONAGENCY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960328T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFDD1539F93BA15750C0A960958260" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Right to Pollute Will Cost Less</hl1>
+      </hedline>
+      <byline class="print_byline">By Bloomberg Business News</byline>
+      <dateline>CHICAGO, March 27</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It will cost electric utilities 48 percent less this year for the right to pollute than it did last year, based on the Environmental Protection Agency's fourth annual auction of pollution allowances at the Chicago Board of Trade.</p>
+        <p>The cost to emit a ton of sulfur dioxide into the atmosphere this year dropped to an average of $68.14 at this week's auction from $132 a year ago. Sulfur dioxide is a major cause of acid rain.</p>
+      </block>
+      <block class="full_text">
+        <p>It will cost electric utilities 48 percent less this year for the right to pollute than it did last year, based on the Environmental Protection Agency's fourth annual auction of pollution allowances at the Chicago Board of Trade.</p>
+        <p>The cost to emit a ton of sulfur dioxide into the atmosphere this year dropped to an average of $68.14 at this week's auction from $132 a year ago. Sulfur dioxide is a major cause of acid rain.</p>
+        <p>Energy experts attribute the lower price to improvements in pollution control technology and the deregulation of railroads, which has reduced the cost of transporting low-sulfur coal.</p>
+        <p>The Clean Air Act of 1990 requires the E.P.A. to sponsor a one-day auction in which electric utilities bid for the right to pollute. The idea is to give utilities an economic incentive to pollute less.</p>
+        <p>The auction program rewards utilities that have reduced pollution by allowing them to sell unneeded allowances to private brokers or to other utilities.</p>
+        <p>The highest bid for 1996, or spot, rights was $300 for each allowance, while  the lowest was $39. The minimum winning bid for the 150,000 spot allowances sold was $66.05.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

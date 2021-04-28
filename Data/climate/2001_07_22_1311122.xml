@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Science Center With Depth and Height (417 Feet)</title>
+    <meta content="22ADVB$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1311122"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Museums</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Glasgow (Scotland)</location>
+        <org class="indexing_service">Glasgow Science Center (Scotland)</org>
+        <person class="indexing_service">Elizabeth Ii, Queen of Great Britain</person>
+        <person class="indexing_service">Kent, Pamela</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/Scotland/Glasgow</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/Scotland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E4DB153BF931A15754C0A9679C8B63" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Science Center With Depth and Height (417 Feet)</hl1>
+      </hedline>
+      <byline class="print_byline">By PAMELA KENT</byline>
+      <byline class="normalized_byline">Kent, Pamela</byline>
+      <abstract>
+        <p>Queen Elizabetr</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Queen Elizabeth officially opened a new science center in Glasgow earlier this month at Pacific Quay, an area of reclaimed docklands in the heart of the city. The Glasgow Science Center is housed in three buildings, the Glasgow Tower, the Science Mall and the IMAX Theater.</p>
+        <p>The tower, 417 feet high, revolves 360 degrees. At the base are galleries that showcase the city's past and possible future development with an emphasis on the role of science and technology. An elevator takes visitors to a platform at 335 feet, where there are 20-mile views in all directions.</p>
+      </block>
+      <block class="full_text">
+        <p>Queen Elizabeth officially opened a new science center in Glasgow earlier this month at Pacific Quay, an area of reclaimed docklands in the heart of the city. The Glasgow Science Center is housed in three buildings, the Glasgow Tower, the Science Mall and the IMAX Theater.</p>
+        <p>The tower, 417 feet high, revolves 360 degrees. At the base are galleries that showcase the city's past and possible future development with an emphasis on the role of science and technology. An elevator takes visitors to a platform at 335 feet, where there are 20-mile views in all directions.</p>
+        <p>The IMAX Theater is currently showing three films: ''Mysteries of Egypt,'' with Omar Sharif as a wise grandfather; ''Thrill Ride,'' from the first roller coasters to sophisticated virtual-reality rides; and ''Dolphins,'' a study of dolphin communication and behavior.</p>
+        <p>The Science Mall, the crescent-shaped main building, has four floors of interactive exhibits; themes include exploration and discovery, engineering, communication and digital design. Environmental issues like climate change and energy</p>
+        <p>use are explored with solar sunflowers and wind-powered generators. An area called the Clyde Explorer focuses on</p>
+        <p>rivers, with exhibits including a tide</p>
+        <p>gauge and an adjustable map showing how global warming and higher water levels may affect the area. The building also houses a planetarium and a virtual reality theater.</p>
+        <p>Glasgow Science Center, 50 Pacific Quay, (44-141) 420-5000, www.gsc.org.uk, is open daily; admission to the Science Mall is $9, children $6.30. The Tower and IMAX are each $7.75 additional for adults, $5.65 for children. Combination tickets for two or all three attractions are available.</p>
+        <p>PAMELA KENT</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

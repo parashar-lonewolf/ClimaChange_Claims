@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Point Man on Warming</title>
+    <meta content="L10WARM" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1382782"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <org class="indexing_service">United Nations</org>
+        <org class="indexing_service">Intergovernmental Panel on Climate Change</org>
+        <person class="indexing_service">Watson, Robert T (Dr)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Chivian, Eric (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E0D8103DF933A25757C0A9649C8B63" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Point Man on Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Eric Chivian letter indicting Bush administration position on global warming says Pres Bush is ill-advised not to support Dr Robert T Watson, one of most respected scientists in field, to continue as chairman of UN panel on climate change (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''U.S. to Back Scientist From India to Replace Global Warming Expert'' (news article, April 3):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''U.S. to Back Scientist From India to Replace Global Warming Expert'' (news article, April 3):</p>
+        <p>First, energy lobbyists essentially wrote the Bush-Cheney energy plan for the country, discouraging Americans from conserving energy. Now, not liking the conclusions reached by the international scientific community and our own National Academy of Sciences about global climate change, they have turned on the messenger, Dr. Robert T. Watson, chairman of the United Nations' Intergovernmental Panel on Climate Change and one of the country's most respected climate scientists.</p>
+        <p>The first President Bush supported the Montreal Protocol, which protected the ozone layer, a treaty that Dr. Watson did much to help draft. President George W. Bush has been ill advised in not supporting Dr. Watson now as he is trying to bring the best science to bear to minimize the potential catastrophic effects of global climate change on the planet and human health.</p>
+        <p>ERIC CHIVIAN, M.D.  Boston, April 4, 2002</p>
+        <p>The writer is director of the Center for Health and the Global Environment, Harvard Medical School.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chronicle</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="484152"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <location class="indexing_service">CHERNOBYL (USSR)</location>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS (USSR)</location>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">PEACE CHILD FOUNDATION</org>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DB1338F931A35752C1A967958260" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chronicle</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shortly after the nuclear accident at Chernobyl in 1986, FAINA YASHKINA, an elementary-school teacher in the nearby town of Gomel, suggested that her pupils deal with the feelings aroused by the catastrophe by writing a musical play.</p>
+        <p>Tomorrow, 24 of them, who have been visiting Queens since Oct. 6 under the auspices of the Peace Child Foundation and Public School 99 in Kew Gardens, will put on their play, "Earth Child," at the studio of the City Lights Youth Theater at City Center.</p>
+      </block>
+      <block class="full_text">
+        <p>Shortly after the nuclear accident at Chernobyl in 1986, FAINA YASHKINA, an elementary-school teacher in the nearby town of Gomel, suggested that her pupils deal with the feelings aroused by the catastrophe by writing a musical play.</p>
+        <p>Tomorrow, 24 of them, who have been visiting Queens since Oct. 6 under the auspices of the Peace Child Foundation and Public School 99 in Kew Gardens, will put on their play, "Earth Child," at the studio of the City Lights Youth Theater at City Center.</p>
+        <p>"We decided that we had to do something so that the children could help improve the situation in the region," said VALENTINA SHCHARONOVA, a ninth-grade teacher from Gomel who accompanied the children, most of whom are 14 years old.</p>
+        <p>The play is about Chernobyl, the Persian Gulf, the ozone layer and the Brazilian rain forest.</p>
+        <p>Speaking in halting but heartfelt English, IRINA KUDRYASHEVA, one of the visiting students, said: "I think people can join all people together. Everybody can save our planet, but we must live in peace. Children can do a lot toward that. I think that grown-ups must listen to children."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

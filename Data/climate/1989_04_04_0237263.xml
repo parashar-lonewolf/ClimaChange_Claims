@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BRIEFS</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="237263"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY BRIEFS (NYT COLUMN)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFDD1F3BF937A35757C0A96F948260" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: * American Brands Inc., Old Greenwich, Conn., said its Franklin Life Insurance Co. subsidiary had completed the sale of Southland Life Insurance Co., Plano, Tex. It was sold to Georgia U.S. Corp., Atlanta, a holding company, for about $433.5 million.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: * American Brands Inc., Old Greenwich, Conn., said its Franklin Life Insurance Co. subsidiary had completed the sale of Southland Life Insurance Co., Plano, Tex. It was sold to Georgia U.S. Corp., Atlanta, a holding company, for about $433.5 million.</p>
+        <p>* American Brands Inc., Old Greenwich, Conn., said its Franklin Life Insurance Co. subsidiary had completed the sale of Southland Life Insurance Co., Plano, Tex. It was sold to Georgia U.S. Corp., Atlanta, a holding company, for about $433.5 million.</p>
+        <p>* Blue Arrow P.L.C., London, an employment agency, said it received several takeover approaches this year that its board deemed insubstantial. No details were disclosed.</p>
+        <p>* Coastal Corp., Houston, an energy firm, said its Colorado Interstate Corp. unit had extended through April 14 its $42-a-share offer for all outstanding shares of Texas Eastern Corp.</p>
+        <p>* Compaq Computer Corp., Houston, introduced a new line of compact computers, Compaq Desktop 286e. The systems will sell for $2,699 to $3,599.</p>
+        <p>* Farley Inc., Chicago, said it had received 19.3 million of the 29.8 million shares of West Point-Pepperell Inc., under its $58-a-share tender offer. It also extended the offer to Tuesday.</p>
+        <p>* La-Z-Boy Chair Co., Monroe, Mich., said it would no longer make furniture products with foam containing chlorofluorocarbons, a chemical blamed for the erosion of the earth's ozone layer.</p>
+        <p>* MCA Inc.'s stock rose $3.875 yesterday, to $56.625, despite Sony Corp.'s denial of a report that it was negotiating to buy the company.</p>
+        <p>* Marriott Corp., Bethesda, Md., said its Courtyard by Marriott unit had acquired the Compri Hotel in Atlanta for about $14 million.</p>
+        <p>* Sundstrand Corp., Rockford, Ill., said it had completed the sale of its 50 percent interest in the Sundstrand-Sauer Co. venture for $70 million to Susco Acquisition Corp., Ames, Iowa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

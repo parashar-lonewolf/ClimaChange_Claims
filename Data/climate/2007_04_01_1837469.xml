@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Latest Alternative Fuel: Gas From Chicken Manure</title>
+    <meta content="01ctweekCN-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837469"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="indexing_service" type="descriptor">Poultry</classifier>
+        <classifier class="indexing_service" type="descriptor">Wood and Wood Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Manure</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <location class="indexing_service">Bozrah (Conn)</location>
+        <org class="indexing_service">Kofkoff Egg Farm (Conn)</org>
+        <person class="indexing_service">Spiegel, Jan Ellen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wood and Wood Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poultry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DC1E30F932A35757C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Latest Alternative Fuel: Gas From Chicken Manure</hl1>
+      </hedline>
+      <byline class="print_byline">By JAN ELLEN SPIEGEL</byline>
+      <byline class="normalized_byline">Spiegel, Jan Ellen</byline>
+      <abstract>
+        <p>Connecticut Clean Energy Fund recommends 11 alternative energy projects, including steam-generation plant in Bozrah that would be powered by gasifying chicken manure from Kofkoff Egg Farm, along with tons of waste wood (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The lights of Connecticut's Gold Coast could be powered by chicken manure under a plan to reduce the state's dependence on polluting fossil fuels.</p>
+        <p>Among 11 alternative energy projects recommended last week by the Connecticut Clean Energy Fund, a quasi-public ratepayer-financed program, is a steam-generation plant in Bozrah that would be powered by gasifying the 340 tons of manure produced daily by more than 4.5 million chickens at the nearby Kofkoff Egg Farms, along with 1,000 tons of waste wood that comes from the state.</p>
+      </block>
+      <block class="full_text">
+        <p>The lights of Connecticut's Gold Coast could be powered by chicken manure under a plan to reduce the state's dependence on polluting fossil fuels.</p>
+        <p>Among 11 alternative energy projects recommended last week by the Connecticut Clean Energy Fund, a quasi-public ratepayer-financed program, is a steam-generation plant in Bozrah that would be powered by gasifying the 340 tons of manure produced daily by more than 4.5 million chickens at the nearby Kofkoff Egg Farms, along with 1,000 tons of waste wood that comes from the state.</p>
+        <p>''It comes through the wire, whether it comes from chicken manure or anything else,'' Kofkoff's operations manager, Ken Pauze, said of the electricity the farm is expected to produce.</p>
+        <p>The farm operation and another that would use cow manure and waste fat, oil and grease from restaurants would produce more than 30 megawatts, or enough to power about 28,000 homes.</p>
+        <p>They would be elements of a program called Project 100, which mandates that by 2008, the state's two electric companies sign long-term contracts for at least 100 megawatts of clean or renewable power produced in Connecticut. That would amount to a little less than 1.5 percent of the state's total daily needs -- about 7,000 megawatts.</p>
+        <p>Seven of the projects, totaling nearly 69 megawatts, are for fuel cells, which use hydrogen and oxygen to produce clean energy. It would be the first time a fuel cell cluster this large would be used to put energy directly into an electric grid, and it would also serve to showcase the state's fuel cell industry, the world's largest. ''It will be a model for the world,'' said Lise Dondy, president of the energy fund.</p>
+        <p>The recommended projects now go to the electric companies, United Illuminating and Connecticut Light and Power, for contract negotiation and then to the Department of Public Utility Control for final approval.</p>
+        <p>JAN ELLEN SPIEGEL</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

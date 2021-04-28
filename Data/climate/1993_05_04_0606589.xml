@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mystery of Rare Emerald Icebergs Is Solved</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19930515T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="606589"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ICEBERGS</classifier>
+        <classifier class="indexing_service" type="descriptor">COLOR</classifier>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Glaciers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Color</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DF133EF937A35756C0A965958260" item-length="437" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mystery of Rare Emerald Icebergs Is Solved</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR many years, ship captains navigating the waters of Antarctica have been intrigued by rare sightings of emerald icebergs.</p>
+        <p>Now a new study shows that these icebergs are turned upside down, like a capsized ship, said Dr. Stephen Warren, the lead author.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR many years, ship captains navigating the waters of Antarctica have been intrigued by rare sightings of emerald icebergs.</p>
+        <p>Now a new study shows that these icebergs are turned upside down, like a capsized ship, said Dr. Stephen Warren, the lead author.</p>
+        <p>The icebergs are blocks of ice that have broken off huge slabs of frozen snow called ice shelves. Their green appearance results from sea water that has frozen and adhered to the bottom of the fresh-water ice shelf over hundreds of years, Dr. Warren, an associate professor of geophysics and atmospheric sciences at the University of Washington, and his colleagues found. Their findings were reported in the April 15 issue of The Journal of Geophysical Research.</p>
+        <p>Dr. Warren said the frozen sea water contained dissolved organic matter, like algae and plankton, giving a yellow tone to the bottom part of the fresh-water ice shelf, which itself has a blue tint.</p>
+        <p>Since the fresh-water shelf is very thick, the yellow underside cannot be seen unless an iceberg breaks off the ice shelf and capsizes. When one of these icebergs turns upside down, bringing the frozen yellow-tinted sea water to the top, the iceberg appears green through the visual mix of the yellow with the blue from below, said Dr. Warren. Both the blue hue of the fresh-water ice and the yellow of the sea water and organic matter are so faint, however, that they can only be seen in large ice samples.</p>
+        <p>Dr. Warren compared the oxygen isotope ratios of small samples taken from the upper and lower portions of a green iceberg that had broken off the Amery Ice Shelf and floated toward the south Indian Ocean. Analysis of the yellow upper portion of the iceberg showed it to have oxygen isotope ratios characteristic of sea water, and similar analysis of the blue, lower portion showed it to be fresh water.</p>
+        <p>Closer inspection of the sections of the iceberg showed evidence of dissolved marine plants in the frozen sea water. Dr. Warren said the finding of dissolved organic matter indicated that there were high concentrations of marine life in the Antarctic region for centuries.</p>
+        <p>He said 1 in 1,000 icebergs appeared green, and all were from the Antarctic. Green icebergs form in the Antarctic because the temperature is consistently so low, unlike in the north, that a large ice shelf does not melt when it comes in contact with sea water, he said. Instead, the sea water freezes to the ice shelf.</p>
+        <p>Dr. Warren attributed the initial finding of frozen sea water on the underside of icebergs to a group of researchers at the Alfred Wegener Institute in Bremerhaven, Germany.</p>
+        <p>Correction:  May 15, 1993, Saturday</p>
+        <p>An article in Science Times on May 4 about rare green icebergs misstated the basis for their color. The icebergs form when blocks break off Antarctic ice shelves and capsize, bringing into view frozen sea water that makes up the bottom part of the iceberg. The frozen sea water has a green appearance -- not yellow -- because it contains dissolved yellowish-brown organic material. Pure ice appears blue, and the presence of the organic material shifts the color to green.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 15, 1993, Saturday</p>
+        <p>An article in Science Times on May 4 about rare green icebergs misstated the basis for their color. The icebergs form when blocks break off Antarctic ice shelves and capsize, bringing into view frozen sea water that makes up the bottom part of the iceberg. The frozen sea water has a green appearance -- not yellow -- because it contains dissolved yellowish-brown organic material. Pure ice appears blue, and the presence of the organic material shifts the color to green.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

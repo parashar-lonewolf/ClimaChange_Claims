@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Biologist Will Lead Smithsonian Museum</title>
+    <meta content="30DIRE" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/01/30/arts/design/30DIRE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1460559"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">National Museum of Natural History (Smithsonian Institution)</org>
+        <org class="indexing_service">Smithsonian Institution</org>
+        <person class="indexing_service">Sampler, Cristian</person>
+        <person class="indexing_service">Olson, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Smithsonian Institution</org>
+        <org class="online_producer">National Museum of Natural History</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E6DD1E39F933A05752C0A9659C8B63" item-length="333" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Biologist Will Lead Smithsonian Museum</hl1>
+        <hl2 class="online_headline">A Biologist Will Lead Smithsonian Museum</hl2>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+      <dateline>WASHINGTON, Jan. 29</dateline>
+      <abstract>
+        <p>Smithsonian Institution names Cristian Samper director of National Museum of Natural History; troubled institution has suffered from insufficient funds, unclear mission and high leadership turnover; museum has had six directors since 1990 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Smithsonian Institution has named Cristian Samper, a 37-year-old biologist, as director of the National Museum of Natural History.</p>
+        <p>Mr. Samper, who was born in Costa Rica and is deputy director of the Smithsonian Tropical Research Institute in Panama, inherits a museum that has been in turmoil in recent years because of leadership turnover, insufficient money and an unclear mission.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Smithsonian Institution has named Cristian Samper, a 37-year-old biologist, as director of the National Museum of Natural History.</p>
+      </block>
+      <block class="full_text">
+        <p>The Smithsonian Institution has named Cristian Samper, a 37-year-old biologist, as director of the National Museum of Natural History.</p>
+        <p>Mr. Samper, who was born in Costa Rica and is deputy director of the Smithsonian Tropical Research Institute in Panama, inherits a museum that has been in turmoil in recent years because of leadership turnover, insufficient money and an unclear mission.</p>
+        <p>The museum's last full-time director, Robert Fri, unexpectedly resigned in May 2001, expressing unhappiness with how the museum's science programs were being reorganized. The museum, on the Mall and housing 124 million biological, geological and other specimens, has had six directors since 1990.</p>
+        <p>Mr. Samper's mission, as laid out by a commission that examined the Smithsonian's science programs, will be to ''restructure and reinvent'' the museum, a signature part of the world's largest museum and research complex. The 93-year-old museum, whose best-known display is the Hope diamond, has 300 employees and a $61 million annual budget.</p>
+        <p>Mr. Samper said he would do some restructuring, and that ''what the museum really needs is some repackaging.''</p>
+        <p>Earlier this month the commission declared that the Smithsonian's science programs were ''unfocused and underfunded,'' and recommended that a ''distinguished scientist'' be found to run the museum, which has specimen collections that are a ''vital and unique national resource.''</p>
+        <p>Before he joined the Smithsonian's institute based in Panama two years ago, Mr. Samper created an environmental education program for 10,000 schools in Colombia, and helped form Colombia's environment ministry in 1993, the Smithsonian said. He has a master's degree and a Ph.D. in biology from Harvard University and studied biology as an undergraduate at the University of the Andes in Bogotá, Colombia.</p>
+        <p>In describing his agenda for the museum, he said, ''I will need to pull together its strengths in areas like biodiversity and climate change, and link them to policy issues.'' The museum's collections in those areas can help address issues including how people have adapted to changes in the earth's climate, he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

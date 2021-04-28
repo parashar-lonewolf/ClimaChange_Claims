@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Expanding Oceans</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="93840"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OCEANS</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <person class="indexing_service">WIGLEY, TOM (DR)</person>
+        <person class="indexing_service">RAPER, S C B (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DD113BF934A25752C1A961948260" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Expanding Oceans</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Two British scientists have predicted that the warmer global temperatures caused by the ''greenhouse effect'' will cause the world's oceans to rise in the next 40 years by at least four to eight centimeters (1 1/2 to 3 1/4 inches). This would result purely from the expansion of the water caused by the higher temperature.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Two British scientists have predicted that the warmer global temperatures caused by the ''greenhouse effect'' will cause the world's oceans to rise in the next 40 years by at least four to eight centimeters (1 1/2 to 3 1/4 inches). This would result purely from the expansion of the water caused by the higher temperature.</p>
+        <p>Two British scientists have predicted that the warmer global temperatures caused by the ''greenhouse effect'' will cause the world's oceans to rise in the next 40 years by at least four to eight centimeters (1 1/2 to 3 1/4 inches). This would result purely from the expansion of the water caused by the higher temperature. The calculation, they said, does not take into account the melting of polar and glacial ice that may also occur with a warming atmosphere, which would further raise the sea level.</p>
+        <p>Dr. Tom Wigley and Dr. S. C. B. Raper of the University of East Anglia presented in Nature their estimate of the impact of ocean expansion caused by the rising level of carbon dioxide in the atmosphere resulting from the burning of fossil fuels and other human activities.</p>
+        <p>Carbon dioxide and certain other gases trap solar heat in the atmosphere. The heated atmosphere will transfer heat to the oceans by diffusion and upwelling currents, they asserted, and this would expand the water. A rise of 3 1/4 inches would not cause serious coastal flooding, but coupled with the effects of melted glaciers, flooding might become serious.</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

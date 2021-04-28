@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>White House Acted On Global Warming</title>
+    <meta content="L10POD$03" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/10/opinion/L10POD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1261636"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Mckibben, Bill</person>
+        <person class="indexing_service">Podesta, John</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E2D7133AF933A25752C0A9679C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>White House Acted On Global Warming</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from John Podesta, chief of staff to president, holds Bill McKibben is right that global warming is our greatest environmental challenges, but is wrong to suggest that Clinton administration has done 'nothing' about it</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bill McKibben is right that global warming is our greatest environmental challenge, but he is wrong to suggest that the Clinton administration has done ''nothing'' about it (''Too Hot to Handle,'' Op-Ed, Jan. 5).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bill McKibben is right that global warming is our greatest environmental challenge, but he is wrong to suggest that the Clinton administration has done ''nothing'' about it (''Too Hot to Handle,'' Op-Ed, Jan. 5).</p>
+        <p>When we took office, economic growth in the United States was low, and growth in greenhouse gas emissions was high. This administration believed, however, that we could have economic growth while reducing emissions. In both 1998 and 1999, the economy grew by more than 4 percent while carbon dioxide emissions grew by less than 1 percent.</p>
+        <p>Despite strong resistance in Congress, we secured record financing to develop the clean, efficient energy technologies that can help us fight climate change. Acting without Congress, this administration started more than 50 major initiatives to improve energy efficiency and develop clean energy sources.</p>
+        <p>Our new efficiency standards for home appliances will save consumers $50 billion and avoid 225 million metric tons of greenhouse gases over the next 10 years. We also made the federal government more efficient; in 1999 alone, we reduced our yearly energy bill by $800 million.</p>
+        <p>Eight years ago, few politicians dared take this issue on. President Clinton defied conventional wisdom and forced global warming to the center of our public dialogue. More remains to be done, but the momentum is more easily sustained if we acknowledge, rather than denigrate, the progress achieved.</p>
+        <p>JOHN PODESTA  Chief of Staff to the President  Washington, Jan. 8, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

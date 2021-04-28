@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Warming Follies</title>
+    <meta content="08SAT2$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/06/08/opinion/08SAT2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1398774"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5DB123DF93BA35755C0A9649C8B63" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Warming Follies</hl1>
+        <hl2 class="online_headline">Global Warming Follies</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial criticizes Pres Bush's dismissal of report by US government scientists explaining that human activities are largely responsible for global warming, and warning of severe environmental consequences</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush continues to stumble on the issue of global warming. Last year, to the dismay of America's allies, he rejected the 1997 Kyoto Protocol committing industrialized nations to reduce greenhouse gases. He also reneged on his campaign pledge to impose mandatory caps on carbon dioxide, the most important of those gases. Now he has dismissed a report written by his own experts. It asserts that human activities are largely responsible for global warming and warns that the environmental consequences could be severe.</p>
+        <p>The report is the third in a series of studies required by a climate treaty signed by Mr. Bush's father in Rio de Janeiro in 1992, but the first issued by the new administration. It was presented to the United Nations last week and appeared unannounced on the Environmental Protection Agency's Web site. It does not openly challenge the voluntary approach Mr. Bush has recommended. But it is a serious study reflecting the views of scientists in six federal agencies, including the President's Council on Environmental Quality, and its findings align the administration with most mainstream scientists as to the causes and consequences of climate change. It deserves better than Mr. Bush's contemptuous response: ''I read the report put out by the bureaucracy,'' he said, before repeating his opposition to Kyoto.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush continues to stumble on the issue of global warming.</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush continues to stumble on the issue of global warming. Last year, to the dismay of America's allies, he rejected the 1997 Kyoto Protocol committing industrialized nations to reduce greenhouse gases. He also reneged on his campaign pledge to impose mandatory caps on carbon dioxide, the most important of those gases. Now he has dismissed a report written by his own experts. It asserts that human activities are largely responsible for global warming and warns that the environmental consequences could be severe.</p>
+        <p>The report is the third in a series of studies required by a climate treaty signed by Mr. Bush's father in Rio de Janeiro in 1992, but the first issued by the new administration. It was presented to the United Nations last week and appeared unannounced on the Environmental Protection Agency's Web site. It does not openly challenge the voluntary approach Mr. Bush has recommended. But it is a serious study reflecting the views of scientists in six federal agencies, including the President's Council on Environmental Quality, and its findings align the administration with most mainstream scientists as to the causes and consequences of climate change. It deserves better than Mr. Bush's contemptuous response: ''I read the report put out by the bureaucracy,'' he said, before repeating his opposition to Kyoto.</p>
+        <p>The report obviously presented Mr. Bush with a ticklish problem. Having abandoned Kyoto and his campaign pledges, he had left himself without a meaningful strategy to deal with climate change. To acknowledge the truth of the study would have required him to offer such a strategy, or at least something more imaginative than the pallid voluntarism favored by many of his corporate friends and big campaign contributors.</p>
+        <p>So he chose to brush it off. His timing was unfortunate. On Tuesday Japan ratified the Kyoto agreement, as have the members of the European Union. These countries do not expect Mr. Bush to drop his opposition to Kyoto. But they have a right to expect something more than a casual rejection of inconvenient truths.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

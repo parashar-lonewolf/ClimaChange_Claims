@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. Gets Contract for Weather Supercomputer</title>
+    <meta content="Y01SUPE" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/06/01/technology/01SUPE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1396832"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Forecasts</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <org class="indexing_service">National Centers for Environmental Prediction</org>
+        <org class="indexing_service">National Weather Service</org>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <location class="online_producer">Japan</location>
+        <org class="online_producer">International Business Machines Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00EEDB143AF932A35755C0A9649C8B63" item-length="794" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. Gets Contract for Weather Supercomputer</hl1>
+        <hl2 class="online_headline">I.B.M. Gets Contract for Weather Supercomputer</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, May 31</dateline>
+      <abstract>
+        <p>US government awards IBM $224.4 million contract to build power new supercomputer as part of effort to close growing gap facing US scientists in weather prediction; machine, which is planned to reach theoretical peak speed of more than 100 trillion calculations per second by 2009, will be used to increase accuracy of forecasts of weather, floods and ocean conditions by National Centers for Environmental Prediction, part of National Weather Service (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As part of an effort to close a growing gap facing United States scientists in weather prediction, the government awarded I.B.M. a $224.4 million contract today to build a powerful new supercomputer.</p>
+        <p>The machine, which is planned to reach a theoretical peak speed of more than 100 trillion calculations a second by 2009, will be used to increase the accuracy of forecasts of weather, floods and ocean conditions by National Centers for Environmental Prediction, part of the National Weather Service.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In an effort to close a growing gap facing the United States in weather prediction, the government awarded I.B.M. a $224.4 million contract to build a powerful new supercomputer.</p>
+      </block>
+      <block class="full_text">
+        <p>As part of an effort to close a growing gap facing United States scientists in weather prediction, the government awarded I.B.M. a $224.4 million contract today to build a powerful new supercomputer.</p>
+        <p>The machine, which is planned to reach a theoretical peak speed of more than 100 trillion calculations a second by 2009, will be used to increase the accuracy of forecasts of weather, floods and ocean conditions by National Centers for Environmental Prediction, part of the National Weather Service.</p>
+        <p>The award comes just a month after the Japanese government completed development on what is currently the world's fastest supercomputer, an achievement that took many computing experts in the United States by surprise. The Japanese machine was built to analyze climate change, including global warming as well as weather and earthquake patterns.</p>
+        <p>The Japanese Earth Simulator was financed by the Japanese government and has been installed at the Earth Simulator Research and Development Center in Yokohama, west of Tokyo. The Japanese government spent $350 million to $400 million developing the system over the last five years.</p>
+        <p>The Japanese computer was striking in part because it achieved significantly higher performance than computers financed by the United States government for simulating nuclear weapons. The Earth Simulator is composed of 640 specialized nodes that are in turn composed of 5,104 processors made by NEC, a Japanese computing and electronics company. The machine has been measured performing up to 35.6 trillion mathematical operations a second.</p>
+        <p>Currently the most powerful American supercomputer, I.B.M.'s ASCI White, simulates nuclear explosions at a government lab in California, performing 12.3 trillion mathematical operations a second.</p>
+        <p>Unlike the new I.B.M. weather supercomputer, which will be used for day-to-day forecasting, the Japanese computer will look at climate change over decades or centuries.</p>
+        <p>The two machines have notably different design philosophies. The Japanese supercomputer employs specialized hardware to do long chains of specialized calculations, while the United States will build a ''massively parallel'' machine, one using armies of more conventional microprocessors.</p>
+        <p>The new United States computer, which is planned to be in operation next spring, is based on a design similar to a machine that I.B.M. built for the National Centers for Environmental Protection in 1999. The machine, which will be leased from I.B.M. and installed at an I.B.M. computer center in Gaithersburg, Md., will initially have a peak performance of 7.3 teraflops, or trillions of operations a second, and will be scaled up by adding and improving processors through 2009.</p>
+        <p>Under the agreement, the supercomputer will be leased by the government from I.B.M., which will also provide hardware and software support and fast network connections for government agencies.</p>
+        <p>Over the first three years of the contract, I.B.M. officials said the new supercomputer would provide almost five times the speed of the environmental centers' current I.B.M. system and would ultimately provide 48 times the speed.</p>
+        <p>Several American scientists said the award was an important first step in a field that many believe is underfinanced.</p>
+        <p>''It's a historic event,'' said Larry Smarr, director of the California Institute for Telecommunications and Information Technology and an expert on supercomputing. ''It shows the U.S. is going to be back in the game for high-performance computing applied to weather and climate issues.''</p>
+        <p>Officials at the National Oceanic and Atmospheric Administration said the computer would be used principally for weather prediction rather than scientific research on climate change. Nevertheless, weather scientists said it was a crucial component of the nation's scientific weather research program.</p>
+        <p>''The research doesn't make any sense if we can't do the operational work,'' said Robert Gall, lead scientist for the United States weather research program. ''It's all part of the research program that gets us a better weather forecast.''</p>
+        <p>N.O.A.A. officials said the I.B.M. machine would significantly improve the precision and accuracy of weather forecasting. For example, in the past while it might have been possible to predict rain in New York City, it will now be possible to predict weather separately for Manhattan and Queens.</p>
+        <p>Dr. Gall said that neither the Japanese Earth Simulator nor the new I.B.M. system would fulfill the dream of meteorologists, a dramatic advance in the precision and accuracy of weather and climate prediction. That would require a computer that would be able to calculate weather about every half-mile over the entire surface of the globe.</p>
+        <p>However, even allowing for the computing advances that will be brought about by Moore's Law -- an observation about the increasing power and speed of semiconductors -- it will not be possible to build such a machine until 2015, he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

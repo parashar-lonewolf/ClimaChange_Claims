@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Representative Sherwood Boehlert</title>
+    <meta content="29THU3" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/08/29/opinion/29THU3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1419445"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Primaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Endorsements</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">House of Representatives (US)</org>
+        <person class="indexing_service">Boehlert, Sherwood L (Rep)</person>
+        <person class="indexing_service">Walrath, David (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York State</location>
+        <person class="online_producer">Boehlert, Sherwood</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020829T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E4DD173FF93AA1575BC0A9649C8B63" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Representative Sherwood Boehlert</hl1>
+        <hl2 class="online_headline">For Representative Sherwood Boehlert</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial endorses Rep Sherwood Boehlert, moderate Republican who is being challenged by David Walrath in primary in his upstate New York Congressional district (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Occasionally a politician comes along who follows his own principles instead of harkening to the pollsters or the party hacks. One member of this uncommon breed is Representative Sherwood Boehlert, a moderate Republican from Utica who is routinely challenged in election years by the most conservative wing of his own party. In his latest contest Mr. Boehlert faces David Walrath, a physician and county legislator. Dr. Walrath is courting the anti-abortion, anti-gun-control voters in this upstate New York district that ranges from the Finger Lakes to the western Adirondacks.</p>
+        <p>Although this page has disagreed with Mr. Boehlert on some issues, his stalwart efforts to protect the environment should be enough to win most thoughtful voters to his side. He has worked to reduce urban smog and acid rain, the scourge of upstate New York, and battled for protection of the national forests and open space. And he has struggled to reform and revive the Superfund cleanup of toxic dumps. Despite his willingness to challenge his party's conservative leadership on these and other issues, Mr. Boehlert has earned the respect of mainstream Republican colleagues.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Occasionally a politician comes along who follows his principles instead of harkening to pollsters or party hacks. One member of this uncommon breed is Representative Sherwood Boehlert.</p>
+      </block>
+      <block class="full_text">
+        <p>Occasionally a politician comes along who follows his own principles instead of harkening to the pollsters or the party hacks. One member of this uncommon breed is Representative Sherwood Boehlert, a moderate Republican from Utica who is routinely challenged in election years by the most conservative wing of his own party. In his latest contest Mr. Boehlert faces David Walrath, a physician and county legislator. Dr. Walrath is courting the anti-abortion, anti-gun-control voters in this upstate New York district that ranges from the Finger Lakes to the western Adirondacks.</p>
+        <p>Although this page has disagreed with Mr. Boehlert on some issues, his stalwart efforts to protect the environment should be enough to win most thoughtful voters to his side. He has worked to reduce urban smog and acid rain, the scourge of upstate New York, and battled for protection of the national forests and open space. And he has struggled to reform and revive the Superfund cleanup of toxic dumps. Despite his willingness to challenge his party's conservative leadership on these and other issues, Mr. Boehlert has earned the respect of mainstream Republican colleagues.</p>
+        <p>Like other politicians from his area, Mr. Boehlert will have to find ways to deal with job losses upstate and complex Indian land claims issues. We are confident that he can give such vital and complicated matters the attention and thoughtful responses they deserve. We endorse Mr. Boehlert.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

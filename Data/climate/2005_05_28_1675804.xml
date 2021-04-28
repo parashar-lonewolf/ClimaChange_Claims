@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Secure Chemical Plants</title>
+    <meta content="L28CHE$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1675804"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EED91139F93BA15756C0A9639C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Secure Chemical Plants</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Inside the Kill Zone'' (editorial, ''Insecure Nation'' series, May 22): As you point out, the nation's chemical plants are vulnerable to attack, with potentially devastating consequences to surrounding populations.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Inside the Kill Zone'' (editorial, ''Insecure Nation'' series, May 22): As you point out, the nation's chemical plants are vulnerable to attack, with potentially devastating consequences to surrounding populations.</p>
+        <p>Two of the solutions you proposed -- the use of safer chemicals and reduced quantities of dangerous chemicals -- are part of an engineering design approach known as inherent safety.</p>
+        <p>Industry has been slow to adopt this approach, but must now be persuaded or required to do so. In redesigning its processes for inherent safety, the chemical industry could also respond to other neglected challenges.</p>
+        <p>Sustainability, in regard to climate change and other issues, will involve shifts in demand and the need to deploy new processes and technology. Adopting such new processes could also prepare the industry for a peak in world oil production, which many observers predict will occur within a decade or two.</p>
+        <p>Gordon Thompson  Exec. Dir., Institute for Resource  and Security Studies  Cambridge, Mass., May 23, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

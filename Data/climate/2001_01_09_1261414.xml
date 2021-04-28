@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Time Now to Mend Our Energy Ways</title>
+    <meta content="L09GLO" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/09/opinion/L09GLO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1261414"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Methane</classifier>
+        <person class="indexing_service">Henkel, E Thomas</person>
+        <person class="indexing_service">Mckibben, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EEDC123AF93AA35752C0A9679C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Time Now to Mend Our Energy Ways</hl1>
+      </hedline>
+      <abstract>
+        <p>E Thomas Henkel letter on Bill McKibben's Jan 5 article on need to stop global warming calls for energy policy that encourages use of smaller, distributed electric power systems driven by cleaner methane and renewable energy resources; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bill McKibben, in his Jan. 5 Op-Ed article about the urgent need to stop global warming, makes a strong case for a new national energy policy that emphasizes energy conservation and non-fossil-fuel energy resources like wind, solar and hydrogen.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bill McKibben, in his Jan. 5 Op-Ed article about the urgent need to stop global warming, makes a strong case for a new national energy policy that emphasizes energy conservation and non-fossil-fuel energy resources like wind, solar and hydrogen.</p>
+        <p>Rather than build new centralized power plants to meet all of our increased electricity needs, a new energy policy should encourage the use of smaller, distributed electric power systems driven by cleaner methane and renewable energy resources.</p>
+        <p>Safe and reliable new energy technologies are ready for widespread use. Strong leadership is required to bring these technologies to market and to solve our current energy problems in ways that address our present and future needs for a vibrant economy and a healthy environment.</p>
+        <p>E. THOMAS HENKEL  Chapel Hill, N.C., Jan. 5, 2001</p>
+        <p>The writer is an energy and technology consultant.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
