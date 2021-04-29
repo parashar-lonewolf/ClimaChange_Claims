@@ -35,7 +35,6 @@ $ python3 clean_dataset_creator.py
 ```
 ##### One file will be created:
 
-* [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt)
-	i.e the final cleaned dataset
+* [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt) is the final cleaned dataset
 After reading from [the xml extracted data](./4mFullData_Kyotoclean_data_content.txt)
 and [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt) will be used by the Annotator.
