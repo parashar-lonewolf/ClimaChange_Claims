@@ -35,7 +35,8 @@ $ python3 clean_dataset_creator.py
 ```
 ##### One file will be created:
 
-* [data_extractor_newKyoto.py](./4mFullData_NYT_KyotoConferenceData_cleaned.txt)
+* [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt)
 	i.e the final cleaned dataset
-After reading from [4mFullData_Kyotoclean_data_content.py](./4mFullData_Kyotoclean_data_content.txt)
-
+After reading from [the xml extracted data](./4mFullData_Kyotoclean_data_content.txt)
+and [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt) will be used by [the Annotator](./ACTOR_CLAIM_ANNOTATOR.py)
+to create the ConLL and claim files in the [Save](././Save) folder
