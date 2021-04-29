@@ -1,6 +1,6 @@
 ## Table of contents
 * [Intro & installation](#introduction)
-* [The Data](./Data/README.md)
+* [The Data](./Data)
 * [The Annotator](#the-annotator)
 * [The Tagger](#the-tagger)
 * [Claim classification](#claim-classification)
