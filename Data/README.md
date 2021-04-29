@@ -14,7 +14,7 @@
 ```
 ####  Run the data-extractor:
 ##### May want to change the output file-names, if they already exist
-$ python3 [data_extractor_newKyoto.py](./data_extractor_newKyoto.py) 
+$ python3 data_extractor_newKyoto.py 
 ```
 ##### Four files will be created:
 I.	DATA-FILES:
