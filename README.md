@@ -42,31 +42,36 @@ $ python3  ACTOR_CLAIM_ANNOTATOR.py
 * All tagged data will be stored in ConLL format as: ConLLformat_annotator.txt (here you see ConLLformat_annotator_ank/ian.txt)
 * All claims will be stored in [Save](./Save) folder (here you see Claims_ank/ian.txt)
 
-##### The GUI windows 
-##### 1. 
+#####The GUI windows 
+##### To explain how this works, As an example lets talk about a claim made by Bill Clinton from the NYT article from 1997/06/23(this is stores in Claims.txt in ##### the [Save](./Save) folder
+
+But in a sharp dispute with France and other European nations that dominated this morning's final session of ''The Summit of the Eight,'' President Clinton refused to commit the United States to a specific reduction in the emission of carbon dioxide and the other greenhouse gases that contribute to global warming, agreeing only to ''substantial reductions'' by 2010.
+
+## 1. 
 "'So do you think this has a CLAIM ?'
 
-1. You answer yes by selecting a new actor and/or just clicking "Next"
-![Window 1](https://cdn.mathpix.com/snip/images/GgCijP3eYTY7_q9RZ9wDhaQPLMIe_LbUcv0Q5JRYbSw.original.fullsize.png)
-##### 2.
+1. You answer yes by selecting a new actor, here *President* and *Clinton* and clicking **Next** (if the annnotator has already corectly chosen the actor for you, you may just click **Next**)
+
+![Window 1](https://cdn.mathpix.com/snip/images/ZZowOn83cgaEXQMdBZ3ldzLU1er468JAs8wn5TDehmY.original.fullsize.png)
+## 2.
 'Select the Claim boundaries'
 
 2. This brings us to the claim annotations, where we have to select the words to be used as boundaries, i.e
 the first word and the last word of the claim sequence.
-For eg: A recent study in the journal Nature  confirmed that the freezing levels in the mountains have indeed 
-shifted upward about 500 feet since 1970, representing a warming of close to 2 Fahrenheit.
-you select [that] and [Fahrenheit.] on the window. Choose a Polarity for the Claim ('+'/[Helping],'-'/[Ignoring] and '0'/[Neutral]) and click on "Next"
-![Window 2](https://cdn.mathpix.com/snip/images/NX-nirTfLllMaPCywMVH93gqh53jMRSyf45YE-qBMpM.original.fullsize.png)
 
-3. if you select "Cancel" at WINDOW 1, you remove that sentence from tagging criterias.
-4. if you select "Exit" the prgram ends and only writes till last completely tagged article
+
+you can select *commit* and *warming,* on the window. Choose if the actor **Supports** or is **Against** the claim (in this cases since he "refused" to commit, it's **Against**) and click on **Next**
+![Window 2](https://cdn.mathpix.com/snip/images/wO2YY4boghyZ-UNffZ6GdqktjmRMKEEdpYI9RYdah_E.original.fullsize.png)
+
+3. if you select **Cancel** at WINDOW 1, you remove that sentence from tagging criterias.
+4. if you select **Exit** the prgram ends and only writes till last completely tagged article
 5. If you select save, it will save all current progress of dataset annotations in the [Save](./Save) folder as Progress_Manager.txt(saved here as Progress_Manager_ank/ian.txt),
 and once you exit and restart, the annotation will continue from the last annotation point.
 6. In case, you made a mistake in the annotation, the current version addresses the issue as:
 
-*click on "Save Prev Annotations"*
+*click on **Save Prev Annotations***
 
-*press "Exit"*
+*press **Exit***
 
 *rerun the annotator program*
 
