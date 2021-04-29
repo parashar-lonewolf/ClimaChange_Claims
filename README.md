@@ -37,24 +37,24 @@ $ pip install -r requirements.txt
 #### 7. Run Annotator
 $ python3  ACTOR_CLAIM_ANNOTATOR.py 
 ```
-### The annotator
+## The annotator
 #### Instructions for using the Annotator :
 * All tagged data will be stored in ConLL format as: ConLLformat_annotator.txt (here you see ConLLformat_annotator_ank/ian.txt)
 * All claims will be stored in [Save](./Save) folder (here you see Claims_ank/ian.txt)
 
-#####The GUI windows 
+#### The GUI windows 
 ##### To explain how this works, As an example lets talk about a claim made by Bill Clinton from the NYT article from 1997/06/23(this is stored  
 ##### in Claims.txt which is the [Save](./Save) folder)
 
 But in a sharp dispute with France and other European nations that dominated this morning's final session of ''The Summit of the Eight,'' President Clinton refused to commit the United States to a specific reduction in the emission of carbon dioxide and the other greenhouse gases that contribute to global warming, agreeing only to ''substantial reductions'' by 2010.
 
-## 1. 
+### 1. 
 "'So do you think this has a CLAIM ?'
 
 1. You answer yes by selecting a new actor, here *President* and *Clinton* and clicking **Next** (if the annnotator has already corectly chosen the actor for you, you may just click **Next**)
 
 ![Window 1](https://cdn.mathpix.com/snip/images/ZZowOn83cgaEXQMdBZ3ldzLU1er468JAs8wn5TDehmY.original.fullsize.png)
-## 2.
+### 2.
 'Select the Claim boundaries'
 
 2. This brings us to the claim annotations, where we have to select the words to be used as boundaries, i.e
@@ -79,14 +79,14 @@ and once you exit and restart, the annotation will continue from the last annota
 ##### ConLL format used: (Using above output as example)
 ![ConLL data](https://cdn.mathpix.com/snip/images/hv_6zy1J3ANUcGHwn-f19cxGhGVAexgNxZuy4uEe8-k.original.fullsize.png)
 
-### Claim classification
+## Claim classification
 All the tagged Claims are classified into 5 clusters using K-means:
 * [k-means clusering of claims](./KMeans_Claim_Custering.ipynb)
 * The output is beautifully portrayed below (also check https://claimclusters.tiiny.site/)
 
 ![Claim Cluster](./download.png)
 
-### The tagger
+## The tagger
 ##### There are two implementations of creating a language model to predict and output our custom tags:
 * [Notebook with CRF tagger train/test with and without claim classification](./CRF_ActorClaim_tagger.ipynb)      
 
@@ -95,7 +95,7 @@ We have trained 3 models each of clustered and unclustered data and run them for
 
 
 
-### Political discourse network
+## Political discourse network
 
 * This notebook uses 'jgraph' to create political discourse:
 [ Political discourse network over time](./Political_Discourse_networks.ipynb)
