@@ -38,5 +38,5 @@ $ python3 clean_dataset_creator.py
 * [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt)
 	i.e the final cleaned dataset
 After reading from [the xml extracted data](./4mFullData_Kyotoclean_data_content.txt)
-and [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt) will be used by [the Annotator](./ACTOR_CLAIM_ANNOTATOR.py)
-to create the ConLL and claim files in the [Save](././Save) folder
+and [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt) will be used by [the Annotator](./https://github.com/parashar-lonewolf/ClimaChange_Claims/tree/main/ACTOR_CLAIM_ANNOTATOR.py)
+to create the ConLL and claim files in the [Save](./https://github.com/parashar-lonewolf/ClimaChange_Claims/tree/main/Save) folder
