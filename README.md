@@ -40,7 +40,7 @@ $ python3  ACTOR_CLAIM_ANNOTATOR.py
 ### The annotator
 #### Instructions for using the Annotator :
 * All tagged data will be stored in ConLL format as: ConLLformat_annotator.txt (here you see ConLLformat_annotator_ank/ian.txt to indicate the individual annotaions hence performed)
-* All claims will be stored as: [Save/Claims.txt](./Save/Claims_ank.txt) (here you see Claims_ank/ian.txt to indicate the individual annotaions hence we have performed)
+* All claims will be stored in [Save](./Save) folder (here you see Claims_ank/ian.txt to indicate the individual annotaions hence we have performed)
 
 ##### The first window will have ask
 ##### Window 1. 
@@ -76,9 +76,9 @@ and once you exit and restart, the annotation will continue from the last annota
 ### The tagger
 ##### There are two implementations of creating a language model to predict and output our custom tags:
 * [Notebook with CRF tagger train/test without claim classification](./CRF_tagger_withoutClaimClassification.ipynb)    
-* [Notebook with CRF tagger train/test with K Means claim classification](./CRF_tagger_withKmeansClaims.ipynb)      
+* [Notebook with CRF tagger train/test with K Means claim classification](./CRF_tagger_KMeansClassification.ipynb)      
 
-Each of these notebooks have a functional tagger mdoel made using CRF, the model files are aslo available for use using the same pre-processing as done in the notebook
+Each of these notebooks have a functional tagger mdoel made using CRF, the model files are also available for use using the same pre-processing as done in the notebook
 
 ### Claim classification
 All the tagged Claims are classified into 5 clusters using K-means:
@@ -88,3 +88,5 @@ All the tagged Claims are classified into 5 clusters using K-means:
 
 ### Political discourse network
 
+* This notebook uses 'jgraph' to create political discourse:
+![ Political discourse network over time](./3D-force-directed-graph of Political_Discourse_networks.ipynb)
