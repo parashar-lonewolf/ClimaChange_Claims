@@ -84,9 +84,10 @@ Each of these notebooks have a functional tagger mdoel made using CRF, the model
 All the tagged Claims are classified into 5 clusters using K-means:
 * [k-means clusering of claims](./KMeans_Claim_Custering.ipynb)
 * The output is beautifully portrayed below (also check https://claimclusters.tiiny.site/)
-[Claim Cluster](./download.png)
+![Claim Cluster](./download.png)
 
 ### Political discourse network
 
 * This notebook uses 'jgraph' to create political discourse:
+
 [ Political discourse network over time](./3D-force-directed-graph of Political_Discourse_networks.ipynb)
