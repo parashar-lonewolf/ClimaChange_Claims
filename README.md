@@ -89,4 +89,4 @@ All the tagged Claims are classified into 5 clusters using K-means:
 ### Political discourse network
 
 * This notebook uses 'jgraph' to create political discourse:
-[ Political discourse network over time](./3D-force-directed-graph \\of \\Political_Discourse_networks.ipynb)
+[ Political discourse network over time](./Political_Discourse_networks.ipynb)
