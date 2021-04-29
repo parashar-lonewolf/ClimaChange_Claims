@@ -42,13 +42,13 @@ $ python3  ACTOR_CLAIM_ANNOTATOR.py
 * All tagged data will be stored in ConLL format as: ConLLformat_annotator.txt (here you see ConLLformat_annotator_ank/ian.txt to indicate the individual annotaions hence performed)
 * All claims will be stored in [Save](./Save) folder (here you see Claims_ank/ian.txt to indicate the individual annotaions hence we have performed)
 
-##### The first window will have ask
-##### Window 1. 
+##### The GUI windows 
+##### 1. 
 "'So do you think this has a CLAIM ?'
 
 1. You answer yes by selecting a new actor and/or just clicking "Next"
 ![Window 1](https://cdn.mathpix.com/snip/images/GgCijP3eYTY7_q9RZ9wDhaQPLMIe_LbUcv0Q5JRYbSw.original.fullsize.png)
-##### Window 2
+##### 2.
 'Select the Claim boundaries'
 
 2. This brings us to the claim annotations, where we have to select the words to be used as boundaries, i.e
