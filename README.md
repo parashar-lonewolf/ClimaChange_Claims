@@ -54,14 +54,13 @@ But in a sharp dispute with France and other European nations that dominated thi
 1. You answer yes by selecting a new actor, here *President* and *Clinton* and clicking **Next** (if the annnotator has already corectly chosen the actor for you, you may just click **Next**)
 
 ![Window 1](https://cdn.mathpix.com/snip/images/ZZowOn83cgaEXQMdBZ3ldzLU1er468JAs8wn5TDehmY.original.fullsize.png)
+
 ### 2.
 'Select the Claim boundaries'
 
 2. This brings us to the claim annotations, where we have to select the words to be used as boundaries, i.e
-the first word and the last word of the claim sequence.
+the first word and the last word of the claim sequence. You can select *commit* and *warming,* on the window. Choose if the actor **Supports** or is **Against** the claim (in this case since he ' "refused" to commit ', it's **Against**) and click on **Next**
 
-
-you can select *commit* and *warming,* on the window. Choose if the actor **Supports** or is **Against** the claim (in this case since he ' "refused" to commit ', it's **Against**) and click on **Next**
 ![Window 2](https://cdn.mathpix.com/snip/images/wO2YY4boghyZ-UNffZ6GdqktjmRMKEEdpYI9RYdah_E.original.fullsize.png)
 
 3. if you select **Cancel** at WINDOW 1, you remove that sentence from tagging criterias.
