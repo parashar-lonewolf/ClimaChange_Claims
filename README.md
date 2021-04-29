@@ -75,8 +75,7 @@ and once you exit and restart, the annotation will continue from the last annota
 
 ### The tagger
 ##### There are two implementations of creating a language model to predict and output our custom tags:
-* [Notebook with CRF tagger train/test without claim classification](./CRF_tagger_withoutClaimClassification.ipynb)    
-* [Notebook with CRF tagger train/test with K Means claim classification](./CRF_tagger_KMeansClassification.ipynb)      
+* [Notebook with CRF tagger train/test without and without claim classification](./CRF_ActorClaim_tagger.ipynb)      
 
 Each of these notebooks have a functional tagger mdoel made using CRF, the model files are also available for use using the same pre-processing as done in the notebook
 
