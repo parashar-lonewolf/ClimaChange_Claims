@@ -61,7 +61,7 @@ But in a sharp dispute with France and other European nations that dominated thi
 the first word and the last word of the claim sequence.
 
 
-you can select *commit* and *warming,* on the window. Choose if the actor **Supports** or is **Against** the claim (in this cases since he "refused" to commit, it's **Against**) and click on **Next**
+you can select *commit* and *warming,* on the window. Choose if the actor **Supports** or is **Against** the claim (in this case since he ' "refused" to commit ', it's **Against**) and click on **Next**
 ![Window 2](https://cdn.mathpix.com/snip/images/wO2YY4boghyZ-UNffZ6GdqktjmRMKEEdpYI9RYdah_E.original.fullsize.png)
 
 3. if you select **Cancel** at WINDOW 1, you remove that sentence from tagging criterias.
