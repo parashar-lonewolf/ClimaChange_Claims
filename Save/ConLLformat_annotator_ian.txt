@@ -22117,10 +22117,10 @@
 2	Z.E.V.	NN	ORG	compound	I-CLAIM	-	1997/10/06/0963060
 3	mandate	NN		nsubj	I-CLAIM	-
 4	,	,		punct	O	
-5	he	PRP		nsubj	I-CLAIM	-
-6	added	VBD		parataxis	I-CLAIM	-
+5	he	PRP		nsubj	B-ACT	-
+6	added	VBD		parataxis	0	
 7	,	,		punct	O	
-8	was	VBD		ROOT	I-CLAIM	-
+8	was	VBD		ROOT	B-CLAIM	-
 9	'	''		punct	O	
 10	'	``		punct	O	
 11	completely	RB		advmod	I-CLAIM	-
