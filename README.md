@@ -39,8 +39,8 @@ $ python3  ACTOR_CLAIM_ANNOTATOR.py
 ```
 ### The annotator
 #### Instructions for using the Annotator :
-* All tagged data will be stored in ConLL format as: ConLLformat_annotator.txt (here you see ConLLformat_annotator_ank/ian.txt to indicate the individual annotaions hence performed)
-* All claims will be stored in [Save](./Save) folder (here you see Claims_ank/ian.txt to indicate the individual annotaions hence we have performed)
+* All tagged data will be stored in ConLL format as: ConLLformat_annotator.txt (here you see ConLLformat_annotator_ank/ian.txt)
+* All claims will be stored in [Save](./Save) folder (here you see Claims_ank/ian.txt)
 
 ##### The GUI windows 
 ##### 1. 
@@ -60,7 +60,7 @@ you select [that] and [Fahrenheit.] on the window. Choose a Polarity for the Cla
 
 3. if you select "Cancel" at WINDOW 1, you remove that sentence from tagging criterias.
 4. if you select "Exit" the prgram ends and only writes till last completely tagged article
-5. If you select save, it will save all current progress of dataset annotations,
+5. If you select save, it will save all current progress of dataset annotations in the [Save](./Save) folder as Progress_Manager.txt(saved here as Progress_Manager_ank/ian.txt),
 and once you exit and restart, the annotation will continue from the last annotation point.
 6. In case, you made a mistake in the annotation, the current version addresses the issue as:
 
