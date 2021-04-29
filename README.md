@@ -2,8 +2,8 @@
 * [Intro & installation](#introduction)
 * [The Data](./Data)
 * [The Annotator](#the-annotator)
-* [The Tagger](#the-tagger)
 * [Claim classification](#claim-classification)
+* [The Tagger](#the-tagger)
 * [Political Discourse network](#political-discourse-network)
 
 ## Introduction
@@ -73,18 +73,21 @@ and once you exit and restart, the annotation will continue from the last annota
 ##### ConLL format used: (Using above output as example)
 ![ConLL data](https://cdn.mathpix.com/snip/images/hv_6zy1J3ANUcGHwn-f19cxGhGVAexgNxZuy4uEe8-k.original.fullsize.png)
 
-### The tagger
-##### There are two implementations of creating a language model to predict and output our custom tags:
-* [Notebook with CRF tagger train/test with and without claim classification](./CRF_ActorClaim_tagger.ipynb)      
-
-Each of these notebooks have a functional tagger mdoel made using CRF, the model files are also available for use using the same pre-processing as done in the notebook
-
 ### Claim classification
 All the tagged Claims are classified into 5 clusters using K-means:
 * [k-means clusering of claims](./KMeans_Claim_Custering.ipynb)
 * The output is beautifully portrayed below (also check https://claimclusters.tiiny.site/)
 
 ![Claim Cluster](./download.png)
+
+### The tagger
+##### There are two implementations of creating a language model to predict and output our custom tags:
+* [Notebook with CRF tagger train/test with and without claim classification](./CRF_ActorClaim_tagger.ipynb)      
+
+This notebook has a functional models made using CRF, the model files are also available for use in [Pickles](./Pickles) folder.
+We have trained 3 models each of clustered and unclustered data and run them for 500,1000 and 1500 iterations respectively
+
+
 
 ### Political discourse network
 
