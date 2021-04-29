@@ -38,4 +38,4 @@ $ python3 clean_dataset_creator.py
 * [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt)
 	i.e the final cleaned dataset
 After reading from [the xml extracted data](./4mFullData_Kyotoclean_data_content.txt)
-and [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt) will be used by [the Annotator]
+and [This](./4mFullData_NYT_KyotoConferenceData_cleaned.txt) will be used by the Annotator.
