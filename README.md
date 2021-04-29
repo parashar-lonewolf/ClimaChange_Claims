@@ -76,7 +76,7 @@ and once you exit and restart, the annotation will continue from the last annota
 *rerun the annotator program*
 
 ##### ConLL format used: (Using above output as example)
-![ConLL data](https://cdn.mathpix.com/snip/images/hv_6zy1J3ANUcGHwn-f19cxGhGVAexgNxZuy4uEe8-k.original.fullsize.png)
+![ConLL data](https://cdn.mathpix.com/snip/images/ISh58Vf9Pjm1wCk7pLkf3iJZJ7GNBoREzK1GpfNsMBs.original.fullsize.png)
 
 ## Claim classification
 All the tagged Claims are classified into 5 clusters using K-means:
