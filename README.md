@@ -45,8 +45,8 @@ $ python3  ACTOR_CLAIM_ANNOTATOR.py
 #### The GUI windows 
 ##### To explain how this works, As an example lets talk about a claim made by Bill Clinton from the NYT article from 1997/06/23 (this is stored  in Claims.txt which is the [Save](./Save) folder)
 
-But in a sharp dispute with France and other European nations that dominated this morning's final session of ''The Summit of the Eight,'' President Clinton refused to commit the United States to a specific reduction in the emission of carbon dioxide and the other greenhouse gases that contribute to global warming, agreeing only to ''substantial reductions'' by 2010.
-
+" *But in a sharp dispute with France and other European nations that dominated this morning's final session of ''The Summit of the Eight,'' President Clinton refused to commit the United States to a specific reduction in the emission of carbon dioxide and the other greenhouse gases that contribute to global warming, agreeing only to ''substantial reductions'' by 2010.* "
+                                                    
 ### 1. 
 "'So do you think this has a CLAIM ?'
 
