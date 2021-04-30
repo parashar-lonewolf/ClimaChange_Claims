@@ -39,8 +39,8 @@ $ python3  ACTOR_CLAIM_ANNOTATOR.py
 ```
 ## The annotator
 #### Instructions for using the Annotator :
-* All tagged data will be stored in ConLL format as: ConLLformat_annotator.txt (here you see ConLLformat_annotator_ank/ian.txt)
-* All claims will be stored in [Save](./Save) folder (here you see Claims_ank/ian.txt)
+* All tagged data will be stored in ConLL format as: ConLLformat_annotator.txt (here you see ConLLformat_annotator_ank/ian.txt) as shown [here](#conLL-annotated-data-format-and-example)
+* All claims and tagged data will be stored in [Save](./Save) folder (here you see Claims_ank/ian.txt)
 
 #### The GUI windows 
 ##### To explain how this works, As an example lets talk about a claim made by Bill Clinton from the NYT article from 1997/06/23 (this is stored  in Claims.txt which is the [Save](./Save) folder)
@@ -71,7 +71,8 @@ and once you exit and restart, the annotation will continue from the last annota
     * press **Exit**
     * rerun the annotator program
 
-##### ConLL format used: (Using above output as example)
+#### ConLL annotated data format and example
+      * ConLL format used: (Using above output as example)
 ![ConLL data](https://cdn.mathpix.com/snip/images/ISh58Vf9Pjm1wCk7pLkf3iJZJ7GNBoREzK1GpfNsMBs.original.fullsize.png)
 
 ## Claim classification
