@@ -4,13 +4,13 @@
 * [Data cleaning](#data-cleaning)
 
 ## The Data
-*  Articles from New York Times(1987-2007), in the folder "climate"
+*  Articles from New York Times(1987-2007), in the folder [climate](./climate)
 *  Filtered by "Climate" related articles and further by "Kyoto" as keyword
 *  Stored as: 4mFullData_NYT_KyotoConferenceData_cleaned.txt with 4mFullData_Kyoto_filename_list.txt as filename/date index
 
 ## Data-extraction
 #### After having created the virtual-env and installed the libraries from requirements.txt: 
-* To clean the data content ouit of the .xml files of the NYT articles
+* To clean the data content from the .xml files of the NYT articles stored in [climate](./climate) folder here.
 ```
 ####  Run the data-extractor:
 ##### May want to change the output file-names, if they already exist
