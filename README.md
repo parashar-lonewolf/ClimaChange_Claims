@@ -72,7 +72,7 @@ and once you exit and restart, the annotation will continue from the last annota
     * rerun the annotator program
 
 #### ConLL annotated data format and example
-      * ConLL format used: (Using above output as example)
+   * ConLL format used: (Using above output as example)
 ![ConLL data](https://cdn.mathpix.com/snip/images/ISh58Vf9Pjm1wCk7pLkf3iJZJ7GNBoREzK1GpfNsMBs.original.fullsize.png)
 
 ## Claim classification
