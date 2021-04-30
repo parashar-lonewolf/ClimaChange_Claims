@@ -67,9 +67,9 @@ the first word and the last word of the claim sequence. You can select *commit* 
 5. If you select save, it will save all current progress of dataset annotations in the [Save](./Save) folder as Progress_Manager.txt(saved here as Progress_Manager_ank/ian.txt),
 and once you exit and restart, the annotation will continue from the last annotation point.
 6. In case, you made a mistake in the annotation, the current version addresses the issue as:
-    * click on **Save Prev Annotations***
-    * press **Exit***
-    * rerun the annotator program*
+    * click on **Save Prev Annotations**
+    * press **Exit**
+    * rerun the annotator program
 
 ##### ConLL format used: (Using above output as example)
 ![ConLL data](https://cdn.mathpix.com/snip/images/ISh58Vf9Pjm1wCk7pLkf3iJZJ7GNBoREzK1GpfNsMBs.original.fullsize.png)
