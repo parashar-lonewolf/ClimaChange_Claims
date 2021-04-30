@@ -50,7 +50,7 @@ $ python3  ACTOR_CLAIM_ANNOTATOR.py
 ### 1. 
 "'So do you think this has a CLAIM ?'
 
-You answer yes by selecting a new actor, here *President* and *Clinton* and clicking **Next** (if the annnotator has already corectly chosen the actor for you, you may just click **Next**)
+You answer yes by selecting a new actor, here *President* and *Clinton* and clicking **Next** (if the annnotator has already correctly chosen the actor for you, you may just click **Next**)
 
 ![Window 1](https://cdn.mathpix.com/snip/images/ZZowOn83cgaEXQMdBZ3ldzLU1er468JAs8wn5TDehmY.original.fullsize.png)
 
