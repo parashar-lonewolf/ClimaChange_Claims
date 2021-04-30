@@ -48,14 +48,14 @@ $ python3  ACTOR_CLAIM_ANNOTATOR.py
 " *But in a sharp dispute with France and other European nations that dominated this morning's final session of ''The Summit of the Eight,'' President Clinton refused to commit the United States to a specific reduction in the emission of carbon dioxide and the other greenhouse gases that contribute to global warming, agreeing only to ''substantial reductions'' by 2010.* "
                                                     
 ### 1. 
-"'So do you think this has a CLAIM ?'
+  * "'So do you think this has a CLAIM ?'
 
 You answer yes by selecting a new actor, here *President* and *Clinton* and clicking **Next** (if the annnotator has already correctly chosen the actor for you, you may just click **Next**)
 
 ![Window 1](https://cdn.mathpix.com/snip/images/ZZowOn83cgaEXQMdBZ3ldzLU1er468JAs8wn5TDehmY.original.fullsize.png)
 
 ### 2.
-'Select the Claim boundaries'
+  * 'Select the Claim boundaries'
 
 This brings us to the claim annotations, where we have to select the words to be used as boundaries, i.e
 the first word and the last word of the claim sequence. You can select *commit* and *warming,* on the window. Choose if the actor **Supports** or is **Against** the claim (in this case since he ' "refused" to commit ', it's **Against**) and click on **Next**
