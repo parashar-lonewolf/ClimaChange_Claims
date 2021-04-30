@@ -63,7 +63,7 @@ the first word and the last word of the claim sequence. You can select *commit* 
 ![Window 2](https://cdn.mathpix.com/snip/images/wO2YY4boghyZ-UNffZ6GdqktjmRMKEEdpYI9RYdah_E.original.fullsize.png)
 
 3. if you select **Cancel** at WINDOW 1, you remove that sentence from tagging criterias.
-4. if you select **Exit** the prgram ends and only writes till last completely tagged article
+4. if you select **Exit** the prgram ends and, when restarted, it restarts at the candidate sentence quit, so progress is autosaved by default.
 5. If you select save, it will save all current progress of dataset annotations in the [Save](./Save) folder as Progress_Manager.txt(saved here as Progress_Manager_ank/ian.txt),
 and once you exit and restart, the annotation will continue from the last annotation point.
 6. In case, you made a mistake in the annotation, the current version addresses the issue as:
