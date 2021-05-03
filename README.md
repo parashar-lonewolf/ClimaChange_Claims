@@ -8,8 +8,8 @@
 
 ## Introduction
 #### For Linux/Ubuntu based systems:
-##### Objective: 
-* To tag and model ACTOR(any Person/Organisation) and their corresponding CLAIM(S) made on environmental issues, emmisions and/or climate-change and whether they support the claim or not
+#### Objective: 
+* To tag and model ACTOR(any Person/Organisation) and their corresponding CLAIM(S) made on environmental issues, emmisions and/or climate-change and whether they support the claim or not. We also wish to generate and visualize a poltical discourse network hence generated from the annotations and analysis. 
 ```
 #### 1. Install python virtualenv:
 $ pip install virtualenv 
