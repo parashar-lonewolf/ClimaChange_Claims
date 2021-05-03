@@ -97,5 +97,5 @@ We have trained 3 models each of clustered and unclustered data and run them for
 [ Political discourse network over time](./Political_Discourse_networks.ipynb)
 
 #### As an example we show you two of our Political discourse graphs generated from our annotations, from 1997 and 2002
-* ![1997](https://cdn.mathpix.com/snip/images/O2EKLh4k8jWGBAfnmEiNS5UrwBZmQ6Eaas2nF3WDSUc.original.fullsize.png)
-* ![2002](https://cdn.mathpix.com/snip/images/8x8HUCpruyxFXAzKtdOoMmpUqBD0TD83ZcehFq2zIKw.original.fullsize.png)
+* ![1997](https://cdn.mathpix.com/snip/images/h7fiBZZpLLCN4kavhD1OpNdAnB5fMlfA_l9ltIP_aSA.original.fullsize.png)
+* ![2002](https://cdn.mathpix.com/snip/images/ZLzonzwDvEXLDMZWwaODG8lsd_8rGP3j7KJmVO0DT3c.original.fullsize.png)
