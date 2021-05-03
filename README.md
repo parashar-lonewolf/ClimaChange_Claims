@@ -19,7 +19,7 @@ $ virtualenv climachange_env
 ## OR
 $ python3 -m virtualenv climachange_env 
 
-#### 2b. Add virtual emvironment to jupyter-notebook (for using the .ipynb notebooks)
+#### 2b. Add virtual environment to jupyter-notebook (for using the .ipynb notebooks)
 $ python3 -m ipykernel install --user --name=climachange_env  
 
 #### 3. Activate virtual environment
