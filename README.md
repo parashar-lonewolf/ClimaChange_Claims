@@ -78,7 +78,7 @@ and once you exit and restart, the annotation will continue from the last annota
 ## Claim classification
 All the tagged Claims are classified into 5 clusters using K-means:
 * [k-means clusering of claims](./KMeans_Claim_Custering.ipynb)
-* The output is beautifully portrayed below (also check https://claimclusters.tiiny.site/)
+* The output is portrayed below (also check https://claimclusters.tiiny.site/)
 
 ![Claim Cluster](./download.png)
 
