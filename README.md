@@ -96,7 +96,7 @@ This notebook has a functional models made using CRF as a proof of concept, sinc
 
 * [Notebook with BiLSTM without claim classification](./BiLSTM_model_tagger.ipynb)
 
-This notebook has a functional models made using CRF as a proof of concept, since we havent annoatted enough data, the model files are also available for use in [Pickles](./Pickles) folder. 
+This notebook has a functional models made using BiLSTM as a proof of concept, since we havent annoatted enough data, the model files are also available for use in [Pickles](./Pickles) folder. 
 
 ## Political discourse network
 
