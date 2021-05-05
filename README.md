@@ -92,6 +92,8 @@ All the tagged Claims are classified into 5 clusters using K-means:
 
 This notebook has a functional models made using CRF as a proof of concept, since we havent annoatted enough data, the model files are also available for use in [Pickles](./Pickles) folder. We have trained 3 models each of clustered and unclustered data and run them for 500,1000 and 1500 iterations respectively
 
+### BiLSTM Tagger
+
 * [Notebookm with BiLSTM without claim classification](./BiLSTM_model_tagger.ipynb)
 
 This notebook has a functional models made using CRF as a proof of concept, since we havent annoatted enough data, the model files are also available for use in [Pickles](./Pickles) folder. 
