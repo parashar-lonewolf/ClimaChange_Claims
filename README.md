@@ -6,7 +6,7 @@
 * [The Tagger](#the-tagger)
   * [CRF tagger](#crf-tagger)
   * [BiLSTM tagger](#bilstm-tagger)
-  * [BiLSTM+CRF tagger](#bilstm+crf-tagger)
+  * [BiLSTM-CRF tagger](#bilstm-crf-tagger)
 * [Political Discourse network](#political-discourse-network)
 
 ## Introduction
@@ -104,7 +104,7 @@ This notebook has a functional models made using CRF as a proof of concept, sinc
 
 This notebook has a functional models made using BiLSTM as a proof of concept, since we havent annoatted enough data.
 
-### BiLSTM+CRF Tagger
+### BiLSTM-CRF Tagger
 
 * [Notebook with BiLSTM+CRF with BERT tiny_2_128](./BiLSTM_CRF_model_tagger.ipynb)
 
