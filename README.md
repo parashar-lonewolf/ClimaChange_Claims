@@ -4,6 +4,8 @@
 * [The Annotator](#the-annotator)
 * [Claim classification](#claim-classification)
 * [The Tagger](#the-tagger)
+  * [CRF tagger](#crf-tagger)
+  * [BiLSTM tagger](#bilstm-tagger)
 * [Political Discourse network](#political-discourse-network)
 
 ## Introduction
@@ -82,14 +84,17 @@ All the tagged Claims are classified into 5 clusters using K-means:
 
 ![Claim Cluster](./download.png)
 
-## The tagger
-##### There are two implementations of creating a language model to predict and output our custom tags:
+## The Tagger
+
+### CRF Tagger
+
 * [Notebook with CRF tagger train/test with and without claim classification](./CRF_ActorClaim_tagger.ipynb)      
 
-This notebook has a functional models made using CRF, the model files are also available for use in [Pickles](./Pickles) folder.
-We have trained 3 models each of clustered and unclustered data and run them for 500,1000 and 1500 iterations respectively
+This notebook has a functional models made using CRF as a proof of concept, since we havent annoatted enough data, the model files are also available for use in [Pickles](./Pickles) folder. We have trained 3 models each of clustered and unclustered data and run them for 500,1000 and 1500 iterations respectively
 
+* [Notebookm with BiLSTM without claim classification](./BiLSTM_model_tagger.ipynb)
 
+This notebook has a functional models made using CRF as a proof of concept, since we havent annoatted enough data, the model files are also available for use in [Pickles](./Pickles) folder. 
 
 ## Political discourse network
 
