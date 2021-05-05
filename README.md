@@ -99,12 +99,18 @@ This notebook has a functional models made using CRF as a proof of concept, sinc
 
 ### BiLSTM Tagger
 
+The Taggers below use BERT embeddings, from here: https://github.com/google-research/bert
+1. BERT Tiny:  L=2, H=128, A=2 
+2. BERT base uncased: L=12, H=768, A=12 
+
 * [Notebook with BiLSTM with BERT_uncased_L-12_H-768_A-12](./BiLSTM_model_tagger_2.ipynb)
 * [Notebook with BiLSTM with BERT_tiny_2_128](./BiLSTM_model_tagger.ipynb)
 
 This notebook has a functional models made using BiLSTM as a proof of concept, since we havent annoatted enough data.
 
 ### BiLSTM-CRF Tagger
+
+1. BERT Tiny:  L=2, H=128, A=2 
 
 * [Notebook with BiLSTM+CRF with BERT tiny_2_128](./BiLSTM_CRF_model_tagger.ipynb)
 
