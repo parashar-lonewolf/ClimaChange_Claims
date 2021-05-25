@@ -80,6 +80,7 @@ and once you exit and restart, the annotation will continue from the last annota
 
 #### ConLL annotated data format and example
    * ConLL format used: (Using above output as example)
+   * CURRENT ARTICLE NUMBE| TOTAL NO OF ARTICLES| TOTAL NO OF LINES IN CURRENT ARTICLES| CURRENT LINE NO IN ARTICLE| NO OF VALID CANDIDATE SENTENCES FOUND
 ![ConLL data](https://cdn.mathpix.com/snip/images/ISh58Vf9Pjm1wCk7pLkf3iJZJ7GNBoREzK1GpfNsMBs.original.fullsize.png)
 
 ## Claim classification
