@@ -80,7 +80,7 @@ and once you exit and restart, the annotation will continue from the last annota
 
 #### ConLL annotated data format and example
    * ConLL format used: (Using above output as example)
-   * Token no in sent | Fine-grained tag | Token entity type | token Relation | Actor-Claim-O tag | (optional)(+/-) supports/opposes
+   * FORMAT: Token no in sent | Fine-grained tag | Token entity type | token Relation | Actor-Claim-O tag | (optional)(+/-) supports/opposes
 ![ConLL data](https://cdn.mathpix.com/snip/images/ISh58Vf9Pjm1wCk7pLkf3iJZJ7GNBoREzK1GpfNsMBs.original.fullsize.png)
 
 ## Claim classification
